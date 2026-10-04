@@ -1,5 +1,50 @@
 [
   {
+    "description": "HandCode keeps a coding agent's work safe across crashes, restarts and provider switches. A resumed run never repeats a ",
+    "id": "csdeepak/HandCode",
+    "language": "Python",
+    "name": "csdeepak/HandCode",
+    "stars": 0,
+    "updated_at": "2026-10-04T20:48:17Z",
+    "url": "https://github.com/csdeepak/HandCode"
+  },
+  {
+    "description": "20 Claude Code plugins for ML engineering and AI operations",
+    "id": "HermeticOrmus/LibreMLOps-Claude-Code",
+    "language": "Shell",
+    "name": "HermeticOrmus/LibreMLOps-Claude-Code",
+    "stars": 0,
+    "updated_at": "2026-10-04T20:47:52Z",
+    "url": "https://github.com/HermeticOrmus/LibreMLOps-Claude-Code"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-04T20:46:17Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Mutation testing for your LLM evals \u2014 degrade the system under test and check whether your evals would actually catch a ",
+    "id": "AshwinUgale/muteval",
+    "language": "Python",
+    "name": "AshwinUgale/muteval",
+    "stars": 9,
+    "updated_at": "2026-10-04T20:49:39Z",
+    "url": "https://github.com/AshwinUgale/muteval"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-04T20:45:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
     "id": "pom11/hscc",
     "language": "Python",
@@ -81,15 +126,6 @@
     "url": "https://github.com/Masterplanner25/aindy-runtime"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-04T20:39:06Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Self-hosted workspace for writing, versioning, testing, and evaluating AI prompts. Bring your own LLM provider like Open",
     "id": "chrysogonus/prompt-maker-studio",
     "language": "Python",
@@ -126,15 +162,6 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-04T20:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Classify user feedback into positive, negative, or neutral categories using an automated machine learning pipeline and F",
     "id": "Traciewheelless86/sentiment-analysis-nlp-api",
     "language": "Python",
@@ -151,6 +178,15 @@
     "stars": 0,
     "updated_at": "2026-10-04T20:29:02Z",
     "url": "https://github.com/acr3463/systemprompt-demo"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22374,
+    "updated_at": "2026-10-04T20:28:38Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Execute Roblox Lua scripts on Windows with this compact, keyless runner featuring a built-in library of over 500 scripts",
@@ -232,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-10-04T20:19:05Z",
     "url": "https://github.com/Healthful-article791/rag-systems-production"
-  },
-  {
-    "description": "HandCode keeps a coding agent's work safe across crashes, restarts and provider switches. A resumed run never repeats a ",
-    "id": "csdeepak/HandCode",
-    "language": "Python",
-    "name": "csdeepak/HandCode",
-    "stars": 0,
-    "updated_at": "2026-10-04T20:17:45Z",
-    "url": "https://github.com/csdeepak/HandCode"
   },
   {
     "description": "Every model call through one library: raw-HTTP provider adapters, a cost ledger row and an OpenTelemetry span per call, ",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-04T20:04:58Z",
     "url": "https://github.com/Kokotpica/surogate"
-  },
-  {
-    "description": "\ud83d\udcca Build an interactive analytics dashboard with Spring Boot and JavaScript, featuring real-time data updates and advance",
-    "id": "bharion1/analytics-dashboard",
-    "language": "\u2014",
-    "name": "bharion1/analytics-dashboard",
-    "stars": 0,
-    "updated_at": "2026-10-04T20:04:42Z",
-    "url": "https://github.com/bharion1/analytics-dashboard"
-  },
-  {
-    "description": "\ud83d\ude80 Build with the Langfuse Go SDK to enhance your applications using Langfuse's open-source LLM engineering platform.",
-    "id": "sedai194443/langfuse-go",
-    "language": "Go",
-    "name": "sedai194443/langfuse-go",
-    "stars": 1,
-    "updated_at": "2026-10-04T20:03:41Z",
-    "url": "https://github.com/sedai194443/langfuse-go"
-  },
-  {
-    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
-    "id": "richardpapiona9/llm",
-    "language": "JavaScript",
-    "name": "richardpapiona9/llm",
-    "stars": 0,
-    "updated_at": "2026-10-04T19:57:38Z",
-    "url": "https://github.com/richardpapiona9/llm"
   }
 ]
