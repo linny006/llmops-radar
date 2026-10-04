@@ -1,21 +1,21 @@
 [
   {
-    "description": "Prompt optimization and benchmarking for local LLMs: picks the right prompt technique for your task and measures it on O",
-    "id": "KazKozDev/prompt-playoff",
+    "description": "Self-hosted workspace for writing, versioning, testing, and evaluating AI prompts. Bring your own LLM provider like Open",
+    "id": "chrysogonus/prompt-maker-studio",
     "language": "Python",
-    "name": "KazKozDev/prompt-playoff",
+    "name": "chrysogonus/prompt-maker-studio",
     "stars": 2,
-    "updated_at": "2026-10-04T15:14:44Z",
-    "url": "https://github.com/KazKozDev/prompt-playoff"
+    "updated_at": "2026-10-04T15:29:34Z",
+    "url": "https://github.com/chrysogonus/prompt-maker-studio"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 24,
-    "updated_at": "2026-10-04T15:12:03Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
+    "description": "HandCode keeps a coding agent's work safe across crashes, restarts and provider switches. A resumed run never repeats a ",
+    "id": "csdeepak/HandCode",
+    "language": "Python",
+    "name": "csdeepak/HandCode",
+    "stars": 0,
+    "updated_at": "2026-10-04T15:28:20Z",
+    "url": "https://github.com/csdeepak/HandCode"
   },
   {
     "description": "\u5927\u6a21\u578b\u8fd0\u7ef4\u5de5\u7a0b\u5e08\u7cfb\u7edf\u5b66\u4e60\u5347\u7ea7\u6253\u602a\u4e4b\u8def",
@@ -23,8 +23,35 @@
     "language": "JavaScript",
     "name": "Janlegenddry/LLMOpsGuide",
     "stars": 0,
-    "updated_at": "2026-10-04T15:11:04Z",
+    "updated_at": "2026-10-04T15:24:37Z",
     "url": "https://github.com/Janlegenddry/LLMOpsGuide"
+  },
+  {
+    "description": "Series of blog posts and supporting code for D.E. for AI",
+    "id": "madhav692/data-engineering-for-ai",
+    "language": "Python",
+    "name": "madhav692/data-engineering-for-ai",
+    "stars": 0,
+    "updated_at": "2026-10-04T15:24:10Z",
+    "url": "https://github.com/madhav692/data-engineering-for-ai"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2919,
+    "updated_at": "2026-10-04T15:23:52Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "The platform for continuously improving AI agents.",
+    "id": "overmind-core/overmind",
+    "language": "Python",
+    "name": "overmind-core/overmind",
+    "stars": 327,
+    "updated_at": "2026-10-04T15:23:25Z",
+    "url": "https://github.com/overmind-core/overmind"
   },
   {
     "description": "Agentic Runtime",
@@ -32,8 +59,44 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 41,
-    "updated_at": "2026-10-04T15:10:03Z",
+    "updated_at": "2026-10-04T15:23:08Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28252,
+    "updated_at": "2026-10-04T15:24:05Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 24,
+    "updated_at": "2026-10-04T15:20:07Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-04T15:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Prompt optimization and benchmarking for local LLMs: picks the right prompt technique for your task and measures it on O",
+    "id": "KazKozDev/prompt-playoff",
+    "language": "Python",
+    "name": "KazKozDev/prompt-playoff",
+    "stars": 2,
+    "updated_at": "2026-10-04T15:14:44Z",
+    "url": "https://github.com/KazKozDev/prompt-playoff"
   },
   {
     "description": "Token usage tracker for multi-agent AI sessions",
@@ -59,7 +122,7 @@
     "language": "Python",
     "name": "Chris0Jeky/agent-harness",
     "stars": 1,
-    "updated_at": "2026-10-04T15:08:14Z",
+    "updated_at": "2026-10-04T15:20:52Z",
     "url": "https://github.com/Chris0Jeky/agent-harness"
   },
   {
@@ -97,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-10-04T15:05:31Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-04T15:00:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "An open source workflow engine for agent-driven software factories.",
@@ -149,7 +203,7 @@
     "language": "Rust",
     "name": "TAIPANBOX/tokenfuse",
     "stars": 1,
-    "updated_at": "2026-10-04T14:40:50Z",
+    "updated_at": "2026-10-04T15:18:41Z",
     "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
@@ -169,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-10-04T14:34:26Z",
     "url": "https://github.com/Permed-lizard3456/ActionGuard"
-  },
-  {
-    "description": "HandCode keeps a coding agent's work safe across crashes, restarts and provider switches. A resumed run never repeats a ",
-    "id": "csdeepak/HandCode",
-    "language": "Python",
-    "name": "csdeepak/HandCode",
-    "stars": 0,
-    "updated_at": "2026-10-04T14:34:16Z",
-    "url": "https://github.com/csdeepak/HandCode"
   },
   {
     "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
@@ -297,15 +342,6 @@
     "url": "https://github.com/Healthful-article791/rag-systems-production"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2919,
-    "updated_at": "2026-10-04T14:17:11Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
@@ -401,7 +437,7 @@
     "language": "Python",
     "name": "delivstat/swarmkit",
     "stars": 3,
-    "updated_at": "2026-10-04T14:11:46Z",
+    "updated_at": "2026-10-04T15:23:37Z",
     "url": "https://github.com/delivstat/swarmkit"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-04T14:11:16Z",
     "url": "https://github.com/FawwazAzka/openclaw-docs"
-  },
-  {
-    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
-    "id": "developersofik/greenprompt",
-    "language": "TypeScript",
-    "name": "developersofik/greenprompt",
-    "stars": 0,
-    "updated_at": "2026-10-04T14:08:55Z",
-    "url": "https://github.com/developersofik/greenprompt"
-  },
-  {
-    "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
-    "id": "Alexreye/advance-nlp-generative-ai",
-    "language": "\u2014",
-    "name": "Alexreye/advance-nlp-generative-ai",
-    "stars": 1,
-    "updated_at": "2026-10-04T14:06:01Z",
-    "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
-  },
-  {
-    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
-    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "language": "\u2014",
-    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "stars": 0,
-    "updated_at": "2026-10-04T14:03:57Z",
-    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "\ud83d\ude80 Accelerate large language model training and fine-tuning with Surogate\u2019s high-performance, mixed-precision framework i",
-    "id": "Kokotpica/surogate",
-    "language": "C++",
-    "name": "Kokotpica/surogate",
-    "stars": 2,
-    "updated_at": "2026-10-04T14:03:40Z",
-    "url": "https://github.com/Kokotpica/surogate"
   }
 ]
