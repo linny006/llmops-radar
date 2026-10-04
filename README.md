@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-04 17:45 UTC
+> ⏰ Last updated: 2026-10-04 17:47 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,15 +42,15 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [api-evangelist/evidently](https://github.com/api-evangelist/evidently) | 0 | — | 2026-10-04 | Evidently AI — independent third-party profile of a public API surface, by API Evangelist. Evidently AI is an open-sourc |
-| 2 | [zuman88/azure-ai-gateway-cost-attribution](https://github.com/zuman88/azure-ai-gateway-cost-attribution) | 0 | HCL | 2026-10-04 | Azure API Management as a centralised AI Gateway for Microsoft Foundry and Azure OpenAI models, with per-application cos |
-| 3 | [api-evangelist/dify](https://github.com/api-evangelist/dify) | 0 | — | 2026-10-04 | Dify — independent third-party profile of a public API surface, by API Evangelist. Dify is an open-source platform for b |
-| 4 | [srjn45/warden](https://github.com/srjn45/warden) | 2 | Go | 2026-10-04 | Run a fleet of Claude Code agents from one Go binary — spawn, monitor, and tear them down in isolated git worktrees, tra |
-| 5 | [samarthputhraya/Modelpin](https://github.com/samarthputhraya/Modelpin) | 1 | Python | 2026-10-04 | Dependabot for AI models — replay your app's scenarios across a model migration and catch real behavioral regressions be |
-| 6 | [api-evangelist/comet](https://github.com/api-evangelist/comet) | 0 | — | 2026-10-04 | Comet — independent third-party profile of a public API surface, by API Evangelist. Comet is an enterprise AI/ML develop |
-| 7 | [chrysogonus/prompt-maker-studio](https://github.com/chrysogonus/prompt-maker-studio) | 2 | Python | 2026-10-04 | Self-hosted workspace for writing, versioning, testing, and evaluating AI prompts. Bring your own LLM provider like Open |
-| 8 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-04 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 9 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 41 | Go | 2026-10-04 | Agentic Runtime |
+| 1 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 41 | Go | 2026-10-04 | Agentic Runtime |
+| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-04 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 3 | [api-evangelist/evidently](https://github.com/api-evangelist/evidently) | 0 | — | 2026-10-04 | Evidently AI — independent third-party profile of a public API surface, by API Evangelist. Evidently AI is an open-sourc |
+| 4 | [zuman88/azure-ai-gateway-cost-attribution](https://github.com/zuman88/azure-ai-gateway-cost-attribution) | 0 | HCL | 2026-10-04 | Azure API Management as a centralised AI Gateway for Microsoft Foundry and Azure OpenAI models, with per-application cos |
+| 5 | [api-evangelist/dify](https://github.com/api-evangelist/dify) | 0 | — | 2026-10-04 | Dify — independent third-party profile of a public API surface, by API Evangelist. Dify is an open-source platform for b |
+| 6 | [srjn45/warden](https://github.com/srjn45/warden) | 2 | Go | 2026-10-04 | Run a fleet of Claude Code agents from one Go binary — spawn, monitor, and tear them down in isolated git worktrees, tra |
+| 7 | [samarthputhraya/Modelpin](https://github.com/samarthputhraya/Modelpin) | 1 | Python | 2026-10-04 | Dependabot for AI models — replay your app's scenarios across a model migration and catch real behavioral regressions be |
+| 8 | [api-evangelist/comet](https://github.com/api-evangelist/comet) | 0 | — | 2026-10-04 | Comet — independent third-party profile of a public API surface, by API Evangelist. Comet is an enterprise AI/ML develop |
+| 9 | [chrysogonus/prompt-maker-studio](https://github.com/chrysogonus/prompt-maker-studio) | 2 | Python | 2026-10-04 | Self-hosted workspace for writing, versioning, testing, and evaluating AI prompts. Bring your own LLM provider like Open |
 | 10 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-10-04 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
 | 11 | [pom11/hscc](https://github.com/pom11/hscc) | 5 | Python | 2026-10-04 | Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents — cluster control, role-specialized worke |
 | 12 | [mloda-ai/mloda](https://github.com/mloda-ai/mloda) | 94 | Python | 2026-10-04 | mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic. |
