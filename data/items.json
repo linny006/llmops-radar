@@ -1,5 +1,95 @@
 [
   {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-04T21:58:24Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
+    "id": "srjn45/warden",
+    "language": "Go",
+    "name": "srjn45/warden",
+    "stars": 2,
+    "updated_at": "2026-10-04T22:00:25Z",
+    "url": "https://github.com/srjn45/warden"
+  },
+  {
+    "description": "Self-hosted AI gateway in one Rust binary: OpenAI- and Anthropic-compatible API, routing with fallbacks, budgets, rate l",
+    "id": "techgopal/ultrafast-ai-gateway",
+    "language": "Rust",
+    "name": "techgopal/ultrafast-ai-gateway",
+    "stars": 21,
+    "updated_at": "2026-10-04T21:58:14Z",
+    "url": "https://github.com/techgopal/ultrafast-ai-gateway"
+  },
+  {
+    "description": "Your agent still returns the right answer -- but now it calls 3x the tools. Maida is the pre-merge behavioral regression",
+    "id": "maida-ai/maida",
+    "language": "Python",
+    "name": "maida-ai/maida",
+    "stars": 31,
+    "updated_at": "2026-10-04T21:53:45Z",
+    "url": "https://github.com/maida-ai/maida"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-04T21:53:39Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "How to run LLM agents in production, learned from the times they broke",
+    "id": "redikultsev/awesome-agents-in-production",
+    "language": "\u2014",
+    "name": "redikultsev/awesome-agents-in-production",
+    "stars": 0,
+    "updated_at": "2026-10-04T21:50:56Z",
+    "url": "https://github.com/redikultsev/awesome-agents-in-production"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-10-04T21:50:29Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "Fail-closed CI checks for truncated agent runs, null handoffs, and open MCP tools.",
+    "id": "homayoun-safarpour/homi-gate",
+    "language": "Python",
+    "name": "homayoun-safarpour/homi-gate",
+    "stars": 0,
+    "updated_at": "2026-10-04T21:49:43Z",
+    "url": "https://github.com/homayoun-safarpour/homi-gate"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 82,
+    "updated_at": "2026-10-04T21:47:28Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-04T21:45:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "An open source workflow engine for agent-driven software factories.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
@@ -18,24 +108,6 @@
     "url": "https://github.com/vivek-541/vivek-541"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-04T21:43:55Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-04T21:42:07Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
     "description": "Analyze a coding session log and report repeated tool calls, loops that went nowhere, and turns that blew the token budg",
     "id": "yunaremaia/agent-call-graph",
     "language": "Python",
@@ -43,24 +115,6 @@
     "stars": 0,
     "updated_at": "2026-10-04T21:41:48Z",
     "url": "https://github.com/yunaremaia/agent-call-graph"
-  },
-  {
-    "description": "Fail-closed CI checks for truncated agent runs, null handoffs, and open MCP tools.",
-    "id": "homayoun-safarpour/homi-gate",
-    "language": "Python",
-    "name": "homayoun-safarpour/homi-gate",
-    "stars": 0,
-    "updated_at": "2026-10-04T21:41:01Z",
-    "url": "https://github.com/homayoun-safarpour/homi-gate"
-  },
-  {
-    "description": "How to run LLM agents in production, learned from the times they broke",
-    "id": "redikultsev/awesome-agents-in-production",
-    "language": "\u2014",
-    "name": "redikultsev/awesome-agents-in-production",
-    "stars": 0,
-    "updated_at": "2026-10-04T21:36:43Z",
-    "url": "https://github.com/redikultsev/awesome-agents-in-production"
   },
   {
     "description": "Policy-aware security gateway for LLM and agent workflows",
@@ -72,30 +126,12 @@
     "url": "https://github.com/Yash-Chindam/llm-security-agent-guardrail-gateway"
   },
   {
-    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
-    "id": "srjn45/warden",
-    "language": "Go",
-    "name": "srjn45/warden",
-    "stars": 2,
-    "updated_at": "2026-10-04T21:44:43Z",
-    "url": "https://github.com/srjn45/warden"
-  },
-  {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-10-04T21:38:45Z",
-    "url": "https://github.com/redevops-io/agentic-os"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25703,
-    "updated_at": "2026-10-04T21:33:18Z",
+    "stars": 25704,
+    "updated_at": "2026-10-04T21:56:43Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -117,15 +153,6 @@
     "url": "https://github.com/domondi1/inferrail"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-04T21:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Enterprise multimodal RAG QA for cosmetics knowledge: hybrid BM25/BGE/CLIP retrieval, reranking, evidence gating, RBAC, ",
     "id": "Xander-Xai/Beauty-Industry-RAG-QA-System",
     "language": "Python",
@@ -140,7 +167,7 @@
     "language": "Python",
     "name": "Furox-Art/quantum-reasoning-skill",
     "stars": 0,
-    "updated_at": "2026-10-04T21:19:41Z",
+    "updated_at": "2026-10-04T21:57:03Z",
     "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
   },
   {
@@ -149,7 +176,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 60129,
-    "updated_at": "2026-10-04T21:39:26Z",
+    "updated_at": "2026-10-04T21:47:09Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -311,7 +338,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22375,
-    "updated_at": "2026-10-04T21:40:13Z",
+    "updated_at": "2026-10-04T21:45:57Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-04T20:15:32Z",
     "url": "https://github.com/jagadishmazure-jpg/Jagadish-azure-agent-platform"
-  },
-  {
-    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
-    "id": "wahhyun/llm-eval",
-    "language": "C++",
-    "name": "wahhyun/llm-eval",
-    "stars": 1,
-    "updated_at": "2026-10-04T20:15:07Z",
-    "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
-    "id": "Anbumani08/agentic-coding-workflow",
-    "language": "HTML",
-    "name": "Anbumani08/agentic-coding-workflow",
-    "stars": 0,
-    "updated_at": "2026-10-04T20:15:06Z",
-    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
-  },
-  {
-    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
-    "id": "kawaiirashi/llm-retry",
-    "language": "C++",
-    "name": "kawaiirashi/llm-retry",
-    "stars": 1,
-    "updated_at": "2026-10-04T20:15:06Z",
-    "url": "https://github.com/kawaiirashi/llm-retry"
   }
 ]
