@@ -1,12 +1,30 @@
 [
   {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
+    "id": "srjn45/warden",
     "language": "Go",
-    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "name": "srjn45/warden",
+    "stars": 2,
+    "updated_at": "2026-10-04T11:29:52Z",
+    "url": "https://github.com/srjn45/warden"
+  },
+  {
+    "description": "Governed multi-agent research platform on MCP \u2014 policy-as-code authorization, tenant isolation, evidence-backed claims, ",
+    "id": "Yash-Chindam/secure-mcp-multi-agent-research-platform",
+    "language": "Python",
+    "name": "Yash-Chindam/secure-mcp-multi-agent-research-platform",
+    "stars": 0,
+    "updated_at": "2026-10-04T11:30:25Z",
+    "url": "https://github.com/Yash-Chindam/secure-mcp-multi-agent-research-platform"
+  },
+  {
+    "description": "Drop-in LLM proxy that cuts AI API costs 30-40% with semantic caching, cost-aware routing and multi-provider failover.",
+    "id": "Prathamg042004/tokensave",
+    "language": "TypeScript",
+    "name": "Prathamg042004/tokensave",
     "stars": 1,
-    "updated_at": "2026-10-04T11:15:11Z",
-    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
+    "updated_at": "2026-10-04T11:29:20Z",
+    "url": "https://github.com/Prathamg042004/tokensave"
   },
   {
     "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
@@ -14,7 +32,7 @@
     "language": "Python",
     "name": "brutal-45/Nexus-LLM",
     "stars": 0,
-    "updated_at": "2026-10-04T11:11:40Z",
+    "updated_at": "2026-10-04T11:26:43Z",
     "url": "https://github.com/brutal-45/Nexus-LLM"
   },
   {
@@ -22,9 +40,72 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 8094,
-    "updated_at": "2026-10-04T11:11:05Z",
+    "stars": 8097,
+    "updated_at": "2026-10-04T11:26:17Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Reference deployment of a governed AI stack: LLM gateway, MCP evidence server and multi-agent service as hardened contai",
+    "id": "flam7791/governed-ai-platform",
+    "language": "Python",
+    "name": "flam7791/governed-ai-platform",
+    "stars": 0,
+    "updated_at": "2026-10-04T11:22:33Z",
+    "url": "https://github.com/flam7791/governed-ai-platform"
+  },
+  {
+    "description": "31 hands-on, production-grade agentic AI engineering projects built from scratch \u2014 AI agents, RAG, LLMOps, guardrails, e",
+    "id": "gmaheshraju/Hands-on-AgenticAI",
+    "language": "JavaScript",
+    "name": "gmaheshraju/Hands-on-AgenticAI",
+    "stars": 0,
+    "updated_at": "2026-10-04T11:21:45Z",
+    "url": "https://github.com/gmaheshraju/Hands-on-AgenticAI"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "language": "Go",
+    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-10-04T11:30:20Z",
+    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
+  },
+  {
+    "description": "Effect-safety and cost control plane for long-running LLM agents. A crashed agent never commits twice \u2014 verified at nine",
+    "id": "csdeepak/HandCode",
+    "language": "Python",
+    "name": "csdeepak/HandCode",
+    "stars": 0,
+    "updated_at": "2026-10-04T11:20:50Z",
+    "url": "https://github.com/csdeepak/HandCode"
+  },
+  {
+    "description": "Policy-aware security gateway for LLM and agent workflows",
+    "id": "Yash-Chindam/llm-security-agent-guardrail-gateway",
+    "language": "Python",
+    "name": "Yash-Chindam/llm-security-agent-guardrail-gateway",
+    "stars": 0,
+    "updated_at": "2026-10-04T11:20:13Z",
+    "url": "https://github.com/Yash-Chindam/llm-security-agent-guardrail-gateway"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 29,
+    "updated_at": "2026-10-04T11:17:59Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-04T11:15:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Production local-LLM inference gateway with policy-aware routing and delivery automation",
@@ -41,7 +122,7 @@
     "language": "Python",
     "name": "Yash-Chindam/self-optimizing-production-rag-platform",
     "stars": 0,
-    "updated_at": "2026-10-04T11:10:03Z",
+    "updated_at": "2026-10-04T11:26:07Z",
     "url": "https://github.com/Yash-Chindam/self-optimizing-production-rag-platform"
   },
   {
@@ -50,17 +131,8 @@
     "language": "Go",
     "name": "rknightion/genai-otel-bridge",
     "stars": 1,
-    "updated_at": "2026-10-04T11:10:41Z",
+    "updated_at": "2026-10-04T11:28:36Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
-    "description": "31 hands-on, production-grade agentic AI engineering projects built from scratch \u2014 AI agents, RAG, LLMOps, guardrails, e",
-    "id": "gmaheshraju/Hands-on-AgenticAI",
-    "language": "JavaScript",
-    "name": "gmaheshraju/Hands-on-AgenticAI",
-    "stars": 0,
-    "updated_at": "2026-10-04T11:05:57Z",
-    "url": "https://github.com/gmaheshraju/Hands-on-AgenticAI"
   },
   {
     "description": "Static analysis of AI agent session logs \u2014 detect wasteful tool call patterns, circular reasoning, and budget anomalies ",
@@ -77,26 +149,8 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 82,
-    "updated_at": "2026-10-04T11:04:43Z",
+    "updated_at": "2026-10-04T11:17:11Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Effect-safety and cost control plane for long-running LLM agents. A crashed agent never commits twice \u2014 verified at nine",
-    "id": "csdeepak/HandCode",
-    "language": "Python",
-    "name": "csdeepak/HandCode",
-    "stars": 0,
-    "updated_at": "2026-10-04T11:00:36Z",
-    "url": "https://github.com/csdeepak/HandCode"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-04T11:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
@@ -135,15 +189,6 @@
     "url": "https://github.com/vansh-09/Blackbox"
   },
   {
-    "description": "Policy-aware security gateway for LLM and agent workflows",
-    "id": "Yash-Chindam/llm-security-agent-guardrail-gateway",
-    "language": "Python",
-    "name": "Yash-Chindam/llm-security-agent-guardrail-gateway",
-    "stars": 0,
-    "updated_at": "2026-10-04T11:14:26Z",
-    "url": "https://github.com/Yash-Chindam/llm-security-agent-guardrail-gateway"
-  },
-  {
     "description": "Portkey Admin API control-plane MCP server with Prisma AIRS interoperability guidance",
     "id": "CodesWhat/portkey-admin-mcp",
     "language": "TypeScript",
@@ -176,7 +221,7 @@
     "language": "Python",
     "name": "samarthputhraya/Modelpin",
     "stars": 1,
-    "updated_at": "2026-10-04T10:48:43Z",
+    "updated_at": "2026-10-04T11:28:52Z",
     "url": "https://github.com/samarthputhraya/Modelpin"
   },
   {
@@ -185,7 +230,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-04T11:03:35Z",
+    "updated_at": "2026-10-04T11:17:11Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -243,15 +288,6 @@
     "url": "https://github.com/runcycles/cycles-client-typescript"
   },
   {
-    "description": "Reference deployment of a governed AI stack: LLM gateway, MCP evidence server and multi-agent service as hardened contai",
-    "id": "flam7791/governed-ai-platform",
-    "language": "Python",
-    "name": "flam7791/governed-ai-platform",
-    "stars": 0,
-    "updated_at": "2026-10-04T10:37:53Z",
-    "url": "https://github.com/flam7791/governed-ai-platform"
-  },
-  {
     "description": "Internal LLM gateway: routes each request to the cheapest adequate model (Claude, Azure OpenAI or a local open-weight mo",
     "id": "flam7791/governed-llm-gateway",
     "language": "Python",
@@ -266,7 +302,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 60118,
-    "updated_at": "2026-10-04T11:13:06Z",
+    "updated_at": "2026-10-04T11:27:35Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -275,7 +311,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25694,
-    "updated_at": "2026-10-04T11:06:59Z",
+    "updated_at": "2026-10-04T11:18:51Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -383,7 +419,7 @@
     "language": "Python",
     "name": "delivstat/swarmkit",
     "stars": 3,
-    "updated_at": "2026-10-04T09:41:30Z",
+    "updated_at": "2026-10-04T11:30:38Z",
     "url": "https://github.com/delivstat/swarmkit"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-04T09:18:59Z",
     "url": "https://github.com/Permed-lizard3456/ActionGuard"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 94,
-    "updated_at": "2026-10-04T10:29:04Z",
-    "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-04T09:17:09Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Classify user feedback into positive, negative, or neutral categories using an automated machine learning pipeline and F",
-    "id": "Traciewheelless86/sentiment-analysis-nlp-api",
-    "language": "Python",
-    "name": "Traciewheelless86/sentiment-analysis-nlp-api",
-    "stars": 0,
-    "updated_at": "2026-10-04T09:16:16Z",
-    "url": "https://github.com/Traciewheelless86/sentiment-analysis-nlp-api"
-  },
-  {
-    "description": "Manage Claude Desktop and Claude Cowork through an audited gateway with full visibility into prompts, tool calls, and co",
-    "id": "acr3463/systemprompt-demo",
-    "language": "\u2014",
-    "name": "acr3463/systemprompt-demo",
-    "stars": 0,
-    "updated_at": "2026-10-04T09:15:51Z",
-    "url": "https://github.com/acr3463/systemprompt-demo"
   }
 ]
