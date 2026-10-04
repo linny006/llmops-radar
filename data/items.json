@@ -1,5 +1,50 @@
 [
   {
+    "description": "GenAI governance and AI agent launch-readiness framework with golden evals, risk gates, automation boundaries, human esc",
+    "id": "charliechenye/OpenEvalGate",
+    "language": "Python",
+    "name": "charliechenye/OpenEvalGate",
+    "stars": 1,
+    "updated_at": "2026-10-04T07:42:53Z",
+    "url": "https://github.com/charliechenye/OpenEvalGate"
+  },
+  {
+    "description": "Evidence-backed improvement proposals for AI agents.",
+    "id": "vittorfp/agent-change-proposals",
+    "language": "Python",
+    "name": "vittorfp/agent-change-proposals",
+    "stars": 0,
+    "updated_at": "2026-10-04T07:41:00Z",
+    "url": "https://github.com/vittorfp/agent-change-proposals"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 29,
+    "updated_at": "2026-10-04T07:31:06Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60112,
+    "updated_at": "2026-10-04T07:42:48Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-04T07:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Governed AI pipelines for service businesses. Deterministic-first, single Go binary, operator-approved.",
     "id": "renezander030/draftcat",
     "language": "Go",
@@ -77,7 +122,7 @@
     "language": "Python",
     "name": "delivstat/swarmkit",
     "stars": 3,
-    "updated_at": "2026-10-04T07:22:13Z",
+    "updated_at": "2026-10-04T07:35:38Z",
     "url": "https://github.com/delivstat/swarmkit"
   },
   {
@@ -88,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-04T07:20:25Z",
     "url": "https://github.com/rupeshpoojary9/awesome-llm-evals"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60111,
-    "updated_at": "2026-10-04T07:28:03Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
@@ -115,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-10-04T07:15:44Z",
     "url": "https://github.com/Fauniethermal3522/agentic-dart"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-04T07:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
@@ -302,7 +329,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4911,
-    "updated_at": "2026-10-04T07:07:36Z",
+    "updated_at": "2026-10-04T07:42:53Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -347,7 +374,7 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 41,
-    "updated_at": "2026-10-04T07:18:45Z",
+    "updated_at": "2026-10-04T07:39:27Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -392,7 +419,7 @@
     "language": "Go",
     "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "stars": 1,
-    "updated_at": "2026-10-04T07:15:20Z",
+    "updated_at": "2026-10-04T07:32:21Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
   },
   {
@@ -400,7 +427,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25687,
+    "stars": 25688,
     "updated_at": "2026-10-04T06:26:12Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -421,32 +448,5 @@
     "stars": 8544,
     "updated_at": "2026-10-04T06:20:06Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Local-first LLM gateway for codex / hermes / Claude Code: bytes go upstream unchanged, the prompt cache keeps hitting, a",
-    "id": "flyer103/vadis",
-    "language": "Rust",
-    "name": "flyer103/vadis",
-    "stars": 0,
-    "updated_at": "2026-10-04T06:17:01Z",
-    "url": "https://github.com/flyer103/vadis"
-  },
-  {
-    "description": "AI agent governance dashboard for Cycles \u2014 budgets, action authority, tenants, webhooks, reservations, audit",
-    "id": "runcycles/cycles-dashboard",
-    "language": "TypeScript",
-    "name": "runcycles/cycles-dashboard",
-    "stars": 0,
-    "updated_at": "2026-10-04T06:15:48Z",
-    "url": "https://github.com/runcycles/cycles-dashboard"
-  },
-  {
-    "description": "Zero-dependency regression tester for LLM prompts: assertions, baselines, offline mock mode, CI exit codes.",
-    "id": "Waqas-Ai-Engineer/prompt-regression-guard",
-    "language": "Python",
-    "name": "Waqas-Ai-Engineer/prompt-regression-guard",
-    "stars": 0,
-    "updated_at": "2026-10-04T06:12:56Z",
-    "url": "https://github.com/Waqas-Ai-Engineer/prompt-regression-guard"
   }
 ]
