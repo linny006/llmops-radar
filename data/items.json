@@ -1,12 +1,12 @@
 [
   {
-    "description": "Local-first tracer and efficiency profiler for AI agents",
-    "id": "TommyTranX/traceburn",
-    "language": "Python",
-    "name": "TommyTranX/traceburn",
-    "stars": 2,
-    "updated_at": "2026-10-04T23:47:00Z",
-    "url": "https://github.com/TommyTranX/traceburn"
+    "description": "LLM observability and evals in a single binary: traces, prompts, datasets, scores and review queues for LLM and agent ap",
+    "id": "tracepad/tracepad",
+    "language": "Go",
+    "name": "tracepad/tracepad",
+    "stars": 0,
+    "updated_at": "2026-10-05T00:00:09Z",
+    "url": "https://github.com/tracepad/tracepad"
   },
   {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
@@ -14,8 +14,35 @@
     "language": "Python",
     "name": "pom11/hscc",
     "stars": 5,
-    "updated_at": "2026-10-04T23:46:22Z",
+    "updated_at": "2026-10-04T23:58:13Z",
     "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
+    "id": "judgekeeper/judgekeeper",
+    "language": "Python",
+    "name": "judgekeeper/judgekeeper",
+    "stars": 0,
+    "updated_at": "2026-10-04T23:56:03Z",
+    "url": "https://github.com/judgekeeper/judgekeeper"
+  },
+  {
+    "description": "Local-first tracer and efficiency profiler for AI agents",
+    "id": "TommyTranX/traceburn",
+    "language": "Python",
+    "name": "TommyTranX/traceburn",
+    "stars": 2,
+    "updated_at": "2026-10-04T23:48:10Z",
+    "url": "https://github.com/TommyTranX/traceburn"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-04T23:48:05Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Agentic Runtime",
@@ -36,15 +63,6 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-04T23:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "ZenML \u2014 independent third-party profile of a public API surface, by API Evangelist. ZenML is an open-source MLOps and LL",
     "id": "api-evangelist/zenml",
     "language": "\u2014",
@@ -59,7 +77,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-04T23:41:24Z",
+    "updated_at": "2026-10-04T23:48:07Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -70,6 +88,15 @@
     "stars": 4,
     "updated_at": "2026-10-04T23:41:01Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22377,
+    "updated_at": "2026-10-04T23:39:56Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "GitHub Action for LLM migration and regression testing \u2014 runs your golden suite on every PR and fails the check on model",
@@ -88,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-10-04T23:37:46Z",
     "url": "https://github.com/api-evangelist/seldon"
-  },
-  {
-    "description": "LLM observability and evals in a single binary: traces, prompts, datasets, scores and review queues for LLM and agent ap",
-    "id": "tracepad/tracepad",
-    "language": "Go",
-    "name": "tracepad/tracepad",
-    "stars": 0,
-    "updated_at": "2026-10-04T23:36:46Z",
-    "url": "https://github.com/tracepad/tracepad"
   },
   {
     "description": "Arize Phoenix \u2014 independent third-party profile of a public API surface, by API Evangelist. Arize Phoenix is an open-sou",
@@ -275,7 +293,7 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-04T23:46:18Z",
+    "updated_at": "2026-10-04T23:59:31Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-04T23:08:09Z",
     "url": "https://github.com/Kokotpica/surogate"
-  },
-  {
-    "description": "\ud83d\udcca Build an interactive analytics dashboard with Spring Boot and JavaScript, featuring real-time data updates and advance",
-    "id": "bharion1/analytics-dashboard",
-    "language": "\u2014",
-    "name": "bharion1/analytics-dashboard",
-    "stars": 0,
-    "updated_at": "2026-10-04T23:07:58Z",
-    "url": "https://github.com/bharion1/analytics-dashboard"
-  },
-  {
-    "description": "\ud83d\ude80 Build with the Langfuse Go SDK to enhance your applications using Langfuse's open-source LLM engineering platform.",
-    "id": "sedai194443/langfuse-go",
-    "language": "Go",
-    "name": "sedai194443/langfuse-go",
-    "stars": 1,
-    "updated_at": "2026-10-04T23:06:51Z",
-    "url": "https://github.com/sedai194443/langfuse-go"
   }
 ]
