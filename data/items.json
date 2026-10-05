@@ -1,5 +1,59 @@
 [
   {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 24,
+    "updated_at": "2026-10-05T01:58:44Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "One entry point for LLM calls: routing between a small and a large model, fallback, response cache, cost per call and a ",
+    "id": "0103juan/model-gateway",
+    "language": "Python",
+    "name": "0103juan/model-gateway",
+    "stars": 0,
+    "updated_at": "2026-10-05T01:56:34Z",
+    "url": "https://github.com/0103juan/model-gateway"
+  },
+  {
+    "description": "Master project orchestrator featuring Dual Engine (Gentle-AI Integrated ODD vs Standalone), Article ARQ-01 Vertical Slic",
+    "id": "QuantumEdu/q-agent",
+    "language": "Python",
+    "name": "QuantumEdu/q-agent",
+    "stars": 0,
+    "updated_at": "2026-10-05T01:48:08Z",
+    "url": "https://github.com/QuantumEdu/q-agent"
+  },
+  {
+    "description": "Privacy audit for multi-agent AI systems (CrewAI \u00b7 LangGraph \u00b7 AutoGen) \u2014 detect compositional data leaks without the ce",
+    "id": "Justin0504/federated-agent-audit",
+    "language": "Python",
+    "name": "Justin0504/federated-agent-audit",
+    "stars": 4,
+    "updated_at": "2026-10-05T01:47:33Z",
+    "url": "https://github.com/Justin0504/federated-agent-audit"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-05T01:45:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25708,
+    "updated_at": "2026-10-05T01:55:11Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "An open source workflow engine for agent-driven software factories.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
@@ -23,7 +77,7 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-05T01:45:03Z",
+    "updated_at": "2026-10-05T01:55:07Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -61,24 +115,6 @@
     "stars": 10,
     "updated_at": "2026-10-05T01:43:38Z",
     "url": "https://github.com/AshwinUgale/tracelint"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-05T01:30:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25707,
-    "updated_at": "2026-10-05T01:44:49Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -144,21 +180,12 @@
     "url": "https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 24,
-    "updated_at": "2026-10-05T01:19:08Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
     "id": "cloudrift-ai/emmy",
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 82,
-    "updated_at": "2026-10-05T01:41:50Z",
+    "updated_at": "2026-10-05T01:52:37Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -211,7 +238,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 60132,
+    "stars": 60134,
     "updated_at": "2026-10-05T01:11:11Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -421,32 +448,5 @@
     "stars": 7,
     "updated_at": "2026-10-05T00:44:07Z",
     "url": "https://github.com/Kushagra1A/openpi"
-  },
-  {
-    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
-    "id": "bilal0399/learn-agentic-ai",
-    "language": "\u2014",
-    "name": "bilal0399/learn-agentic-ai",
-    "stars": 8,
-    "updated_at": "2026-10-05T00:39:59Z",
-    "url": "https://github.com/bilal0399/learn-agentic-ai"
-  },
-  {
-    "description": "Evaluation, tracing and observability for AI agents: benchmarks, eval frameworks, tracing SDKs and monitoring platforms.",
-    "id": "ianwieds/awesome-agent-evals",
-    "language": "JavaScript",
-    "name": "ianwieds/awesome-agent-evals",
-    "stars": 1,
-    "updated_at": "2026-10-05T01:33:17Z",
-    "url": "https://github.com/ianwieds/awesome-agent-evals"
-  },
-  {
-    "description": "Gateways, routers and proxies between applications and LLM providers: one API, routing, caching, budgets and guardrails.",
-    "id": "ianwieds/awesome-llm-gateways",
-    "language": "JavaScript",
-    "name": "ianwieds/awesome-llm-gateways",
-    "stars": 2,
-    "updated_at": "2026-10-05T01:39:28Z",
-    "url": "https://github.com/ianwieds/awesome-llm-gateways"
   }
 ]
