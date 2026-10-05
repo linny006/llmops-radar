@@ -5,8 +5,17 @@
     "language": "Go",
     "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "stars": 1,
-    "updated_at": "2026-10-05T06:15:16Z",
+    "updated_at": "2026-10-05T06:28:56Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
+  },
+  {
+    "description": "Local-first AI evaluation engineering for finance workflows: golden sets, deterministic graders, human review, regressio",
+    "id": "Kozphy/EvalForge",
+    "language": "Python",
+    "name": "Kozphy/EvalForge",
+    "stars": 1,
+    "updated_at": "2026-10-05T06:27:53Z",
+    "url": "https://github.com/Kozphy/EvalForge"
   },
   {
     "description": "Agentic Runtime",
@@ -14,8 +23,80 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 41,
-    "updated_at": "2026-10-05T06:14:34Z",
+    "updated_at": "2026-10-05T06:24:52Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
+    "id": "ShenSeanChen/waku-agent",
+    "language": "Python",
+    "name": "ShenSeanChen/waku-agent",
+    "stars": 1905,
+    "updated_at": "2026-10-05T06:24:52Z",
+    "url": "https://github.com/ShenSeanChen/waku-agent"
+  },
+  {
+    "description": "Joule helps AI agents waste less: fewer unnecessary tokens, less energy per response, and lower carbon emissions.",
+    "id": "wuisabel-gif/Joule",
+    "language": "Rust",
+    "name": "wuisabel-gif/Joule",
+    "stars": 1,
+    "updated_at": "2026-10-05T06:23:34Z",
+    "url": "https://github.com/wuisabel-gif/Joule"
+  },
+  {
+    "description": "YOalphabet & YOconlang is a 4-bit isomorphic visual script replacing heavy CNNs and text embeddings with zero-inference ",
+    "id": "YOalphabet/YOalphabet",
+    "language": "HTML",
+    "name": "YOalphabet/YOalphabet",
+    "stars": 20,
+    "updated_at": "2026-10-05T06:23:12Z",
+    "url": "https://github.com/YOalphabet/YOalphabet"
+  },
+  {
+    "description": "A self-hosted OpenAI-compatible proxy and web app for debugging, testing, and improving AI agents.",
+    "id": "NordsteinSoftware/Proxytrace",
+    "language": "C#",
+    "name": "NordsteinSoftware/Proxytrace",
+    "stars": 3,
+    "updated_at": "2026-10-05T06:22:18Z",
+    "url": "https://github.com/NordsteinSoftware/Proxytrace"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60141,
+    "updated_at": "2026-10-05T06:19:56Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Drop-in LLM proxy that cuts AI API costs 30-40% with semantic caching, cost-aware routing and multi-provider failover.",
+    "id": "Prathamg042004/tokensave",
+    "language": "TypeScript",
+    "name": "Prathamg042004/tokensave",
+    "stars": 1,
+    "updated_at": "2026-10-05T06:21:23Z",
+    "url": "https://github.com/Prathamg042004/tokensave"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-05T06:25:38Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-05T06:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Protect your machine from AI-powered automation with local, deterministic Allow/Ask/Deny controls for high-impact action",
@@ -27,22 +108,13 @@
     "url": "https://github.com/Permed-lizard3456/ActionGuard"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60140,
-    "updated_at": "2026-10-05T06:13:46Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "A self-hosted OpenAI-compatible proxy and web app for debugging, testing, and improving AI agents.",
-    "id": "NordsteinSoftware/Proxytrace",
-    "language": "C#",
-    "name": "NordsteinSoftware/Proxytrace",
-    "stars": 3,
-    "updated_at": "2026-10-05T06:12:57Z",
-    "url": "https://github.com/NordsteinSoftware/Proxytrace"
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35387,
+    "updated_at": "2026-10-05T06:13:21Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Classify user feedback into positive, negative, or neutral categories using an automated machine learning pipeline and F",
@@ -122,17 +194,8 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8553,
-    "updated_at": "2026-10-05T06:13:08Z",
+    "updated_at": "2026-10-05T06:26:59Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "YOalphabet & YOconlang is a 4-bit isomorphic visual script replacing heavy CNNs and text embeddings with zero-inference ",
-    "id": "YOalphabet/YOalphabet",
-    "language": "HTML",
-    "name": "YOalphabet/YOalphabet",
-    "stars": 20,
-    "updated_at": "2026-10-05T06:03:03Z",
-    "url": "https://github.com/YOalphabet/YOalphabet"
   },
   {
     "description": "LLM spend tracking and budgets for Rails \u2014 by user, feature, or any tag, in your own database, no proxy.",
@@ -189,15 +252,6 @@
     "url": "https://github.com/vivek-541/vivek-541"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-05T06:00:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "An autonomous ad pipeline that shoots with no director, grades pixels and audio instead of text, and picks a video engin",
     "id": "jameswniu/autonomous-ads-pipeline-multimodal-evals",
     "language": "Python",
@@ -212,7 +266,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28258,
-    "updated_at": "2026-10-05T06:04:11Z",
+    "updated_at": "2026-10-05T06:30:10Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-05T05:33:47Z",
     "url": "https://github.com/judgekeeper/judgekeeper"
-  },
-  {
-    "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
-    "id": "recetariodmix/garak",
-    "language": "Python",
-    "name": "recetariodmix/garak",
-    "stars": 0,
-    "updated_at": "2026-10-05T05:33:01Z",
-    "url": "https://github.com/recetariodmix/garak"
-  },
-  {
-    "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
-    "id": "Kushagra1A/openpi",
-    "language": "Python",
-    "name": "Kushagra1A/openpi",
-    "stars": 7,
-    "updated_at": "2026-10-05T05:32:47Z",
-    "url": "https://github.com/Kushagra1A/openpi"
-  },
-  {
-    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
-    "id": "bilal0399/learn-agentic-ai",
-    "language": "\u2014",
-    "name": "bilal0399/learn-agentic-ai",
-    "stars": 8,
-    "updated_at": "2026-10-05T05:28:34Z",
-    "url": "https://github.com/bilal0399/learn-agentic-ai"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 82,
-    "updated_at": "2026-10-05T06:06:02Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-05T05:21:11Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
-    "description": "Open-source runtime for governed multi-agent AI \u2014 define agents, tools and human-approval gates as data (YAML), run unde",
-    "id": "delivstat/swarmkit",
-    "language": "Python",
-    "name": "delivstat/swarmkit",
-    "stars": 3,
-    "updated_at": "2026-10-05T06:09:47Z",
-    "url": "https://github.com/delivstat/swarmkit"
   }
 ]
