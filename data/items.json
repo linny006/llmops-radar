@@ -1,5 +1,221 @@
 [
   {
+    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4915,
+    "updated_at": "2026-10-05T22:00:21Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-10-05T21:59:59Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60169,
+    "updated_at": "2026-10-05T22:00:24Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
+    "id": "thesecretrapper786-netizen/catalyst-n1",
+    "language": "\u2014",
+    "name": "thesecretrapper786-netizen/catalyst-n1",
+    "stars": 1,
+    "updated_at": "2026-10-05T21:59:07Z",
+    "url": "https://github.com/thesecretrapper786-netizen/catalyst-n1"
+  },
+  {
+    "description": "Provide a structured, level-based study plan for SRE with free, online resources focused on core skills and advanced top",
+    "id": "downpaymentbulbul49/plano_estudos_sre",
+    "language": "\u2014",
+    "name": "downpaymentbulbul49/plano_estudos_sre",
+    "stars": 0,
+    "updated_at": "2026-10-05T21:58:47Z",
+    "url": "https://github.com/downpaymentbulbul49/plano_estudos_sre"
+  },
+  {
+    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
+    "id": "saddled-panicattack529/idea-evaluation-pipeline",
+    "language": "\u2014",
+    "name": "saddled-panicattack529/idea-evaluation-pipeline",
+    "stars": 0,
+    "updated_at": "2026-10-05T21:58:42Z",
+    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
+  },
+  {
+    "description": "Self-hosted OpenAI/Anthropic-compatible gateway: give each AI agent run a dollar budget, enforced before the provider, w",
+    "id": "domondi1/inferrail",
+    "language": "Python",
+    "name": "domondi1/inferrail",
+    "stars": 0,
+    "updated_at": "2026-10-05T21:57:24Z",
+    "url": "https://github.com/domondi1/inferrail"
+  },
+  {
+    "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
+    "id": "redd357magnum-ship-it/-SuperAgent-Hub",
+    "language": "Python",
+    "name": "redd357magnum-ship-it/-SuperAgent-Hub",
+    "stars": 2,
+    "updated_at": "2026-10-05T21:55:42Z",
+    "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
+  },
+  {
+    "description": "Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to",
+    "id": "Firmancaaa/rest-gateway-1771916753-3",
+    "language": "\u2014",
+    "name": "Firmancaaa/rest-gateway-1771916753-3",
+    "stars": 0,
+    "updated_at": "2026-10-05T21:55:11Z",
+    "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
+  },
+  {
+    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
+    "id": "niyetbay0304/gateway",
+    "language": "Go",
+    "name": "niyetbay0304/gateway",
+    "stars": 1,
+    "updated_at": "2026-10-05T21:54:09Z",
+    "url": "https://github.com/niyetbay0304/gateway"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8814,
+    "updated_at": "2026-10-05T21:53:58Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "Production-ready platform for evaluating LLM applications with quality, reliability, safety, latency, token usage, and c",
+    "id": "Lazaro549/ai-evaluation-platform",
+    "language": "TypeScript",
+    "name": "Lazaro549/ai-evaluation-platform",
+    "stars": 1,
+    "updated_at": "2026-10-05T21:51:44Z",
+    "url": "https://github.com/Lazaro549/ai-evaluation-platform"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "language": "Go",
+    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-10-05T21:53:47Z",
+    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 29,
+    "updated_at": "2026-10-05T21:50:40Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Pre-merge behavioral regression gate for AI agents. Check agent changes, inspect regressions, and block broken behavior ",
+    "id": "maida-ai/maida",
+    "language": "Python",
+    "name": "maida-ai/maida",
+    "stars": 31,
+    "updated_at": "2026-10-05T22:00:03Z",
+    "url": "https://github.com/maida-ai/maida"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-10-05T21:49:36Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "\ud83c\udfa4 Build real-time voice assistants with AgentOS 2 Live, utilizing OpenAI's Realtime API for seamless voice interactions ",
+    "id": "rozario-1234/end2end_sample",
+    "language": "TypeScript",
+    "name": "rozario-1234/end2end_sample",
+    "stars": 1,
+    "updated_at": "2026-10-05T21:49:19Z",
+    "url": "https://github.com/rozario-1234/end2end_sample"
+  },
+  {
+    "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
+    "id": "judgekeeper/judgekeeper",
+    "language": "Python",
+    "name": "judgekeeper/judgekeeper",
+    "stars": 0,
+    "updated_at": "2026-10-05T21:49:06Z",
+    "url": "https://github.com/judgekeeper/judgekeeper"
+  },
+  {
+    "description": "\u2699\ufe0f Simplify agent development with a straightforward for-loop framework, enabling efficient tool calls for your applicat",
+    "id": "KewalPra/agent-sdk",
+    "language": "Python",
+    "name": "KewalPra/agent-sdk",
+    "stars": 0,
+    "updated_at": "2026-10-05T21:48:36Z",
+    "url": "https://github.com/KewalPra/agent-sdk"
+  },
+  {
+    "description": "\ud83e\udde0 Capture and organize your ideas with an AI-powered system that turns thoughts into actionable knowledge, all without c",
+    "id": "rsaudio/second-brain",
+    "language": "\u2014",
+    "name": "rsaudio/second-brain",
+    "stars": 1,
+    "updated_at": "2026-10-05T21:48:11Z",
+    "url": "https://github.com/rsaudio/second-brain"
+  },
+  {
+    "description": "\u2708\ufe0f Plan personalized travel itineraries effortlessly with this agentic AI tool, streamlining your journey from start to ",
+    "id": "StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary",
+    "language": "Python",
+    "name": "StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary",
+    "stars": 2,
+    "updated_at": "2026-10-05T21:46:59Z",
+    "url": "https://github.com/StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary"
+  },
+  {
+    "description": "LLM cost routing with correct per-request cost: output-length forecasting, cache-aware tiered pricing, and $/quality ran",
+    "id": "Harunercul/thriftllm",
+    "language": "Python",
+    "name": "Harunercul/thriftllm",
+    "stars": 1,
+    "updated_at": "2026-10-05T21:46:56Z",
+    "url": "https://github.com/Harunercul/thriftllm"
+  },
+  {
+    "description": "\ud83c\udfac Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend",
+    "id": "drae1712/Agentic-RAG-Anime-Recommender-System",
+    "language": "Python",
+    "name": "drae1712/Agentic-RAG-Anime-Recommender-System",
+    "stars": 2,
+    "updated_at": "2026-10-05T21:46:48Z",
+    "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-05T21:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\ud83d\udcda Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical",
     "id": "mviraj/KakeyaFiniteFields",
     "language": "JavaScript",
@@ -16,24 +232,6 @@
     "stars": 396,
     "updated_at": "2026-10-05T21:45:17Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60168,
-    "updated_at": "2026-10-05T21:45:17Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8814,
-    "updated_at": "2026-10-05T21:37:43Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
@@ -59,17 +257,8 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8564,
-    "updated_at": "2026-10-05T21:35:09Z",
+    "updated_at": "2026-10-05T22:00:07Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Self-hosted OpenAI/Anthropic-compatible gateway: give each AI agent run a dollar budget, enforced before the provider, w",
-    "id": "domondi1/inferrail",
-    "language": "Python",
-    "name": "domondi1/inferrail",
-    "stars": 0,
-    "updated_at": "2026-10-05T21:34:25Z",
-    "url": "https://github.com/domondi1/inferrail"
   },
   {
     "description": "Multimodal RAG QA for cosmetics regulation: hybrid BM25 + vector recall, two-stage reranking, evidence gating that refus",
@@ -88,15 +277,6 @@
     "stars": 2,
     "updated_at": "2026-10-05T21:31:07Z",
     "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-05T21:30:35Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
@@ -131,7 +311,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11716,
-    "updated_at": "2026-10-05T21:28:12Z",
+    "updated_at": "2026-10-05T21:56:08Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -153,40 +333,13 @@
     "url": "https://github.com/tenemos/langwatch"
   },
   {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 29,
-    "updated_at": "2026-10-05T21:26:08Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
     "description": "The open framework for governed AI development: EU AI Act compliance, PII redaction, MCP proxy, prompt-injection firewal",
     "id": "admina-org/admina",
     "language": "Python",
     "name": "admina-org/admina",
     "stars": 7,
-    "updated_at": "2026-10-05T21:29:18Z",
+    "updated_at": "2026-10-05T21:55:12Z",
     "url": "https://github.com/admina-org/admina"
-  },
-  {
-    "description": "LLM cost routing with correct per-request cost: output-length forecasting, cache-aware tiered pricing, and $/quality ran",
-    "id": "Harunercul/thriftllm",
-    "language": "Python",
-    "name": "Harunercul/thriftllm",
-    "stars": 1,
-    "updated_at": "2026-10-05T21:16:21Z",
-    "url": "https://github.com/Harunercul/thriftllm"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-10-05T21:13:47Z",
-    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "A self-updating, auto-classified map of the GenAI engineering stack: agents, MCP, memory, RAG, evals, LLMOps, AI securit",
@@ -212,7 +365,7 @@
     "language": "Python",
     "name": "architsharm/agentfox",
     "stars": 3,
-    "updated_at": "2026-10-05T21:17:57Z",
+    "updated_at": "2026-10-05T21:46:04Z",
     "url": "https://github.com/architsharm/agentfox"
   },
   {
@@ -223,15 +376,6 @@
     "stars": 28273,
     "updated_at": "2026-10-05T21:14:05Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "language": "Go",
-    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "stars": 1,
-    "updated_at": "2026-10-05T21:37:49Z",
-    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
   },
   {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
@@ -304,149 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-05T20:26:17Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-",
-    "id": "Yigtwxx/awesome-rag-production",
-    "language": "Python",
-    "name": "Yigtwxx/awesome-rag-production",
-    "stars": 275,
-    "updated_at": "2026-10-05T20:25:34Z",
-    "url": "https://github.com/Yigtwxx/awesome-rag-production"
-  },
-  {
-    "description": "Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability ",
-    "id": "santiag6001/llm-engineering-platform",
-    "language": "Python",
-    "name": "santiag6001/llm-engineering-platform",
-    "stars": 1,
-    "updated_at": "2026-10-05T20:22:47Z",
-    "url": "https://github.com/santiag6001/llm-engineering-platform"
-  },
-  {
-    "description": "Track human movement in real-time using LiteRT.js and Three.js for browser-based 3D character animation without server d",
-    "id": "Frayagronomist166/LiteRT.js-Mocap",
-    "language": "\u2014",
-    "name": "Frayagronomist166/LiteRT.js-Mocap",
-    "stars": 1,
-    "updated_at": "2026-10-05T20:21:55Z",
-    "url": "https://github.com/Frayagronomist166/LiteRT.js-Mocap"
-  },
-  {
-    "description": "Generate business emails locally using Python, Streamlit, and Ollama with this production-ready desktop application.",
-    "id": "wordmiddling872/AI_Email_Generator",
-    "language": "Python",
-    "name": "wordmiddling872/AI_Email_Generator",
-    "stars": 1,
-    "updated_at": "2026-10-05T20:21:37Z",
-    "url": "https://github.com/wordmiddling872/AI_Email_Generator"
-  },
-  {
-    "description": "Route LLM requests through a self-hosted, OpenAI-compatible gateway for local projects and team workflows.",
-    "id": "Soilbuilding-libraryroutine78/Gozar",
-    "language": "Python",
-    "name": "Soilbuilding-libraryroutine78/Gozar",
-    "stars": 0,
-    "updated_at": "2026-10-05T20:21:32Z",
-    "url": "https://github.com/Soilbuilding-libraryroutine78/Gozar"
-  },
-  {
-    "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
-    "id": "Karinaclastic11/Drip-Lite-Client",
-    "language": "\u2014",
-    "name": "Karinaclastic11/Drip-Lite-Client",
-    "stars": 1,
-    "updated_at": "2026-10-05T20:20:11Z",
-    "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
-  },
-  {
-    "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
-    "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "language": "\u2014",
-    "name": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "stars": 2,
-    "updated_at": "2026-10-05T20:18:23Z",
-    "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
-  },
-  {
-    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
-    "id": "srjn45/warden",
-    "language": "Go",
-    "name": "srjn45/warden",
-    "stars": 2,
-    "updated_at": "2026-10-05T21:43:47Z",
-    "url": "https://github.com/srjn45/warden"
-  },
-  {
-    "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
-    "id": "syntactic-orleanism949/logal-rag",
-    "language": "\u2014",
-    "name": "syntactic-orleanism949/logal-rag",
-    "stars": 1,
-    "updated_at": "2026-10-05T20:16:31Z",
-    "url": "https://github.com/syntactic-orleanism949/logal-rag"
-  },
-  {
-    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
-    "id": "xlabs-club/awesome-x-ops",
-    "language": "\u2014",
-    "name": "xlabs-club/awesome-x-ops",
-    "stars": 34,
-    "updated_at": "2026-10-05T20:15:34Z",
-    "url": "https://github.com/xlabs-club/awesome-x-ops"
-  },
-  {
-    "description": "MLOps system for daily gold price prediction \u2014 five competing models, automatic Data/Concept Drift detection, retraining",
-    "id": "vv0vv3r/ModelJoust",
-    "language": "Python",
-    "name": "vv0vv3r/ModelJoust",
-    "stars": 1,
-    "updated_at": "2026-10-05T20:15:34Z",
-    "url": "https://github.com/vv0vv3r/ModelJoust"
-  },
-  {
-    "description": "Self-hosted, MCP-based AI agent platform on k3s in WSL2: Ollama (3B, CPU-only), LangGraph, Qdrant, MLflow, Dagster, n8n,",
-    "id": "nixvarghese01/local-ai-platform",
-    "language": "Python",
-    "name": "nixvarghese01/local-ai-platform",
-    "stars": 0,
-    "updated_at": "2026-10-05T20:15:32Z",
-    "url": "https://github.com/nixvarghese01/local-ai-platform"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 8202,
-    "updated_at": "2026-10-05T20:13:49Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic",
-    "id": "effecterelectricalplant87/LLM",
-    "language": "\u2014",
-    "name": "effecterelectricalplant87/LLM",
-    "stars": 0,
-    "updated_at": "2026-10-05T20:12:32Z",
-    "url": "https://github.com/effecterelectricalplant87/LLM"
-  },
-  {
-    "description": "Scan AI-generated code for security, performance, and code quality issues before they ship",
-    "id": "Rosalyndfaithful716/Guardrail",
-    "language": "TypeScript",
-    "name": "Rosalyndfaithful716/Guardrail",
-    "stars": 1,
-    "updated_at": "2026-10-05T20:12:21Z",
-    "url": "https://github.com/Rosalyndfaithful716/Guardrail"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-05T20:11:35Z",
-    "url": "https://github.com/toxicwind/ranch"
   }
 ]
