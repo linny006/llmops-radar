@@ -1,11 +1,119 @@
 [
   {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 24,
+    "updated_at": "2026-10-05T03:30:03Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Token usage tracker for multi-agent AI sessions",
+    "id": "yunaremaia/agentcost",
+    "language": "Python",
+    "name": "yunaremaia/agentcost",
+    "stars": 2,
+    "updated_at": "2026-10-05T03:28:53Z",
+    "url": "https://github.com/yunaremaia/agentcost"
+  },
+  {
+    "description": "Local-first AI evaluation engineering for finance workflows: golden sets, deterministic graders, human review, regressio",
+    "id": "Kozphy/EvalForge",
+    "language": "Python",
+    "name": "Kozphy/EvalForge",
+    "stars": 1,
+    "updated_at": "2026-10-05T03:28:33Z",
+    "url": "https://github.com/Kozphy/EvalForge"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25710,
+    "updated_at": "2026-10-05T03:29:45Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-05T03:27:23Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Docker image for a self-hosted LiteLLM AI gateway proxy. Unified OpenAI-compatible API for 100+ LLM providers. Features ",
+    "id": "hwdsl2/docker-litellm",
+    "language": "Shell",
+    "name": "hwdsl2/docker-litellm",
+    "stars": 9,
+    "updated_at": "2026-10-05T03:27:16Z",
+    "url": "https://github.com/hwdsl2/docker-litellm"
+  },
+  {
+    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 1,
+    "updated_at": "2026-10-05T03:24:56Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
+    "id": "0xLazAI/alith",
+    "language": "Rust",
+    "name": "0xLazAI/alith",
+    "stars": 44,
+    "updated_at": "2026-10-05T03:20:21Z",
+    "url": "https://github.com/0xLazAI/alith"
+  },
+  {
+    "description": "GitHub Action for the Maida pre-merge behavioral regression gate. Runs your traced agent in isolated trials on every PR,",
+    "id": "maida-ai/maida-assert",
+    "language": "Python",
+    "name": "maida-ai/maida-assert",
+    "stars": 4,
+    "updated_at": "2026-10-05T03:20:00Z",
+    "url": "https://github.com/maida-ai/maida-assert"
+  },
+  {
+    "description": "Your agent still returns the right answer -- but now it calls 3x the tools. Maida is the pre-merge behavioral regression",
+    "id": "maida-ai/maida",
+    "language": "Python",
+    "name": "maida-ai/maida",
+    "stars": 31,
+    "updated_at": "2026-10-05T03:18:53Z",
+    "url": "https://github.com/maida-ai/maida"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28258,
+    "updated_at": "2026-10-05T03:18:57Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-05T03:15:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
     "id": "vocion/vocion-core",
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-05T03:13:49Z",
+    "updated_at": "2026-10-05T03:20:01Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -16,15 +124,6 @@
     "stars": 10,
     "updated_at": "2026-10-05T03:12:18Z",
     "url": "https://github.com/AshwinUgale/tracelint"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25711,
-    "updated_at": "2026-10-05T03:15:21Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
@@ -45,30 +144,12 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "Local-first AI evaluation engineering for finance workflows: golden sets, deterministic graders, human review, regressio",
-    "id": "Kozphy/EvalForge",
-    "language": "Python",
-    "name": "Kozphy/EvalForge",
-    "stars": 1,
-    "updated_at": "2026-10-05T03:01:03Z",
-    "url": "https://github.com/Kozphy/EvalForge"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-05T03:00:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 60138,
-    "updated_at": "2026-10-05T03:11:48Z",
+    "updated_at": "2026-10-05T03:30:12Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -108,15 +189,6 @@
     "url": "https://github.com/tonquoc0407/capybara"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 24,
-    "updated_at": "2026-10-05T02:47:49Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
     "description": "Production-ready platform for evaluating LLM applications with quality, reliability, safety, latency, token usage, and c",
     "id": "Lazaro549/ai-evaluation-platform",
     "language": "TypeScript",
@@ -131,7 +203,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 82,
-    "updated_at": "2026-10-05T02:48:13Z",
+    "updated_at": "2026-10-05T03:24:51Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -142,24 +214,6 @@
     "stars": 0,
     "updated_at": "2026-10-05T02:28:55Z",
     "url": "https://github.com/YassirCher/reviewlens-ai"
-  },
-  {
-    "description": "Your agent still returns the right answer -- but now it calls 3x the tools. Maida is the pre-merge behavioral regression",
-    "id": "maida-ai/maida",
-    "language": "Python",
-    "name": "maida-ai/maida",
-    "stars": 31,
-    "updated_at": "2026-10-05T02:54:47Z",
-    "url": "https://github.com/maida-ai/maida"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-05T02:11:10Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Trace-driven Agent evolution, E2E evaluation, regression replay, and release control plane.",
@@ -232,15 +286,6 @@
     "stars": 1,
     "updated_at": "2026-10-05T01:32:53Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28258,
-    "updated_at": "2026-10-05T03:11:24Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Protect your machine from AI-powered automation with local, deterministic Allow/Ask/Deny controls for high-impact action",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-05T01:05:26Z",
     "url": "https://github.com/FawwazAzka/openclaw-docs"
-  },
-  {
-    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
-    "id": "developersofik/greenprompt",
-    "language": "TypeScript",
-    "name": "developersofik/greenprompt",
-    "stars": 0,
-    "updated_at": "2026-10-05T01:03:14Z",
-    "url": "https://github.com/developersofik/greenprompt"
-  },
-  {
-    "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
-    "id": "Alexreye/advance-nlp-generative-ai",
-    "language": "\u2014",
-    "name": "Alexreye/advance-nlp-generative-ai",
-    "stars": 1,
-    "updated_at": "2026-10-05T01:00:32Z",
-    "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
-  },
-  {
-    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
-    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "language": "\u2014",
-    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "stars": 0,
-    "updated_at": "2026-10-05T00:58:37Z",
-    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "\ud83d\ude80 Accelerate large language model training and fine-tuning with Surogate\u2019s high-performance, mixed-precision framework i",
-    "id": "Kokotpica/surogate",
-    "language": "C++",
-    "name": "Kokotpica/surogate",
-    "stars": 2,
-    "updated_at": "2026-10-05T00:58:26Z",
-    "url": "https://github.com/Kokotpica/surogate"
-  },
-  {
-    "description": "\ud83d\udcca Build an interactive analytics dashboard with Spring Boot and JavaScript, featuring real-time data updates and advance",
-    "id": "bharion1/analytics-dashboard",
-    "language": "\u2014",
-    "name": "bharion1/analytics-dashboard",
-    "stars": 0,
-    "updated_at": "2026-10-05T00:58:07Z",
-    "url": "https://github.com/bharion1/analytics-dashboard"
   }
 ]
