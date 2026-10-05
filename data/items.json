@@ -1,11 +1,128 @@
 [
   {
+    "description": "Kubernetes-native control plane for AI agents that work inside the tools you already use \u2014 review PRs, triage issues, ac",
+    "id": "DominikPinsel/ainsel",
+    "language": "Go",
+    "name": "DominikPinsel/ainsel",
+    "stars": 3,
+    "updated_at": "2026-10-05T19:46:38Z",
+    "url": "https://github.com/DominikPinsel/ainsel"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 29,
+    "updated_at": "2026-10-05T19:44:36Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 24,
+    "updated_at": "2026-10-05T19:43:06Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3590,
+    "updated_at": "2026-10-05T19:42:58Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11715,
+    "updated_at": "2026-10-05T19:43:46Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 8191,
+    "updated_at": "2026-10-05T19:41:31Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Open-source LLMOps platform with prompt management, an OpenAI-compatible AI gateway, OpenTelemetry tracing, a versioned ",
+    "id": "AcruxCore/AcruxCore",
+    "language": "TypeScript",
+    "name": "AcruxCore/AcruxCore",
+    "stars": 9,
+    "updated_at": "2026-10-05T19:39:29Z",
+    "url": "https://github.com/AcruxCore/AcruxCore"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
+    "id": "empiredestroyer/AI-Prompt-Enhancer",
+    "language": "\u2014",
+    "name": "empiredestroyer/AI-Prompt-Enhancer",
+    "stars": 2,
+    "updated_at": "2026-10-05T19:37:47Z",
+    "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
+  },
+  {
+    "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
+    "id": "Kakz/prometheus-llm",
+    "language": "Python",
+    "name": "Kakz/prometheus-llm",
+    "stars": 6,
+    "updated_at": "2026-10-05T19:35:17Z",
+    "url": "https://github.com/Kakz/prometheus-llm"
+  },
+  {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-10-05T19:33:59Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "A self-updating, auto-classified map of the GenAI engineering stack: agents, MCP, memory, RAG, evals, LLMOps, AI securit",
+    "id": "alebgl77/awesome-ai-architect",
+    "language": "Python",
+    "name": "alebgl77/awesome-ai-architect",
+    "stars": 0,
+    "updated_at": "2026-10-05T19:33:12Z",
+    "url": "https://github.com/alebgl77/awesome-ai-architect"
+  },
+  {
+    "description": "A secured MLOps lifecycle for small language models: versioned data, poisoning checks, pinned base models, evaluation ga",
+    "id": "FlorianMartins/lineage-mlops",
+    "language": "Python",
+    "name": "FlorianMartins/lineage-mlops",
+    "stars": 0,
+    "updated_at": "2026-10-05T19:32:49Z",
+    "url": "https://github.com/FlorianMartins/lineage-mlops"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-05T19:31:10Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "A lightweight self-service portal and API for managing LiteLLM keys",
     "id": "brtydse100/litegate",
     "language": "Python",
     "name": "brtydse100/litegate",
     "stars": 6,
-    "updated_at": "2026-10-05T19:29:53Z",
+    "updated_at": "2026-10-05T19:36:14Z",
     "url": "https://github.com/brtydse100/litegate"
   },
   {
@@ -14,17 +131,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 60166,
-    "updated_at": "2026-10-05T19:31:06Z",
+    "updated_at": "2026-10-05T19:46:26Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Kubernetes-native control plane for AI agents that work inside the tools you already use \u2014 review PRs, triage issues, ac",
-    "id": "DominikPinsel/ainsel",
-    "language": "Go",
-    "name": "DominikPinsel/ainsel",
-    "stars": 3,
-    "updated_at": "2026-10-05T19:30:37Z",
-    "url": "https://github.com/DominikPinsel/ainsel"
   },
   {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
@@ -34,24 +142,6 @@
     "stars": 0,
     "updated_at": "2026-10-05T19:28:37Z",
     "url": "https://github.com/toxicwind/ranch"
-  },
-  {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 29,
-    "updated_at": "2026-10-05T19:26:46Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 8190,
-    "updated_at": "2026-10-05T19:28:46Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "A self-hosted zero-cost LLM routing stack that discovers, benchmarks, and routes to the best currently free models.",
@@ -68,7 +158,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 35403,
-    "updated_at": "2026-10-05T19:23:46Z",
+    "updated_at": "2026-10-05T19:33:59Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -79,24 +169,6 @@
     "stars": 41,
     "updated_at": "2026-10-05T19:21:56Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "A secured MLOps lifecycle for small language models: versioned data, poisoning checks, pinned base models, evaluation ga",
-    "id": "FlorianMartins/lineage-mlops",
-    "language": "Python",
-    "name": "FlorianMartins/lineage-mlops",
-    "stars": 0,
-    "updated_at": "2026-10-05T19:18:05Z",
-    "url": "https://github.com/FlorianMartins/lineage-mlops"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-05T19:15:55Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
@@ -131,7 +203,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4916,
-    "updated_at": "2026-10-05T19:30:27Z",
+    "updated_at": "2026-10-05T19:45:41Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -160,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-10-05T19:10:25Z",
     "url": "https://github.com/andrewbakercloudscale/claude-code-cost-sidebar"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11715,
-    "updated_at": "2026-10-05T19:14:40Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
@@ -230,7 +293,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8562,
-    "updated_at": "2026-10-05T19:26:23Z",
+    "updated_at": "2026-10-05T19:44:02Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -302,7 +365,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22390,
-    "updated_at": "2026-10-05T19:11:19Z",
+    "updated_at": "2026-10-05T19:34:08Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -311,7 +374,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 506,
-    "updated_at": "2026-10-05T19:16:15Z",
+    "updated_at": "2026-10-05T19:44:39Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -383,70 +446,7 @@
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 619,
-    "updated_at": "2026-10-05T19:29:36Z",
+    "updated_at": "2026-10-05T19:44:39Z",
     "url": "https://github.com/Abilityai/trinity"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-10-05T17:53:48Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8813,
-    "updated_at": "2026-10-05T19:12:57Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "One entry point for LLM calls: routing between a small and a large model, fallback, response cache, cost per call and a ",
-    "id": "0103juan/model-gateway",
-    "language": "Python",
-    "name": "0103juan/model-gateway",
-    "stars": 0,
-    "updated_at": "2026-10-05T17:56:03Z",
-    "url": "https://github.com/0103juan/model-gateway"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-05T17:48:22Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Pre-merge behavioral regression gate for AI agents. Check agent changes, inspect regressions, and block broken behavior ",
-    "id": "maida-ai/maida",
-    "language": "Python",
-    "name": "maida-ai/maida",
-    "stars": 31,
-    "updated_at": "2026-10-05T17:47:47Z",
-    "url": "https://github.com/maida-ai/maida"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-10-05T17:46:34Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25727,
-    "updated_at": "2026-10-05T18:51:57Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   }
 ]
