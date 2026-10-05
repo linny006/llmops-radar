@@ -1,12 +1,57 @@
 [
   {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-05T15:44:51Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 29,
+    "updated_at": "2026-10-05T15:44:50Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "A deterministic linter for agent runs \u2014 reads the execution trace and flags structural bugs (ignored errors, schema viol",
+    "id": "AshwinUgale/tracelint",
     "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 505,
-    "updated_at": "2026-10-05T15:28:52Z",
-    "url": "https://github.com/mozilla-ai/otari"
+    "name": "AshwinUgale/tracelint",
+    "stars": 11,
+    "updated_at": "2026-10-05T15:43:49Z",
+    "url": "https://github.com/AshwinUgale/tracelint"
+  },
+  {
+    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
+    "id": "srjn45/warden",
+    "language": "Go",
+    "name": "srjn45/warden",
+    "stars": 2,
+    "updated_at": "2026-10-05T15:43:44Z",
+    "url": "https://github.com/srjn45/warden"
+  },
+  {
+    "description": "\ud83e\udd16 A production-grade agentic RAG pipeline with hybrid retrieval (vector + graph), and vLLM-backed LLM inference deployed",
+    "id": "arponkapuria/scalable-agentic-rag-pipeline",
+    "language": "Python",
+    "name": "arponkapuria/scalable-agentic-rag-pipeline",
+    "stars": 0,
+    "updated_at": "2026-10-05T15:44:38Z",
+    "url": "https://github.com/arponkapuria/scalable-agentic-rag-pipeline"
+  },
+  {
+    "description": "\ud83d\udcda Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical",
+    "id": "mviraj/KakeyaFiniteFields",
+    "language": "JavaScript",
+    "name": "mviraj/KakeyaFiniteFields",
+    "stars": 0,
+    "updated_at": "2026-10-05T15:42:57Z",
+    "url": "https://github.com/mviraj/KakeyaFiniteFields"
   },
   {
     "description": "Advisory AI code review for pull requests using only $0 OpenRouter free models \u2014 every finding deterministically anchore",
@@ -14,8 +59,53 @@
     "language": "TypeScript",
     "name": "Laughing-Man-Studios/FreeReview",
     "stars": 0,
-    "updated_at": "2026-10-05T15:28:37Z",
+    "updated_at": "2026-10-05T15:42:47Z",
     "url": "https://github.com/Laughing-Man-Studios/FreeReview"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60156,
+    "updated_at": "2026-10-05T15:42:22Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 8168,
+    "updated_at": "2026-10-05T15:42:03Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25721,
+    "updated_at": "2026-10-05T15:41:36Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 24,
+    "updated_at": "2026-10-05T15:40:56Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Fail-closed CI checks for truncated agent runs, null handoffs, and open MCP tools.",
+    "id": "homayoun-safarpour/homi-gate",
+    "language": "Python",
+    "name": "homayoun-safarpour/homi-gate",
+    "stars": 0,
+    "updated_at": "2026-10-05T15:40:51Z",
+    "url": "https://github.com/homayoun-safarpour/homi-gate"
   },
   {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
@@ -23,8 +113,71 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 35402,
-    "updated_at": "2026-10-05T15:29:04Z",
+    "updated_at": "2026-10-05T15:44:56Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-10-05T15:39:15Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "An open source workflow engine for agent-driven software factories.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-10-05T15:34:43Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "A decision-oriented LLM engineering knowledge base \u2014 from Attention to production. 291 cards, 36-card path: fundamentals",
+    "id": "weicyang/llm-eng-cards",
+    "language": "HTML",
+    "name": "weicyang/llm-eng-cards",
+    "stars": 4,
+    "updated_at": "2026-10-05T15:34:20Z",
+    "url": "https://github.com/weicyang/llm-eng-cards"
+  },
+  {
+    "description": "The platform for continuously improving AI agents.",
+    "id": "overmind-core/overmind",
+    "language": "Python",
+    "name": "overmind-core/overmind",
+    "stars": 413,
+    "updated_at": "2026-10-05T15:45:12Z",
+    "url": "https://github.com/overmind-core/overmind"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22387,
+    "updated_at": "2026-10-05T15:45:13Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-05T15:30:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 505,
+    "updated_at": "2026-10-05T15:42:39Z",
+    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
@@ -32,7 +185,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-05T15:27:02Z",
+    "updated_at": "2026-10-05T15:32:42Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -43,15 +196,6 @@
     "stars": 2,
     "updated_at": "2026-10-05T15:26:54Z",
     "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 8166,
-    "updated_at": "2026-10-05T15:26:48Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "LLM observability and evals in a single binary: traces, prompts, datasets, scores and review queues for LLM and agent ap",
@@ -99,15 +243,6 @@
     "url": "https://github.com/traceloop/openllmetry"
   },
   {
-    "description": "An open source workflow engine for agent-driven software factories.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-10-05T15:24:01Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
     "id": "tenemos/langwatch",
     "language": "TypeScript",
@@ -133,33 +268,6 @@
     "stars": 0,
     "updated_at": "2026-10-05T15:20:16Z",
     "url": "https://github.com/XayyamSadigov/ai-engineering-book"
-  },
-  {
-    "description": "The platform for continuously improving AI agents.",
-    "id": "overmind-core/overmind",
-    "language": "Python",
-    "name": "overmind-core/overmind",
-    "stars": 413,
-    "updated_at": "2026-10-05T15:17:38Z",
-    "url": "https://github.com/overmind-core/overmind"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-05T15:15:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 24,
-    "updated_at": "2026-10-05T15:24:25Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "The readable ReAct agent: a ~235-line step loop you can follow, plus 31 opt-in modules (sandbox, circuit breaker, struct",
@@ -221,7 +329,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11714,
-    "updated_at": "2026-10-05T15:08:22Z",
+    "updated_at": "2026-10-05T15:45:22Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -243,24 +351,6 @@
     "url": "https://github.com/patricksardinha/llm-harness"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22387,
-    "updated_at": "2026-10-05T15:27:57Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60155,
-    "updated_at": "2026-10-05T15:29:08Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "A self-updating, auto-classified map of the GenAI engineering stack: agents, MCP, memory, RAG, evals, LLMOps, AI securit",
     "id": "alebgl77/awesome-ai-architect",
     "language": "Python",
@@ -275,17 +365,8 @@
     "language": "Python",
     "name": "glassflow/rius-coding-agents",
     "stars": 2,
-    "updated_at": "2026-10-05T15:06:40Z",
+    "updated_at": "2026-10-05T15:39:01Z",
     "url": "https://github.com/glassflow/rius-coding-agents"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-10-05T14:59:22Z",
-    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
@@ -356,7 +437,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8560,
-    "updated_at": "2026-10-05T15:24:54Z",
+    "updated_at": "2026-10-05T15:33:42Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -365,88 +446,7 @@
     "language": "Python",
     "name": "dynamiq-ai/dynamiq",
     "stars": 1071,
-    "updated_at": "2026-10-05T15:24:25Z",
+    "updated_at": "2026-10-05T15:45:09Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
-  },
-  {
-    "description": "A deterministic linter for agent runs \u2014 reads the execution trace and flags structural bugs (ignored errors, schema viol",
-    "id": "AshwinUgale/tracelint",
-    "language": "Python",
-    "name": "AshwinUgale/tracelint",
-    "stars": 11,
-    "updated_at": "2026-10-05T15:27:17Z",
-    "url": "https://github.com/AshwinUgale/tracelint"
-  },
-  {
-    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
-    "id": "JoniMartin27/lookspan",
-    "language": "TypeScript",
-    "name": "JoniMartin27/lookspan",
-    "stars": 7,
-    "updated_at": "2026-10-05T14:25:54Z",
-    "url": "https://github.com/JoniMartin27/lookspan"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 2110,
-    "updated_at": "2026-10-05T14:23:44Z",
-    "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "Self-hosted & federated platform for AI IDE/Tools Rules and Commands via WebUI & CLI - Generate, browse, store, share AG",
-    "id": "GeiserX/LynxPrompt",
-    "language": "TypeScript",
-    "name": "GeiserX/LynxPrompt",
-    "stars": 50,
-    "updated_at": "2026-10-05T14:21:40Z",
-    "url": "https://github.com/GeiserX/LynxPrompt"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25721,
-    "updated_at": "2026-10-05T15:26:18Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF\u2194Bedrock mapping (US regions) with a free st",
-    "id": "scttfrdmn/hf-bedrock-map",
-    "language": "Go",
-    "name": "scttfrdmn/hf-bedrock-map",
-    "stars": 1,
-    "updated_at": "2026-10-05T14:19:54Z",
-    "url": "https://github.com/scttfrdmn/hf-bedrock-map"
-  },
-  {
-    "description": "Convert static anime images into structured, QA-checked PSDs with Codex, Colab GPU, and built-in motion preview.",
-    "id": "Rickettsiayorkshirefog4963/still2rig-psd",
-    "language": "JavaScript",
-    "name": "Rickettsiayorkshirefog4963/still2rig-psd",
-    "stars": 0,
-    "updated_at": "2026-10-05T14:17:31Z",
-    "url": "https://github.com/Rickettsiayorkshirefog4963/still2rig-psd"
-  },
-  {
-    "description": "Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability ",
-    "id": "santiag6001/llm-engineering-platform",
-    "language": "Python",
-    "name": "santiag6001/llm-engineering-platform",
-    "stars": 1,
-    "updated_at": "2026-10-05T14:13:56Z",
-    "url": "https://github.com/santiag6001/llm-engineering-platform"
-  },
-  {
-    "description": "Track human movement in real-time using LiteRT.js and Three.js for browser-based 3D character animation without server d",
-    "id": "Frayagronomist166/LiteRT.js-Mocap",
-    "language": "\u2014",
-    "name": "Frayagronomist166/LiteRT.js-Mocap",
-    "stars": 1,
-    "updated_at": "2026-10-05T14:13:03Z",
-    "url": "https://github.com/Frayagronomist166/LiteRT.js-Mocap"
   }
 ]
