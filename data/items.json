@@ -1,5 +1,149 @@
 [
   {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 8176,
+    "updated_at": "2026-10-05T16:29:24Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
+    "id": "ShenSeanChen/waku-agent",
+    "language": "Python",
+    "name": "ShenSeanChen/waku-agent",
+    "stars": 1904,
+    "updated_at": "2026-10-05T16:28:37Z",
+    "url": "https://github.com/ShenSeanChen/waku-agent"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8811,
+    "updated_at": "2026-10-05T16:28:26Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28268,
+    "updated_at": "2026-10-05T16:28:46Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Advisory AI code review for pull requests using only $0 OpenRouter free models \u2014 every finding deterministically anchore",
+    "id": "Laughing-Man-Studios/FreeReview",
+    "language": "TypeScript",
+    "name": "Laughing-Man-Studios/FreeReview",
+    "stars": 0,
+    "updated_at": "2026-10-05T16:26:46Z",
+    "url": "https://github.com/Laughing-Man-Studios/FreeReview"
+  },
+  {
+    "description": "Multi-tenant LLM inference platform on GKE: OpenAI-compatible gateway with circuit-breaker failover (vLLM on spot GPU \u2192 ",
+    "id": "harshit-ojha0324/forge",
+    "language": "Python",
+    "name": "harshit-ojha0324/forge",
+    "stars": 0,
+    "updated_at": "2026-10-05T16:25:27Z",
+    "url": "https://github.com/harshit-ojha0324/forge"
+  },
+  {
+    "description": "Dify with Let's Encrypt Using Docker Compose",
+    "id": "heyvaldemar/dify-traefik-letsencrypt-docker-compose",
+    "language": "Shell",
+    "name": "heyvaldemar/dify-traefik-letsencrypt-docker-compose",
+    "stars": 0,
+    "updated_at": "2026-10-05T16:22:47Z",
+    "url": "https://github.com/heyvaldemar/dify-traefik-letsencrypt-docker-compose"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11714,
+    "updated_at": "2026-10-05T16:20:43Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Self-hosted OpenAI/Anthropic-compatible gateway: give each AI agent run a dollar budget, enforced before the provider, w",
+    "id": "domondi1/inferrail",
+    "language": "Python",
+    "name": "domondi1/inferrail",
+    "stars": 0,
+    "updated_at": "2026-10-05T16:26:56Z",
+    "url": "https://github.com/domondi1/inferrail"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1252,
+    "updated_at": "2026-10-05T16:18:34Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25722,
+    "updated_at": "2026-10-05T16:17:59Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 1,
+    "updated_at": "2026-10-05T16:16:46Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "An open source workflow engine for agent-driven software factories.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-10-05T16:16:39Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Convert static anime images into structured, QA-checked PSDs with Codex, Colab GPU, and built-in motion preview.",
+    "id": "Rickettsiayorkshirefog4963/still2rig-psd",
+    "language": "JavaScript",
+    "name": "Rickettsiayorkshirefog4963/still2rig-psd",
+    "stars": 0,
+    "updated_at": "2026-10-05T16:16:16Z",
+    "url": "https://github.com/Rickettsiayorkshirefog4963/still2rig-psd"
+  },
+  {
+    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
+    "id": "burakdede/lorepack",
+    "language": "TypeScript",
+    "name": "burakdede/lorepack",
+    "stars": 2,
+    "updated_at": "2026-10-05T16:16:05Z",
+    "url": "https://github.com/burakdede/lorepack"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-05T16:15:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "End-to-end Langfuse workshop using a TypeScript Agent to teach the AI engineering loop: tracing, prompt management, moni",
     "id": "langfuse/langfuse-workshop",
     "language": "TypeScript",
@@ -9,49 +153,22 @@
     "url": "https://github.com/langfuse/langfuse-workshop"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 1,
-    "updated_at": "2026-10-05T16:14:28Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 24,
-    "updated_at": "2026-10-05T16:15:25Z",
+    "updated_at": "2026-10-05T16:27:38Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
-    "description": "Dify with Let's Encrypt Using Docker Compose",
-    "id": "heyvaldemar/dify-traefik-letsencrypt-docker-compose",
-    "language": "Shell",
-    "name": "heyvaldemar/dify-traefik-letsencrypt-docker-compose",
-    "stars": 0,
-    "updated_at": "2026-10-05T16:13:36Z",
-    "url": "https://github.com/heyvaldemar/dify-traefik-letsencrypt-docker-compose"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
     "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 8173,
-    "updated_at": "2026-10-05T16:12:32Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Multi-tenant LLM inference platform on GKE: OpenAI-compatible gateway with circuit-breaker failover (vLLM on spot GPU \u2192 ",
-    "id": "harshit-ojha0324/forge",
-    "language": "Python",
-    "name": "harshit-ojha0324/forge",
-    "stars": 0,
-    "updated_at": "2026-10-05T16:12:32Z",
-    "url": "https://github.com/harshit-ojha0324/forge"
+    "name": "BerriAI/litellm",
+    "stars": 60158,
+    "updated_at": "2026-10-05T16:26:21Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability ",
@@ -61,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-10-05T16:12:25Z",
     "url": "https://github.com/santiag6001/llm-engineering-platform"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60157,
-    "updated_at": "2026-10-05T16:12:52Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Track human movement in real-time using LiteRT.js and Three.js for browser-based 3D character animation without server d",
@@ -149,7 +257,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 35403,
-    "updated_at": "2026-10-05T16:05:58Z",
+    "updated_at": "2026-10-05T16:19:51Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -162,21 +270,12 @@
     "url": "https://github.com/frankxai/skills"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25721,
-    "updated_at": "2026-10-05T16:06:12Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
     "id": "srjn45/warden",
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-05T16:03:49Z",
+    "updated_at": "2026-10-05T16:24:44Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -198,15 +297,6 @@
     "url": "https://github.com/Rosalyndfaithful716/Guardrail"
   },
   {
-    "description": "Advisory AI code review for pull requests using only $0 OpenRouter free models \u2014 every finding deterministically anchore",
-    "id": "Laughing-Man-Studios/FreeReview",
-    "language": "TypeScript",
-    "name": "Laughing-Man-Studios/FreeReview",
-    "stars": 0,
-    "updated_at": "2026-10-05T16:02:08Z",
-    "url": "https://github.com/Laughing-Man-Studios/FreeReview"
-  },
-  {
     "description": "Multi-project ML platform monorepo: shared substrate across tabular, deep learning, LLM and agent projects. Multi-cloud ",
     "id": "DuqueOM/ml-platform",
     "language": "Python",
@@ -214,15 +304,6 @@
     "stars": 2,
     "updated_at": "2026-10-05T16:01:39Z",
     "url": "https://github.com/DuqueOM/ml-platform"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-05T16:00:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
@@ -279,15 +360,6 @@
     "url": "https://github.com/niyetbay0304/gateway"
   },
   {
-    "description": "An open source workflow engine for agent-driven software factories.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-10-05T16:04:22Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "Live cost, token and context usage sidebar for Claude Code: a mod that shows cost per turn, cache hit rate, burn rate an",
     "id": "andrewbakercloudscale/claude-code-cost-sidebar",
     "language": "Shell",
@@ -295,15 +367,6 @@
     "stars": 1,
     "updated_at": "2026-10-05T15:52:11Z",
     "url": "https://github.com/andrewbakercloudscale/claude-code-cost-sidebar"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8811,
-    "updated_at": "2026-10-05T16:00:33Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "The readable ReAct agent: a ~235-line step loop you can follow, plus 31 opt-in modules (sandbox, circuit breaker, struct",
@@ -385,68 +448,5 @@
     "stars": 29,
     "updated_at": "2026-10-05T15:44:50Z",
     "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "A deterministic linter for agent runs \u2014 reads the execution trace and flags structural bugs (ignored errors, schema viol",
-    "id": "AshwinUgale/tracelint",
-    "language": "Python",
-    "name": "AshwinUgale/tracelint",
-    "stars": 11,
-    "updated_at": "2026-10-05T15:43:49Z",
-    "url": "https://github.com/AshwinUgale/tracelint"
-  },
-  {
-    "description": "\ud83d\udcda Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical",
-    "id": "mviraj/KakeyaFiniteFields",
-    "language": "JavaScript",
-    "name": "mviraj/KakeyaFiniteFields",
-    "stars": 0,
-    "updated_at": "2026-10-05T15:42:57Z",
-    "url": "https://github.com/mviraj/KakeyaFiniteFields"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 506,
-    "updated_at": "2026-10-05T16:04:26Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Fail-closed CI checks for truncated agent runs, null handoffs, and open MCP tools.",
-    "id": "homayoun-safarpour/homi-gate",
-    "language": "Python",
-    "name": "homayoun-safarpour/homi-gate",
-    "stars": 0,
-    "updated_at": "2026-10-05T15:40:51Z",
-    "url": "https://github.com/homayoun-safarpour/homi-gate"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-10-05T15:39:15Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "A decision-oriented LLM engineering knowledge base \u2014 from Attention to production. 291 cards, 36-card path: fundamentals",
-    "id": "weicyang/llm-eng-cards",
-    "language": "HTML",
-    "name": "weicyang/llm-eng-cards",
-    "stars": 4,
-    "updated_at": "2026-10-05T15:34:20Z",
-    "url": "https://github.com/weicyang/llm-eng-cards"
-  },
-  {
-    "description": "The platform for continuously improving AI agents.",
-    "id": "overmind-core/overmind",
-    "language": "Python",
-    "name": "overmind-core/overmind",
-    "stars": 413,
-    "updated_at": "2026-10-05T15:45:12Z",
-    "url": "https://github.com/overmind-core/overmind"
   }
 ]
