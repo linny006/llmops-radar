@@ -1,21 +1,57 @@
 [
   {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "language": "Go",
-    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "stars": 1,
-    "updated_at": "2026-10-05T07:45:06Z",
-    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
-  },
-  {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
     "id": "mloda-ai/mloda",
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 94,
-    "updated_at": "2026-10-05T07:44:50Z",
+    "updated_at": "2026-10-05T07:59:47Z",
     "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35388,
+    "updated_at": "2026-10-05T07:59:11Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "language": "Go",
+    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-10-05T07:59:05Z",
+    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
+  },
+  {
+    "description": "Lightweight observability SDK for LLM cost, latency, and PII, that wraps OpenAI, Anthropic, Bedrock, Cohere, Mistral & V",
+    "id": "data-gras/savi-sdk",
+    "language": "Python",
+    "name": "data-gras/savi-sdk",
+    "stars": 0,
+    "updated_at": "2026-10-05T07:57:29Z",
+    "url": "https://github.com/data-gras/savi-sdk"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 24,
+    "updated_at": "2026-10-05T07:58:43Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-05T07:45:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Free, local, open-source LLM cost analyzer - see where your LLM bill leaks, on your machine.",
@@ -32,8 +68,17 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22381,
-    "updated_at": "2026-10-05T07:44:47Z",
+    "updated_at": "2026-10-05T07:57:15Z",
     "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60144,
+    "updated_at": "2026-10-05T07:59:47Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "An LLM router that uses built-in logic and system 1 decision models to intelligently route requests to the appropriate L",
@@ -108,30 +153,12 @@
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-05T07:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35388,
-    "updated_at": "2026-10-05T07:43:21Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
     "id": "dshakes/distil",
     "language": "Python",
     "name": "dshakes/distil",
     "stars": 18,
-    "updated_at": "2026-10-05T07:27:35Z",
+    "updated_at": "2026-10-05T07:53:59Z",
     "url": "https://github.com/dshakes/distil"
   },
   {
@@ -151,24 +178,6 @@
     "stars": 4914,
     "updated_at": "2026-10-05T07:26:57Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60143,
-    "updated_at": "2026-10-05T07:40:20Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Lightweight observability SDK for LLM cost, latency, and PII, that wraps OpenAI, Anthropic, Bedrock, Cohere, Mistral & V",
-    "id": "data-gras/savi-sdk",
-    "language": "Python",
-    "name": "data-gras/savi-sdk",
-    "stars": 0,
-    "updated_at": "2026-10-05T07:19:10Z",
-    "url": "https://github.com/data-gras/savi-sdk"
   },
   {
     "description": "Trace-native CI/CD for AI agents \u2014 production failures become regression tests that block the PR. Auto-detect, cluster, ",
@@ -202,7 +211,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 30442,
+    "stars": 30441,
     "updated_at": "2026-10-05T07:01:11Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -221,7 +230,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25712,
-    "updated_at": "2026-10-05T07:44:38Z",
+    "updated_at": "2026-10-05T07:56:35Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -239,7 +248,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-05T07:00:59Z",
+    "updated_at": "2026-10-05T07:45:27Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -257,7 +266,7 @@
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 618,
-    "updated_at": "2026-10-05T06:52:05Z",
+    "updated_at": "2026-10-05T07:45:31Z",
     "url": "https://github.com/Abilityai/trinity"
   },
   {
@@ -410,7 +419,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 10,
-    "updated_at": "2026-10-05T07:00:00Z",
+    "updated_at": "2026-10-05T07:51:04Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -437,16 +446,7 @@
     "language": "Ruby",
     "name": "sergey-homenko/llm_cost_tracker",
     "stars": 44,
-    "updated_at": "2026-10-05T06:02:51Z",
+    "updated_at": "2026-10-05T07:51:23Z",
     "url": "https://github.com/sergey-homenko/llm_cost_tracker"
-  },
-  {
-    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 40,
-    "updated_at": "2026-10-05T06:02:48Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
   }
 ]
