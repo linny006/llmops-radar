@@ -1,11 +1,83 @@
 [
   {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 505,
+    "updated_at": "2026-10-05T11:28:02Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Enterprise multimodal RAG QA for cosmetics knowledge: hybrid BM25/BGE/CLIP retrieval, reranking, evidence gating, RBAC, ",
+    "id": "Xander-Xai/Beauty-Industry-RAG-QA-System",
+    "language": "Python",
+    "name": "Xander-Xai/Beauty-Industry-RAG-QA-System",
+    "stars": 0,
+    "updated_at": "2026-10-05T11:27:23Z",
+    "url": "https://github.com/Xander-Xai/Beauty-Industry-RAG-QA-System"
+  },
+  {
+    "description": "A free, open-source AI infrastructure roadmap: a 9-layer map of the stack, 6 stages with exit criteria, around 200 vette",
+    "id": "iambiniyam/ai-infra-roadmap",
+    "language": "Python",
+    "name": "iambiniyam/ai-infra-roadmap",
+    "stars": 2,
+    "updated_at": "2026-10-05T11:25:50Z",
+    "url": "https://github.com/iambiniyam/ai-infra-roadmap"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22383,
+    "updated_at": "2026-10-05T11:25:38Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35392,
+    "updated_at": "2026-10-05T11:29:30Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
+    "id": "prasad-kavuri/prasad-portfolio",
+    "language": "TypeScript",
+    "name": "prasad-kavuri/prasad-portfolio",
+    "stars": 0,
+    "updated_at": "2026-10-05T11:24:05Z",
+    "url": "https://github.com/prasad-kavuri/prasad-portfolio"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 94,
+    "updated_at": "2026-10-05T11:29:51Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-05T11:15:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
     "stars": 8153,
-    "updated_at": "2026-10-05T11:15:08Z",
+    "updated_at": "2026-10-05T11:30:22Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
@@ -14,7 +86,7 @@
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 24,
-    "updated_at": "2026-10-05T11:14:42Z",
+    "updated_at": "2026-10-05T11:21:03Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
@@ -63,13 +135,13 @@
     "url": "https://github.com/yunaremaia/agent-call-graph"
   },
   {
-    "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
-    "id": "prasad-kavuri/prasad-portfolio",
-    "language": "TypeScript",
-    "name": "prasad-kavuri/prasad-portfolio",
-    "stars": 0,
-    "updated_at": "2026-10-05T11:11:00Z",
-    "url": "https://github.com/prasad-kavuri/prasad-portfolio"
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8808,
+    "updated_at": "2026-10-05T11:10:43Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
@@ -79,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-10-05T11:11:10Z",
     "url": "https://github.com/srjn45/warden"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-05T11:08:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Convert static anime images into structured, QA-checked PSDs with Codex, Colab GPU, and built-in motion preview.",
@@ -108,21 +171,12 @@
     "url": "https://github.com/future-agi/future-agi"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22382,
-    "updated_at": "2026-10-05T11:06:34Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25714,
-    "updated_at": "2026-10-05T11:06:34Z",
+    "updated_at": "2026-10-05T11:21:54Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -142,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-10-05T11:04:25Z",
     "url": "https://github.com/santiag6001/llm-engineering-platform"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35391,
-    "updated_at": "2026-10-05T11:03:35Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Track human movement in real-time using LiteRT.js and Three.js for browser-based 3D character animation without server d",
@@ -185,7 +230,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8551,
-    "updated_at": "2026-10-05T11:08:08Z",
+    "updated_at": "2026-10-05T11:30:10Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -212,7 +257,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 60144,
-    "updated_at": "2026-10-05T11:00:05Z",
+    "updated_at": "2026-10-05T11:26:29Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -221,7 +266,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28261,
-    "updated_at": "2026-10-05T11:08:59Z",
+    "updated_at": "2026-10-05T11:26:26Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -238,7 +283,7 @@
     "id": "lmnr-ai/lmnr",
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
-    "stars": 3298,
+    "stars": 3299,
     "updated_at": "2026-10-05T10:58:26Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
@@ -268,15 +313,6 @@
     "stars": 1,
     "updated_at": "2026-10-05T10:54:31Z",
     "url": "https://github.com/andrewbakercloudscale/claudecode-cost-usage-panel"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 505,
-    "updated_at": "2026-10-05T11:03:32Z",
-    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
@@ -340,15 +376,6 @@
     "stars": 44,
     "updated_at": "2026-10-05T10:44:34Z",
     "url": "https://github.com/sergey-homenko/llm_cost_tracker"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 94,
-    "updated_at": "2026-10-05T11:13:27Z",
-    "url": "https://github.com/mloda-ai/mloda"
   },
   {
     "description": "\ud83c\udfa4 Build real-time voice assistants with AgentOS 2 Live, utilizing OpenAI's Realtime API for seamless voice interactions ",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-05T10:37:38Z",
     "url": "https://github.com/mviraj/KakeyaFiniteFields"
-  },
-  {
-    "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
-    "id": "Amz34/awesome-agent-infrastructure",
-    "language": "Python",
-    "name": "Amz34/awesome-agent-infrastructure",
-    "stars": 0,
-    "updated_at": "2026-10-05T10:37:27Z",
-    "url": "https://github.com/Amz34/awesome-agent-infrastructure"
-  },
-  {
-    "description": "OpenLIT is the open-source agent harness engineering platform: trace, evaluate, guard, and improve everything around the",
-    "id": "openlit/openlit",
-    "language": "TypeScript",
-    "name": "openlit/openlit",
-    "stars": 2815,
-    "updated_at": "2026-10-05T10:33:54Z",
-    "url": "https://github.com/openlit/openlit"
-  },
-  {
-    "description": "Daily CI-refreshed history of LLM API pricing \u2014 snapshot + append-only change log for ~2,500 chat models (CSV, CC BY 4.0",
-    "id": "sophie-nguyenthuthuy/llm-pricing-history",
-    "language": "Python",
-    "name": "sophie-nguyenthuthuy/llm-pricing-history",
-    "stars": 1,
-    "updated_at": "2026-10-05T10:32:34Z",
-    "url": "https://github.com/sophie-nguyenthuthuy/llm-pricing-history"
   }
 ]
