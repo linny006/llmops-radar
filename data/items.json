@@ -1,12 +1,12 @@
 [
   {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "language": "Go",
-    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "stars": 1,
-    "updated_at": "2026-10-05T23:14:03Z",
-    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60169,
+    "updated_at": "2026-10-05T23:30:31Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "AgentFox: open-source control plane for AI agents. Guardrails on model traffic, tool calls bounded by capability grants,",
@@ -14,8 +14,44 @@
     "language": "Python",
     "name": "architsharm/agentfox",
     "stars": 3,
-    "updated_at": "2026-10-05T23:14:48Z",
+    "updated_at": "2026-10-05T23:25:55Z",
     "url": "https://github.com/architsharm/agentfox"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25729,
+    "updated_at": "2026-10-05T23:26:18Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Production-minded Hybrid KAG: Milvus + Neo4j, citations, eval gates, guardrails, and cost controls",
+    "id": "efolley/Rivet-KAG",
+    "language": "Python",
+    "name": "efolley/Rivet-KAG",
+    "stars": 0,
+    "updated_at": "2026-10-05T23:16:39Z",
+    "url": "https://github.com/efolley/Rivet-KAG"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-05T23:15:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "language": "Go",
+    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-10-05T23:27:52Z",
+    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
   },
   {
     "description": "Full-stack AI product research app built with Next.js and FastAPI. It analyzes top YouTube reviews and optional audience",
@@ -27,21 +63,12 @@
     "url": "https://github.com/YassirCher/reviewlens-ai"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60169,
-    "updated_at": "2026-10-05T23:14:55Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
     "id": "srjn45/warden",
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-05T23:06:54Z",
+    "updated_at": "2026-10-05T23:30:04Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -50,17 +77,8 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-05T23:05:31Z",
+    "updated_at": "2026-10-05T23:30:00Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-05T23:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Trace-native CI/CD for AI agents \u2014 production failures become regression tests that block the PR. Auto-detect, cluster, ",
@@ -347,7 +365,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4915,
-    "updated_at": "2026-10-05T22:22:45Z",
+    "updated_at": "2026-10-05T23:25:48Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-05T21:48:11Z",
     "url": "https://github.com/rsaudio/second-brain"
-  },
-  {
-    "description": "\u2708\ufe0f Plan personalized travel itineraries effortlessly with this agentic AI tool, streamlining your journey from start to ",
-    "id": "StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary",
-    "language": "Python",
-    "name": "StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary",
-    "stars": 2,
-    "updated_at": "2026-10-05T21:46:59Z",
-    "url": "https://github.com/StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary"
-  },
-  {
-    "description": "\ud83c\udfac Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend",
-    "id": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "language": "Python",
-    "name": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "stars": 2,
-    "updated_at": "2026-10-05T21:46:48Z",
-    "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
   }
 ]
