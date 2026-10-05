@@ -1,21 +1,84 @@
 [
   {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
+    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
+    "id": "luetzey/who2be",
     "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-10-05T18:29:33Z",
-    "url": "https://github.com/redevops-io/agentic-os"
+    "name": "luetzey/who2be",
+    "stars": 0,
+    "updated_at": "2026-10-05T18:45:21Z",
+    "url": "https://github.com/luetzey/who2be"
   },
   {
     "description": "A collection of practical, implementation-focused ideas showing how AI can be integrated into DevOps, Platform Engineeri",
     "id": "NotHarshhaa/devops-ai-implementation-ideas",
-    "language": "\u2014",
+    "language": "Python",
     "name": "NotHarshhaa/devops-ai-implementation-ideas",
     "stars": 2,
-    "updated_at": "2026-10-05T18:29:22Z",
+    "updated_at": "2026-10-05T18:42:15Z",
     "url": "https://github.com/NotHarshhaa/devops-ai-implementation-ideas"
+  },
+  {
+    "description": "Open-source enterprise AI governance and runtime oversight platform for policy, approvals, audit, telemetry, and inciden",
+    "id": "RevanthMeda/Enterprise-AI-Governance",
+    "language": "TypeScript",
+    "name": "RevanthMeda/Enterprise-AI-Governance",
+    "stars": 1,
+    "updated_at": "2026-10-05T18:40:03Z",
+    "url": "https://github.com/RevanthMeda/Enterprise-AI-Governance"
+  },
+  {
+    "description": "Claude Code plugin that streams your sessions to Rius as OpenTelemetry traces: prompts, model calls, tokens, tool calls ",
+    "id": "glassflow/rius-coding-agents",
+    "language": "Python",
+    "name": "glassflow/rius-coding-agents",
+    "stars": 2,
+    "updated_at": "2026-10-05T18:39:53Z",
+    "url": "https://github.com/glassflow/rius-coding-agents"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 29,
+    "updated_at": "2026-10-05T18:36:30Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
+    "id": "ShenSeanChen/waku-agent",
+    "language": "Python",
+    "name": "ShenSeanChen/waku-agent",
+    "stars": 1904,
+    "updated_at": "2026-10-05T18:42:35Z",
+    "url": "https://github.com/ShenSeanChen/waku-agent"
+  },
+  {
+    "description": "An open source workflow engine for agent-driven software factories.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-10-05T18:36:18Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 8187,
+    "updated_at": "2026-10-05T18:35:42Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "AgentFox: open-source control plane for AI agents. Guardrails on model traffic, tool calls bounded by capability grants,",
+    "id": "architsharm/agentfox",
+    "language": "Python",
+    "name": "architsharm/agentfox",
+    "stars": 3,
+    "updated_at": "2026-10-05T18:33:24Z",
+    "url": "https://github.com/architsharm/agentfox"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -23,8 +86,26 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 60163,
-    "updated_at": "2026-10-05T18:29:46Z",
+    "updated_at": "2026-10-05T18:45:02Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-05T18:30:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-10-05T18:42:36Z",
+    "url": "https://github.com/redevops-io/agentic-os"
   },
   {
     "description": "Open-source LLM/VLM load balancer and serving platform for self-hosting LLMs (and VLMs) at scale \ud83c\udfd3\ud83e\udd99 Alternative to proje",
@@ -63,21 +144,12 @@
     "url": "https://github.com/FlorianMartins/lineage-mlops"
   },
   {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 29,
-    "updated_at": "2026-10-05T18:20:59Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22390,
-    "updated_at": "2026-10-05T18:18:51Z",
+    "updated_at": "2026-10-05T18:31:29Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -88,24 +160,6 @@
     "stars": 506,
     "updated_at": "2026-10-05T18:18:30Z",
     "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 8187,
-    "updated_at": "2026-10-05T18:18:28Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-05T18:15:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "MLOps system for daily gold price prediction \u2014 five competing models, automatic Data/Concept Drift detection, retraining",
@@ -203,7 +257,7 @@
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 619,
-    "updated_at": "2026-10-05T18:25:18Z",
+    "updated_at": "2026-10-05T18:42:33Z",
     "url": "https://github.com/Abilityai/trinity"
   },
   {
@@ -221,7 +275,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8813,
-    "updated_at": "2026-10-05T18:22:20Z",
+    "updated_at": "2026-10-05T18:42:15Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -275,7 +329,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8562,
-    "updated_at": "2026-10-05T18:13:18Z",
+    "updated_at": "2026-10-05T18:45:21Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -347,7 +401,7 @@
     "language": "Python",
     "name": "Xander-Xai/Beauty-Industry-RAG-QA-System",
     "stars": 0,
-    "updated_at": "2026-10-05T18:28:49Z",
+    "updated_at": "2026-10-05T18:44:19Z",
     "url": "https://github.com/Xander-Xai/Beauty-Industry-RAG-QA-System"
   },
   {
@@ -391,62 +445,8 @@
     "id": "lmnr-ai/lmnr",
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
-    "stars": 3303,
+    "stars": 3304,
     "updated_at": "2026-10-05T16:36:20Z",
     "url": "https://github.com/lmnr-ai/lmnr"
-  },
-  {
-    "description": "Evidently AI \u2014 independent third-party profile of a public API surface, by API Evangelist. Evidently AI is an open-sourc",
-    "id": "api-evangelist/evidently",
-    "language": "\u2014",
-    "name": "api-evangelist/evidently",
-    "stars": 0,
-    "updated_at": "2026-10-05T16:35:10Z",
-    "url": "https://github.com/api-evangelist/evidently"
-  },
-  {
-    "description": "Self-hosted OpenAI/Anthropic-compatible gateway: give each AI agent run a dollar budget, enforced before the provider, w",
-    "id": "domondi1/inferrail",
-    "language": "Python",
-    "name": "domondi1/inferrail",
-    "stars": 0,
-    "updated_at": "2026-10-05T16:33:50Z",
-    "url": "https://github.com/domondi1/inferrail"
-  },
-  {
-    "description": "Agenta \u2014 independent third-party profile of a public API surface, by API Evangelist. Agenta is an open-source LLMOps pla",
-    "id": "api-evangelist/agenta",
-    "language": "\u2014",
-    "name": "api-evangelist/agenta",
-    "stars": 0,
-    "updated_at": "2026-10-05T16:32:13Z",
-    "url": "https://github.com/api-evangelist/agenta"
-  },
-  {
-    "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
-    "id": "ShenSeanChen/waku-agent",
-    "language": "Python",
-    "name": "ShenSeanChen/waku-agent",
-    "stars": 1904,
-    "updated_at": "2026-10-05T18:18:31Z",
-    "url": "https://github.com/ShenSeanChen/waku-agent"
-  },
-  {
-    "description": "Multi-tenant LLM inference platform on GKE: OpenAI-compatible gateway with circuit-breaker failover (vLLM on spot GPU \u2192 ",
-    "id": "harshit-ojha0324/forge",
-    "language": "Python",
-    "name": "harshit-ojha0324/forge",
-    "stars": 0,
-    "updated_at": "2026-10-05T16:25:27Z",
-    "url": "https://github.com/harshit-ojha0324/forge"
-  },
-  {
-    "description": "Dify with Let's Encrypt Using Docker Compose",
-    "id": "heyvaldemar/dify-traefik-letsencrypt-docker-compose",
-    "language": "Shell",
-    "name": "heyvaldemar/dify-traefik-letsencrypt-docker-compose",
-    "stars": 0,
-    "updated_at": "2026-10-05T16:22:47Z",
-    "url": "https://github.com/heyvaldemar/dify-traefik-letsencrypt-docker-compose"
   }
 ]
