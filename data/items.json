@@ -1,5 +1,68 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60168,
+    "updated_at": "2026-10-05T21:20:51Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-05T21:16:31Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "LLM cost routing with correct per-request cost: output-length forecasting, cache-aware tiered pricing, and $/quality ran",
+    "id": "Harunercul/thriftllm",
+    "language": "Python",
+    "name": "Harunercul/thriftllm",
+    "stars": 0,
+    "updated_at": "2026-10-05T21:16:21Z",
+    "url": "https://github.com/Harunercul/thriftllm"
+  },
+  {
+    "description": "Kubernetes-native control plane for AI agents that work inside the tools you already use \u2014 review PRs, triage issues, ac",
+    "id": "DominikPinsel/ainsel",
+    "language": "Go",
+    "name": "DominikPinsel/ainsel",
+    "stars": 3,
+    "updated_at": "2026-10-05T21:16:31Z",
+    "url": "https://github.com/DominikPinsel/ainsel"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 5,
+    "updated_at": "2026-10-05T21:13:47Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "A self-updating, auto-classified map of the GenAI engineering stack: agents, MCP, memory, RAG, evals, LLMOps, AI securit",
+    "id": "alebgl77/awesome-ai-architect",
+    "language": "Python",
+    "name": "alebgl77/awesome-ai-architect",
+    "stars": 0,
+    "updated_at": "2026-10-05T21:13:01Z",
+    "url": "https://github.com/alebgl77/awesome-ai-architect"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-05T21:11:16Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -9,30 +72,12 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "Kubernetes-native control plane for AI agents that work inside the tools you already use \u2014 review PRs, triage issues, ac",
-    "id": "DominikPinsel/ainsel",
-    "language": "Go",
-    "name": "DominikPinsel/ainsel",
-    "stars": 3,
-    "updated_at": "2026-10-05T21:08:42Z",
-    "url": "https://github.com/DominikPinsel/ainsel"
-  },
-  {
-    "description": "A self-updating, auto-classified map of the GenAI engineering stack: agents, MCP, memory, RAG, evals, LLMOps, AI securit",
-    "id": "alebgl77/awesome-ai-architect",
-    "language": "Python",
-    "name": "alebgl77/awesome-ai-architect",
-    "stars": 0,
-    "updated_at": "2026-10-05T21:07:13Z",
-    "url": "https://github.com/alebgl77/awesome-ai-architect"
-  },
-  {
     "description": "AgentFox: open-source control plane for AI agents. Guardrails on model traffic, tool calls bounded by capability grants,",
     "id": "architsharm/agentfox",
     "language": "Python",
     "name": "architsharm/agentfox",
     "stars": 3,
-    "updated_at": "2026-10-05T21:04:45Z",
+    "updated_at": "2026-10-05T21:17:57Z",
     "url": "https://github.com/architsharm/agentfox"
   },
   {
@@ -50,7 +95,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28273,
-    "updated_at": "2026-10-05T21:02:38Z",
+    "updated_at": "2026-10-05T21:14:05Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -59,8 +104,17 @@
     "language": "Go",
     "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "stars": 1,
-    "updated_at": "2026-10-05T21:05:36Z",
+    "updated_at": "2026-10-05T21:16:00Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35406,
+    "updated_at": "2026-10-05T21:14:00Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -68,7 +122,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11717,
-    "updated_at": "2026-10-05T21:09:57Z",
+    "updated_at": "2026-10-05T21:16:46Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -97,24 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-05T20:43:45Z",
     "url": "https://github.com/storm-software/mindctl"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60167,
-    "updated_at": "2026-10-05T21:10:40Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "LLM cost routing with correct per-request cost: output-length forecasting, cache-aware tiered pricing, and $/quality ran",
-    "id": "Harunercul/thriftllm",
-    "language": "Python",
-    "name": "Harunercul/thriftllm",
-    "stars": 0,
-    "updated_at": "2026-10-05T20:38:28Z",
-    "url": "https://github.com/Harunercul/thriftllm"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -221,7 +257,7 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-05T20:18:35Z",
+    "updated_at": "2026-10-05T21:17:38Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -230,7 +266,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8563,
-    "updated_at": "2026-10-05T20:51:10Z",
+    "updated_at": "2026-10-05T21:15:59Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -274,7 +310,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 8196,
+    "stars": 8197,
     "updated_at": "2026-10-05T20:13:49Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -313,24 +349,6 @@
     "stars": 1,
     "updated_at": "2026-10-05T20:09:09Z",
     "url": "https://github.com/thesecretrapper786-netizen/catalyst-n1"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35405,
-    "updated_at": "2026-10-05T20:59:00Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 5,
-    "updated_at": "2026-10-05T20:08:54Z",
-    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "Provide a structured, level-based study plan for SRE with free, online resources focused on core skills and advanced top",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-05T19:58:03Z",
     "url": "https://github.com/rsaudio/second-brain"
-  },
-  {
-    "description": "\u2708\ufe0f Plan personalized travel itineraries effortlessly with this agentic AI tool, streamlining your journey from start to ",
-    "id": "StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary",
-    "language": "Python",
-    "name": "StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary",
-    "stars": 2,
-    "updated_at": "2026-10-05T19:56:42Z",
-    "url": "https://github.com/StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary"
-  },
-  {
-    "description": "\ud83c\udfac Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend",
-    "id": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "language": "Python",
-    "name": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "stars": 2,
-    "updated_at": "2026-10-05T19:56:31Z",
-    "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
   }
 ]
