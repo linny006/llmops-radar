@@ -1,11 +1,29 @@
 [
   {
+    "description": "Lightweight observability SDK for LLM cost, latency, and PII, that wraps OpenAI, Anthropic, Bedrock, Cohere, Mistral & V",
+    "id": "data-gras/savi-sdk",
+    "language": "Python",
+    "name": "data-gras/savi-sdk",
+    "stars": 0,
+    "updated_at": "2026-10-05T08:15:10Z",
+    "url": "https://github.com/data-gras/savi-sdk"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-05T08:13:52Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
     "id": "mloda-ai/mloda",
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 94,
-    "updated_at": "2026-10-05T07:59:47Z",
+    "updated_at": "2026-10-05T08:13:31Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -13,9 +31,36 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 35388,
-    "updated_at": "2026-10-05T07:59:11Z",
+    "stars": 35387,
+    "updated_at": "2026-10-05T08:12:52Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "\ud83e\udea2 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework",
+    "id": "langfuse/langfuse-js",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse-js",
+    "stars": 171,
+    "updated_at": "2026-10-05T08:13:28Z",
+    "url": "https://github.com/langfuse/langfuse-js"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60142,
+    "updated_at": "2026-10-05T08:14:20Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25711,
+    "updated_at": "2026-10-05T08:11:27Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -23,17 +68,53 @@
     "language": "Go",
     "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "stars": 1,
-    "updated_at": "2026-10-05T07:59:05Z",
+    "updated_at": "2026-10-05T08:14:42Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
   },
   {
-    "description": "Lightweight observability SDK for LLM cost, latency, and PII, that wraps OpenAI, Anthropic, Bedrock, Cohere, Mistral & V",
-    "id": "data-gras/savi-sdk",
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-05T08:12:05Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "LLM spend tracking and budgets for Rails \u2014 by user, feature, or any tag, in your own database, no proxy.",
+    "id": "sergey-homenko/llm_cost_tracker",
+    "language": "Ruby",
+    "name": "sergey-homenko/llm_cost_tracker",
+    "stars": 44,
+    "updated_at": "2026-10-05T08:05:10Z",
+    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-05T08:04:42Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "AI agent that browses any website in a real browser (Playwright + Gemini/Claude/OpenAI), with security enforced in code:",
+    "id": "GustavoPFARIA/webpilot-agent",
     "language": "Python",
-    "name": "data-gras/savi-sdk",
+    "name": "GustavoPFARIA/webpilot-agent",
     "stars": 0,
-    "updated_at": "2026-10-05T07:57:29Z",
-    "url": "https://github.com/data-gras/savi-sdk"
+    "updated_at": "2026-10-05T08:04:29Z",
+    "url": "https://github.com/GustavoPFARIA/webpilot-agent"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-05T08:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
@@ -43,15 +124,6 @@
     "stars": 24,
     "updated_at": "2026-10-05T07:58:43Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-05T07:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Free, local, open-source LLM cost analyzer - see where your LLM bill leaks, on your machine.",
@@ -68,17 +140,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22381,
-    "updated_at": "2026-10-05T07:57:15Z",
+    "updated_at": "2026-10-05T08:08:10Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60144,
-    "updated_at": "2026-10-05T07:59:47Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "An LLM router that uses built-in logic and system 1 decision models to intelligently route requests to the appropriate L",
@@ -99,11 +162,20 @@
     "url": "https://github.com/asadhanif3188/InferOps"
   },
   {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5861,
+    "updated_at": "2026-10-05T07:36:26Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 28262,
+    "stars": 28260,
     "updated_at": "2026-10-05T07:36:01Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -117,30 +189,12 @@
     "url": "https://github.com/ErikClaveau/safe-spending-sql"
   },
   {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5862,
-    "updated_at": "2026-10-05T07:36:26Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-05T07:35:12Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8554,
-    "updated_at": "2026-10-05T07:44:04Z",
+    "updated_at": "2026-10-05T08:12:52Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -162,6 +216,24 @@
     "url": "https://github.com/dshakes/distil"
   },
   {
+    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4913,
+    "updated_at": "2026-10-05T07:26:57Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8807,
+    "updated_at": "2026-10-05T07:24:31Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
     "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
     "id": "ShenSeanChen/waku-agent",
     "language": "Python",
@@ -171,20 +243,11 @@
     "url": "https://github.com/ShenSeanChen/waku-agent"
   },
   {
-    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4914,
-    "updated_at": "2026-10-05T07:26:57Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "Trace-native CI/CD for AI agents \u2014 production failures become regression tests that block the PR. Auto-detect, cluster, ",
     "id": "Jwuthri/Tracely-ai",
     "language": "Python",
     "name": "Jwuthri/Tracely-ai",
-    "stars": 1474,
+    "stars": 1475,
     "updated_at": "2026-10-05T07:14:02Z",
     "url": "https://github.com/Jwuthri/Tracely-ai"
   },
@@ -211,7 +274,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 30441,
+    "stars": 30436,
     "updated_at": "2026-10-05T07:01:11Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -225,15 +288,6 @@
     "url": "https://github.com/pom11/hscc"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25712,
-    "updated_at": "2026-10-05T07:56:35Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Detect drift between LLM prompts and their evaluation tests \u2014 when prompts change but evals don't",
     "id": "yunaremaia/prompt-drift",
     "language": "Python",
@@ -241,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-10-05T06:54:09Z",
     "url": "https://github.com/yunaremaia/prompt-drift"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-05T07:45:27Z",
-    "url": "https://github.com/vocion/vocion-core"
   },
   {
     "description": "Analyze a coding session log and report repeated tool calls, loops that went nowhere, and turns that blew the token budg",
@@ -270,15 +315,6 @@
     "url": "https://github.com/Abilityai/trinity"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-05T06:42:55Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "Multi-project ML platform monorepo: shared substrate across tabular, deep learning, LLM and agent projects. Multi-cloud ",
     "id": "DuqueOM/ml-platform",
     "language": "Python",
@@ -292,7 +328,7 @@
     "id": "vllm-project/vllm-ascend",
     "language": "Python",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2920,
+    "stars": 2921,
     "updated_at": "2026-10-05T06:40:18Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
@@ -333,13 +369,13 @@
     "url": "https://github.com/Kozphy/EvalForge"
   },
   {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8809,
-    "updated_at": "2026-10-05T07:24:31Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
+    "description": "I built an AI Pair Engineer that acts as a pre-review engineering partner ",
+    "id": "AwonAziz/AI-Pair-Engineer",
+    "language": "Python",
+    "name": "AwonAziz/AI-Pair-Engineer",
+    "stars": 0,
+    "updated_at": "2026-10-05T06:24:37Z",
+    "url": "https://github.com/AwonAziz/AI-Pair-Engineer"
   },
   {
     "description": "A self-hosted OpenAI-compatible proxy and web app for debugging, testing, and improving AI agents.",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-05T06:06:21Z",
     "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
-  },
-  {
-    "description": "An open source workflow engine for agent-driven software factories.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 10,
-    "updated_at": "2026-10-05T07:51:04Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
-    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "language": "Dockerfile",
-    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "stars": 0,
-    "updated_at": "2026-10-05T06:05:00Z",
-    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "Tracing, monitoring, cost tracking and debugging for AI agents and LLM apps in production.",
-    "id": "ianwieds/awesome-agent-observability",
-    "language": "JavaScript",
-    "name": "ianwieds/awesome-agent-observability",
-    "stars": 1,
-    "updated_at": "2026-10-05T06:13:17Z",
-    "url": "https://github.com/ianwieds/awesome-agent-observability"
-  },
-  {
-    "description": "LLM spend tracking and budgets for Rails \u2014 by user, feature, or any tag, in your own database, no proxy.",
-    "id": "sergey-homenko/llm_cost_tracker",
-    "language": "Ruby",
-    "name": "sergey-homenko/llm_cost_tracker",
-    "stars": 44,
-    "updated_at": "2026-10-05T07:51:23Z",
-    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
   }
 ]
