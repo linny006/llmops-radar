@@ -1,12 +1,102 @@
 [
   {
+    "description": "A lightweight self-service portal and API for managing LiteLLM keys",
+    "id": "brtydse100/litegate",
+    "language": "Python",
+    "name": "brtydse100/litegate",
+    "stars": 6,
+    "updated_at": "2026-10-05T19:29:53Z",
+    "url": "https://github.com/brtydse100/litegate"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 60166,
-    "updated_at": "2026-10-05T19:15:00Z",
+    "updated_at": "2026-10-05T19:31:06Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Kubernetes-native control plane for AI agents that work inside the tools you already use \u2014 review PRs, triage issues, ac",
+    "id": "DominikPinsel/ainsel",
+    "language": "Go",
+    "name": "DominikPinsel/ainsel",
+    "stars": 3,
+    "updated_at": "2026-10-05T19:30:37Z",
+    "url": "https://github.com/DominikPinsel/ainsel"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-05T19:28:37Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 29,
+    "updated_at": "2026-10-05T19:26:46Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 8190,
+    "updated_at": "2026-10-05T19:28:46Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "A self-hosted zero-cost LLM routing stack that discovers, benchmarks, and routes to the best currently free models.",
+    "id": "sjfakharian/zerospend",
+    "language": "JavaScript",
+    "name": "sjfakharian/zerospend",
+    "stars": 2,
+    "updated_at": "2026-10-05T19:25:24Z",
+    "url": "https://github.com/sjfakharian/zerospend"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35403,
+    "updated_at": "2026-10-05T19:23:46Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-05T19:21:56Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "A secured MLOps lifecycle for small language models: versioned data, poisoning checks, pinned base models, evaluation ga",
+    "id": "FlorianMartins/lineage-mlops",
+    "language": "Python",
+    "name": "FlorianMartins/lineage-mlops",
+    "stars": 0,
+    "updated_at": "2026-10-05T19:18:05Z",
+    "url": "https://github.com/FlorianMartins/lineage-mlops"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-05T19:15:55Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
@@ -32,8 +122,17 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-05T19:14:01Z",
+    "updated_at": "2026-10-05T19:16:57Z",
     "url": "https://github.com/srjn45/warden"
+  },
+  {
+    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4916,
+    "updated_at": "2026-10-05T19:30:27Z",
+    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Enterprise multimodal RAG QA for cosmetics knowledge: hybrid BM25/BGE/CLIP retrieval, reranking, evidence gating, RBAC, ",
@@ -41,7 +140,7 @@
     "language": "Python",
     "name": "Xander-Xai/Beauty-Industry-RAG-QA-System",
     "stars": 0,
-    "updated_at": "2026-10-05T19:11:07Z",
+    "updated_at": "2026-10-05T19:21:52Z",
     "url": "https://github.com/Xander-Xai/Beauty-Industry-RAG-QA-System"
   },
   {
@@ -81,15 +180,6 @@
     "url": "https://github.com/burakdede/lorepack"
   },
   {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 8189,
-    "updated_at": "2026-10-05T19:08:17Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
     "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
     "id": "ShenSeanChen/waku-agent",
     "language": "Python",
@@ -99,30 +189,12 @@
     "url": "https://github.com/ShenSeanChen/waku-agent"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-05T19:05:38Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 29,
-    "updated_at": "2026-10-05T19:04:31Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
     "description": "AgentFox: open-source control plane for AI agents. Guardrails on model traffic, tool calls bounded by capability grants,",
     "id": "architsharm/agentfox",
     "language": "Python",
     "name": "architsharm/agentfox",
     "stars": 3,
-    "updated_at": "2026-10-05T18:59:15Z",
+    "updated_at": "2026-10-05T19:24:16Z",
     "url": "https://github.com/architsharm/agentfox"
   },
   {
@@ -133,15 +205,6 @@
     "stars": 44,
     "updated_at": "2026-10-05T18:55:23Z",
     "url": "https://github.com/sergey-homenko/llm_cost_tracker"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-05T18:53:55Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "A collection of practical, implementation-focused ideas showing how AI can be integrated into DevOps, Platform Engineeri",
@@ -158,7 +221,7 @@
     "language": "Python",
     "name": "luetzey/who2be",
     "stars": 0,
-    "updated_at": "2026-10-05T18:45:21Z",
+    "updated_at": "2026-10-05T19:22:19Z",
     "url": "https://github.com/luetzey/who2be"
   },
   {
@@ -167,7 +230,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8562,
-    "updated_at": "2026-10-05T19:15:44Z",
+    "updated_at": "2026-10-05T19:26:23Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -234,15 +297,6 @@
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
-    "description": "A secured MLOps lifecycle for small language models: versioned data, poisoning checks, pinned base models, evaluation ga",
-    "id": "FlorianMartins/lineage-mlops",
-    "language": "Python",
-    "name": "FlorianMartins/lineage-mlops",
-    "stars": 0,
-    "updated_at": "2026-10-05T18:21:28Z",
-    "url": "https://github.com/FlorianMartins/lineage-mlops"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
@@ -257,7 +311,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 506,
-    "updated_at": "2026-10-05T18:18:30Z",
+    "updated_at": "2026-10-05T19:16:15Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -324,21 +378,12 @@
     "url": "https://github.com/Justin0504/federated-agent-audit"
   },
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35403,
-    "updated_at": "2026-10-05T19:15:28Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Self-hosted AI Agents Platform supporting Claude Code, Codex, Gemini agents. Apache 2.0.  ",
     "id": "Abilityai/trinity",
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 619,
-    "updated_at": "2026-10-05T19:07:59Z",
+    "updated_at": "2026-10-05T19:29:36Z",
     "url": "https://github.com/Abilityai/trinity"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 25727,
     "updated_at": "2026-10-05T18:51:57Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Seldon \u2014 independent third-party profile of a public API surface, by API Evangelist. Seldon is a Kubernetes-native MLOps",
-    "id": "api-evangelist/seldon",
-    "language": "\u2014",
-    "name": "api-evangelist/seldon",
-    "stars": 0,
-    "updated_at": "2026-10-05T17:39:20Z",
-    "url": "https://github.com/api-evangelist/seldon"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 24,
-    "updated_at": "2026-10-05T17:44:11Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
-    "id": "judgekeeper/judgekeeper",
-    "language": "Python",
-    "name": "judgekeeper/judgekeeper",
-    "stars": 0,
-    "updated_at": "2026-10-05T17:25:17Z",
-    "url": "https://github.com/judgekeeper/judgekeeper"
-  },
-  {
-    "description": "Advisory AI code review for pull requests using only $0 OpenRouter free models \u2014 every finding deterministically anchore",
-    "id": "Laughing-Man-Studios/FreeReview",
-    "language": "TypeScript",
-    "name": "Laughing-Man-Studios/FreeReview",
-    "stars": 0,
-    "updated_at": "2026-10-05T17:22:13Z",
-    "url": "https://github.com/Laughing-Man-Studios/FreeReview"
-  },
-  {
-    "description": "A decision-oriented LLM engineering knowledge base \u2014 from Attention to production. 291 cards, 36-card path: fundamentals",
-    "id": "weicyang/llm-eng-cards",
-    "language": "HTML",
-    "name": "weicyang/llm-eng-cards",
-    "stars": 4,
-    "updated_at": "2026-10-05T17:19:57Z",
-    "url": "https://github.com/weicyang/llm-eng-cards"
   }
 ]
