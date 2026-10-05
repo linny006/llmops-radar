@@ -1,12 +1,111 @@
 [
   {
+    "description": "\ud83d\udcda Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical",
+    "id": "mviraj/KakeyaFiniteFields",
+    "language": "JavaScript",
+    "name": "mviraj/KakeyaFiniteFields",
+    "stars": 0,
+    "updated_at": "2026-10-05T21:44:32Z",
+    "url": "https://github.com/mviraj/KakeyaFiniteFields"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 396,
+    "updated_at": "2026-10-05T21:45:17Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60168,
+    "updated_at": "2026-10-05T21:45:17Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8814,
+    "updated_at": "2026-10-05T21:37:43Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-10-05T21:35:48Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
     "description": "Kubernetes-native control plane for AI agents that work inside the tools you already use \u2014 review PRs, triage issues, ac",
     "id": "DominikPinsel/ainsel",
     "language": "Go",
     "name": "DominikPinsel/ainsel",
     "stars": 3,
-    "updated_at": "2026-10-05T21:30:28Z",
+    "updated_at": "2026-10-05T21:35:34Z",
     "url": "https://github.com/DominikPinsel/ainsel"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8564,
+    "updated_at": "2026-10-05T21:35:09Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Self-hosted OpenAI/Anthropic-compatible gateway: give each AI agent run a dollar budget, enforced before the provider, w",
+    "id": "domondi1/inferrail",
+    "language": "Python",
+    "name": "domondi1/inferrail",
+    "stars": 0,
+    "updated_at": "2026-10-05T21:34:25Z",
+    "url": "https://github.com/domondi1/inferrail"
+  },
+  {
+    "description": "Multimodal RAG QA for cosmetics regulation: hybrid BM25 + vector recall, two-stage reranking, evidence gating that refus",
+    "id": "Xander-Xai/Beauty-Industry-RAG-QA-System",
+    "language": "Python",
+    "name": "Xander-Xai/Beauty-Industry-RAG-QA-System",
+    "stars": 0,
+    "updated_at": "2026-10-05T21:32:45Z",
+    "url": "https://github.com/Xander-Xai/Beauty-Industry-RAG-QA-System"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
+    "id": "empiredestroyer/AI-Prompt-Enhancer",
+    "language": "\u2014",
+    "name": "empiredestroyer/AI-Prompt-Enhancer",
+    "stars": 2,
+    "updated_at": "2026-10-05T21:31:07Z",
+    "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-05T21:30:35Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 83,
+    "updated_at": "2026-10-05T21:41:32Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
     "description": "Production-oriented LangGraph multi-agent customer service system with hybrid RAG, durable execution, HITL, evaluation, ",
@@ -23,7 +122,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-05T21:28:42Z",
+    "updated_at": "2026-10-05T21:33:12Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -72,29 +171,11 @@
     "url": "https://github.com/admina-org/admina"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-05T21:21:06Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60168,
-    "updated_at": "2026-10-05T21:30:06Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "LLM cost routing with correct per-request cost: output-length forecasting, cache-aware tiered pricing, and $/quality ran",
     "id": "Harunercul/thriftllm",
     "language": "Python",
     "name": "Harunercul/thriftllm",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-10-05T21:16:21Z",
     "url": "https://github.com/Harunercul/thriftllm"
   },
@@ -149,7 +230,7 @@
     "language": "Go",
     "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "stars": 1,
-    "updated_at": "2026-10-05T21:16:00Z",
+    "updated_at": "2026-10-05T21:37:49Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
   },
   {
@@ -293,17 +374,8 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-05T21:22:55Z",
+    "updated_at": "2026-10-05T21:43:47Z",
     "url": "https://github.com/srjn45/warden"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8563,
-    "updated_at": "2026-10-05T21:21:10Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
@@ -346,7 +418,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 8198,
+    "stars": 8202,
     "updated_at": "2026-10-05T20:13:49Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-05T20:11:35Z",
     "url": "https://github.com/toxicwind/ranch"
-  },
-  {
-    "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
-    "id": "thesecretrapper786-netizen/catalyst-n1",
-    "language": "\u2014",
-    "name": "thesecretrapper786-netizen/catalyst-n1",
-    "stars": 1,
-    "updated_at": "2026-10-05T20:09:09Z",
-    "url": "https://github.com/thesecretrapper786-netizen/catalyst-n1"
-  },
-  {
-    "description": "Provide a structured, level-based study plan for SRE with free, online resources focused on core skills and advanced top",
-    "id": "downpaymentbulbul49/plano_estudos_sre",
-    "language": "\u2014",
-    "name": "downpaymentbulbul49/plano_estudos_sre",
-    "stars": 0,
-    "updated_at": "2026-10-05T20:08:53Z",
-    "url": "https://github.com/downpaymentbulbul49/plano_estudos_sre"
-  },
-  {
-    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
-    "id": "saddled-panicattack529/idea-evaluation-pipeline",
-    "language": "\u2014",
-    "name": "saddled-panicattack529/idea-evaluation-pipeline",
-    "stars": 0,
-    "updated_at": "2026-10-05T20:08:51Z",
-    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
-    "id": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "language": "Python",
-    "name": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "stars": 2,
-    "updated_at": "2026-10-05T20:05:41Z",
-    "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to",
-    "id": "Firmancaaa/rest-gateway-1771916753-3",
-    "language": "\u2014",
-    "name": "Firmancaaa/rest-gateway-1771916753-3",
-    "stars": 0,
-    "updated_at": "2026-10-05T20:05:08Z",
-    "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
-  },
-  {
-    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
-    "id": "niyetbay0304/gateway",
-    "language": "Go",
-    "name": "niyetbay0304/gateway",
-    "stars": 1,
-    "updated_at": "2026-10-05T20:04:06Z",
-    "url": "https://github.com/niyetbay0304/gateway"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 94,
-    "updated_at": "2026-10-05T20:16:43Z",
-    "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "\ud83c\udfa4 Build real-time voice assistants with AgentOS 2 Live, utilizing OpenAI's Realtime API for seamless voice interactions ",
-    "id": "rozario-1234/end2end_sample",
-    "language": "TypeScript",
-    "name": "rozario-1234/end2end_sample",
-    "stars": 1,
-    "updated_at": "2026-10-05T19:59:08Z",
-    "url": "https://github.com/rozario-1234/end2end_sample"
   }
 ]
