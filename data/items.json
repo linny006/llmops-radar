@@ -1,5 +1,113 @@
 [
   {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-10-05T19:04:53Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 29,
+    "updated_at": "2026-10-05T19:04:31Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60166,
+    "updated_at": "2026-10-05T19:05:02Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
+    "id": "ShenSeanChen/waku-agent",
+    "language": "Python",
+    "name": "ShenSeanChen/waku-agent",
+    "stars": 1904,
+    "updated_at": "2026-10-05T19:01:14Z",
+    "url": "https://github.com/ShenSeanChen/waku-agent"
+  },
+  {
+    "description": "AgentFox: open-source control plane for AI agents. Guardrails on model traffic, tool calls bounded by capability grants,",
+    "id": "architsharm/agentfox",
+    "language": "Python",
+    "name": "architsharm/agentfox",
+    "stars": 3,
+    "updated_at": "2026-10-05T18:59:15Z",
+    "url": "https://github.com/architsharm/agentfox"
+  },
+  {
+    "description": "LLM spend tracking and budgets for Rails \u2014 by user, feature, or any tag, in your own database, no proxy.",
+    "id": "sergey-homenko/llm_cost_tracker",
+    "language": "Ruby",
+    "name": "sergey-homenko/llm_cost_tracker",
+    "stars": 44,
+    "updated_at": "2026-10-05T18:55:23Z",
+    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
+  },
+  {
+    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
+    "id": "srjn45/warden",
+    "language": "Go",
+    "name": "srjn45/warden",
+    "stars": 2,
+    "updated_at": "2026-10-05T19:05:24Z",
+    "url": "https://github.com/srjn45/warden"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-05T18:53:55Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "A collection of practical, implementation-focused ideas showing how AI can be integrated into DevOps, Platform Engineeri",
+    "id": "NotHarshhaa/devops-ai-implementation-ideas",
+    "language": "Python",
+    "name": "NotHarshhaa/devops-ai-implementation-ideas",
+    "stars": 2,
+    "updated_at": "2026-10-05T18:53:21Z",
+    "url": "https://github.com/NotHarshhaa/devops-ai-implementation-ideas"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 8188,
+    "updated_at": "2026-10-05T18:51:56Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
+    "id": "burakdede/lorepack",
+    "language": "TypeScript",
+    "name": "burakdede/lorepack",
+    "stars": 2,
+    "updated_at": "2026-10-05T18:49:01Z",
+    "url": "https://github.com/burakdede/lorepack"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-05T18:45:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
     "id": "luetzey/who2be",
     "language": "Python",
@@ -9,13 +117,13 @@
     "url": "https://github.com/luetzey/who2be"
   },
   {
-    "description": "A collection of practical, implementation-focused ideas showing how AI can be integrated into DevOps, Platform Engineeri",
-    "id": "NotHarshhaa/devops-ai-implementation-ideas",
-    "language": "Python",
-    "name": "NotHarshhaa/devops-ai-implementation-ideas",
-    "stars": 2,
-    "updated_at": "2026-10-05T18:42:15Z",
-    "url": "https://github.com/NotHarshhaa/devops-ai-implementation-ideas"
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8562,
+    "updated_at": "2026-10-05T18:45:33Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Open-source enterprise AI governance and runtime oversight platform for policy, approvals, audit, telemetry, and inciden",
@@ -36,24 +144,6 @@
     "url": "https://github.com/glassflow/rius-coding-agents"
   },
   {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 29,
-    "updated_at": "2026-10-05T18:36:30Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
-    "id": "ShenSeanChen/waku-agent",
-    "language": "Python",
-    "name": "ShenSeanChen/waku-agent",
-    "stars": 1904,
-    "updated_at": "2026-10-05T18:42:35Z",
-    "url": "https://github.com/ShenSeanChen/waku-agent"
-  },
-  {
     "description": "An open source workflow engine for agent-driven software factories.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
@@ -63,49 +153,13 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
     "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 8187,
-    "updated_at": "2026-10-05T18:35:42Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "AgentFox: open-source control plane for AI agents. Guardrails on model traffic, tool calls bounded by capability grants,",
-    "id": "architsharm/agentfox",
-    "language": "Python",
-    "name": "architsharm/agentfox",
-    "stars": 3,
-    "updated_at": "2026-10-05T18:33:24Z",
-    "url": "https://github.com/architsharm/agentfox"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60163,
-    "updated_at": "2026-10-05T18:45:02Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-05T18:30:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-10-05T18:42:36Z",
-    "url": "https://github.com/redevops-io/agentic-os"
+    "name": "Arize-ai/phoenix",
+    "stars": 11715,
+    "updated_at": "2026-10-05T18:25:37Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Open-source LLM/VLM load balancer and serving platform for self-hosting LLMs (and VLMs) at scale \ud83c\udfd3\ud83e\udd99 Alternative to proje",
@@ -131,7 +185,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 82,
-    "updated_at": "2026-10-05T18:22:34Z",
+    "updated_at": "2026-10-05T19:01:29Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -149,7 +203,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22390,
-    "updated_at": "2026-10-05T18:31:29Z",
+    "updated_at": "2026-10-05T19:00:32Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -169,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-10-05T18:14:44Z",
     "url": "https://github.com/vv0vv3r/ModelJoust"
-  },
-  {
-    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
-    "id": "burakdede/lorepack",
-    "language": "TypeScript",
-    "name": "burakdede/lorepack",
-    "stars": 2,
-    "updated_at": "2026-10-05T18:26:51Z",
-    "url": "https://github.com/burakdede/lorepack"
   },
   {
     "description": "Failure Compiler for AI agents: turn failed outputs into replayable regression cases.",
@@ -216,20 +261,11 @@
     "url": "https://github.com/melaya-labs/melaya"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-05T18:04:12Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 28270,
+    "stars": 28271,
     "updated_at": "2026-10-05T18:03:30Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -248,7 +284,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 35403,
-    "updated_at": "2026-10-05T17:54:32Z",
+    "updated_at": "2026-10-05T19:00:19Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -257,7 +293,7 @@
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 619,
-    "updated_at": "2026-10-05T18:42:33Z",
+    "updated_at": "2026-10-05T19:05:04Z",
     "url": "https://github.com/Abilityai/trinity"
   },
   {
@@ -320,17 +356,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25727,
-    "updated_at": "2026-10-05T18:28:51Z",
+    "updated_at": "2026-10-05T18:51:57Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8562,
-    "updated_at": "2026-10-05T18:45:21Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Seldon \u2014 independent third-party profile of a public API surface, by API Evangelist. Seldon is a Kubernetes-native MLOps",
@@ -378,6 +405,15 @@
     "url": "https://github.com/weicyang/llm-eng-cards"
   },
   {
+    "description": "The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, a",
+    "id": "bentoml/BentoML",
+    "language": "Python",
+    "name": "bentoml/BentoML",
+    "stars": 8878,
+    "updated_at": "2026-10-05T17:17:22Z",
+    "url": "https://github.com/bentoml/BentoML"
+  },
+  {
     "description": "Live cost, token and context usage sidebar for Claude Code: a mod that shows cost per turn, cache hit rate, burn rate an",
     "id": "andrewbakercloudscale/claude-code-cost-sidebar",
     "language": "Shell",
@@ -401,17 +437,8 @@
     "language": "Python",
     "name": "Xander-Xai/Beauty-Industry-RAG-QA-System",
     "stars": 0,
-    "updated_at": "2026-10-05T18:44:19Z",
+    "updated_at": "2026-10-05T19:04:06Z",
     "url": "https://github.com/Xander-Xai/Beauty-Industry-RAG-QA-System"
-  },
-  {
-    "description": "LLM spend tracking and budgets for Rails \u2014 by user, feature, or any tag, in your own database, no proxy.",
-    "id": "sergey-homenko/llm_cost_tracker",
-    "language": "Ruby",
-    "name": "sergey-homenko/llm_cost_tracker",
-    "stars": 44,
-    "updated_at": "2026-10-05T18:25:08Z",
-    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
   },
   {
     "description": "Catch fabricated RAG citations before they reach the user: a zero-token verbatim gate + a burden-of-proof judge, framewo",
@@ -421,32 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-05T16:38:58Z",
     "url": "https://github.com/tonydzi/verbatim-citation-gate"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-05T17:30:05Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "Tools that produce evidence about what an AI agent actually did \u2014 gates, attestation, output verification, benchmarks. I",
-    "id": "tonydzi/awesome-verified-agents",
-    "language": "\u2014",
-    "name": "tonydzi/awesome-verified-agents",
-    "stars": 1,
-    "updated_at": "2026-10-05T16:37:46Z",
-    "url": "https://github.com/tonydzi/awesome-verified-agents"
-  },
-  {
-    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
-    "id": "lmnr-ai/lmnr",
-    "language": "TypeScript",
-    "name": "lmnr-ai/lmnr",
-    "stars": 3304,
-    "updated_at": "2026-10-05T16:36:20Z",
-    "url": "https://github.com/lmnr-ai/lmnr"
   }
 ]
