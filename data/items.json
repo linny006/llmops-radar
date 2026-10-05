@@ -5,17 +5,26 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8554,
-    "updated_at": "2026-10-05T07:15:16Z",
+    "updated_at": "2026-10-05T07:30:06Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
-    "description": "Trace-native CI/CD for AI agents \u2014 production failures become regression tests that block the PR. Auto-detect, cluster, ",
-    "id": "Jwuthri/Tracely-ai",
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-05T07:28:50Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
+    "id": "dshakes/distil",
     "language": "Python",
-    "name": "Jwuthri/Tracely-ai",
-    "stars": 1473,
-    "updated_at": "2026-10-05T07:14:02Z",
-    "url": "https://github.com/Jwuthri/Tracely-ai"
+    "name": "dshakes/distil",
+    "stars": 18,
+    "updated_at": "2026-10-05T07:27:35Z",
+    "url": "https://github.com/dshakes/distil"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -23,8 +32,71 @@
     "language": "Go",
     "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "stars": 1,
-    "updated_at": "2026-10-05T07:14:01Z",
+    "updated_at": "2026-10-05T07:29:46Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
+  },
+  {
+    "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
+    "id": "ShenSeanChen/waku-agent",
+    "language": "Python",
+    "name": "ShenSeanChen/waku-agent",
+    "stars": 1905,
+    "updated_at": "2026-10-05T07:24:21Z",
+    "url": "https://github.com/ShenSeanChen/waku-agent"
+  },
+  {
+    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4914,
+    "updated_at": "2026-10-05T07:26:57Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60143,
+    "updated_at": "2026-10-05T07:20:49Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Lightweight observability SDK for LLM cost, latency, and PII, that wraps OpenAI, Anthropic, Bedrock, Cohere, Mistral & V",
+    "id": "data-gras/savi-sdk",
+    "language": "Python",
+    "name": "data-gras/savi-sdk",
+    "stars": 0,
+    "updated_at": "2026-10-05T07:19:10Z",
+    "url": "https://github.com/data-gras/savi-sdk"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22381,
+    "updated_at": "2026-10-05T07:23:06Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-05T07:15:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Trace-native CI/CD for AI agents \u2014 production failures become regression tests that block the PR. Auto-detect, cluster, ",
+    "id": "Jwuthri/Tracely-ai",
+    "language": "Python",
+    "name": "Jwuthri/Tracely-ai",
+    "stars": 1474,
+    "updated_at": "2026-10-05T07:14:02Z",
+    "url": "https://github.com/Jwuthri/Tracely-ai"
   },
   {
     "description": "Open-source runtime for governed multi-agent AI \u2014 define agents, tools and human-approval gates as data (YAML), run unde",
@@ -32,7 +104,7 @@
     "language": "Python",
     "name": "delivstat/swarmkit",
     "stars": 3,
-    "updated_at": "2026-10-05T07:10:09Z",
+    "updated_at": "2026-10-05T07:26:05Z",
     "url": "https://github.com/delivstat/swarmkit"
   },
   {
@@ -49,18 +121,9 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 28261,
+    "stars": 28262,
     "updated_at": "2026-10-05T07:01:43Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-05T07:00:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
@@ -72,21 +135,12 @@
     "url": "https://github.com/pom11/hscc"
   },
   {
-    "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code buil",
-    "id": "ShenSeanChen/waku-agent",
-    "language": "Python",
-    "name": "ShenSeanChen/waku-agent",
-    "stars": 1905,
-    "updated_at": "2026-10-05T07:07:52Z",
-    "url": "https://github.com/ShenSeanChen/waku-agent"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25712,
-    "updated_at": "2026-10-05T07:08:22Z",
+    "updated_at": "2026-10-05T07:24:12Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -117,13 +171,13 @@
     "url": "https://github.com/yunaremaia/agent-call-graph"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-05T06:49:14Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
+    "description": "Self-hosted AI Agents Platform supporting Claude Code, Codex, Gemini agents. Apache 2.0.  ",
+    "id": "Abilityai/trinity",
+    "language": "Python",
+    "name": "Abilityai/trinity",
+    "stars": 618,
+    "updated_at": "2026-10-05T06:52:05Z",
+    "url": "https://github.com/Abilityai/trinity"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -203,7 +257,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8809,
-    "updated_at": "2026-10-05T06:22:44Z",
+    "updated_at": "2026-10-05T07:24:31Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -214,15 +268,6 @@
     "stars": 3,
     "updated_at": "2026-10-05T06:22:18Z",
     "url": "https://github.com/NordsteinSoftware/Proxytrace"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60141,
-    "updated_at": "2026-10-05T07:13:31Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Drop-in LLM proxy that cuts AI API costs 30-40% with semantic caching, cost-aware routing and multi-provider failover.",
@@ -248,7 +293,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 35387,
-    "updated_at": "2026-10-05T07:03:14Z",
+    "updated_at": "2026-10-05T07:28:04Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-05T05:57:11Z",
     "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
-    "id": "kawaiirashi/llm-retry",
-    "language": "C++",
-    "name": "kawaiirashi/llm-retry",
-    "stars": 1,
-    "updated_at": "2026-10-05T05:57:06Z",
-    "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
-    "id": "Anbumani08/agentic-coding-workflow",
-    "language": "HTML",
-    "name": "Anbumani08/agentic-coding-workflow",
-    "stars": 0,
-    "updated_at": "2026-10-05T05:57:04Z",
-    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-10-05T05:56:36Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
-  },
-  {
-    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
-    "id": "sarrahw23/deploy-guide",
-    "language": "\u2014",
-    "name": "sarrahw23/deploy-guide",
-    "stars": 1,
-    "updated_at": "2026-10-05T05:56:27Z",
-    "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
-    "id": "rvhn/rest-gateway-1771918257-5",
-    "language": "\u2014",
-    "name": "rvhn/rest-gateway-1771918257-5",
-    "stars": 0,
-    "updated_at": "2026-10-05T05:55:04Z",
-    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
   }
 ]
