@@ -1,12 +1,30 @@
 [
   {
-    "description": "Live cost, token and context usage sidebar for Claude Code: a mod that shows cost per turn, cache hit rate, burn rate an",
-    "id": "andrewbakercloudscale/claude-code-cost-sidebar",
-    "language": "Shell",
-    "name": "andrewbakercloudscale/claude-code-cost-sidebar",
-    "stars": 1,
-    "updated_at": "2026-10-06T18:42:42Z",
-    "url": "https://github.com/andrewbakercloudscale/claude-code-cost-sidebar"
+    "description": "The platform for continuously improving AI agents.",
+    "id": "overmind-core/overmind",
+    "language": "Python",
+    "name": "overmind-core/overmind",
+    "stars": 467,
+    "updated_at": "2026-10-06T19:00:19Z",
+    "url": "https://github.com/overmind-core/overmind"
+  },
+  {
+    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4922,
+    "updated_at": "2026-10-06T18:59:17Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
+    "id": "judgekeeper/judgekeeper",
+    "language": "Python",
+    "name": "judgekeeper/judgekeeper",
+    "stars": 0,
+    "updated_at": "2026-10-06T18:55:31Z",
+    "url": "https://github.com/judgekeeper/judgekeeper"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -14,8 +32,53 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 60233,
-    "updated_at": "2026-10-06T18:42:21Z",
+    "updated_at": "2026-10-06T18:58:22Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open-source infrastructure for the full inference lifecycle: deploy, observe, scale, optimize, and safely release self-h",
+    "id": "infercrane/infercrane",
+    "language": "Go",
+    "name": "infercrane/infercrane",
+    "stars": 52,
+    "updated_at": "2026-10-06T18:56:16Z",
+    "url": "https://github.com/infercrane/infercrane"
+  },
+  {
+    "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
+    "id": "runcycles/cycles-docs",
+    "language": "Vue",
+    "name": "runcycles/cycles-docs",
+    "stars": 4,
+    "updated_at": "2026-10-06T18:50:42Z",
+    "url": "https://github.com/runcycles/cycles-docs"
+  },
+  {
+    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
+    "id": "burakdede/lorepack",
+    "language": "TypeScript",
+    "name": "burakdede/lorepack",
+    "stars": 2,
+    "updated_at": "2026-10-06T18:52:37Z",
+    "url": "https://github.com/burakdede/lorepack"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-06T18:45:44Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Live cost, token and context usage sidebar for Claude Code: a mod that shows cost per turn, cache hit rate, burn rate an",
+    "id": "andrewbakercloudscale/claude-code-cost-sidebar",
+    "language": "Shell",
+    "name": "andrewbakercloudscale/claude-code-cost-sidebar",
+    "stars": 1,
+    "updated_at": "2026-10-06T18:42:42Z",
+    "url": "https://github.com/andrewbakercloudscale/claude-code-cost-sidebar"
   },
   {
     "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
@@ -59,7 +122,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22404,
-    "updated_at": "2026-10-06T18:33:15Z",
+    "updated_at": "2026-10-06T18:55:47Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -90,21 +153,12 @@
     "url": "https://github.com/vivek-541/vivek-541"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-06T18:30:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
     "id": "maks3201/decision-model-operator",
     "language": "Go",
     "name": "maks3201/decision-model-operator",
     "stars": 0,
-    "updated_at": "2026-10-06T18:28:56Z",
+    "updated_at": "2026-10-06T18:54:55Z",
     "url": "https://github.com/maks3201/decision-model-operator"
   },
   {
@@ -115,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-10-06T18:43:52Z",
     "url": "https://github.com/antonij-tracium/tracium"
-  },
-  {
-    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4921,
-    "updated_at": "2026-10-06T18:42:09Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
@@ -158,7 +203,7 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-06T18:39:15Z",
+    "updated_at": "2026-10-06T19:00:19Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -176,7 +221,7 @@
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 624,
-    "updated_at": "2026-10-06T18:37:52Z",
+    "updated_at": "2026-10-06T18:56:27Z",
     "url": "https://github.com/Abilityai/trinity"
   },
   {
@@ -214,24 +259,6 @@
     "stars": 7469,
     "updated_at": "2026-10-06T18:13:02Z",
     "url": "https://github.com/traceloop/openllmetry"
-  },
-  {
-    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
-    "id": "burakdede/lorepack",
-    "language": "TypeScript",
-    "name": "burakdede/lorepack",
-    "stars": 2,
-    "updated_at": "2026-10-06T18:31:10Z",
-    "url": "https://github.com/burakdede/lorepack"
-  },
-  {
-    "description": "The platform for continuously improving AI agents.",
-    "id": "overmind-core/overmind",
-    "language": "Python",
-    "name": "overmind-core/overmind",
-    "stars": 465,
-    "updated_at": "2026-10-06T18:09:49Z",
-    "url": "https://github.com/overmind-core/overmind"
   },
   {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
@@ -275,7 +302,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 83,
-    "updated_at": "2026-10-06T18:43:41Z",
+    "updated_at": "2026-10-06T18:50:27Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -322,15 +349,6 @@
     "stars": 1,
     "updated_at": "2026-10-06T17:51:21Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
-    "id": "judgekeeper/judgekeeper",
-    "language": "Python",
-    "name": "judgekeeper/judgekeeper",
-    "stars": 0,
-    "updated_at": "2026-10-06T18:25:51Z",
-    "url": "https://github.com/judgekeeper/judgekeeper"
   },
   {
     "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
@@ -383,7 +401,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3345,
-    "updated_at": "2026-10-06T17:21:01Z",
+    "updated_at": "2026-10-06T18:50:13Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-06T17:05:35Z",
     "url": "https://github.com/justanotheruser82174/cua-lite"
-  },
-  {
-    "description": "Retrieve multilingual visual documents with ultra-compact token embeddings from this Qwen3.5-4B-powered ColPali engine.",
-    "id": "Satisfiable-polopony613/EVIE-Preview-4.5B",
-    "language": "Python",
-    "name": "Satisfiable-polopony613/EVIE-Preview-4.5B",
-    "stars": 2,
-    "updated_at": "2026-10-06T17:04:51Z",
-    "url": "https://github.com/Satisfiable-polopony613/EVIE-Preview-4.5B"
-  },
-  {
-    "description": "Build and evaluate production-ready RAG pipelines with hands-on notebooks, templates, and proven performance strategies.",
-    "id": "ashrafb8962/agentic-ops-and-rag",
-    "language": "Jupyter Notebook",
-    "name": "ashrafb8962/agentic-ops-and-rag",
-    "stars": 0,
-    "updated_at": "2026-10-06T17:03:52Z",
-    "url": "https://github.com/ashrafb8962/agentic-ops-and-rag"
   }
 ]
