@@ -1,12 +1,75 @@
 [
   {
-    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
-    "id": "AixleHQ/flow",
-    "language": "Ruby",
-    "name": "AixleHQ/flow",
-    "stars": 19,
-    "updated_at": "2026-10-06T16:57:32Z",
-    "url": "https://github.com/AixleHQ/flow"
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 8260,
+    "updated_at": "2026-10-06T17:13:30Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "The platform for continuously improving AI agents.",
+    "id": "overmind-core/overmind",
+    "language": "Python",
+    "name": "overmind-core/overmind",
+    "stars": 452,
+    "updated_at": "2026-10-06T17:12:07Z",
+    "url": "https://github.com/overmind-core/overmind"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-10-06T17:11:45Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60235,
+    "updated_at": "2026-10-06T17:14:51Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
+    "id": "lmnr-ai/lmnr",
+    "language": "TypeScript",
+    "name": "lmnr-ai/lmnr",
+    "stars": 3345,
+    "updated_at": "2026-10-06T17:09:01Z",
+    "url": "https://github.com/lmnr-ai/lmnr"
+  },
+  {
+    "description": "Turn Claude into a context-aware red team operator with 78 drop-in offensive security skills across 23 categories.",
+    "id": "urellai22/Claude-Red",
+    "language": "Python",
+    "name": "urellai22/Claude-Red",
+    "stars": 0,
+    "updated_at": "2026-10-06T17:07:39Z",
+    "url": "https://github.com/urellai22/Claude-Red"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 24,
+    "updated_at": "2026-10-06T17:12:23Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Drop-in LLM proxy that cuts input tokens 30\u201370% (54.1% measured, quality-gated) across 27 transparent optimisations \u2014 ca",
+    "id": "sumitdevgupto/TokenLean",
+    "language": "Python",
+    "name": "sumitdevgupto/TokenLean",
+    "stars": 3,
+    "updated_at": "2026-10-06T17:06:19Z",
+    "url": "https://github.com/sumitdevgupto/TokenLean"
   },
   {
     "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
@@ -14,8 +77,89 @@
     "language": "Go",
     "name": "maks3201/decision-model-operator",
     "stars": 0,
-    "updated_at": "2026-10-06T16:58:37Z",
+    "updated_at": "2026-10-06T17:05:50Z",
     "url": "https://github.com/maks3201/decision-model-operator"
+  },
+  {
+    "description": "Standardize computer-use agents, sandboxes, data, evaluation, SFT, and RL across desktop, browser, and mobile with one u",
+    "id": "justanotheruser82174/cua-lite",
+    "language": "Python",
+    "name": "justanotheruser82174/cua-lite",
+    "stars": 0,
+    "updated_at": "2026-10-06T17:05:35Z",
+    "url": "https://github.com/justanotheruser82174/cua-lite"
+  },
+  {
+    "description": "Retrieve multilingual visual documents with ultra-compact token embeddings from this Qwen3.5-4B-powered ColPali engine.",
+    "id": "Satisfiable-polopony613/EVIE-Preview-4.5B",
+    "language": "Python",
+    "name": "Satisfiable-polopony613/EVIE-Preview-4.5B",
+    "stars": 2,
+    "updated_at": "2026-10-06T17:04:51Z",
+    "url": "https://github.com/Satisfiable-polopony613/EVIE-Preview-4.5B"
+  },
+  {
+    "description": "Build and evaluate production-ready RAG pipelines with hands-on notebooks, templates, and proven performance strategies.",
+    "id": "ashrafb8962/agentic-ops-and-rag",
+    "language": "Jupyter Notebook",
+    "name": "ashrafb8962/agentic-ops-and-rag",
+    "stars": 0,
+    "updated_at": "2026-10-06T17:03:52Z",
+    "url": "https://github.com/ashrafb8962/agentic-ops-and-rag"
+  },
+  {
+    "description": "Manage AI model access with a secure gateway featuring load balancing, rate limiting, and audit trails for OpenAI, Groq,",
+    "id": "sargentfragrant429/AgentAccessManager",
+    "language": "\u2014",
+    "name": "sargentfragrant429/AgentAccessManager",
+    "stars": 0,
+    "updated_at": "2026-10-06T17:02:56Z",
+    "url": "https://github.com/sargentfragrant429/AgentAccessManager"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-10-06T17:02:53Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-06T17:00:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11732,
+    "updated_at": "2026-10-06T16:57:42Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
+    "id": "AixleHQ/flow",
+    "language": "Ruby",
+    "name": "AixleHQ/flow",
+    "stars": 19,
+    "updated_at": "2026-10-06T17:08:04Z",
+    "url": "https://github.com/AixleHQ/flow"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8585,
+    "updated_at": "2026-10-06T17:11:28Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
@@ -25,24 +169,6 @@
     "stars": 27,
     "updated_at": "2026-10-06T16:56:52Z",
     "url": "https://github.com/cubxxw/blog"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 8259,
-    "updated_at": "2026-10-06T16:59:20Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60235,
-    "updated_at": "2026-10-06T16:56:33Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
@@ -59,17 +185,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 35439,
-    "updated_at": "2026-10-06T16:51:46Z",
+    "updated_at": "2026-10-06T17:11:45Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 24,
-    "updated_at": "2026-10-06T16:52:39Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "OpenTelemetry Instrumentation for AI Observability",
@@ -103,7 +220,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25749,
+    "stars": 25750,
     "updated_at": "2026-10-06T16:46:16Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -113,17 +230,8 @@
     "language": "TypeScript",
     "name": "burakdede/lorepack",
     "stars": 2,
-    "updated_at": "2026-10-06T16:56:18Z",
+    "updated_at": "2026-10-06T17:03:04Z",
     "url": "https://github.com/burakdede/lorepack"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-06T16:45:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -176,7 +284,7 @@
     "language": "Python",
     "name": "juanjtov/adlc-pipeline",
     "stars": 0,
-    "updated_at": "2026-10-06T16:45:18Z",
+    "updated_at": "2026-10-06T17:13:55Z",
     "url": "https://github.com/juanjtov/adlc-pipeline"
   },
   {
@@ -185,7 +293,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 510,
-    "updated_at": "2026-10-06T16:58:01Z",
+    "updated_at": "2026-10-06T17:06:45Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -203,7 +311,7 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 29,
-    "updated_at": "2026-10-06T16:35:43Z",
+    "updated_at": "2026-10-06T17:10:24Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -223,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T16:33:26Z",
     "url": "https://github.com/jaindivyanshu/ai-leadership-lab"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8584,
-    "updated_at": "2026-10-06T16:57:23Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Open Source workflow engine for agents.",
@@ -257,7 +356,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 2116,
-    "updated_at": "2026-10-06T16:51:45Z",
+    "updated_at": "2026-10-06T17:08:35Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -266,7 +365,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4920,
-    "updated_at": "2026-10-06T16:41:02Z",
+    "updated_at": "2026-10-06T17:09:59Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -279,15 +378,6 @@
     "url": "https://github.com/vocion/vocion-core"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11731,
-    "updated_at": "2026-10-06T16:57:42Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
     "id": "Impure-platen433/crabllm",
     "language": "Rust",
@@ -295,15 +385,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T16:13:41Z",
     "url": "https://github.com/Impure-platen433/crabllm"
-  },
-  {
-    "description": "The platform for continuously improving AI agents.",
-    "id": "overmind-core/overmind",
-    "language": "Python",
-    "name": "overmind-core/overmind",
-    "stars": 451,
-    "updated_at": "2026-10-06T16:59:12Z",
-    "url": "https://github.com/overmind-core/overmind"
   },
   {
     "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
@@ -367,86 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-06T16:00:35Z",
     "url": "https://github.com/GaBySuGy/agent-guardrails"
-  },
-  {
-    "description": "\ud83d\udd0d Explore the shift from MLOps to LLMOps with materials that simplify AI deployment and enhance document intelligence.",
-    "id": "Farukul-Islam/from-mlops-to-llmops",
-    "language": "PHP",
-    "name": "Farukul-Islam/from-mlops-to-llmops",
-    "stars": 0,
-    "updated_at": "2026-10-06T15:59:02Z",
-    "url": "https://github.com/Farukul-Islam/from-mlops-to-llmops"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI behavior guidelines with SpecGuard, a tool that turns policies into executable tests for reliable and scal",
-    "id": "Tearfullnex/SpecGuard",
-    "language": "Python",
-    "name": "Tearfullnex/SpecGuard",
-    "stars": 0,
-    "updated_at": "2026-10-06T15:58:20Z",
-    "url": "https://github.com/Tearfullnex/SpecGuard"
-  },
-  {
-    "description": "Tuned Variables Language (TVL) by Traigent: typed specification language, validators, CLI tools, editor support, and doc",
-    "id": "Traigent/tvl",
-    "language": "Python",
-    "name": "Traigent/tvl",
-    "stars": 0,
-    "updated_at": "2026-10-06T16:19:01Z",
-    "url": "https://github.com/Traigent/tvl"
-  },
-  {
-    "description": "\ud83d\udcca Build insightful sales dashboards for SuperStore, enhancing decision-making and driving business growth with real-time",
-    "id": "matiaslanza99/SuperStore.SalesDashboard",
-    "language": "CSS",
-    "name": "matiaslanza99/SuperStore.SalesDashboard",
-    "stars": 1,
-    "updated_at": "2026-10-06T15:57:17Z",
-    "url": "https://github.com/matiaslanza99/SuperStore.SalesDashboard"
-  },
-  {
-    "description": "Self-hosted AI Agents Platform supporting Claude Code, Codex, Gemini agents. Apache 2.0.  ",
-    "id": "Abilityai/trinity",
-    "language": "Python",
-    "name": "Abilityai/trinity",
-    "stars": 623,
-    "updated_at": "2026-10-06T16:54:25Z",
-    "url": "https://github.com/Abilityai/trinity"
-  },
-  {
-    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
-    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "language": "Python",
-    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "stars": 3,
-    "updated_at": "2026-10-06T15:54:53Z",
-    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
-    "description": "End-to-end Langfuse workshop using a TypeScript Agent to teach the AI engineering loop: tracing, prompt management, moni",
-    "id": "langfuse/langfuse-workshop",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse-workshop",
-    "stars": 52,
-    "updated_at": "2026-10-06T15:53:10Z",
-    "url": "https://github.com/langfuse/langfuse-workshop"
-  },
-  {
-    "description": "\ud83d\ude80 Expose your LangChain agents as services with zero configuration; turn scripts into web services using simple wrappers",
-    "id": "Lukaa1507/langchain-runner",
-    "language": "Python",
-    "name": "Lukaa1507/langchain-runner",
-    "stars": 1,
-    "updated_at": "2026-10-06T15:53:08Z",
-    "url": "https://github.com/Lukaa1507/langchain-runner"
-  },
-  {
-    "description": "\ud83c\udf89 An awesome & curated list of best LLMOps tools.",
-    "id": "InftyAI/Awesome-LLMOps",
-    "language": "Python",
-    "name": "InftyAI/Awesome-LLMOps",
-    "stars": 264,
-    "updated_at": "2026-10-06T15:41:57Z",
-    "url": "https://github.com/InftyAI/Awesome-LLMOps"
   }
 ]
