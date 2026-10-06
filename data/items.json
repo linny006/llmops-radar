@@ -1,5 +1,113 @@
 [
   {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 508,
+    "updated_at": "2026-10-06T09:29:37Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "MCP server to connect an MCP client (Cursor, Claude Desktop etc) with your ZenML MLOps and LLMOps pipelines",
+    "id": "zenml-io/mcp-zenml",
+    "language": "Python",
+    "name": "zenml-io/mcp-zenml",
+    "stars": 49,
+    "updated_at": "2026-10-06T09:29:21Z",
+    "url": "https://github.com/zenml-io/mcp-zenml"
+  },
+  {
+    "description": "LLM spend tracking and budgets for Rails \u2014 by user, feature, or any tag, in your own database, no proxy.",
+    "id": "sergey-homenko/llm_cost_tracker",
+    "language": "Ruby",
+    "name": "sergey-homenko/llm_cost_tracker",
+    "stars": 44,
+    "updated_at": "2026-10-06T09:27:26Z",
+    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 29,
+    "updated_at": "2026-10-06T09:26:15Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60206,
+    "updated_at": "2026-10-06T09:28:13Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
+    "id": "rknightion/genai-otel-bridge",
+    "language": "Go",
+    "name": "rknightion/genai-otel-bridge",
+    "stars": 1,
+    "updated_at": "2026-10-06T09:24:38Z",
+    "url": "https://github.com/rknightion/genai-otel-bridge"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22401,
+    "updated_at": "2026-10-06T09:29:43Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Fail-closed CI checks for truncated agent runs, null handoffs, and open MCP tools.",
+    "id": "homayoun-safarpour/homi-gate",
+    "language": "Python",
+    "name": "homayoun-safarpour/homi-gate",
+    "stars": 0,
+    "updated_at": "2026-10-06T09:21:20Z",
+    "url": "https://github.com/homayoun-safarpour/homi-gate"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35426,
+    "updated_at": "2026-10-06T09:25:30Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28279,
+    "updated_at": "2026-10-06T09:18:47Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 396,
+    "updated_at": "2026-10-06T09:28:23Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-06T09:15:34Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The readable ReAct agent: a ~235-line step loop you can follow, plus 31 opt-in modules (sandbox, circuit breaker, struct",
     "id": "musokean/forge",
     "language": "Python",
@@ -14,7 +122,7 @@
     "language": "Go",
     "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "stars": 1,
-    "updated_at": "2026-10-06T09:14:44Z",
+    "updated_at": "2026-10-06T09:28:12Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
   },
   {
@@ -27,31 +135,13 @@
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 29,
-    "updated_at": "2026-10-06T09:12:06Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22401,
-    "updated_at": "2026-10-06T09:14:37Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 396,
-    "updated_at": "2026-10-06T09:10:20Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8575,
+    "updated_at": "2026-10-06T09:12:03Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
@@ -81,15 +171,6 @@
     "url": "https://github.com/iblai/os"
   },
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35426,
-    "updated_at": "2026-10-06T09:13:02Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
     "id": "cuihuan/awesome-ai-gateway",
     "language": "HTML",
@@ -106,33 +187,6 @@
     "stars": 6,
     "updated_at": "2026-10-06T09:11:44Z",
     "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 508,
-    "updated_at": "2026-10-06T09:14:38Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "LLM spend tracking and budgets for Rails \u2014 by user, feature, or any tag, in your own database, no proxy.",
-    "id": "sergey-homenko/llm_cost_tracker",
-    "language": "Ruby",
-    "name": "sergey-homenko/llm_cost_tracker",
-    "stars": 44,
-    "updated_at": "2026-10-06T09:07:18Z",
-    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60206,
-    "updated_at": "2026-10-06T09:14:23Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -162,21 +216,12 @@
     "url": "https://github.com/arcnosixta/squeeze"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-06T09:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4918,
-    "updated_at": "2026-10-06T09:12:00Z",
+    "updated_at": "2026-10-06T09:25:23Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -212,7 +257,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 94,
-    "updated_at": "2026-10-06T08:53:22Z",
+    "updated_at": "2026-10-06T09:16:04Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -248,7 +293,7 @@
     "language": "Python",
     "name": "glassflow/rius-coding-agents",
     "stars": 2,
-    "updated_at": "2026-10-06T09:14:10Z",
+    "updated_at": "2026-10-06T09:29:36Z",
     "url": "https://github.com/glassflow/rius-coding-agents"
   },
   {
@@ -256,18 +301,9 @@
     "id": "overmind-core/overmind",
     "language": "Python",
     "name": "overmind-core/overmind",
-    "stars": 443,
+    "stars": 444,
     "updated_at": "2026-10-06T08:37:37Z",
     "url": "https://github.com/overmind-core/overmind"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8574,
-    "updated_at": "2026-10-06T09:12:03Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Build, Manage and Deploy AI/ML Systems",
@@ -315,15 +351,6 @@
     "url": "https://github.com/toxicwind/ranch"
   },
   {
-    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
-    "id": "rknightion/genai-otel-bridge",
-    "language": "Go",
-    "name": "rknightion/genai-otel-bridge",
-    "stars": 1,
-    "updated_at": "2026-10-06T08:34:34Z",
-    "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
     "description": "Turn Claude into a context-aware red team operator with 78 drop-in offensive security skills across 23 categories.",
     "id": "urellai22/Claude-Red",
     "language": "Python",
@@ -358,15 +385,6 @@
     "stars": 2,
     "updated_at": "2026-10-06T08:13:51Z",
     "url": "https://github.com/Satisfiable-polopony613/EVIE-Preview-4.5B"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28278,
-    "updated_at": "2026-10-06T09:04:17Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Build and evaluate production-ready RAG pipelines with hands-on notebooks, templates, and proven performance strategies.",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-06T08:03:41Z",
     "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
-  },
-  {
-    "description": "Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards",
-    "id": "wordenneapolitan768/llm-pricing",
-    "language": "\u2014",
-    "name": "wordenneapolitan768/llm-pricing",
-    "stars": 1,
-    "updated_at": "2026-10-06T08:02:12Z",
-    "url": "https://github.com/wordenneapolitan768/llm-pricing"
-  },
-  {
-    "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
-    "id": "Orlyoxidized462/py-prompt-versioner",
-    "language": "Python",
-    "name": "Orlyoxidized462/py-prompt-versioner",
-    "stars": 1,
-    "updated_at": "2026-10-06T08:00:05Z",
-    "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
   }
 ]
