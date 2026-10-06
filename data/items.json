@@ -1,21 +1,66 @@
 [
   {
-    "description": "Budgeted model routing with shared quotas, context packing, failover, telemetry, and ECS infrastructure.",
-    "id": "christianwhollar/inference-router",
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
     "language": "Python",
-    "name": "christianwhollar/inference-router",
-    "stars": 0,
-    "updated_at": "2026-10-06T03:58:36Z",
-    "url": "https://github.com/christianwhollar/inference-router"
+    "name": "pom11/hscc",
+    "stars": 6,
+    "updated_at": "2026-10-06T04:12:54Z",
+    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 60176,
-    "updated_at": "2026-10-06T04:00:26Z",
+    "stars": 60177,
+    "updated_at": "2026-10-06T04:10:03Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
+    "id": "0xLazAI/alith",
+    "language": "Rust",
+    "name": "0xLazAI/alith",
+    "stars": 44,
+    "updated_at": "2026-10-06T04:08:54Z",
+    "url": "https://github.com/0xLazAI/alith"
+  },
+  {
+    "description": "Self-hosted, MCP-based AI agent platform on k3s in WSL2: Ollama (3B, CPU-only), LangGraph, Qdrant, MLflow, Dagster, n8n,",
+    "id": "nixvarghese01/local-ai-platform",
+    "language": "Python",
+    "name": "nixvarghese01/local-ai-platform",
+    "stars": 0,
+    "updated_at": "2026-10-06T04:08:52Z",
+    "url": "https://github.com/nixvarghese01/local-ai-platform"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25733,
+    "updated_at": "2026-10-06T04:08:23Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-06T04:00:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Budgeted model routing with shared quotas, context packing, failover, telemetry, and ECS infrastructure.",
+    "id": "christianwhollar/inference-router",
+    "language": "Python",
+    "name": "christianwhollar/inference-router",
+    "stars": 0,
+    "updated_at": "2026-10-06T04:00:50Z",
+    "url": "https://github.com/christianwhollar/inference-router"
   },
   {
     "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
@@ -52,33 +97,6 @@
     "stars": 3,
     "updated_at": "2026-10-06T03:48:48Z",
     "url": "https://github.com/delivstat/swarmkit"
-  },
-  {
-    "description": "Self-hosted, MCP-based AI agent platform on k3s in WSL2: Ollama (3B, CPU-only), LangGraph, Qdrant, MLflow, Dagster, n8n,",
-    "id": "nixvarghese01/local-ai-platform",
-    "language": "Python",
-    "name": "nixvarghese01/local-ai-platform",
-    "stars": 0,
-    "updated_at": "2026-10-06T03:48:08Z",
-    "url": "https://github.com/nixvarghese01/local-ai-platform"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-06T03:45:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 6,
-    "updated_at": "2026-10-06T03:33:53Z",
-    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "Stateful AI agent rehearsal and outcome verification \u2014 inject failures, verify final state, block regressions.",
@@ -221,7 +239,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4917,
-    "updated_at": "2026-10-06T03:51:34Z",
+    "updated_at": "2026-10-06T04:15:15Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -347,7 +365,7 @@
     "language": "Python",
     "name": "luetzey/who2be",
     "stars": 0,
-    "updated_at": "2026-10-06T02:54:22Z",
+    "updated_at": "2026-10-06T04:10:32Z",
     "url": "https://github.com/luetzey/who2be"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-06T02:56:50Z",
     "url": "https://github.com/alinafe82/persistent-cognitive-infrastructure"
-  },
-  {
-    "description": "A hands-on library for DevOps, Cloud, and AI engineers: real production scenarios for AWS, Kubernetes, Docker, and LLMOp",
-    "id": "sandeepk24/learn-devops-playbook",
-    "language": "Python",
-    "name": "sandeepk24/learn-devops-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-06T02:35:08Z",
-    "url": "https://github.com/sandeepk24/learn-devops-playbook"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-06T02:15:44Z",
-    "url": "https://github.com/vocion/vocion-core"
   }
 ]
