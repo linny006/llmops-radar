@@ -1,10 +1,64 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60236,
+    "updated_at": "2026-10-06T19:14:58Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The open framework for governed AI development: EU AI Act compliance, PII redaction, MCP proxy, prompt-injection firewal",
+    "id": "admina-org/admina",
+    "language": "Python",
+    "name": "admina-org/admina",
+    "stars": 7,
+    "updated_at": "2026-10-06T19:14:49Z",
+    "url": "https://github.com/admina-org/admina"
+  },
+  {
+    "description": "A 660-note, fully-linked Obsidian vault covering AI engineering end to end: foundations, architectures, training, infere",
+    "id": "DizzyMii/ai-engineering-brain",
+    "language": "Python",
+    "name": "DizzyMii/ai-engineering-brain",
+    "stars": 3,
+    "updated_at": "2026-10-06T19:08:01Z",
+    "url": "https://github.com/DizzyMii/ai-engineering-brain"
+  },
+  {
+    "description": "Six Claude Code skills that harden Opus 4.8 toward frontier behavior. Written by Fable 5, pressure-tested on the target ",
+    "id": "DizzyMii/fable-skills",
+    "language": "TypeScript",
+    "name": "DizzyMii/fable-skills",
+    "stars": 55,
+    "updated_at": "2026-10-06T19:07:55Z",
+    "url": "https://github.com/DizzyMii/fable-skills"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 6,
+    "updated_at": "2026-10-06T19:05:21Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-06T19:00:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The platform for continuously improving AI agents.",
     "id": "overmind-core/overmind",
     "language": "Python",
     "name": "overmind-core/overmind",
-    "stars": 467,
+    "stars": 469,
     "updated_at": "2026-10-06T19:00:19Z",
     "url": "https://github.com/overmind-core/overmind"
   },
@@ -14,7 +68,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4922,
-    "updated_at": "2026-10-06T18:59:17Z",
+    "updated_at": "2026-10-06T19:08:31Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -23,17 +77,8 @@
     "language": "Python",
     "name": "judgekeeper/judgekeeper",
     "stars": 0,
-    "updated_at": "2026-10-06T18:55:31Z",
+    "updated_at": "2026-10-06T19:03:10Z",
     "url": "https://github.com/judgekeeper/judgekeeper"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60233,
-    "updated_at": "2026-10-06T18:58:22Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Open-source infrastructure for the full inference lifecycle: deploy, observe, scale, optimize, and safely release self-h",
@@ -41,7 +86,7 @@
     "language": "Go",
     "name": "infercrane/infercrane",
     "stars": 52,
-    "updated_at": "2026-10-06T18:56:16Z",
+    "updated_at": "2026-10-06T19:11:35Z",
     "url": "https://github.com/infercrane/infercrane"
   },
   {
@@ -59,17 +104,8 @@
     "language": "TypeScript",
     "name": "burakdede/lorepack",
     "stars": 2,
-    "updated_at": "2026-10-06T18:52:37Z",
+    "updated_at": "2026-10-06T19:12:06Z",
     "url": "https://github.com/burakdede/lorepack"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-06T18:45:44Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Live cost, token and context usage sidebar for Claude Code: a mod that shows cost per turn, cache hit rate, burn rate an",
@@ -95,7 +131,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 510,
-    "updated_at": "2026-10-06T18:36:43Z",
+    "updated_at": "2026-10-06T19:10:47Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -140,7 +176,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8585,
-    "updated_at": "2026-10-06T18:41:57Z",
+    "updated_at": "2026-10-06T19:11:55Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -194,7 +230,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11732,
-    "updated_at": "2026-10-06T18:34:19Z",
+    "updated_at": "2026-10-06T19:08:14Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -203,17 +239,8 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-06T19:00:19Z",
+    "updated_at": "2026-10-06T19:01:54Z",
     "url": "https://github.com/srjn45/warden"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 6,
-    "updated_at": "2026-10-06T18:20:30Z",
-    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "Self-hosted AI Agents Platform supporting Claude Code, Codex, Gemini agents. Apache 2.0.  ",
@@ -302,7 +329,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 83,
-    "updated_at": "2026-10-06T18:50:27Z",
+    "updated_at": "2026-10-06T19:12:53Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -319,7 +346,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25754,
+    "stars": 25755,
     "updated_at": "2026-10-06T17:57:53Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -338,7 +365,7 @@
     "language": "Python",
     "name": "redevops-io/agentic-os",
     "stars": 2,
-    "updated_at": "2026-10-06T17:53:59Z",
+    "updated_at": "2026-10-06T19:00:37Z",
     "url": "https://github.com/redevops-io/agentic-os"
   },
   {
@@ -401,7 +428,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3345,
-    "updated_at": "2026-10-06T18:50:13Z",
+    "updated_at": "2026-10-06T19:06:38Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -410,7 +437,7 @@
     "language": "Go",
     "name": "rknightion/genai-otel-bridge",
     "stars": 1,
-    "updated_at": "2026-10-06T18:14:36Z",
+    "updated_at": "2026-10-06T19:15:21Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-06T17:11:45Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Turn Claude into a context-aware red team operator with 78 drop-in offensive security skills across 23 categories.",
-    "id": "urellai22/Claude-Red",
-    "language": "Python",
-    "name": "urellai22/Claude-Red",
-    "stars": 0,
-    "updated_at": "2026-10-06T17:07:39Z",
-    "url": "https://github.com/urellai22/Claude-Red"
-  },
-  {
-    "description": "Drop-in LLM proxy that cuts input tokens 30\u201370% (54.1% measured, quality-gated) across 27 transparent optimisations \u2014 ca",
-    "id": "sumitdevgupto/TokenLean",
-    "language": "Python",
-    "name": "sumitdevgupto/TokenLean",
-    "stars": 3,
-    "updated_at": "2026-10-06T17:06:19Z",
-    "url": "https://github.com/sumitdevgupto/TokenLean"
-  },
-  {
-    "description": "Standardize computer-use agents, sandboxes, data, evaluation, SFT, and RL across desktop, browser, and mobile with one u",
-    "id": "justanotheruser82174/cua-lite",
-    "language": "Python",
-    "name": "justanotheruser82174/cua-lite",
-    "stars": 0,
-    "updated_at": "2026-10-06T17:05:35Z",
-    "url": "https://github.com/justanotheruser82174/cua-lite"
   }
 ]
