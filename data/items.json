@@ -1,5 +1,104 @@
 [
   {
+    "description": "Open-source infrastructure for the full inference lifecycle: deploy, observe, scale, optimize, and safely release self-h",
+    "id": "infercrane/infercrane",
+    "language": "Go",
+    "name": "infercrane/infercrane",
+    "stars": 52,
+    "updated_at": "2026-10-06T21:30:13Z",
+    "url": "https://github.com/infercrane/infercrane"
+  },
+  {
+    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4922,
+    "updated_at": "2026-10-06T21:28:12Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "An open-source CLI plus GitHub Action that prevents unsafe prompt, model, retrieval, tool, or configuration changes from",
+    "id": "Chris0Jeky/llm-release-gate",
+    "language": "Python",
+    "name": "Chris0Jeky/llm-release-gate",
+    "stars": 0,
+    "updated_at": "2026-10-06T21:25:30Z",
+    "url": "https://github.com/Chris0Jeky/llm-release-gate"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-06T21:25:27Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60240,
+    "updated_at": "2026-10-06T21:30:15Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 83,
+    "updated_at": "2026-10-06T21:22:27Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "language": "Go",
+    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-10-06T21:19:47Z",
+    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
+  },
+  {
+    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
+    "id": "Root1V/prometheus-inference-platform",
+    "language": "Python",
+    "name": "Root1V/prometheus-inference-platform",
+    "stars": 1,
+    "updated_at": "2026-10-06T21:17:34Z",
+    "url": "https://github.com/Root1V/prometheus-inference-platform"
+  },
+  {
+    "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
+    "id": "maks3201/decision-model-operator",
+    "language": "Go",
+    "name": "maks3201/decision-model-operator",
+    "stars": 0,
+    "updated_at": "2026-10-06T21:16:49Z",
+    "url": "https://github.com/maks3201/decision-model-operator"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3591,
+    "updated_at": "2026-10-06T21:16:19Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-06T21:15:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
     "id": "pom11/hscc",
     "language": "Python",
@@ -18,33 +117,6 @@
     "url": "https://github.com/vv0vv3r/ModelJoust"
   },
   {
-    "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
-    "id": "maks3201/decision-model-operator",
-    "language": "Go",
-    "name": "maks3201/decision-model-operator",
-    "stars": 0,
-    "updated_at": "2026-10-06T21:07:31Z",
-    "url": "https://github.com/maks3201/decision-model-operator"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60240,
-    "updated_at": "2026-10-06T21:14:29Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-06T21:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
     "id": "SourceShift/mini-ork",
     "language": "Python",
@@ -52,24 +124,6 @@
     "stars": 29,
     "updated_at": "2026-10-06T20:59:40Z",
     "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "language": "Go",
-    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "stars": 1,
-    "updated_at": "2026-10-06T20:58:46Z",
-    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3591,
-    "updated_at": "2026-10-06T20:57:37Z",
-    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
@@ -95,7 +149,7 @@
     "language": "Python",
     "name": "architsharm/agentfox",
     "stars": 3,
-    "updated_at": "2026-10-06T20:50:57Z",
+    "updated_at": "2026-10-06T21:25:12Z",
     "url": "https://github.com/architsharm/agentfox"
   },
   {
@@ -122,7 +176,7 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-06T20:39:55Z",
+    "updated_at": "2026-10-06T21:29:32Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -148,7 +202,7 @@
     "id": "overmind-core/overmind",
     "language": "Python",
     "name": "overmind-core/overmind",
-    "stars": 491,
+    "stars": 494,
     "updated_at": "2026-10-06T20:35:30Z",
     "url": "https://github.com/overmind-core/overmind"
   },
@@ -171,15 +225,6 @@
     "url": "https://github.com/langfuse/langfuse"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-06T21:11:10Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Graph harness for AI agents: a governed runtime on bipartite graphs (places and transitions) that executes models with s",
     "id": "alexejsailer/agentic-nets",
     "language": "Python",
@@ -198,13 +243,13 @@
     "url": "https://github.com/ProofAgent-ai/proofagent-harness"
   },
   {
-    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
-    "id": "langwatch/langwatch",
+    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
+    "id": "lmnr-ai/lmnr",
     "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4922,
-    "updated_at": "2026-10-06T20:57:19Z",
-    "url": "https://github.com/langwatch/langwatch"
+    "name": "lmnr-ai/lmnr",
+    "stars": 3346,
+    "updated_at": "2026-10-06T20:17:20Z",
+    "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -212,7 +257,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11733,
-    "updated_at": "2026-10-06T21:13:16Z",
+    "updated_at": "2026-10-06T21:30:23Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -248,7 +293,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8586,
-    "updated_at": "2026-10-06T19:47:21Z",
+    "updated_at": "2026-10-06T21:17:07Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -313,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T19:23:17Z",
     "url": "https://github.com/judgekeeper/judgekeeper"
-  },
-  {
-    "description": "Open-source infrastructure for the full inference lifecycle: deploy, observe, scale, optimize, and safely release self-h",
-    "id": "infercrane/infercrane",
-    "language": "Go",
-    "name": "infercrane/infercrane",
-    "stars": 52,
-    "updated_at": "2026-10-06T19:21:17Z",
-    "url": "https://github.com/infercrane/infercrane"
   },
   {
     "description": "The open framework for governed AI development: EU AI Act compliance, PII redaction, MCP proxy, prompt-injection firewal",
@@ -400,7 +436,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 30449,
+    "stars": 30450,
     "updated_at": "2026-10-06T18:34:50Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-06T18:32:51Z",
     "url": "https://github.com/gagarin-cloud/gg"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 4,
-    "updated_at": "2026-10-06T18:31:12Z",
-    "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Open-source, self-hosted LLM observability built on OpenTelemetry",
-    "id": "antonij-tracium/tracium",
-    "language": "Go",
-    "name": "antonij-tracium/tracium",
-    "stars": 1,
-    "updated_at": "2026-10-06T18:43:52Z",
-    "url": "https://github.com/antonij-tracium/tracium"
-  },
-  {
-    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
-    "id": "TAIPANBOX/tokenfuse",
-    "language": "Rust",
-    "name": "TAIPANBOX/tokenfuse",
-    "stars": 1,
-    "updated_at": "2026-10-06T18:26:06Z",
-    "url": "https://github.com/TAIPANBOX/tokenfuse"
-  },
-  {
-    "description": "Self-hosted AI Agents Platform supporting Claude Code, Codex, Gemini agents. Apache 2.0.  ",
-    "id": "Abilityai/trinity",
-    "language": "Python",
-    "name": "Abilityai/trinity",
-    "stars": 624,
-    "updated_at": "2026-10-06T18:56:27Z",
-    "url": "https://github.com/Abilityai/trinity"
   }
 ]
