@@ -1,30 +1,48 @@
 [
   {
-    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
-    "id": "Lo3okSky/LLM_course",
-    "language": "Jupyter Notebook",
-    "name": "Lo3okSky/LLM_course",
-    "stars": 3,
-    "updated_at": "2026-10-06T07:29:54Z",
-    "url": "https://github.com/Lo3okSky/LLM_course"
+    "description": "\ud83d\ude80 Expose your LangChain agents as services with zero configuration; turn scripts into web services using simple wrappers",
+    "id": "Lukaa1507/langchain-runner",
+    "language": "Python",
+    "name": "Lukaa1507/langchain-runner",
+    "stars": 1,
+    "updated_at": "2026-10-06T07:44:52Z",
+    "url": "https://github.com/Lukaa1507/langchain-runner"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3590,
+    "updated_at": "2026-10-06T07:43:37Z",
+    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 8572,
-    "updated_at": "2026-10-06T07:29:48Z",
+    "stars": 8574,
+    "updated_at": "2026-10-06T07:45:18Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 1,
-    "updated_at": "2026-10-06T07:28:57Z",
-    "url": "https://github.com/gabrielk83/AntCV"
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 6,
+    "updated_at": "2026-10-06T07:42:19Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Evaluate and trace tool-calling LLM agents, with one guarantee: a tool failure can never look like an empty result.",
+    "id": "Priyank032/neverempty",
+    "language": "Python",
+    "name": "Priyank032/neverempty",
+    "stars": 0,
+    "updated_at": "2026-10-06T07:41:43Z",
+    "url": "https://github.com/Priyank032/neverempty"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -32,8 +50,62 @@
     "language": "Go",
     "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "stars": 1,
-    "updated_at": "2026-10-06T07:30:08Z",
+    "updated_at": "2026-10-06T07:43:20Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60197,
+    "updated_at": "2026-10-06T07:44:22Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Production-oriented LangGraph multi-agent customer service system with hybrid RAG, durable execution, HITL, evaluation, ",
+    "id": "Xander-Xai/Customer-Service-AI-Agent",
+    "language": "Python",
+    "name": "Xander-Xai/Customer-Service-AI-Agent",
+    "stars": 0,
+    "updated_at": "2026-10-06T07:45:05Z",
+    "url": "https://github.com/Xander-Xai/Customer-Service-AI-Agent"
+  },
+  {
+    "description": "A collection of practical, implementation-focused ideas showing how AI can be integrated into DevOps, Platform Engineeri",
+    "id": "NotHarshhaa/devops-ai-implementation-ideas",
+    "language": "Python",
+    "name": "NotHarshhaa/devops-ai-implementation-ideas",
+    "stars": 2,
+    "updated_at": "2026-10-06T07:39:15Z",
+    "url": "https://github.com/NotHarshhaa/devops-ai-implementation-ideas"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28278,
+    "updated_at": "2026-10-06T07:35:14Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code \u2014 V3 prototype runs ",
+    "id": "MongLong0214/jev-gate",
+    "language": "TypeScript",
+    "name": "MongLong0214/jev-gate",
+    "stars": 3,
+    "updated_at": "2026-10-06T07:34:48Z",
+    "url": "https://github.com/MongLong0214/jev-gate"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 1,
+    "updated_at": "2026-10-06T07:34:02Z",
+    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
@@ -41,8 +113,44 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 35420,
-    "updated_at": "2026-10-06T07:28:04Z",
+    "updated_at": "2026-10-06T07:41:07Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "The readable ReAct agent: a ~235-line step loop you can follow, plus 31 opt-in modules (sandbox, circuit breaker, struct",
+    "id": "musokean/forge",
+    "language": "Python",
+    "name": "musokean/forge",
+    "stars": 1,
+    "updated_at": "2026-10-06T07:31:31Z",
+    "url": "https://github.com/musokean/forge"
+  },
+  {
+    "description": "LLM spend tracking and budgets for Rails \u2014 by user, feature, or any tag, in your own database, no proxy.",
+    "id": "sergey-homenko/llm_cost_tracker",
+    "language": "Ruby",
+    "name": "sergey-homenko/llm_cost_tracker",
+    "stars": 44,
+    "updated_at": "2026-10-06T07:31:09Z",
+    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-06T07:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
+    "id": "Lo3okSky/LLM_course",
+    "language": "Jupyter Notebook",
+    "name": "Lo3okSky/LLM_course",
+    "stars": 3,
+    "updated_at": "2026-10-06T07:29:54Z",
+    "url": "https://github.com/Lo3okSky/LLM_course"
   },
   {
     "description": "Open-source platform for building multi-agent systems. Compose agents into pipelines, give them knowledge search, sandbo",
@@ -63,24 +171,6 @@
     "url": "https://github.com/mjsushanth/mjsushanth.github.io"
   },
   {
-    "description": "A collection of practical, implementation-focused ideas showing how AI can be integrated into DevOps, Platform Engineeri",
-    "id": "NotHarshhaa/devops-ai-implementation-ideas",
-    "language": "Python",
-    "name": "NotHarshhaa/devops-ai-implementation-ideas",
-    "stars": 2,
-    "updated_at": "2026-10-06T07:22:31Z",
-    "url": "https://github.com/NotHarshhaa/devops-ai-implementation-ideas"
-  },
-  {
-    "description": "Production-oriented LangGraph multi-agent customer service system with hybrid RAG, durable execution, HITL, evaluation, ",
-    "id": "Xander-Xai/Customer-Service-AI-Agent",
-    "language": "Python",
-    "name": "Xander-Xai/Customer-Service-AI-Agent",
-    "stars": 0,
-    "updated_at": "2026-10-06T07:30:05Z",
-    "url": "https://github.com/Xander-Xai/Customer-Service-AI-Agent"
-  },
-  {
     "description": "YOalphabet & YOconlang is a 4-bit isomorphic visual script replacing heavy CNNs and text embeddings with zero-inference ",
     "id": "YOalphabet/YOalphabet",
     "language": "HTML",
@@ -90,31 +180,13 @@
     "url": "https://github.com/YOalphabet/YOalphabet"
   },
   {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 6,
-    "updated_at": "2026-10-06T07:19:34Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
     "description": "\u516c\u5f00\u4e00\u4e2a\u4eba\u5982\u4f55\u628a AI \u53d8\u6210\u80fd\u529b\uff0c\u628a\u7ecf\u5386\u53d8\u6210\u5224\u65ad\uff0c\u628a\u5199\u4f5c\u53d8\u6210\u957f\u671f\u590d\u5229 Write some excellent articles about AI, Agents, technology, products, marketing, some",
     "id": "cubxxw/blog",
     "language": "JavaScript",
     "name": "cubxxw/blog",
     "stars": 27,
-    "updated_at": "2026-10-06T07:29:37Z",
+    "updated_at": "2026-10-06T07:32:33Z",
     "url": "https://github.com/cubxxw/blog"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-06T07:17:55Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Bionic is sovereign Agentic AI for the enterprise \u2014 Runs on-premise and can securely work with your sensitive data and s",
@@ -160,24 +232,6 @@
     "stars": 1,
     "updated_at": "2026-10-06T07:13:21Z",
     "url": "https://github.com/Ray0907/spanbox"
-  },
-  {
-    "description": "The readable ReAct agent: a ~235-line step loop you can follow, plus 31 opt-in modules (sandbox, circuit breaker, struct",
-    "id": "musokean/forge",
-    "language": "Python",
-    "name": "musokean/forge",
-    "stars": 1,
-    "updated_at": "2026-10-06T07:11:28Z",
-    "url": "https://github.com/musokean/forge"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60195,
-    "updated_at": "2026-10-06T07:30:23Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -302,17 +356,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22400,
-    "updated_at": "2026-10-06T07:20:17Z",
+    "updated_at": "2026-10-06T07:41:58Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28278,
-    "updated_at": "2026-10-06T06:34:48Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-06T06:17:29Z",
     "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
-  },
-  {
-    "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
-    "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "language": "\u2014",
-    "name": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "stars": 2,
-    "updated_at": "2026-10-06T06:15:51Z",
-    "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
-  },
-  {
-    "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
-    "id": "syntactic-orleanism949/logal-rag",
-    "language": "\u2014",
-    "name": "syntactic-orleanism949/logal-rag",
-    "stars": 1,
-    "updated_at": "2026-10-06T06:14:15Z",
-    "url": "https://github.com/syntactic-orleanism949/logal-rag"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-06T06:12:31Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code \u2014 V3 prototype runs ",
-    "id": "MongLong0214/jev-gate",
-    "language": "TypeScript",
-    "name": "MongLong0214/jev-gate",
-    "stars": 3,
-    "updated_at": "2026-10-06T07:11:28Z",
-    "url": "https://github.com/MongLong0214/jev-gate"
-  },
-  {
-    "description": "Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic",
-    "id": "effecterelectricalplant87/LLM",
-    "language": "\u2014",
-    "name": "effecterelectricalplant87/LLM",
-    "stars": 0,
-    "updated_at": "2026-10-06T06:10:47Z",
-    "url": "https://github.com/effecterelectricalplant87/LLM"
   }
 ]
