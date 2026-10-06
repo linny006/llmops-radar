@@ -1,12 +1,48 @@
 [
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
+    "description": "Graph harness for AI agents: a governed runtime on bipartite graphs (places and transitions) that executes models with s",
+    "id": "alexejsailer/agentic-nets",
     "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11733,
-    "updated_at": "2026-10-06T20:14:33Z",
-    "url": "https://github.com/Arize-ai/phoenix"
+    "name": "alexejsailer/agentic-nets",
+    "stars": 7,
+    "updated_at": "2026-10-06T20:29:33Z",
+    "url": "https://github.com/alexejsailer/agentic-nets"
+  },
+  {
+    "description": "Open-source test harness for AI agents. Stress-test production agents with adversarial multi-turn scenarios in CI",
+    "id": "ProofAgent-ai/proofagent-harness",
+    "language": "Python",
+    "name": "ProofAgent-ai/proofagent-harness",
+    "stars": 30,
+    "updated_at": "2026-10-06T20:29:06Z",
+    "url": "https://github.com/ProofAgent-ai/proofagent-harness"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60239,
+    "updated_at": "2026-10-06T20:30:17Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
+    "id": "maks3201/decision-model-operator",
+    "language": "Go",
+    "name": "maks3201/decision-model-operator",
+    "stars": 0,
+    "updated_at": "2026-10-06T20:26:25Z",
+    "url": "https://github.com/maks3201/decision-model-operator"
+  },
+  {
+    "description": "A deterministic linter for agent runs \u2014 reads the execution trace and flags structural bugs (ignored errors, schema viol",
+    "id": "AshwinUgale/tracelint",
+    "language": "Python",
+    "name": "AshwinUgale/tracelint",
+    "stars": 11,
+    "updated_at": "2026-10-06T20:22:09Z",
+    "url": "https://github.com/AshwinUgale/tracelint"
   },
   {
     "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
@@ -14,7 +50,7 @@
     "language": "Python",
     "name": "redevops-io/agentic-os",
     "stars": 2,
-    "updated_at": "2026-10-06T20:13:20Z",
+    "updated_at": "2026-10-06T20:25:43Z",
     "url": "https://github.com/redevops-io/agentic-os"
   },
   {
@@ -23,8 +59,35 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4922,
-    "updated_at": "2026-10-06T20:12:55Z",
+    "updated_at": "2026-10-06T20:22:57Z",
     "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "AgentFox: open-source control plane for AI agents. Guardrails on model traffic, tool calls bounded by capability grants,",
+    "id": "architsharm/agentfox",
+    "language": "Python",
+    "name": "architsharm/agentfox",
+    "stars": 3,
+    "updated_at": "2026-10-06T20:17:23Z",
+    "url": "https://github.com/architsharm/agentfox"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-06T20:15:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11733,
+    "updated_at": "2026-10-06T20:20:30Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
@@ -36,15 +99,6 @@
     "url": "https://github.com/xlabs-club/awesome-x-ops"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60239,
-    "updated_at": "2026-10-06T20:15:18Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "APM for AI agents: flow maps, workflow process mining, cost & reliability metrics, and process review for LangGraph, Ope",
     "id": "Aditya31398/agentdynamics",
     "language": "Python",
@@ -54,40 +108,13 @@
     "url": "https://github.com/Aditya31398/agentdynamics"
   },
   {
-    "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
-    "id": "maks3201/decision-model-operator",
-    "language": "Go",
-    "name": "maks3201/decision-model-operator",
-    "stars": 0,
-    "updated_at": "2026-10-06T20:09:46Z",
-    "url": "https://github.com/maks3201/decision-model-operator"
-  },
-  {
     "description": "Portable agentic SDLC pipeline as a Claude Code plugin: 4 role agents, 2 human gates, unit-tested guardrails, self-impro",
     "id": "juanjtov/adlc-pipeline",
     "language": "Python",
     "name": "juanjtov/adlc-pipeline",
     "stars": 0,
-    "updated_at": "2026-10-06T20:14:02Z",
+    "updated_at": "2026-10-06T20:29:29Z",
     "url": "https://github.com/juanjtov/adlc-pipeline"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-06T20:00:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "A deterministic linter for agent runs \u2014 reads the execution trace and flags structural bugs (ignored errors, schema viol",
-    "id": "AshwinUgale/tracelint",
-    "language": "Python",
-    "name": "AshwinUgale/tracelint",
-    "stars": 11,
-    "updated_at": "2026-10-06T19:54:12Z",
-    "url": "https://github.com/AshwinUgale/tracelint"
   },
   {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
@@ -121,7 +148,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25756,
+    "stars": 25757,
     "updated_at": "2026-10-06T19:41:13Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -238,7 +265,7 @@
     "id": "overmind-core/overmind",
     "language": "Python",
     "name": "overmind-core/overmind",
-    "stars": 476,
+    "stars": 481,
     "updated_at": "2026-10-06T19:00:19Z",
     "url": "https://github.com/overmind-core/overmind"
   },
@@ -275,7 +302,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 510,
-    "updated_at": "2026-10-06T19:44:48Z",
+    "updated_at": "2026-10-06T20:24:35Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -419,34 +446,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 2115,
-    "updated_at": "2026-10-06T19:42:56Z",
+    "updated_at": "2026-10-06T20:25:25Z",
     "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-10-06T18:04:19Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "Evidence-backed improvement proposals for AI agents.",
-    "id": "vittorfp/agent-change-proposals",
-    "language": "Python",
-    "name": "vittorfp/agent-change-proposals",
-    "stars": 0,
-    "updated_at": "2026-10-06T18:03:22Z",
-    "url": "https://github.com/vittorfp/agent-change-proposals"
-  },
-  {
-    "description": "Genaryx: the browser control room over the TAIPANBOX agent-governance stack. Money, policy, identity, quality, crypto, m",
-    "id": "TAIPANBOX/genaryx",
-    "language": "Rust",
-    "name": "TAIPANBOX/genaryx",
-    "stars": 0,
-    "updated_at": "2026-10-06T18:02:12Z",
-    "url": "https://github.com/TAIPANBOX/genaryx"
   }
 ]
