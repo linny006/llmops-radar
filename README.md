@@ -42,14 +42,14 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [redevops-io/agentic-os](https://github.com/redevops-io/agentic-os) | 2 | Python | 2026-10-06 | The control plane for the redevops.io Agentic Business OS — Mission Runtime kernel (Python + Go), Projects cockpit, cost |
-| 2 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 9 | Go | 2026-10-06 | Open Source workflow engine for agents. |
-| 3 | [a-novel/service-genai](https://github.com/a-novel/service-genai) | 1 | Go | 2026-10-06 | Generative AI proxy, with cost ledger and crash safety baked in. |
-| 4 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 60243 | Python | 2026-10-06 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 5 | [valteresj2/agent-hangar](https://github.com/valteresj2/agent-hangar) | 2 | Python | 2026-10-06 | One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod |
-| 6 | [api-evangelist/tensorzero](https://github.com/api-evangelist/tensorzero) | 0 | — | 2026-10-06 | TensorZero — independent third-party profile of a public API surface, by API Evangelist. TensorZero is an open-source, s |
-| 7 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11733 | Python | 2026-10-06 | AI Observability & Evaluation |
-| 8 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-06 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-06 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [redevops-io/agentic-os](https://github.com/redevops-io/agentic-os) | 2 | Python | 2026-10-06 | The control plane for the redevops.io Agentic Business OS — Mission Runtime kernel (Python + Go), Projects cockpit, cost |
+| 3 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 9 | Go | 2026-10-06 | Open Source workflow engine for agents. |
+| 4 | [a-novel/service-genai](https://github.com/a-novel/service-genai) | 1 | Go | 2026-10-06 | Generative AI proxy, with cost ledger and crash safety baked in. |
+| 5 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 60243 | Python | 2026-10-06 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 6 | [valteresj2/agent-hangar](https://github.com/valteresj2/agent-hangar) | 2 | Python | 2026-10-06 | One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod |
+| 7 | [api-evangelist/tensorzero](https://github.com/api-evangelist/tensorzero) | 0 | — | 2026-10-06 | TensorZero — independent third-party profile of a public API surface, by API Evangelist. TensorZero is an open-source, s |
+| 8 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11733 | Python | 2026-10-06 | AI Observability & Evaluation |
 | 9 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 41 | Go | 2026-10-06 | Agentic Runtime |
 | 10 | [maks3201/decision-model-operator](https://github.com/maks3201/decision-model-operator) | 0 | Go | 2026-10-06 | Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product |
 | 11 | [admina-org/admina](https://github.com/admina-org/admina) | 7 | Python | 2026-10-06 | The open framework for governed AI development: EU AI Act compliance, PII redaction, MCP proxy, prompt-injection firewal |
