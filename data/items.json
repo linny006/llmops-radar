@@ -1,5 +1,104 @@
 [
   {
+    "description": "Detects stale aviation data (CDC + selective re-indexing + freshness SLAs) so a RAG agent flags outdated answers instead",
+    "id": "saravanaprabhu1398-afk/freshness-control-plane",
+    "language": "Python",
+    "name": "saravanaprabhu1398-afk/freshness-control-plane",
+    "stars": 0,
+    "updated_at": "2026-10-06T10:30:14Z",
+    "url": "https://github.com/saravanaprabhu1398-afk/freshness-control-plane"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60211,
+    "updated_at": "2026-10-06T10:27:54Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "language": "Go",
+    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-10-06T10:30:06Z",
+    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35428,
+    "updated_at": "2026-10-06T10:25:08Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Daily CI-refreshed history of LLM API pricing \u2014 snapshot + append-only change log for ~2,500 chat models (CSV, CC BY 4.0",
+    "id": "sophie-nguyenthuthuy/llm-pricing-history",
+    "language": "Python",
+    "name": "sophie-nguyenthuthuy/llm-pricing-history",
+    "stars": 1,
+    "updated_at": "2026-10-06T10:23:39Z",
+    "url": "https://github.com/sophie-nguyenthuthuy/llm-pricing-history"
+  },
+  {
+    "description": "Live cost, token and context usage sidebar for Claude Code: a mod that shows cost per turn, cache hit rate, burn rate an",
+    "id": "andrewbakercloudscale/claude-code-cost-sidebar",
+    "language": "Shell",
+    "name": "andrewbakercloudscale/claude-code-cost-sidebar",
+    "stars": 1,
+    "updated_at": "2026-10-06T10:23:34Z",
+    "url": "https://github.com/andrewbakercloudscale/claude-code-cost-sidebar"
+  },
+  {
+    "description": "AgentFox: open-source control plane for AI agents. Guardrails on model traffic, tool calls bounded by capability grants,",
+    "id": "architsharm/agentfox",
+    "language": "Python",
+    "name": "architsharm/agentfox",
+    "stars": 3,
+    "updated_at": "2026-10-06T10:23:30Z",
+    "url": "https://github.com/architsharm/agentfox"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-06T10:23:06Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "A self-hosted zero-cost LLM routing stack that discovers, benchmarks, and routes to the best currently free models.",
+    "id": "sjfakharian/zerospend",
+    "language": "JavaScript",
+    "name": "sjfakharian/zerospend",
+    "stars": 2,
+    "updated_at": "2026-10-06T10:23:01Z",
+    "url": "https://github.com/sjfakharian/zerospend"
+  },
+  {
+    "description": "RAG chatbot for R+V private-customer insurance conditions (German), grounded in a Qdrant-indexed document corpus.",
+    "id": "justinwalger/versicherag",
+    "language": "Python",
+    "name": "justinwalger/versicherag",
+    "stars": 0,
+    "updated_at": "2026-10-06T10:18:24Z",
+    "url": "https://github.com/justinwalger/versicherag"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-06T10:15:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
     "id": "SourceShift/mini-ork",
     "language": "Python",
@@ -18,15 +117,6 @@
     "url": "https://github.com/pom11/hscc"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-06T10:13:30Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Open-source platform for building multi-agent systems. Compose agents into pipelines, give them knowledge search, sandbo",
     "id": "sarkar4777/abenix",
     "language": "Python",
@@ -41,26 +131,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22401,
-    "updated_at": "2026-10-06T10:14:45Z",
+    "updated_at": "2026-10-06T10:29:12Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35427,
-    "updated_at": "2026-10-06T10:13:54Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Live cost, token and context usage sidebar for Claude Code: a mod that shows cost per turn, cache hit rate, burn rate an",
-    "id": "andrewbakercloudscale/claude-code-cost-sidebar",
-    "language": "Shell",
-    "name": "andrewbakercloudscale/claude-code-cost-sidebar",
-    "stars": 1,
-    "updated_at": "2026-10-06T10:08:40Z",
-    "url": "https://github.com/andrewbakercloudscale/claude-code-cost-sidebar"
   },
   {
     "description": "Every model call through one library: raw-HTTP provider adapters, a cost ledger row and an OpenTelemetry span per call, ",
@@ -81,24 +153,6 @@
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60210,
-    "updated_at": "2026-10-06T10:05:09Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-06T10:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "LLM observability and evals in a single binary: traces, prompts, datasets, scores and review queues for LLM and agent ap",
     "id": "tracepad/tracepad",
     "language": "Go",
@@ -113,7 +167,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8576,
-    "updated_at": "2026-10-06T10:15:08Z",
+    "updated_at": "2026-10-06T10:29:30Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -140,17 +194,8 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 508,
-    "updated_at": "2026-10-06T09:54:26Z",
+    "updated_at": "2026-10-06T10:16:46Z",
     "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "language": "Go",
-    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "stars": 1,
-    "updated_at": "2026-10-06T10:10:31Z",
-    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
@@ -266,7 +311,7 @@
     "language": "Go",
     "name": "rknightion/genai-otel-bridge",
     "stars": 1,
-    "updated_at": "2026-10-06T10:15:25Z",
+    "updated_at": "2026-10-06T10:15:35Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
@@ -275,7 +320,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28279,
-    "updated_at": "2026-10-06T09:57:15Z",
+    "updated_at": "2026-10-06T10:16:36Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -347,7 +392,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4918,
-    "updated_at": "2026-10-06T10:08:01Z",
+    "updated_at": "2026-10-06T10:29:26Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-06T10:07:09Z",
     "url": "https://github.com/glassflow/rius-coding-agents"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25739,
-    "updated_at": "2026-10-06T08:46:38Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "The platform for continuously improving AI agents.",
-    "id": "overmind-core/overmind",
-    "language": "Python",
-    "name": "overmind-core/overmind",
-    "stars": 445,
-    "updated_at": "2026-10-06T08:37:37Z",
-    "url": "https://github.com/overmind-core/overmind"
-  },
-  {
-    "description": "Build, Manage and Deploy AI/ML Systems",
-    "id": "Netflix/metaflow",
-    "language": "Python",
-    "name": "Netflix/metaflow",
-    "stars": 10293,
-    "updated_at": "2026-10-06T08:32:55Z",
-    "url": "https://github.com/Netflix/metaflow"
-  },
-  {
-    "description": "Open Source workflow engine for agents.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-10-06T09:31:29Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "ZenML \ud83d\ude4f: One AI Platform from Pipelines to Agents. https://zenml.io.",
-    "id": "zenml-io/zenml",
-    "language": "Python",
-    "name": "zenml-io/zenml",
-    "stars": 5607,
-    "updated_at": "2026-10-06T08:28:52Z",
-    "url": "https://github.com/zenml-io/zenml"
   }
 ]
