@@ -1,11 +1,83 @@
 [
   {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 29,
+    "updated_at": "2026-10-06T20:59:40Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "language": "Go",
+    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-10-06T20:58:46Z",
+    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3590,
+    "updated_at": "2026-10-06T20:57:37Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
+    "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
+    "id": "maks3201/decision-model-operator",
+    "language": "Go",
+    "name": "maks3201/decision-model-operator",
+    "stars": 0,
+    "updated_at": "2026-10-06T20:56:30Z",
+    "url": "https://github.com/maks3201/decision-model-operator"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60240,
+    "updated_at": "2026-10-06T20:54:11Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-10-06T20:51:01Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-10-06T20:46:33Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-06T20:45:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AgentFox: open-source control plane for AI agents. Guardrails on model traffic, tool calls bounded by capability grants,",
     "id": "architsharm/agentfox",
     "language": "Python",
     "name": "architsharm/agentfox",
     "stars": 3,
-    "updated_at": "2026-10-06T20:45:26Z",
+    "updated_at": "2026-10-06T20:50:57Z",
     "url": "https://github.com/architsharm/agentfox"
   },
   {
@@ -16,15 +88,6 @@
     "stars": 31,
     "updated_at": "2026-10-06T20:44:21Z",
     "url": "https://github.com/maida-ai/maida"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60240,
-    "updated_at": "2026-10-06T20:45:25Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Local-first LLM gateway for codex / hermes / Claude Code: bytes go upstream unchanged, the prompt cache keeps hitting, a",
@@ -50,7 +113,7 @@
     "language": "Python",
     "name": "juanjtov/adlc-pipeline",
     "stars": 0,
-    "updated_at": "2026-10-06T20:44:54Z",
+    "updated_at": "2026-10-06T20:48:48Z",
     "url": "https://github.com/juanjtov/adlc-pipeline"
   },
   {
@@ -67,7 +130,7 @@
     "id": "overmind-core/overmind",
     "language": "Python",
     "name": "overmind-core/overmind",
-    "stars": 486,
+    "stars": 489,
     "updated_at": "2026-10-06T20:35:30Z",
     "url": "https://github.com/overmind-core/overmind"
   },
@@ -108,15 +171,6 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-06T20:30:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Graph harness for AI agents: a governed runtime on bipartite graphs (places and transitions) that executes models with s",
     "id": "alexejsailer/agentic-nets",
     "language": "Python",
@@ -135,30 +189,12 @@
     "url": "https://github.com/ProofAgent-ai/proofagent-harness"
   },
   {
-    "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
-    "id": "maks3201/decision-model-operator",
-    "language": "Go",
-    "name": "maks3201/decision-model-operator",
-    "stars": 0,
-    "updated_at": "2026-10-06T20:26:25Z",
-    "url": "https://github.com/maks3201/decision-model-operator"
-  },
-  {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-10-06T20:25:43Z",
-    "url": "https://github.com/redevops-io/agentic-os"
-  },
-  {
     "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4922,
-    "updated_at": "2026-10-06T20:45:17Z",
+    "updated_at": "2026-10-06T20:57:19Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -169,6 +205,15 @@
     "stars": 11733,
     "updated_at": "2026-10-06T20:34:42Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22405,
+    "updated_at": "2026-10-06T20:08:49Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
@@ -189,6 +234,15 @@
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8586,
+    "updated_at": "2026-10-06T19:47:21Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
     "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
     "id": "burakdede/lorepack",
     "language": "TypeScript",
@@ -202,7 +256,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25758,
+    "stars": 25759,
     "updated_at": "2026-10-06T19:41:13Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -214,15 +268,6 @@
     "stars": 2922,
     "updated_at": "2026-10-06T19:40:22Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "language": "Go",
-    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "stars": 1,
-    "updated_at": "2026-10-06T20:36:48Z",
-    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
   },
   {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
@@ -315,15 +360,6 @@
     "url": "https://github.com/andrewbakercloudscale/claude-code-cost-sidebar"
   },
   {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 29,
-    "updated_at": "2026-10-06T18:39:18Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
     "description": "Curated list of tools, standards, and platforms for LLM and AI-agent observability: OpenTelemetry GenAI conventions, tra",
     "id": "anhermon/awesome-agent-observability",
     "language": "\u2014",
@@ -360,15 +396,6 @@
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22404,
-    "updated_at": "2026-10-06T20:08:49Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "The gagarin CLI \u2014 deploy and operate applications on gagarin. Ships the agent skill inside the binary.",
     "id": "gagarin-cloud/gg",
     "language": "Go",
@@ -376,15 +403,6 @@
     "stars": 1,
     "updated_at": "2026-10-06T18:32:51Z",
     "url": "https://github.com/gagarin-cloud/gg"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8585,
-    "updated_at": "2026-10-06T19:47:21Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -430,23 +448,5 @@
     "stars": 23,
     "updated_at": "2026-10-06T18:38:18Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 8273,
-    "updated_at": "2026-10-06T18:15:32Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Resource providers for pragma-os. Manage cloud infrastructure, AI agents, knowledge bases, pipelines, and workflows.",
-    "id": "pragmatiks/pragma-providers",
-    "language": "Python",
-    "name": "pragmatiks/pragma-providers",
-    "stars": 0,
-    "updated_at": "2026-10-06T18:15:29Z",
-    "url": "https://github.com/pragmatiks/pragma-providers"
   }
 ]
