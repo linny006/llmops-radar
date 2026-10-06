@@ -1,12 +1,84 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11733,
+    "updated_at": "2026-10-06T20:14:33Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-10-06T20:13:20Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4922,
+    "updated_at": "2026-10-06T20:12:55Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps",
+    "id": "xlabs-club/awesome-x-ops",
+    "language": "\u2014",
+    "name": "xlabs-club/awesome-x-ops",
+    "stars": 34,
+    "updated_at": "2026-10-06T20:07:57Z",
+    "url": "https://github.com/xlabs-club/awesome-x-ops"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 60239,
-    "updated_at": "2026-10-06T19:59:29Z",
+    "updated_at": "2026-10-06T20:15:18Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "APM for AI agents: flow maps, workflow process mining, cost & reliability metrics, and process review for LangGraph, Ope",
+    "id": "Aditya31398/agentdynamics",
+    "language": "Python",
+    "name": "Aditya31398/agentdynamics",
+    "stars": 0,
+    "updated_at": "2026-10-06T20:07:32Z",
+    "url": "https://github.com/Aditya31398/agentdynamics"
+  },
+  {
+    "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
+    "id": "maks3201/decision-model-operator",
+    "language": "Go",
+    "name": "maks3201/decision-model-operator",
+    "stars": 0,
+    "updated_at": "2026-10-06T20:09:46Z",
+    "url": "https://github.com/maks3201/decision-model-operator"
+  },
+  {
+    "description": "Portable agentic SDLC pipeline as a Claude Code plugin: 4 role agents, 2 human gates, unit-tested guardrails, self-impro",
+    "id": "juanjtov/adlc-pipeline",
+    "language": "Python",
+    "name": "juanjtov/adlc-pipeline",
+    "stars": 0,
+    "updated_at": "2026-10-06T20:14:02Z",
+    "url": "https://github.com/juanjtov/adlc-pipeline"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-06T20:00:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "A deterministic linter for agent runs \u2014 reads the execution trace and flags structural bugs (ignored errors, schema viol",
@@ -16,15 +88,6 @@
     "stars": 11,
     "updated_at": "2026-10-06T19:54:12Z",
     "url": "https://github.com/AshwinUgale/tracelint"
-  },
-  {
-    "description": "Portable agentic SDLC pipeline as a Claude Code plugin: 4 role agents, 2 human gates, unit-tested guardrails, self-impro",
-    "id": "juanjtov/adlc-pipeline",
-    "language": "Python",
-    "name": "juanjtov/adlc-pipeline",
-    "stars": 0,
-    "updated_at": "2026-10-06T19:59:36Z",
-    "url": "https://github.com/juanjtov/adlc-pipeline"
   },
   {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
@@ -45,15 +108,6 @@
     "url": "https://github.com/pom11/hscc"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11732,
-    "updated_at": "2026-10-06T20:00:25Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
     "id": "burakdede/lorepack",
     "language": "TypeScript",
@@ -61,6 +115,15 @@
     "stars": 2,
     "updated_at": "2026-10-06T19:42:07Z",
     "url": "https://github.com/burakdede/lorepack"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25756,
+    "updated_at": "2026-10-06T19:41:13Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
@@ -77,26 +140,8 @@
     "language": "Go",
     "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "stars": 1,
-    "updated_at": "2026-10-06T19:47:43Z",
+    "updated_at": "2026-10-06T20:06:52Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-06T19:40:05Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-10-06T19:42:42Z",
-    "url": "https://github.com/redevops-io/agentic-os"
   },
   {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
@@ -140,7 +185,7 @@
     "language": "Go",
     "name": "rknightion/genai-otel-bridge",
     "stars": 1,
-    "updated_at": "2026-10-06T19:32:19Z",
+    "updated_at": "2026-10-06T20:13:26Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
@@ -193,18 +238,9 @@
     "id": "overmind-core/overmind",
     "language": "Python",
     "name": "overmind-core/overmind",
-    "stars": 475,
+    "stars": 476,
     "updated_at": "2026-10-06T19:00:19Z",
     "url": "https://github.com/overmind-core/overmind"
-  },
-  {
-    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4922,
-    "updated_at": "2026-10-06T19:50:32Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
@@ -266,7 +302,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22404,
-    "updated_at": "2026-10-06T19:56:52Z",
+    "updated_at": "2026-10-06T20:08:49Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -297,15 +333,6 @@
     "url": "https://github.com/vivek-541/vivek-541"
   },
   {
-    "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
-    "id": "maks3201/decision-model-operator",
-    "language": "Go",
-    "name": "maks3201/decision-model-operator",
-    "stars": 0,
-    "updated_at": "2026-10-06T19:58:27Z",
-    "url": "https://github.com/maks3201/decision-model-operator"
-  },
-  {
     "description": "Open-source, self-hosted LLM observability built on OpenTelemetry",
     "id": "antonij-tracium/tracium",
     "language": "Go",
@@ -328,7 +355,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 35440,
+    "stars": 35441,
     "updated_at": "2026-10-06T18:24:11Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -364,7 +391,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 8269,
+    "stars": 8271,
     "updated_at": "2026-10-06T18:15:32Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-06T18:02:12Z",
     "url": "https://github.com/TAIPANBOX/genaryx"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 83,
-    "updated_at": "2026-10-06T19:55:27Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8818,
-    "updated_at": "2026-10-06T17:59:54Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25755,
-    "updated_at": "2026-10-06T19:41:13Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   }
 ]
