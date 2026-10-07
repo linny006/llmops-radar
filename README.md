@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-07 21:44 UTC
+> ⏰ Last updated: 2026-10-07 21:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,15 +42,15 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [gaurav-gandhi-2411/adk-tracegauge](https://github.com/gaurav-gandhi-2411/adk-tracegauge) | 0 | Python | 2026-10-07 | See what your Google ADK agent costs (per-invocation USD from token usage) and fail CI when it gets more expensive. |
-| 2 | [vocion/vocion-core](https://github.com/vocion/vocion-core) | 2 | TypeScript | 2026-10-07 | Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review,  |
-| 3 | [GetSHIM/shim](https://github.com/GetSHIM/shim) | 8 | Python | 2026-10-07 | AI trust-boundary gateway for OpenAI, Anthropic, and Gemini. |
-| 4 | [Siddhu-6/Synapse](https://github.com/Siddhu-6/Synapse) | 1 | Python | 2026-10-07 | Personal agentic AI assistant: LangGraph orchestration, CrewAI specialist crews, MCP tools, Obsidian memory, human-in-th |
-| 5 | [DiogoRibeiro7/rag-quality-engine](https://github.com/DiogoRibeiro7/rag-quality-engine) | 0 | Jupyter Notebook | 2026-10-07 | Evaluation-first RAG and LLMOps platform for production-grade document QA, tracing, regression testing, and cost-aware e |
-| 6 | [DuqueOM/ml-platform](https://github.com/DuqueOM/ml-platform) | 2 | Python | 2026-10-07 | Multi-project ML platform monorepo: shared substrate across tabular, deep learning, LLM and agent projects. Multi-cloud  |
-| 7 | [SourceShift/mini-ork](https://github.com/SourceShift/mini-ork) | 29 | Python | 2026-10-07 | Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack |
-| 8 | [api-evangelist/qwak](https://github.com/api-evangelist/qwak) | 0 | — | 2026-10-07 | Qwak — independent third-party profile of a public API surface, by API Evangelist. Qwak is an end-to-end production mach |
-| 9 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-07 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-07 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [gaurav-gandhi-2411/adk-tracegauge](https://github.com/gaurav-gandhi-2411/adk-tracegauge) | 0 | Python | 2026-10-07 | See what your Google ADK agent costs (per-invocation USD from token usage) and fail CI when it gets more expensive. |
+| 3 | [vocion/vocion-core](https://github.com/vocion/vocion-core) | 2 | TypeScript | 2026-10-07 | Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review,  |
+| 4 | [GetSHIM/shim](https://github.com/GetSHIM/shim) | 8 | Python | 2026-10-07 | AI trust-boundary gateway for OpenAI, Anthropic, and Gemini. |
+| 5 | [Siddhu-6/Synapse](https://github.com/Siddhu-6/Synapse) | 1 | Python | 2026-10-07 | Personal agentic AI assistant: LangGraph orchestration, CrewAI specialist crews, MCP tools, Obsidian memory, human-in-th |
+| 6 | [DiogoRibeiro7/rag-quality-engine](https://github.com/DiogoRibeiro7/rag-quality-engine) | 0 | Jupyter Notebook | 2026-10-07 | Evaluation-first RAG and LLMOps platform for production-grade document QA, tracing, regression testing, and cost-aware e |
+| 7 | [DuqueOM/ml-platform](https://github.com/DuqueOM/ml-platform) | 2 | Python | 2026-10-07 | Multi-project ML platform monorepo: shared substrate across tabular, deep learning, LLM and agent projects. Multi-cloud  |
+| 8 | [SourceShift/mini-ork](https://github.com/SourceShift/mini-ork) | 29 | Python | 2026-10-07 | Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack |
+| 9 | [api-evangelist/qwak](https://github.com/api-evangelist/qwak) | 0 | — | 2026-10-07 | Qwak — independent third-party profile of a public API surface, by API Evangelist. Qwak is an end-to-end production mach |
 | 10 | [nixvarghese01/local-ai-platform](https://github.com/nixvarghese01/local-ai-platform) | 0 | Python | 2026-10-07 | Self-hosted, MCP-based AI agent platform on k3s in WSL2: Ollama (3B, CPU-only), LangGraph, Qdrant, MLflow, Dagster, n8n, |
 | 11 | [Chris0Jeky/llm-release-gate](https://github.com/Chris0Jeky/llm-release-gate) | 0 | Python | 2026-10-07 | An open-source CLI plus GitHub Action that prevents unsafe prompt, model, retrieval, tool, or configuration changes from |
 | 12 | [luetzey/who2be](https://github.com/luetzey/who2be) | 0 | Python | 2026-10-07 | Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se |
