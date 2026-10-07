@@ -1,21 +1,30 @@
 [
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-07T14:14:36Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 8311,
-    "updated_at": "2026-10-07T14:14:30Z",
+    "stars": 8312,
+    "updated_at": "2026-10-07T14:29:48Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "AgentFox: open-source control plane for AI agents. Guardrails on model traffic, tool calls bounded by capability grants,",
+    "id": "architsharm/agentfox",
+    "language": "Python",
+    "name": "architsharm/agentfox",
+    "stars": 3,
+    "updated_at": "2026-10-07T14:28:58Z",
+    "url": "https://github.com/architsharm/agentfox"
+  },
+  {
+    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
+    "id": "bilal0399/learn-agentic-ai",
+    "language": "\u2014",
+    "name": "bilal0399/learn-agentic-ai",
+    "stars": 8,
+    "updated_at": "2026-10-07T14:27:15Z",
+    "url": "https://github.com/bilal0399/learn-agentic-ai"
   },
   {
     "description": "See what your Google ADK agent costs (per-invocation USD from token usage) and fail CI when it gets more expensive.",
@@ -23,8 +32,17 @@
     "language": "Python",
     "name": "gaurav-gandhi-2411/adk-tracegauge",
     "stars": 0,
-    "updated_at": "2026-10-07T14:11:06Z",
+    "updated_at": "2026-10-07T14:25:41Z",
     "url": "https://github.com/gaurav-gandhi-2411/adk-tracegauge"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-07T14:24:22Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -32,8 +50,53 @@
     "language": "Rust",
     "name": "systempromptio/systemprompt-core",
     "stars": 8,
-    "updated_at": "2026-10-07T14:10:45Z",
+    "updated_at": "2026-10-07T14:23:02Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "\ud83e\udea2 Langfuse JS/TS SDK",
+    "id": "langfuse/langfuse-js",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse-js",
+    "stars": 171,
+    "updated_at": "2026-10-07T14:25:02Z",
+    "url": "https://github.com/langfuse/langfuse-js"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 5,
+    "updated_at": "2026-10-07T14:22:40Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22425,
+    "updated_at": "2026-10-07T14:29:07Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-07T14:15:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Self-hosted AI Agents Platform supporting Claude Code, Codex, Gemini agents. Apache 2.0.  ",
+    "id": "Abilityai/trinity",
+    "language": "Python",
+    "name": "Abilityai/trinity",
+    "stars": 628,
+    "updated_at": "2026-10-07T14:30:16Z",
+    "url": "https://github.com/Abilityai/trinity"
   },
   {
     "description": "LLM observability and evals in a single binary: traces, prompts, datasets, scores and review queues for LLM and agent ap",
@@ -108,31 +171,13 @@
     "url": "https://github.com/maks3201/decision-model-operator"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22425,
-    "updated_at": "2026-10-07T14:08:37Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 35481,
-    "updated_at": "2026-10-07T14:07:32Z",
+    "updated_at": "2026-10-07T14:27:02Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "\ud83e\udea2 Langfuse JS/TS SDK",
-    "id": "langfuse/langfuse-js",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse-js",
-    "stars": 171,
-    "updated_at": "2026-10-07T14:04:00Z",
-    "url": "https://github.com/langfuse/langfuse-js"
   },
   {
     "description": "Self-hosted production platform for deploying, routing, scheduling, and observing Eve agent fleets.",
@@ -149,7 +194,7 @@
     "language": "Go",
     "name": "gagarin-cloud/gg",
     "stars": 1,
-    "updated_at": "2026-10-07T14:06:57Z",
+    "updated_at": "2026-10-07T14:28:01Z",
     "url": "https://github.com/gagarin-cloud/gg"
   },
   {
@@ -157,18 +202,9 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 60284,
-    "updated_at": "2026-10-07T14:00:54Z",
+    "stars": 60285,
+    "updated_at": "2026-10-07T14:24:21Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-07T14:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open Source software factory.",
@@ -176,7 +212,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-10-07T13:58:12Z",
+    "updated_at": "2026-10-07T14:20:03Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -194,7 +230,7 @@
     "language": "Python",
     "name": "radicalbit/radicalbit-ai-gateway",
     "stars": 71,
-    "updated_at": "2026-10-07T14:08:13Z",
+    "updated_at": "2026-10-07T14:20:53Z",
     "url": "https://github.com/radicalbit/radicalbit-ai-gateway"
   },
   {
@@ -212,7 +248,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 511,
-    "updated_at": "2026-10-07T14:14:30Z",
+    "updated_at": "2026-10-07T14:25:17Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -230,7 +266,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11741,
-    "updated_at": "2026-10-07T13:47:27Z",
+    "updated_at": "2026-10-07T14:17:55Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -248,7 +284,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8603,
-    "updated_at": "2026-10-07T14:07:50Z",
+    "updated_at": "2026-10-07T14:18:20Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -410,43 +446,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4923,
-    "updated_at": "2026-10-07T14:12:23Z",
+    "updated_at": "2026-10-07T14:27:18Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
-    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "language": "Dockerfile",
-    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "stars": 0,
-    "updated_at": "2026-10-07T13:12:16Z",
-    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
-    "id": "JoniMartin27/lookspan",
-    "language": "TypeScript",
-    "name": "JoniMartin27/lookspan",
-    "stars": 7,
-    "updated_at": "2026-10-07T13:12:15Z",
-    "url": "https://github.com/JoniMartin27/lookspan"
-  },
-  {
-    "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
-    "id": "harishu652/Class-AI-Agent",
-    "language": "\u2014",
-    "name": "harishu652/Class-AI-Agent",
-    "stars": 0,
-    "updated_at": "2026-10-07T13:08:49Z",
-    "url": "https://github.com/harishu652/Class-AI-Agent"
-  },
-  {
-    "description": "Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo",
-    "id": "Healthful-article791/rag-systems-production",
-    "language": "\u2014",
-    "name": "Healthful-article791/rag-systems-production",
-    "stars": 1,
-    "updated_at": "2026-10-07T13:08:00Z",
-    "url": "https://github.com/Healthful-article791/rag-systems-production"
   }
 ]
