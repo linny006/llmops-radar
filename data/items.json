@@ -1,12 +1,75 @@
 [
   {
+    "description": "Self-hosted OpenAI/Anthropic-compatible gateway: give each AI agent run a dollar budget, enforced before the provider, w",
+    "id": "domondi1/inferrail",
+    "language": "Python",
+    "name": "domondi1/inferrail",
+    "stars": 0,
+    "updated_at": "2026-10-07T01:14:41Z",
+    "url": "https://github.com/domondi1/inferrail"
+  },
+  {
+    "description": "A hands-on library for DevOps, Cloud, and AI engineers: real production scenarios for AWS, Kubernetes, Docker, and LLMOp",
+    "id": "sandeepk24/learn-devops-playbook",
+    "language": "Python",
+    "name": "sandeepk24/learn-devops-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-07T01:11:27Z",
+    "url": "https://github.com/sandeepk24/learn-devops-playbook"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25763,
+    "updated_at": "2026-10-07T01:11:58Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 83,
+    "updated_at": "2026-10-07T01:09:07Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
     "description": "Streaming civic-data pipeline: Chicago 311 \u2192 Kafka \u2192 Claude urgency classification (Langfuse-traced) \u2192 DuckDB or Snowfla",
     "id": "tjromack/open311-pipeline",
     "language": "Python",
     "name": "tjromack/open311-pipeline",
     "stars": 0,
-    "updated_at": "2026-10-07T01:00:05Z",
+    "updated_at": "2026-10-07T01:03:41Z",
     "url": "https://github.com/tjromack/open311-pipeline"
+  },
+  {
+    "description": "Open Source software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-10-07T01:03:20Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Portable agentic SDLC pipeline as a Claude Code plugin: 4 role agents, 2 human gates, unit-tested guardrails, self-impro",
+    "id": "juanjtov/adlc-pipeline",
+    "language": "Python",
+    "name": "juanjtov/adlc-pipeline",
+    "stars": 0,
+    "updated_at": "2026-10-07T01:02:51Z",
+    "url": "https://github.com/juanjtov/adlc-pipeline"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-07T01:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "An open-source CLI plus GitHub Action that prevents unsafe prompt, model, retrieval, tool, or configuration changes from",
@@ -14,7 +77,7 @@
     "language": "Python",
     "name": "Chris0Jeky/llm-release-gate",
     "stars": 0,
-    "updated_at": "2026-10-07T00:59:16Z",
+    "updated_at": "2026-10-07T01:07:11Z",
     "url": "https://github.com/Chris0Jeky/llm-release-gate"
   },
   {
@@ -36,15 +99,6 @@
     "url": "https://github.com/Root1V/prometheus-inference-platform"
   },
   {
-    "description": "Self-hosted OpenAI/Anthropic-compatible gateway: give each AI agent run a dollar budget, enforced before the provider, w",
-    "id": "domondi1/inferrail",
-    "language": "Python",
-    "name": "domondi1/inferrail",
-    "stars": 0,
-    "updated_at": "2026-10-07T00:56:32Z",
-    "url": "https://github.com/domondi1/inferrail"
-  },
-  {
     "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
     "id": "redevops-io/agentic-os",
     "language": "Python",
@@ -59,7 +113,7 @@
     "language": "Python",
     "name": "Xander-Xai/Beauty-Industry-RAG-QA-System",
     "stars": 0,
-    "updated_at": "2026-10-07T00:53:39Z",
+    "updated_at": "2026-10-07T01:03:55Z",
     "url": "https://github.com/Xander-Xai/Beauty-Industry-RAG-QA-System"
   },
   {
@@ -68,7 +122,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 60243,
-    "updated_at": "2026-10-07T00:55:39Z",
+    "updated_at": "2026-10-07T01:13:57Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -88,15 +142,6 @@
     "stars": 6,
     "updated_at": "2026-10-07T00:47:13Z",
     "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-07T00:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "LLM router: picks the model and reasoning effort per query from accuracy and real billed cost. #1 on RouterArena.",
@@ -131,7 +176,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28291,
-    "updated_at": "2026-10-07T00:32:18Z",
+    "updated_at": "2026-10-07T01:07:04Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -151,15 +196,6 @@
     "stars": 625,
     "updated_at": "2026-10-07T00:27:21Z",
     "url": "https://github.com/Abilityai/trinity"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 83,
-    "updated_at": "2026-10-07T00:57:28Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
     "description": "Turn Claude into a context-aware red team operator with 78 drop-in offensive security skills across 23 categories.",
@@ -205,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-10-07T00:20:01Z",
     "url": "https://github.com/sargentfragrant429/AgentAccessManager"
-  },
-  {
-    "description": "Portable agentic SDLC pipeline as a Claude Code plugin: 4 role agents, 2 human gates, unit-tested guardrails, self-impro",
-    "id": "juanjtov/adlc-pipeline",
-    "language": "Python",
-    "name": "juanjtov/adlc-pipeline",
-    "stars": 0,
-    "updated_at": "2026-10-07T00:53:44Z",
-    "url": "https://github.com/juanjtov/adlc-pipeline"
   },
   {
     "description": "Policy, measurement, and operations workbench for running Codex and Claude agents safely across a GitHub estate.",
@@ -320,7 +347,7 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 41,
-    "updated_at": "2026-10-07T00:03:15Z",
+    "updated_at": "2026-10-07T01:06:36Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -396,21 +423,12 @@
     "url": "https://github.com/Lukaa1507/langchain-runner"
   },
   {
-    "description": "Open Source workflow engine for agents.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-10-07T00:54:07Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4923,
-    "updated_at": "2026-10-07T00:50:34Z",
+    "updated_at": "2026-10-07T01:11:58Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2922,
     "updated_at": "2026-10-06T23:39:36Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
-    "id": "Lo3okSky/LLM_course",
-    "language": "Jupyter Notebook",
-    "name": "Lo3okSky/LLM_course",
-    "stars": 3,
-    "updated_at": "2026-10-06T23:39:16Z",
-    "url": "https://github.com/Lo3okSky/LLM_course"
-  },
-  {
-    "description": "Repo for portfolio, containing working redirects to all projects.",
-    "id": "mjsushanth/mjsushanth.github.io",
-    "language": "HTML",
-    "name": "mjsushanth/mjsushanth.github.io",
-    "stars": 0,
-    "updated_at": "2026-10-06T23:38:22Z",
-    "url": "https://github.com/mjsushanth/mjsushanth.github.io"
   }
 ]
