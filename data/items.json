@@ -1,5 +1,104 @@
 [
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22414,
+    "updated_at": "2026-10-07T07:30:14Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25771,
+    "updated_at": "2026-10-07T07:30:20Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28294,
+    "updated_at": "2026-10-07T07:28:43Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "An autonomous ad pipeline that shoots with no director, grades pixels and audio instead of text, and picks a video engin",
+    "id": "jameswniu/autonomous-ads-pipeline-multimodal-evals",
+    "language": "Python",
+    "name": "jameswniu/autonomous-ads-pipeline-multimodal-evals",
+    "stars": 1,
+    "updated_at": "2026-10-07T07:25:53Z",
+    "url": "https://github.com/jameswniu/autonomous-ads-pipeline-multimodal-evals"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 8299,
+    "updated_at": "2026-10-07T07:25:12Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Source-available operating layer for governed AI applications \u2014 reuse policy, authority, evidence, execution, and recove",
+    "id": "jakbuczarnecki/intergrax",
+    "language": "Python",
+    "name": "jakbuczarnecki/intergrax",
+    "stars": 4,
+    "updated_at": "2026-10-07T07:24:32Z",
+    "url": "https://github.com/jakbuczarnecki/intergrax"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 29,
+    "updated_at": "2026-10-07T07:24:31Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "AI trust-boundary gateway for OpenAI, Anthropic, and Gemini.",
+    "id": "GetSHIM/shim",
+    "language": "Python",
+    "name": "GetSHIM/shim",
+    "stars": 8,
+    "updated_at": "2026-10-07T07:28:51Z",
+    "url": "https://github.com/GetSHIM/shim"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-10-07T07:21:34Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "Compile the decisions your LLM already makes into a certified 2 MB table that answers in microseconds on a CPU. No label",
+    "id": "2796gaurav/shad0w",
+    "language": "Python",
+    "name": "2796gaurav/shad0w",
+    "stars": 0,
+    "updated_at": "2026-10-07T07:26:51Z",
+    "url": "https://github.com/2796gaurav/shad0w"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-07T07:15:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "A framework with a strict protocol core for governed, stateful AI work.",
     "id": "maridlabsai/jini",
     "language": "Go",
@@ -9,21 +108,12 @@
     "url": "https://github.com/maridlabsai/jini"
   },
   {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 29,
-    "updated_at": "2026-10-07T07:12:51Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 60260,
-    "updated_at": "2026-10-07T07:13:56Z",
+    "updated_at": "2026-10-07T07:26:10Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -40,18 +130,9 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 35458,
+    "stars": 35460,
     "updated_at": "2026-10-07T07:10:31Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25770,
-    "updated_at": "2026-10-07T07:14:27Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "YOalphabet & YOconlang is a 4-bit isomorphic visual script replacing heavy CNNs and text embeddings with zero-inference ",
@@ -72,24 +153,6 @@
     "url": "https://github.com/infercrane/infercrane"
   },
   {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 8296,
-    "updated_at": "2026-10-07T07:01:16Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-07T07:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
     "id": "pom11/hscc",
     "language": "Python",
@@ -97,15 +160,6 @@
     "stars": 6,
     "updated_at": "2026-10-07T07:00:00Z",
     "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "An autonomous ad pipeline that shoots with no director, grades pixels and audio instead of text, and picks a video engin",
-    "id": "jameswniu/autonomous-ads-pipeline-multimodal-evals",
-    "language": "Python",
-    "name": "jameswniu/autonomous-ads-pipeline-multimodal-evals",
-    "stars": 1,
-    "updated_at": "2026-10-07T06:57:54Z",
-    "url": "https://github.com/jameswniu/autonomous-ads-pipeline-multimodal-evals"
   },
   {
     "description": "Agentic Runtime",
@@ -130,7 +184,7 @@
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
-    "stars": 8821,
+    "stars": 8820,
     "updated_at": "2026-10-07T06:50:29Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
@@ -149,7 +203,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8596,
-    "updated_at": "2026-10-07T06:43:48Z",
+    "updated_at": "2026-10-07T07:18:52Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -212,17 +266,8 @@
     "language": "Python",
     "name": "delivstat/swarmkit",
     "stars": 3,
-    "updated_at": "2026-10-07T06:36:15Z",
+    "updated_at": "2026-10-07T07:29:36Z",
     "url": "https://github.com/delivstat/swarmkit"
-  },
-  {
-    "description": "Compile the decisions your LLM already makes into a certified 2 MB table that answers in microseconds on a CPU. No label",
-    "id": "2796gaurav/shad0w",
-    "language": "Python",
-    "name": "2796gaurav/shad0w",
-    "stars": 0,
-    "updated_at": "2026-10-07T06:32:49Z",
-    "url": "https://github.com/2796gaurav/shad0w"
   },
   {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
@@ -238,7 +283,7 @@
     "id": "ShenSeanChen/waku-agent",
     "language": "Python",
     "name": "ShenSeanChen/waku-agent",
-    "stars": 1936,
+    "stars": 1937,
     "updated_at": "2026-10-07T06:24:38Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
   },
@@ -295,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-10-07T06:06:20Z",
     "url": "https://github.com/ghourimarti/Product-Recommender-Engine"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28294,
-    "updated_at": "2026-10-07T06:47:32Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Multi-agent system for US drug prices and shortages on Azure: Databricks pipeline, MCP tool server, Ask agent and a week",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-07T05:12:11Z",
     "url": "https://github.com/sargentfragrant429/AgentAccessManager"
-  },
-  {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 5,
-    "updated_at": "2026-10-07T05:08:28Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "Open Source software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-10-07T06:46:54Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
-    "id": "Guruexpl8276/LLM_Inference_Lab",
-    "language": "Python",
-    "name": "Guruexpl8276/LLM_Inference_Lab",
-    "stars": 0,
-    "updated_at": "2026-10-07T05:07:16Z",
-    "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
-  },
-  {
-    "description": "Live cost, token and context usage sidebar for Claude Code: a mod that shows cost per turn, cache hit rate, burn rate an",
-    "id": "andrewbakercloudscale/claude-code-cost-sidebar",
-    "language": "Shell",
-    "name": "andrewbakercloudscale/claude-code-cost-sidebar",
-    "stars": 1,
-    "updated_at": "2026-10-07T05:06:55Z",
-    "url": "https://github.com/andrewbakercloudscale/claude-code-cost-sidebar"
   }
 ]
