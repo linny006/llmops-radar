@@ -1,5 +1,77 @@
 [
   {
+    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
+    "id": "Root1V/prometheus-inference-platform",
+    "language": "Python",
+    "name": "Root1V/prometheus-inference-platform",
+    "stars": 1,
+    "updated_at": "2026-10-07T01:45:21Z",
+    "url": "https://github.com/Root1V/prometheus-inference-platform"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60243,
+    "updated_at": "2026-10-07T01:45:20Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open-source, self-hosted LLM observability built on OpenTelemetry",
+    "id": "antonij-tracium/tracium",
+    "language": "Go",
+    "name": "antonij-tracium/tracium",
+    "stars": 1,
+    "updated_at": "2026-10-07T01:44:24Z",
+    "url": "https://github.com/antonij-tracium/tracium"
+  },
+  {
+    "description": "One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod",
+    "id": "valteresj2/agent-hangar",
+    "language": "Python",
+    "name": "valteresj2/agent-hangar",
+    "stars": 3,
+    "updated_at": "2026-10-07T01:39:06Z",
+    "url": "https://github.com/valteresj2/agent-hangar"
+  },
+  {
+    "description": "Open-source infrastructure for the full inference lifecycle: deploy, observe, scale, optimize, and safely release self-h",
+    "id": "infercrane/infercrane",
+    "language": "Go",
+    "name": "infercrane/infercrane",
+    "stars": 52,
+    "updated_at": "2026-10-07T01:37:38Z",
+    "url": "https://github.com/infercrane/infercrane"
+  },
+  {
+    "description": "An open-source CLI plus GitHub Action that prevents unsafe prompt, model, retrieval, tool, or configuration changes from",
+    "id": "Chris0Jeky/llm-release-gate",
+    "language": "Python",
+    "name": "Chris0Jeky/llm-release-gate",
+    "stars": 0,
+    "updated_at": "2026-10-07T01:35:50Z",
+    "url": "https://github.com/Chris0Jeky/llm-release-gate"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-10-07T01:33:36Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-07T01:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
     "id": "pom11/hscc",
     "language": "Python",
@@ -18,39 +90,12 @@
     "url": "https://github.com/dshakes/distil"
   },
   {
-    "description": "An open-source CLI plus GitHub Action that prevents unsafe prompt, model, retrieval, tool, or configuration changes from",
-    "id": "Chris0Jeky/llm-release-gate",
-    "language": "Python",
-    "name": "Chris0Jeky/llm-release-gate",
-    "stars": 0,
-    "updated_at": "2026-10-07T01:27:25Z",
-    "url": "https://github.com/Chris0Jeky/llm-release-gate"
-  },
-  {
-    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
-    "id": "Root1V/prometheus-inference-platform",
-    "language": "Python",
-    "name": "Root1V/prometheus-inference-platform",
-    "stars": 1,
-    "updated_at": "2026-10-07T01:21:38Z",
-    "url": "https://github.com/Root1V/prometheus-inference-platform"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60243,
-    "updated_at": "2026-10-07T01:29:32Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code \u2014 V3 prototype runs ",
     "id": "MongLong0214/jev-gate",
     "language": "TypeScript",
     "name": "MongLong0214/jev-gate",
     "stars": 3,
-    "updated_at": "2026-10-07T01:19:33Z",
+    "updated_at": "2026-10-07T01:41:00Z",
     "url": "https://github.com/MongLong0214/jev-gate"
   },
   {
@@ -68,7 +113,7 @@
     "language": "Python",
     "name": "Xander-Xai/Beauty-Industry-RAG-QA-System",
     "stars": 0,
-    "updated_at": "2026-10-07T01:18:04Z",
+    "updated_at": "2026-10-07T01:43:43Z",
     "url": "https://github.com/Xander-Xai/Beauty-Industry-RAG-QA-System"
   },
   {
@@ -77,7 +122,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28291,
-    "updated_at": "2026-10-07T01:19:00Z",
+    "updated_at": "2026-10-07T01:38:52Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -90,21 +135,12 @@
     "url": "https://github.com/kingfs/Trajecta"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-07T01:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Self-hosted OpenAI/Anthropic-compatible gateway: give each AI agent run a dollar budget, enforced before the provider, w",
     "id": "domondi1/inferrail",
     "language": "Python",
     "name": "domondi1/inferrail",
     "stars": 0,
-    "updated_at": "2026-10-07T01:14:41Z",
+    "updated_at": "2026-10-07T01:36:35Z",
     "url": "https://github.com/domondi1/inferrail"
   },
   {
@@ -131,7 +167,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 83,
-    "updated_at": "2026-10-07T01:20:12Z",
+    "updated_at": "2026-10-07T01:40:05Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -169,15 +205,6 @@
     "stars": 29,
     "updated_at": "2026-10-07T00:58:39Z",
     "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-10-07T01:28:23Z",
-    "url": "https://github.com/redevops-io/agentic-os"
   },
   {
     "description": "Self-hosted & federated platform for AI IDE/Tools Rules and Commands via WebUI & CLI - Generate, browse, store, share AG",
@@ -284,7 +311,7 @@
     "language": "Python",
     "name": "Chris0Jeky/agent-harness",
     "stars": 1,
-    "updated_at": "2026-10-07T00:58:16Z",
+    "updated_at": "2026-10-07T01:42:37Z",
     "url": "https://github.com/Chris0Jeky/agent-harness"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-06T23:57:12Z",
     "url": "https://github.com/matiaslanza99/SuperStore.SalesDashboard"
-  },
-  {
-    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
-    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "language": "Python",
-    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "stars": 3,
-    "updated_at": "2026-10-06T23:55:02Z",
-    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-10-06T23:54:35Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
-    "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 1,
-    "updated_at": "2026-10-06T23:53:36Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
   }
 ]
