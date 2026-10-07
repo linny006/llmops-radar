@@ -1,12 +1,102 @@
 [
   {
+    "description": "LLM router: picks the model and reasoning effort per query from accuracy and real billed cost. #1 on RouterArena.",
+    "id": "Harunercul/argrouter",
+    "language": "Python",
+    "name": "Harunercul/argrouter",
+    "stars": 1,
+    "updated_at": "2026-10-07T00:44:10Z",
+    "url": "https://github.com/Harunercul/argrouter"
+  },
+  {
+    "description": "Seven-layer AI governance platform: Keycloak + SPIRE identity, OPA policy-as-code, MLflow eval-gated model promotion, Gu",
+    "id": "ritesh469/ai-governance-platform",
+    "language": "Python",
+    "name": "ritesh469/ai-governance-platform",
+    "stars": 0,
+    "updated_at": "2026-10-07T00:40:29Z",
+    "url": "https://github.com/ritesh469/ai-governance-platform"
+  },
+  {
+    "description": "Self-hosted OpenAI/Anthropic-compatible gateway: give each AI agent run a dollar budget, enforced before the provider, w",
+    "id": "domondi1/inferrail",
+    "language": "Python",
+    "name": "domondi1/inferrail",
+    "stars": 0,
+    "updated_at": "2026-10-07T00:40:27Z",
+    "url": "https://github.com/domondi1/inferrail"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-10-07T00:44:46Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "Self-hosted & federated platform for AI IDE/Tools Rules and Commands via WebUI & CLI - Generate, browse, store, share AG",
+    "id": "GeiserX/LynxPrompt",
+    "language": "TypeScript",
+    "name": "GeiserX/LynxPrompt",
+    "stars": 50,
+    "updated_at": "2026-10-07T00:43:46Z",
+    "url": "https://github.com/GeiserX/LynxPrompt"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60243,
+    "updated_at": "2026-10-07T00:44:46Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
+    "id": "Root1V/prometheus-inference-platform",
+    "language": "Python",
+    "name": "Root1V/prometheus-inference-platform",
+    "stars": 1,
+    "updated_at": "2026-10-07T00:32:43Z",
+    "url": "https://github.com/Root1V/prometheus-inference-platform"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 23,
+    "updated_at": "2026-10-07T00:35:33Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-07T00:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28290,
-    "updated_at": "2026-10-07T00:30:05Z",
+    "updated_at": "2026-10-07T00:32:18Z",
     "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22412,
+    "updated_at": "2026-10-07T00:28:34Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Self-hosted AI Agents Platform supporting Claude Code, Codex, Gemini agents. Apache 2.0.  ",
@@ -23,17 +113,8 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 83,
-    "updated_at": "2026-10-07T00:25:59Z",
+    "updated_at": "2026-10-07T00:32:44Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60243,
-    "updated_at": "2026-10-07T00:29:13Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Turn Claude into a context-aware red team operator with 78 drop-in offensive security skills across 23 categories.",
@@ -52,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-07T00:22:49Z",
     "url": "https://github.com/justanotheruser82174/cua-lite"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 23,
-    "updated_at": "2026-10-07T00:22:42Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "Retrieve multilingual visual documents with ultra-compact token embeddings from this Qwen3.5-4B-powered ColPali engine.",
@@ -95,26 +167,8 @@
     "language": "Python",
     "name": "juanjtov/adlc-pipeline",
     "stars": 0,
-    "updated_at": "2026-10-07T00:19:07Z",
+    "updated_at": "2026-10-07T00:41:50Z",
     "url": "https://github.com/juanjtov/adlc-pipeline"
-  },
-  {
-    "description": "Self-hosted & federated platform for AI IDE/Tools Rules and Commands via WebUI & CLI - Generate, browse, store, share AG",
-    "id": "GeiserX/LynxPrompt",
-    "language": "TypeScript",
-    "name": "GeiserX/LynxPrompt",
-    "stars": 50,
-    "updated_at": "2026-10-07T00:24:01Z",
-    "url": "https://github.com/GeiserX/LynxPrompt"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-07T00:15:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Policy, measurement, and operations workbench for running Codex and Claude agents safely across a GitHub estate.",
@@ -122,7 +176,7 @@
     "language": "Python",
     "name": "Chris0Jeky/agent-harness",
     "stars": 1,
-    "updated_at": "2026-10-07T00:15:23Z",
+    "updated_at": "2026-10-07T00:45:16Z",
     "url": "https://github.com/Chris0Jeky/agent-harness"
   },
   {
@@ -144,21 +198,12 @@
     "url": "https://github.com/Fauniethermal3522/agentic-dart"
   },
   {
-    "description": "Seven-layer AI governance platform: Keycloak + SPIRE identity, OPA policy-as-code, MLflow eval-gated model promotion, Gu",
-    "id": "ritesh469/ai-governance-platform",
-    "language": "Python",
-    "name": "ritesh469/ai-governance-platform",
-    "stars": 0,
-    "updated_at": "2026-10-07T00:12:54Z",
-    "url": "https://github.com/ritesh469/ai-governance-platform"
-  },
-  {
     "description": "Multimodal RAG QA for cosmetics regulation: hybrid retrieval, two-stage reranking, evidence gating that refuses unsuppor",
     "id": "Xander-Xai/Beauty-Industry-RAG-QA-System",
     "language": "Python",
     "name": "Xander-Xai/Beauty-Industry-RAG-QA-System",
     "stars": 0,
-    "updated_at": "2026-10-07T00:12:19Z",
+    "updated_at": "2026-10-07T00:44:15Z",
     "url": "https://github.com/Xander-Xai/Beauty-Industry-RAG-QA-System"
   },
   {
@@ -187,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-10-07T00:09:23Z",
     "url": "https://github.com/pragmatiks/pragma-providers"
-  },
-  {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-10-07T00:29:18Z",
-    "url": "https://github.com/redevops-io/agentic-os"
   },
   {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
@@ -347,7 +383,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4923,
-    "updated_at": "2026-10-07T00:22:48Z",
+    "updated_at": "2026-10-07T00:39:41Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 30452,
     "updated_at": "2026-10-06T23:39:37Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Autonomous LLM build orchestrator:  plans a goal into tasks, edits code with anchored SEARCH/REPLACE, and verifies every",
-    "id": "dcondrey/misterdev",
-    "language": "Python",
-    "name": "dcondrey/misterdev",
-    "stars": 5,
-    "updated_at": "2026-10-06T23:38:42Z",
-    "url": "https://github.com/dcondrey/misterdev"
-  },
-  {
-    "description": "LLM router: picks the model and reasoning effort per query from accuracy and real billed cost. #1 on RouterArena.",
-    "id": "Harunercul/argrouter",
-    "language": "Python",
-    "name": "Harunercul/argrouter",
-    "stars": 1,
-    "updated_at": "2026-10-06T23:18:01Z",
-    "url": "https://github.com/Harunercul/argrouter"
-  },
-  {
-    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 1,
-    "updated_at": "2026-10-06T23:09:44Z",
-    "url": "https://github.com/a-novel/service-genai"
-  },
-  {
-    "description": "One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod",
-    "id": "valteresj2/agent-hangar",
-    "language": "Python",
-    "name": "valteresj2/agent-hangar",
-    "stars": 3,
-    "updated_at": "2026-10-06T23:07:01Z",
-    "url": "https://github.com/valteresj2/agent-hangar"
   }
 ]
