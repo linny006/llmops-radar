@@ -1,21 +1,21 @@
 [
   {
+    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
+    "id": "AixleHQ/flow",
+    "language": "Ruby",
+    "name": "AixleHQ/flow",
+    "stars": 19,
+    "updated_at": "2026-10-07T11:44:47Z",
+    "url": "https://github.com/AixleHQ/flow"
+  },
+  {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
     "stars": 8305,
-    "updated_at": "2026-10-07T11:26:57Z",
+    "updated_at": "2026-10-07T11:42:13Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22422,
-    "updated_at": "2026-10-07T11:27:46Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
@@ -23,8 +23,35 @@
     "language": "Python",
     "name": "SourceShift/mini-ork",
     "stars": 29,
-    "updated_at": "2026-10-07T11:24:24Z",
+    "updated_at": "2026-10-07T11:41:21Z",
     "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22422,
+    "updated_at": "2026-10-07T11:44:05Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 23,
+    "updated_at": "2026-10-07T11:38:33Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28302,
+    "updated_at": "2026-10-07T11:37:14Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
@@ -32,8 +59,80 @@
     "language": "Go",
     "name": "maks3201/decision-model-operator",
     "stars": 0,
-    "updated_at": "2026-10-07T11:27:35Z",
+    "updated_at": "2026-10-07T11:44:27Z",
     "url": "https://github.com/maks3201/decision-model-operator"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 396,
+    "updated_at": "2026-10-07T11:34:06Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60274,
+    "updated_at": "2026-10-07T11:33:25Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 6,
+    "updated_at": "2026-10-07T11:30:52Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Open-source infrastructure for the full inference lifecycle: deploy, observe, scale, optimize, and safely release self-h",
+    "id": "infercrane/infercrane",
+    "language": "Go",
+    "name": "infercrane/infercrane",
+    "stars": 52,
+    "updated_at": "2026-10-07T11:30:48Z",
+    "url": "https://github.com/infercrane/infercrane"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35474,
+    "updated_at": "2026-10-07T11:45:25Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-07T11:30:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8600,
+    "updated_at": "2026-10-07T11:39:50Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25782,
+    "updated_at": "2026-10-07T11:26:14Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "AI Engineering: From Software Engineer to Production AI Engineer \u2014 a complete textbook with runnable code, six projects ",
@@ -45,15 +144,6 @@
     "url": "https://github.com/XayyamSadigov/ai-engineering-book"
   },
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35473,
-    "updated_at": "2026-10-07T11:28:35Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Evaluation-first RAG and LLMOps platform for production-grade document QA, tracing, regression testing, and cost-aware e",
     "id": "DiogoRibeiro7/rag-quality-engine",
     "language": "Jupyter Notebook",
@@ -61,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-07T11:15:49Z",
     "url": "https://github.com/DiogoRibeiro7/rag-quality-engine"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-07T11:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Resource providers for pragma-os. Manage cloud infrastructure, AI agents, knowledge bases, pipelines, and workflows.",
@@ -81,15 +162,6 @@
     "url": "https://github.com/pragmatiks/pragma-providers"
   },
   {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 396,
-    "updated_at": "2026-10-07T11:29:46Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
     "description": "Offline LLM evaluation harness with a CI release gate \u2014 golden sets, groundedness/hallucination metrics, per-case regres",
     "id": "talhayme/llm-eval-harness",
     "language": "Python",
@@ -99,30 +171,12 @@
     "url": "https://github.com/talhayme/llm-eval-harness"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60271,
-    "updated_at": "2026-10-07T11:24:54Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
-    "id": "AixleHQ/flow",
-    "language": "Ruby",
-    "name": "AixleHQ/flow",
-    "stars": 19,
-    "updated_at": "2026-10-07T11:26:13Z",
-    "url": "https://github.com/AixleHQ/flow"
-  },
-  {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
     "id": "mozilla-ai/otari",
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 511,
-    "updated_at": "2026-10-07T11:24:44Z",
+    "updated_at": "2026-10-07T11:37:23Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -131,26 +185,8 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30456,
-    "updated_at": "2026-10-07T11:28:42Z",
+    "updated_at": "2026-10-07T11:39:32Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 23,
-    "updated_at": "2026-10-07T11:16:49Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25781,
-    "updated_at": "2026-10-07T11:26:14Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "llmcfo",
@@ -160,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-10-07T10:45:00Z",
     "url": "https://github.com/lisn0/tidal"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 6,
-    "updated_at": "2026-10-07T10:44:17Z",
-    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "The platform for continuously improving AI agents.",
@@ -187,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-10-07T10:36:14Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8599,
-    "updated_at": "2026-10-07T11:30:07Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
@@ -221,7 +239,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-10-07T10:30:53Z",
+    "updated_at": "2026-10-07T11:33:02Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -250,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-10-07T10:19:49Z",
     "url": "https://github.com/sophie-nguyenthuthuy/llm-pricing-history"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28299,
-    "updated_at": "2026-10-07T11:26:14Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Protect your machine from AI-powered automation with local, deterministic Allow/Ask/Deny controls for high-impact action",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-07T09:57:33Z",
     "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-10-07T09:57:06Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
   }
 ]
