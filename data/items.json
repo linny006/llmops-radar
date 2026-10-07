@@ -1,30 +1,12 @@
 [
   {
-    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
-    "id": "Root1V/prometheus-inference-platform",
-    "language": "Python",
-    "name": "Root1V/prometheus-inference-platform",
+    "description": "Enterprise AI Router and Governance System \u2014 the AI that governs all AIs",
+    "id": "kensterinvest/tidus",
+    "language": "HTML",
+    "name": "kensterinvest/tidus",
     "stars": 1,
-    "updated_at": "2026-10-07T01:45:21Z",
-    "url": "https://github.com/Root1V/prometheus-inference-platform"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60243,
-    "updated_at": "2026-10-07T01:45:20Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Open-source, self-hosted LLM observability built on OpenTelemetry",
-    "id": "antonij-tracium/tracium",
-    "language": "Go",
-    "name": "antonij-tracium/tracium",
-    "stars": 1,
-    "updated_at": "2026-10-07T01:44:24Z",
-    "url": "https://github.com/antonij-tracium/tracium"
+    "updated_at": "2026-10-07T02:00:21Z",
+    "url": "https://github.com/kensterinvest/tidus"
   },
   {
     "description": "One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod",
@@ -32,8 +14,125 @@
     "language": "Python",
     "name": "valteresj2/agent-hangar",
     "stars": 3,
-    "updated_at": "2026-10-07T01:39:06Z",
+    "updated_at": "2026-10-07T01:59:51Z",
     "url": "https://github.com/valteresj2/agent-hangar"
+  },
+  {
+    "description": "Autonomous LLM build orchestrator:  plans a goal into tasks, edits code with anchored SEARCH/REPLACE, and verifies every",
+    "id": "dcondrey/misterdev",
+    "language": "Python",
+    "name": "dcondrey/misterdev",
+    "stars": 5,
+    "updated_at": "2026-10-07T01:59:12Z",
+    "url": "https://github.com/dcondrey/misterdev"
+  },
+  {
+    "description": "Self-hosted OpenAI/Anthropic-compatible gateway: give each AI agent run a dollar budget, enforced before the provider, w",
+    "id": "domondi1/inferrail",
+    "language": "Python",
+    "name": "domondi1/inferrail",
+    "stars": 0,
+    "updated_at": "2026-10-07T01:58:47Z",
+    "url": "https://github.com/domondi1/inferrail"
+  },
+  {
+    "description": "Offline regression tests and explainable release gates for RAG systems and AI agents.",
+    "id": "thangldw/ragops",
+    "language": "Python",
+    "name": "thangldw/ragops",
+    "stars": 0,
+    "updated_at": "2026-10-07T01:57:16Z",
+    "url": "https://github.com/thangldw/ragops"
+  },
+  {
+    "description": "Open Source software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-10-07T01:56:29Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Open-source, self-hosted LLM observability built on OpenTelemetry",
+    "id": "antonij-tracium/tracium",
+    "language": "Go",
+    "name": "antonij-tracium/tracium",
+    "stars": 1,
+    "updated_at": "2026-10-07T01:56:27Z",
+    "url": "https://github.com/antonij-tracium/tracium"
+  },
+  {
+    "description": "LLM observability and evals in a single binary: traces, prompts, datasets, scores and review queues for LLM and agent ap",
+    "id": "tracepad/tracepad",
+    "language": "Go",
+    "name": "tracepad/tracepad",
+    "stars": 1,
+    "updated_at": "2026-10-07T01:56:13Z",
+    "url": "https://github.com/tracepad/tracepad"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60244,
+    "updated_at": "2026-10-07T01:59:20Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Repo for portfolio, containing working redirects to all projects.",
+    "id": "mjsushanth/mjsushanth.github.io",
+    "language": "HTML",
+    "name": "mjsushanth/mjsushanth.github.io",
+    "stars": 0,
+    "updated_at": "2026-10-07T01:51:37Z",
+    "url": "https://github.com/mjsushanth/mjsushanth.github.io"
+  },
+  {
+    "description": "Multi-project ML platform monorepo: shared substrate across tabular, deep learning, LLM and agent projects. Multi-cloud ",
+    "id": "DuqueOM/ml-platform",
+    "language": "Python",
+    "name": "DuqueOM/ml-platform",
+    "stars": 2,
+    "updated_at": "2026-10-07T01:51:36Z",
+    "url": "https://github.com/DuqueOM/ml-platform"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 83,
+    "updated_at": "2026-10-07T02:00:27Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code \u2014 V3 prototype runs ",
+    "id": "MongLong0214/jev-gate",
+    "language": "TypeScript",
+    "name": "MongLong0214/jev-gate",
+    "stars": 3,
+    "updated_at": "2026-10-07T01:48:48Z",
+    "url": "https://github.com/MongLong0214/jev-gate"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-07T01:45:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
+    "id": "Root1V/prometheus-inference-platform",
+    "language": "Python",
+    "name": "Root1V/prometheus-inference-platform",
+    "stars": 1,
+    "updated_at": "2026-10-07T01:45:21Z",
+    "url": "https://github.com/Root1V/prometheus-inference-platform"
   },
   {
     "description": "Open-source infrastructure for the full inference lifecycle: deploy, observe, scale, optimize, and safely release self-h",
@@ -63,15 +162,6 @@
     "url": "https://github.com/redevops-io/agentic-os"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-07T01:30:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
     "id": "pom11/hscc",
     "language": "Python",
@@ -88,15 +178,6 @@
     "stars": 18,
     "updated_at": "2026-10-07T01:28:59Z",
     "url": "https://github.com/dshakes/distil"
-  },
-  {
-    "description": "Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code \u2014 V3 prototype runs ",
-    "id": "MongLong0214/jev-gate",
-    "language": "TypeScript",
-    "name": "MongLong0214/jev-gate",
-    "stars": 3,
-    "updated_at": "2026-10-07T01:41:00Z",
-    "url": "https://github.com/MongLong0214/jev-gate"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -135,21 +216,12 @@
     "url": "https://github.com/kingfs/Trajecta"
   },
   {
-    "description": "Self-hosted OpenAI/Anthropic-compatible gateway: give each AI agent run a dollar budget, enforced before the provider, w",
-    "id": "domondi1/inferrail",
-    "language": "Python",
-    "name": "domondi1/inferrail",
-    "stars": 0,
-    "updated_at": "2026-10-07T01:36:35Z",
-    "url": "https://github.com/domondi1/inferrail"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25764,
-    "updated_at": "2026-10-07T01:11:58Z",
+    "updated_at": "2026-10-07T01:59:13Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -162,15 +234,6 @@
     "url": "https://github.com/sandeepk24/learn-devops-playbook"
   },
   {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 83,
-    "updated_at": "2026-10-07T01:40:05Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
     "description": "Streaming civic-data pipeline: Chicago 311 \u2192 Kafka \u2192 Claude urgency classification (Langfuse-traced) \u2192 DuckDB or Snowfla",
     "id": "tjromack/open311-pipeline",
     "language": "Python",
@@ -178,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-10-07T01:03:41Z",
     "url": "https://github.com/tjromack/open311-pipeline"
-  },
-  {
-    "description": "Open Source software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-10-07T01:03:20Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "Portable agentic SDLC pipeline as a Claude Code plugin: 4 role agents, 2 human gates, unit-tested guardrails, self-impro",
@@ -311,7 +365,7 @@
     "language": "Python",
     "name": "Chris0Jeky/agent-harness",
     "stars": 1,
-    "updated_at": "2026-10-07T01:42:37Z",
+    "updated_at": "2026-10-07T01:54:35Z",
     "url": "https://github.com/Chris0Jeky/agent-harness"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-07T00:05:50Z",
     "url": "https://github.com/ydavidcm9-wq/vigil"
-  },
-  {
-    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
-    "id": "islaagnet27/llm-cost",
-    "language": "C++",
-    "name": "islaagnet27/llm-cost",
-    "stars": 1,
-    "updated_at": "2026-10-07T00:05:39Z",
-    "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-07T01:06:36Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
-    "id": "GaBySuGy/agent-guardrails",
-    "language": "Shell",
-    "name": "GaBySuGy/agent-guardrails",
-    "stars": 2,
-    "updated_at": "2026-10-07T00:00:15Z",
-    "url": "https://github.com/GaBySuGy/agent-guardrails"
-  },
-  {
-    "description": "\ud83d\udd0d Explore the shift from MLOps to LLMOps with materials that simplify AI deployment and enhance document intelligence.",
-    "id": "Farukul-Islam/from-mlops-to-llmops",
-    "language": "PHP",
-    "name": "Farukul-Islam/from-mlops-to-llmops",
-    "stars": 0,
-    "updated_at": "2026-10-06T23:58:51Z",
-    "url": "https://github.com/Farukul-Islam/from-mlops-to-llmops"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI behavior guidelines with SpecGuard, a tool that turns policies into executable tests for reliable and scal",
-    "id": "Tearfullnex/SpecGuard",
-    "language": "Python",
-    "name": "Tearfullnex/SpecGuard",
-    "stars": 0,
-    "updated_at": "2026-10-06T23:58:10Z",
-    "url": "https://github.com/Tearfullnex/SpecGuard"
-  },
-  {
-    "description": "\ud83d\udcca Build insightful sales dashboards for SuperStore, enhancing decision-making and driving business growth with real-time",
-    "id": "matiaslanza99/SuperStore.SalesDashboard",
-    "language": "CSS",
-    "name": "matiaslanza99/SuperStore.SalesDashboard",
-    "stars": 1,
-    "updated_at": "2026-10-06T23:57:12Z",
-    "url": "https://github.com/matiaslanza99/SuperStore.SalesDashboard"
   }
 ]
