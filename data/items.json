@@ -1,12 +1,75 @@
 [
   {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 8305,
+    "updated_at": "2026-10-07T11:26:57Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22422,
+    "updated_at": "2026-10-07T11:27:46Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
     "id": "SourceShift/mini-ork",
     "language": "Python",
     "name": "SourceShift/mini-ork",
     "stars": 29,
-    "updated_at": "2026-10-07T11:14:34Z",
+    "updated_at": "2026-10-07T11:24:24Z",
     "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
+    "id": "maks3201/decision-model-operator",
+    "language": "Go",
+    "name": "maks3201/decision-model-operator",
+    "stars": 0,
+    "updated_at": "2026-10-07T11:27:35Z",
+    "url": "https://github.com/maks3201/decision-model-operator"
+  },
+  {
+    "description": "AI Engineering: From Software Engineer to Production AI Engineer \u2014 a complete textbook with runnable code, six projects ",
+    "id": "XayyamSadigov/ai-engineering-book",
+    "language": "Python",
+    "name": "XayyamSadigov/ai-engineering-book",
+    "stars": 3,
+    "updated_at": "2026-10-07T11:20:26Z",
+    "url": "https://github.com/XayyamSadigov/ai-engineering-book"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35473,
+    "updated_at": "2026-10-07T11:28:35Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Evaluation-first RAG and LLMOps platform for production-grade document QA, tracing, regression testing, and cost-aware e",
+    "id": "DiogoRibeiro7/rag-quality-engine",
+    "language": "Jupyter Notebook",
+    "name": "DiogoRibeiro7/rag-quality-engine",
+    "stars": 0,
+    "updated_at": "2026-10-07T11:15:49Z",
+    "url": "https://github.com/DiogoRibeiro7/rag-quality-engine"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-07T11:15:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Resource providers for pragma-os. Manage cloud infrastructure, AI agents, knowledge bases, pipelines, and workflows.",
@@ -23,7 +86,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 396,
-    "updated_at": "2026-10-07T11:13:48Z",
+    "updated_at": "2026-10-07T11:29:46Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -36,49 +99,13 @@
     "url": "https://github.com/talhayme/llm-eval-harness"
   },
   {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 8305,
-    "updated_at": "2026-10-07T11:11:39Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Evaluation-first RAG and LLMOps platform for production-grade document QA, tracing, regression testing, and cost-aware e",
-    "id": "DiogoRibeiro7/ragops-lab",
-    "language": "Jupyter Notebook",
-    "name": "DiogoRibeiro7/ragops-lab",
-    "stars": 0,
-    "updated_at": "2026-10-07T11:14:03Z",
-    "url": "https://github.com/DiogoRibeiro7/ragops-lab"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35472,
-    "updated_at": "2026-10-07T11:14:13Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 60271,
-    "updated_at": "2026-10-07T11:14:04Z",
+    "updated_at": "2026-10-07T11:24:54Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
-    "id": "maks3201/decision-model-operator",
-    "language": "Go",
-    "name": "maks3201/decision-model-operator",
-    "stars": 0,
-    "updated_at": "2026-10-07T11:14:43Z",
-    "url": "https://github.com/maks3201/decision-model-operator"
   },
   {
     "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
@@ -86,7 +113,7 @@
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 19,
-    "updated_at": "2026-10-07T11:06:58Z",
+    "updated_at": "2026-10-07T11:26:13Z",
     "url": "https://github.com/AixleHQ/flow"
   },
   {
@@ -95,17 +122,8 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 511,
-    "updated_at": "2026-10-07T11:08:59Z",
+    "updated_at": "2026-10-07T11:24:44Z",
     "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22420,
-    "updated_at": "2026-10-07T11:12:47Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
@@ -113,17 +131,8 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30456,
-    "updated_at": "2026-10-07T11:10:36Z",
+    "updated_at": "2026-10-07T11:28:42Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-07T11:00:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
@@ -131,7 +140,7 @@
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 23,
-    "updated_at": "2026-10-07T11:07:42Z",
+    "updated_at": "2026-10-07T11:16:49Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
@@ -139,8 +148,8 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25780,
-    "updated_at": "2026-10-07T10:50:02Z",
+    "stars": 25781,
+    "updated_at": "2026-10-07T11:26:14Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -166,7 +175,7 @@
     "id": "overmind-core/overmind",
     "language": "Python",
     "name": "overmind-core/overmind",
-    "stars": 560,
+    "stars": 561,
     "updated_at": "2026-10-07T10:37:17Z",
     "url": "https://github.com/overmind-core/overmind"
   },
@@ -185,7 +194,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8599,
-    "updated_at": "2026-10-07T11:04:13Z",
+    "updated_at": "2026-10-07T11:30:07Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -203,7 +212,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8821,
-    "updated_at": "2026-10-07T11:09:20Z",
+    "updated_at": "2026-10-07T11:16:52Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -248,7 +257,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28299,
-    "updated_at": "2026-10-07T10:15:51Z",
+    "updated_at": "2026-10-07T11:26:14Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-07T09:57:06Z",
     "url": "https://github.com/ashmedanraj/langfuse-eks-production"
-  },
-  {
-    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
-    "id": "sarrahw23/deploy-guide",
-    "language": "\u2014",
-    "name": "sarrahw23/deploy-guide",
-    "stars": 1,
-    "updated_at": "2026-10-07T09:56:53Z",
-    "url": "https://github.com/sarrahw23/deploy-guide"
   }
 ]
