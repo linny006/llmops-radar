@@ -1,12 +1,30 @@
 [
   {
-    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
-    "id": "AixleHQ/flow",
-    "language": "Ruby",
-    "name": "AixleHQ/flow",
-    "stars": 19,
-    "updated_at": "2026-10-07T11:44:47Z",
-    "url": "https://github.com/AixleHQ/flow"
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 23,
+    "updated_at": "2026-10-07T12:00:21Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2925,
+    "updated_at": "2026-10-07T11:58:39Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35475,
+    "updated_at": "2026-10-07T11:58:37Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
@@ -14,8 +32,17 @@
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
     "stars": 8305,
-    "updated_at": "2026-10-07T11:42:13Z",
+    "updated_at": "2026-10-07T11:57:28Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Evaluation-first RAG and LLMOps platform for production-grade document QA, tracing, regression testing, and cost-aware e",
+    "id": "DiogoRibeiro7/rag-quality-engine",
+    "language": "Jupyter Notebook",
+    "name": "DiogoRibeiro7/rag-quality-engine",
+    "stars": 0,
+    "updated_at": "2026-10-07T12:00:24Z",
+    "url": "https://github.com/DiogoRibeiro7/rag-quality-engine"
   },
   {
     "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
@@ -23,8 +50,62 @@
     "language": "Python",
     "name": "SourceShift/mini-ork",
     "stars": 29,
-    "updated_at": "2026-10-07T11:41:21Z",
+    "updated_at": "2026-10-07T11:53:30Z",
     "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "The Project for the Course : DS5619 MLOPS",
+    "id": "SreenathKarthick11/Sage-Serve",
+    "language": "Jupyter Notebook",
+    "name": "SreenathKarthick11/Sage-Serve",
+    "stars": 0,
+    "updated_at": "2026-10-07T11:49:03Z",
+    "url": "https://github.com/SreenathKarthick11/Sage-Serve"
+  },
+  {
+    "description": "AI platform reference architecture for LLM serving on Kubernetes, with reliability, observability, failure testing, and ",
+    "id": "asadhanif3188/InferOps",
+    "language": "Python",
+    "name": "asadhanif3188/InferOps",
+    "stars": 0,
+    "updated_at": "2026-10-07T11:48:24Z",
+    "url": "https://github.com/asadhanif3188/InferOps"
+  },
+  {
+    "description": "Compare LLMs on cost, speed, energy, carbon, and water. Built on AWS Bedrock, LiteLLM, and FastAPI.",
+    "id": "clintonai-tech/thirsty-tokens",
+    "language": "Python",
+    "name": "clintonai-tech/thirsty-tokens",
+    "stars": 0,
+    "updated_at": "2026-10-07T11:48:20Z",
+    "url": "https://github.com/clintonai-tech/thirsty-tokens"
+  },
+  {
+    "description": "A self-updating, auto-classified map of the GenAI engineering stack: agents, MCP, memory, RAG, evals, LLMOps, AI securit",
+    "id": "alebgl77/awesome-ai-architect",
+    "language": "Python",
+    "name": "alebgl77/awesome-ai-architect",
+    "stars": 0,
+    "updated_at": "2026-10-07T11:46:25Z",
+    "url": "https://github.com/alebgl77/awesome-ai-architect"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-07T11:45:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
+    "id": "AixleHQ/flow",
+    "language": "Ruby",
+    "name": "AixleHQ/flow",
+    "stars": 19,
+    "updated_at": "2026-10-07T11:54:48Z",
+    "url": "https://github.com/AixleHQ/flow"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -32,17 +113,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22422,
-    "updated_at": "2026-10-07T11:44:05Z",
+    "updated_at": "2026-10-07T11:59:08Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 23,
-    "updated_at": "2026-10-07T11:38:33Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -50,7 +122,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28302,
-    "updated_at": "2026-10-07T11:37:14Z",
+    "updated_at": "2026-10-07T11:59:46Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -77,7 +149,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 60274,
-    "updated_at": "2026-10-07T11:33:25Z",
+    "updated_at": "2026-10-07T11:51:39Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -99,30 +171,12 @@
     "url": "https://github.com/infercrane/infercrane"
   },
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35474,
-    "updated_at": "2026-10-07T11:45:25Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-07T11:30:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8600,
-    "updated_at": "2026-10-07T11:39:50Z",
+    "updated_at": "2026-10-07T11:55:43Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -142,15 +196,6 @@
     "stars": 3,
     "updated_at": "2026-10-07T11:20:26Z",
     "url": "https://github.com/XayyamSadigov/ai-engineering-book"
-  },
-  {
-    "description": "Evaluation-first RAG and LLMOps platform for production-grade document QA, tracing, regression testing, and cost-aware e",
-    "id": "DiogoRibeiro7/rag-quality-engine",
-    "language": "Jupyter Notebook",
-    "name": "DiogoRibeiro7/rag-quality-engine",
-    "stars": 0,
-    "updated_at": "2026-10-07T11:15:49Z",
-    "url": "https://github.com/DiogoRibeiro7/rag-quality-engine"
   },
   {
     "description": "Resource providers for pragma-os. Manage cloud infrastructure, AI agents, knowledge bases, pipelines, and workflows.",
@@ -176,7 +221,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 511,
-    "updated_at": "2026-10-07T11:37:23Z",
+    "updated_at": "2026-10-07T11:59:47Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -202,7 +247,7 @@
     "id": "overmind-core/overmind",
     "language": "Python",
     "name": "overmind-core/overmind",
-    "stars": 561,
+    "stars": 562,
     "updated_at": "2026-10-07T10:37:17Z",
     "url": "https://github.com/overmind-core/overmind"
   },
@@ -239,7 +284,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-10-07T11:33:02Z",
+    "updated_at": "2026-10-07T11:51:50Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -248,7 +293,7 @@
     "language": "Python",
     "name": "Xander-Xai/Beauty-Industry-RAG-QA-System",
     "stars": 0,
-    "updated_at": "2026-10-07T10:30:27Z",
+    "updated_at": "2026-10-07T11:51:15Z",
     "url": "https://github.com/Xander-Xai/Beauty-Industry-RAG-QA-System"
   },
   {
@@ -295,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-10-07T10:11:32Z",
     "url": "https://github.com/acr3463/systemprompt-demo"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2925,
-    "updated_at": "2026-10-07T10:11:12Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Execute Roblox Lua scripts on Windows with this compact, keyless runner featuring a built-in library of over 500 scripts",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-07T09:58:35Z",
     "url": "https://github.com/hxaxd/kochab"
-  },
-  {
-    "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
-    "id": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "language": "\u2014",
-    "name": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "stars": 0,
-    "updated_at": "2026-10-07T09:58:21Z",
-    "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
-  },
-  {
-    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
-    "id": "kawaiirashi/llm-retry",
-    "language": "C++",
-    "name": "kawaiirashi/llm-retry",
-    "stars": 1,
-    "updated_at": "2026-10-07T09:57:36Z",
-    "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
-    "id": "Anbumani08/agentic-coding-workflow",
-    "language": "HTML",
-    "name": "Anbumani08/agentic-coding-workflow",
-    "stars": 0,
-    "updated_at": "2026-10-07T09:57:34Z",
-    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
-  },
-  {
-    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
-    "id": "wahhyun/llm-eval",
-    "language": "C++",
-    "name": "wahhyun/llm-eval",
-    "stars": 1,
-    "updated_at": "2026-10-07T09:57:33Z",
-    "url": "https://github.com/wahhyun/llm-eval"
   }
 ]
