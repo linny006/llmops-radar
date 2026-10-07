@@ -1,11 +1,128 @@
 [
   {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 94,
+    "updated_at": "2026-10-07T12:15:17Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
+    "id": "Root1V/prometheus-inference-platform",
+    "language": "Python",
+    "name": "Root1V/prometheus-inference-platform",
+    "stars": 1,
+    "updated_at": "2026-10-07T12:13:48Z",
+    "url": "https://github.com/Root1V/prometheus-inference-platform"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 8306,
+    "updated_at": "2026-10-07T12:12:39Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Self-hosted production platform for deploying, routing, scheduling, and observing Eve agent fleets.",
+    "id": "evelandhq/eveland",
+    "language": "TypeScript",
+    "name": "evelandhq/eveland",
+    "stars": 9,
+    "updated_at": "2026-10-07T12:09:15Z",
+    "url": "https://github.com/evelandhq/eveland"
+  },
+  {
+    "description": "A typed coherence layer for portable organizational AI agents.",
+    "id": "buchk/TypeFerence",
+    "language": "Go",
+    "name": "buchk/TypeFerence",
+    "stars": 1,
+    "updated_at": "2026-10-07T12:07:24Z",
+    "url": "https://github.com/buchk/TypeFerence"
+  },
+  {
+    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
+    "id": "AixleHQ/flow",
+    "language": "Ruby",
+    "name": "AixleHQ/flow",
+    "stars": 19,
+    "updated_at": "2026-10-07T12:12:39Z",
+    "url": "https://github.com/AixleHQ/flow"
+  },
+  {
+    "description": "Capture, replay, diff & audit AI agent and model runs as portable, signed evidence capsules. Open-source and self-hosted",
+    "id": "MSKazemi/novafabric",
+    "language": "Python",
+    "name": "MSKazemi/novafabric",
+    "stars": 6,
+    "updated_at": "2026-10-07T12:06:38Z",
+    "url": "https://github.com/MSKazemi/novafabric"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-07T12:12:52Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-10-07T12:05:19Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-10-07T12:04:28Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Python",
+    "name": "alibaba/rtp-llm",
+    "stars": 1357,
+    "updated_at": "2026-10-07T12:03:48Z",
+    "url": "https://github.com/alibaba/rtp-llm"
+  },
+  {
+    "description": "Compile the decisions your LLM already makes into a certified 2 MB table that answers in microseconds on a CPU. No label",
+    "id": "2796gaurav/shad0w",
+    "language": "Python",
+    "name": "2796gaurav/shad0w",
+    "stars": 0,
+    "updated_at": "2026-10-07T12:10:41Z",
+    "url": "https://github.com/2796gaurav/shad0w"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-07T12:00:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 23,
-    "updated_at": "2026-10-07T12:00:21Z",
+    "updated_at": "2026-10-07T12:12:20Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
@@ -22,18 +139,9 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 35475,
-    "updated_at": "2026-10-07T11:58:37Z",
+    "stars": 35476,
+    "updated_at": "2026-10-07T12:14:46Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 8305,
-    "updated_at": "2026-10-07T11:57:28Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "Evaluation-first RAG and LLMOps platform for production-grade document QA, tracing, regression testing, and cost-aware e",
@@ -41,7 +149,7 @@
     "language": "Jupyter Notebook",
     "name": "DiogoRibeiro7/rag-quality-engine",
     "stars": 0,
-    "updated_at": "2026-10-07T12:00:24Z",
+    "updated_at": "2026-10-07T12:04:13Z",
     "url": "https://github.com/DiogoRibeiro7/rag-quality-engine"
   },
   {
@@ -90,30 +198,12 @@
     "url": "https://github.com/alebgl77/awesome-ai-architect"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-07T11:45:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
-    "id": "AixleHQ/flow",
-    "language": "Ruby",
-    "name": "AixleHQ/flow",
-    "stars": 19,
-    "updated_at": "2026-10-07T11:54:48Z",
-    "url": "https://github.com/AixleHQ/flow"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22422,
-    "updated_at": "2026-10-07T11:59:08Z",
+    "updated_at": "2026-10-07T12:14:31Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -247,18 +337,9 @@
     "id": "overmind-core/overmind",
     "language": "Python",
     "name": "overmind-core/overmind",
-    "stars": 562,
-    "updated_at": "2026-10-07T10:37:17Z",
+    "stars": 563,
+    "updated_at": "2026-10-07T12:13:17Z",
     "url": "https://github.com/overmind-core/overmind"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-10-07T10:36:14Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
     "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
@@ -266,7 +347,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3359,
-    "updated_at": "2026-10-07T11:03:19Z",
+    "updated_at": "2026-10-07T12:02:01Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -284,7 +365,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-10-07T11:51:50Z",
+    "updated_at": "2026-10-07T12:15:24Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -293,7 +374,7 @@
     "language": "Python",
     "name": "Xander-Xai/Beauty-Industry-RAG-QA-System",
     "stars": 0,
-    "updated_at": "2026-10-07T11:51:15Z",
+    "updated_at": "2026-10-07T12:10:12Z",
     "url": "https://github.com/Xander-Xai/Beauty-Industry-RAG-QA-System"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-07T10:06:48Z",
     "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
-  },
-  {
-    "description": "AI trust-boundary gateway for OpenAI, Anthropic, and Gemini.",
-    "id": "GetSHIM/shim",
-    "language": "Python",
-    "name": "GetSHIM/shim",
-    "stars": 8,
-    "updated_at": "2026-10-07T10:31:13Z",
-    "url": "https://github.com/GetSHIM/shim"
-  },
-  {
-    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
-    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "language": "Dockerfile",
-    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "stars": 0,
-    "updated_at": "2026-10-07T10:05:39Z",
-    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "No prompt or model change ships unless proven not to have regressed: calibrated judges, confidence intervals, CI gating,",
-    "id": "Peter-A-P/ai-release-gate",
-    "language": "Python",
-    "name": "Peter-A-P/ai-release-gate",
-    "stars": 0,
-    "updated_at": "2026-10-07T10:03:11Z",
-    "url": "https://github.com/Peter-A-P/ai-release-gate"
-  },
-  {
-    "description": "Every model call through one library: raw-HTTP provider adapters, a cost ledger row and an OpenTelemetry span per call, ",
-    "id": "Peter-A-P/compliant-ai-gateway",
-    "language": "Python",
-    "name": "Peter-A-P/compliant-ai-gateway",
-    "stars": 0,
-    "updated_at": "2026-10-07T10:02:57Z",
-    "url": "https://github.com/Peter-A-P/compliant-ai-gateway"
-  },
-  {
-    "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
-    "id": "harishu652/Class-AI-Agent",
-    "language": "\u2014",
-    "name": "harishu652/Class-AI-Agent",
-    "stars": 0,
-    "updated_at": "2026-10-07T10:02:19Z",
-    "url": "https://github.com/harishu652/Class-AI-Agent"
-  },
-  {
-    "description": "The readable ReAct agent: a ~235-line step loop you can follow, plus 31 opt-in modules (sandbox, circuit breaker, struct",
-    "id": "musokean/forge",
-    "language": "Python",
-    "name": "musokean/forge",
-    "stars": 1,
-    "updated_at": "2026-10-07T10:01:54Z",
-    "url": "https://github.com/musokean/forge"
-  },
-  {
-    "description": "Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo",
-    "id": "Healthful-article791/rag-systems-production",
-    "language": "\u2014",
-    "name": "Healthful-article791/rag-systems-production",
-    "stars": 1,
-    "updated_at": "2026-10-07T10:01:38Z",
-    "url": "https://github.com/Healthful-article791/rag-systems-production"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5868,
-    "updated_at": "2026-10-07T09:58:45Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "A minimal reference implementation of the agent-to-data loop, turning agent evaluations, real-world traces, and human fe",
-    "id": "hxaxd/kochab",
-    "language": "Python",
-    "name": "hxaxd/kochab",
-    "stars": 0,
-    "updated_at": "2026-10-07T09:58:35Z",
-    "url": "https://github.com/hxaxd/kochab"
   }
 ]
