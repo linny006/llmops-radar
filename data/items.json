@@ -1,12 +1,93 @@
 [
   {
+    "description": "Drop-in LLM proxy that cuts input tokens 30\u201370% (54.1% measured, quality-gated) across 27 transparent optimisations \u2014 ca",
+    "id": "sumitdevgupto/TokenLean",
+    "language": "Python",
+    "name": "sumitdevgupto/TokenLean",
+    "stars": 3,
+    "updated_at": "2026-10-07T02:44:55Z",
+    "url": "https://github.com/sumitdevgupto/TokenLean"
+  },
+  {
+    "description": "Multimodal RAG QA for cosmetics regulation: hybrid retrieval, two-stage reranking, evidence gating that refuses unsuppor",
+    "id": "Xander-Xai/Beauty-Industry-RAG-QA-System",
+    "language": "Python",
+    "name": "Xander-Xai/Beauty-Industry-RAG-QA-System",
+    "stars": 0,
+    "updated_at": "2026-10-07T02:41:48Z",
+    "url": "https://github.com/Xander-Xai/Beauty-Industry-RAG-QA-System"
+  },
+  {
+    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
+    "id": "Lo3okSky/LLM_course",
+    "language": "Jupyter Notebook",
+    "name": "Lo3okSky/LLM_course",
+    "stars": 3,
+    "updated_at": "2026-10-07T02:40:09Z",
+    "url": "https://github.com/Lo3okSky/LLM_course"
+  },
+  {
+    "description": "Automated, production-grade CI/CD evaluation pipeline for Hugging Face chatbots using DeepEval and dynamic JSON test dat",
+    "id": "h00w/PromptPulse",
+    "language": "Python",
+    "name": "h00w/PromptPulse",
+    "stars": 4,
+    "updated_at": "2026-10-07T02:40:03Z",
+    "url": "https://github.com/h00w/PromptPulse"
+  },
+  {
+    "description": "Research-to-production AI model release control plane connecting post-training experiments, baseline/candidate evaluatio",
+    "id": "h00w/model-quality-release-gate",
+    "language": "Python",
+    "name": "h00w/model-quality-release-gate",
+    "stars": 4,
+    "updated_at": "2026-10-07T02:39:56Z",
+    "url": "https://github.com/h00w/model-quality-release-gate"
+  },
+  {
+    "description": "Open-source Agentic AI Academy for engineering trustworthy AI agents from learning to production: agents, RAG, MCP, eval",
+    "id": "h00w/agentic-ai",
+    "language": "Python",
+    "name": "h00w/agentic-ai",
+    "stars": 4,
+    "updated_at": "2026-10-07T02:39:48Z",
+    "url": "https://github.com/h00w/agentic-ai"
+  },
+  {
     "description": "Compile the decisions your LLM already makes into a certified 2 MB table that answers in microseconds on a CPU. No label",
     "id": "2796gaurav/shad0w",
     "language": "Python",
     "name": "2796gaurav/shad0w",
     "stars": 0,
-    "updated_at": "2026-10-07T02:33:42Z",
+    "updated_at": "2026-10-07T02:39:08Z",
     "url": "https://github.com/2796gaurav/shad0w"
+  },
+  {
+    "description": "An open-source CLI plus GitHub Action that prevents unsafe prompt, model, retrieval, tool, or configuration changes from",
+    "id": "Chris0Jeky/llm-release-gate",
+    "language": "Python",
+    "name": "Chris0Jeky/llm-release-gate",
+    "stars": 0,
+    "updated_at": "2026-10-07T02:45:03Z",
+    "url": "https://github.com/Chris0Jeky/llm-release-gate"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8591,
+    "updated_at": "2026-10-07T02:35:58Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-07T02:34:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod",
@@ -16,15 +97,6 @@
     "stars": 3,
     "updated_at": "2026-10-07T02:33:21Z",
     "url": "https://github.com/valteresj2/agent-hangar"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8589,
-    "updated_at": "2026-10-07T02:33:58Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
@@ -41,17 +113,8 @@
     "language": "Go",
     "name": "rknightion/genai-otel-bridge",
     "stars": 1,
-    "updated_at": "2026-10-07T02:33:51Z",
+    "updated_at": "2026-10-07T02:40:11Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-07T02:30:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "An autonomous ad pipeline that shoots with no director, grades pixels and audio instead of text, and picks a video engin",
@@ -86,17 +149,8 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28291,
-    "updated_at": "2026-10-07T02:28:11Z",
+    "updated_at": "2026-10-07T02:41:47Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Multimodal RAG QA for cosmetics regulation: hybrid retrieval, two-stage reranking, evidence gating that refuses unsuppor",
-    "id": "Xander-Xai/Beauty-Industry-RAG-QA-System",
-    "language": "Python",
-    "name": "Xander-Xai/Beauty-Industry-RAG-QA-System",
-    "stars": 0,
-    "updated_at": "2026-10-07T02:27:11Z",
-    "url": "https://github.com/Xander-Xai/Beauty-Industry-RAG-QA-System"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -167,7 +221,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-07T02:25:01Z",
+    "updated_at": "2026-10-07T02:43:57Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -194,7 +248,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 83,
-    "updated_at": "2026-10-07T02:18:10Z",
+    "updated_at": "2026-10-07T02:39:28Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -203,7 +257,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 60245,
-    "updated_at": "2026-10-07T02:33:09Z",
+    "updated_at": "2026-10-07T02:41:29Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -315,15 +369,6 @@
     "url": "https://github.com/infercrane/infercrane"
   },
   {
-    "description": "An open-source CLI plus GitHub Action that prevents unsafe prompt, model, retrieval, tool, or configuration changes from",
-    "id": "Chris0Jeky/llm-release-gate",
-    "language": "Python",
-    "name": "Chris0Jeky/llm-release-gate",
-    "stars": 0,
-    "updated_at": "2026-10-07T02:34:16Z",
-    "url": "https://github.com/Chris0Jeky/llm-release-gate"
-  },
-  {
     "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
     "id": "redevops-io/agentic-os",
     "language": "Python",
@@ -401,52 +446,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22412,
-    "updated_at": "2026-10-07T00:28:34Z",
+    "updated_at": "2026-10-07T02:44:18Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Self-hosted AI Agents Platform supporting Claude Code, Codex, Gemini agents. Apache 2.0.  ",
-    "id": "Abilityai/trinity",
-    "language": "Python",
-    "name": "Abilityai/trinity",
-    "stars": 625,
-    "updated_at": "2026-10-07T00:27:21Z",
-    "url": "https://github.com/Abilityai/trinity"
-  },
-  {
-    "description": "Turn Claude into a context-aware red team operator with 78 drop-in offensive security skills across 23 categories.",
-    "id": "urellai22/Claude-Red",
-    "language": "Python",
-    "name": "urellai22/Claude-Red",
-    "stars": 0,
-    "updated_at": "2026-10-07T00:24:41Z",
-    "url": "https://github.com/urellai22/Claude-Red"
-  },
-  {
-    "description": "Standardize computer-use agents, sandboxes, data, evaluation, SFT, and RL across desktop, browser, and mobile with one u",
-    "id": "justanotheruser82174/cua-lite",
-    "language": "Python",
-    "name": "justanotheruser82174/cua-lite",
-    "stars": 0,
-    "updated_at": "2026-10-07T00:22:49Z",
-    "url": "https://github.com/justanotheruser82174/cua-lite"
-  },
-  {
-    "description": "Retrieve multilingual visual documents with ultra-compact token embeddings from this Qwen3.5-4B-powered ColPali engine.",
-    "id": "Satisfiable-polopony613/EVIE-Preview-4.5B",
-    "language": "Python",
-    "name": "Satisfiable-polopony613/EVIE-Preview-4.5B",
-    "stars": 2,
-    "updated_at": "2026-10-07T00:22:13Z",
-    "url": "https://github.com/Satisfiable-polopony613/EVIE-Preview-4.5B"
-  },
-  {
-    "description": "Build and evaluate production-ready RAG pipelines with hands-on notebooks, templates, and proven performance strategies.",
-    "id": "ashrafb8962/agentic-ops-and-rag",
-    "language": "Jupyter Notebook",
-    "name": "ashrafb8962/agentic-ops-and-rag",
-    "stars": 0,
-    "updated_at": "2026-10-07T00:20:49Z",
-    "url": "https://github.com/ashrafb8962/agentic-ops-and-rag"
   }
 ]
