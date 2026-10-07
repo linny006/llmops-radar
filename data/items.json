@@ -1,5 +1,131 @@
 [
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28290,
+    "updated_at": "2026-10-07T00:30:05Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Self-hosted AI Agents Platform supporting Claude Code, Codex, Gemini agents. Apache 2.0.  ",
+    "id": "Abilityai/trinity",
+    "language": "Python",
+    "name": "Abilityai/trinity",
+    "stars": 625,
+    "updated_at": "2026-10-07T00:27:21Z",
+    "url": "https://github.com/Abilityai/trinity"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 83,
+    "updated_at": "2026-10-07T00:25:59Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60243,
+    "updated_at": "2026-10-07T00:29:13Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Turn Claude into a context-aware red team operator with 78 drop-in offensive security skills across 23 categories.",
+    "id": "urellai22/Claude-Red",
+    "language": "Python",
+    "name": "urellai22/Claude-Red",
+    "stars": 0,
+    "updated_at": "2026-10-07T00:24:41Z",
+    "url": "https://github.com/urellai22/Claude-Red"
+  },
+  {
+    "description": "Standardize computer-use agents, sandboxes, data, evaluation, SFT, and RL across desktop, browser, and mobile with one u",
+    "id": "justanotheruser82174/cua-lite",
+    "language": "Python",
+    "name": "justanotheruser82174/cua-lite",
+    "stars": 0,
+    "updated_at": "2026-10-07T00:22:49Z",
+    "url": "https://github.com/justanotheruser82174/cua-lite"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 23,
+    "updated_at": "2026-10-07T00:22:42Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Retrieve multilingual visual documents with ultra-compact token embeddings from this Qwen3.5-4B-powered ColPali engine.",
+    "id": "Satisfiable-polopony613/EVIE-Preview-4.5B",
+    "language": "Python",
+    "name": "Satisfiable-polopony613/EVIE-Preview-4.5B",
+    "stars": 2,
+    "updated_at": "2026-10-07T00:22:13Z",
+    "url": "https://github.com/Satisfiable-polopony613/EVIE-Preview-4.5B"
+  },
+  {
+    "description": "Build and evaluate production-ready RAG pipelines with hands-on notebooks, templates, and proven performance strategies.",
+    "id": "ashrafb8962/agentic-ops-and-rag",
+    "language": "Jupyter Notebook",
+    "name": "ashrafb8962/agentic-ops-and-rag",
+    "stars": 0,
+    "updated_at": "2026-10-07T00:20:49Z",
+    "url": "https://github.com/ashrafb8962/agentic-ops-and-rag"
+  },
+  {
+    "description": "Manage AI model access with a secure gateway featuring load balancing, rate limiting, and audit trails for OpenAI, Groq,",
+    "id": "sargentfragrant429/AgentAccessManager",
+    "language": "\u2014",
+    "name": "sargentfragrant429/AgentAccessManager",
+    "stars": 0,
+    "updated_at": "2026-10-07T00:20:01Z",
+    "url": "https://github.com/sargentfragrant429/AgentAccessManager"
+  },
+  {
+    "description": "Portable agentic SDLC pipeline as a Claude Code plugin: 4 role agents, 2 human gates, unit-tested guardrails, self-impro",
+    "id": "juanjtov/adlc-pipeline",
+    "language": "Python",
+    "name": "juanjtov/adlc-pipeline",
+    "stars": 0,
+    "updated_at": "2026-10-07T00:19:07Z",
+    "url": "https://github.com/juanjtov/adlc-pipeline"
+  },
+  {
+    "description": "Self-hosted & federated platform for AI IDE/Tools Rules and Commands via WebUI & CLI - Generate, browse, store, share AG",
+    "id": "GeiserX/LynxPrompt",
+    "language": "TypeScript",
+    "name": "GeiserX/LynxPrompt",
+    "stars": 50,
+    "updated_at": "2026-10-07T00:24:01Z",
+    "url": "https://github.com/GeiserX/LynxPrompt"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-07T00:15:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Policy, measurement, and operations workbench for running Codex and Claude agents safely across a GitHub estate.",
+    "id": "Chris0Jeky/agent-harness",
+    "language": "Python",
+    "name": "Chris0Jeky/agent-harness",
+    "stars": 1,
+    "updated_at": "2026-10-07T00:15:23Z",
+    "url": "https://github.com/Chris0Jeky/agent-harness"
+  },
+  {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
     "id": "Guruexpl8276/LLM_Inference_Lab",
     "language": "Python",
@@ -27,15 +153,6 @@
     "url": "https://github.com/ritesh469/ai-governance-platform"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28290,
-    "updated_at": "2026-10-07T00:15:12Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "Multimodal RAG QA for cosmetics regulation: hybrid retrieval, two-stage reranking, evidence gating that refuses unsuppor",
     "id": "Xander-Xai/Beauty-Industry-RAG-QA-System",
     "language": "Python",
@@ -52,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-10-07T00:12:11Z",
     "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60243,
-    "updated_at": "2026-10-07T00:14:54Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards",
@@ -86,7 +194,7 @@
     "language": "Python",
     "name": "redevops-io/agentic-os",
     "stars": 2,
-    "updated_at": "2026-10-07T00:08:59Z",
+    "updated_at": "2026-10-07T00:29:18Z",
     "url": "https://github.com/redevops-io/agentic-os"
   },
   {
@@ -151,24 +259,6 @@
     "stars": 41,
     "updated_at": "2026-10-07T00:03:15Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Policy, measurement, and operations workbench for running Codex and Claude agents safely across a GitHub estate.",
-    "id": "Chris0Jeky/agent-harness",
-    "language": "Python",
-    "name": "Chris0Jeky/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-10-07T00:15:23Z",
-    "url": "https://github.com/Chris0Jeky/agent-harness"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-07T00:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
@@ -257,7 +347,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4923,
-    "updated_at": "2026-10-07T00:14:39Z",
+    "updated_at": "2026-10-07T00:22:48Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-06T23:07:01Z",
     "url": "https://github.com/valteresj2/agent-hangar"
-  },
-  {
-    "description": "TensorZero \u2014 independent third-party profile of a public API surface, by API Evangelist. TensorZero is an open-source, s",
-    "id": "api-evangelist/tensorzero",
-    "language": "\u2014",
-    "name": "api-evangelist/tensorzero",
-    "stars": 0,
-    "updated_at": "2026-10-06T23:03:18Z",
-    "url": "https://github.com/api-evangelist/tensorzero"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11733,
-    "updated_at": "2026-10-06T23:44:34Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
-    "id": "maks3201/decision-model-operator",
-    "language": "Go",
-    "name": "maks3201/decision-model-operator",
-    "stars": 0,
-    "updated_at": "2026-10-06T22:58:16Z",
-    "url": "https://github.com/maks3201/decision-model-operator"
-  },
-  {
-    "description": "The open framework for governed AI development: EU AI Act compliance, PII redaction, MCP proxy, prompt-injection firewal",
-    "id": "admina-org/admina",
-    "language": "Python",
-    "name": "admina-org/admina",
-    "stars": 7,
-    "updated_at": "2026-10-06T23:28:02Z",
-    "url": "https://github.com/admina-org/admina"
-  },
-  {
-    "description": "Client packages for AER: the flight recorder for AI agents",
-    "id": "Ad-Astra-Computing/aer",
-    "language": "TypeScript",
-    "name": "Ad-Astra-Computing/aer",
-    "stars": 0,
-    "updated_at": "2026-10-06T22:48:22Z",
-    "url": "https://github.com/Ad-Astra-Computing/aer"
-  },
-  {
-    "description": "Detect drift between LLM prompts and their evaluation tests \u2014 when prompts change but evals don't",
-    "id": "yunaremaia/prompt-drift",
-    "language": "Python",
-    "name": "yunaremaia/prompt-drift",
-    "stars": 0,
-    "updated_at": "2026-10-06T22:48:00Z",
-    "url": "https://github.com/yunaremaia/prompt-drift"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 4,
-    "updated_at": "2026-10-06T22:43:28Z",
-    "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 83,
-    "updated_at": "2026-10-07T00:11:17Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Turn Claude into a context-aware red team operator with 78 drop-in offensive security skills across 23 categories.",
-    "id": "urellai22/Claude-Red",
-    "language": "Python",
-    "name": "urellai22/Claude-Red",
-    "stars": 0,
-    "updated_at": "2026-10-06T22:33:21Z",
-    "url": "https://github.com/urellai22/Claude-Red"
-  },
-  {
-    "description": "Standardize computer-use agents, sandboxes, data, evaluation, SFT, and RL across desktop, browser, and mobile with one u",
-    "id": "justanotheruser82174/cua-lite",
-    "language": "Python",
-    "name": "justanotheruser82174/cua-lite",
-    "stars": 0,
-    "updated_at": "2026-10-06T22:31:31Z",
-    "url": "https://github.com/justanotheruser82174/cua-lite"
   }
 ]
