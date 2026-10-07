@@ -1,5 +1,95 @@
 [
   {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 6,
+    "updated_at": "2026-10-07T02:09:18Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-07T02:09:15Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
+    "id": "korczis/prismatic-majordomus",
+    "language": "Rust",
+    "name": "korczis/prismatic-majordomus",
+    "stars": 0,
+    "updated_at": "2026-10-07T02:13:57Z",
+    "url": "https://github.com/korczis/prismatic-majordomus"
+  },
+  {
+    "description": "Self-hosted & federated platform for AI IDE/Tools Rules and Commands via WebUI & CLI - Generate, browse, store, share AG",
+    "id": "GeiserX/LynxPrompt",
+    "language": "TypeScript",
+    "name": "GeiserX/LynxPrompt",
+    "stars": 50,
+    "updated_at": "2026-10-07T02:08:08Z",
+    "url": "https://github.com/GeiserX/LynxPrompt"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-10-07T02:05:25Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 83,
+    "updated_at": "2026-10-07T02:12:59Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60245,
+    "updated_at": "2026-10-07T02:03:25Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-07T02:01:57Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2923,
+    "updated_at": "2026-10-07T02:01:42Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-07T02:00:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Enterprise AI Router and Governance System \u2014 the AI that governs all AIs",
     "id": "kensterinvest/tidus",
     "language": "HTML",
@@ -32,7 +122,7 @@
     "language": "Python",
     "name": "domondi1/inferrail",
     "stars": 0,
-    "updated_at": "2026-10-07T01:58:47Z",
+    "updated_at": "2026-10-07T02:06:15Z",
     "url": "https://github.com/domondi1/inferrail"
   },
   {
@@ -59,7 +149,7 @@
     "language": "Go",
     "name": "antonij-tracium/tracium",
     "stars": 1,
-    "updated_at": "2026-10-07T01:56:27Z",
+    "updated_at": "2026-10-07T02:15:53Z",
     "url": "https://github.com/antonij-tracium/tracium"
   },
   {
@@ -70,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-10-07T01:56:13Z",
     "url": "https://github.com/tracepad/tracepad"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60244,
-    "updated_at": "2026-10-07T01:59:20Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Repo for portfolio, containing working redirects to all projects.",
@@ -99,15 +180,6 @@
     "url": "https://github.com/DuqueOM/ml-platform"
   },
   {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 83,
-    "updated_at": "2026-10-07T02:00:27Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
     "description": "Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code \u2014 V3 prototype runs ",
     "id": "MongLong0214/jev-gate",
     "language": "TypeScript",
@@ -117,13 +189,13 @@
     "url": "https://github.com/MongLong0214/jev-gate"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-07T01:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "Arize-ai/phoenix",
+    "stars": 11735,
+    "updated_at": "2026-10-07T01:46:49Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
@@ -162,15 +234,6 @@
     "url": "https://github.com/redevops-io/agentic-os"
   },
   {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 6,
-    "updated_at": "2026-10-07T01:29:13Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
     "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
     "id": "dshakes/distil",
     "language": "Python",
@@ -180,21 +243,12 @@
     "url": "https://github.com/dshakes/distil"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-07T01:19:04Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "Multimodal RAG QA for cosmetics regulation: hybrid retrieval, two-stage reranking, evidence gating that refuses unsuppor",
     "id": "Xander-Xai/Beauty-Industry-RAG-QA-System",
     "language": "Python",
     "name": "Xander-Xai/Beauty-Industry-RAG-QA-System",
     "stars": 0,
-    "updated_at": "2026-10-07T01:43:43Z",
+    "updated_at": "2026-10-07T02:02:34Z",
     "url": "https://github.com/Xander-Xai/Beauty-Industry-RAG-QA-System"
   },
   {
@@ -203,7 +257,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28291,
-    "updated_at": "2026-10-07T01:38:52Z",
+    "updated_at": "2026-10-07T02:02:19Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -259,15 +313,6 @@
     "stars": 29,
     "updated_at": "2026-10-07T00:58:39Z",
     "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Self-hosted & federated platform for AI IDE/Tools Rules and Commands via WebUI & CLI - Generate, browse, store, share AG",
-    "id": "GeiserX/LynxPrompt",
-    "language": "TypeScript",
-    "name": "GeiserX/LynxPrompt",
-    "stars": 50,
-    "updated_at": "2026-10-07T00:51:52Z",
-    "url": "https://github.com/GeiserX/LynxPrompt"
   },
   {
     "description": "LLM router: picks the model and reasoning effort per query from accuracy and real billed cost. #1 on RouterArena.",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-07T00:10:37Z",
     "url": "https://github.com/wordenneapolitan768/llm-pricing"
-  },
-  {
-    "description": "Resource providers for pragma-os. Manage cloud infrastructure, AI agents, knowledge bases, pipelines, and workflows.",
-    "id": "pragmatiks/pragma-providers",
-    "language": "Python",
-    "name": "pragmatiks/pragma-providers",
-    "stars": 0,
-    "updated_at": "2026-10-07T00:09:23Z",
-    "url": "https://github.com/pragmatiks/pragma-providers"
-  },
-  {
-    "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
-    "id": "Orlyoxidized462/py-prompt-versioner",
-    "language": "Python",
-    "name": "Orlyoxidized462/py-prompt-versioner",
-    "stars": 1,
-    "updated_at": "2026-10-07T00:08:37Z",
-    "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
-  },
-  {
-    "description": "Build runtime reliability guards for LLM pipelines with one wrap() call and configurable protection against common produ",
-    "id": "recordrnase224/brix-protocol",
-    "language": "Python",
-    "name": "recordrnase224/brix-protocol",
-    "stars": 1,
-    "updated_at": "2026-10-07T00:08:05Z",
-    "url": "https://github.com/recordrnase224/brix-protocol"
-  },
-  {
-    "description": "Capture and replay every AI agent tool call, prompt, and response to trace sessions and debug complex workflows with ful",
-    "id": "Citrous-districtline59/agent-trace",
-    "language": "Python",
-    "name": "Citrous-districtline59/agent-trace",
-    "stars": 0,
-    "updated_at": "2026-10-07T00:07:57Z",
-    "url": "https://github.com/Citrous-districtline59/agent-trace"
-  },
-  {
-    "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
-    "id": "ydavidcm9-wq/vigil",
-    "language": "JavaScript",
-    "name": "ydavidcm9-wq/vigil",
-    "stars": 0,
-    "updated_at": "2026-10-07T00:05:50Z",
-    "url": "https://github.com/ydavidcm9-wq/vigil"
   }
 ]
