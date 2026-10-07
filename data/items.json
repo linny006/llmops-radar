@@ -1,5 +1,95 @@
 [
   {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 6,
+    "updated_at": "2026-10-07T07:00:00Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "An autonomous ad pipeline that shoots with no director, grades pixels and audio instead of text, and picks a video engin",
+    "id": "jameswniu/autonomous-ads-pipeline-multimodal-evals",
+    "language": "Python",
+    "name": "jameswniu/autonomous-ads-pipeline-multimodal-evals",
+    "stars": 1,
+    "updated_at": "2026-10-07T06:57:54Z",
+    "url": "https://github.com/jameswniu/autonomous-ads-pipeline-multimodal-evals"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 396,
+    "updated_at": "2026-10-07T06:55:57Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-07T06:51:53Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "YOalphabet & YOconlang is a 4-bit isomorphic visual script replacing heavy CNNs and text embeddings with zero-inference ",
+    "id": "YOalphabet/YOalphabet",
+    "language": "HTML",
+    "name": "YOalphabet/YOalphabet",
+    "stars": 19,
+    "updated_at": "2026-10-07T06:57:15Z",
+    "url": "https://github.com/YOalphabet/YOalphabet"
+  },
+  {
+    "description": "Drop-in LLMOps evaluation & observability library \u2014 multi-judge consensus with disagreement alarm, 5 composite metric sc",
+    "id": "Yacine-ai-tech/RAGeval",
+    "language": "TypeScript",
+    "name": "Yacine-ai-tech/RAGeval",
+    "stars": 0,
+    "updated_at": "2026-10-07T06:51:12Z",
+    "url": "https://github.com/Yacine-ai-tech/RAGeval"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8821,
+    "updated_at": "2026-10-07T06:50:29Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35456,
+    "updated_at": "2026-10-07T06:59:44Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 8295,
+    "updated_at": "2026-10-07T06:56:46Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-07T06:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AgentFox: open-source control plane for AI agents. Guardrails on model traffic, tool calls bounded by capability grants,",
     "id": "architsharm/agentfox",
     "language": "Python",
@@ -9,31 +99,13 @@
     "url": "https://github.com/architsharm/agentfox"
   },
   {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 8293,
-    "updated_at": "2026-10-07T06:43:22Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35455,
-    "updated_at": "2026-10-07T06:42:41Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 396,
-    "updated_at": "2026-10-07T06:42:11Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8596,
+    "updated_at": "2026-10-07T06:43:48Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Governed MCP runtime & dynamic tool execution platform \u2014 dynamic tool packs, typed effects (read/write/destructive), cry",
@@ -49,8 +121,8 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 60257,
-    "updated_at": "2026-10-07T06:39:53Z",
+    "stars": 60258,
+    "updated_at": "2026-10-07T06:49:54Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -81,6 +153,15 @@
     "url": "https://github.com/yunaremaia/leanpipe"
   },
   {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 511,
+    "updated_at": "2026-10-07T06:36:31Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
     "description": "Sovereign enterprise RAG & analytics platform \u2014 role-scoped persona intelligence, hybrid retrieval (Dense BGE-M3 + BM25 ",
     "id": "Yacine-ai-tech/IntelAI",
     "language": "Python",
@@ -88,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-10-07T06:36:09Z",
     "url": "https://github.com/Yacine-ai-tech/IntelAI"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8595,
-    "updated_at": "2026-10-07T06:43:48Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Open-source runtime for governed multi-agent AI \u2014 define agents, tools and human-approval gates as data (YAML), run unde",
@@ -117,15 +189,6 @@
     "url": "https://github.com/2796gaurav/shad0w"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-07T06:30:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
@@ -140,7 +203,7 @@
     "language": "Go",
     "name": "infercrane/infercrane",
     "stars": 52,
-    "updated_at": "2026-10-07T06:26:19Z",
+    "updated_at": "2026-10-07T06:57:12Z",
     "url": "https://github.com/infercrane/infercrane"
   },
   {
@@ -180,15 +243,6 @@
     "url": "https://github.com/yunaremaia/agentcost"
   },
   {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 6,
-    "updated_at": "2026-10-07T06:18:33Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
     "id": "vivek-541/vivek-541",
     "language": "HTML",
@@ -203,7 +257,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25770,
-    "updated_at": "2026-10-07T06:35:24Z",
+    "updated_at": "2026-10-07T06:59:10Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -230,17 +284,8 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28294,
-    "updated_at": "2026-10-07T06:44:31Z",
+    "updated_at": "2026-10-07T06:47:32Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "An autonomous ad pipeline that shoots with no director, grades pixels and audio instead of text, and picks a video engin",
-    "id": "jameswniu/autonomous-ads-pipeline-multimodal-evals",
-    "language": "Python",
-    "name": "jameswniu/autonomous-ads-pipeline-multimodal-evals",
-    "stars": 1,
-    "updated_at": "2026-10-07T06:01:11Z",
-    "url": "https://github.com/jameswniu/autonomous-ads-pipeline-multimodal-evals"
   },
   {
     "description": "Multi-agent system for US drug prices and shortages on Azure: Databricks pipeline, MCP tool server, Ask agent and a week",
@@ -250,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-10-07T05:59:29Z",
     "url": "https://github.com/sujithnsn2026-crypto/drug-pricing-agent"
-  },
-  {
-    "description": "YOalphabet & YOconlang is a 4-bit isomorphic visual script replacing heavy CNNs and text embeddings with zero-inference ",
-    "id": "YOalphabet/YOalphabet",
-    "language": "HTML",
-    "name": "YOalphabet/YOalphabet",
-    "stars": 19,
-    "updated_at": "2026-10-07T05:55:22Z",
-    "url": "https://github.com/YOalphabet/YOalphabet"
   },
   {
     "description": "\ud83d\udee1\ufe0f AI Agent Security & Governance Platform \u2014 injection detection, PII anonymization, tool scanning, permissions, and red",
@@ -295,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-10-07T05:22:48Z",
     "url": "https://github.com/domondi1/inferrail"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-07T06:42:01Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Turn Claude into a context-aware red team operator with 78 drop-in offensive security skills across 23 categories.",
@@ -383,7 +410,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-10-07T05:08:39Z",
+    "updated_at": "2026-10-07T06:46:54Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-07T05:05:38Z",
     "url": "https://github.com/Fauniethermal3522/agentic-dart"
-  },
-  {
-    "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
-    "id": "retardingforcerightbank635/dm-gateway-bot",
-    "language": "Python",
-    "name": "retardingforcerightbank635/dm-gateway-bot",
-    "stars": 0,
-    "updated_at": "2026-10-07T05:04:14Z",
-    "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
-  },
-  {
-    "description": "Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards",
-    "id": "wordenneapolitan768/llm-pricing",
-    "language": "\u2014",
-    "name": "wordenneapolitan768/llm-pricing",
-    "stars": 1,
-    "updated_at": "2026-10-07T05:02:43Z",
-    "url": "https://github.com/wordenneapolitan768/llm-pricing"
-  },
-  {
-    "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
-    "id": "Orlyoxidized462/py-prompt-versioner",
-    "language": "Python",
-    "name": "Orlyoxidized462/py-prompt-versioner",
-    "stars": 1,
-    "updated_at": "2026-10-07T05:00:38Z",
-    "url": "https://github.com/Orlyoxidized462/py-prompt-versioner"
   }
 ]
