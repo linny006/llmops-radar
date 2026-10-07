@@ -1,21 +1,12 @@
 [
   {
-    "description": "Protect your machine from AI-powered automation with local, deterministic Allow/Ask/Deny controls for high-impact action",
-    "id": "Permed-lizard3456/ActionGuard",
-    "language": "\u2014",
-    "name": "Permed-lizard3456/ActionGuard",
-    "stars": 0,
-    "updated_at": "2026-10-07T10:14:44Z",
-    "url": "https://github.com/Permed-lizard3456/ActionGuard"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28297,
-    "updated_at": "2026-10-07T10:14:37Z",
-    "url": "https://github.com/mlflow/mlflow"
+    "description": "Open Source software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-10-07T10:30:53Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "Multimodal RAG QA for cosmetics regulation: hybrid retrieval, two-stage reranking, evidence gating that refuses unsuppor",
@@ -23,7 +14,7 @@
     "language": "Python",
     "name": "Xander-Xai/Beauty-Industry-RAG-QA-System",
     "stars": 0,
-    "updated_at": "2026-10-07T10:14:36Z",
+    "updated_at": "2026-10-07T10:30:27Z",
     "url": "https://github.com/Xander-Xai/Beauty-Industry-RAG-QA-System"
   },
   {
@@ -31,8 +22,8 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 8598,
-    "updated_at": "2026-10-07T10:15:04Z",
+    "stars": 8599,
+    "updated_at": "2026-10-07T10:30:57Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -41,17 +32,98 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 511,
-    "updated_at": "2026-10-07T10:13:34Z",
+    "updated_at": "2026-10-07T10:29:36Z",
     "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 29,
+    "updated_at": "2026-10-07T10:28:17Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
+    "id": "maks3201/decision-model-operator",
+    "language": "Go",
+    "name": "maks3201/decision-model-operator",
+    "stars": 0,
+    "updated_at": "2026-10-07T10:28:02Z",
+    "url": "https://github.com/maks3201/decision-model-operator"
+  },
+  {
+    "description": "Marketing analytics agent on LangGraph: tool calling, hybrid RAG on Qdrant, human-in-the-loop with durable state, golden",
+    "id": "swd07/marketing-agent-langgraph",
+    "language": "Python",
+    "name": "swd07/marketing-agent-langgraph",
+    "stars": 0,
+    "updated_at": "2026-10-07T10:26:27Z",
+    "url": "https://github.com/swd07/marketing-agent-langgraph"
+  },
+  {
+    "description": "Evaluation-first RAG and LLMOps platform for production-grade document QA, tracing, regression testing, and cost-aware e",
+    "id": "DiogoRibeiro7/ragops-lab",
+    "language": "Jupyter Notebook",
+    "name": "DiogoRibeiro7/ragops-lab",
+    "stars": 0,
+    "updated_at": "2026-10-07T10:25:06Z",
+    "url": "https://github.com/DiogoRibeiro7/ragops-lab"
+  },
+  {
+    "description": "Daily CI-refreshed history of LLM API pricing \u2014 snapshot + append-only change log for ~2,500 chat models (CSV, CC BY 4.0",
+    "id": "sophie-nguyenthuthuy/llm-pricing-history",
+    "language": "Python",
+    "name": "sophie-nguyenthuthuy/llm-pricing-history",
+    "stars": 1,
+    "updated_at": "2026-10-07T10:19:49Z",
+    "url": "https://github.com/sophie-nguyenthuthuy/llm-pricing-history"
   },
   {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 35469,
-    "updated_at": "2026-10-07T10:12:48Z",
+    "stars": 35470,
+    "updated_at": "2026-10-07T10:30:55Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "llmcfo",
+    "id": "lisn0/tidal",
+    "language": "Nunjucks",
+    "name": "lisn0/tidal",
+    "stars": 0,
+    "updated_at": "2026-10-07T10:16:53Z",
+    "url": "https://github.com/lisn0/tidal"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28298,
+    "updated_at": "2026-10-07T10:15:51Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-07T10:15:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Protect your machine from AI-powered automation with local, deterministic Allow/Ask/Deny controls for high-impact action",
+    "id": "Permed-lizard3456/ActionGuard",
+    "language": "\u2014",
+    "name": "Permed-lizard3456/ActionGuard",
+    "stars": 0,
+    "updated_at": "2026-10-07T10:14:44Z",
+    "url": "https://github.com/Permed-lizard3456/ActionGuard"
   },
   {
     "description": "Classify user feedback into positive, negative, or neutral categories using an automated machine learning pipeline and F",
@@ -103,7 +175,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 8303,
+    "stars": 8304,
     "updated_at": "2026-10-07T10:09:59Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -113,7 +185,7 @@
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 23,
-    "updated_at": "2026-10-07T10:12:52Z",
+    "updated_at": "2026-10-07T10:27:23Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
@@ -153,15 +225,6 @@
     "url": "https://github.com/Peter-A-P/ai-release-gate"
   },
   {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 29,
-    "updated_at": "2026-10-07T10:03:07Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
     "description": "Every model call through one library: raw-HTTP provider adapters, a cost ledger row and an OpenTelemetry span per call, ",
     "id": "Peter-A-P/compliant-ai-gateway",
     "language": "Python",
@@ -178,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-10-07T10:02:19Z",
     "url": "https://github.com/harishu652/Class-AI-Agent"
-  },
-  {
-    "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
-    "id": "maks3201/decision-model-operator",
-    "language": "Go",
-    "name": "maks3201/decision-model-operator",
-    "stars": 0,
-    "updated_at": "2026-10-07T10:02:28Z",
-    "url": "https://github.com/maks3201/decision-model-operator"
   },
   {
     "description": "The readable ReAct agent: a ~235-line step loop you can follow, plus 31 opt-in modules (sandbox, circuit breaker, struct",
@@ -214,15 +268,6 @@
     "stars": 22419,
     "updated_at": "2026-10-07T10:09:41Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-07T10:00:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
@@ -302,7 +347,7 @@
     "language": "Python",
     "name": "jostrm/azure-enterprise-scale-ml",
     "stars": 53,
-    "updated_at": "2026-10-07T09:56:51Z",
+    "updated_at": "2026-10-07T10:15:55Z",
     "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
   },
   {
@@ -338,7 +383,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 60271,
-    "updated_at": "2026-10-07T09:52:18Z",
+    "updated_at": "2026-10-07T10:29:42Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -401,52 +446,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3358,
-    "updated_at": "2026-10-07T09:54:32Z",
+    "updated_at": "2026-10-07T10:22:10Z",
     "url": "https://github.com/lmnr-ai/lmnr"
-  },
-  {
-    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
-    "id": "AixleHQ/flow",
-    "language": "Ruby",
-    "name": "AixleHQ/flow",
-    "stars": 19,
-    "updated_at": "2026-10-07T10:01:08Z",
-    "url": "https://github.com/AixleHQ/flow"
-  },
-  {
-    "description": "\ud83d\ude80 Build with the Langfuse Go SDK to enhance your applications using Langfuse's open-source LLM engineering platform.",
-    "id": "sedai194443/langfuse-go",
-    "language": "Go",
-    "name": "sedai194443/langfuse-go",
-    "stars": 1,
-    "updated_at": "2026-10-07T09:45:07Z",
-    "url": "https://github.com/sedai194443/langfuse-go"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-07T09:43:51Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "An autonomous ad pipeline that shoots with no director, grades pixels and audio instead of text, and picks a video engin",
-    "id": "jameswniu/autonomous-ads-pipeline-multimodal-evals",
-    "language": "Python",
-    "name": "jameswniu/autonomous-ads-pipeline-multimodal-evals",
-    "stars": 1,
-    "updated_at": "2026-10-07T09:42:18Z",
-    "url": "https://github.com/jameswniu/autonomous-ads-pipeline-multimodal-evals"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-07T09:40:07Z",
-    "url": "https://github.com/toxicwind/ranch"
   }
 ]
