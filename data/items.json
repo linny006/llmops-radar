@@ -1,30 +1,12 @@
 [
   {
-    "description": "Human-supervised fleets of AI coding agents \u2014 coordination is infrastructure, not agency.",
-    "id": "sovereignty-labs/hirdforge",
-    "language": "Go",
-    "name": "sovereignty-labs/hirdforge",
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
     "stars": 0,
-    "updated_at": "2026-10-08T03:15:20Z",
-    "url": "https://github.com/sovereignty-labs/hirdforge"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11744,
-    "updated_at": "2026-10-08T03:15:15Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60315,
-    "updated_at": "2026-10-08T03:14:53Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "updated_at": "2026-10-08T03:28:05Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
     "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
@@ -32,8 +14,89 @@
     "language": "Rust",
     "name": "TAIPANBOX/tokenfuse",
     "stars": 1,
-    "updated_at": "2026-10-08T03:14:21Z",
+    "updated_at": "2026-10-08T03:29:13Z",
     "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "Python",
+    "name": "dataelement/bisheng",
+    "stars": 12028,
+    "updated_at": "2026-10-08T03:26:45Z",
+    "url": "https://github.com/dataelement/bisheng"
+  },
+  {
+    "description": "SLOs for LLM inference on Kubernetes: TTFT, tokens/s, cost and quality SLIs with KServe, OpenTelemetry, Prometheus and K",
+    "id": "aLuizab/llm-slo-lab",
+    "language": "Python",
+    "name": "aLuizab/llm-slo-lab",
+    "stars": 0,
+    "updated_at": "2026-10-08T03:25:57Z",
+    "url": "https://github.com/aLuizab/llm-slo-lab"
+  },
+  {
+    "description": "Self-hosted OpenAI/Anthropic-compatible gateway: give each AI agent run a dollar budget, enforced before the provider, w",
+    "id": "domondi1/inferrail",
+    "language": "Python",
+    "name": "domondi1/inferrail",
+    "stars": 0,
+    "updated_at": "2026-10-08T03:28:43Z",
+    "url": "https://github.com/domondi1/inferrail"
+  },
+  {
+    "description": "FastAPI backend for versioning and executing LLM prompts \u2014 tracks tokens, cost, latency, retries and failures per call. ",
+    "id": "mbommakanti/PromptVault",
+    "language": "Python",
+    "name": "mbommakanti/PromptVault",
+    "stars": 0,
+    "updated_at": "2026-10-08T03:24:12Z",
+    "url": "https://github.com/mbommakanti/PromptVault"
+  },
+  {
+    "description": "Hands-on, framework-free Colab notebooks for the AI Engineer / Forward Deployed Engineer (FDE) skill set \u2014 model APIs, s",
+    "id": "calmrocks/ai-engineer-notebooks",
+    "language": "Jupyter Notebook",
+    "name": "calmrocks/ai-engineer-notebooks",
+    "stars": 688,
+    "updated_at": "2026-10-08T03:22:22Z",
+    "url": "https://github.com/calmrocks/ai-engineer-notebooks"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60316,
+    "updated_at": "2026-10-08T03:30:07Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11744,
+    "updated_at": "2026-10-08T03:18:42Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-08T03:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Human-supervised fleets of AI coding agents \u2014 coordination is infrastructure, not agency.",
+    "id": "sovereignty-labs/hirdforge",
+    "language": "Go",
+    "name": "sovereignty-labs/hirdforge",
+    "stars": 0,
+    "updated_at": "2026-10-08T03:15:20Z",
+    "url": "https://github.com/sovereignty-labs/hirdforge"
   },
   {
     "description": "Agentic Runtime",
@@ -52,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-10-08T03:09:59Z",
     "url": "https://github.com/ghourimarti/Product-Recommender-Engine"
-  },
-  {
-    "description": "SLOs for LLM inference on Kubernetes: TTFT, tokens/s, cost and quality SLIs with KServe, OpenTelemetry, Prometheus and K",
-    "id": "aLuizab/llm-slo-lab",
-    "language": "Python",
-    "name": "aLuizab/llm-slo-lab",
-    "stars": 0,
-    "updated_at": "2026-10-08T03:04:38Z",
-    "url": "https://github.com/aLuizab/llm-slo-lab"
   },
   {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
@@ -104,26 +158,8 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 83,
-    "updated_at": "2026-10-08T03:03:25Z",
+    "updated_at": "2026-10-08T03:22:14Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-08T03:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Self-hosted OpenAI/Anthropic-compatible gateway: give each AI agent run a dollar budget, enforced before the provider, w",
-    "id": "domondi1/inferrail",
-    "language": "Python",
-    "name": "domondi1/inferrail",
-    "stars": 0,
-    "updated_at": "2026-10-08T03:13:40Z",
-    "url": "https://github.com/domondi1/inferrail"
   },
   {
     "description": "Open Source software factory.",
@@ -176,7 +212,7 @@
     "language": "Python",
     "name": "TAIPANBOX/verdryx",
     "stars": 1,
-    "updated_at": "2026-10-08T02:48:20Z",
+    "updated_at": "2026-10-08T03:29:30Z",
     "url": "https://github.com/TAIPANBOX/verdryx"
   },
   {
@@ -212,7 +248,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-08T02:42:57Z",
+    "updated_at": "2026-10-08T03:28:33Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -268,15 +304,6 @@
     "stars": 5,
     "updated_at": "2026-10-08T02:13:55Z",
     "url": "https://github.com/ArtVsMark/Engineering-Incidents-Playbook"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-10-08T02:09:04Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
     "description": "Prototype service for storing LLM request data, running evaluations and aggregating quality, latency and cost metrics.",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-08T01:29:22Z",
     "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
-    "id": "kawaiirashi/llm-retry",
-    "language": "C++",
-    "name": "kawaiirashi/llm-retry",
-    "stars": 1,
-    "updated_at": "2026-10-08T01:29:21Z",
-    "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
-    "id": "Anbumani08/agentic-coding-workflow",
-    "language": "HTML",
-    "name": "Anbumani08/agentic-coding-workflow",
-    "stars": 0,
-    "updated_at": "2026-10-08T01:29:18Z",
-    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-10-08T01:28:53Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
   }
 ]
