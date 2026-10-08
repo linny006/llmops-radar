@@ -1,5 +1,59 @@
 [
   {
+    "description": "\u4e2d\u6587\u7248\uff5c\u7528 6 \u4e2a\u56fa\u5b9a\u6545\u969c\u573a\u666f\uff0c\u6bd4\u8f83 Agent \u5728\u8d85\u65f6\u3001\u9650\u6d41\u3001\u5ba1\u6279\u548c\u91cd\u542f\u540e\u7684\u884c\u4e3a\u3002",
+    "id": "SCUliujiacheng/agent-reliability-lab-zh",
+    "language": "Python",
+    "name": "SCUliujiacheng/agent-reliability-lab-zh",
+    "stars": 0,
+    "updated_at": "2026-10-08T15:13:58Z",
+    "url": "https://github.com/SCUliujiacheng/agent-reliability-lab-zh"
+  },
+  {
+    "description": "Six repeatable failure scenarios for comparing how tool-using agents handle timeouts, rate limits, approvals, and restar",
+    "id": "SCUliujiacheng/agent-reliability-lab",
+    "language": "Python",
+    "name": "SCUliujiacheng/agent-reliability-lab",
+    "stars": 0,
+    "updated_at": "2026-10-08T15:13:30Z",
+    "url": "https://github.com/SCUliujiacheng/agent-reliability-lab"
+  },
+  {
+    "description": "Profile README & Showcase for Pranav H - Automation Engineer (QA & AI) @ Envestnet | Agentic Workflows & LLM Ops",
+    "id": "Pranav-Nexus/Pranav-Nexus",
+    "language": "HTML",
+    "name": "Pranav-Nexus/Pranav-Nexus",
+    "stars": 0,
+    "updated_at": "2026-10-08T15:13:28Z",
+    "url": "https://github.com/Pranav-Nexus/Pranav-Nexus"
+  },
+  {
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
+    "language": "Python",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 53,
+    "updated_at": "2026-10-08T15:13:11Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 6,
+    "updated_at": "2026-10-08T15:12:00Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-08T15:10:21Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Local, self-hosted agent infrastructure \u2014 one endpoint for every AI client (Claude Code, Codex CLI, Gemini CLI, OpenCode",
     "id": "Stravia-AI/StraviaPlatform",
     "language": "Rust",
@@ -23,7 +77,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11753,
-    "updated_at": "2026-10-08T15:10:09Z",
+    "updated_at": "2026-10-08T15:14:43Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -158,17 +212,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 35524,
-    "updated_at": "2026-10-08T15:09:12Z",
+    "updated_at": "2026-10-08T15:14:43Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-08T15:00:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
@@ -212,7 +257,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4924,
-    "updated_at": "2026-10-08T15:08:57Z",
+    "updated_at": "2026-10-08T15:12:28Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -295,15 +340,6 @@
     "stars": 1,
     "updated_at": "2026-10-08T14:51:25Z",
     "url": "https://github.com/andrewbakercloudscale/claude-code-cost-sidebar"
-  },
-  {
-    "description": "Enterprise Scale AIFactory (esml) - on Azure",
-    "id": "jostrm/azure-enterprise-scale-ml",
-    "language": "Python",
-    "name": "jostrm/azure-enterprise-scale-ml",
-    "stars": 53,
-    "updated_at": "2026-10-08T14:51:21Z",
-    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
   },
   {
     "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
@@ -412,41 +448,5 @@
     "stars": 9,
     "updated_at": "2026-10-08T15:03:14Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 1,
-    "updated_at": "2026-10-08T14:39:55Z",
-    "url": "https://github.com/a-novel/service-genai"
-  },
-  {
-    "description": "\ud83c\udfa4 Build real-time voice assistants with AgentOS 2 Live, utilizing OpenAI's Realtime API for seamless voice interactions ",
-    "id": "rozario-1234/end2end_sample",
-    "language": "TypeScript",
-    "name": "rozario-1234/end2end_sample",
-    "stars": 1,
-    "updated_at": "2026-10-08T14:39:34Z",
-    "url": "https://github.com/rozario-1234/end2end_sample"
-  },
-  {
-    "description": "\u2699\ufe0f Simplify agent development with a straightforward for-loop framework, enabling efficient tool calls for your applicat",
-    "id": "KewalPra/agent-sdk",
-    "language": "Python",
-    "name": "KewalPra/agent-sdk",
-    "stars": 0,
-    "updated_at": "2026-10-08T14:38:41Z",
-    "url": "https://github.com/KewalPra/agent-sdk"
-  },
-  {
-    "description": "\ud83e\udde0 Capture and organize your ideas with an AI-powered system that turns thoughts into actionable knowledge, all without c",
-    "id": "rsaudio/second-brain",
-    "language": "\u2014",
-    "name": "rsaudio/second-brain",
-    "stars": 1,
-    "updated_at": "2026-10-08T14:38:23Z",
-    "url": "https://github.com/rsaudio/second-brain"
   }
 ]
