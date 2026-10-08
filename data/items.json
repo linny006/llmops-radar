@@ -1,5 +1,140 @@
 [
   {
+    "description": "Ask for a capability tier, never a model. Azure-first fallback chains on Cloudflare AI Gateway's universal endpoint, wit",
+    "id": "montrealks/ai-gateway-tiers",
+    "language": "Python",
+    "name": "montrealks/ai-gateway-tiers",
+    "stars": 0,
+    "updated_at": "2026-10-08T09:58:54Z",
+    "url": "https://github.com/montrealks/ai-gateway-tiers"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 513,
+    "updated_at": "2026-10-08T09:58:02Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "AI reliability engineering for production AI agents and LLM applications. Open-source tools and research that find silen",
+    "id": "hermes-labs-ai/.github",
+    "language": "Python",
+    "name": "hermes-labs-ai/.github",
+    "stars": 0,
+    "updated_at": "2026-10-08T09:55:03Z",
+    "url": "https://github.com/hermes-labs-ai/.github"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-08T09:54:17Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O",
+    "id": "kelvran/gateway",
+    "language": "Go",
+    "name": "kelvran/gateway",
+    "stars": 0,
+    "updated_at": "2026-10-08T09:53:30Z",
+    "url": "https://github.com/kelvran/gateway"
+  },
+  {
+    "description": "Evaluation-first RAG and LLMOps platform for production-grade document QA, tracing, regression testing, and cost-aware e",
+    "id": "DiogoRibeiro7/rag-quality-engine",
+    "language": "Jupyter Notebook",
+    "name": "DiogoRibeiro7/rag-quality-engine",
+    "stars": 0,
+    "updated_at": "2026-10-08T09:54:24Z",
+    "url": "https://github.com/DiogoRibeiro7/rag-quality-engine"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22449,
+    "updated_at": "2026-10-08T09:57:28Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Convert static anime images into structured, QA-checked PSDs with Codex, Colab GPU, and built-in motion preview.",
+    "id": "Rickettsiayorkshirefog4963/still2rig-psd",
+    "language": "JavaScript",
+    "name": "Rickettsiayorkshirefog4963/still2rig-psd",
+    "stars": 0,
+    "updated_at": "2026-10-08T09:49:30Z",
+    "url": "https://github.com/Rickettsiayorkshirefog4963/still2rig-psd"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60350,
+    "updated_at": "2026-10-08T10:00:16Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Deterministic guardrails for AI agents \u2014 the LLM proposes, your rules dispose. A sub-microsecond, JIT-compiled rule engi",
+    "id": "Ordo-Engine/Ordo",
+    "language": "Rust",
+    "name": "Ordo-Engine/Ordo",
+    "stars": 37,
+    "updated_at": "2026-10-08T09:53:54Z",
+    "url": "https://github.com/Ordo-Engine/Ordo"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 29,
+    "updated_at": "2026-10-08T09:47:08Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Open Source software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-10-08T09:46:34Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability ",
+    "id": "santiag6001/llm-engineering-platform",
+    "language": "Python",
+    "name": "santiag6001/llm-engineering-platform",
+    "stars": 1,
+    "updated_at": "2026-10-08T09:46:05Z",
+    "url": "https://github.com/santiag6001/llm-engineering-platform"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 8342,
+    "updated_at": "2026-10-08T09:45:34Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-08T09:45:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Track human movement in real-time using LiteRT.js and Three.js for browser-based 3D character animation without server d",
     "id": "Frayagronomist166/LiteRT.js-Mocap",
     "language": "\u2014",
@@ -50,17 +185,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 35514,
-    "updated_at": "2026-10-08T09:45:04Z",
+    "updated_at": "2026-10-08T10:00:20Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60349,
-    "updated_at": "2026-10-08T09:43:00Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code \u2014 V3 prototype runs ",
@@ -68,17 +194,8 @@
     "language": "TypeScript",
     "name": "MongLong0214/jev-gate",
     "stars": 3,
-    "updated_at": "2026-10-08T09:42:35Z",
+    "updated_at": "2026-10-08T09:45:56Z",
     "url": "https://github.com/MongLong0214/jev-gate"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 513,
-    "updated_at": "2026-10-08T09:42:02Z",
-    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
@@ -171,15 +288,6 @@
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-08T09:30:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Fast, streaming indexing, query, and agentic LLM applications in Rust",
     "id": "bosun-ai/swiftide",
     "language": "Rust",
@@ -196,15 +304,6 @@
     "stars": 2,
     "updated_at": "2026-10-08T09:29:41Z",
     "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22449,
-    "updated_at": "2026-10-08T09:43:13Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to",
@@ -297,15 +396,6 @@
     "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
   },
   {
-    "description": "Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O",
-    "id": "kelvran/gateway",
-    "language": "Go",
-    "name": "kelvran/gateway",
-    "stars": 0,
-    "updated_at": "2026-10-08T09:20:39Z",
-    "url": "https://github.com/kelvran/gateway"
-  },
-  {
     "description": "Replay and regression infrastructure for AI agents. Capture, seal, replay and turn recorded executions into reproducible",
     "id": "rit2001/traceforge",
     "language": "Python",
@@ -313,15 +403,6 @@
     "stars": 0,
     "updated_at": "2026-10-08T09:19:21Z",
     "url": "https://github.com/rit2001/traceforge"
-  },
-  {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 29,
-    "updated_at": "2026-10-08T09:19:14Z",
-    "url": "https://github.com/SourceShift/mini-ork"
   },
   {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
@@ -360,93 +441,12 @@
     "url": "https://github.com/maximhq/bifrost"
   },
   {
-    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
-    "id": "korczis/prismatic-majordomus",
-    "language": "Rust",
-    "name": "korczis/prismatic-majordomus",
-    "stars": 0,
-    "updated_at": "2026-10-08T09:20:14Z",
-    "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 83,
-    "updated_at": "2026-10-08T09:44:53Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
-    "id": "langwatch/langwatch",
+    "description": "\ud83e\udea2 Langfuse JS/TS SDK",
+    "id": "langfuse/langfuse-js",
     "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4924,
-    "updated_at": "2026-10-08T09:39:11Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
-    "id": "cuihuan/awesome-ai-gateway",
-    "language": "HTML",
-    "name": "cuihuan/awesome-ai-gateway",
-    "stars": 126,
-    "updated_at": "2026-10-08T09:08:59Z",
-    "url": "https://github.com/cuihuan/awesome-ai-gateway"
-  },
-  {
-    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
-    "id": "TAIPANBOX/tokenfuse",
-    "language": "Rust",
-    "name": "TAIPANBOX/tokenfuse",
-    "stars": 1,
-    "updated_at": "2026-10-08T09:08:37Z",
-    "url": "https://github.com/TAIPANBOX/tokenfuse"
-  },
-  {
-    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
-    "id": "luetzey/who2be",
-    "language": "Python",
-    "name": "luetzey/who2be",
-    "stars": 0,
-    "updated_at": "2026-10-08T09:08:19Z",
-    "url": "https://github.com/luetzey/who2be"
-  },
-  {
-    "description": "Ask for a capability tier, never a model. Azure-first fallback chains on Cloudflare AI Gateway's universal endpoint, wit",
-    "id": "montrealks/ai-gateway-tiers",
-    "language": "Python",
-    "name": "montrealks/ai-gateway-tiers",
-    "stars": 0,
-    "updated_at": "2026-10-08T09:05:40Z",
-    "url": "https://github.com/montrealks/ai-gateway-tiers"
-  },
-  {
-    "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
-    "id": "empiredestroyer/AI-Prompt-Enhancer",
-    "language": "\u2014",
-    "name": "empiredestroyer/AI-Prompt-Enhancer",
-    "stars": 2,
-    "updated_at": "2026-10-08T09:04:58Z",
-    "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 8342,
-    "updated_at": "2026-10-08T09:04:51Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
-    "id": "Kakz/prometheus-llm",
-    "language": "Python",
-    "name": "Kakz/prometheus-llm",
-    "stars": 6,
-    "updated_at": "2026-10-08T09:02:22Z",
-    "url": "https://github.com/Kakz/prometheus-llm"
+    "name": "langfuse/langfuse-js",
+    "stars": 172,
+    "updated_at": "2026-10-08T09:17:10Z",
+    "url": "https://github.com/langfuse/langfuse-js"
   }
 ]
