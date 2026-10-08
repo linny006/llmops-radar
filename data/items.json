@@ -1,5 +1,86 @@
 [
   {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 83,
+    "updated_at": "2026-10-08T05:30:09Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60324,
+    "updated_at": "2026-10-08T05:30:04Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1256,
+    "updated_at": "2026-10-08T05:27:01Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "Self-hosted OpenAI/Anthropic-compatible gateway: give each AI agent run a dollar budget, enforced before the provider, w",
+    "id": "domondi1/inferrail",
+    "language": "Python",
+    "name": "domondi1/inferrail",
+    "stars": 0,
+    "updated_at": "2026-10-08T05:25:15Z",
+    "url": "https://github.com/domondi1/inferrail"
+  },
+  {
+    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
+    "id": "rknightion/genai-otel-bridge",
+    "language": "Go",
+    "name": "rknightion/genai-otel-bridge",
+    "stars": 1,
+    "updated_at": "2026-10-08T05:25:22Z",
+    "url": "https://github.com/rknightion/genai-otel-bridge"
+  },
+  {
+    "description": "Failure-driven synthetic data generation, filtering, and lineage",
+    "id": "ZhengjunSun/synthetic-data-flywheel",
+    "language": "Python",
+    "name": "ZhengjunSun/synthetic-data-flywheel",
+    "stars": 0,
+    "updated_at": "2026-10-08T05:22:08Z",
+    "url": "https://github.com/ZhengjunSun/synthetic-data-flywheel"
+  },
+  {
+    "description": "Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O",
+    "id": "kelvran/gateway",
+    "language": "Go",
+    "name": "kelvran/gateway",
+    "stars": 0,
+    "updated_at": "2026-10-08T05:27:30Z",
+    "url": "https://github.com/kelvran/gateway"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28308,
+    "updated_at": "2026-10-08T05:18:42Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-08T05:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Offline prompt optimization with multi-objective evaluation and reproducible search",
     "id": "ZhengjunSun/prompt-optimization-lab",
     "language": "Python",
@@ -7,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-10-08T05:14:34Z",
     "url": "https://github.com/ZhengjunSun/prompt-optimization-lab"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60323,
-    "updated_at": "2026-10-08T05:14:28Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
@@ -32,7 +104,7 @@
     "language": "Jupyter Notebook",
     "name": "Red1-Rahman/NiriZan",
     "stars": 3,
-    "updated_at": "2026-10-08T05:11:02Z",
+    "updated_at": "2026-10-08T05:22:24Z",
     "url": "https://github.com/Red1-Rahman/NiriZan"
   },
   {
@@ -72,15 +144,6 @@
     "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
-    "description": "Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O",
-    "id": "kelvran/gateway",
-    "language": "Go",
-    "name": "kelvran/gateway",
-    "stars": 0,
-    "updated_at": "2026-10-08T05:13:16Z",
-    "url": "https://github.com/kelvran/gateway"
-  },
-  {
     "description": "100+ Curated, CI-verified AI workflow recipes. Powered by FlowStacks.",
     "id": "Neeeophytee/awesome-ai-workflows",
     "language": "Shell",
@@ -113,17 +176,8 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-10-08T05:00:32Z",
+    "updated_at": "2026-10-08T05:28:33Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-08T05:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Portable agentic SDLC pipeline as a Claude Code plugin: 4 role agents, 2 human gates, unit-tested guardrails, self-impro",
@@ -133,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-10-08T04:59:46Z",
     "url": "https://github.com/juanjtov/adlc-pipeline"
-  },
-  {
-    "description": "Self-hosted OpenAI/Anthropic-compatible gateway: give each AI agent run a dollar budget, enforced before the provider, w",
-    "id": "domondi1/inferrail",
-    "language": "Python",
-    "name": "domondi1/inferrail",
-    "stars": 0,
-    "updated_at": "2026-10-08T05:08:46Z",
-    "url": "https://github.com/domondi1/inferrail"
   },
   {
     "description": "One entry point for LLM calls: routing between a small and a large model, fallback, response cache, cost per call and a ",
@@ -329,7 +374,7 @@
     "language": "Python",
     "name": "luetzey/who2be",
     "stars": 0,
-    "updated_at": "2026-10-08T04:58:38Z",
+    "updated_at": "2026-10-08T05:19:03Z",
     "url": "https://github.com/luetzey/who2be"
   },
   {
@@ -396,15 +441,6 @@
     "url": "https://github.com/sedai194443/langfuse-go"
   },
   {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 83,
-    "updated_at": "2026-10-08T05:10:36Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
     "description": "Deterministic guardrails for AI agents \u2014 the LLM proposes, your rules dispose. A sub-microsecond, JIT-compiled rule engi",
     "id": "Ordo-Engine/Ordo",
     "language": "Rust",
@@ -412,41 +448,5 @@
     "stars": 37,
     "updated_at": "2026-10-08T04:17:35Z",
     "url": "https://github.com/Ordo-Engine/Ordo"
-  },
-  {
-    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
-    "id": "richardpapiona9/llm",
-    "language": "JavaScript",
-    "name": "richardpapiona9/llm",
-    "stars": 0,
-    "updated_at": "2026-10-08T04:13:47Z",
-    "url": "https://github.com/richardpapiona9/llm"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
-    "id": "mahdidjemaci/production-rag",
-    "language": "Python",
-    "name": "mahdidjemaci/production-rag",
-    "stars": 2,
-    "updated_at": "2026-10-08T04:13:27Z",
-    "url": "https://github.com/mahdidjemaci/production-rag"
-  },
-  {
-    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
-    "id": "liam8421/faster-llm",
-    "language": "Python",
-    "name": "liam8421/faster-llm",
-    "stars": 0,
-    "updated_at": "2026-10-08T04:09:06Z",
-    "url": "https://github.com/liam8421/faster-llm"
-  },
-  {
-    "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
-    "id": "recetariodmix/garak",
-    "language": "Python",
-    "name": "recetariodmix/garak",
-    "stars": 0,
-    "updated_at": "2026-10-08T04:06:50Z",
-    "url": "https://github.com/recetariodmix/garak"
   }
 ]
