@@ -1,5 +1,77 @@
 [
   {
+    "description": "Open-source LLM control plane: observe every call, recommend savings, then apply only human-approved, reversible routing",
+    "id": "project-arbr/arbr-control-plane",
+    "language": "JavaScript",
+    "name": "project-arbr/arbr-control-plane",
+    "stars": 28,
+    "updated_at": "2026-10-09T05:00:11Z",
+    "url": "https://github.com/project-arbr/arbr-control-plane"
+  },
+  {
+    "description": "A comprehensive, curated directory of 80+ categories of foundational and breakthrough open-source AI repositories, frame",
+    "id": "mohd-faizy/the-ai-stack",
+    "language": "\u2014",
+    "name": "mohd-faizy/the-ai-stack",
+    "stars": 1,
+    "updated_at": "2026-10-09T04:54:44Z",
+    "url": "https://github.com/mohd-faizy/the-ai-stack"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25825,
+    "updated_at": "2026-10-09T04:58:26Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Privacy audit for multi-agent AI systems (CrewAI \u00b7 LangGraph \u00b7 AutoGen) \u2014 detect compositional data leaks without the ce",
+    "id": "Justin0504/federated-agent-audit",
+    "language": "Python",
+    "name": "Justin0504/federated-agent-audit",
+    "stars": 4,
+    "updated_at": "2026-10-09T04:51:55Z",
+    "url": "https://github.com/Justin0504/federated-agent-audit"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11762,
+    "updated_at": "2026-10-09T04:53:10Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28318,
+    "updated_at": "2026-10-09T04:47:21Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-09T04:58:57Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-09T04:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
     "id": "llmspendguard/llm-spendguard",
     "language": "Python",
@@ -23,7 +95,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5879,
-    "updated_at": "2026-10-09T04:40:31Z",
+    "updated_at": "2026-10-09T04:45:52Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -32,7 +104,7 @@
     "language": "Go",
     "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "stars": 1,
-    "updated_at": "2026-10-09T04:36:15Z",
+    "updated_at": "2026-10-09T04:58:50Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
   },
   {
@@ -59,44 +131,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 60408,
-    "updated_at": "2026-10-09T04:41:51Z",
+    "updated_at": "2026-10-09T04:56:19Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-09T04:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25825,
-    "updated_at": "2026-10-09T04:29:18Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-09T04:38:25Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28318,
-    "updated_at": "2026-10-09T04:23:11Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
@@ -104,7 +140,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 83,
-    "updated_at": "2026-10-09T04:23:42Z",
+    "updated_at": "2026-10-09T04:52:58Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -113,7 +149,7 @@
     "language": "TypeScript",
     "name": "Ad-Astra-Computing/aer",
     "stars": 0,
-    "updated_at": "2026-10-09T04:39:57Z",
+    "updated_at": "2026-10-09T04:59:33Z",
     "url": "https://github.com/Ad-Astra-Computing/aer"
   },
   {
@@ -356,7 +392,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-10-09T04:13:25Z",
+    "updated_at": "2026-10-09T04:59:28Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-09T03:37:01Z",
     "url": "https://github.com/StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary"
-  },
-  {
-    "description": "\ud83c\udfac Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend",
-    "id": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "language": "Python",
-    "name": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "stars": 2,
-    "updated_at": "2026-10-09T03:36:52Z",
-    "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
-  },
-  {
-    "description": "\ud83d\udcda Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical",
-    "id": "mviraj/KakeyaFiniteFields",
-    "language": "JavaScript",
-    "name": "mviraj/KakeyaFiniteFields",
-    "stars": 0,
-    "updated_at": "2026-10-09T03:34:44Z",
-    "url": "https://github.com/mviraj/KakeyaFiniteFields"
-  },
-  {
-    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
-    "id": "Root1V/prometheus-inference-platform",
-    "language": "Python",
-    "name": "Root1V/prometheus-inference-platform",
-    "stars": 1,
-    "updated_at": "2026-10-09T03:30:54Z",
-    "url": "https://github.com/Root1V/prometheus-inference-platform"
-  },
-  {
-    "description": "A framework with a strict protocol core for governed, stateful AI work.",
-    "id": "maridlabsai/jini",
-    "language": "Go",
-    "name": "maridlabsai/jini",
-    "stars": 1,
-    "updated_at": "2026-10-09T03:30:56Z",
-    "url": "https://github.com/maridlabsai/jini"
   }
 ]
