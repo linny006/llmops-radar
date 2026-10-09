@@ -1,5 +1,122 @@
 [
   {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-10-09T21:00:11Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "Drop-in LLMOps evaluation & observability library \u2014 multi-judge consensus with disagreement alarm, 5 composite metric sc",
+    "id": "Yacine-ai-tech/RAGeval",
+    "language": "Python",
+    "name": "Yacine-ai-tech/RAGeval",
+    "stars": 0,
+    "updated_at": "2026-10-09T20:58:37Z",
+    "url": "https://github.com/Yacine-ai-tech/RAGeval"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60597,
+    "updated_at": "2026-10-09T20:58:29Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11766,
+    "updated_at": "2026-10-09T20:58:11Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-09T20:56:08Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-09T20:56:05Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25847,
+    "updated_at": "2026-10-09T20:59:33Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
+    "id": "maks3201/decision-model-operator",
+    "language": "Go",
+    "name": "maks3201/decision-model-operator",
+    "stars": 1,
+    "updated_at": "2026-10-09T20:55:39Z",
+    "url": "https://github.com/maks3201/decision-model-operator"
+  },
+  {
+    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
+    "id": "burakdede/lorepack",
+    "language": "TypeScript",
+    "name": "burakdede/lorepack",
+    "stars": 3,
+    "updated_at": "2026-10-09T20:54:22Z",
+    "url": "https://github.com/burakdede/lorepack"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 5,
+    "updated_at": "2026-10-09T20:48:15Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-09T20:48:00Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 86,
+    "updated_at": "2026-10-09T20:47:01Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-09T20:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
     "id": "llmspendguard/llm-spendguard",
     "language": "Python",
@@ -14,26 +131,8 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-10-09T20:44:53Z",
+    "updated_at": "2026-10-09T20:57:16Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60590,
-    "updated_at": "2026-10-09T20:45:20Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-10-09T20:38:02Z",
-    "url": "https://github.com/veerarakesh56/warden"
   },
   {
     "description": "One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod",
@@ -45,42 +144,6 @@
     "url": "https://github.com/valteresj2/agent-hangar"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-09T20:31:09Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-09T20:30:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
-    "id": "burakdede/lorepack",
-    "language": "TypeScript",
-    "name": "burakdede/lorepack",
-    "stars": 3,
-    "updated_at": "2026-10-09T20:36:04Z",
-    "url": "https://github.com/burakdede/lorepack"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25846,
-    "updated_at": "2026-10-09T20:42:27Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Privacy audit for multi-agent AI systems (CrewAI \u00b7 LangGraph \u00b7 AutoGen) \u2014 detect compositional data leaks without the ce",
     "id": "Justin0504/federated-agent-audit",
     "language": "Python",
@@ -88,15 +151,6 @@
     "stars": 4,
     "updated_at": "2026-10-09T20:29:14Z",
     "url": "https://github.com/Justin0504/federated-agent-audit"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-09T20:38:39Z",
-    "url": "https://github.com/vocion/vocion-core"
   },
   {
     "description": "Resource providers for pragma-os. Manage cloud infrastructure, AI agents, knowledge bases, pipelines, and workflows.",
@@ -113,7 +167,7 @@
     "language": "Python",
     "name": "pom11/hscc",
     "stars": 6,
-    "updated_at": "2026-10-09T20:26:20Z",
+    "updated_at": "2026-10-09T20:54:23Z",
     "url": "https://github.com/pom11/hscc"
   },
   {
@@ -122,7 +176,7 @@
     "language": "Python",
     "name": "luetzey/who2be",
     "stars": 0,
-    "updated_at": "2026-10-09T20:24:46Z",
+    "updated_at": "2026-10-09T20:59:31Z",
     "url": "https://github.com/luetzey/who2be"
   },
   {
@@ -153,15 +207,6 @@
     "url": "https://github.com/geoff-davis/async-batch-llm"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11766,
-    "updated_at": "2026-10-09T20:42:28Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Turn Claude into a context-aware red team operator with 78 drop-in offensive security skills across 23 categories.",
     "id": "urellai22/Claude-Red",
     "language": "Python",
@@ -176,7 +221,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 176,
-    "updated_at": "2026-10-09T20:23:01Z",
+    "updated_at": "2026-10-09T20:59:57Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -205,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-10-09T20:03:13Z",
     "url": "https://github.com/ashrafb8962/agentic-ops-and-rag"
-  },
-  {
-    "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
-    "id": "maks3201/decision-model-operator",
-    "language": "Go",
-    "name": "maks3201/decision-model-operator",
-    "stars": 1,
-    "updated_at": "2026-10-09T20:02:30Z",
-    "url": "https://github.com/maks3201/decision-model-operator"
   },
   {
     "description": "Manage AI model access with a secure gateway featuring load balancing, rate limiting, and audit trails for OpenAI, Groq,",
@@ -252,15 +288,6 @@
     "url": "https://github.com/iblai/os"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-09T19:55:43Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
     "id": "Fauniethermal3522/agentic-dart",
     "language": "Python",
@@ -283,18 +310,9 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 8432,
+    "stars": 8433,
     "updated_at": "2026-10-09T19:53:10Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Drop-in LLMOps evaluation & observability library \u2014 multi-judge consensus with disagreement alarm, 5 composite metric sc",
-    "id": "Yacine-ai-tech/RAGeval",
-    "language": "Python",
-    "name": "Yacine-ai-tech/RAGeval",
-    "stars": 0,
-    "updated_at": "2026-10-09T19:53:08Z",
-    "url": "https://github.com/Yacine-ai-tech/RAGeval"
   },
   {
     "description": "Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards",
@@ -369,15 +387,6 @@
     "url": "https://github.com/Citrous-districtline59/agent-trace"
   },
   {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 85,
-    "updated_at": "2026-10-09T20:25:48Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
     "description": "Sovereign enterprise RAG & analytics platform \u2014 role-scoped persona intelligence, hybrid retrieval (Dense BGE-M3 + BM25 ",
     "id": "Yacine-ai-tech/IntelAI",
     "language": "Python",
@@ -430,15 +439,6 @@
     "stars": 2,
     "updated_at": "2026-10-09T19:39:54Z",
     "url": "https://github.com/GaBySuGy/agent-guardrails"
-  },
-  {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 5,
-    "updated_at": "2026-10-09T20:39:17Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
     "description": "\ud83d\udd0d Explore the shift from MLOps to LLMOps with materials that simplify AI deployment and enhance document intelligence.",
