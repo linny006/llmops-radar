@@ -1,12 +1,48 @@
 [
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "Open Source software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-10-09T00:39:25Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
+    "id": "Root1V/prometheus-inference-platform",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60393,
-    "updated_at": "2026-10-09T00:30:04Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "Root1V/prometheus-inference-platform",
+    "stars": 1,
+    "updated_at": "2026-10-09T00:37:06Z",
+    "url": "https://github.com/Root1V/prometheus-inference-platform"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25820,
+    "updated_at": "2026-10-09T00:38:01Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11762,
+    "updated_at": "2026-10-09T00:36:36Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 40,
+    "updated_at": "2026-10-09T00:33:49Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
     "description": "Playbook pr\u00e1tico para estruturar, governar e evoluir Centros de Excel\u00eancia em IA (AI CoE), com artigo principal, artefat",
@@ -14,8 +50,26 @@
     "language": "HTML",
     "name": "EdneiMonteiro/ai-coe-playbook",
     "stars": 1,
-    "updated_at": "2026-10-09T00:28:59Z",
+    "updated_at": "2026-10-09T00:30:45Z",
     "url": "https://github.com/EdneiMonteiro/ai-coe-playbook"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-09T00:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60393,
+    "updated_at": "2026-10-09T00:38:22Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "OpenTelemetry Instrumentation for AI Observability",
@@ -45,15 +99,6 @@
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-09T00:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
     "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "language": "Go",
@@ -68,7 +113,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28317,
-    "updated_at": "2026-10-09T00:11:19Z",
+    "updated_at": "2026-10-09T00:39:11Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -104,17 +149,8 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 83,
-    "updated_at": "2026-10-09T00:11:52Z",
+    "updated_at": "2026-10-09T00:38:51Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25820,
-    "updated_at": "2026-10-09T00:28:39Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -122,7 +158,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22464,
-    "updated_at": "2026-10-09T00:29:07Z",
+    "updated_at": "2026-10-09T00:32:45Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -149,7 +185,7 @@
     "language": "Python",
     "name": "kapumota/ProvRegress",
     "stars": 0,
-    "updated_at": "2026-10-08T23:47:27Z",
+    "updated_at": "2026-10-09T00:31:33Z",
     "url": "https://github.com/kapumota/ProvRegress"
   },
   {
@@ -185,7 +221,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 513,
-    "updated_at": "2026-10-08T23:33:30Z",
+    "updated_at": "2026-10-09T00:34:16Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -212,7 +248,7 @@
     "language": "Python",
     "name": "luetzey/who2be",
     "stars": 0,
-    "updated_at": "2026-10-09T00:20:12Z",
+    "updated_at": "2026-10-09T00:39:57Z",
     "url": "https://github.com/luetzey/who2be"
   },
   {
@@ -259,15 +295,6 @@
     "stars": 53,
     "updated_at": "2026-10-08T23:08:12Z",
     "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
-  },
-  {
-    "description": "Open Source software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-10-09T00:28:34Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "An open-source CLI plus GitHub Action that prevents unsafe prompt, model, retrieval, tool, or configuration changes from",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-08T22:42:13Z",
     "url": "https://github.com/downpaymentbulbul49/plano_estudos_sre"
-  },
-  {
-    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
-    "id": "saddled-panicattack529/idea-evaluation-pipeline",
-    "language": "\u2014",
-    "name": "saddled-panicattack529/idea-evaluation-pipeline",
-    "stars": 0,
-    "updated_at": "2026-10-08T22:42:09Z",
-    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
-    "id": "korczis/prismatic-majordomus",
-    "language": "Rust",
-    "name": "korczis/prismatic-majordomus",
-    "stars": 0,
-    "updated_at": "2026-10-09T00:29:51Z",
-    "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
-    "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
-    "id": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "language": "Python",
-    "name": "redd357magnum-ship-it/-SuperAgent-Hub",
-    "stars": 2,
-    "updated_at": "2026-10-08T22:39:12Z",
-    "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
   }
 ]
