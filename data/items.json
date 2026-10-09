@@ -4,9 +4,27 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 60546,
-    "updated_at": "2026-10-09T17:44:40Z",
+    "stars": 60548,
+    "updated_at": "2026-10-09T17:59:59Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25844,
+    "updated_at": "2026-10-09T18:00:03Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11767,
+    "updated_at": "2026-10-09T17:54:26Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "OpenTelemetry Instrumentation for AI Observability",
@@ -14,8 +32,53 @@
     "language": "Python",
     "name": "Arize-ai/openinference",
     "stars": 1259,
-    "updated_at": "2026-10-09T17:44:04Z",
+    "updated_at": "2026-10-09T17:53:11Z",
     "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
+    "id": "maks3201/decision-model-operator",
+    "language": "Go",
+    "name": "maks3201/decision-model-operator",
+    "stars": 1,
+    "updated_at": "2026-10-09T17:53:46Z",
+    "url": "https://github.com/maks3201/decision-model-operator"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 515,
+    "updated_at": "2026-10-09T17:54:12Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22473,
+    "updated_at": "2026-10-09T17:54:14Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-09T17:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8672,
+    "updated_at": "2026-10-09T17:57:21Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Production-shaped TypeScript agent runtime for pgtriage with deterministic policy, durable workflows, retrieval, and eva",
@@ -25,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-10-09T17:43:23Z",
     "url": "https://github.com/manas-maheshwari/pgtriage-agent-lab"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25844,
-    "updated_at": "2026-10-09T17:44:24Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Agentic Runtime",
@@ -59,17 +113,8 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-09T17:30:51Z",
+    "updated_at": "2026-10-09T17:51:02Z",
     "url": "https://github.com/srjn45/warden"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-09T17:30:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Kubernetes-native control plane for AI agents that work inside the tools you already use \u2014 review PRs, triage issues, ac",
@@ -81,21 +126,12 @@
     "url": "https://github.com/DominikPinsel/ainsel"
   },
   {
-    "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
-    "id": "maks3201/decision-model-operator",
-    "language": "Go",
-    "name": "maks3201/decision-model-operator",
-    "stars": 1,
-    "updated_at": "2026-10-09T17:35:14Z",
-    "url": "https://github.com/maks3201/decision-model-operator"
-  },
-  {
     "description": "Self-hosted OpenAI/Anthropic-compatible gateway: give each AI agent run a dollar budget, enforced before the provider, w",
     "id": "domondi1/inferrail",
     "language": "Python",
     "name": "domondi1/inferrail",
     "stars": 1,
-    "updated_at": "2026-10-09T17:27:59Z",
+    "updated_at": "2026-10-09T17:53:44Z",
     "url": "https://github.com/domondi1/inferrail"
   },
   {
@@ -112,7 +148,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 35573,
+    "stars": 35572,
     "updated_at": "2026-10-09T17:26:14Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -133,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-10-09T17:21:40Z",
     "url": "https://github.com/veerarakesh56/warden"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22474,
-    "updated_at": "2026-10-09T17:44:06Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -243,15 +270,6 @@
     "url": "https://github.com/Ad-Astra-Computing/aer"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11768,
-    "updated_at": "2026-10-09T16:54:26Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
     "id": "Root1V/prometheus-inference-platform",
     "language": "Python",
@@ -311,7 +329,7 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 5,
-    "updated_at": "2026-10-09T17:20:56Z",
+    "updated_at": "2026-10-09T17:57:17Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
@@ -338,7 +356,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1360,
-    "updated_at": "2026-10-09T17:22:51Z",
+    "updated_at": "2026-10-09T17:55:47Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -365,17 +383,8 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 83,
-    "updated_at": "2026-10-09T16:54:12Z",
+    "updated_at": "2026-10-09T17:54:13Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8672,
-    "updated_at": "2026-10-09T17:44:53Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Sovereign enterprise RAG & analytics platform \u2014 role-scoped persona intelligence, hybrid retrieval (Dense BGE-M3 + BM25 ",
@@ -400,8 +409,8 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 30475,
-    "updated_at": "2026-10-09T16:04:34Z",
+    "stars": 30474,
+    "updated_at": "2026-10-09T17:55:56Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -412,15 +421,6 @@
     "stars": 1,
     "updated_at": "2026-10-09T16:04:01Z",
     "url": "https://github.com/sauravbhattacharya001/prompt"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 515,
-    "updated_at": "2026-10-09T16:24:14Z",
-    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "Open-source LLM migration and regression testing for AI agents. Compare models, detect tool-call regressions, and gate m",
@@ -445,7 +445,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 28331,
+    "stars": 28328,
     "updated_at": "2026-10-09T15:51:43Z",
     "url": "https://github.com/mlflow/mlflow"
   }
