@@ -1,5 +1,86 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60438,
+    "updated_at": "2026-10-09T10:57:05Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open Source software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-10-09T10:55:46Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Running LLM agents against real users, real data and real money",
+    "id": "redikultsev/awesome-agents-in-production",
+    "language": "\u2014",
+    "name": "redikultsev/awesome-agents-in-production",
+    "stars": 0,
+    "updated_at": "2026-10-09T10:55:41Z",
+    "url": "https://github.com/redikultsev/awesome-agents-in-production"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "language": "Go",
+    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-10-09T10:53:57Z",
+    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 83,
+    "updated_at": "2026-10-09T10:58:51Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25838,
+    "updated_at": "2026-10-09T10:53:26Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "AgentFox: open-source control plane for AI agents. Guardrails on model traffic, tool calls bounded by capability grants,",
+    "id": "architsharm/agentfox",
+    "language": "Python",
+    "name": "architsharm/agentfox",
+    "stars": 3,
+    "updated_at": "2026-10-09T10:48:28Z",
+    "url": "https://github.com/architsharm/agentfox"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22471,
+    "updated_at": "2026-10-09T10:46:30Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-09T10:45:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
     "id": "SourceShift/mini-ork",
     "language": "Python",
@@ -9,22 +90,13 @@
     "url": "https://github.com/SourceShift/mini-ork"
   },
   {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 83,
-    "updated_at": "2026-10-09T10:42:20Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60437,
-    "updated_at": "2026-10-09T10:41:51Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8838,
+    "updated_at": "2026-10-09T10:51:09Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O",
@@ -59,7 +131,7 @@
     "language": "Python",
     "name": "tap222/assay-evals",
     "stars": 14,
-    "updated_at": "2026-10-09T10:38:05Z",
+    "updated_at": "2026-10-09T10:59:39Z",
     "url": "https://github.com/tap222/assay-evals"
   },
   {
@@ -86,7 +158,7 @@
     "language": "Go",
     "name": "maks3201/decision-model-operator",
     "stars": 0,
-    "updated_at": "2026-10-09T10:35:14Z",
+    "updated_at": "2026-10-09T10:52:37Z",
     "url": "https://github.com/maks3201/decision-model-operator"
   },
   {
@@ -97,15 +169,6 @@
     "stars": 9,
     "updated_at": "2026-10-09T10:31:19Z",
     "url": "https://github.com/liaosiliangCodeLife/harness-mate-plat"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-09T10:30:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Hard budget enforcement for Claude Code tool calls \u2014 PreToolUse gating, AI-agent cost control, Cycles usage metering, an",
@@ -153,15 +216,6 @@
     "url": "https://github.com/luetzey/who2be"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25838,
-    "updated_at": "2026-10-09T10:36:27Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
     "id": "a-novel/service-genai",
     "language": "Go",
@@ -203,7 +257,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8667,
-    "updated_at": "2026-10-09T10:42:51Z",
+    "updated_at": "2026-10-09T10:49:30Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -221,7 +275,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1359,
-    "updated_at": "2026-10-09T10:38:58Z",
+    "updated_at": "2026-10-09T10:56:30Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -232,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-10-09T10:07:37Z",
     "url": "https://github.com/toxicwind/ranch"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "language": "Go",
-    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "stars": 1,
-    "updated_at": "2026-10-09T10:40:26Z",
-    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
   },
   {
     "description": "Resource providers for pragma-os. Manage cloud infrastructure, AI agents, knowledge bases, pipelines, and workflows.",
@@ -266,7 +311,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 2130,
-    "updated_at": "2026-10-09T10:26:48Z",
+    "updated_at": "2026-10-09T10:54:26Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -338,7 +383,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-09T10:32:30Z",
+    "updated_at": "2026-10-09T10:53:30Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 53,
     "updated_at": "2026-10-09T09:25:28Z",
     "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
-  },
-  {
-    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
-    "id": "dynamiq-ai/dynamiq",
-    "language": "Python",
-    "name": "dynamiq-ai/dynamiq",
-    "stars": 1071,
-    "updated_at": "2026-10-09T09:26:19Z",
-    "url": "https://github.com/dynamiq-ai/dynamiq"
-  },
-  {
-    "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
-    "id": "Guruexpl8276/LLM_Inference_Lab",
-    "language": "Python",
-    "name": "Guruexpl8276/LLM_Inference_Lab",
-    "stars": 0,
-    "updated_at": "2026-10-09T09:21:38Z",
-    "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
-  },
-  {
-    "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
-    "id": "Fauniethermal3522/agentic-dart",
-    "language": "Python",
-    "name": "Fauniethermal3522/agentic-dart",
-    "stars": 1,
-    "updated_at": "2026-10-09T09:19:52Z",
-    "url": "https://github.com/Fauniethermal3522/agentic-dart"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8839,
-    "updated_at": "2026-10-09T10:43:58Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Source-available operating layer for governed AI applications \u2014 reuse policy, authority, evidence, execution, and recove",
-    "id": "jakbuczarnecki/intergrax",
-    "language": "Python",
-    "name": "jakbuczarnecki/intergrax",
-    "stars": 4,
-    "updated_at": "2026-10-09T10:05:44Z",
-    "url": "https://github.com/jakbuczarnecki/intergrax"
   }
 ]
