@@ -1,12 +1,75 @@
 [
   {
+    "description": "Mission SDK \u2014 the developer boundary over the ReDevOps Mission Runtime (author, validate, explain a governed MissionProg",
+    "id": "redevops-io/mission-sdk",
+    "language": "Python",
+    "name": "redevops-io/mission-sdk",
+    "stars": 0,
+    "updated_at": "2026-10-09T01:28:34Z",
+    "url": "https://github.com/redevops-io/mission-sdk"
+  },
+  {
     "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
     "id": "TAIPANBOX/tokenfuse",
     "language": "Rust",
     "name": "TAIPANBOX/tokenfuse",
     "stars": 1,
-    "updated_at": "2026-10-09T01:15:16Z",
+    "updated_at": "2026-10-09T01:26:42Z",
     "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
+    "id": "empiredestroyer/AI-Prompt-Enhancer",
+    "language": "\u2014",
+    "name": "empiredestroyer/AI-Prompt-Enhancer",
+    "stars": 2,
+    "updated_at": "2026-10-09T01:26:25Z",
+    "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2930,
+    "updated_at": "2026-10-09T01:24:30Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
+    "language": "Python",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 53,
+    "updated_at": "2026-10-09T01:24:58Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
+    "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
+    "id": "Kakz/prometheus-llm",
+    "language": "Python",
+    "name": "Kakz/prometheus-llm",
+    "stars": 6,
+    "updated_at": "2026-10-09T01:24:02Z",
+    "url": "https://github.com/Kakz/prometheus-llm"
+  },
+  {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-10-09T01:22:46Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28317,
+    "updated_at": "2026-10-09T01:26:09Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
@@ -14,8 +77,53 @@
     "language": "Python",
     "name": "redevops-io/agentic-os",
     "stars": 2,
-    "updated_at": "2026-10-09T01:11:34Z",
+    "updated_at": "2026-10-09T01:20:52Z",
     "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 40,
+    "updated_at": "2026-10-09T01:19:13Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "\u7aef\u5230\u7aef\u667a\u80fd\u4f53\u5e73\u53f0\uff1a\u628a\u672c\u673a\u7684 AI Agent \u53d8\u6210\u4eba\u4eba\u53ef\u7528\u7684 Web \u4ea7\u54c1\uff08Vue 3 + Flask + Go WS \u7f51\u5173 + Docker \u90e8\u7f72\uff09",
+    "id": "liaosiliangCodeLife/harness-mate-plat",
+    "language": "Python",
+    "name": "liaosiliangCodeLife/harness-mate-plat",
+    "stars": 4,
+    "updated_at": "2026-10-09T01:17:48Z",
+    "url": "https://github.com/liaosiliangCodeLife/harness-mate-plat"
+  },
+  {
+    "description": "Open Source software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-10-09T01:19:28Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35538,
+    "updated_at": "2026-10-09T01:15:50Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-09T01:15:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "MaxKB4j is an open-source LLMOps platform for LLM workflow applications and RAG developed based on the Java language. Th",
@@ -23,7 +131,7 @@
     "language": "Java",
     "name": "taishan666/MaxKB4j",
     "stars": 135,
-    "updated_at": "2026-10-09T01:11:32Z",
+    "updated_at": "2026-10-09T01:25:36Z",
     "url": "https://github.com/taishan666/MaxKB4j"
   },
   {
@@ -41,7 +149,7 @@
     "language": "Python",
     "name": "pom11/hscc",
     "stars": 6,
-    "updated_at": "2026-10-09T01:08:22Z",
+    "updated_at": "2026-10-09T01:28:21Z",
     "url": "https://github.com/pom11/hscc"
   },
   {
@@ -50,7 +158,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25820,
-    "updated_at": "2026-10-09T01:14:39Z",
+    "updated_at": "2026-10-09T01:29:10Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -68,7 +176,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 60395,
-    "updated_at": "2026-10-09T01:11:46Z",
+    "updated_at": "2026-10-09T01:30:30Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -79,24 +187,6 @@
     "stars": 0,
     "updated_at": "2026-10-09T01:03:06Z",
     "url": "https://github.com/Peter-A-P/model-selection-tenth-cost"
-  },
-  {
-    "description": "Enterprise Scale AIFactory (esml) - on Azure",
-    "id": "jostrm/azure-enterprise-scale-ml",
-    "language": "Python",
-    "name": "jostrm/azure-enterprise-scale-ml",
-    "stars": 53,
-    "updated_at": "2026-10-09T01:10:12Z",
-    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-09T01:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Top AI Agent Development Platform (Opensource)  Star if you like it! ",
@@ -115,24 +205,6 @@
     "stars": 3,
     "updated_at": "2026-10-09T00:54:31Z",
     "url": "https://github.com/architsharm/agentfox"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28317,
-    "updated_at": "2026-10-09T00:54:38Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Open Source software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-10-09T01:07:34Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "Open-source platform for building multi-agent systems. Compose agents into pipelines, give them knowledge search, sandbo",
@@ -176,17 +248,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11762,
-    "updated_at": "2026-10-09T00:41:00Z",
+    "updated_at": "2026-10-09T01:25:06Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 40,
-    "updated_at": "2026-10-09T00:33:49Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
     "description": "Playbook pr\u00e1tico para estruturar, governar e evoluir Centros de Excel\u00eancia em IA (AI CoE), com artigo principal, artefat",
@@ -225,6 +288,15 @@
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
+    "description": "Self-hosted AI Agents Platform supporting Claude Code, Codex, Gemini agents. Apache 2.0.  ",
+    "id": "Abilityai/trinity",
+    "language": "Python",
+    "name": "Abilityai/trinity",
+    "stars": 633,
+    "updated_at": "2026-10-09T00:17:18Z",
+    "url": "https://github.com/Abilityai/trinity"
+  },
+  {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
     "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "language": "Go",
@@ -248,7 +320,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 83,
-    "updated_at": "2026-10-09T00:38:51Z",
+    "updated_at": "2026-10-09T01:30:16Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -266,7 +338,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-09T00:26:33Z",
+    "updated_at": "2026-10-09T01:27:29Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -279,21 +351,12 @@
     "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
-    "description": "\u7aef\u5230\u7aef\u667a\u80fd\u4f53\u5e73\u53f0\uff1a\u628a\u672c\u673a\u7684 AI Agent \u53d8\u6210\u4eba\u4eba\u53ef\u7528\u7684 Web \u4ea7\u54c1\uff08Vue 3 + Flask + Go WS \u7f51\u5173 + Docker \u90e8\u7f72\uff09",
-    "id": "liaosiliangCodeLife/harness-mate-plat",
-    "language": "Python",
-    "name": "liaosiliangCodeLife/harness-mate-plat",
-    "stars": 4,
-    "updated_at": "2026-10-08T23:51:43Z",
-    "url": "https://github.com/liaosiliangCodeLife/harness-mate-plat"
-  },
-  {
     "description": "Proyecto de investigaci\u00f3n y desarrollo de software orientado a detectar, localizar y explicar regresiones conductuales e",
     "id": "kapumota/ProvRegress",
     "language": "Python",
     "name": "kapumota/ProvRegress",
     "stars": 0,
-    "updated_at": "2026-10-09T01:10:38Z",
+    "updated_at": "2026-10-09T01:18:28Z",
     "url": "https://github.com/kapumota/ProvRegress"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-08T22:58:30Z",
     "url": "https://github.com/Rickettsiayorkshirefog4963/still2rig-psd"
-  },
-  {
-    "description": "Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability ",
-    "id": "santiag6001/llm-engineering-platform",
-    "language": "Python",
-    "name": "santiag6001/llm-engineering-platform",
-    "stars": 1,
-    "updated_at": "2026-10-08T22:55:07Z",
-    "url": "https://github.com/santiag6001/llm-engineering-platform"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-10-08T22:54:46Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Track human movement in real-time using LiteRT.js and Three.js for browser-based 3D character animation without server d",
-    "id": "Frayagronomist166/LiteRT.js-Mocap",
-    "language": "\u2014",
-    "name": "Frayagronomist166/LiteRT.js-Mocap",
-    "stars": 1,
-    "updated_at": "2026-10-08T22:54:16Z",
-    "url": "https://github.com/Frayagronomist166/LiteRT.js-Mocap"
-  },
-  {
-    "description": "Route LLM requests through a self-hosted, OpenAI-compatible gateway for local projects and team workflows.",
-    "id": "Soilbuilding-libraryroutine78/Gozar",
-    "language": "Python",
-    "name": "Soilbuilding-libraryroutine78/Gozar",
-    "stars": 0,
-    "updated_at": "2026-10-08T22:53:50Z",
-    "url": "https://github.com/Soilbuilding-libraryroutine78/Gozar"
-  },
-  {
-    "description": "Generate business emails locally using Python, Streamlit, and Ollama with this production-ready desktop application.",
-    "id": "wordmiddling872/AI_Email_Generator",
-    "language": "Python",
-    "name": "wordmiddling872/AI_Email_Generator",
-    "stars": 1,
-    "updated_at": "2026-10-08T22:53:50Z",
-    "url": "https://github.com/wordmiddling872/AI_Email_Generator"
-  },
-  {
-    "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
-    "id": "Karinaclastic11/Drip-Lite-Client",
-    "language": "\u2014",
-    "name": "Karinaclastic11/Drip-Lite-Client",
-    "stars": 1,
-    "updated_at": "2026-10-08T22:52:34Z",
-    "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
-  },
-  {
-    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
-    "id": "burakdede/lorepack",
-    "language": "TypeScript",
-    "name": "burakdede/lorepack",
-    "stars": 3,
-    "updated_at": "2026-10-09T00:08:52Z",
-    "url": "https://github.com/burakdede/lorepack"
   }
 ]
