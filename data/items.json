@@ -1,12 +1,12 @@
 [
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60581,
-    "updated_at": "2026-10-09T19:59:49Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-09T20:14:48Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -14,8 +14,116 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11766,
-    "updated_at": "2026-10-09T19:59:57Z",
+    "updated_at": "2026-10-09T20:14:20Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-09T20:14:50Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-10-09T20:12:11Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "Provider-agnostic framework for high-throughput LLM processing with async workers, automatic retries, rate limiting, and",
+    "id": "geoff-davis/async-batch-llm",
+    "language": "Python",
+    "name": "geoff-davis/async-batch-llm",
+    "stars": 1,
+    "updated_at": "2026-10-09T20:14:27Z",
+    "url": "https://github.com/geoff-davis/async-batch-llm"
+  },
+  {
+    "description": "Turn Claude into a context-aware red team operator with 78 drop-in offensive security skills across 23 categories.",
+    "id": "urellai22/Claude-Red",
+    "language": "Python",
+    "name": "urellai22/Claude-Red",
+    "stars": 0,
+    "updated_at": "2026-10-09T20:07:06Z",
+    "url": "https://github.com/urellai22/Claude-Red"
+  },
+  {
+    "description": "The execution control plane for AI agents. Govern every model request, MCP tool call, A2A delegation, and downstream act",
+    "id": "GetBusbar/busbar",
+    "language": "Rust",
+    "name": "GetBusbar/busbar",
+    "stars": 176,
+    "updated_at": "2026-10-09T20:06:23Z",
+    "url": "https://github.com/GetBusbar/busbar"
+  },
+  {
+    "description": "Standardize computer-use agents, sandboxes, data, evaluation, SFT, and RL across desktop, browser, and mobile with one u",
+    "id": "justanotheruser82174/cua-lite",
+    "language": "Python",
+    "name": "justanotheruser82174/cua-lite",
+    "stars": 0,
+    "updated_at": "2026-10-09T20:05:16Z",
+    "url": "https://github.com/justanotheruser82174/cua-lite"
+  },
+  {
+    "description": "Retrieve multilingual visual documents with ultra-compact token embeddings from this Qwen3.5-4B-powered ColPali engine.",
+    "id": "Satisfiable-polopony613/EVIE-Preview-4.5B",
+    "language": "Python",
+    "name": "Satisfiable-polopony613/EVIE-Preview-4.5B",
+    "stars": 2,
+    "updated_at": "2026-10-09T20:04:31Z",
+    "url": "https://github.com/Satisfiable-polopony613/EVIE-Preview-4.5B"
+  },
+  {
+    "description": "Build and evaluate production-ready RAG pipelines with hands-on notebooks, templates, and proven performance strategies.",
+    "id": "ashrafb8962/agentic-ops-and-rag",
+    "language": "Jupyter Notebook",
+    "name": "ashrafb8962/agentic-ops-and-rag",
+    "stars": 0,
+    "updated_at": "2026-10-09T20:03:13Z",
+    "url": "https://github.com/ashrafb8962/agentic-ops-and-rag"
+  },
+  {
+    "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
+    "id": "maks3201/decision-model-operator",
+    "language": "Go",
+    "name": "maks3201/decision-model-operator",
+    "stars": 1,
+    "updated_at": "2026-10-09T20:02:30Z",
+    "url": "https://github.com/maks3201/decision-model-operator"
+  },
+  {
+    "description": "Manage AI model access with a secure gateway featuring load balancing, rate limiting, and audit trails for OpenAI, Groq,",
+    "id": "sargentfragrant429/AgentAccessManager",
+    "language": "\u2014",
+    "name": "sargentfragrant429/AgentAccessManager",
+    "stars": 0,
+    "updated_at": "2026-10-09T20:02:29Z",
+    "url": "https://github.com/sargentfragrant429/AgentAccessManager"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60584,
+    "updated_at": "2026-10-09T20:14:20Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-09T20:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -23,7 +131,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25846,
-    "updated_at": "2026-10-09T19:59:17Z",
+    "updated_at": "2026-10-09T20:12:53Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -34,24 +142,6 @@
     "stars": 0,
     "updated_at": "2026-10-09T19:57:25Z",
     "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-09T19:57:13Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "Provider-agnostic framework for high-throughput LLM processing with async workers, automatic retries, rate limiting, and",
-    "id": "geoff-davis/async-batch-llm",
-    "language": "Python",
-    "name": "geoff-davis/async-batch-llm",
-    "stars": 1,
-    "updated_at": "2026-10-09T19:56:57Z",
-    "url": "https://github.com/geoff-davis/async-batch-llm"
   },
   {
     "description": "OpenTelemetry Instrumentation for AI Observability",
@@ -70,15 +160,6 @@
     "stars": 804,
     "updated_at": "2026-10-09T19:56:15Z",
     "url": "https://github.com/iblai/os"
-  },
-  {
-    "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
-    "id": "maks3201/decision-model-operator",
-    "language": "Go",
-    "name": "maks3201/decision-model-operator",
-    "stars": 1,
-    "updated_at": "2026-10-09T19:56:55Z",
-    "url": "https://github.com/maks3201/decision-model-operator"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -112,7 +193,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 8427,
+    "stars": 8428,
     "updated_at": "2026-10-09T19:53:10Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -124,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-10-09T19:53:08Z",
     "url": "https://github.com/Yacine-ai-tech/RAGeval"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-09T19:52:57Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O",
@@ -158,7 +230,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-10-09T19:52:37Z",
+    "updated_at": "2026-10-09T20:14:06Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -230,7 +302,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 85,
-    "updated_at": "2026-10-09T19:49:03Z",
+    "updated_at": "2026-10-09T20:08:35Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -277,15 +349,6 @@
     "stars": 29,
     "updated_at": "2026-10-09T19:45:37Z",
     "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-09T19:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source capture SDK for AI agents \u2014 records model and tool calls to build golden suites for LLM migration and regres",
@@ -351,15 +414,6 @@
     "url": "https://github.com/matiaslanza99/SuperStore.SalesDashboard"
   },
   {
-    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-10-09T19:35:48Z",
-    "url": "https://github.com/veerarakesh56/warden"
-  },
-  {
     "description": "Client packages for AER: the flight recorder for AI agents",
     "id": "Ad-Astra-Computing/aer",
     "language": "TypeScript",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-09T19:34:29Z",
     "url": "https://github.com/evalshift/evalshift-action"
-  },
-  {
-    "description": "Open-source LLM migration and regression testing for AI agents. Compare models, detect tool-call regressions, and gate m",
-    "id": "evalshift/evalshift-cli",
-    "language": "Python",
-    "name": "evalshift/evalshift-cli",
-    "stars": 5,
-    "updated_at": "2026-10-09T19:34:01Z",
-    "url": "https://github.com/evalshift/evalshift-cli"
-  },
-  {
-    "description": "\ud83d\ude80 Expose your LangChain agents as services with zero configuration; turn scripts into web services using simple wrappers",
-    "id": "Lukaa1507/langchain-runner",
-    "language": "Python",
-    "name": "Lukaa1507/langchain-runner",
-    "stars": 1,
-    "updated_at": "2026-10-09T19:33:04Z",
-    "url": "https://github.com/Lukaa1507/langchain-runner"
-  },
-  {
-    "description": "Commented SHIP? Full briefs for 3 pile-two AI engineering projects: LLM Ops, Agent Evals, Auto Routing. What to build, w",
-    "id": "rasswanth-lyzr/ship-ai-projects",
-    "language": "\u2014",
-    "name": "rasswanth-lyzr/ship-ai-projects",
-    "stars": 0,
-    "updated_at": "2026-10-09T19:31:38Z",
-    "url": "https://github.com/rasswanth-lyzr/ship-ai-projects"
-  },
-  {
-    "description": "Generate, preserve, and verify lean AGENTS.md, RUNBOOK.md, and machine-readable repo context for AI coding agents.",
-    "id": "markoblogo/AGENTS.md_generator",
-    "language": "Python",
-    "name": "markoblogo/AGENTS.md_generator",
-    "stars": 5,
-    "updated_at": "2026-10-09T19:28:18Z",
-    "url": "https://github.com/markoblogo/AGENTS.md_generator"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8673,
-    "updated_at": "2026-10-09T19:51:45Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Open-source replay and evidence infrastructure for AI agents. Capture runs as portable Run Capsules for replay, diff, li",
-    "id": "MSKazemi/novafabric",
-    "language": "Python",
-    "name": "MSKazemi/novafabric",
-    "stars": 6,
-    "updated_at": "2026-10-09T19:25:46Z",
-    "url": "https://github.com/MSKazemi/novafabric"
   }
 ]
