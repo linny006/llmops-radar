@@ -1,5 +1,59 @@
 [
   {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-10-09T22:13:43Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 29,
+    "updated_at": "2026-10-09T22:11:42Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60618,
+    "updated_at": "2026-10-09T22:14:37Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-09T22:04:56Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Change your AI agent without fear \u2014 see exactly what broke before it ships. Runs in CI in seconds; deterministic, no LLM",
+    "id": "theo-ai-lab/plimsoll",
+    "language": "Python",
+    "name": "theo-ai-lab/plimsoll",
+    "stars": 0,
+    "updated_at": "2026-10-09T22:00:39Z",
+    "url": "https://github.com/theo-ai-lab/plimsoll"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-09T22:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Turn Claude into a context-aware red team operator with 78 drop-in offensive security skills across 23 categories.",
     "id": "urellai22/Claude-Red",
     "language": "Python",
@@ -14,7 +68,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11766,
-    "updated_at": "2026-10-09T21:59:49Z",
+    "updated_at": "2026-10-09T22:14:07Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -32,7 +86,7 @@
     "language": "Go",
     "name": "kelvran/gateway",
     "stars": 0,
-    "updated_at": "2026-10-09T21:58:49Z",
+    "updated_at": "2026-10-09T22:08:27Z",
     "url": "https://github.com/kelvran/gateway"
   },
   {
@@ -50,7 +104,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-10-09T21:56:30Z",
+    "updated_at": "2026-10-09T22:10:29Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -61,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-10-09T21:56:46Z",
     "url": "https://github.com/PalenaAI/palena-litellm-pseudonymizer"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60615,
-    "updated_at": "2026-10-09T21:59:29Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Build and evaluate production-ready RAG pipelines with hands-on notebooks, templates, and proven performance strategies.",
@@ -135,15 +180,6 @@
     "url": "https://github.com/Fauniethermal3522/agentic-dart"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-09T21:48:24Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
     "id": "retardingforcerightbank635/dm-gateway-bot",
     "language": "Python",
@@ -180,15 +216,6 @@
     "url": "https://github.com/wordenneapolitan768/llm-pricing"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-09T21:45:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
     "id": "Orlyoxidized462/py-prompt-versioner",
     "language": "Python",
@@ -223,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-10-09T21:42:56Z",
     "url": "https://github.com/Citrous-districtline59/agent-trace"
-  },
-  {
-    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-10-09T21:44:20Z",
-    "url": "https://github.com/veerarakesh56/warden"
   },
   {
     "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
@@ -338,7 +356,7 @@
     "language": "Python",
     "name": "pom11/hscc",
     "stars": 6,
-    "updated_at": "2026-10-09T21:26:11Z",
+    "updated_at": "2026-10-09T22:07:04Z",
     "url": "https://github.com/pom11/hscc"
   },
   {
@@ -374,7 +392,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25847,
-    "updated_at": "2026-10-09T21:59:09Z",
+    "updated_at": "2026-10-09T22:11:02Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -410,7 +428,7 @@
     "language": "Python",
     "name": "Arize-ai/openinference",
     "stars": 1259,
-    "updated_at": "2026-10-09T21:44:43Z",
+    "updated_at": "2026-10-09T22:02:35Z",
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-09T21:49:08Z",
     "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 87,
-    "updated_at": "2026-10-09T21:53:10Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-10-09T21:03:43Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
   }
 ]
