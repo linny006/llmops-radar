@@ -1,5 +1,95 @@
 [
   {
+    "description": "Playbook pr\u00e1tico para estruturar, governar e evoluir Centros de Excel\u00eancia em IA (AI CoE), com artigo principal, artefat",
+    "id": "EdneiMonteiro/ai-coe-playbook",
+    "language": "HTML",
+    "name": "EdneiMonteiro/ai-coe-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-09T02:44:37Z",
+    "url": "https://github.com/EdneiMonteiro/ai-coe-playbook"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-09T02:43:40Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60397,
+    "updated_at": "2026-10-09T02:44:46Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Multi-agent financial research: news \u2192 RAG \u2192 BUY/HOLD/PASS \u2192 downside-risk gate \u2192 local LLMOps summary",
+    "id": "Alpha-W0lf/alphaguard",
+    "language": "Python",
+    "name": "Alpha-W0lf/alphaguard",
+    "stars": 0,
+    "updated_at": "2026-10-09T02:41:10Z",
+    "url": "https://github.com/Alpha-W0lf/alphaguard"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25823,
+    "updated_at": "2026-10-09T02:43:58Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Proyecto de investigaci\u00f3n y desarrollo de software orientado a detectar, localizar y explicar regresiones conductuales e",
+    "id": "kapumota/ProvRegress",
+    "language": "Python",
+    "name": "kapumota/ProvRegress",
+    "stars": 0,
+    "updated_at": "2026-10-09T02:38:01Z",
+    "url": "https://github.com/kapumota/ProvRegress"
+  },
+  {
+    "description": "Top AI Agent Development Platform (Opensource)  Star if you like it! ",
+    "id": "ishandutta2007/Awesome-AI-Agent-Development-Platform",
+    "language": "\u2014",
+    "name": "ishandutta2007/Awesome-AI-Agent-Development-Platform",
+    "stars": 0,
+    "updated_at": "2026-10-09T02:34:37Z",
+    "url": "https://github.com/ishandutta2007/Awesome-AI-Agent-Development-Platform"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-09T02:40:51Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-10-09T02:31:33Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-09T02:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Mission SDK \u2014 the developer boundary over the ReDevOps Mission Runtime (author, validate, explain a governed MissionProg",
     "id": "redevops-io/mission-sdk",
     "language": "Python",
@@ -16,42 +106,6 @@
     "stars": 11762,
     "updated_at": "2026-10-09T02:29:55Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60396,
-    "updated_at": "2026-10-09T02:30:11Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-10-09T02:30:20Z",
-    "url": "https://github.com/redevops-io/agentic-os"
-  },
-  {
-    "description": "Top AI Agent Development Platform (Opensource)  Star if you like it! ",
-    "id": "ishandutta2007/Awesome-AI-Agent-Development-Platform",
-    "language": "\u2014",
-    "name": "ishandutta2007/Awesome-AI-Agent-Development-Platform",
-    "stars": 0,
-    "updated_at": "2026-10-09T02:25:51Z",
-    "url": "https://github.com/ishandutta2007/Awesome-AI-Agent-Development-Platform"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25822,
-    "updated_at": "2026-10-09T02:29:49Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
@@ -81,21 +135,12 @@
     "url": "https://github.com/architsharm/agentfox"
   },
   {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-09T02:23:41Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
     "description": "Open Source software factory.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-10-09T02:18:36Z",
+    "updated_at": "2026-10-09T02:40:43Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -115,15 +160,6 @@
     "stars": 5879,
     "updated_at": "2026-10-09T02:17:34Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-09T02:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Convert static anime images into structured, QA-checked PSDs with Codex, Colab GPU, and built-in motion preview.",
@@ -221,7 +257,7 @@
     "language": "Python",
     "name": "tap222/assay-evals",
     "stars": 13,
-    "updated_at": "2026-10-09T02:24:41Z",
+    "updated_at": "2026-10-09T02:32:09Z",
     "url": "https://github.com/tap222/assay-evals"
   },
   {
@@ -286,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-10-09T01:54:18Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-09T01:53:42Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Build and manage AI agents to automate data research, track markets, and run multi-agent workflows with an open-source f",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-09T01:26:25Z",
     "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
-  },
-  {
-    "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
-    "id": "Kakz/prometheus-llm",
-    "language": "Python",
-    "name": "Kakz/prometheus-llm",
-    "stars": 6,
-    "updated_at": "2026-10-09T01:24:02Z",
-    "url": "https://github.com/Kakz/prometheus-llm"
-  },
-  {
-    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
-    "id": "tenemos/langwatch",
-    "language": "TypeScript",
-    "name": "tenemos/langwatch",
-    "stars": 2,
-    "updated_at": "2026-10-09T01:22:46Z",
-    "url": "https://github.com/tenemos/langwatch"
-  },
-  {
-    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 40,
-    "updated_at": "2026-10-09T01:49:57Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
   }
 ]
