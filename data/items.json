@@ -1,30 +1,39 @@
 [
   {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 29,
+    "updated_at": "2026-10-09T13:29:36Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25841,
+    "updated_at": "2026-10-09T13:28:24Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
     "stars": 8408,
-    "updated_at": "2026-10-09T13:13:03Z",
+    "updated_at": "2026-10-09T13:28:21Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
+    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60477,
-    "updated_at": "2026-10-09T13:15:15Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 83,
-    "updated_at": "2026-10-09T13:12:40Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
+    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
+    "stars": 3,
+    "updated_at": "2026-10-09T13:28:17Z",
+    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
   },
   {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
@@ -32,8 +41,134 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 35568,
-    "updated_at": "2026-10-09T13:13:15Z",
+    "updated_at": "2026-10-09T13:29:59Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "\ud83d\ude80 Expose your LangChain agents as services with zero configuration; turn scripts into web services using simple wrappers",
+    "id": "Lukaa1507/langchain-runner",
+    "language": "Python",
+    "name": "Lukaa1507/langchain-runner",
+    "stars": 1,
+    "updated_at": "2026-10-09T13:26:39Z",
+    "url": "https://github.com/Lukaa1507/langchain-runner"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-09T13:30:06Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Guardrails for speech-to-text in production: catches the AI's confident mistakes before a client sees them, and removes ",
+    "id": "Guillain-RDCDE/Trusted-Transcription",
+    "language": "Python",
+    "name": "Guillain-RDCDE/Trusted-Transcription",
+    "stars": 0,
+    "updated_at": "2026-10-09T13:24:30Z",
+    "url": "https://github.com/Guillain-RDCDE/Trusted-Transcription"
+  },
+  {
+    "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
+    "id": "maks3201/decision-model-operator",
+    "language": "Go",
+    "name": "maks3201/decision-model-operator",
+    "stars": 0,
+    "updated_at": "2026-10-09T13:24:30Z",
+    "url": "https://github.com/maks3201/decision-model-operator"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28325,
+    "updated_at": "2026-10-09T13:23:08Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11768,
+    "updated_at": "2026-10-09T13:22:29Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-10-09T13:22:18Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60484,
+    "updated_at": "2026-10-09T13:21:45Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2934,
+    "updated_at": "2026-10-09T13:20:22Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O",
+    "id": "kelvran/gateway",
+    "language": "Go",
+    "name": "kelvran/gateway",
+    "stars": 0,
+    "updated_at": "2026-10-09T13:20:25Z",
+    "url": "https://github.com/kelvran/gateway"
+  },
+  {
+    "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
+    "id": "Amz34/awesome-agent-infrastructure",
+    "language": "Python",
+    "name": "Amz34/awesome-agent-infrastructure",
+    "stars": 0,
+    "updated_at": "2026-10-09T13:18:58Z",
+    "url": "https://github.com/Amz34/awesome-agent-infrastructure"
+  },
+  {
+    "description": "Behavioral regression testing for AI apps and agents: pytest plugin, behavior diff, CI gate, and document extraction met",
+    "id": "tap222/assay-evals",
+    "language": "Python",
+    "name": "tap222/assay-evals",
+    "stars": 14,
+    "updated_at": "2026-10-09T13:15:57Z",
+    "url": "https://github.com/tap222/assay-evals"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-09T13:15:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 83,
+    "updated_at": "2026-10-09T13:25:23Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
@@ -41,7 +176,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 514,
-    "updated_at": "2026-10-09T13:10:06Z",
+    "updated_at": "2026-10-09T13:20:11Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -63,31 +198,13 @@
     "url": "https://github.com/JoniMartin27/lookspan"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28325,
-    "updated_at": "2026-10-09T13:07:17Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
     "id": "AixleHQ/flow",
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 21,
-    "updated_at": "2026-10-09T13:05:04Z",
+    "updated_at": "2026-10-09T13:17:19Z",
     "url": "https://github.com/AixleHQ/flow"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-09T13:14:33Z",
-    "url": "https://github.com/vocion/vocion-core"
   },
   {
     "description": "Agent Memory Health Monitor \u2014 scan AI agent memory stores for rot, contradictions, and duplicates",
@@ -97,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-10-09T13:04:21Z",
     "url": "https://github.com/yunaremaia/memwatch"
-  },
-  {
-    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-10-09T13:04:18Z",
-    "url": "https://github.com/veerarakesh56/warden"
   },
   {
     "description": "Compare LLMs on cost, speed, energy, carbon, and water. Built on AWS Bedrock, LiteLLM, and FastAPI.",
@@ -126,15 +234,6 @@
     "url": "https://github.com/scttfrdmn/hf-bedrock-map"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2934,
-    "updated_at": "2026-10-09T13:01:22Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
     "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "language": "Go",
@@ -142,24 +241,6 @@
     "stars": 1,
     "updated_at": "2026-10-09T13:01:15Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-09T13:00:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25840,
-    "updated_at": "2026-10-09T13:13:17Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "RAG assistant over enterprise-style regulatory data that answers vehicle safety questions from NHTSA recall and complain",
@@ -194,7 +275,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 182,
-    "updated_at": "2026-10-09T12:50:16Z",
+    "updated_at": "2026-10-09T13:24:42Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -203,26 +284,8 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8669,
-    "updated_at": "2026-10-09T12:59:06Z",
+    "updated_at": "2026-10-09T13:29:26Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Guardrails for speech-to-text in production: catches the AI's confident mistakes before a client sees them, and removes ",
-    "id": "Guillain-RDCDE/Trusted-Transcription",
-    "language": "Python",
-    "name": "Guillain-RDCDE/Trusted-Transcription",
-    "stars": 0,
-    "updated_at": "2026-10-09T12:47:40Z",
-    "url": "https://github.com/Guillain-RDCDE/Trusted-Transcription"
-  },
-  {
-    "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
-    "id": "maks3201/decision-model-operator",
-    "language": "Go",
-    "name": "maks3201/decision-model-operator",
-    "stars": 0,
-    "updated_at": "2026-10-09T13:11:50Z",
-    "url": "https://github.com/maks3201/decision-model-operator"
   },
   {
     "description": "Build self-improving AI agent harnesses with portable harness units, artifact-aware testing, trace-backed diagnosis, and",
@@ -306,15 +369,6 @@
     "url": "https://github.com/burakdede/lorepack"
   },
   {
-    "description": "Behavioral regression testing for AI apps and agents: pytest plugin, behavior diff, CI gate, and document extraction met",
-    "id": "tap222/assay-evals",
-    "language": "Python",
-    "name": "tap222/assay-evals",
-    "stars": 14,
-    "updated_at": "2026-10-09T13:10:27Z",
-    "url": "https://github.com/tap222/assay-evals"
-  },
-  {
     "description": "An open-source CLI plus GitHub Action that prevents unsafe prompt, model, retrieval, tool, or configuration changes from",
     "id": "Chris0Jeky/llm-release-gate",
     "language": "Python",
@@ -331,15 +385,6 @@
     "stars": 9,
     "updated_at": "2026-10-09T12:17:44Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 29,
-    "updated_at": "2026-10-09T12:14:53Z",
-    "url": "https://github.com/SourceShift/mini-ork"
   },
   {
     "description": "Mission SDK \u2014 the developer boundary over the ReDevOps Mission Runtime (author, validate, explain a governed MissionProg",
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-09T11:54:18Z",
     "url": "https://github.com/yunaremaia/agentcost"
-  },
-  {
-    "description": "A self-updating, auto-classified map of the GenAI engineering stack: agents, MCP, memory, RAG, evals, LLMOps, AI securit",
-    "id": "alebgl77/awesome-ai-architect",
-    "language": "Python",
-    "name": "alebgl77/awesome-ai-architect",
-    "stars": 0,
-    "updated_at": "2026-10-09T11:53:17Z",
-    "url": "https://github.com/alebgl77/awesome-ai-architect"
-  },
-  {
-    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
-    "id": "TAIPANBOX/tokenfuse",
-    "language": "Rust",
-    "name": "TAIPANBOX/tokenfuse",
-    "stars": 1,
-    "updated_at": "2026-10-09T11:51:40Z",
-    "url": "https://github.com/TAIPANBOX/tokenfuse"
-  },
-  {
-    "description": "Build, Manage and Deploy AI/ML Systems",
-    "id": "Netflix/metaflow",
-    "language": "Python",
-    "name": "Netflix/metaflow",
-    "stars": 10299,
-    "updated_at": "2026-10-09T12:44:32Z",
-    "url": "https://github.com/Netflix/metaflow"
-  },
-  {
-    "description": "Open-source replay and evidence infrastructure for AI agents. Capture runs as portable Run Capsules for replay, diff, li",
-    "id": "MSKazemi/novafabric",
-    "language": "Python",
-    "name": "MSKazemi/novafabric",
-    "stars": 6,
-    "updated_at": "2026-10-09T11:46:32Z",
-    "url": "https://github.com/MSKazemi/novafabric"
-  },
-  {
-    "description": "Enterprise Scale AIFactory (esml) - on Azure",
-    "id": "jostrm/azure-enterprise-scale-ml",
-    "language": "Python",
-    "name": "jostrm/azure-enterprise-scale-ml",
-    "stars": 53,
-    "updated_at": "2026-10-09T12:26:15Z",
-    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
   }
 ]
