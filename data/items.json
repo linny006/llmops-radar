@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "SourceShift/mini-ork",
     "stars": 29,
-    "updated_at": "2026-10-09T10:29:22Z",
+    "updated_at": "2026-10-09T10:44:27Z",
     "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 83,
+    "updated_at": "2026-10-09T10:42:20Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60437,
+    "updated_at": "2026-10-09T10:41:51Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O",
+    "id": "kelvran/gateway",
+    "language": "Go",
+    "name": "kelvran/gateway",
+    "stars": 0,
+    "updated_at": "2026-10-09T10:42:17Z",
+    "url": "https://github.com/kelvran/gateway"
+  },
+  {
+    "description": "An open-source CLI plus GitHub Action that prevents unsafe prompt, model, retrieval, tool, or configuration changes from",
+    "id": "Chris0Jeky/llm-release-gate",
+    "language": "Python",
+    "name": "Chris0Jeky/llm-release-gate",
+    "stars": 0,
+    "updated_at": "2026-10-09T10:38:50Z",
+    "url": "https://github.com/Chris0Jeky/llm-release-gate"
+  },
+  {
+    "description": "Daily CI-refreshed history of LLM API pricing \u2014 snapshot + append-only change log for ~2,500 chat models (CSV, CC BY 4.0",
+    "id": "sophie-nguyenthuthuy/llm-pricing-history",
+    "language": "Python",
+    "name": "sophie-nguyenthuthuy/llm-pricing-history",
+    "stars": 1,
+    "updated_at": "2026-10-09T10:38:30Z",
+    "url": "https://github.com/sophie-nguyenthuthuy/llm-pricing-history"
   },
   {
     "description": "Behavioral regression testing for AI apps and agents: pytest plugin, behavior diff, CI gate, and document extraction met",
@@ -14,8 +59,53 @@
     "language": "Python",
     "name": "tap222/assay-evals",
     "stars": 14,
-    "updated_at": "2026-10-09T10:28:23Z",
+    "updated_at": "2026-10-09T10:38:05Z",
     "url": "https://github.com/tap222/assay-evals"
+  },
+  {
+    "description": "Radicalbit AI Gateway",
+    "id": "radicalbit/radicalbit-ai-gateway",
+    "language": "Python",
+    "name": "radicalbit/radicalbit-ai-gateway",
+    "stars": 71,
+    "updated_at": "2026-10-09T10:38:51Z",
+    "url": "https://github.com/radicalbit/radicalbit-ai-gateway"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28321,
+    "updated_at": "2026-10-09T10:36:32Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
+    "id": "maks3201/decision-model-operator",
+    "language": "Go",
+    "name": "maks3201/decision-model-operator",
+    "stars": 0,
+    "updated_at": "2026-10-09T10:35:14Z",
+    "url": "https://github.com/maks3201/decision-model-operator"
+  },
+  {
+    "description": "\u7aef\u5230\u7aef\u667a\u80fd\u4f53\u5e73\u53f0\uff1a\u628a\u672c\u673a\u7684 AI Agent \u53d8\u6210\u4eba\u4eba\u53ef\u7528\u7684 Web \u4ea7\u54c1\uff08Vue 3 + Flask + Go WS \u7f51\u5173 + Docker \u90e8\u7f72\uff09",
+    "id": "liaosiliangCodeLife/harness-mate-plat",
+    "language": "Python",
+    "name": "liaosiliangCodeLife/harness-mate-plat",
+    "stars": 9,
+    "updated_at": "2026-10-09T10:31:19Z",
+    "url": "https://github.com/liaosiliangCodeLife/harness-mate-plat"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-09T10:30:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Hard budget enforcement for Claude Code tool calls \u2014 PreToolUse gating, AI-agent cost control, Cycles usage metering, an",
@@ -54,15 +144,6 @@
     "url": "https://github.com/Ad-Astra-Computing/aer"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60436,
-    "updated_at": "2026-10-09T10:30:10Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
     "id": "luetzey/who2be",
     "language": "Python",
@@ -77,7 +158,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25838,
-    "updated_at": "2026-10-09T10:28:48Z",
+    "updated_at": "2026-10-09T10:36:27Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -113,7 +194,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 514,
-    "updated_at": "2026-10-09T10:16:09Z",
+    "updated_at": "2026-10-09T10:43:50Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -122,17 +203,8 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8667,
-    "updated_at": "2026-10-09T10:22:45Z",
+    "updated_at": "2026-10-09T10:42:51Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-09T10:15:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
@@ -140,7 +212,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 35563,
-    "updated_at": "2026-10-09T10:30:11Z",
+    "updated_at": "2026-10-09T10:43:22Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -149,7 +221,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1359,
-    "updated_at": "2026-10-09T10:27:30Z",
+    "updated_at": "2026-10-09T10:38:58Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -167,7 +239,7 @@
     "language": "Go",
     "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "stars": 1,
-    "updated_at": "2026-10-09T10:29:52Z",
+    "updated_at": "2026-10-09T10:40:26Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
   },
   {
@@ -216,24 +288,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28321,
-    "updated_at": "2026-10-09T10:27:37Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "An open-source CLI plus GitHub Action that prevents unsafe prompt, model, retrieval, tool, or configuration changes from",
-    "id": "Chris0Jeky/llm-release-gate",
-    "language": "Python",
-    "name": "Chris0Jeky/llm-release-gate",
-    "stars": 0,
-    "updated_at": "2026-10-09T10:14:46Z",
-    "url": "https://github.com/Chris0Jeky/llm-release-gate"
-  },
-  {
     "description": "Open-source replay and evidence infrastructure for AI agents. Capture runs as portable Run Capsules for replay, diff, li",
     "id": "MSKazemi/novafabric",
     "language": "Python",
@@ -241,15 +295,6 @@
     "stars": 6,
     "updated_at": "2026-10-09T10:04:28Z",
     "url": "https://github.com/MSKazemi/novafabric"
-  },
-  {
-    "description": "Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O",
-    "id": "kelvran/gateway",
-    "language": "Go",
-    "name": "kelvran/gateway",
-    "stars": 0,
-    "updated_at": "2026-10-09T09:49:35Z",
-    "url": "https://github.com/kelvran/gateway"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
@@ -279,15 +324,6 @@
     "url": "https://github.com/burakdede/lorepack"
   },
   {
-    "description": "Radicalbit AI Gateway",
-    "id": "radicalbit/radicalbit-ai-gateway",
-    "language": "Python",
-    "name": "radicalbit/radicalbit-ai-gateway",
-    "stars": 71,
-    "updated_at": "2026-10-09T10:10:59Z",
-    "url": "https://github.com/radicalbit/radicalbit-ai-gateway"
-  },
-  {
     "description": "AI Agent \u7ba1\u7ebf\u53ef\u9760\u6027\u64cd\u4f5c\u7cfb\u7edf \u2014\u300cAgent \u7ba1\u7f16\uff0c\u95f8\u95e8\u7ba1\u4fe1\u300d\uff1a\u4e00\u53e5\u8bdd\u9700\u6c42 \u2192 \u81ea\u52a8 Agent \u56e2\u961f \u2192 \u6bcf\u6b65\u9a8c\u8bc1\u62e6\u622a \u2192 \u5b9a\u5411\u56de\u73af\u81ea\u6108",
     "id": "zw-onemaker-ai/agent_gate",
     "language": "Python",
@@ -297,21 +333,12 @@
     "url": "https://github.com/zw-onemaker-ai/agent_gate"
   },
   {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 83,
-    "updated_at": "2026-10-09T10:23:42Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
     "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
     "id": "korczis/prismatic-majordomus",
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-09T10:11:22Z",
+    "updated_at": "2026-10-09T10:32:30Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -331,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-10-09T09:31:35Z",
     "url": "https://github.com/urellai22/Claude-Red"
-  },
-  {
-    "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
-    "id": "maks3201/decision-model-operator",
-    "language": "Go",
-    "name": "maks3201/decision-model-operator",
-    "stars": 0,
-    "updated_at": "2026-10-09T10:26:05Z",
-    "url": "https://github.com/maks3201/decision-model-operator"
   },
   {
     "description": "Standardize computer-use agents, sandboxes, data, evaluation, SFT, and RL across desktop, browser, and mobile with one u",
@@ -419,7 +437,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8839,
-    "updated_at": "2026-10-09T10:26:52Z",
+    "updated_at": "2026-10-09T10:43:58Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-09T10:05:44Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
-  },
-  {
-    "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
-    "id": "retardingforcerightbank635/dm-gateway-bot",
-    "language": "Python",
-    "name": "retardingforcerightbank635/dm-gateway-bot",
-    "stars": 0,
-    "updated_at": "2026-10-09T09:18:21Z",
-    "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
-  },
-  {
-    "description": "Open-source, self-hosted LLM observability built on OpenTelemetry",
-    "id": "antonij-tracium/tracium",
-    "language": "Go",
-    "name": "antonij-tracium/tracium",
-    "stars": 1,
-    "updated_at": "2026-10-09T09:17:00Z",
-    "url": "https://github.com/antonij-tracium/tracium"
   }
 ]
