@@ -1,12 +1,48 @@
 [
   {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-09T22:44:30Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-09T22:43:58Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 1,
+    "updated_at": "2026-10-09T22:43:29Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 60625,
-    "updated_at": "2026-10-09T22:29:40Z",
+    "stars": 60628,
+    "updated_at": "2026-10-09T22:45:22Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 515,
+    "updated_at": "2026-10-09T22:40:58Z",
+    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "Enterprise Scale AIFactory (esml) - on Azure",
@@ -14,8 +50,35 @@
     "language": "Python",
     "name": "jostrm/azure-enterprise-scale-ml",
     "stars": 53,
-    "updated_at": "2026-10-09T22:29:04Z",
+    "updated_at": "2026-10-09T22:36:19Z",
     "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25847,
+    "updated_at": "2026-10-09T22:36:32Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O",
+    "id": "kelvran/gateway",
+    "language": "Go",
+    "name": "kelvran/gateway",
+    "stars": 0,
+    "updated_at": "2026-10-09T22:43:32Z",
+    "url": "https://github.com/kelvran/gateway"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-09T22:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
@@ -41,7 +104,7 @@
     "language": "Rust",
     "name": "bosun-ai/swiftide",
     "stars": 789,
-    "updated_at": "2026-10-09T22:19:49Z",
+    "updated_at": "2026-10-09T22:31:18Z",
     "url": "https://github.com/bosun-ai/swiftide"
   },
   {
@@ -52,15 +115,6 @@
     "stars": 2,
     "updated_at": "2026-10-09T22:26:43Z",
     "url": "https://github.com/redevops-io/agentic-os"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-09T22:18:19Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -81,15 +135,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-09T22:15:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
     "id": "SourceShift/mini-ork",
     "language": "Python",
@@ -97,15 +142,6 @@
     "stars": 29,
     "updated_at": "2026-10-09T22:11:42Z",
     "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 515,
-    "updated_at": "2026-10-09T22:29:51Z",
-    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "Change your AI agent without fear \u2014 see exactly what broke before it ships. Runs in CI in seconds; deterministic, no LLM",
@@ -135,15 +171,6 @@
     "url": "https://github.com/justanotheruser82174/cua-lite"
   },
   {
-    "description": "Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O",
-    "id": "kelvran/gateway",
-    "language": "Go",
-    "name": "kelvran/gateway",
-    "stars": 0,
-    "updated_at": "2026-10-09T22:08:27Z",
-    "url": "https://github.com/kelvran/gateway"
-  },
-  {
     "description": "Retrieve multilingual visual documents with ultra-compact token embeddings from this Qwen3.5-4B-powered ColPali engine.",
     "id": "Satisfiable-polopony613/EVIE-Preview-4.5B",
     "language": "Python",
@@ -158,7 +185,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-10-09T22:29:01Z",
+    "updated_at": "2026-10-09T22:41:55Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-09T21:13:06Z",
     "url": "https://github.com/Chris0Jeky/agent-harness"
-  },
-  {
-    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
-    "id": "Lo3okSky/LLM_course",
-    "language": "Jupyter Notebook",
-    "name": "Lo3okSky/LLM_course",
-    "stars": 3,
-    "updated_at": "2026-10-09T21:12:54Z",
-    "url": "https://github.com/Lo3okSky/LLM_course"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25847,
-    "updated_at": "2026-10-09T22:30:24Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "AI-powered desktop localization for game mods: Paradox games and Surviving Mars: Relaunched, with RimWorld and Project Z",
-    "id": "Drlinglong/Remis",
-    "language": "Python",
-    "name": "Drlinglong/Remis",
-    "stars": 28,
-    "updated_at": "2026-10-09T21:12:17Z",
-    "url": "https://github.com/Drlinglong/Remis"
   }
 ]
