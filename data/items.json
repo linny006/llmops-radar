@@ -1,5 +1,77 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60546,
+    "updated_at": "2026-10-09T17:44:40Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1259,
+    "updated_at": "2026-10-09T17:44:04Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "Production-shaped TypeScript agent runtime for pgtriage with deterministic policy, durable workflows, retrieval, and eva",
+    "id": "manas-maheshwari/pgtriage-agent-lab",
+    "language": "TypeScript",
+    "name": "manas-maheshwari/pgtriage-agent-lab",
+    "stars": 0,
+    "updated_at": "2026-10-09T17:43:23Z",
+    "url": "https://github.com/manas-maheshwari/pgtriage-agent-lab"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25844,
+    "updated_at": "2026-10-09T17:44:24Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-09T17:38:48Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 1,
+    "updated_at": "2026-10-09T17:31:52Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
+    "id": "srjn45/warden",
+    "language": "Go",
+    "name": "srjn45/warden",
+    "stars": 2,
+    "updated_at": "2026-10-09T17:30:51Z",
+    "url": "https://github.com/srjn45/warden"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-09T17:30:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Kubernetes-native control plane for AI agents that work inside the tools you already use \u2014 review PRs, triage issues, ac",
     "id": "DominikPinsel/ainsel",
     "language": "Go",
@@ -14,17 +86,8 @@
     "language": "Go",
     "name": "maks3201/decision-model-operator",
     "stars": 1,
-    "updated_at": "2026-10-09T17:28:43Z",
+    "updated_at": "2026-10-09T17:35:14Z",
     "url": "https://github.com/maks3201/decision-model-operator"
-  },
-  {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1259,
-    "updated_at": "2026-10-09T17:29:02Z",
-    "url": "https://github.com/Arize-ai/openinference"
   },
   {
     "description": "Self-hosted OpenAI/Anthropic-compatible gateway: give each AI agent run a dollar budget, enforced before the provider, w",
@@ -49,18 +112,9 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 35576,
+    "stars": 35573,
     "updated_at": "2026-10-09T17:26:14Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60544,
-    "updated_at": "2026-10-09T17:29:16Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
@@ -86,7 +140,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22474,
-    "updated_at": "2026-10-09T17:30:12Z",
+    "updated_at": "2026-10-09T17:44:06Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -108,24 +162,6 @@
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
-    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
-    "id": "srjn45/warden",
-    "language": "Go",
-    "name": "srjn45/warden",
-    "stars": 2,
-    "updated_at": "2026-10-09T17:22:33Z",
-    "url": "https://github.com/srjn45/warden"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-09T17:15:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Governed MCP runtime & dynamic tool execution platform \u2014 dynamic tool packs, typed effects (read/write/destructive), cry",
     "id": "Yacine-ai-tech/AgentKit",
     "language": "Python",
@@ -140,17 +176,8 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-09T17:21:30Z",
+    "updated_at": "2026-10-09T17:45:05Z",
     "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25843,
-    "updated_at": "2026-10-09T17:30:17Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "SpecGuard is a command-line tool that turns AI safety policies and behavioral guidelines into executable tests. Think of",
@@ -315,15 +342,6 @@
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-09T16:29:57Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "AI platform reference architecture for LLM serving on Kubernetes, with reliability, observability, failure testing, and ",
     "id": "asadhanif3188/InferOps",
     "language": "Python",
@@ -356,7 +374,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8672,
-    "updated_at": "2026-10-09T16:18:50Z",
+    "updated_at": "2026-10-09T17:44:53Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -382,7 +400,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 30476,
+    "stars": 30475,
     "updated_at": "2026-10-09T16:04:34Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -430,23 +448,5 @@
     "stars": 28331,
     "updated_at": "2026-10-09T15:51:43Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Deterministic guardrails for AI agents \u2014 the LLM proposes, your rules dispose. A sub-microsecond, JIT-compiled rule engi",
-    "id": "Ordo-Engine/Ordo",
-    "language": "Rust",
-    "name": "Ordo-Engine/Ordo",
-    "stars": 38,
-    "updated_at": "2026-10-09T15:49:50Z",
-    "url": "https://github.com/Ordo-Engine/Ordo"
-  },
-  {
-    "description": "LLM spend tracking and budgets for Rails \u2014 by user, feature, or any tag, in your own database, no proxy.",
-    "id": "sergey-homenko/llm_cost_tracker",
-    "language": "Ruby",
-    "name": "sergey-homenko/llm_cost_tracker",
-    "stars": 44,
-    "updated_at": "2026-10-09T16:19:09Z",
-    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
   }
 ]
