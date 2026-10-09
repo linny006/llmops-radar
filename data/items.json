@@ -1,12 +1,39 @@
 [
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35560,
-    "updated_at": "2026-10-09T08:44:32Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "description": "AI Agent \u7ba1\u7ebf\u53ef\u9760\u6027\u64cd\u4f5c\u7cfb\u7edf \u2014\u300cAgent \u7ba1\u7f16\uff0c\u95f8\u95e8\u7ba1\u4fe1\u300d\uff1a\u4e00\u53e5\u8bdd\u9700\u6c42 \u2192 \u81ea\u52a8 Agent \u56e2\u961f \u2192 \u6bcf\u6b65\u9a8c\u8bc1\u62e6\u622a \u2192 \u5b9a\u5411\u56de\u73af\u81ea\u6108",
+    "id": "zw-onemaker-ai/agent_gate",
+    "language": "Python",
+    "name": "zw-onemaker-ai/agent_gate",
+    "stars": 1,
+    "updated_at": "2026-10-09T09:00:38Z",
+    "url": "https://github.com/zw-onemaker-ai/agent_gate"
+  },
+  {
+    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
+    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
+    "language": "Python",
+    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
+    "stars": 3,
+    "updated_at": "2026-10-09T09:00:04Z",
+    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 182,
+    "updated_at": "2026-10-09T08:58:56Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "\ud83d\ude80 Expose your LangChain agents as services with zero configuration; turn scripts into web services using simple wrappers",
+    "id": "Lukaa1507/langchain-runner",
+    "language": "Python",
+    "name": "Lukaa1507/langchain-runner",
+    "stars": 1,
+    "updated_at": "2026-10-09T08:58:27Z",
+    "url": "https://github.com/Lukaa1507/langchain-runner"
   },
   {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
@@ -14,8 +41,107 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 514,
-    "updated_at": "2026-10-09T08:43:58Z",
+    "updated_at": "2026-10-09T08:59:27Z",
     "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35561,
+    "updated_at": "2026-10-09T09:00:25Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 83,
+    "updated_at": "2026-10-09T08:58:59Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Radicalbit AI Gateway",
+    "id": "radicalbit/radicalbit-ai-gateway",
+    "language": "Python",
+    "name": "radicalbit/radicalbit-ai-gateway",
+    "stars": 71,
+    "updated_at": "2026-10-09T08:58:58Z",
+    "url": "https://github.com/radicalbit/radicalbit-ai-gateway"
+  },
+  {
+    "description": "\ud83d\udeaa Governance gate for AI agents. Enforce policies before deployment: request contracts, operational safeguards, identity",
+    "id": "VamsiSudhakaran1/release-gate",
+    "language": "Python",
+    "name": "VamsiSudhakaran1/release-gate",
+    "stars": 3,
+    "updated_at": "2026-10-09T08:55:44Z",
+    "url": "https://github.com/VamsiSudhakaran1/release-gate"
+  },
+  {
+    "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
+    "id": "maks3201/decision-model-operator",
+    "language": "Go",
+    "name": "maks3201/decision-model-operator",
+    "stars": 0,
+    "updated_at": "2026-10-09T08:55:51Z",
+    "url": "https://github.com/maks3201/decision-model-operator"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60423,
+    "updated_at": "2026-10-09T08:59:56Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O",
+    "id": "kelvran/gateway",
+    "language": "Go",
+    "name": "kelvran/gateway",
+    "stars": 0,
+    "updated_at": "2026-10-09T08:50:18Z",
+    "url": "https://github.com/kelvran/gateway"
+  },
+  {
+    "description": "Token usage tracker for multi-agent AI sessions",
+    "id": "yunaremaia/agentcost",
+    "language": "Python",
+    "name": "yunaremaia/agentcost",
+    "stars": 2,
+    "updated_at": "2026-10-09T08:49:01Z",
+    "url": "https://github.com/yunaremaia/agentcost"
+  },
+  {
+    "description": "Local-first agent communication matrix for Claude, Gemini, OpenCode and ACP/A2A agents: multi-agent orchestration, agent",
+    "id": "Josepavese/matrix",
+    "language": "Go",
+    "name": "Josepavese/matrix",
+    "stars": 0,
+    "updated_at": "2026-10-09T08:47:44Z",
+    "url": "https://github.com/Josepavese/matrix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-09T08:45:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-09T08:44:51Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
@@ -27,29 +153,11 @@
     "url": "https://github.com/Lo3okSky/LLM_course"
   },
   {
-    "description": "Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O",
-    "id": "kelvran/gateway",
-    "language": "Go",
-    "name": "kelvran/gateway",
-    "stars": 0,
-    "updated_at": "2026-10-09T08:42:19Z",
-    "url": "https://github.com/kelvran/gateway"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60422,
-    "updated_at": "2026-10-09T08:44:33Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 8661,
+    "stars": 8662,
     "updated_at": "2026-10-09T08:39:56Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -59,7 +167,7 @@
     "language": "Python",
     "name": "tap222/assay-evals",
     "stars": 14,
-    "updated_at": "2026-10-09T08:37:33Z",
+    "updated_at": "2026-10-09T08:58:42Z",
     "url": "https://github.com/tap222/assay-evals"
   },
   {
@@ -72,21 +180,12 @@
     "url": "https://github.com/ZhengjunSun/telecom-log-agent"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-09T08:30:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25834,
-    "updated_at": "2026-10-09T08:41:51Z",
+    "updated_at": "2026-10-09T08:59:11Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -149,26 +248,8 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-10-09T08:15:14Z",
+    "updated_at": "2026-10-09T08:50:07Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "\ud83d\udeaa Governance gate for AI agents. Enforce policies before deployment: request contracts, operational safeguards, identity",
-    "id": "VamsiSudhakaran1/release-gate",
-    "language": "Python",
-    "name": "VamsiSudhakaran1/release-gate",
-    "stars": 3,
-    "updated_at": "2026-10-09T08:14:14Z",
-    "url": "https://github.com/VamsiSudhakaran1/release-gate"
-  },
-  {
-    "description": "Local-first agent communication matrix for Claude, Gemini, OpenCode and ACP/A2A agents: multi-agent orchestration, agent",
-    "id": "Josepavese/matrix",
-    "language": "Go",
-    "name": "Josepavese/matrix",
-    "stars": 0,
-    "updated_at": "2026-10-09T08:18:50Z",
-    "url": "https://github.com/Josepavese/matrix"
   },
   {
     "description": "OpenLIT is the open-source agent harness engineering platform: trace, evaluate, guard, and improve everything around the",
@@ -185,17 +266,8 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 2130,
-    "updated_at": "2026-10-09T08:42:25Z",
+    "updated_at": "2026-10-09T08:59:44Z",
     "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 83,
-    "updated_at": "2026-10-09T08:35:37Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
@@ -205,15 +277,6 @@
     "stars": 40,
     "updated_at": "2026-10-09T08:08:17Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "AI Agent \u7ba1\u7ebf\u53ef\u9760\u6027\u64cd\u4f5c\u7cfb\u7edf \u2014\u300cAgent \u7ba1\u7f16\uff0c\u95f8\u95e8\u7ba1\u4fe1\u300d\uff1a\u4e00\u53e5\u8bdd\u9700\u6c42 \u2192 \u81ea\u52a8 Agent \u56e2\u961f \u2192 \u6bcf\u6b65\u9a8c\u8bc1\u62e6\u622a \u2192 \u5b9a\u5411\u56de\u73af\u81ea\u6108",
-    "id": "zw-onemaker-ai/agent_gate",
-    "language": "Python",
-    "name": "zw-onemaker-ai/agent_gate",
-    "stars": 1,
-    "updated_at": "2026-10-09T08:04:32Z",
-    "url": "https://github.com/zw-onemaker-ai/agent_gate"
   },
   {
     "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
@@ -243,21 +306,12 @@
     "url": "https://github.com/ArtVsMark/Engineering-Incidents-Playbook"
   },
   {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 182,
-    "updated_at": "2026-10-09T08:44:20Z",
-    "url": "https://github.com/api7/aisix"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22469,
-    "updated_at": "2026-10-09T08:44:36Z",
+    "updated_at": "2026-10-09T09:00:12Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -268,6 +322,15 @@
     "stars": 2,
     "updated_at": "2026-10-09T08:02:43Z",
     "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28320,
+    "updated_at": "2026-10-09T07:53:14Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "A local-first engineering framework for governed AI services: reference architecture, patterns, standards as CI checks, ",
@@ -302,7 +365,7 @@
     "language": "Ruby",
     "name": "sergey-homenko/llm_cost_tracker",
     "stars": 44,
-    "updated_at": "2026-10-09T08:40:29Z",
+    "updated_at": "2026-10-09T08:52:11Z",
     "url": "https://github.com/sergey-homenko/llm_cost_tracker"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-09T07:31:19Z",
     "url": "https://github.com/Soilbuilding-libraryroutine78/Gozar"
-  },
-  {
-    "description": "Generate business emails locally using Python, Streamlit, and Ollama with this production-ready desktop application.",
-    "id": "wordmiddling872/AI_Email_Generator",
-    "language": "Python",
-    "name": "wordmiddling872/AI_Email_Generator",
-    "stars": 1,
-    "updated_at": "2026-10-09T07:31:13Z",
-    "url": "https://github.com/wordmiddling872/AI_Email_Generator"
-  },
-  {
-    "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
-    "id": "Karinaclastic11/Drip-Lite-Client",
-    "language": "\u2014",
-    "name": "Karinaclastic11/Drip-Lite-Client",
-    "stars": 1,
-    "updated_at": "2026-10-09T07:29:58Z",
-    "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
-  },
-  {
-    "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
-    "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "language": "\u2014",
-    "name": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "stars": 2,
-    "updated_at": "2026-10-09T07:28:49Z",
-    "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
-  },
-  {
-    "description": "Local-first operating model and spec-driven workflow framework for agentic AI teams based on KCC operating model  https:",
-    "id": "TarekFawaz/kcc-agentic-framework",
-    "language": "PowerShell",
-    "name": "TarekFawaz/kcc-agentic-framework",
-    "stars": 3,
-    "updated_at": "2026-10-09T07:28:36Z",
-    "url": "https://github.com/TarekFawaz/kcc-agentic-framework"
-  },
-  {
-    "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
-    "id": "syntactic-orleanism949/logal-rag",
-    "language": "\u2014",
-    "name": "syntactic-orleanism949/logal-rag",
-    "stars": 1,
-    "updated_at": "2026-10-09T07:26:24Z",
-    "url": "https://github.com/syntactic-orleanism949/logal-rag"
-  },
-  {
-    "description": "Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic",
-    "id": "effecterelectricalplant87/LLM",
-    "language": "\u2014",
-    "name": "effecterelectricalplant87/LLM",
-    "stars": 0,
-    "updated_at": "2026-10-09T07:23:03Z",
-    "url": "https://github.com/effecterelectricalplant87/LLM"
-  },
-  {
-    "description": "Scan AI-generated code for security, performance, and code quality issues before they ship",
-    "id": "Rosalyndfaithful716/Guardrail",
-    "language": "TypeScript",
-    "name": "Rosalyndfaithful716/Guardrail",
-    "stars": 1,
-    "updated_at": "2026-10-09T07:22:52Z",
-    "url": "https://github.com/Rosalyndfaithful716/Guardrail"
   }
 ]
