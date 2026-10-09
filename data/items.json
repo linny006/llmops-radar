@@ -1,21 +1,30 @@
 [
   {
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
+    "stars": 1,
+    "updated_at": "2026-10-09T01:15:16Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
     "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
     "id": "redevops-io/agentic-os",
     "language": "Python",
     "name": "redevops-io/agentic-os",
     "stars": 2,
-    "updated_at": "2026-10-09T00:59:43Z",
+    "updated_at": "2026-10-09T01:11:34Z",
     "url": "https://github.com/redevops-io/agentic-os"
   },
   {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 6,
-    "updated_at": "2026-10-09T00:59:29Z",
-    "url": "https://github.com/pom11/hscc"
+    "description": "MaxKB4j is an open-source LLMOps platform for LLM workflow applications and RAG developed based on the Java language. Th",
+    "id": "taishan666/MaxKB4j",
+    "language": "Java",
+    "name": "taishan666/MaxKB4j",
+    "stars": 135,
+    "updated_at": "2026-10-09T01:11:32Z",
+    "url": "https://github.com/taishan666/MaxKB4j"
   },
   {
     "description": "Genaryx: the browser control room over the TAIPANBOX agent-governance stack. Money, policy, identity, quality, crypto, m",
@@ -23,8 +32,71 @@
     "language": "Rust",
     "name": "TAIPANBOX/genaryx",
     "stars": 0,
-    "updated_at": "2026-10-09T01:00:06Z",
+    "updated_at": "2026-10-09T01:09:34Z",
     "url": "https://github.com/TAIPANBOX/genaryx"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 6,
+    "updated_at": "2026-10-09T01:08:22Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25820,
+    "updated_at": "2026-10-09T01:14:39Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Behavioral regression testing for AI apps and agents: pytest plugin, behavior diff, CI gate, and document extraction met",
+    "id": "tap222/assay-evals",
+    "language": "Python",
+    "name": "tap222/assay-evals",
+    "stars": 13,
+    "updated_at": "2026-10-09T01:10:28Z",
+    "url": "https://github.com/tap222/assay-evals"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60395,
+    "updated_at": "2026-10-09T01:11:46Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Which AI model to use, and did the new version get worse, answered with statistical confidence at a tenth of the evaluat",
+    "id": "Peter-A-P/model-selection-tenth-cost",
+    "language": "Python",
+    "name": "Peter-A-P/model-selection-tenth-cost",
+    "stars": 0,
+    "updated_at": "2026-10-09T01:03:06Z",
+    "url": "https://github.com/Peter-A-P/model-selection-tenth-cost"
+  },
+  {
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
+    "language": "Python",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 53,
+    "updated_at": "2026-10-09T01:10:12Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-09T01:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Top AI Agent Development Platform (Opensource)  Star if you like it! ",
@@ -45,33 +117,6 @@
     "url": "https://github.com/architsharm/agentfox"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60394,
-    "updated_at": "2026-10-09T01:00:18Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Enterprise Scale AIFactory (esml) - on Azure",
-    "id": "jostrm/azure-enterprise-scale-ml",
-    "language": "Python",
-    "name": "jostrm/azure-enterprise-scale-ml",
-    "stars": 53,
-    "updated_at": "2026-10-09T00:54:34Z",
-    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
-  },
-  {
-    "description": "MaxKB4j is an open-source LLMOps platform for LLM workflow applications and RAG developed based on the Java language. Th",
-    "id": "taishan666/MaxKB4j",
-    "language": "Java",
-    "name": "taishan666/MaxKB4j",
-    "stars": 135,
-    "updated_at": "2026-10-09T00:53:21Z",
-    "url": "https://github.com/taishan666/MaxKB4j"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -86,7 +131,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-10-09T00:52:48Z",
+    "updated_at": "2026-10-09T01:07:34Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -99,15 +144,6 @@
     "url": "https://github.com/sarkar4777/abenix"
   },
   {
-    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
-    "id": "TAIPANBOX/tokenfuse",
-    "language": "Rust",
-    "name": "TAIPANBOX/tokenfuse",
-    "stars": 1,
-    "updated_at": "2026-10-09T01:00:23Z",
-    "url": "https://github.com/TAIPANBOX/tokenfuse"
-  },
-  {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
     "id": "byte5ai/omadia",
     "language": "TypeScript",
@@ -117,21 +153,12 @@
     "url": "https://github.com/byte5ai/omadia"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-09T00:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
     "id": "luetzey/who2be",
     "language": "Python",
     "name": "luetzey/who2be",
     "stars": 0,
-    "updated_at": "2026-10-09T00:44:46Z",
+    "updated_at": "2026-10-09T01:04:25Z",
     "url": "https://github.com/luetzey/who2be"
   },
   {
@@ -142,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-10-09T00:37:06Z",
     "url": "https://github.com/Root1V/prometheus-inference-platform"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25820,
-    "updated_at": "2026-10-09T00:58:40Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -202,8 +220,8 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 30475,
-    "updated_at": "2026-10-09T00:17:49Z",
+    "stars": 30474,
+    "updated_at": "2026-10-09T01:09:09Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -239,7 +257,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22464,
-    "updated_at": "2026-10-09T00:32:45Z",
+    "updated_at": "2026-10-09T01:08:08Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -275,7 +293,7 @@
     "language": "Python",
     "name": "kapumota/ProvRegress",
     "stars": 0,
-    "updated_at": "2026-10-09T00:59:12Z",
+    "updated_at": "2026-10-09T01:10:38Z",
     "url": "https://github.com/kapumota/ProvRegress"
   },
   {
@@ -322,15 +340,6 @@
     "stars": 4,
     "updated_at": "2026-10-08T23:29:11Z",
     "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Which AI model to use, and did the new version get worse, answered with statistical confidence at a tenth of the evaluat",
-    "id": "Peter-A-P/model-selection-tenth-cost",
-    "language": "Python",
-    "name": "Peter-A-P/model-selection-tenth-cost",
-    "stars": 0,
-    "updated_at": "2026-10-08T23:20:50Z",
-    "url": "https://github.com/Peter-A-P/model-selection-tenth-cost"
   },
   {
     "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-09T00:08:52Z",
     "url": "https://github.com/burakdede/lorepack"
-  },
-  {
-    "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
-    "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "language": "\u2014",
-    "name": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "stars": 2,
-    "updated_at": "2026-10-08T22:50:54Z",
-    "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
   }
 ]
