@@ -1,21 +1,12 @@
 [
   {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
     "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 6,
-    "updated_at": "2026-10-09T02:58:50Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "APM for AI agents: flow maps, workflow process mining, cost & reliability metrics, and process review for LangGraph, Ope",
-    "id": "Aditya31398/agentdynamics",
-    "language": "Python",
-    "name": "Aditya31398/agentdynamics",
-    "stars": 0,
-    "updated_at": "2026-10-09T02:55:48Z",
-    "url": "https://github.com/Aditya31398/agentdynamics"
+    "name": "BerriAI/litellm",
+    "stars": 60398,
+    "updated_at": "2026-10-09T03:14:34Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Behavioral regression testing for AI apps and agents: pytest plugin, behavior diff, CI gate, and document extraction met",
@@ -23,8 +14,71 @@
     "language": "Python",
     "name": "tap222/assay-evals",
     "stars": 13,
-    "updated_at": "2026-10-09T02:55:11Z",
+    "updated_at": "2026-10-09T03:10:39Z",
     "url": "https://github.com/tap222/assay-evals"
+  },
+  {
+    "description": "APM for AI agents: flow maps, workflow process mining, cost & reliability metrics, and process review for LangGraph, Ope",
+    "id": "Aditya31398/agentdynamics",
+    "language": "Python",
+    "name": "Aditya31398/agentdynamics",
+    "stars": 0,
+    "updated_at": "2026-10-09T03:07:42Z",
+    "url": "https://github.com/Aditya31398/agentdynamics"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25825,
+    "updated_at": "2026-10-09T03:07:38Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Proyecto de investigaci\u00f3n y desarrollo de software orientado a detectar, localizar y explicar regresiones conductuales e",
+    "id": "kapumota/ProvRegress",
+    "language": "Python",
+    "name": "kapumota/ProvRegress",
+    "stars": 0,
+    "updated_at": "2026-10-09T03:12:54Z",
+    "url": "https://github.com/kapumota/ProvRegress"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 6,
+    "updated_at": "2026-10-09T03:04:19Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 1,
+    "updated_at": "2026-10-09T03:04:00Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "Open Source software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-10-09T03:15:30Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-09T03:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
@@ -36,15 +90,6 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60398,
-    "updated_at": "2026-10-09T02:58:34Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
@@ -54,13 +99,13 @@
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
     "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25824,
-    "updated_at": "2026-10-09T02:52:25Z",
-    "url": "https://github.com/promptfoo/promptfoo"
+    "name": "langfuse/langfuse",
+    "stars": 35542,
+    "updated_at": "2026-10-09T02:52:59Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -72,15 +117,6 @@
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
   },
   {
-    "description": "Open Source software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-10-09T02:52:43Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -88,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-10-09T02:47:05Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-09T02:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Playbook pr\u00e1tico para estruturar, governar e evoluir Centros de Excel\u00eancia em IA (AI CoE), com artigo principal, artefat",
@@ -124,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-09T02:41:10Z",
     "url": "https://github.com/Alpha-W0lf/alphaguard"
-  },
-  {
-    "description": "Proyecto de investigaci\u00f3n y desarrollo de software orientado a detectar, localizar y explicar regresiones conductuales e",
-    "id": "kapumota/ProvRegress",
-    "language": "Python",
-    "name": "kapumota/ProvRegress",
-    "stars": 0,
-    "updated_at": "2026-10-09T02:57:18Z",
-    "url": "https://github.com/kapumota/ProvRegress"
   },
   {
     "description": "Top AI Agent Development Platform (Opensource)  Star if you like it! ",
@@ -185,7 +203,7 @@
     "language": "Python",
     "name": "luetzey/who2be",
     "stars": 0,
-    "updated_at": "2026-10-09T02:24:28Z",
+    "updated_at": "2026-10-09T03:10:02Z",
     "url": "https://github.com/luetzey/who2be"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 28316,
     "updated_at": "2026-10-09T01:41:12Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "\ud83d\udcda Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical",
-    "id": "mviraj/KakeyaFiniteFields",
-    "language": "JavaScript",
-    "name": "mviraj/KakeyaFiniteFields",
-    "stars": 0,
-    "updated_at": "2026-10-09T01:40:17Z",
-    "url": "https://github.com/mviraj/KakeyaFiniteFields"
-  },
-  {
-    "description": "MaxKB4j is an open-source LLMOps platform for LLM workflow applications and RAG developed based on the Java language. Th",
-    "id": "taishan666/MaxKB4j",
-    "language": "Java",
-    "name": "taishan666/MaxKB4j",
-    "stars": 135,
-    "updated_at": "2026-10-09T01:30:39Z",
-    "url": "https://github.com/taishan666/MaxKB4j"
   }
 ]
