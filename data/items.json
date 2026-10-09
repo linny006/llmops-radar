@@ -1,21 +1,75 @@
 [
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-09T18:45:20Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
+    "description": "Raindrop \u2014 independent third-party profile of a public API surface, by API Evangelist. Raindrop is the monitoring and ob",
+    "id": "api-evangelist/raindrop",
+    "language": "\u2014",
+    "name": "api-evangelist/raindrop",
+    "stars": 0,
+    "updated_at": "2026-10-09T18:58:01Z",
+    "url": "https://github.com/api-evangelist/raindrop"
+  },
+  {
+    "description": "Qwak \u2014 independent third-party profile of a public API surface, by API Evangelist. Qwak is an end-to-end production mach",
+    "id": "api-evangelist/qwak",
+    "language": "\u2014",
+    "name": "api-evangelist/qwak",
+    "stars": 0,
+    "updated_at": "2026-10-09T18:57:45Z",
+    "url": "https://github.com/api-evangelist/qwak"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 60565,
-    "updated_at": "2026-10-09T18:43:05Z",
+    "stars": 60567,
+    "updated_at": "2026-10-09T19:00:11Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Catch fabricated RAG citations before they reach the user: a zero-token verbatim gate + a burden-of-proof judge, framewo",
+    "id": "tonydzi/verbatim-citation-gate",
+    "language": "Python",
+    "name": "tonydzi/verbatim-citation-gate",
+    "stars": 4,
+    "updated_at": "2026-10-09T18:56:00Z",
+    "url": "https://github.com/tonydzi/verbatim-citation-gate"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 29,
+    "updated_at": "2026-10-09T18:55:35Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Tools that produce evidence about what an AI agent actually did \u2014 gates, attestation, output verification, benchmarks. I",
+    "id": "tonydzi/awesome-verified-agents",
+    "language": "\u2014",
+    "name": "tonydzi/awesome-verified-agents",
+    "stars": 1,
+    "updated_at": "2026-10-09T18:54:42Z",
+    "url": "https://github.com/tonydzi/awesome-verified-agents"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-09T18:53:49Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Arize Phoenix \u2014 independent third-party profile of a public API surface, by API Evangelist. Arize Phoenix is an open-sou",
+    "id": "api-evangelist/phoenix",
+    "language": "\u2014",
+    "name": "api-evangelist/phoenix",
+    "stars": 0,
+    "updated_at": "2026-10-09T18:53:33Z",
+    "url": "https://github.com/api-evangelist/phoenix"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -23,8 +77,62 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25844,
-    "updated_at": "2026-10-09T18:45:01Z",
+    "updated_at": "2026-10-09T18:59:33Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "\ud83c\udf89 An awesome & curated list of best LLMOps tools.",
+    "id": "InftyAI/Awesome-LLMOps",
+    "language": "Python",
+    "name": "InftyAI/Awesome-LLMOps",
+    "stars": 265,
+    "updated_at": "2026-10-09T18:53:08Z",
+    "url": "https://github.com/InftyAI/Awesome-LLMOps"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-10-09T18:51:19Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Opik \u2014 independent third-party profile of a public API surface, by API Evangelist. Opik is an open-source LLM evaluation",
+    "id": "api-evangelist/opik",
+    "language": "\u2014",
+    "name": "api-evangelist/opik",
+    "stars": 0,
+    "updated_at": "2026-10-09T18:50:24Z",
+    "url": "https://github.com/api-evangelist/opik"
+  },
+  {
+    "description": "One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod",
+    "id": "valteresj2/agent-hangar",
+    "language": "Python",
+    "name": "valteresj2/agent-hangar",
+    "stars": 3,
+    "updated_at": "2026-10-09T18:47:21Z",
+    "url": "https://github.com/valteresj2/agent-hangar"
+  },
+  {
+    "description": "GitHub Action for LLM migration and regression testing \u2014 runs your golden suite on every PR and fails the check on model",
+    "id": "evalshift/evalshift-action",
+    "language": "Python",
+    "name": "evalshift/evalshift-action",
+    "stars": 0,
+    "updated_at": "2026-10-09T18:45:56Z",
+    "url": "https://github.com/evalshift/evalshift-action"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-09T18:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Curated list of open-source LLMOps tools: tracing, evals, AI gateways, guardrails and prompt management. Sorted by stars",
@@ -63,15 +171,6 @@
     "url": "https://github.com/veerarakesh56/warden"
   },
   {
-    "description": "One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod",
-    "id": "valteresj2/agent-hangar",
-    "language": "Python",
-    "name": "valteresj2/agent-hangar",
-    "stars": 3,
-    "updated_at": "2026-10-09T18:34:16Z",
-    "url": "https://github.com/valteresj2/agent-hangar"
-  },
-  {
     "description": "Open-source capture SDK for AI agents \u2014 records model and tool calls to build golden suites for LLM migration and regres",
     "id": "evalshift/evalshift-sdk",
     "language": "Python",
@@ -90,21 +189,12 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-09T18:30:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11766,
-    "updated_at": "2026-10-09T18:29:59Z",
+    "updated_at": "2026-10-09T18:49:51Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -113,7 +203,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8673,
-    "updated_at": "2026-10-09T18:39:56Z",
+    "updated_at": "2026-10-09T18:54:17Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -131,7 +221,7 @@
     "language": "Python",
     "name": "Arize-ai/openinference",
     "stars": 1259,
-    "updated_at": "2026-10-09T18:27:12Z",
+    "updated_at": "2026-10-09T18:59:40Z",
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
@@ -142,15 +232,6 @@
     "stars": 6,
     "updated_at": "2026-10-09T18:26:06Z",
     "url": "https://github.com/MSKazemi/novafabric"
-  },
-  {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 29,
-    "updated_at": "2026-10-09T18:25:23Z",
-    "url": "https://github.com/SourceShift/mini-ork"
   },
   {
     "description": "Sovereign enterprise RAG & analytics platform \u2014 role-scoped persona intelligence, hybrid retrieval (Dense BGE-M3 + BM25 ",
@@ -175,7 +256,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 35572,
+    "stars": 35573,
     "updated_at": "2026-10-09T18:22:37Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -230,7 +311,7 @@
     "language": "Go",
     "name": "maks3201/decision-model-operator",
     "stars": 1,
-    "updated_at": "2026-10-09T18:41:19Z",
+    "updated_at": "2026-10-09T18:49:20Z",
     "url": "https://github.com/maks3201/decision-model-operator"
   },
   {
@@ -241,6 +322,15 @@
     "stars": 515,
     "updated_at": "2026-10-09T18:41:14Z",
     "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8839,
+    "updated_at": "2026-10-09T18:11:57Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Agenta \u2014 independent third-party profile of a public API surface, by API Evangelist. Agenta is an open-source LLMOps pla",
@@ -293,7 +383,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 84,
-    "updated_at": "2026-10-09T17:54:13Z",
+    "updated_at": "2026-10-09T18:58:31Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -320,7 +410,7 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-09T17:51:02Z",
+    "updated_at": "2026-10-09T18:56:30Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-09T17:13:30Z",
     "url": "https://github.com/Yacine-ai-tech/AgentKit"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-09T17:45:05Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "SpecGuard is a command-line tool that turns AI safety policies and behavioral guidelines into executable tests. Think of",
-    "id": "Tarunjit45/SpecGuard",
-    "language": "Python",
-    "name": "Tarunjit45/SpecGuard",
-    "stars": 1,
-    "updated_at": "2026-10-09T17:07:27Z",
-    "url": "https://github.com/Tarunjit45/SpecGuard"
-  },
-  {
-    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
-    "id": "korczis/prismatic-majordomus",
-    "language": "Rust",
-    "name": "korczis/prismatic-majordomus",
-    "stars": 0,
-    "updated_at": "2026-10-09T18:39:35Z",
-    "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
-    "description": "ModelPulse helps maintain model reliability and performance by providing early warning signals for these issues, allowin",
-    "id": "Tarunjit45/ModelPulse",
-    "language": "Python",
-    "name": "Tarunjit45/ModelPulse",
-    "stars": 1,
-    "updated_at": "2026-10-09T16:55:43Z",
-    "url": "https://github.com/Tarunjit45/ModelPulse"
-  },
-  {
-    "description": "Client packages for AER: the flight recorder for AI agents",
-    "id": "Ad-Astra-Computing/aer",
-    "language": "TypeScript",
-    "name": "Ad-Astra-Computing/aer",
-    "stars": 0,
-    "updated_at": "2026-10-09T16:55:22Z",
-    "url": "https://github.com/Ad-Astra-Computing/aer"
-  },
-  {
-    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
-    "id": "Root1V/prometheus-inference-platform",
-    "language": "Python",
-    "name": "Root1V/prometheus-inference-platform",
-    "stars": 1,
-    "updated_at": "2026-10-09T16:53:59Z",
-    "url": "https://github.com/Root1V/prometheus-inference-platform"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-09T16:52:56Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "ChainWatch is a flight data recorder for multi-step AI systems. It's a CLI-based tool that records every step in an AI d",
-    "id": "Tarunjit45/ChainWatch",
-    "language": "Python",
-    "name": "Tarunjit45/ChainWatch",
-    "stars": 1,
-    "updated_at": "2026-10-09T16:49:57Z",
-    "url": "https://github.com/Tarunjit45/ChainWatch"
-  },
-  {
-    "description": "Local-first Rust CI guard for environment drift and AI prompt output contracts.",
-    "id": "sidsri14/driftguard",
-    "language": "Rust",
-    "name": "sidsri14/driftguard",
-    "stars": 0,
-    "updated_at": "2026-10-09T16:45:34Z",
-    "url": "https://github.com/sidsri14/driftguard"
-  },
-  {
-    "description": "A deterministic linter for agent runs \u2014 reads the execution trace and flags structural bugs (ignored errors, schema viol",
-    "id": "AshwinUgale/tracelint",
-    "language": "Python",
-    "name": "AshwinUgale/tracelint",
-    "stars": 11,
-    "updated_at": "2026-10-09T16:39:53Z",
-    "url": "https://github.com/AshwinUgale/tracelint"
   }
 ]
