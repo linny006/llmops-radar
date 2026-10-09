@@ -1,21 +1,129 @@
 [
   {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
+    "description": "Mission SDK \u2014 the developer boundary over the ReDevOps Mission Runtime (author, validate, explain a governed MissionProg",
+    "id": "redevops-io/mission-sdk",
     "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2930,
-    "updated_at": "2026-10-09T02:14:19Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
+    "name": "redevops-io/mission-sdk",
+    "stars": 0,
+    "updated_at": "2026-10-09T02:28:34Z",
+    "url": "https://github.com/redevops-io/mission-sdk"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11762,
+    "updated_at": "2026-10-09T02:29:55Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60396,
+    "updated_at": "2026-10-09T02:30:11Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-10-09T02:30:20Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "Top AI Agent Development Platform (Opensource)  Star if you like it! ",
+    "id": "ishandutta2007/Awesome-AI-Agent-Development-Platform",
+    "language": "\u2014",
+    "name": "ishandutta2007/Awesome-AI-Agent-Development-Platform",
+    "stars": 0,
+    "updated_at": "2026-10-09T02:25:51Z",
+    "url": "https://github.com/ishandutta2007/Awesome-AI-Agent-Development-Platform"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25821,
-    "updated_at": "2026-10-09T02:15:08Z",
+    "stars": 25822,
+    "updated_at": "2026-10-09T02:29:49Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2930,
+    "updated_at": "2026-10-09T02:24:31Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
+    "id": "luetzey/who2be",
+    "language": "Python",
+    "name": "luetzey/who2be",
+    "stars": 0,
+    "updated_at": "2026-10-09T02:24:28Z",
+    "url": "https://github.com/luetzey/who2be"
+  },
+  {
+    "description": "AgentFox: open-source control plane for AI agents. Guardrails on model traffic, tool calls bounded by capability grants,",
+    "id": "architsharm/agentfox",
+    "language": "Python",
+    "name": "architsharm/agentfox",
+    "stars": 3,
+    "updated_at": "2026-10-09T02:21:12Z",
+    "url": "https://github.com/architsharm/agentfox"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-09T02:23:41Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Open Source software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-10-09T02:18:36Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "In-process Python metaframework on Pydantic AI for production GenAI \u2014 composable, protocol-driven layers for agents & mi",
+    "id": "fireflyframework/fireflyframework-agentic",
+    "language": "Python",
+    "name": "fireflyframework/fireflyframework-agentic",
+    "stars": 4,
+    "updated_at": "2026-10-09T02:17:10Z",
+    "url": "https://github.com/fireflyframework/fireflyframework-agentic"
+  },
+  {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5879,
+    "updated_at": "2026-10-09T02:17:34Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-09T02:15:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Convert static anime images into structured, QA-checked PSDs with Codex, Colab GPU, and built-in motion preview.",
@@ -25,33 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-09T02:12:05Z",
     "url": "https://github.com/Rickettsiayorkshirefog4963/still2rig-psd"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5879,
-    "updated_at": "2026-10-09T02:13:22Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-09T02:13:00Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60396,
-    "updated_at": "2026-10-09T02:11:31Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability ",
@@ -95,7 +176,7 @@
     "language": "Python",
     "name": "pom11/hscc",
     "stars": 6,
-    "updated_at": "2026-10-09T02:14:48Z",
+    "updated_at": "2026-10-09T02:23:50Z",
     "url": "https://github.com/pom11/hscc"
   },
   {
@@ -140,17 +221,8 @@
     "language": "Python",
     "name": "tap222/assay-evals",
     "stars": 13,
-    "updated_at": "2026-10-09T02:01:10Z",
+    "updated_at": "2026-10-09T02:24:41Z",
     "url": "https://github.com/tap222/assay-evals"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-09T02:00:34Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Self-hosted OpenAI/Anthropic-compatible gateway: give each AI agent run a dollar budget, enforced before the provider, w",
@@ -185,7 +257,7 @@
     "language": "Go",
     "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "stars": 1,
-    "updated_at": "2026-10-09T01:56:42Z",
+    "updated_at": "2026-10-09T02:25:47Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
   },
   {
@@ -306,6 +378,15 @@
     "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
   },
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28316,
+    "updated_at": "2026-10-09T01:41:12Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
     "description": "\ud83d\udcda Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical",
     "id": "mviraj/KakeyaFiniteFields",
     "language": "JavaScript",
@@ -315,15 +396,6 @@
     "url": "https://github.com/mviraj/KakeyaFiniteFields"
   },
   {
-    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
-    "id": "luetzey/who2be",
-    "language": "Python",
-    "name": "luetzey/who2be",
-    "stars": 0,
-    "updated_at": "2026-10-09T01:54:32Z",
-    "url": "https://github.com/luetzey/who2be"
-  },
-  {
     "description": "MaxKB4j is an open-source LLMOps platform for LLM workflow applications and RAG developed based on the Java language. Th",
     "id": "taishan666/MaxKB4j",
     "language": "Java",
@@ -331,15 +403,6 @@
     "stars": 135,
     "updated_at": "2026-10-09T01:30:39Z",
     "url": "https://github.com/taishan666/MaxKB4j"
-  },
-  {
-    "description": "Mission SDK \u2014 the developer boundary over the ReDevOps Mission Runtime (author, validate, explain a governed MissionProg",
-    "id": "redevops-io/mission-sdk",
-    "language": "Python",
-    "name": "redevops-io/mission-sdk",
-    "stars": 0,
-    "updated_at": "2026-10-09T01:28:34Z",
-    "url": "https://github.com/redevops-io/mission-sdk"
   },
   {
     "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
@@ -378,24 +441,6 @@
     "url": "https://github.com/tenemos/langwatch"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28317,
-    "updated_at": "2026-10-09T01:41:12Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-10-09T01:20:52Z",
-    "url": "https://github.com/redevops-io/agentic-os"
-  },
-  {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
     "id": "veritasfuji-japan/veritas_os",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 40,
     "updated_at": "2026-10-09T01:49:57Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "\u7aef\u5230\u7aef\u667a\u80fd\u4f53\u5e73\u53f0\uff1a\u628a\u672c\u673a\u7684 AI Agent \u53d8\u6210\u4eba\u4eba\u53ef\u7528\u7684 Web \u4ea7\u54c1\uff08Vue 3 + Flask + Go WS \u7f51\u5173 + Docker \u90e8\u7f72\uff09",
-    "id": "liaosiliangCodeLife/harness-mate-plat",
-    "language": "Python",
-    "name": "liaosiliangCodeLife/harness-mate-plat",
-    "stars": 5,
-    "updated_at": "2026-10-09T01:17:48Z",
-    "url": "https://github.com/liaosiliangCodeLife/harness-mate-plat"
-  },
-  {
-    "description": "Open Source software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-10-09T02:14:54Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35539,
-    "updated_at": "2026-10-09T01:15:50Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Genaryx: the browser control room over the TAIPANBOX agent-governance stack. Money, policy, identity, quality, crypto, m",
-    "id": "TAIPANBOX/genaryx",
-    "language": "Rust",
-    "name": "TAIPANBOX/genaryx",
-    "stars": 0,
-    "updated_at": "2026-10-09T01:09:34Z",
-    "url": "https://github.com/TAIPANBOX/genaryx"
-  },
-  {
-    "description": "Which AI model to use, and did the new version get worse, answered with statistical confidence at a tenth of the evaluat",
-    "id": "Peter-A-P/model-selection-tenth-cost",
-    "language": "Python",
-    "name": "Peter-A-P/model-selection-tenth-cost",
-    "stars": 0,
-    "updated_at": "2026-10-09T01:03:06Z",
-    "url": "https://github.com/Peter-A-P/model-selection-tenth-cost"
   }
 ]
