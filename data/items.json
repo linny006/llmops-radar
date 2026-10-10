@@ -1,5 +1,68 @@
 [
   {
+    "description": "One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod",
+    "id": "valteresj2/agent-hangar",
+    "language": "Python",
+    "name": "valteresj2/agent-hangar",
+    "stars": 3,
+    "updated_at": "2026-10-10T21:44:38Z",
+    "url": "https://github.com/valteresj2/agent-hangar"
+  },
+  {
+    "description": "OpenAI-compatible AI execution plane on Kubernetes with MCP, vLLM, and policy.",
+    "id": "justrunme/ai-runtime-platform",
+    "language": "Python",
+    "name": "justrunme/ai-runtime-platform",
+    "stars": 2,
+    "updated_at": "2026-10-10T21:43:00Z",
+    "url": "https://github.com/justrunme/ai-runtime-platform"
+  },
+  {
+    "description": "Governed private AI control plane on Kubernetes with policy, identity, and FinOps.",
+    "id": "justrunme/ai-infra-control-plane",
+    "language": "Python",
+    "name": "justrunme/ai-infra-control-plane",
+    "stars": 2,
+    "updated_at": "2026-10-10T21:42:52Z",
+    "url": "https://github.com/justrunme/ai-infra-control-plane"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60901,
+    "updated_at": "2026-10-10T21:42:22Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 91,
+    "updated_at": "2026-10-10T21:40:15Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 1,
+    "updated_at": "2026-10-10T21:36:35Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-10T21:30:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Governed Model Context Protocol (MCP) server & AI agent runtime with cryptographic action approval, typed tool effects, ",
     "id": "Yacine-ai-tech/AgentKit",
     "language": "Python",
@@ -9,15 +72,6 @@
     "url": "https://github.com/Yacine-ai-tech/AgentKit"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60900,
-    "updated_at": "2026-10-10T21:29:42Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Protect your machine from AI-powered automation with local, deterministic Allow/Ask/Deny controls for high-impact action",
     "id": "Permed-lizard3456/ActionGuard",
     "language": "\u2014",
@@ -25,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-10-10T21:25:57Z",
     "url": "https://github.com/Permed-lizard3456/ActionGuard"
-  },
-  {
-    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 1,
-    "updated_at": "2026-10-10T21:26:25Z",
-    "url": "https://github.com/a-novel/service-genai"
   },
   {
     "description": "Agentic Runtime",
@@ -99,15 +144,6 @@
     "url": "https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps"
   },
   {
-    "description": "One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod",
-    "id": "valteresj2/agent-hangar",
-    "language": "Python",
-    "name": "valteresj2/agent-hangar",
-    "stars": 3,
-    "updated_at": "2026-10-10T21:20:26Z",
-    "url": "https://github.com/valteresj2/agent-hangar"
-  },
-  {
     "description": "The operations layer for your local LLM stack",
     "id": "ndom91/llama-dash",
     "language": "TypeScript",
@@ -117,13 +153,13 @@
     "url": "https://github.com/ndom91/llama-dash"
   },
   {
-    "description": "Governed private AI control plane on Kubernetes with policy, identity, and FinOps.",
-    "id": "justrunme/ai-infra-control-plane",
-    "language": "Python",
-    "name": "justrunme/ai-infra-control-plane",
-    "stars": 2,
-    "updated_at": "2026-10-10T21:18:52Z",
-    "url": "https://github.com/justrunme/ai-infra-control-plane"
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8689,
+    "updated_at": "2026-10-10T21:19:27Z",
+    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Self-hosted AI Agents Platform supporting Claude Code, Codex, Gemini agents. Apache 2.0.  ",
@@ -142,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-10-10T21:15:45Z",
     "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-10T21:15:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
@@ -185,7 +212,7 @@
     "language": "Go",
     "name": "maks3201/decision-model-operator",
     "stars": 1,
-    "updated_at": "2026-10-10T21:12:20Z",
+    "updated_at": "2026-10-10T21:40:44Z",
     "url": "https://github.com/maks3201/decision-model-operator"
   },
   {
@@ -214,15 +241,6 @@
     "stars": 6,
     "updated_at": "2026-10-10T21:08:40Z",
     "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "OpenAI-compatible AI execution plane on Kubernetes with MCP, vLLM, and policy.",
-    "id": "justrunme/ai-runtime-platform",
-    "language": "Python",
-    "name": "justrunme/ai-runtime-platform",
-    "stars": 2,
-    "updated_at": "2026-10-10T21:06:23Z",
-    "url": "https://github.com/justrunme/ai-runtime-platform"
   },
   {
     "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
@@ -387,15 +405,6 @@
     "url": "https://github.com/sedai194443/langfuse-go"
   },
   {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 91,
-    "updated_at": "2026-10-10T21:28:31Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
     "id": "iblai/os",
     "language": "TypeScript",
@@ -439,14 +448,5 @@
     "stars": 30,
     "updated_at": "2026-10-10T20:42:40Z",
     "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
-    "id": "luetzey/who2be",
-    "language": "Python",
-    "name": "luetzey/who2be",
-    "stars": 0,
-    "updated_at": "2026-10-10T21:14:18Z",
-    "url": "https://github.com/luetzey/who2be"
   }
 ]
