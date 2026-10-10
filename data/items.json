@@ -1,5 +1,50 @@
 [
   {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-10-10T15:42:33Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
+    "id": "maks3201/decision-model-operator",
+    "language": "Go",
+    "name": "maks3201/decision-model-operator",
+    "stars": 1,
+    "updated_at": "2026-10-10T15:41:28Z",
+    "url": "https://github.com/maks3201/decision-model-operator"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2949,
+    "updated_at": "2026-10-10T15:38:51Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-10T15:32:13Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-10T15:30:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\ud83e\uddd1\u200d\ud83d\udcbc HireFlow (WIP): agentic hiring workflow from requisition to onboarding on LangGraph, with human-in-the-loop approval",
     "id": "nishantrv/Agentic_HR_Copilot_E2E_LangGraph_Azure_LLMOPS",
     "language": "Python",
@@ -18,21 +63,12 @@
     "url": "https://github.com/kelvran/gateway"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-10T15:21:59Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
     "id": "judgekeeper/judgekeeper",
     "language": "Python",
     "name": "judgekeeper/judgekeeper",
     "stars": 0,
-    "updated_at": "2026-10-10T15:17:07Z",
+    "updated_at": "2026-10-10T15:37:43Z",
     "url": "https://github.com/judgekeeper/judgekeeper"
   },
   {
@@ -59,7 +95,7 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-10T15:27:02Z",
+    "updated_at": "2026-10-10T15:42:03Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -68,7 +104,7 @@
     "language": "TypeScript",
     "name": "burakdede/lorepack",
     "stars": 3,
-    "updated_at": "2026-10-10T15:11:11Z",
+    "updated_at": "2026-10-10T15:44:34Z",
     "url": "https://github.com/burakdede/lorepack"
   },
   {
@@ -95,7 +131,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 60878,
-    "updated_at": "2026-10-10T15:13:25Z",
+    "updated_at": "2026-10-10T15:44:26Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -117,6 +153,15 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8687,
+    "updated_at": "2026-10-10T14:57:19Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
     "description": "Open Source software factory.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
@@ -133,24 +178,6 @@
     "stars": 44,
     "updated_at": "2026-10-10T14:49:53Z",
     "url": "https://github.com/sergey-homenko/llm_cost_tracker"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2949,
-    "updated_at": "2026-10-10T15:27:46Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8686,
-    "updated_at": "2026-10-10T14:57:19Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Keras based framework for neuro-symbolic LM systems",
@@ -243,15 +270,6 @@
     "url": "https://github.com/veerarakesh56/warden"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-10T14:21:42Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
     "id": "SourceShift/mini-ork",
     "language": "Python",
@@ -275,7 +293,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25869,
-    "updated_at": "2026-10-10T14:07:39Z",
+    "updated_at": "2026-10-10T15:39:58Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-10T13:13:02Z",
     "url": "https://github.com/Nephets1010/llm-glasshouse"
-  },
-  {
-    "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
-    "id": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "language": "\u2014",
-    "name": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "stars": 0,
-    "updated_at": "2026-10-10T13:10:12Z",
-    "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
-  },
-  {
-    "description": "Nagizaaz Shaik \u2014 ML & AI Systems Engineer",
-    "id": "shaikn6/shaikn6",
-    "language": "Python",
-    "name": "shaikn6/shaikn6",
-    "stars": 0,
-    "updated_at": "2026-10-10T13:10:09Z",
-    "url": "https://github.com/shaikn6/shaikn6"
   }
 ]
