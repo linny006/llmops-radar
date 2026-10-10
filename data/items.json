@@ -1,5 +1,32 @@
 [
   {
+    "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
+    "id": "maks3201/decision-model-operator",
+    "language": "Go",
+    "name": "maks3201/decision-model-operator",
+    "stars": 1,
+    "updated_at": "2026-10-10T22:47:41Z",
+    "url": "https://github.com/maks3201/decision-model-operator"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-10-10T22:47:07Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-10T22:45:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
     "id": "judgekeeper/judgekeeper",
     "language": "Python",
@@ -14,7 +41,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 60905,
-    "updated_at": "2026-10-10T22:42:18Z",
+    "updated_at": "2026-10-10T22:47:54Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -63,15 +90,6 @@
     "url": "https://github.com/VibePod/vibepod-cli"
   },
   {
-    "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
-    "id": "maks3201/decision-model-operator",
-    "language": "Go",
-    "name": "maks3201/decision-model-operator",
-    "stars": 1,
-    "updated_at": "2026-10-10T22:44:16Z",
-    "url": "https://github.com/maks3201/decision-model-operator"
-  },
-  {
     "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
     "id": "burakdede/lorepack",
     "language": "TypeScript",
@@ -88,15 +106,6 @@
     "stars": 91,
     "updated_at": "2026-10-10T22:32:53Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-10T22:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Agentic Runtime",
@@ -140,7 +149,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-10-10T22:42:15Z",
+    "updated_at": "2026-10-10T22:45:43Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -158,7 +167,7 @@
     "language": "Python",
     "name": "overmind-core/overmind",
     "stars": 610,
-    "updated_at": "2026-10-10T22:04:38Z",
+    "updated_at": "2026-10-10T22:47:05Z",
     "url": "https://github.com/overmind-core/overmind"
   },
   {
@@ -349,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-10-10T21:14:17Z",
     "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-10-10T22:34:25Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
     "description": "Self-hosted & federated platform for AI IDE/Tools Rules and Commands via WebUI & CLI - Generate, browse, store, share AG",
