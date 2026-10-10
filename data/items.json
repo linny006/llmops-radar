@@ -1,11 +1,101 @@
 [
   {
+    "description": "Estimate LLM VRAM \u2014 model weights, KV cache, context window & concurrent users \u2014 and find the right GPU. Live Hugging Fa",
+    "id": "tahircengiz/LLMScale",
+    "language": "TypeScript",
+    "name": "tahircengiz/LLMScale",
+    "stars": 0,
+    "updated_at": "2026-10-10T11:28:27Z",
+    "url": "https://github.com/tahircengiz/LLMScale"
+  },
+  {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-10-10T11:28:23Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
+    "id": "burakdede/lorepack",
+    "language": "TypeScript",
+    "name": "burakdede/lorepack",
+    "stars": 3,
+    "updated_at": "2026-10-10T11:29:12Z",
+    "url": "https://github.com/burakdede/lorepack"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-10T11:24:19Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Open Source software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-10-10T11:21:33Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O",
+    "id": "kelvran/gateway",
+    "language": "Go",
+    "name": "kelvran/gateway",
+    "stars": 0,
+    "updated_at": "2026-10-10T11:19:17Z",
+    "url": "https://github.com/kelvran/gateway"
+  },
+  {
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
+    "language": "Python",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 53,
+    "updated_at": "2026-10-10T11:17:30Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
+    "description": "Unified CLI for running AI coding agents in isolated containers. Includes built-in local metrics collection, HTTP traffi",
+    "id": "VibePod/vibepod-cli",
+    "language": "Python",
+    "name": "VibePod/vibepod-cli",
+    "stars": 179,
+    "updated_at": "2026-10-10T11:20:22Z",
+    "url": "https://github.com/VibePod/vibepod-cli"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-10T11:15:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11773,
+    "updated_at": "2026-10-10T11:15:14Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 60865,
-    "updated_at": "2026-10-10T11:14:32Z",
+    "updated_at": "2026-10-10T11:29:39Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -18,15 +108,6 @@
     "url": "https://github.com/alebgl77/awesome-ai-architect"
   },
   {
-    "description": "Estimate LLM VRAM \u2014 model weights, KV cache, context window & concurrent users \u2014 and find the right GPU. Live Hugging Fa",
-    "id": "tahircengiz/LLMScale",
-    "language": "TypeScript",
-    "name": "tahircengiz/LLMScale",
-    "stars": 0,
-    "updated_at": "2026-10-10T11:09:19Z",
-    "url": "https://github.com/tahircengiz/LLMScale"
-  },
-  {
     "description": "Protect your machine from AI-powered automation with local, deterministic Allow/Ask/Deny controls for high-impact action",
     "id": "Permed-lizard3456/ActionGuard",
     "language": "\u2014",
@@ -34,24 +115,6 @@
     "stars": 0,
     "updated_at": "2026-10-10T11:07:24Z",
     "url": "https://github.com/Permed-lizard3456/ActionGuard"
-  },
-  {
-    "description": "Open Source software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-10-10T11:05:32Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-10-10T11:04:39Z",
-    "url": "https://github.com/veerarakesh56/warden"
   },
   {
     "description": "Self-hosted LLM gateway in Rust: one OpenAI-compatible API for OpenAI, Anthropic, Gemini, Azure, Ollama and more, with v",
@@ -70,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-10T11:03:50Z",
     "url": "https://github.com/Traciewheelless86/sentiment-analysis-nlp-api"
-  },
-  {
-    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
-    "id": "burakdede/lorepack",
-    "language": "TypeScript",
-    "name": "burakdede/lorepack",
-    "stars": 3,
-    "updated_at": "2026-10-10T11:06:14Z",
-    "url": "https://github.com/burakdede/lorepack"
   },
   {
     "description": "Manage Claude Desktop and Claude Cowork through an audited gateway with full visibility into prompts, tool calls, and co",
@@ -108,30 +162,12 @@
     "url": "https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-10T11:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O",
-    "id": "kelvran/gateway",
-    "language": "Go",
-    "name": "kelvran/gateway",
-    "stars": 0,
-    "updated_at": "2026-10-10T10:59:07Z",
-    "url": "https://github.com/kelvran/gateway"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28334,
-    "updated_at": "2026-10-10T11:12:12Z",
+    "updated_at": "2026-10-10T11:29:20Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -158,7 +194,7 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-10T11:00:08Z",
+    "updated_at": "2026-10-10T11:28:22Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -266,7 +302,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8683,
-    "updated_at": "2026-10-10T11:14:56Z",
+    "updated_at": "2026-10-10T11:16:58Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -328,7 +364,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 35593,
+    "stars": 35594,
     "updated_at": "2026-10-10T10:34:43Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -383,7 +419,7 @@
     "language": "Python",
     "name": "luetzey/who2be",
     "stars": 0,
-    "updated_at": "2026-10-10T11:14:57Z",
+    "updated_at": "2026-10-10T11:27:34Z",
     "url": "https://github.com/luetzey/who2be"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-10T10:33:55Z",
     "url": "https://github.com/DiogoRibeiro7/rag-quality-engine"
-  },
-  {
-    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
-    "id": "liam8421/faster-llm",
-    "language": "Python",
-    "name": "liam8421/faster-llm",
-    "stars": 0,
-    "updated_at": "2026-10-10T10:21:30Z",
-    "url": "https://github.com/liam8421/faster-llm"
-  },
-  {
-    "description": "Open-source replay and evidence infrastructure for AI agents. Capture runs as portable Run Capsules for replay, diff, li",
-    "id": "MSKazemi/novafabric",
-    "language": "Python",
-    "name": "MSKazemi/novafabric",
-    "stars": 6,
-    "updated_at": "2026-10-10T10:19:58Z",
-    "url": "https://github.com/MSKazemi/novafabric"
-  },
-  {
-    "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
-    "id": "recetariodmix/garak",
-    "language": "Python",
-    "name": "recetariodmix/garak",
-    "stars": 0,
-    "updated_at": "2026-10-10T10:19:12Z",
-    "url": "https://github.com/recetariodmix/garak"
-  },
-  {
-    "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
-    "id": "Kushagra1A/openpi",
-    "language": "Python",
-    "name": "Kushagra1A/openpi",
-    "stars": 7,
-    "updated_at": "2026-10-10T10:19:00Z",
-    "url": "https://github.com/Kushagra1A/openpi"
   }
 ]
