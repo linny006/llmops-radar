@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-10 03:00 UTC
+> ⏰ Last updated: 2026-10-10 03:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,25 +42,25 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 41 | Go | 2026-10-10 | Agentic Runtime |
-| 2 | [veerarakesh56/warden](https://github.com/veerarakesh56/warden) | 0 | Python | 2026-10-10 | AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction  |
-| 3 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2938 | Python | 2026-10-10 | Community maintained hardware plugin for vLLM on Huawei Ascend |
-| 4 | [luetzey/who2be](https://github.com/luetzey/who2be) | 0 | Python | 2026-10-10 | Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se |
-| 5 | [kelvran/gateway](https://github.com/kelvran/gateway) | 0 | Go | 2026-10-10 | Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O |
-| 6 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 60708 | Python | 2026-10-10 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 7 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 35581 | TypeScript | 2026-10-10 | 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform. |
-| 8 | [burakdede/lorepack](https://github.com/burakdede/lorepack) | 3 | TypeScript | 2026-10-10 | Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod |
-| 9 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25853 | TypeScript | 2026-10-10 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 10 | [Furox-Art/quantum-reasoning-skill](https://github.com/Furox-Art/quantum-reasoning-skill) | 1 | Python | 2026-10-10 | Model-agnostic Agent Skill: keep multiple hypotheses alive, test them against evidence, revive alternatives, collapse to |
-| 11 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-10 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 12 | [dataelement/bisheng](https://github.com/dataelement/bisheng) | 12031 | Python | 2026-10-10 | BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur |
-| 13 | [a-novel/service-genai](https://github.com/a-novel/service-genai) | 1 | Go | 2026-10-10 | Generative AI proxy, with cost ledger and crash safety baked in. |
-| 14 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 28331 | Python | 2026-10-10 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
-| 15 | [NakliTechie/ferrule](https://github.com/NakliTechie/ferrule) | 1 | Go | 2026-10-10 | A local encrypted vault for your LLM API keys, with an OpenAI-compatible router on top. One Go binary — no config file,  |
-| 16 | [RedRobotKK/Replay](https://github.com/RedRobotKK/Replay) | 3 | Go | 2026-10-10 | If the agent bill went up and nothing errored, a prompt cache broke. Replay Doctor names the turn it broke on, the cause |
-| 17 | [kapumota/ProvRegress](https://github.com/kapumota/ProvRegress) | 0 | Python | 2026-10-10 | Proyecto de investigación y desarrollo de software orientado a detectar, localizar y explicar regresiones conductuales e |
-| 18 | [pom11/hscc](https://github.com/pom11/hscc) | 6 | Python | 2026-10-10 | Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents — cluster control, role-specialized worke |
-| 19 | [liaosiliangCodeLife/harness-mate-plat](https://github.com/liaosiliangCodeLife/harness-mate-plat) | 10 | Python | 2026-10-10 | 端到端智能体平台：把本机的 AI Agent 变成人人可用的 Web 产品（Vue 3 + Flask + Go WS 网关 + Docker 部署） |
+| 1 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 60714 | Python | 2026-10-10 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 2 | [liaosiliangCodeLife/harness-mate-plat](https://github.com/liaosiliangCodeLife/harness-mate-plat) | 10 | Python | 2026-10-10 | 端到端智能体平台：把本机的 AI Agent 变成人人可用的 Web 产品（Vue 3 + Flask + Go WS 网关 + Docker 部署） |
+| 3 | [burakdede/lorepack](https://github.com/burakdede/lorepack) | 3 | TypeScript | 2026-10-10 | Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod |
+| 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25854 | TypeScript | 2026-10-10 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 5 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2938 | Python | 2026-10-10 | Community maintained hardware plugin for vLLM on Huawei Ascend |
+| 6 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-10 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 7 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 41 | Go | 2026-10-10 | Agentic Runtime |
+| 8 | [veerarakesh56/warden](https://github.com/veerarakesh56/warden) | 0 | Python | 2026-10-10 | AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction  |
+| 9 | [luetzey/who2be](https://github.com/luetzey/who2be) | 0 | Python | 2026-10-10 | Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se |
+| 10 | [kelvran/gateway](https://github.com/kelvran/gateway) | 0 | Go | 2026-10-10 | Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O |
+| 11 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 35581 | TypeScript | 2026-10-10 | 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform. |
+| 12 | [Furox-Art/quantum-reasoning-skill](https://github.com/Furox-Art/quantum-reasoning-skill) | 1 | Python | 2026-10-10 | Model-agnostic Agent Skill: keep multiple hypotheses alive, test them against evidence, revive alternatives, collapse to |
+| 13 | [dataelement/bisheng](https://github.com/dataelement/bisheng) | 12031 | Python | 2026-10-10 | BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur |
+| 14 | [a-novel/service-genai](https://github.com/a-novel/service-genai) | 1 | Go | 2026-10-10 | Generative AI proxy, with cost ledger and crash safety baked in. |
+| 15 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 28331 | Python | 2026-10-10 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
+| 16 | [NakliTechie/ferrule](https://github.com/NakliTechie/ferrule) | 1 | Go | 2026-10-10 | A local encrypted vault for your LLM API keys, with an OpenAI-compatible router on top. One Go binary — no config file,  |
+| 17 | [RedRobotKK/Replay](https://github.com/RedRobotKK/Replay) | 3 | Go | 2026-10-10 | If the agent bill went up and nothing errored, a prompt cache broke. Replay Doctor names the turn it broke on, the cause |
+| 18 | [kapumota/ProvRegress](https://github.com/kapumota/ProvRegress) | 0 | Python | 2026-10-10 | Proyecto de investigación y desarrollo de software orientado a detectar, localizar y explicar regresiones conductuales e |
+| 19 | [pom11/hscc](https://github.com/pom11/hscc) | 6 | Python | 2026-10-10 | Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents — cluster control, role-specialized worke |
 | 20 | [toxicwind/ranch](https://github.com/toxicwind/ranch) | 0 | Rust | 2026-10-10 | The self-hosted LLM estate in one monorepo — local model serving, cloud provider routing, MCP gateway, build jobs. All O |
 | 21 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 9 | Go | 2026-10-10 | Open Source software factory. |
 | 22 | [cloudrift-ai/emmy](https://github.com/cloudrift-ai/emmy) | 88 | Python | 2026-10-10 | Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel  |
