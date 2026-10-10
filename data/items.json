@@ -4,9 +4,90 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 60837,
-    "updated_at": "2026-10-10T09:14:08Z",
+    "stars": 60840,
+    "updated_at": "2026-10-10T09:28:48Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2946,
+    "updated_at": "2026-10-10T09:25:47Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Open-source replay and evidence infrastructure for AI agents. Capture runs as portable Run Capsules for replay, diff, li",
+    "id": "MSKazemi/novafabric",
+    "language": "Python",
+    "name": "MSKazemi/novafabric",
+    "stars": 6,
+    "updated_at": "2026-10-10T09:26:42Z",
+    "url": "https://github.com/MSKazemi/novafabric"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-10-10T09:24:45Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 29,
+    "updated_at": "2026-10-10T09:23:40Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Does your LLM telemetry tell the truth? Replays provider responses through LLM instrumentation libraries and checks ever",
+    "id": "Plexito-de/wiretruth",
+    "language": "Python",
+    "name": "Plexito-de/wiretruth",
+    "stars": 0,
+    "updated_at": "2026-10-10T09:23:44Z",
+    "url": "https://github.com/Plexito-de/wiretruth"
+  },
+  {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-10-10T09:18:41Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 89,
+    "updated_at": "2026-10-10T09:17:51Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Local-first AI evaluation engineering for finance workflows: golden sets, deterministic graders, human review, regressio",
+    "id": "Kozphy/EvalForge",
+    "language": "Python",
+    "name": "Kozphy/EvalForge",
+    "stars": 1,
+    "updated_at": "2026-10-10T09:16:25Z",
+    "url": "https://github.com/Kozphy/EvalForge"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-10T09:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
@@ -27,24 +108,6 @@
     "url": "https://github.com/tahircengiz/LLMScale"
   },
   {
-    "description": "Does your LLM telemetry tell the truth? Replays provider responses through LLM instrumentation libraries and checks ever",
-    "id": "Plexito-de/wiretruth",
-    "language": "Python",
-    "name": "Plexito-de/wiretruth",
-    "stars": 0,
-    "updated_at": "2026-10-10T09:10:10Z",
-    "url": "https://github.com/Plexito-de/wiretruth"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 89,
-    "updated_at": "2026-10-10T09:08:07Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
     "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
     "id": "burakdede/lorepack",
     "language": "TypeScript",
@@ -52,24 +115,6 @@
     "stars": 3,
     "updated_at": "2026-10-10T09:11:12Z",
     "url": "https://github.com/burakdede/lorepack"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-10T09:01:08Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-10-10T09:00:46Z",
-    "url": "https://github.com/veerarakesh56/warden"
   },
   {
     "description": "Private single-operator Telegram research intelligence pipeline with evidence-bound weekly briefs, deterministic scoreca",
@@ -104,7 +149,7 @@
     "language": "Go",
     "name": "kelvran/gateway",
     "stars": 0,
-    "updated_at": "2026-10-10T08:51:19Z",
+    "updated_at": "2026-10-10T09:24:16Z",
     "url": "https://github.com/kelvran/gateway"
   },
   {
@@ -130,7 +175,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 8680,
+    "stars": 8681,
     "updated_at": "2026-10-10T08:36:02Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -162,21 +207,12 @@
     "url": "https://github.com/xorbitsai/xrouter-llm"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2946,
-    "updated_at": "2026-10-10T08:28:14Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
     "id": "alibaba/rtp-llm",
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1360,
-    "updated_at": "2026-10-10T09:13:19Z",
+    "updated_at": "2026-10-10T09:27:29Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -194,7 +230,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28333,
-    "updated_at": "2026-10-10T09:07:18Z",
+    "updated_at": "2026-10-10T09:25:12Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-10T07:28:03Z",
     "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "AI Agent \u7ba1\u7ebf\u53ef\u9760\u6027\u64cd\u4f5c\u7cfb\u7edf \u2014\u300cAgent \u7ba1\u7f16\uff0c\u95f8\u95e8\u7ba1\u4fe1\u300d\uff1a\u4e00\u53e5\u8bdd\u9700\u6c42 \u2192 \u81ea\u52a8 Agent \u56e2\u961f \u2192 \u6bcf\u6b65\u9a8c\u8bc1\u62e6\u622a \u2192 \u5b9a\u5411\u56de\u73af\u81ea\u6108",
-    "id": "zw-onemaker-ai/agent_gate",
-    "language": "Python",
-    "name": "zw-onemaker-ai/agent_gate",
-    "stars": 1,
-    "updated_at": "2026-10-10T07:27:42Z",
-    "url": "https://github.com/zw-onemaker-ai/agent_gate"
-  },
-  {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 29,
-    "updated_at": "2026-10-10T07:23:52Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
-    "id": "GaBySuGy/agent-guardrails",
-    "language": "Shell",
-    "name": "GaBySuGy/agent-guardrails",
-    "stars": 2,
-    "updated_at": "2026-10-10T07:22:23Z",
-    "url": "https://github.com/GaBySuGy/agent-guardrails"
-  },
-  {
-    "description": "\ud83d\udd0d Explore the shift from MLOps to LLMOps with materials that simplify AI deployment and enhance document intelligence.",
-    "id": "Farukul-Islam/from-mlops-to-llmops",
-    "language": "PHP",
-    "name": "Farukul-Islam/from-mlops-to-llmops",
-    "stars": 0,
-    "updated_at": "2026-10-10T07:20:57Z",
-    "url": "https://github.com/Farukul-Islam/from-mlops-to-llmops"
   }
 ]
