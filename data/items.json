@@ -4,9 +4,36 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 60812,
-    "updated_at": "2026-10-10T08:14:20Z",
+    "stars": 60819,
+    "updated_at": "2026-10-10T08:29:08Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 6,
+    "updated_at": "2026-10-10T08:26:49Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Python",
+    "name": "alibaba/rtp-llm",
+    "stars": 1360,
+    "updated_at": "2026-10-10T08:29:23Z",
+    "url": "https://github.com/alibaba/rtp-llm"
+  },
+  {
+    "description": "Evaluation-first RAG and LLMOps platform for production-grade document QA, tracing, regression testing, and cost-aware e",
+    "id": "DiogoRibeiro7/rag-quality-engine",
+    "language": "Jupyter Notebook",
+    "name": "DiogoRibeiro7/rag-quality-engine",
+    "stars": 0,
+    "updated_at": "2026-10-10T08:25:39Z",
+    "url": "https://github.com/DiogoRibeiro7/rag-quality-engine"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -14,8 +41,26 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28333,
-    "updated_at": "2026-10-10T08:15:22Z",
+    "updated_at": "2026-10-10T08:24:12Z",
     "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "AgentFox: open-source control plane for AI agents. Guardrails on model traffic, tool calls bounded by capability grants,",
+    "id": "architsharm/agentfox",
+    "language": "Python",
+    "name": "architsharm/agentfox",
+    "stars": 3,
+    "updated_at": "2026-10-10T08:21:55Z",
+    "url": "https://github.com/architsharm/agentfox"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-10T08:15:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
@@ -27,21 +72,12 @@
     "url": "https://github.com/veerarakesh56/warden"
   },
   {
-    "description": "AgentFox: open-source control plane for AI agents. Guardrails on model traffic, tool calls bounded by capability grants,",
-    "id": "architsharm/agentfox",
-    "language": "Python",
-    "name": "architsharm/agentfox",
-    "stars": 3,
-    "updated_at": "2026-10-10T08:15:17Z",
-    "url": "https://github.com/architsharm/agentfox"
-  },
-  {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "Python",
     "name": "vllm-project/vllm-ascend",
     "stars": 2943,
-    "updated_at": "2026-10-10T08:07:09Z",
+    "updated_at": "2026-10-10T08:28:14Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -54,15 +90,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-10T08:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O",
     "id": "kelvran/gateway",
     "language": "Go",
@@ -70,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-10-10T07:58:47Z",
     "url": "https://github.com/kelvran/gateway"
-  },
-  {
-    "description": "Evaluation-first RAG and LLMOps platform for production-grade document QA, tracing, regression testing, and cost-aware e",
-    "id": "DiogoRibeiro7/rag-quality-engine",
-    "language": "Jupyter Notebook",
-    "name": "DiogoRibeiro7/rag-quality-engine",
-    "stars": 0,
-    "updated_at": "2026-10-10T08:05:39Z",
-    "url": "https://github.com/DiogoRibeiro7/rag-quality-engine"
   },
   {
     "description": "Local LLM evaluation harness: task-specific auto-evaluators + pass-rate metrics, zero dependencies",
@@ -160,15 +178,6 @@
     "stars": 8678,
     "updated_at": "2026-10-10T07:39:14Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 6,
-    "updated_at": "2026-10-10T07:38:59Z",
-    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
@@ -351,15 +360,6 @@
     "url": "https://github.com/Farukul-Islam/from-mlops-to-llmops"
   },
   {
-    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
-    "id": "alibaba/rtp-llm",
-    "language": "Python",
-    "name": "alibaba/rtp-llm",
-    "stars": 1360,
-    "updated_at": "2026-10-10T08:11:57Z",
-    "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
     "description": "\ud83d\udee1\ufe0f Enforce AI behavior guidelines with SpecGuard, a tool that turns policies into executable tests for reliable and scal",
     "id": "Tearfullnex/SpecGuard",
     "language": "Python",
@@ -410,7 +410,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-10T07:18:41Z",
+    "updated_at": "2026-10-10T08:26:20Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
