@@ -1,5 +1,95 @@
 [
   {
+    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
+    "id": "iblai/os",
+    "language": "TypeScript",
+    "name": "iblai/os",
+    "stars": 804,
+    "updated_at": "2026-10-10T20:15:12Z",
+    "url": "https://github.com/iblai/os"
+  },
+  {
+    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 1,
+    "updated_at": "2026-10-10T20:14:48Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25876,
+    "updated_at": "2026-10-10T20:13:56Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 6,
+    "updated_at": "2026-10-10T20:13:34Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "FastAPI LLM router: picks the cheapest capable model per prompt and blocks prompt injection, using typed decisions.",
+    "id": "MiguelCarrascoB/laya-router",
+    "language": "Python",
+    "name": "MiguelCarrascoB/laya-router",
+    "stars": 0,
+    "updated_at": "2026-10-10T20:12:58Z",
+    "url": "https://github.com/MiguelCarrascoB/laya-router"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-10T20:11:11Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
+    "id": "maks3201/decision-model-operator",
+    "language": "Go",
+    "name": "maks3201/decision-model-operator",
+    "stars": 1,
+    "updated_at": "2026-10-10T20:11:16Z",
+    "url": "https://github.com/maks3201/decision-model-operator"
+  },
+  {
+    "description": "Test obligations for AI applications, by architecture archetype. A catalog, not a framework.",
+    "id": "dataagentsai/ai-assurance-catalog",
+    "language": "HTML",
+    "name": "dataagentsai/ai-assurance-catalog",
+    "stars": 0,
+    "updated_at": "2026-10-10T20:06:56Z",
+    "url": "https://github.com/dataagentsai/ai-assurance-catalog"
+  },
+  {
+    "description": "Open Source software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-10-10T20:01:33Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-10T20:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "ThakiCloud Tech Blog",
     "id": "ThakiCloud/thakicloud.github.io",
     "language": "JavaScript",
@@ -14,7 +104,7 @@
     "language": "Go",
     "name": "kelvran/gateway",
     "stars": 0,
-    "updated_at": "2026-10-10T19:59:41Z",
+    "updated_at": "2026-10-10T20:00:38Z",
     "url": "https://github.com/kelvran/gateway"
   },
   {
@@ -32,7 +122,7 @@
     "language": "Python",
     "name": "redevops-io/agentic-os",
     "stars": 2,
-    "updated_at": "2026-10-10T19:56:13Z",
+    "updated_at": "2026-10-10T20:13:49Z",
     "url": "https://github.com/redevops-io/agentic-os"
   },
   {
@@ -41,7 +131,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 91,
-    "updated_at": "2026-10-10T19:53:40Z",
+    "updated_at": "2026-10-10T20:09:34Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -50,17 +140,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 60898,
-    "updated_at": "2026-10-10T20:00:05Z",
+    "updated_at": "2026-10-10T20:12:12Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
-    "id": "maks3201/decision-model-operator",
-    "language": "Go",
-    "name": "maks3201/decision-model-operator",
-    "stars": 1,
-    "updated_at": "2026-10-10T19:52:27Z",
-    "url": "https://github.com/maks3201/decision-model-operator"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -70,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-10-10T19:45:35Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-10T19:45:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Governance-first architecture for embedding generative AI agents into CI/CD pipelines: risk scoring, autonomy gates, can",
@@ -99,6 +171,15 @@
     "url": "https://github.com/antonij-tracium/tracium"
   },
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8688,
+    "updated_at": "2026-10-10T19:43:30Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
     "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
     "id": "luetzey/who2be",
     "language": "Python",
@@ -113,17 +194,8 @@
     "language": "TypeScript",
     "name": "burakdede/lorepack",
     "stars": 3,
-    "updated_at": "2026-10-10T19:40:47Z",
+    "updated_at": "2026-10-10T20:15:23Z",
     "url": "https://github.com/burakdede/lorepack"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25875,
-    "updated_at": "2026-10-10T19:37:10Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Unified CLI for running AI coding agents in isolated containers. Includes built-in local metrics collection, HTTP traffi",
@@ -158,26 +230,8 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-10T19:54:09Z",
+    "updated_at": "2026-10-10T20:13:00Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 6,
-    "updated_at": "2026-10-10T19:19:31Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 1,
-    "updated_at": "2026-10-10T19:17:32Z",
-    "url": "https://github.com/a-novel/service-genai"
   },
   {
     "description": "Protect your machine from AI-powered automation with local, deterministic Allow/Ask/Deny controls for high-impact action",
@@ -360,15 +414,6 @@
     "url": "https://github.com/FawwazAzka/openclaw-docs"
   },
   {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-10T18:52:30Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
     "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
     "id": "developersofik/greenprompt",
     "language": "TypeScript",
@@ -376,15 +421,6 @@
     "stars": 0,
     "updated_at": "2026-10-10T18:52:18Z",
     "url": "https://github.com/developersofik/greenprompt"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8687,
-    "updated_at": "2026-10-10T19:43:30Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Turn your knowledge and standards into a tested, reliable AI \u2014 by interview, not by prompting.",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-10T18:47:28Z",
     "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "\ud83d\ude80 Accelerate large language model training and fine-tuning with Surogate\u2019s high-performance, mixed-precision framework i",
-    "id": "Kokotpica/surogate",
-    "language": "C++",
-    "name": "Kokotpica/surogate",
-    "stars": 2,
-    "updated_at": "2026-10-10T18:47:10Z",
-    "url": "https://github.com/Kokotpica/surogate"
-  },
-  {
-    "description": "\ud83d\udcca Build an interactive analytics dashboard with Spring Boot and JavaScript, featuring real-time data updates and advance",
-    "id": "bharion1/analytics-dashboard",
-    "language": "\u2014",
-    "name": "bharion1/analytics-dashboard",
-    "stars": 0,
-    "updated_at": "2026-10-10T18:47:01Z",
-    "url": "https://github.com/bharion1/analytics-dashboard"
-  },
-  {
-    "description": "\ud83d\ude80 Build with the Langfuse Go SDK to enhance your applications using Langfuse's open-source LLM engineering platform.",
-    "id": "sedai194443/langfuse-go",
-    "language": "Go",
-    "name": "sedai194443/langfuse-go",
-    "stars": 1,
-    "updated_at": "2026-10-10T18:45:43Z",
-    "url": "https://github.com/sedai194443/langfuse-go"
-  },
-  {
-    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
-    "id": "richardpapiona9/llm",
-    "language": "JavaScript",
-    "name": "richardpapiona9/llm",
-    "stars": 0,
-    "updated_at": "2026-10-10T18:38:37Z",
-    "url": "https://github.com/richardpapiona9/llm"
   }
 ]
