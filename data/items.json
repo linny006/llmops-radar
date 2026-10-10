@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "veerarakesh56/warden",
     "stars": 0,
-    "updated_at": "2026-10-10T01:42:19Z",
+    "updated_at": "2026-10-10T01:59:49Z",
     "url": "https://github.com/veerarakesh56/warden"
   },
   {
@@ -13,9 +13,63 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 60684,
-    "updated_at": "2026-10-10T01:45:05Z",
+    "stars": 60691,
+    "updated_at": "2026-10-10T02:00:00Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
+    "id": "burakdede/lorepack",
+    "language": "TypeScript",
+    "name": "burakdede/lorepack",
+    "stars": 3,
+    "updated_at": "2026-10-10T01:58:33Z",
+    "url": "https://github.com/burakdede/lorepack"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25850,
+    "updated_at": "2026-10-10T01:55:42Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O",
+    "id": "kelvran/gateway",
+    "language": "Go",
+    "name": "kelvran/gateway",
+    "stars": 0,
+    "updated_at": "2026-10-10T01:50:23Z",
+    "url": "https://github.com/kelvran/gateway"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2936,
+    "updated_at": "2026-10-10T01:48:56Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
+    "id": "luetzey/who2be",
+    "language": "Python",
+    "name": "luetzey/who2be",
+    "stars": 0,
+    "updated_at": "2026-10-10T01:45:38Z",
+    "url": "https://github.com/luetzey/who2be"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-10T01:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Phoenix-native LLM evaluation, prompt testing, model comparison, red teaming, and observability for Elixir",
@@ -27,33 +81,6 @@
     "url": "https://github.com/cristianodabc/aludel"
   },
   {
-    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
-    "id": "burakdede/lorepack",
-    "language": "TypeScript",
-    "name": "burakdede/lorepack",
-    "stars": 3,
-    "updated_at": "2026-10-10T01:43:56Z",
-    "url": "https://github.com/burakdede/lorepack"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25850,
-    "updated_at": "2026-10-10T01:43:08Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-10T01:30:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -61,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-10-10T01:28:51Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2935,
-    "updated_at": "2026-10-10T01:28:24Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Agent Assure is a local-first Agent Release Assurance Compiler that catches process regressions in agent releases",
@@ -166,18 +184,9 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 30480,
+    "stars": 30481,
     "updated_at": "2026-10-10T01:07:16Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O",
-    "id": "kelvran/gateway",
-    "language": "Go",
-    "name": "kelvran/gateway",
-    "stars": 0,
-    "updated_at": "2026-10-10T01:07:42Z",
-    "url": "https://github.com/kelvran/gateway"
   },
   {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
@@ -277,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-10-10T00:53:37Z",
     "url": "https://github.com/ydavidcm9-wq/vigil"
-  },
-  {
-    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
-    "id": "luetzey/who2be",
-    "language": "Python",
-    "name": "luetzey/who2be",
-    "stars": 0,
-    "updated_at": "2026-10-10T01:33:15Z",
-    "url": "https://github.com/luetzey/who2be"
   },
   {
     "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
@@ -437,7 +437,7 @@
     "language": "Python",
     "name": "abdullahimohamed101/agent-black-box",
     "stars": 0,
-    "updated_at": "2026-10-10T01:42:20Z",
+    "updated_at": "2026-10-10T01:56:38Z",
     "url": "https://github.com/abdullahimohamed101/agent-black-box"
   },
   {
