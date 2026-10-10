@@ -1,5 +1,50 @@
 [
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8676,
+    "updated_at": "2026-10-10T06:45:14Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60787,
+    "updated_at": "2026-10-10T06:45:16Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Fails an agent's answer if anything you asked about went unmentioned",
+    "id": "justin-rhee/attest-check",
+    "language": "Shell",
+    "name": "justin-rhee/attest-check",
+    "stars": 0,
+    "updated_at": "2026-10-10T06:39:21Z",
+    "url": "https://github.com/justin-rhee/attest-check"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25859,
+    "updated_at": "2026-10-10T06:33:20Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-10T06:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
     "id": "burakdede/lorepack",
     "language": "TypeScript",
@@ -7,15 +52,6 @@
     "stars": 3,
     "updated_at": "2026-10-10T06:28:33Z",
     "url": "https://github.com/burakdede/lorepack"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60782,
-    "updated_at": "2026-10-10T06:29:03Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
@@ -31,18 +67,9 @@
     "id": "vllm-project/vllm-ascend",
     "language": "Python",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2940,
+    "stars": 2941,
     "updated_at": "2026-10-10T06:22:57Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25858,
-    "updated_at": "2026-10-10T06:22:13Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "OpenTelemetry Instrumentation for AI Observability",
@@ -63,15 +90,6 @@
     "url": "https://github.com/pom11/hscc"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-10T06:15:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Self-hosted AI gateway in one Rust binary: OpenAI- and Anthropic-compatible API, routing with fallbacks, budgets, rate l",
     "id": "techgopal/ultrafast-ai-gateway",
     "language": "Rust",
@@ -88,15 +106,6 @@
     "stars": 4,
     "updated_at": "2026-10-10T06:09:51Z",
     "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8676,
-    "updated_at": "2026-10-10T06:27:10Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Policy, measurement, and operations workbench for running Codex and Claude agents safely across a GitHub estate.",
@@ -212,7 +221,7 @@
     "language": "Python",
     "name": "luetzey/who2be",
     "stars": 0,
-    "updated_at": "2026-10-10T05:44:30Z",
+    "updated_at": "2026-10-10T06:40:07Z",
     "url": "https://github.com/luetzey/who2be"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 11,
     "updated_at": "2026-10-10T04:13:23Z",
     "url": "https://github.com/liaosiliangCodeLife/harness-mate-plat"
-  },
-  {
-    "description": "A hands-on library for DevOps, Cloud, and AI engineers: real production scenarios for AWS, Kubernetes, Docker, and LLMOp",
-    "id": "sandeepk24/learn-devops-playbook",
-    "language": "Python",
-    "name": "sandeepk24/learn-devops-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-10T04:00:36Z",
-    "url": "https://github.com/sandeepk24/learn-devops-playbook"
   }
 ]
