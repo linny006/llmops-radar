@@ -1,12 +1,21 @@
 [
   {
-    "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
-    "id": "judgekeeper/judgekeeper",
+    "description": "\ud83e\uddd1\u200d\ud83d\udcbc HireFlow (WIP): agentic hiring workflow from requisition to onboarding on LangGraph, with human-in-the-loop approval",
+    "id": "nishantrv/Agentic_HR_Copilot_E2E_LangGraph_Azure_LLMOPS",
     "language": "Python",
-    "name": "judgekeeper/judgekeeper",
+    "name": "nishantrv/Agentic_HR_Copilot_E2E_LangGraph_Azure_LLMOPS",
     "stars": 0,
-    "updated_at": "2026-10-10T15:17:07Z",
-    "url": "https://github.com/judgekeeper/judgekeeper"
+    "updated_at": "2026-10-10T15:28:29Z",
+    "url": "https://github.com/nishantrv/Agentic_HR_Copilot_E2E_LangGraph_Azure_LLMOPS"
+  },
+  {
+    "description": "Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O",
+    "id": "kelvran/gateway",
+    "language": "Go",
+    "name": "kelvran/gateway",
+    "stars": 0,
+    "updated_at": "2026-10-10T15:27:26Z",
+    "url": "https://github.com/kelvran/gateway"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,8 +23,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-10-10T15:15:25Z",
+    "updated_at": "2026-10-10T15:21:59Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
+    "id": "judgekeeper/judgekeeper",
+    "language": "Python",
+    "name": "judgekeeper/judgekeeper",
+    "stars": 0,
+    "updated_at": "2026-10-10T15:17:07Z",
+    "url": "https://github.com/judgekeeper/judgekeeper"
   },
   {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
@@ -41,7 +59,7 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-10T15:09:27Z",
+    "updated_at": "2026-10-10T15:27:02Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -122,7 +140,7 @@
     "language": "Python",
     "name": "vllm-project/vllm-ascend",
     "stars": 2949,
-    "updated_at": "2026-10-10T14:50:45Z",
+    "updated_at": "2026-10-10T15:27:46Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -167,7 +185,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-10T15:17:54Z",
+    "updated_at": "2026-10-10T15:24:02Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -178,15 +196,6 @@
     "stars": 2,
     "updated_at": "2026-10-10T14:38:50Z",
     "url": "https://github.com/justrunme/ai-runtime-platform"
-  },
-  {
-    "description": "Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O",
-    "id": "kelvran/gateway",
-    "language": "Go",
-    "name": "kelvran/gateway",
-    "stars": 0,
-    "updated_at": "2026-10-10T14:39:12Z",
-    "url": "https://github.com/kelvran/gateway"
   },
   {
     "description": "Governed private AI control plane on Kubernetes. Case: https://justrunme.com/cases/ai-infra-control-plane/",
@@ -203,7 +212,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4933,
-    "updated_at": "2026-10-10T14:30:13Z",
+    "updated_at": "2026-10-10T15:22:32Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-10T13:10:09Z",
     "url": "https://github.com/shaikn6/shaikn6"
-  },
-  {
-    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
-    "id": "kawaiirashi/llm-retry",
-    "language": "C++",
-    "name": "kawaiirashi/llm-retry",
-    "stars": 1,
-    "updated_at": "2026-10-10T13:09:20Z",
-    "url": "https://github.com/kawaiirashi/llm-retry"
   }
 ]
