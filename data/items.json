@@ -1,29 +1,74 @@
 [
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25878,
-    "updated_at": "2026-10-10T22:00:02Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
     "id": "maks3201/decision-model-operator",
     "language": "Go",
     "name": "maks3201/decision-model-operator",
     "stars": 1,
-    "updated_at": "2026-10-10T21:59:55Z",
+    "updated_at": "2026-10-10T22:13:23Z",
     "url": "https://github.com/maks3201/decision-model-operator"
+  },
+  {
+    "description": "Open Source software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-10-10T22:06:04Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 6,
+    "updated_at": "2026-10-10T22:05:23Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60903,
+    "updated_at": "2026-10-10T22:14:13Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 1,
+    "updated_at": "2026-10-10T22:02:07Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-10T22:00:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25878,
+    "updated_at": "2026-10-10T22:11:35Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 35614,
-    "updated_at": "2026-10-10T21:57:54Z",
+    "stars": 35616,
+    "updated_at": "2026-10-10T22:13:58Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -34,15 +79,6 @@
     "stars": 91,
     "updated_at": "2026-10-10T21:55:42Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 6,
-    "updated_at": "2026-10-10T21:55:34Z",
-    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -59,7 +95,7 @@
     "language": "Python",
     "name": "evalshift/evalshift-cli",
     "stars": 5,
-    "updated_at": "2026-10-10T21:54:12Z",
+    "updated_at": "2026-10-10T22:01:52Z",
     "url": "https://github.com/evalshift/evalshift-cli"
   },
   {
@@ -70,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-10-10T21:55:04Z",
     "url": "https://github.com/kelvran/gateway"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60903,
-    "updated_at": "2026-10-10T22:00:17Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Earshot \u2014 the open-source Voice Observability SDK for evidence-first telemetry, latency analysis, and portable incident ",
@@ -117,15 +144,6 @@
     "url": "https://github.com/luetzey/who2be"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-10T21:45:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod",
     "id": "valteresj2/agent-hangar",
     "language": "Python",
@@ -151,15 +169,6 @@
     "stars": 2,
     "updated_at": "2026-10-10T21:42:52Z",
     "url": "https://github.com/justrunme/ai-infra-control-plane"
-  },
-  {
-    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 1,
-    "updated_at": "2026-10-10T21:50:03Z",
-    "url": "https://github.com/a-novel/service-genai"
   },
   {
     "description": "Governed Model Context Protocol (MCP) server & AI agent runtime with cryptographic action approval, typed tool effects, ",
@@ -194,7 +203,7 @@
     "language": "TypeScript",
     "name": "burakdede/lorepack",
     "stars": 3,
-    "updated_at": "2026-10-10T21:45:26Z",
+    "updated_at": "2026-10-10T22:09:12Z",
     "url": "https://github.com/burakdede/lorepack"
   },
   {
@@ -221,7 +230,7 @@
     "language": "Python",
     "name": "VibePod/vibepod-cli",
     "stars": 179,
-    "updated_at": "2026-10-10T21:47:23Z",
+    "updated_at": "2026-10-10T22:12:39Z",
     "url": "https://github.com/VibePod/vibepod-cli"
   },
   {
@@ -412,15 +421,6 @@
     "stars": 0,
     "updated_at": "2026-10-10T20:58:28Z",
     "url": "https://github.com/developersofik/greenprompt"
-  },
-  {
-    "description": "Open Source software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-10-10T21:56:58Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
