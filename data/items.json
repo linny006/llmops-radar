@@ -1,5 +1,68 @@
 [
   {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-10-10T13:55:57Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
+    "id": "burakdede/lorepack",
+    "language": "TypeScript",
+    "name": "burakdede/lorepack",
+    "stars": 3,
+    "updated_at": "2026-10-10T13:55:03Z",
+    "url": "https://github.com/burakdede/lorepack"
+  },
+  {
+    "description": "Open-source LLMOps platform with prompt management, an OpenAI-compatible AI gateway, OpenTelemetry tracing, a versioned ",
+    "id": "AcruxCore/AcruxCore",
+    "language": "TypeScript",
+    "name": "AcruxCore/AcruxCore",
+    "stars": 11,
+    "updated_at": "2026-10-10T13:53:16Z",
+    "url": "https://github.com/AcruxCore/AcruxCore"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-10T13:52:49Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Estimate LLM VRAM \u2014 model weights, KV cache, context window & concurrent users \u2014 and find the right GPU. Live Hugging Fa",
+    "id": "tahircengiz/LLMScale",
+    "language": "TypeScript",
+    "name": "tahircengiz/LLMScale",
+    "stars": 0,
+    "updated_at": "2026-10-10T13:50:06Z",
+    "url": "https://github.com/tahircengiz/LLMScale"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-10T13:48:51Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-10T13:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
     "id": "luetzey/who2be",
     "language": "Python",
@@ -9,21 +72,12 @@
     "url": "https://github.com/luetzey/who2be"
   },
   {
-    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-10-10T13:42:07Z",
-    "url": "https://github.com/veerarakesh56/warden"
-  },
-  {
     "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
     "id": "srjn45/warden",
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-10T13:44:59Z",
+    "updated_at": "2026-10-10T13:58:13Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -34,15 +88,6 @@
     "stars": 28335,
     "updated_at": "2026-10-10T13:40:17Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-10T13:38:37Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
@@ -117,15 +162,6 @@
     "url": "https://github.com/Unadventurous-concertina802/arcadia-win-script-execute"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-10T13:30:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Monitor multi-agent runtimes with evidence-based observability and deterministic failure attribution.",
     "id": "Conflictofinteresteddy300/FlowLens-AgentOps",
     "language": "\u2014",
@@ -167,7 +203,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8684,
-    "updated_at": "2026-10-10T13:38:03Z",
+    "updated_at": "2026-10-10T13:57:04Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -178,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-10-10T13:23:53Z",
     "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
-  },
-  {
-    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
-    "id": "burakdede/lorepack",
-    "language": "TypeScript",
-    "name": "burakdede/lorepack",
-    "stars": 3,
-    "updated_at": "2026-10-10T13:41:21Z",
-    "url": "https://github.com/burakdede/lorepack"
   },
   {
     "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
@@ -229,7 +256,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 60869,
+    "stars": 60871,
     "updated_at": "2026-10-10T13:11:48Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -347,7 +374,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-10-10T13:02:28Z",
+    "updated_at": "2026-10-10T13:48:49Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-10T12:52:28Z",
     "url": "https://github.com/rustrak/llmtrack"
-  },
-  {
-    "description": "\ud83d\udcca Build an interactive analytics dashboard with Spring Boot and JavaScript, featuring real-time data updates and advance",
-    "id": "bharion1/analytics-dashboard",
-    "language": "\u2014",
-    "name": "bharion1/analytics-dashboard",
-    "stars": 0,
-    "updated_at": "2026-10-10T12:51:53Z",
-    "url": "https://github.com/bharion1/analytics-dashboard"
-  },
-  {
-    "description": "AI Runtime Platform \u2014 OpenAI-compatible execution plane on Kubernetes. Case: https://justrunme.com/cases/ai-runtime-exec",
-    "id": "justrunme/ai-runtime-platform",
-    "language": "Python",
-    "name": "justrunme/ai-runtime-platform",
-    "stars": 2,
-    "updated_at": "2026-10-10T13:23:56Z",
-    "url": "https://github.com/justrunme/ai-runtime-platform"
-  },
-  {
-    "description": "\ud83d\ude80 Build with the Langfuse Go SDK to enhance your applications using Langfuse's open-source LLM engineering platform.",
-    "id": "sedai194443/langfuse-go",
-    "language": "Go",
-    "name": "sedai194443/langfuse-go",
-    "stars": 1,
-    "updated_at": "2026-10-10T12:50:03Z",
-    "url": "https://github.com/sedai194443/langfuse-go"
   }
 ]
