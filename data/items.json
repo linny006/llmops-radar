@@ -1,21 +1,75 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60694,
+    "updated_at": "2026-10-10T02:14:50Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
     "id": "veerarakesh56/warden",
     "language": "Python",
     "name": "veerarakesh56/warden",
     "stars": 0,
-    "updated_at": "2026-10-10T01:59:49Z",
+    "updated_at": "2026-10-10T02:13:23Z",
     "url": "https://github.com/veerarakesh56/warden"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60691,
-    "updated_at": "2026-10-10T02:00:00Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2936,
+    "updated_at": "2026-10-10T02:09:28Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "AI Agent \u7ba1\u7ebf\u53ef\u9760\u6027\u64cd\u4f5c\u7cfb\u7edf \u2014\u300cAgent \u7ba1\u7f16\uff0c\u95f8\u95e8\u7ba1\u4fe1\u300d\uff1a\u4e00\u53e5\u8bdd\u9700\u6c42 \u2192 \u81ea\u52a8 Agent \u56e2\u961f \u2192 \u6bcf\u6b65\u9a8c\u8bc1\u62e6\u622a \u2192 \u5b9a\u5411\u56de\u73af\u81ea\u6108",
+    "id": "zw-onemaker-ai/agent_gate",
+    "language": "Python",
+    "name": "zw-onemaker-ai/agent_gate",
+    "stars": 1,
+    "updated_at": "2026-10-10T02:09:09Z",
+    "url": "https://github.com/zw-onemaker-ai/agent_gate"
+  },
+  {
+    "description": "Flight recorder & observability for AI agents: trace every model call, tool call, file edit and shell command live, with",
+    "id": "abdullahimohamed101/agent-black-box",
+    "language": "Python",
+    "name": "abdullahimohamed101/agent-black-box",
+    "stars": 0,
+    "updated_at": "2026-10-10T02:06:59Z",
+    "url": "https://github.com/abdullahimohamed101/agent-black-box"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-10-10T02:04:46Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Proyecto de investigaci\u00f3n y desarrollo de software orientado a detectar, localizar y explicar regresiones conductuales e",
+    "id": "kapumota/ProvRegress",
+    "language": "Python",
+    "name": "kapumota/ProvRegress",
+    "stars": 0,
+    "updated_at": "2026-10-10T02:09:26Z",
+    "url": "https://github.com/kapumota/ProvRegress"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-10T02:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
@@ -32,7 +86,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25850,
-    "updated_at": "2026-10-10T01:55:42Z",
+    "updated_at": "2026-10-10T02:05:27Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -45,15 +99,6 @@
     "url": "https://github.com/kelvran/gateway"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2936,
-    "updated_at": "2026-10-10T01:48:56Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
     "id": "luetzey/who2be",
     "language": "Python",
@@ -61,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-10-10T01:45:38Z",
     "url": "https://github.com/luetzey/who2be"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-10T01:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Phoenix-native LLM evaluation, prompt testing, model comparison, red teaming, and observability for Elixir",
@@ -124,15 +160,6 @@
     "stars": 41,
     "updated_at": "2026-10-10T01:17:42Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "AI Agent \u7ba1\u7ebf\u53ef\u9760\u6027\u64cd\u4f5c\u7cfb\u7edf \u2014\u300cAgent \u7ba1\u7f16\uff0c\u95f8\u95e8\u7ba1\u4fe1\u300d\uff1a\u4e00\u53e5\u8bdd\u9700\u6c42 \u2192 \u81ea\u52a8 Agent \u56e2\u961f \u2192 \u6bcf\u6b65\u9a8c\u8bc1\u62e6\u622a \u2192 \u5b9a\u5411\u56de\u73af\u81ea\u6108",
-    "id": "zw-onemaker-ai/agent_gate",
-    "language": "Python",
-    "name": "zw-onemaker-ai/agent_gate",
-    "stars": 1,
-    "updated_at": "2026-10-10T01:17:07Z",
-    "url": "https://github.com/zw-onemaker-ai/agent_gate"
   },
   {
     "description": "Turn Claude into a context-aware red team operator with 78 drop-in offensive security skills across 23 categories.",
@@ -302,7 +329,7 @@
     "language": "Go",
     "name": "a-novel/service-genai",
     "stars": 1,
-    "updated_at": "2026-10-10T00:49:06Z",
+    "updated_at": "2026-10-10T02:11:43Z",
     "url": "https://github.com/a-novel/service-genai"
   },
   {
@@ -356,7 +383,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-10-10T01:29:44Z",
+    "updated_at": "2026-10-10T02:13:28Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1259,
     "updated_at": "2026-10-10T00:13:36Z",
     "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
-    "description": "One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod",
-    "id": "valteresj2/agent-hangar",
-    "language": "Python",
-    "name": "valteresj2/agent-hangar",
-    "stars": 3,
-    "updated_at": "2026-10-10T00:12:03Z",
-    "url": "https://github.com/valteresj2/agent-hangar"
-  },
-  {
-    "description": "Flight recorder & observability for AI agents: trace every model call, tool call, file edit and shell command live, with",
-    "id": "abdullahimohamed101/agent-black-box",
-    "language": "Python",
-    "name": "abdullahimohamed101/agent-black-box",
-    "stars": 0,
-    "updated_at": "2026-10-10T01:56:38Z",
-    "url": "https://github.com/abdullahimohamed101/agent-black-box"
-  },
-  {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
-    "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 1,
-    "updated_at": "2026-10-10T00:07:37Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
   }
 ]
