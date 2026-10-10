@@ -1,11 +1,56 @@
 [
   {
+    "description": "RAG assistant over enterprise-style regulatory data that answers vehicle safety questions from NHTSA recall and complain",
+    "id": "shashankag14/vehicle-safety-copilot",
+    "language": "Python",
+    "name": "shashankag14/vehicle-safety-copilot",
+    "stars": 0,
+    "updated_at": "2026-10-10T17:45:16Z",
+    "url": "https://github.com/shashankag14/vehicle-safety-copilot"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60886,
+    "updated_at": "2026-10-10T17:44:52Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 6,
+    "updated_at": "2026-10-10T17:37:43Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Read and diff OpenTelemetry GenAI agent traces in the browser: chat-style timeline, tokens, cost and latency per step, s",
+    "id": "gratycodes/genai-trace-diff",
+    "language": "TypeScript",
+    "name": "gratycodes/genai-trace-diff",
+    "stars": 0,
+    "updated_at": "2026-10-10T17:37:40Z",
+    "url": "https://github.com/gratycodes/genai-trace-diff"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-10T17:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
     "id": "srjn45/warden",
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-10T17:28:26Z",
+    "updated_at": "2026-10-10T17:44:24Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -14,7 +59,7 @@
     "language": "Python",
     "name": "luetzey/who2be",
     "stars": 0,
-    "updated_at": "2026-10-10T17:27:00Z",
+    "updated_at": "2026-10-10T17:39:56Z",
     "url": "https://github.com/luetzey/who2be"
   },
   {
@@ -23,7 +68,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25870,
-    "updated_at": "2026-10-10T17:27:28Z",
+    "updated_at": "2026-10-10T17:34:42Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -32,7 +77,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-10T17:29:43Z",
+    "updated_at": "2026-10-10T17:45:20Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -43,15 +88,6 @@
     "stars": 4,
     "updated_at": "2026-10-10T17:24:40Z",
     "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "RAG assistant over enterprise-style regulatory data that answers vehicle safety questions from NHTSA recall and complain",
-    "id": "shashankag14/auto-safety-assist",
-    "language": "Python",
-    "name": "shashankag14/auto-safety-assist",
-    "stars": 0,
-    "updated_at": "2026-10-10T17:23:22Z",
-    "url": "https://github.com/shashankag14/auto-safety-assist"
   },
   {
     "description": "Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O",
@@ -86,17 +122,8 @@
     "language": "TypeScript",
     "name": "burakdede/lorepack",
     "stars": 3,
-    "updated_at": "2026-10-10T17:26:00Z",
+    "updated_at": "2026-10-10T17:45:24Z",
     "url": "https://github.com/burakdede/lorepack"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60886,
-    "updated_at": "2026-10-10T17:26:07Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Open Source software factory.",
@@ -104,17 +131,8 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-10-10T17:15:44Z",
+    "updated_at": "2026-10-10T17:43:30Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-10T17:15:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -157,7 +175,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 35606,
+    "stars": 35607,
     "updated_at": "2026-10-10T17:01:39Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -178,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-10-10T16:50:17Z",
     "url": "https://github.com/Xander-Xai/Beauty-Industry-RAG-QA-System"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 6,
-    "updated_at": "2026-10-10T16:47:43Z",
-    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "Production-style RAG + LangGraph agent for an AI phone receptionist: pgvector, evals with a CI gate, cost/latency loggin",
@@ -337,7 +346,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 28336,
+    "stars": 28337,
     "updated_at": "2026-10-10T14:59:02Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -410,7 +419,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4933,
-    "updated_at": "2026-10-10T16:34:24Z",
+    "updated_at": "2026-10-10T17:38:26Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-10T14:21:59Z",
     "url": "https://github.com/veerarakesh56/warden"
-  },
-  {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 30,
-    "updated_at": "2026-10-10T14:20:03Z",
-    "url": "https://github.com/SourceShift/mini-ork"
   }
 ]
