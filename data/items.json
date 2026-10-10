@@ -1,12 +1,12 @@
 [
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60840,
-    "updated_at": "2026-10-10T09:28:48Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "description": "Estimate LLM VRAM \u2014 model weights, KV cache, context window & concurrent users \u2014 and find the right GPU. Live Hugging Fa",
+    "id": "tahircengiz/LLMScale",
+    "language": "TypeScript",
+    "name": "tahircengiz/LLMScale",
+    "stars": 0,
+    "updated_at": "2026-10-10T09:44:31Z",
+    "url": "https://github.com/tahircengiz/LLMScale"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
@@ -14,8 +14,53 @@
     "language": "Python",
     "name": "vllm-project/vllm-ascend",
     "stars": 2946,
-    "updated_at": "2026-10-10T09:25:47Z",
+    "updated_at": "2026-10-10T09:43:38Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 1,
+    "updated_at": "2026-10-10T09:39:51Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60845,
+    "updated_at": "2026-10-10T09:39:35Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
+    "id": "burakdede/lorepack",
+    "language": "TypeScript",
+    "name": "burakdede/lorepack",
+    "stars": 3,
+    "updated_at": "2026-10-10T09:43:44Z",
+    "url": "https://github.com/burakdede/lorepack"
+  },
+  {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-10-10T09:33:15Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-10T09:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source replay and evidence infrastructure for AI agents. Capture runs as portable Run Capsules for replay, diff, li",
@@ -54,15 +99,6 @@
     "url": "https://github.com/Plexito-de/wiretruth"
   },
   {
-    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-10-10T09:18:41Z",
-    "url": "https://github.com/veerarakesh56/warden"
-  },
-  {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
     "id": "cloudrift-ai/emmy",
     "language": "Python",
@@ -77,17 +113,8 @@
     "language": "Python",
     "name": "Kozphy/EvalForge",
     "stars": 1,
-    "updated_at": "2026-10-10T09:16:25Z",
+    "updated_at": "2026-10-10T09:33:21Z",
     "url": "https://github.com/Kozphy/EvalForge"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-10T09:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
@@ -97,24 +124,6 @@
     "stars": 6,
     "updated_at": "2026-10-10T09:12:29Z",
     "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "Estimate LLM VRAM \u2014 model weights, KV cache, context window & concurrent users \u2014 and find the right GPU. Live Hugging Fa",
-    "id": "tahircengiz/LLMScale",
-    "language": "TypeScript",
-    "name": "tahircengiz/LLMScale",
-    "stars": 0,
-    "updated_at": "2026-10-10T09:12:36Z",
-    "url": "https://github.com/tahircengiz/LLMScale"
-  },
-  {
-    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
-    "id": "burakdede/lorepack",
-    "language": "TypeScript",
-    "name": "burakdede/lorepack",
-    "stars": 3,
-    "updated_at": "2026-10-10T09:11:12Z",
-    "url": "https://github.com/burakdede/lorepack"
   },
   {
     "description": "Private single-operator Telegram research intelligence pipeline with evidence-bound weekly briefs, deterministic scoreca",
@@ -140,7 +149,7 @@
     "language": "Python",
     "name": "luetzey/who2be",
     "stars": 0,
-    "updated_at": "2026-10-10T08:55:48Z",
+    "updated_at": "2026-10-10T09:42:53Z",
     "url": "https://github.com/luetzey/who2be"
   },
   {
@@ -176,7 +185,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8681,
-    "updated_at": "2026-10-10T08:36:02Z",
+    "updated_at": "2026-10-10T09:31:52Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -212,7 +221,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1360,
-    "updated_at": "2026-10-10T09:27:29Z",
+    "updated_at": "2026-10-10T09:41:50Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -221,7 +230,7 @@
     "language": "Jupyter Notebook",
     "name": "DiogoRibeiro7/rag-quality-engine",
     "stars": 0,
-    "updated_at": "2026-10-10T08:25:39Z",
+    "updated_at": "2026-10-10T09:35:26Z",
     "url": "https://github.com/DiogoRibeiro7/rag-quality-engine"
   },
   {
@@ -230,7 +239,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28333,
-    "updated_at": "2026-10-10T09:25:12Z",
+    "updated_at": "2026-10-10T09:45:10Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-10T07:28:19Z",
     "url": "https://github.com/ydavidcm9-wq/vigil"
-  },
-  {
-    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
-    "id": "islaagnet27/llm-cost",
-    "language": "C++",
-    "name": "islaagnet27/llm-cost",
-    "stars": 1,
-    "updated_at": "2026-10-10T07:28:03Z",
-    "url": "https://github.com/islaagnet27/llm-cost"
   }
 ]
