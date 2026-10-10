@@ -1,5 +1,50 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60896,
+    "updated_at": "2026-10-10T19:24:55Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 6,
+    "updated_at": "2026-10-10T19:19:31Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 1,
+    "updated_at": "2026-10-10T19:17:32Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "Protect your machine from AI-powered automation with local, deterministic Allow/Ask/Deny controls for high-impact action",
+    "id": "Permed-lizard3456/ActionGuard",
+    "language": "\u2014",
+    "name": "Permed-lizard3456/ActionGuard",
+    "stars": 0,
+    "updated_at": "2026-10-10T19:16:35Z",
+    "url": "https://github.com/Permed-lizard3456/ActionGuard"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-10T19:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -63,24 +108,6 @@
     "url": "https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps"
   },
   {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 6,
-    "updated_at": "2026-10-10T19:12:04Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60894,
-    "updated_at": "2026-10-10T19:14:57Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Open-source LLM serving, benchmarking and operations: llama.cpp, vLLM and TensorRT-LLM on free T4s, cited RAG API, SLOs,",
     "id": "aafaq01/industrial-llm-stack",
     "language": "HTML",
@@ -99,6 +126,15 @@
     "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
   },
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25874,
+    "updated_at": "2026-10-10T19:06:54Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
     "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
     "language": "Dockerfile",
@@ -113,7 +149,7 @@
     "language": "Go",
     "name": "maks3201/decision-model-operator",
     "stars": 1,
-    "updated_at": "2026-10-10T19:12:40Z",
+    "updated_at": "2026-10-10T19:18:40Z",
     "url": "https://github.com/maks3201/decision-model-operator"
   },
   {
@@ -135,21 +171,12 @@
     "url": "https://github.com/Healthful-article791/rag-systems-production"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-10T19:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
     "id": "luetzey/who2be",
     "language": "Python",
     "name": "luetzey/who2be",
     "stars": 0,
-    "updated_at": "2026-10-10T19:00:17Z",
+    "updated_at": "2026-10-10T19:20:39Z",
     "url": "https://github.com/luetzey/who2be"
   },
   {
@@ -257,7 +284,7 @@
     "language": "TypeScript",
     "name": "burakdede/lorepack",
     "stars": 3,
-    "updated_at": "2026-10-10T19:15:01Z",
+    "updated_at": "2026-10-10T19:17:26Z",
     "url": "https://github.com/burakdede/lorepack"
   },
   {
@@ -268,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-10-10T18:50:38Z",
     "url": "https://github.com/tanveerkanala-cmd/ai-calibrator"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25873,
-    "updated_at": "2026-10-10T19:06:54Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-10T18:35:18Z",
     "url": "https://github.com/jamjet-labs/jamjet-guardrails"
-  },
-  {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-10-10T18:26:02Z",
-    "url": "https://github.com/redevops-io/agentic-os"
-  },
-  {
-    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
-    "id": "bilal0399/learn-agentic-ai",
-    "language": "\u2014",
-    "name": "bilal0399/learn-agentic-ai",
-    "stars": 8,
-    "updated_at": "2026-10-10T18:24:06Z",
-    "url": "https://github.com/bilal0399/learn-agentic-ai"
   }
 ]
