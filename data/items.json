@@ -1,20 +1,38 @@
 [
   {
-    "description": "Turn Claude into a context-aware red team operator with 78 drop-in offensive security skills across 23 categories.",
-    "id": "urellai22/Claude-Red",
+    "description": "Phoenix-native LLM evaluation, prompt testing, model comparison, red teaming, and observability for Elixir",
+    "id": "cristianodabc/aludel",
+    "language": "Elixir",
+    "name": "cristianodabc/aludel",
+    "stars": 41,
+    "updated_at": "2026-10-10T01:30:10Z",
+    "url": "https://github.com/cristianodabc/aludel"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-10T01:28:51Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
     "language": "Python",
-    "name": "urellai22/Claude-Red",
-    "stars": 0,
-    "updated_at": "2026-10-10T01:15:02Z",
-    "url": "https://github.com/urellai22/Claude-Red"
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2935,
+    "updated_at": "2026-10-10T01:28:24Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 60672,
-    "updated_at": "2026-10-10T01:13:36Z",
+    "stars": 60677,
+    "updated_at": "2026-10-10T01:27:48Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -23,8 +41,71 @@
     "language": "Python",
     "name": "veerarakesh56/warden",
     "stars": 0,
-    "updated_at": "2026-10-10T01:12:37Z",
+    "updated_at": "2026-10-10T01:24:37Z",
     "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "Agent Assure is a local-first Agent Release Assurance Compiler that catches process regressions in agent releases",
+    "id": "acblabs/agent-assure",
+    "language": "Python",
+    "name": "acblabs/agent-assure",
+    "stars": 1,
+    "updated_at": "2026-10-10T01:24:06Z",
+    "url": "https://github.com/acblabs/agent-assure"
+  },
+  {
+    "description": "\u7aef\u5230\u7aef\u667a\u80fd\u4f53\u5e73\u53f0\uff1a\u628a\u672c\u673a\u7684 AI Agent \u53d8\u6210\u4eba\u4eba\u53ef\u7528\u7684 Web \u4ea7\u54c1\uff08Vue 3 + Flask + Go WS \u7f51\u5173 + Docker \u90e8\u7f72\uff09",
+    "id": "liaosiliangCodeLife/harness-mate-plat",
+    "language": "Python",
+    "name": "liaosiliangCodeLife/harness-mate-plat",
+    "stars": 10,
+    "updated_at": "2026-10-10T01:22:14Z",
+    "url": "https://github.com/liaosiliangCodeLife/harness-mate-plat"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 6,
+    "updated_at": "2026-10-10T01:19:53Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-10T01:17:42Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "AI Agent \u7ba1\u7ebf\u53ef\u9760\u6027\u64cd\u4f5c\u7cfb\u7edf \u2014\u300cAgent \u7ba1\u7f16\uff0c\u95f8\u95e8\u7ba1\u4fe1\u300d\uff1a\u4e00\u53e5\u8bdd\u9700\u6c42 \u2192 \u81ea\u52a8 Agent \u56e2\u961f \u2192 \u6bcf\u6b65\u9a8c\u8bc1\u62e6\u622a \u2192 \u5b9a\u5411\u56de\u73af\u81ea\u6108",
+    "id": "zw-onemaker-ai/agent_gate",
+    "language": "Python",
+    "name": "zw-onemaker-ai/agent_gate",
+    "stars": 1,
+    "updated_at": "2026-10-10T01:17:07Z",
+    "url": "https://github.com/zw-onemaker-ai/agent_gate"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-10T01:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Turn Claude into a context-aware red team operator with 78 drop-in offensive security skills across 23 categories.",
+    "id": "urellai22/Claude-Red",
+    "language": "Python",
+    "name": "urellai22/Claude-Red",
+    "stars": 0,
+    "updated_at": "2026-10-10T01:15:02Z",
+    "url": "https://github.com/urellai22/Claude-Red"
   },
   {
     "description": "Standardize computer-use agents, sandboxes, data, evaluation, SFT, and RL across desktop, browser, and mobile with one u",
@@ -45,15 +126,6 @@
     "url": "https://github.com/Satisfiable-polopony613/EVIE-Preview-4.5B"
   },
   {
-    "description": "AI Agent \u7ba1\u7ebf\u53ef\u9760\u6027\u64cd\u4f5c\u7cfb\u7edf \u2014\u300cAgent \u7ba1\u7f16\uff0c\u95f8\u95e8\u7ba1\u4fe1\u300d\uff1a\u4e00\u53e5\u8bdd\u9700\u6c42 \u2192 \u81ea\u52a8 Agent \u56e2\u961f \u2192 \u6bcf\u6b65\u9a8c\u8bc1\u62e6\u622a \u2192 \u5b9a\u5411\u56de\u73af\u81ea\u6108",
-    "id": "zw-onemaker-ai/agent_gate",
-    "language": "Python",
-    "name": "zw-onemaker-ai/agent_gate",
-    "stars": 1,
-    "updated_at": "2026-10-10T01:10:27Z",
-    "url": "https://github.com/zw-onemaker-ai/agent_gate"
-  },
-  {
     "description": "Build and evaluate production-ready RAG pipelines with hands-on notebooks, templates, and proven performance strategies.",
     "id": "ashrafb8962/agentic-ops-and-rag",
     "language": "Jupyter Notebook",
@@ -72,21 +144,12 @@
     "url": "https://github.com/sargentfragrant429/AgentAccessManager"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-10T01:09:36Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
     "id": "burakdede/lorepack",
     "language": "TypeScript",
     "name": "burakdede/lorepack",
     "stars": 3,
-    "updated_at": "2026-10-10T01:13:15Z",
+    "updated_at": "2026-10-10T01:25:54Z",
     "url": "https://github.com/burakdede/lorepack"
   },
   {
@@ -124,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-10-10T01:01:00Z",
     "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-10T01:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
@@ -225,24 +279,6 @@
     "url": "https://github.com/islaagnet27/llm-cost"
   },
   {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 6,
-    "updated_at": "2026-10-10T01:01:26Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "Phoenix-native LLM evaluation, prompt testing, model comparison, red teaming, and observability for Elixir",
-    "id": "cristianodabc/aludel",
-    "language": "Elixir",
-    "name": "cristianodabc/aludel",
-    "stars": 41,
-    "updated_at": "2026-10-10T00:51:44Z",
-    "url": "https://github.com/cristianodabc/aludel"
-  },
-  {
     "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
     "id": "a-novel/service-genai",
     "language": "Go",
@@ -256,8 +292,8 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25848,
-    "updated_at": "2026-10-10T00:47:41Z",
+    "stars": 25849,
+    "updated_at": "2026-10-10T01:28:07Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -311,7 +347,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-10-10T00:40:23Z",
+    "updated_at": "2026-10-10T01:29:44Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -333,15 +369,6 @@
     "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-10T00:38:05Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "\ud83d\ude80 Expose your LangChain agents as services with zero configuration; turn scripts into web services using simple wrappers",
     "id": "Lukaa1507/langchain-runner",
     "language": "Python",
@@ -358,15 +385,6 @@
     "stars": 1,
     "updated_at": "2026-10-10T00:35:30Z",
     "url": "https://github.com/domondi1/inferrail"
-  },
-  {
-    "description": "\u7aef\u5230\u7aef\u667a\u80fd\u4f53\u5e73\u53f0\uff1a\u628a\u672c\u673a\u7684 AI Agent \u53d8\u6210\u4eba\u4eba\u53ef\u7528\u7684 Web \u4ea7\u54c1\uff08Vue 3 + Flask + Go WS \u7f51\u5173 + Docker \u90e8\u7f72\uff09",
-    "id": "liaosiliangCodeLife/harness-mate-plat",
-    "language": "Python",
-    "name": "liaosiliangCodeLife/harness-mate-plat",
-    "stars": 10,
-    "updated_at": "2026-10-10T00:39:06Z",
-    "url": "https://github.com/liaosiliangCodeLife/harness-mate-plat"
   },
   {
     "description": "AgentFox: open-source control plane for AI agents. Guardrails on model traffic, tool calls bounded by capability grants,",
@@ -430,23 +448,5 @@
     "stars": 30479,
     "updated_at": "2026-10-10T01:07:16Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 5,
-    "updated_at": "2026-10-10T00:02:27Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
-    "id": "maks3201/decision-model-operator",
-    "language": "Go",
-    "name": "maks3201/decision-model-operator",
-    "stars": 1,
-    "updated_at": "2026-10-09T23:58:26Z",
-    "url": "https://github.com/maks3201/decision-model-operator"
   }
 ]
