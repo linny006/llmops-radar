@@ -1,12 +1,84 @@
 [
   {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-10-10T12:12:46Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2948,
+    "updated_at": "2026-10-10T12:12:38Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28334,
+    "updated_at": "2026-10-10T12:12:03Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8683,
-    "updated_at": "2026-10-10T12:00:02Z",
+    "updated_at": "2026-10-10T12:13:55Z",
     "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "AI Testing Framework using Promptfoo for automated LLM evaluation, red teaming, and CI/CD integration with Jenkins. Supp",
+    "id": "VenkateshDoijode/promptfoo-cicd-framework",
+    "language": "Python",
+    "name": "VenkateshDoijode/promptfoo-cicd-framework",
+    "stars": 3,
+    "updated_at": "2026-10-10T12:07:40Z",
+    "url": "https://github.com/VenkateshDoijode/promptfoo-cicd-framework"
+  },
+  {
+    "description": "Open Source software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-10-10T12:06:41Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Governed private AI control plane on Kubernetes. Case: https://justrunme.com/cases/ai-infra-control-plane/",
+    "id": "justrunme/ai-infra-control-plane",
+    "language": "Python",
+    "name": "justrunme/ai-infra-control-plane",
+    "stars": 2,
+    "updated_at": "2026-10-10T12:07:58Z",
+    "url": "https://github.com/justrunme/ai-infra-control-plane"
+  },
+  {
+    "description": "Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O",
+    "id": "kelvran/gateway",
+    "language": "Go",
+    "name": "kelvran/gateway",
+    "stars": 0,
+    "updated_at": "2026-10-10T12:06:21Z",
+    "url": "https://github.com/kelvran/gateway"
+  },
+  {
+    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
+    "id": "Root1V/prometheus-inference-platform",
+    "language": "Python",
+    "name": "Root1V/prometheus-inference-platform",
+    "stars": 1,
+    "updated_at": "2026-10-10T12:03:35Z",
+    "url": "https://github.com/Root1V/prometheus-inference-platform"
   },
   {
     "description": "\ud83d\ude80 24-week AI Engineering journey with Python, LLM APIs, MCP servers & production patterns. Streaming clients, multi-prov",
@@ -14,8 +86,17 @@
     "language": "Python",
     "name": "skourav527/AI-for-architect",
     "stars": 1,
-    "updated_at": "2026-10-10T11:58:49Z",
+    "updated_at": "2026-10-10T12:01:48Z",
     "url": "https://github.com/skourav527/AI-for-architect"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-10T12:00:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Agentic Runtime",
@@ -25,33 +106,6 @@
     "stars": 41,
     "updated_at": "2026-10-10T11:58:41Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28334,
-    "updated_at": "2026-10-10T11:59:05Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-10-10T11:57:13Z",
-    "url": "https://github.com/veerarakesh56/warden"
-  },
-  {
-    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
-    "id": "Root1V/prometheus-inference-platform",
-    "language": "Python",
-    "name": "Root1V/prometheus-inference-platform",
-    "stars": 1,
-    "updated_at": "2026-10-10T11:54:57Z",
-    "url": "https://github.com/Root1V/prometheus-inference-platform"
   },
   {
     "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
@@ -68,7 +122,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 60867,
-    "updated_at": "2026-10-10T11:58:31Z",
+    "updated_at": "2026-10-10T12:12:41Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -79,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-10T11:53:43Z",
     "url": "https://github.com/nishantrv/Agentic_HR_Copilot_E2E_LangGraph_Azure_LLMOPS"
-  },
-  {
-    "description": "Open Source software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-10-10T11:51:41Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
@@ -124,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-10-10T11:46:26Z",
     "url": "https://github.com/lisn0/tidal"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-10T11:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
@@ -176,7 +212,7 @@
     "language": "Python",
     "name": "jakbuczarnecki/intergrax",
     "stars": 4,
-    "updated_at": "2026-10-10T11:45:04Z",
+    "updated_at": "2026-10-10T12:13:48Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
   },
   {
@@ -187,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-10-10T11:28:27Z",
     "url": "https://github.com/tahircengiz/LLMScale"
-  },
-  {
-    "description": "Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O",
-    "id": "kelvran/gateway",
-    "language": "Go",
-    "name": "kelvran/gateway",
-    "stars": 0,
-    "updated_at": "2026-10-10T11:19:17Z",
-    "url": "https://github.com/kelvran/gateway"
   },
   {
     "description": "Enterprise Scale AIFactory (esml) - on Azure",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-10T10:37:51Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2947,
-    "updated_at": "2026-10-10T10:37:17Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
-    "id": "Alexreye/advance-nlp-generative-ai",
-    "language": "\u2014",
-    "name": "Alexreye/advance-nlp-generative-ai",
-    "stars": 1,
-    "updated_at": "2026-10-10T10:36:41Z",
-    "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
-  },
-  {
-    "description": "AI Runtime Platform \u2014 OpenAI-compatible execution plane on Kubernetes. Case: https://justrunme.com/cases/ai-runtime-exec",
-    "id": "justrunme/ai-runtime-platform",
-    "language": "Python",
-    "name": "justrunme/ai-runtime-platform",
-    "stars": 2,
-    "updated_at": "2026-10-10T10:35:38Z",
-    "url": "https://github.com/justrunme/ai-runtime-platform"
   }
 ]
