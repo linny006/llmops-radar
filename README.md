@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-10 18:00 UTC
+> ⏰ Last updated: 2026-10-10 18:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,33 +42,33 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [requestyai/ai-sdk-requesty](https://github.com/requestyai/ai-sdk-requesty) | 11 | TypeScript | 2026-10-10 | The Requesty integration package for the Vercel AI SDK. |
-| 2 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 9 | Go | 2026-10-10 | Open Source software factory. |
-| 3 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25871 | TypeScript | 2026-10-10 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 4 | [a-novel/service-genai](https://github.com/a-novel/service-genai) | 1 | Go | 2026-10-10 | Generative AI proxy, with cost ledger and crash safety baked in. |
-| 5 | [luetzey/who2be](https://github.com/luetzey/who2be) | 0 | Python | 2026-10-10 | Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se |
-| 6 | [cloudrift-ai/emmy](https://github.com/cloudrift-ai/emmy) | 91 | Python | 2026-10-10 | Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel  |
-| 7 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-10 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 8 | [burakdede/lorepack](https://github.com/burakdede/lorepack) | 3 | TypeScript | 2026-10-10 | Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod |
-| 9 | [shashankag14/vehicle-safety-copilot](https://github.com/shashankag14/vehicle-safety-copilot) | 0 | Python | 2026-10-10 | RAG assistant over regulatory data that answers vehicle safety questions from NHTSA recall and complaint records, citing |
-| 10 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 60887 | Python | 2026-10-10 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 11 | [pom11/hscc](https://github.com/pom11/hscc) | 6 | Python | 2026-10-10 | Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents — cluster control, role-specialized worke |
-| 12 | [gratycodes/genai-trace-diff](https://github.com/gratycodes/genai-trace-diff) | 0 | TypeScript | 2026-10-10 | Read and diff OpenTelemetry GenAI agent traces in the browser: chat-style timeline, tokens, cost and latency per step, s |
-| 13 | [srjn45/warden](https://github.com/srjn45/warden) | 2 | Go | 2026-10-10 | Run a fleet of Claude Code agents from one Go binary — spawn, monitor, and tear them down in isolated git worktrees, tra |
-| 14 | [korczis/prismatic-majordomus](https://github.com/korczis/prismatic-majordomus) | 0 | Rust | 2026-10-10 | A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura |
-| 15 | [vivek-541/vivek-541](https://github.com/vivek-541/vivek-541) | 4 | HTML | 2026-10-10 | AI Engineer building production-grade ML systems \| LLMs, RAG, ML Pipelines \| Python, TensorFlow, LangChain \| Open to opp |
-| 16 | [kelvran/gateway](https://github.com/kelvran/gateway) | 0 | Go | 2026-10-10 | Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O |
-| 17 | [gratycodes/otel-genai-cost](https://github.com/gratycodes/otel-genai-cost) | 0 | Go | 2026-10-10 | OpenTelemetry Collector processor that prices GenAI spans in USD from token usage, with cost metrics by model/feature/te |
-| 18 | [dataagentsai/ai-assurance-catalog](https://github.com/dataagentsai/ai-assurance-catalog) | 0 | HTML | 2026-10-10 | Test obligations for AI applications, by architecture archetype. A catalog, not a framework. |
-| 19 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-10-10 | ThakiCloud Tech Blog |
-| 20 | [jamjet-labs/jamjet-guardrails](https://github.com/jamjet-labs/jamjet-guardrails) | 1 | Python | 2026-10-10 | Deterministic content guardrails for LLM and agent applications. Prompt injection in the encoding, PII, secrets and your |
-| 21 | [TheusHen/eleanity](https://github.com/TheusHen/eleanity) | 1 | Python | 2026-10-10 | CLI-first LLM runtime parity diagnostics. Same model, same input, first causal divergence. |
-| 22 | [123caiji/AI-LLM-Agent-Learning](https://github.com/123caiji/AI-LLM-Agent-Learning) | 7 | Python | 2026-10-10 | 中文 AI/LLM Agent 系统学习知识库:15 章从交互入口、MCP 协议、Agent 主体到构建自己的 Agent 全流程,附真实可运行的 LangGraph 实战项目。个人学习总结,欢迎斧正。 |
-| 23 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 35608 | TypeScript | 2026-10-10 | 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform. |
-| 24 | [techgopal/ultrafast-ai-gateway](https://github.com/techgopal/ultrafast-ai-gateway) | 21 | Rust | 2026-10-10 | Self-hosted AI gateway in one Rust binary: OpenAI- and Anthropic-compatible API, routing with fallbacks, budgets, rate l |
-| 25 | [Xander-Xai/Beauty-Industry-RAG-QA-System](https://github.com/Xander-Xai/Beauty-Industry-RAG-QA-System) | 0 | Python | 2026-10-10 | Multimodal RAG QA for cosmetics regulation: hybrid retrieval, two-stage reranking, evidence gating that refuses unsuppor |
-| 26 | [rafiulhc/calldesk-rag-llmops](https://github.com/rafiulhc/calldesk-rag-llmops) | 0 | Python | 2026-10-10 | Production-style RAG + LangGraph agent for an AI phone receptionist: pgvector, evals with a CI gate, cost/latency loggin |
-| 27 | [maks3201/decision-model-operator](https://github.com/maks3201/decision-model-operator) | 1 | Go | 2026-10-10 | Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product |
+| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25871 | TypeScript | 2026-10-10 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 2 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 60890 | Python | 2026-10-10 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 3 | [maks3201/decision-model-operator](https://github.com/maks3201/decision-model-operator) | 1 | Go | 2026-10-10 | Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product |
+| 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-10 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 5 | [requestyai/ai-sdk-requesty](https://github.com/requestyai/ai-sdk-requesty) | 11 | TypeScript | 2026-10-10 | The Requesty integration package for the Vercel AI SDK. |
+| 6 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 9 | Go | 2026-10-10 | Open Source software factory. |
+| 7 | [a-novel/service-genai](https://github.com/a-novel/service-genai) | 1 | Go | 2026-10-10 | Generative AI proxy, with cost ledger and crash safety baked in. |
+| 8 | [luetzey/who2be](https://github.com/luetzey/who2be) | 0 | Python | 2026-10-10 | Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se |
+| 9 | [cloudrift-ai/emmy](https://github.com/cloudrift-ai/emmy) | 91 | Python | 2026-10-10 | Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel  |
+| 10 | [burakdede/lorepack](https://github.com/burakdede/lorepack) | 3 | TypeScript | 2026-10-10 | Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod |
+| 11 | [shashankag14/vehicle-safety-copilot](https://github.com/shashankag14/vehicle-safety-copilot) | 0 | Python | 2026-10-10 | RAG assistant over regulatory data that answers vehicle safety questions from NHTSA recall and complaint records, citing |
+| 12 | [pom11/hscc](https://github.com/pom11/hscc) | 6 | Python | 2026-10-10 | Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents — cluster control, role-specialized worke |
+| 13 | [gratycodes/genai-trace-diff](https://github.com/gratycodes/genai-trace-diff) | 0 | TypeScript | 2026-10-10 | Read and diff OpenTelemetry GenAI agent traces in the browser: chat-style timeline, tokens, cost and latency per step, s |
+| 14 | [srjn45/warden](https://github.com/srjn45/warden) | 2 | Go | 2026-10-10 | Run a fleet of Claude Code agents from one Go binary — spawn, monitor, and tear them down in isolated git worktrees, tra |
+| 15 | [korczis/prismatic-majordomus](https://github.com/korczis/prismatic-majordomus) | 0 | Rust | 2026-10-10 | A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura |
+| 16 | [vivek-541/vivek-541](https://github.com/vivek-541/vivek-541) | 4 | HTML | 2026-10-10 | AI Engineer building production-grade ML systems \| LLMs, RAG, ML Pipelines \| Python, TensorFlow, LangChain \| Open to opp |
+| 17 | [kelvran/gateway](https://github.com/kelvran/gateway) | 0 | Go | 2026-10-10 | Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O |
+| 18 | [gratycodes/otel-genai-cost](https://github.com/gratycodes/otel-genai-cost) | 0 | Go | 2026-10-10 | OpenTelemetry Collector processor that prices GenAI spans in USD from token usage, with cost metrics by model/feature/te |
+| 19 | [dataagentsai/ai-assurance-catalog](https://github.com/dataagentsai/ai-assurance-catalog) | 0 | HTML | 2026-10-10 | Test obligations for AI applications, by architecture archetype. A catalog, not a framework. |
+| 20 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-10-10 | ThakiCloud Tech Blog |
+| 21 | [jamjet-labs/jamjet-guardrails](https://github.com/jamjet-labs/jamjet-guardrails) | 1 | Python | 2026-10-10 | Deterministic content guardrails for LLM and agent applications. Prompt injection in the encoding, PII, secrets and your |
+| 22 | [TheusHen/eleanity](https://github.com/TheusHen/eleanity) | 1 | Python | 2026-10-10 | CLI-first LLM runtime parity diagnostics. Same model, same input, first causal divergence. |
+| 23 | [123caiji/AI-LLM-Agent-Learning](https://github.com/123caiji/AI-LLM-Agent-Learning) | 7 | Python | 2026-10-10 | 中文 AI/LLM Agent 系统学习知识库:15 章从交互入口、MCP 协议、Agent 主体到构建自己的 Agent 全流程,附真实可运行的 LangGraph 实战项目。个人学习总结,欢迎斧正。 |
+| 24 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 35608 | TypeScript | 2026-10-10 | 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform. |
+| 25 | [techgopal/ultrafast-ai-gateway](https://github.com/techgopal/ultrafast-ai-gateway) | 21 | Rust | 2026-10-10 | Self-hosted AI gateway in one Rust binary: OpenAI- and Anthropic-compatible API, routing with fallbacks, budgets, rate l |
+| 26 | [Xander-Xai/Beauty-Industry-RAG-QA-System](https://github.com/Xander-Xai/Beauty-Industry-RAG-QA-System) | 0 | Python | 2026-10-10 | Multimodal RAG QA for cosmetics regulation: hybrid retrieval, two-stage reranking, evidence gating that refuses unsuppor |
+| 27 | [rafiulhc/calldesk-rag-llmops](https://github.com/rafiulhc/calldesk-rag-llmops) | 0 | Python | 2026-10-10 | Production-style RAG + LangGraph agent for an AI phone receptionist: pgvector, evals with a CI gate, cost/latency loggin |
 | 28 | [judgekeeper/judgekeeper](https://github.com/judgekeeper/judgekeeper) | 0 | Python | 2026-10-10 | Check your LLM-as-a-judge: see how often it agrees with human labels, in one command. |
 | 29 | [Root1V/prometheus-inference-platform](https://github.com/Root1V/prometheus-inference-platform) | 1 | Python | 2026-10-10 | Production-grade self-hosted LLM inference platform — FastAPI gateway with JWT auth, fine-grained per-model authorizatio |
 | 30 | [shaikn6/shaikn6](https://github.com/shaikn6/shaikn6) | 0 | Python | 2026-10-10 | Nagizaaz Shaik — ML & AI Systems Engineer |
