@@ -1,6 +1,78 @@
 [
   {
-    "description": "RAG assistant over enterprise-style regulatory data that answers vehicle safety questions from NHTSA recall and complain",
+    "description": "The Requesty integration package for the Vercel AI SDK.",
+    "id": "requestyai/ai-sdk-requesty",
+    "language": "TypeScript",
+    "name": "requestyai/ai-sdk-requesty",
+    "stars": 11,
+    "updated_at": "2026-10-10T17:59:37Z",
+    "url": "https://github.com/requestyai/ai-sdk-requesty"
+  },
+  {
+    "description": "Open Source software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-10-10T17:53:29Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25871,
+    "updated_at": "2026-10-10T17:49:04Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 1,
+    "updated_at": "2026-10-10T17:48:55Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
+    "id": "luetzey/who2be",
+    "language": "Python",
+    "name": "luetzey/who2be",
+    "stars": 0,
+    "updated_at": "2026-10-10T17:48:40Z",
+    "url": "https://github.com/luetzey/who2be"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 91,
+    "updated_at": "2026-10-10T17:46:31Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-10T17:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
+    "id": "burakdede/lorepack",
+    "language": "TypeScript",
+    "name": "burakdede/lorepack",
+    "stars": 3,
+    "updated_at": "2026-10-10T17:49:54Z",
+    "url": "https://github.com/burakdede/lorepack"
+  },
+  {
+    "description": "RAG assistant over regulatory data that answers vehicle safety questions from NHTSA recall and complaint records, citing",
     "id": "shashankag14/vehicle-safety-copilot",
     "language": "Python",
     "name": "shashankag14/vehicle-safety-copilot",
@@ -13,8 +85,8 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 60886,
-    "updated_at": "2026-10-10T17:44:52Z",
+    "stars": 60887,
+    "updated_at": "2026-10-10T18:00:19Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -36,40 +108,13 @@
     "url": "https://github.com/gratycodes/genai-trace-diff"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-10T17:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
     "id": "srjn45/warden",
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-10T17:44:24Z",
+    "updated_at": "2026-10-10T17:53:07Z",
     "url": "https://github.com/srjn45/warden"
-  },
-  {
-    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
-    "id": "luetzey/who2be",
-    "language": "Python",
-    "name": "luetzey/who2be",
-    "stars": 0,
-    "updated_at": "2026-10-10T17:39:56Z",
-    "url": "https://github.com/luetzey/who2be"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25870,
-    "updated_at": "2026-10-10T17:34:42Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
@@ -77,7 +122,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-10T17:45:20Z",
+    "updated_at": "2026-10-10T18:00:10Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -113,26 +158,8 @@
     "language": "HTML",
     "name": "dataagentsai/ai-assurance-catalog",
     "stars": 0,
-    "updated_at": "2026-10-10T17:20:12Z",
+    "updated_at": "2026-10-10T17:56:24Z",
     "url": "https://github.com/dataagentsai/ai-assurance-catalog"
-  },
-  {
-    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
-    "id": "burakdede/lorepack",
-    "language": "TypeScript",
-    "name": "burakdede/lorepack",
-    "stars": 3,
-    "updated_at": "2026-10-10T17:45:24Z",
-    "url": "https://github.com/burakdede/lorepack"
-  },
-  {
-    "description": "Open Source software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-10-10T17:43:30Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -149,7 +176,7 @@
     "language": "Python",
     "name": "jamjet-labs/jamjet-guardrails",
     "stars": 1,
-    "updated_at": "2026-10-10T17:10:25Z",
+    "updated_at": "2026-10-10T17:59:47Z",
     "url": "https://github.com/jamjet-labs/jamjet-guardrails"
   },
   {
@@ -175,7 +202,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 35607,
+    "stars": 35608,
     "updated_at": "2026-10-10T17:01:39Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -212,7 +239,7 @@
     "language": "Go",
     "name": "maks3201/decision-model-operator",
     "stars": 1,
-    "updated_at": "2026-10-10T17:19:47Z",
+    "updated_at": "2026-10-10T17:55:22Z",
     "url": "https://github.com/maks3201/decision-model-operator"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 4933,
     "updated_at": "2026-10-10T17:38:26Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "The platform for continuously improving AI agents.",
-    "id": "overmind-core/overmind",
-    "language": "Python",
-    "name": "overmind-core/overmind",
-    "stars": 609,
-    "updated_at": "2026-10-10T16:48:27Z",
-    "url": "https://github.com/overmind-core/overmind"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 2135,
-    "updated_at": "2026-10-10T14:29:09Z",
-    "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-10-10T14:21:59Z",
-    "url": "https://github.com/veerarakesh56/warden"
   }
 ]
