@@ -1,12 +1,66 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60812,
+    "updated_at": "2026-10-10T08:14:20Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28333,
+    "updated_at": "2026-10-10T08:15:22Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-10-10T08:08:14Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "AgentFox: open-source control plane for AI agents. Guardrails on model traffic, tool calls bounded by capability grants,",
+    "id": "architsharm/agentfox",
+    "language": "Python",
+    "name": "architsharm/agentfox",
+    "stars": 3,
+    "updated_at": "2026-10-10T08:15:17Z",
+    "url": "https://github.com/architsharm/agentfox"
+  },
+  {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "Python",
     "name": "vllm-project/vllm-ascend",
     "stars": 2943,
-    "updated_at": "2026-10-10T07:59:32Z",
+    "updated_at": "2026-10-10T08:07:09Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-10T08:02:52Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-10T08:00:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O",
@@ -23,7 +77,7 @@
     "language": "Jupyter Notebook",
     "name": "DiogoRibeiro7/rag-quality-engine",
     "stars": 0,
-    "updated_at": "2026-10-10T07:56:09Z",
+    "updated_at": "2026-10-10T08:05:39Z",
     "url": "https://github.com/DiogoRibeiro7/rag-quality-engine"
   },
   {
@@ -34,24 +88,6 @@
     "stars": 0,
     "updated_at": "2026-10-10T07:55:29Z",
     "url": "https://github.com/girish503/mini-llm-evaluation-lab"
-  },
-  {
-    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-10-10T07:54:28Z",
-    "url": "https://github.com/veerarakesh56/warden"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60810,
-    "updated_at": "2026-10-10T07:53:13Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Turn Claude into a context-aware red team operator with 78 drop-in offensive security skills across 23 categories.",
@@ -88,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-10-10T07:45:45Z",
     "url": "https://github.com/Satisfiable-polopony613/EVIE-Preview-4.5B"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-10T07:45:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Build and evaluate production-ready RAG pipelines with hands-on notebooks, templates, and proven performance strategies.",
@@ -194,7 +221,7 @@
     "language": "Python",
     "name": "luetzey/who2be",
     "stars": 0,
-    "updated_at": "2026-10-10T07:31:04Z",
+    "updated_at": "2026-10-10T08:14:13Z",
     "url": "https://github.com/luetzey/who2be"
   },
   {
@@ -329,7 +356,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1360,
-    "updated_at": "2026-10-10T07:56:16Z",
+    "updated_at": "2026-10-10T08:11:57Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -414,15 +441,6 @@
     "url": "https://github.com/Chris0Jeky/agent-harness"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-10T06:51:38Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "\u5927\u6a21\u578b\u8fd0\u7ef4\u5de5\u7a0b\u5e08\u7cfb\u7edf\u5b66\u4e60\u5347\u7ea7\u6253\u602a\u4e4b\u8def",
     "id": "Janlegenddry/LLMOpsGuide",
     "language": "JavaScript",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-10T06:47:29Z",
     "url": "https://github.com/Janlegenddry/LLMOpsGuide"
-  },
-  {
-    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4930,
-    "updated_at": "2026-10-10T07:55:18Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25860,
-    "updated_at": "2026-10-10T06:33:20Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   }
 ]
