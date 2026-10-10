@@ -1,12 +1,57 @@
 [
   {
-    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
-    "id": "iblai/os",
-    "language": "TypeScript",
-    "name": "iblai/os",
-    "stars": 804,
-    "updated_at": "2026-10-10T20:15:12Z",
-    "url": "https://github.com/iblai/os"
+    "description": "Governed private AI control plane on Kubernetes with policy, identity, and FinOps.",
+    "id": "justrunme/ai-infra-control-plane",
+    "language": "Python",
+    "name": "justrunme/ai-infra-control-plane",
+    "stars": 2,
+    "updated_at": "2026-10-10T20:29:55Z",
+    "url": "https://github.com/justrunme/ai-infra-control-plane"
+  },
+  {
+    "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
+    "id": "maks3201/decision-model-operator",
+    "language": "Go",
+    "name": "maks3201/decision-model-operator",
+    "stars": 1,
+    "updated_at": "2026-10-10T20:29:45Z",
+    "url": "https://github.com/maks3201/decision-model-operator"
+  },
+  {
+    "description": "FastAPI LLM router: picks the cheapest capable model per prompt and blocks prompt injection, using typed decisions.",
+    "id": "MiguelCarrascoB/laya-router",
+    "language": "Python",
+    "name": "MiguelCarrascoB/laya-router",
+    "stars": 0,
+    "updated_at": "2026-10-10T20:29:13Z",
+    "url": "https://github.com/MiguelCarrascoB/laya-router"
+  },
+  {
+    "description": "OpenAI-compatible AI execution plane on Kubernetes with MCP, vLLM, and policy.",
+    "id": "justrunme/ai-runtime-platform",
+    "language": "Python",
+    "name": "justrunme/ai-runtime-platform",
+    "stars": 2,
+    "updated_at": "2026-10-10T20:29:10Z",
+    "url": "https://github.com/justrunme/ai-runtime-platform"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-10-10T20:28:32Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
+    "id": "korczis/prismatic-majordomus",
+    "language": "Rust",
+    "name": "korczis/prismatic-majordomus",
+    "stars": 0,
+    "updated_at": "2026-10-10T20:26:46Z",
+    "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
     "description": "Generative AI proxy, with cost ledger and crash safety baked in.",
@@ -14,8 +59,35 @@
     "language": "Go",
     "name": "a-novel/service-genai",
     "stars": 1,
-    "updated_at": "2026-10-10T20:14:48Z",
+    "updated_at": "2026-10-10T20:25:41Z",
     "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
+    "id": "bilal0399/learn-agentic-ai",
+    "language": "\u2014",
+    "name": "bilal0399/learn-agentic-ai",
+    "stars": 8,
+    "updated_at": "2026-10-10T20:25:23Z",
+    "url": "https://github.com/bilal0399/learn-agentic-ai"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35612,
+    "updated_at": "2026-10-10T20:25:12Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Open Source software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-10-10T20:22:51Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -23,8 +95,35 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25876,
-    "updated_at": "2026-10-10T20:13:56Z",
+    "updated_at": "2026-10-10T20:27:19Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60898,
+    "updated_at": "2026-10-10T20:29:37Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
+    "id": "iblai/os",
+    "language": "TypeScript",
+    "name": "iblai/os",
+    "stars": 804,
+    "updated_at": "2026-10-10T20:15:49Z",
+    "url": "https://github.com/iblai/os"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-10T20:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
@@ -36,15 +135,6 @@
     "url": "https://github.com/pom11/hscc"
   },
   {
-    "description": "FastAPI LLM router: picks the cheapest capable model per prompt and blocks prompt injection, using typed decisions.",
-    "id": "MiguelCarrascoB/laya-router",
-    "language": "Python",
-    "name": "MiguelCarrascoB/laya-router",
-    "stars": 0,
-    "updated_at": "2026-10-10T20:12:58Z",
-    "url": "https://github.com/MiguelCarrascoB/laya-router"
-  },
-  {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
     "id": "toxicwind/ranch",
     "language": "Rust",
@@ -54,15 +144,6 @@
     "url": "https://github.com/toxicwind/ranch"
   },
   {
-    "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
-    "id": "maks3201/decision-model-operator",
-    "language": "Go",
-    "name": "maks3201/decision-model-operator",
-    "stars": 1,
-    "updated_at": "2026-10-10T20:11:16Z",
-    "url": "https://github.com/maks3201/decision-model-operator"
-  },
-  {
     "description": "Test obligations for AI applications, by architecture archetype. A catalog, not a framework.",
     "id": "dataagentsai/ai-assurance-catalog",
     "language": "HTML",
@@ -70,24 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-10T20:06:56Z",
     "url": "https://github.com/dataagentsai/ai-assurance-catalog"
-  },
-  {
-    "description": "Open Source software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-10-10T20:01:33Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-10T20:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -117,15 +180,6 @@
     "url": "https://github.com/ZIZKA-AI-SL/ZizkaDB"
   },
   {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-10-10T20:13:49Z",
-    "url": "https://github.com/redevops-io/agentic-os"
-  },
-  {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
     "id": "cloudrift-ai/emmy",
     "language": "Python",
@@ -133,15 +187,6 @@
     "stars": 91,
     "updated_at": "2026-10-10T20:09:34Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60898,
-    "updated_at": "2026-10-10T20:12:12Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -176,7 +221,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8688,
-    "updated_at": "2026-10-10T19:43:30Z",
+    "updated_at": "2026-10-10T20:28:54Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -203,7 +248,7 @@
     "language": "Python",
     "name": "VibePod/vibepod-cli",
     "stars": 179,
-    "updated_at": "2026-10-10T19:36:03Z",
+    "updated_at": "2026-10-10T20:29:01Z",
     "url": "https://github.com/VibePod/vibepod-cli"
   },
   {
@@ -223,15 +268,6 @@
     "stars": 41,
     "updated_at": "2026-10-10T19:30:11Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
-    "id": "korczis/prismatic-majordomus",
-    "language": "Rust",
-    "name": "korczis/prismatic-majordomus",
-    "stars": 0,
-    "updated_at": "2026-10-10T20:13:00Z",
-    "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
     "description": "Protect your machine from AI-powered automation with local, deterministic Allow/Ask/Deny controls for high-impact action",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-10T18:54:42Z",
     "url": "https://github.com/FawwazAzka/openclaw-docs"
-  },
-  {
-    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
-    "id": "developersofik/greenprompt",
-    "language": "TypeScript",
-    "name": "developersofik/greenprompt",
-    "stars": 0,
-    "updated_at": "2026-10-10T18:52:18Z",
-    "url": "https://github.com/developersofik/greenprompt"
-  },
-  {
-    "description": "Turn your knowledge and standards into a tested, reliable AI \u2014 by interview, not by prompting.",
-    "id": "tanveerkanala-cmd/ai-calibrator",
-    "language": "Python",
-    "name": "tanveerkanala-cmd/ai-calibrator",
-    "stars": 0,
-    "updated_at": "2026-10-10T18:50:38Z",
-    "url": "https://github.com/tanveerkanala-cmd/ai-calibrator"
-  },
-  {
-    "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
-    "id": "Alexreye/advance-nlp-generative-ai",
-    "language": "\u2014",
-    "name": "Alexreye/advance-nlp-generative-ai",
-    "stars": 1,
-    "updated_at": "2026-10-10T18:49:29Z",
-    "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
-  },
-  {
-    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
-    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "language": "\u2014",
-    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "stars": 0,
-    "updated_at": "2026-10-10T18:47:28Z",
-    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
   }
 ]
