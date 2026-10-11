@@ -1,12 +1,57 @@
 [
   {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 30,
+    "updated_at": "2026-10-11T19:27:38Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
     "description": "Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O",
     "id": "kelvran/gateway",
     "language": "Go",
     "name": "kelvran/gateway",
     "stars": 0,
-    "updated_at": "2026-10-11T19:14:41Z",
+    "updated_at": "2026-10-11T19:28:23Z",
     "url": "https://github.com/kelvran/gateway"
+  },
+  {
+    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
+    "id": "luetzey/who2be",
+    "language": "Python",
+    "name": "luetzey/who2be",
+    "stars": 0,
+    "updated_at": "2026-10-11T19:19:17Z",
+    "url": "https://github.com/luetzey/who2be"
+  },
+  {
+    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
+    "id": "srjn45/warden",
+    "language": "Go",
+    "name": "srjn45/warden",
+    "stars": 2,
+    "updated_at": "2026-10-11T19:20:52Z",
+    "url": "https://github.com/srjn45/warden"
+  },
+  {
+    "description": "Market Metrics is an autonomous market-intelligence platform designed to transform product ideas into structured, eviden",
+    "id": "721189/Market-Metrics",
+    "language": "TypeScript",
+    "name": "721189/Market-Metrics",
+    "stars": 1,
+    "updated_at": "2026-10-11T19:17:29Z",
+    "url": "https://github.com/721189/Market-Metrics"
+  },
+  {
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
+    "stars": 1,
+    "updated_at": "2026-10-11T19:16:27Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,7 +59,7 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-10-11T19:10:23Z",
+    "updated_at": "2026-10-11T19:15:27Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -25,6 +70,15 @@
     "stars": 10,
     "updated_at": "2026-10-11T19:06:51Z",
     "url": "https://github.com/atulkapoor/fde-framework"
+  },
+  {
+    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
+    "id": "lmnr-ai/lmnr",
+    "language": "TypeScript",
+    "name": "lmnr-ai/lmnr",
+    "stars": 3374,
+    "updated_at": "2026-10-11T19:05:01Z",
+    "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
     "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
@@ -59,7 +113,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25898,
-    "updated_at": "2026-10-11T18:55:16Z",
+    "updated_at": "2026-10-11T19:27:16Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -86,7 +140,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-11T19:07:33Z",
+    "updated_at": "2026-10-11T19:25:52Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -130,7 +184,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 60969,
+    "stars": 60970,
     "updated_at": "2026-10-11T18:40:29Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -149,7 +203,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8854,
-    "updated_at": "2026-10-11T18:27:12Z",
+    "updated_at": "2026-10-11T19:25:38Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -373,7 +427,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11787,
+    "stars": 11788,
     "updated_at": "2026-10-11T17:50:39Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-11T17:48:07Z",
     "url": "https://github.com/redd357magnum-ship-it/-SuperAgent-Hub"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and enforces rate limiting for secure and controlled access to",
-    "id": "Firmancaaa/rest-gateway-1771916753-3",
-    "language": "\u2014",
-    "name": "Firmancaaa/rest-gateway-1771916753-3",
-    "stars": 0,
-    "updated_at": "2026-10-11T17:47:33Z",
-    "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
-  },
-  {
-    "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
-    "id": "niyetbay0304/gateway",
-    "language": "Go",
-    "name": "niyetbay0304/gateway",
-    "stars": 1,
-    "updated_at": "2026-10-11T17:46:25Z",
-    "url": "https://github.com/niyetbay0304/gateway"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 4,
-    "updated_at": "2026-10-11T17:44:05Z",
-    "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Market Metrics is an autonomous market-intelligence platform designed to transform product ideas into structured, eviden",
-    "id": "721189/Market-Metrics",
-    "language": "TypeScript",
-    "name": "721189/Market-Metrics",
-    "stars": 1,
-    "updated_at": "2026-10-11T17:43:57Z",
-    "url": "https://github.com/721189/Market-Metrics"
-  },
-  {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 30,
-    "updated_at": "2026-10-11T17:42:34Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 23,
-    "updated_at": "2026-10-11T17:41:27Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   }
 ]
