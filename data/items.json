@@ -1,11 +1,101 @@
 [
   {
+    "description": "git-bisect for LLM-agent regressions: replay a failing run across prompt/model/tool versions to find the breaking change",
+    "id": "mykolapodpriatov/agentbisect",
+    "language": "Python",
+    "name": "mykolapodpriatov/agentbisect",
+    "stars": 0,
+    "updated_at": "2026-10-11T09:14:28Z",
+    "url": "https://github.com/mykolapodpriatov/agentbisect"
+  },
+  {
+    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
+    "id": "luetzey/who2be",
+    "language": "Python",
+    "name": "luetzey/who2be",
+    "stars": 0,
+    "updated_at": "2026-10-11T09:13:45Z",
+    "url": "https://github.com/luetzey/who2be"
+  },
+  {
+    "description": "\u7aef\u5230\u7aef\u667a\u80fd\u4f53\u5e73\u53f0\uff1a\u628a\u672c\u673a\u7684 AI Agent \u53d8\u6210\u4eba\u4eba\u53ef\u7528\u7684 Web \u4ea7\u54c1\uff08Vue 3 + Flask + Go WS \u7f51\u5173 + Docker \u90e8\u7f72\uff09",
+    "id": "liaosiliangCodeLife/harness-mate-plat",
+    "language": "Python",
+    "name": "liaosiliangCodeLife/harness-mate-plat",
+    "stars": 11,
+    "updated_at": "2026-10-11T09:12:10Z",
+    "url": "https://github.com/liaosiliangCodeLife/harness-mate-plat"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-11T09:12:05Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Java \u539f\u751f LLM \u53ef\u89c2\u6d4b\u4e0e\u8bc4\u6d4b\uff1a\u540c\u6e90 traceId \u8d2f\u901a\u3001\u56fd\u4ea7\u6a21\u578b\u4e2d\u6587\u8bc4\u6d4b\u96c6\u3001CI \u56de\u5f52\u95e8\u7981\u3002\u4e0d\u662f Langfuse \u7684\u66ff\u4ee3\u54c1\u3002",
+    "id": "Nephets1010/llm-glasshouse",
+    "language": "Java",
+    "name": "Nephets1010/llm-glasshouse",
+    "stars": 1,
+    "updated_at": "2026-10-11T09:11:14Z",
+    "url": "https://github.com/Nephets1010/llm-glasshouse"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-11T09:10:55Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Privacy audit for multi-agent AI systems (CrewAI \u00b7 LangGraph \u00b7 AutoGen) \u2014 detect compositional data leaks without the ce",
+    "id": "Justin0504/federated-agent-audit",
+    "language": "Python",
+    "name": "Justin0504/federated-agent-audit",
+    "stars": 4,
+    "updated_at": "2026-10-11T09:06:57Z",
+    "url": "https://github.com/Justin0504/federated-agent-audit"
+  },
+  {
+    "description": "Self-hosted workspace for writing, versioning, testing, and evaluating AI prompts. Bring your own LLM provider like Open",
+    "id": "chrysogonus/prompt-maker-studio",
+    "language": "Python",
+    "name": "chrysogonus/prompt-maker-studio",
+    "stars": 3,
+    "updated_at": "2026-10-11T09:03:45Z",
+    "url": "https://github.com/chrysogonus/prompt-maker-studio"
+  },
+  {
+    "description": "AI platform reference architecture for LLM serving on Kubernetes, with reliability, observability, failure testing, and ",
+    "id": "asadhanif3188/InferOps",
+    "language": "Python",
+    "name": "asadhanif3188/InferOps",
+    "stars": 0,
+    "updated_at": "2026-10-11T09:03:10Z",
+    "url": "https://github.com/asadhanif3188/InferOps"
+  },
+  {
+    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
+    "id": "cuihuan/awesome-ai-gateway",
+    "language": "HTML",
+    "name": "cuihuan/awesome-ai-gateway",
+    "stars": 129,
+    "updated_at": "2026-10-11T09:02:59Z",
+    "url": "https://github.com/cuihuan/awesome-ai-gateway"
+  },
+  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 8695,
-    "updated_at": "2026-10-11T09:00:14Z",
+    "stars": 8696,
+    "updated_at": "2026-10-11T09:02:22Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -14,17 +104,17 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 60945,
-    "updated_at": "2026-10-11T08:57:01Z",
+    "updated_at": "2026-10-11T09:13:58Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-11T08:55:11Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-11T09:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -63,15 +153,6 @@
     "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-11T08:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
     "id": "pom11/hscc",
     "language": "Python",
@@ -79,15 +160,6 @@
     "stars": 7,
     "updated_at": "2026-10-11T08:42:17Z",
     "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "Privacy audit for multi-agent AI systems (CrewAI \u00b7 LangGraph \u00b7 AutoGen) \u2014 detect compositional data leaks without the ce",
-    "id": "Justin0504/federated-agent-audit",
-    "language": "Python",
-    "name": "Justin0504/federated-agent-audit",
-    "stars": 4,
-    "updated_at": "2026-10-11T08:40:02Z",
-    "url": "https://github.com/Justin0504/federated-agent-audit"
   },
   {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
@@ -122,7 +194,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-10-11T08:55:25Z",
+    "updated_at": "2026-10-11T09:02:25Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -140,7 +212,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8848,
-    "updated_at": "2026-10-11T09:00:00Z",
+    "updated_at": "2026-10-11T09:08:47Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -176,7 +248,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25885,
-    "updated_at": "2026-10-11T08:58:20Z",
+    "updated_at": "2026-10-11T09:07:19Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -239,7 +311,7 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-11T08:58:57Z",
+    "updated_at": "2026-10-11T09:13:24Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -266,7 +338,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1361,
-    "updated_at": "2026-10-11T08:53:23Z",
+    "updated_at": "2026-10-11T09:08:46Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-11T07:29:17Z",
     "url": "https://github.com/harishu652/Class-AI-Agent"
-  },
-  {
-    "description": "Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo",
-    "id": "Healthful-article791/rag-systems-production",
-    "language": "\u2014",
-    "name": "Healthful-article791/rag-systems-production",
-    "stars": 1,
-    "updated_at": "2026-10-11T07:28:33Z",
-    "url": "https://github.com/Healthful-article791/rag-systems-production"
-  },
-  {
-    "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
-    "id": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "language": "\u2014",
-    "name": "ivanmoralesf2015-sudo/enterprise-governance-toolkit",
-    "stars": 0,
-    "updated_at": "2026-10-11T07:25:31Z",
-    "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
-  },
-  {
-    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
-    "id": "kawaiirashi/llm-retry",
-    "language": "C++",
-    "name": "kawaiirashi/llm-retry",
-    "stars": 1,
-    "updated_at": "2026-10-11T07:24:34Z",
-    "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
-    "id": "Anbumani08/agentic-coding-workflow",
-    "language": "HTML",
-    "name": "Anbumani08/agentic-coding-workflow",
-    "stars": 0,
-    "updated_at": "2026-10-11T07:24:32Z",
-    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
-  },
-  {
-    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
-    "id": "wahhyun/llm-eval",
-    "language": "C++",
-    "name": "wahhyun/llm-eval",
-    "stars": 1,
-    "updated_at": "2026-10-11T07:24:32Z",
-    "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-10-11T07:24:01Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
-  },
-  {
-    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
-    "id": "sarrahw23/deploy-guide",
-    "language": "\u2014",
-    "name": "sarrahw23/deploy-guide",
-    "stars": 1,
-    "updated_at": "2026-10-11T07:23:50Z",
-    "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
-    "id": "rvhn/rest-gateway-1771918257-5",
-    "language": "\u2014",
-    "name": "rvhn/rest-gateway-1771918257-5",
-    "stars": 0,
-    "updated_at": "2026-10-11T07:22:27Z",
-    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
   }
 ]
