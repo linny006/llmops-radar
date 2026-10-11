@@ -1,21 +1,39 @@
 [
   {
+    "description": "OpenAI-compatible AI execution plane on Kubernetes with MCP, vLLM, and policy.",
+    "id": "justrunme/ai-runtime-platform",
+    "language": "Python",
+    "name": "justrunme/ai-runtime-platform",
+    "stars": 2,
+    "updated_at": "2026-10-11T06:26:45Z",
+    "url": "https://github.com/justrunme/ai-runtime-platform"
+  },
+  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 41,
-    "updated_at": "2026-10-11T06:14:54Z",
+    "updated_at": "2026-10-11T06:25:34Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "Open-source AI gateway and operations platform. Bring your own provider API keys and unify every AI model behind a singl",
-    "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
     "language": "TypeScript",
-    "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
-    "stars": 4,
-    "updated_at": "2026-10-11T06:14:35Z",
-    "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
+    "name": "promptfoo/promptfoo",
+    "stars": 25881,
+    "updated_at": "2026-10-11T06:28:56Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-10-11T06:22:41Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
     "description": "Enterprise Corrective RAG (CRAG) platform for financial intelligence. Combines PostgreSQL pgvector hybrid search (Dense ",
@@ -23,8 +41,44 @@
     "language": "Python",
     "name": "Arashka-DS/financial-crag-with-langgraph-langsmith",
     "stars": 0,
-    "updated_at": "2026-10-11T06:09:54Z",
+    "updated_at": "2026-10-11T06:22:36Z",
     "url": "https://github.com/Arashka-DS/financial-crag-with-langgraph-langsmith"
+  },
+  {
+    "description": "AI agent governance dashboard for Cycles \u2014 budgets, action authority, tenants, webhooks, reservations, audit",
+    "id": "runcycles/cycles-dashboard",
+    "language": "TypeScript",
+    "name": "runcycles/cycles-dashboard",
+    "stars": 0,
+    "updated_at": "2026-10-11T06:20:18Z",
+    "url": "https://github.com/runcycles/cycles-dashboard"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 92,
+    "updated_at": "2026-10-11T06:18:40Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Token usage tracker for multi-agent AI sessions",
+    "id": "yunaremaia/agentcost",
+    "language": "Python",
+    "name": "yunaremaia/agentcost",
+    "stars": 2,
+    "updated_at": "2026-10-11T06:18:08Z",
+    "url": "https://github.com/yunaremaia/agentcost"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-11T06:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Nagizaaz Shaik \u2014 ML & AI Systems Engineer",
@@ -32,8 +86,17 @@
     "language": "Python",
     "name": "shaikn6/shaikn6",
     "stars": 0,
-    "updated_at": "2026-10-11T06:15:17Z",
+    "updated_at": "2026-10-11T06:15:38Z",
     "url": "https://github.com/shaikn6/shaikn6"
+  },
+  {
+    "description": "Open-source AI gateway and operations platform. Bring your own provider API keys and unify every AI model behind a singl",
+    "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "language": "TypeScript",
+    "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "stars": 4,
+    "updated_at": "2026-10-11T06:26:41Z",
+    "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -50,7 +113,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 60939,
-    "updated_at": "2026-10-11T06:14:11Z",
+    "updated_at": "2026-10-11T06:29:06Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -61,15 +124,6 @@
     "stars": 7481,
     "updated_at": "2026-10-11T06:05:34Z",
     "url": "https://github.com/traceloop/openllmetry"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-11T06:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
@@ -378,15 +432,6 @@
     "url": "https://github.com/maximhq/bifrost"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25882,
-    "updated_at": "2026-10-11T06:15:06Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
     "id": "liam8421/faster-llm",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-11T05:09:32Z",
     "url": "https://github.com/VamsiSudhakaran1/release-gate"
-  },
-  {
-    "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
-    "id": "recetariodmix/garak",
-    "language": "Python",
-    "name": "recetariodmix/garak",
-    "stars": 0,
-    "updated_at": "2026-10-11T05:07:51Z",
-    "url": "https://github.com/recetariodmix/garak"
-  },
-  {
-    "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
-    "id": "Kushagra1A/openpi",
-    "language": "Python",
-    "name": "Kushagra1A/openpi",
-    "stars": 7,
-    "updated_at": "2026-10-11T05:07:41Z",
-    "url": "https://github.com/Kushagra1A/openpi"
-  },
-  {
-    "description": "MCP budget and risk authority for Cycles \u2014 runtime governance for Claude, Cursor, and Windsurf",
-    "id": "runcycles/cycles-mcp-server",
-    "language": "TypeScript",
-    "name": "runcycles/cycles-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-10-11T05:07:02Z",
-    "url": "https://github.com/runcycles/cycles-mcp-server"
-  },
-  {
-    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
-    "id": "bilal0399/learn-agentic-ai",
-    "language": "\u2014",
-    "name": "bilal0399/learn-agentic-ai",
-    "stars": 8,
-    "updated_at": "2026-10-11T05:03:26Z",
-    "url": "https://github.com/bilal0399/learn-agentic-ai"
-  },
-  {
-    "description": "The gagarin CLI \u2014 deploy and operate applications on gagarin. Ships the agent skill inside the binary.",
-    "id": "gagarin-cloud/gg",
-    "language": "Go",
-    "name": "gagarin-cloud/gg",
-    "stars": 1,
-    "updated_at": "2026-10-11T05:02:36Z",
-    "url": "https://github.com/gagarin-cloud/gg"
   }
 ]
