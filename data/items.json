@@ -1,12 +1,93 @@
 [
   {
+    "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
+    "id": "ZIZKA-AI-SL/ZizkaDB",
+    "language": "Python",
+    "name": "ZIZKA-AI-SL/ZizkaDB",
+    "stars": 129,
+    "updated_at": "2026-10-11T04:00:16Z",
+    "url": "https://github.com/ZIZKA-AI-SL/ZizkaDB"
+  },
+  {
     "description": "Behavioral regression testing for AI apps and agents: pytest plugin, behavior diff, CI gate, and document extraction met",
     "id": "tap222/assay-evals",
     "language": "Python",
     "name": "tap222/assay-evals",
     "stars": 15,
-    "updated_at": "2026-10-11T03:42:18Z",
+    "updated_at": "2026-10-11T03:59:49Z",
     "url": "https://github.com/tap222/assay-evals"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "language": "Go",
+    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-10-11T03:57:41Z",
+    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
+  },
+  {
+    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
+    "id": "burakdede/lorepack",
+    "language": "TypeScript",
+    "name": "burakdede/lorepack",
+    "stars": 3,
+    "updated_at": "2026-10-11T03:59:13Z",
+    "url": "https://github.com/burakdede/lorepack"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60932,
+    "updated_at": "2026-10-11T03:50:02Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "A hands-on library for DevOps, Cloud, and AI engineers: real production scenarios for AWS, Kubernetes, Docker, and LLMOp",
+    "id": "sandeepk24/learn-devops-playbook",
+    "language": "Python",
+    "name": "sandeepk24/learn-devops-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-11T03:48:40Z",
+    "url": "https://github.com/sandeepk24/learn-devops-playbook"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25879,
+    "updated_at": "2026-10-11T03:48:01Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Multi-agent system for US drug prices and shortages on Azure: Databricks pipeline, MCP tool server, Ask agent and a week",
+    "id": "sujithnsn2026-crypto/drug-pricing-agent",
+    "language": "Python",
+    "name": "sujithnsn2026-crypto/drug-pricing-agent",
+    "stars": 0,
+    "updated_at": "2026-10-11T03:47:16Z",
+    "url": "https://github.com/sujithnsn2026-crypto/drug-pricing-agent"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-11T03:45:36Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-11T03:45:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Enterprise Corrective RAG (CRAG) platform for financial intelligence. Combines PostgreSQL pgvector hybrid search (Dense ",
@@ -27,15 +108,6 @@
     "url": "https://github.com/judgekeeper/judgekeeper"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25878,
-    "updated_at": "2026-10-11T03:34:14Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -43,15 +115,6 @@
     "stars": 28337,
     "updated_at": "2026-10-11T03:33:14Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-11T03:30:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The open-source safety layer for AI agents \u2014 block unsafe tool calls, require approval, enforce budgets, audit, replay.",
@@ -86,7 +149,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-10-11T03:24:58Z",
+    "updated_at": "2026-10-11T03:51:08Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -97,15 +160,6 @@
     "stars": 8845,
     "updated_at": "2026-10-11T03:22:50Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
-    "id": "burakdede/lorepack",
-    "language": "TypeScript",
-    "name": "burakdede/lorepack",
-    "stars": 3,
-    "updated_at": "2026-10-11T03:25:17Z",
-    "url": "https://github.com/burakdede/lorepack"
   },
   {
     "description": "One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod",
@@ -124,15 +178,6 @@
     "stars": 44,
     "updated_at": "2026-10-11T03:13:25Z",
     "url": "https://github.com/0xLazAI/alith"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60932,
-    "updated_at": "2026-10-11T03:39:36Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "TypeScript SDK for Cycles \u2014 runtime budget and action authority for Node.js AI agents",
@@ -158,7 +203,7 @@
     "language": "Python",
     "name": "luetzey/who2be",
     "stars": 0,
-    "updated_at": "2026-10-11T03:04:38Z",
+    "updated_at": "2026-10-11T03:58:55Z",
     "url": "https://github.com/luetzey/who2be"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-11T02:15:07Z",
     "url": "https://github.com/sedai194443/langfuse-go"
-  },
-  {
-    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
-    "id": "richardpapiona9/llm",
-    "language": "JavaScript",
-    "name": "richardpapiona9/llm",
-    "stars": 0,
-    "updated_at": "2026-10-11T02:08:07Z",
-    "url": "https://github.com/richardpapiona9/llm"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
-    "id": "mahdidjemaci/production-rag",
-    "language": "Python",
-    "name": "mahdidjemaci/production-rag",
-    "stars": 2,
-    "updated_at": "2026-10-11T02:07:45Z",
-    "url": "https://github.com/mahdidjemaci/production-rag"
-  },
-  {
-    "description": "Java \u539f\u751f LLM \u53ef\u89c2\u6d4b\u4e0e\u8bc4\u6d4b\uff1a\u540c\u6e90 traceId \u8d2f\u901a\u3001\u56fd\u4ea7\u6a21\u578b\u4e2d\u6587\u8bc4\u6d4b\u96c6\u3001CI \u56de\u5f52\u95e8\u7981\u3002\u4e0d\u662f Langfuse \u7684\u66ff\u4ee3\u54c1\u3002",
-    "id": "Nephets1010/llm-glasshouse",
-    "language": "Java",
-    "name": "Nephets1010/llm-glasshouse",
-    "stars": 1,
-    "updated_at": "2026-10-11T02:06:51Z",
-    "url": "https://github.com/Nephets1010/llm-glasshouse"
-  },
-  {
-    "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
-    "id": "liam8421/faster-llm",
-    "language": "Python",
-    "name": "liam8421/faster-llm",
-    "stars": 0,
-    "updated_at": "2026-10-11T02:02:59Z",
-    "url": "https://github.com/liam8421/faster-llm"
-  },
-  {
-    "description": "Prism-inspired multi-agent orchestration framework built on LangGraph. Security-first, provider-agnostic, composable.",
-    "id": "prismal-ai/prismal",
-    "language": "Python",
-    "name": "prismal-ai/prismal",
-    "stars": 1,
-    "updated_at": "2026-10-11T02:28:40Z",
-    "url": "https://github.com/prismal-ai/prismal"
   }
 ]
