@@ -1,5 +1,95 @@
 [
   {
+    "description": "Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O",
+    "id": "kelvran/gateway",
+    "language": "Go",
+    "name": "kelvran/gateway",
+    "stars": 0,
+    "updated_at": "2026-10-11T13:12:20Z",
+    "url": "https://github.com/kelvran/gateway"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 23,
+    "updated_at": "2026-10-11T13:10:13Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8699,
+    "updated_at": "2026-10-11T13:09:54Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
+    "id": "maks3201/decision-model-operator",
+    "language": "Go",
+    "name": "maks3201/decision-model-operator",
+    "stars": 1,
+    "updated_at": "2026-10-11T13:09:09Z",
+    "url": "https://github.com/maks3201/decision-model-operator"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2949,
+    "updated_at": "2026-10-11T13:06:39Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 7,
+    "updated_at": "2026-10-11T13:05:29Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 30,
+    "updated_at": "2026-10-11T13:02:27Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Does your LLM telemetry tell the truth? Replays provider responses through LLM instrumentation libraries and checks ever",
+    "id": "Plexito-de/wiretruth",
+    "language": "Python",
+    "name": "Plexito-de/wiretruth",
+    "stars": 0,
+    "updated_at": "2026-10-11T13:02:02Z",
+    "url": "https://github.com/Plexito-de/wiretruth"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-11T13:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Evidence-backed improvement proposals for AI agents.",
+    "id": "vittorfp/agent-change-proposals",
+    "language": "Python",
+    "name": "vittorfp/agent-change-proposals",
+    "stars": 0,
+    "updated_at": "2026-10-11T13:00:44Z",
+    "url": "https://github.com/vittorfp/agent-change-proposals"
+  },
+  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -9,49 +99,13 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "Evidence-backed improvement proposals for AI agents.",
-    "id": "vittorfp/agent-change-proposals",
-    "language": "Python",
-    "name": "vittorfp/agent-change-proposals",
-    "stars": 0,
-    "updated_at": "2026-10-11T12:58:35Z",
-    "url": "https://github.com/vittorfp/agent-change-proposals"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 7,
-    "updated_at": "2026-10-11T12:58:35Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 60951,
+    "stars": 60952,
     "updated_at": "2026-10-11T12:57:12Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 23,
-    "updated_at": "2026-10-11T12:54:26Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
-    "id": "maks3201/decision-model-operator",
-    "language": "Go",
-    "name": "maks3201/decision-model-operator",
-    "stars": 1,
-    "updated_at": "2026-10-11T12:56:10Z",
-    "url": "https://github.com/maks3201/decision-model-operator"
   },
   {
     "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
@@ -63,49 +117,13 @@
     "url": "https://github.com/Amz34/awesome-agent-infrastructure"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2949,
-    "updated_at": "2026-10-11T12:51:13Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8698,
-    "updated_at": "2026-10-11T12:54:56Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
     "id": "korczis/prismatic-majordomus",
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-11T12:49:27Z",
+    "updated_at": "2026-10-11T13:08:21Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 30,
-    "updated_at": "2026-10-11T12:47:12Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-11T12:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI trust-boundary gateway for OpenAI, Anthropic, and Gemini.",
@@ -113,7 +131,7 @@
     "language": "Python",
     "name": "GetSHIM/shim",
     "stars": 8,
-    "updated_at": "2026-10-11T12:52:45Z",
+    "updated_at": "2026-10-11T13:02:31Z",
     "url": "https://github.com/GetSHIM/shim"
   },
   {
@@ -140,7 +158,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-10-11T13:00:23Z",
+    "updated_at": "2026-10-11T13:00:34Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -153,15 +171,6 @@
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
-    "description": "Does your LLM telemetry tell the truth? Replays provider responses through LLM instrumentation libraries and checks ever",
-    "id": "Plexito-de/wiretruth",
-    "language": "Python",
-    "name": "Plexito-de/wiretruth",
-    "stars": 0,
-    "updated_at": "2026-10-11T13:00:09Z",
-    "url": "https://github.com/Plexito-de/wiretruth"
-  },
-  {
     "description": "The platform for continuously improving AI agents.",
     "id": "overmind-core/overmind",
     "language": "Python",
@@ -169,15 +178,6 @@
     "stars": 614,
     "updated_at": "2026-10-11T12:28:37Z",
     "url": "https://github.com/overmind-core/overmind"
-  },
-  {
-    "description": "Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O",
-    "id": "kelvran/gateway",
-    "language": "Go",
-    "name": "kelvran/gateway",
-    "stars": 0,
-    "updated_at": "2026-10-11T12:28:00Z",
-    "url": "https://github.com/kelvran/gateway"
   },
   {
     "description": "Chat-based assistant that benchmarks llm-d from a plain-English goal: it interviews you, deploys an llm-d stack if neede",
