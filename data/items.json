@@ -1,5 +1,59 @@
 [
   {
+    "description": "Behavioral regression testing for AI apps and agents: pytest plugin, behavior diff, CI gate, and document extraction met",
+    "id": "tap222/assay-evals",
+    "language": "Python",
+    "name": "tap222/assay-evals",
+    "stars": 15,
+    "updated_at": "2026-10-11T03:42:18Z",
+    "url": "https://github.com/tap222/assay-evals"
+  },
+  {
+    "description": "Enterprise Corrective RAG (CRAG) platform for financial intelligence. Combines PostgreSQL pgvector hybrid search (Dense ",
+    "id": "Arashka-DS/financial-crag-with-langgraph-langsmith",
+    "language": "Python",
+    "name": "Arashka-DS/financial-crag-with-langgraph-langsmith",
+    "stars": 0,
+    "updated_at": "2026-10-11T03:38:21Z",
+    "url": "https://github.com/Arashka-DS/financial-crag-with-langgraph-langsmith"
+  },
+  {
+    "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
+    "id": "judgekeeper/judgekeeper",
+    "language": "Python",
+    "name": "judgekeeper/judgekeeper",
+    "stars": 0,
+    "updated_at": "2026-10-11T03:35:05Z",
+    "url": "https://github.com/judgekeeper/judgekeeper"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25878,
+    "updated_at": "2026-10-11T03:34:14Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28337,
+    "updated_at": "2026-10-11T03:33:14Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-11T03:30:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The open-source safety layer for AI agents \u2014 block unsafe tool calls, require approval, enforce budgets, audit, replay.",
     "id": "jamjet-labs/jamjet",
     "language": "Rust",
@@ -36,6 +90,15 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8845,
+    "updated_at": "2026-10-11T03:22:50Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
     "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
     "id": "burakdede/lorepack",
     "language": "TypeScript",
@@ -45,24 +108,6 @@
     "url": "https://github.com/burakdede/lorepack"
   },
   {
-    "description": "Enterprise Corrective RAG (CRAG) platform for financial intelligence. Combines PostgreSQL pgvector hybrid search (Dense ",
-    "id": "Arashka-DS/financial-crag-with-langgraph-langsmith",
-    "language": "Python",
-    "name": "Arashka-DS/financial-crag-with-langgraph-langsmith",
-    "stars": 0,
-    "updated_at": "2026-10-11T03:19:43Z",
-    "url": "https://github.com/Arashka-DS/financial-crag-with-langgraph-langsmith"
-  },
-  {
-    "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
-    "id": "judgekeeper/judgekeeper",
-    "language": "Python",
-    "name": "judgekeeper/judgekeeper",
-    "stars": 0,
-    "updated_at": "2026-10-11T03:17:49Z",
-    "url": "https://github.com/judgekeeper/judgekeeper"
-  },
-  {
     "description": "One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod",
     "id": "valteresj2/agent-hangar",
     "language": "Python",
@@ -70,15 +115,6 @@
     "stars": 3,
     "updated_at": "2026-10-11T03:16:06Z",
     "url": "https://github.com/valteresj2/agent-hangar"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-11T03:15:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
@@ -94,8 +130,8 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 60930,
-    "updated_at": "2026-10-11T03:08:33Z",
+    "stars": 60932,
+    "updated_at": "2026-10-11T03:39:36Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -133,15 +169,6 @@
     "stars": 35622,
     "updated_at": "2026-10-11T02:54:34Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25878,
-    "updated_at": "2026-10-11T03:26:57Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Protect your machine from AI-powered automation with local, deterministic Allow/Ask/Deny controls for high-impact action",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-11T02:28:40Z",
     "url": "https://github.com/prismal-ai/prismal"
-  },
-  {
-    "description": "\ud83d\udd0d Discover vulnerabilities in LLMs with garak, a tool that probes for weaknesses like hallucination, data leakage, and m",
-    "id": "recetariodmix/garak",
-    "language": "Python",
-    "name": "recetariodmix/garak",
-    "stars": 0,
-    "updated_at": "2026-10-11T02:00:40Z",
-    "url": "https://github.com/recetariodmix/garak"
-  },
-  {
-    "description": "\ud83e\udd16 Explore open-source robotics models and packages, including advanced vision-language-action systems for versatile appl",
-    "id": "Kushagra1A/openpi",
-    "language": "Python",
-    "name": "Kushagra1A/openpi",
-    "stars": 7,
-    "updated_at": "2026-10-11T02:00:26Z",
-    "url": "https://github.com/Kushagra1A/openpi"
-  },
-  {
-    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
-    "id": "bilal0399/learn-agentic-ai",
-    "language": "\u2014",
-    "name": "bilal0399/learn-agentic-ai",
-    "stars": 8,
-    "updated_at": "2026-10-11T01:56:07Z",
-    "url": "https://github.com/bilal0399/learn-agentic-ai"
   }
 ]
