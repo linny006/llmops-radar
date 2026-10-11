@@ -1,12 +1,93 @@
 [
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8698,
+    "updated_at": "2026-10-11T12:30:03Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 30,
+    "updated_at": "2026-10-11T12:29:05Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-11T12:29:00Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The platform for continuously improving AI agents.",
+    "id": "overmind-core/overmind",
+    "language": "Python",
+    "name": "overmind-core/overmind",
+    "stars": 613,
+    "updated_at": "2026-10-11T12:28:37Z",
+    "url": "https://github.com/overmind-core/overmind"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60949,
+    "updated_at": "2026-10-11T12:26:45Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O",
+    "id": "kelvran/gateway",
+    "language": "Go",
+    "name": "kelvran/gateway",
+    "stars": 0,
+    "updated_at": "2026-10-11T12:28:00Z",
+    "url": "https://github.com/kelvran/gateway"
+  },
+  {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "Python",
     "name": "vllm-project/vllm-ascend",
     "stars": 2949,
-    "updated_at": "2026-10-11T12:14:35Z",
+    "updated_at": "2026-10-11T12:18:51Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Open Source software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-10-11T12:16:55Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Chat-based assistant that benchmarks llm-d from a plain-English goal: it interviews you, deploys an llm-d stack if neede",
+    "id": "TalBenAmii/llm-d-benchmarking-agent",
+    "language": "Python",
+    "name": "TalBenAmii/llm-d-benchmarking-agent",
+    "stars": 0,
+    "updated_at": "2026-10-11T12:16:11Z",
+    "url": "https://github.com/TalBenAmii/llm-d-benchmarking-agent"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-11T12:15:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
@@ -36,15 +117,6 @@
     "url": "https://github.com/RitikPatill/llm-prompt-eval-bench"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8698,
-    "updated_at": "2026-10-11T12:08:14Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
     "id": "dyronrh/awesome-agentops-landscape",
     "language": "Python",
@@ -54,15 +126,6 @@
     "url": "https://github.com/dyronrh/awesome-agentops-landscape"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-11T12:04:35Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "The gagarin CLI \u2014 deploy and operate applications on gagarin. Ships the agent skill inside the binary.",
     "id": "gagarin-cloud/gg",
     "language": "Go",
@@ -70,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-10-11T12:04:11Z",
     "url": "https://github.com/gagarin-cloud/gg"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-11T12:00:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\u9876\u7ea7\u5ba1\u7f8e\u7684\u4e2a\u4eba\u535a\u5ba2\uff01\uff01\uff01\u5199\u4e00\u4e9b\u5173\u4e8e AI\u3001Agent\u3001\u6280\u672f\u3001\u4ea7\u54c1\u3001\u8425\u9500\u3001\u4e00\u4e9b\u751f\u6d3b\u601d\u8003\uff0c\u4e2a\u4eba\u6210\u957f\u7c7b\u7684\u7cbe\u6587",
@@ -108,15 +162,6 @@
     "url": "https://github.com/asadhanif3188/InferOps"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60949,
-    "updated_at": "2026-10-11T12:09:57Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
     "id": "runcycles/cycles-docs",
     "language": "Vue",
@@ -124,15 +169,6 @@
     "stars": 4,
     "updated_at": "2026-10-11T11:51:44Z",
     "url": "https://github.com/runcycles/cycles-docs"
-  },
-  {
-    "description": "Open Source software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-10-11T11:52:51Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "AI agent governance dashboard for Cycles \u2014 budgets, action authority, tenants, webhooks, reservations, audit",
@@ -266,7 +302,7 @@
     "language": "Python",
     "name": "luetzey/who2be",
     "stars": 0,
-    "updated_at": "2026-10-11T11:40:07Z",
+    "updated_at": "2026-10-11T12:25:58Z",
     "url": "https://github.com/luetzey/who2be"
   },
   {
@@ -284,7 +320,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28342,
-    "updated_at": "2026-10-11T11:53:30Z",
+    "updated_at": "2026-10-11T12:16:56Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -313,15 +349,6 @@
     "stars": 1,
     "updated_at": "2026-10-11T11:30:32Z",
     "url": "https://github.com/Rosalyndfaithful716/Guardrail"
-  },
-  {
-    "description": "Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O",
-    "id": "kelvran/gateway",
-    "language": "Go",
-    "name": "kelvran/gateway",
-    "stars": 0,
-    "updated_at": "2026-10-11T11:27:44Z",
-    "url": "https://github.com/kelvran/gateway"
   },
   {
     "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
@@ -360,15 +387,6 @@
     "url": "https://github.com/alebgl77/awesome-ai-architect"
   },
   {
-    "description": "Sovereign enterprise RAG & analytics platform \u2014 role-scoped persona intelligence, hybrid retrieval (Dense BGE-M3 + BM25 ",
-    "id": "Yacine-ai-tech/IntelAI",
-    "language": "Python",
-    "name": "Yacine-ai-tech/IntelAI",
-    "stars": 0,
-    "updated_at": "2026-10-11T11:23:17Z",
-    "url": "https://github.com/Yacine-ai-tech/IntelAI"
-  },
-  {
     "description": "Open-source AI gateway and operations platform. Bring your own provider API keys and unify every AI model behind a singl",
     "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
     "language": "TypeScript",
@@ -376,6 +394,15 @@
     "stars": 4,
     "updated_at": "2026-10-11T11:23:38Z",
     "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
+  },
+  {
+    "description": "Sovereign enterprise RAG & analytics platform \u2014 role-scoped persona intelligence, hybrid retrieval (Dense BGE-M3 + BM25 ",
+    "id": "Yacine-ai-tech/IntelAI",
+    "language": "Python",
+    "name": "Yacine-ai-tech/IntelAI",
+    "stars": 0,
+    "updated_at": "2026-10-11T11:23:17Z",
+    "url": "https://github.com/Yacine-ai-tech/IntelAI"
   },
   {
     "description": "Self-hosted LLM gateway in Rust: one OpenAI-compatible API for OpenAI, Anthropic, Gemini, Azure, Ollama and more, with v",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-11T11:18:11Z",
     "url": "https://github.com/niyetbay0304/gateway"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-10-11T11:12:21Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "\ud83c\udfa4 Build real-time voice assistants with AgentOS 2 Live, utilizing OpenAI's Realtime API for seamless voice interactions ",
-    "id": "rozario-1234/end2end_sample",
-    "language": "TypeScript",
-    "name": "rozario-1234/end2end_sample",
-    "stars": 1,
-    "updated_at": "2026-10-11T11:12:15Z",
-    "url": "https://github.com/rozario-1234/end2end_sample"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8851,
-    "updated_at": "2026-10-11T12:08:30Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   }
 ]
