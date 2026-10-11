@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-11 07:45 UTC
+> ⏰ Last updated: 2026-10-11 07:49 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,26 +42,26 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [shaikn6/shaikn6](https://github.com/shaikn6/shaikn6) | 0 | Python | 2026-10-11 | Nagizaaz Shaik — ML & AI Systems Engineer |
-| 2 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 41 | Go | 2026-10-11 | Agentic Runtime |
-| 3 | [kelvran/gateway](https://github.com/kelvran/gateway) | 0 | Go | 2026-10-11 | Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O |
-| 4 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 60944 | Python | 2026-10-11 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 5 | [Permed-lizard3456/ActionGuard](https://github.com/Permed-lizard3456/ActionGuard) | 0 | — | 2026-10-11 | Protect your machine from AI-powered automation with local, deterministic Allow/Ask/Deny controls for high-impact action |
-| 6 | [Arashka-DS/financial-crag-with-langgraph-langsmith](https://github.com/Arashka-DS/financial-crag-with-langgraph-langsmith) | 0 | Python | 2026-10-11 | Enterprise Corrective RAG (CRAG) platform for financial intelligence. Combines PostgreSQL pgvector hybrid search (Dense  |
-| 7 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2949 | Python | 2026-10-11 | Community maintained hardware plugin for vLLM on Huawei Ascend |
-| 8 | [pom11/hscc](https://github.com/pom11/hscc) | 6 | Python | 2026-10-11 | Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents — cluster control, role-specialized worke |
-| 9 | [Traciewheelless86/sentiment-analysis-nlp-api](https://github.com/Traciewheelless86/sentiment-analysis-nlp-api) | 0 | Python | 2026-10-11 | Classify user feedback into positive, negative, or neutral categories using an automated machine learning pipeline and F |
-| 10 | [acr3463/systemprompt-demo](https://github.com/acr3463/systemprompt-demo) | 0 | — | 2026-10-11 | Manage Claude Desktop and Claude Cowork through an audited gateway with full visibility into prompts, tool calls, and co |
-| 11 | [Unadventurous-concertina802/arcadia-win-script-execute](https://github.com/Unadventurous-concertina802/arcadia-win-script-execute) | 0 | HTML | 2026-10-11 | Execute Roblox Lua scripts on Windows with this compact, keyless runner featuring a built-in library of over 500 scripts |
-| 12 | [Conflictofinteresteddy300/FlowLens-AgentOps](https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps) | 0 | — | 2026-10-11 | Monitor multi-agent runtimes with evidence-based observability and deterministic failure attribution. |
-| 13 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 28338 | Python | 2026-10-11 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
-| 14 | [Ray0907/spanbox](https://github.com/Ray0907/spanbox) | 1 | Go | 2026-10-11 | Single-binary LLM observability for Claude Code, Codex and OpenAI/Gemini apps: OTLP or proxy in, SQLite inside, UI and a |
-| 15 | [montgome753/LLM-Evaluation-Framework](https://github.com/montgome753/LLM-Evaluation-Framework) | 0 | Python | 2026-10-11 | Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite. |
-| 16 | [TayebKahia/grounded-docs](https://github.com/TayebKahia/grounded-docs) | 0 | — | 2026-10-11 | Private document assistant for teams: answers only from your own Drive documents, every claim cited and verified, or an  |
-| 17 | [Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker](https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker) | 0 | Dockerfile | 2026-10-11 | Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment. |
-| 18 | [justrunme/ai-runtime-platform](https://github.com/justrunme/ai-runtime-platform) | 2 | Python | 2026-10-11 | OpenAI-compatible AI execution plane on Kubernetes with MCP, vLLM, and policy. |
-| 19 | [justrunme/ai-infra-control-plane](https://github.com/justrunme/ai-infra-control-plane) | 2 | Python | 2026-10-11 | Governed private AI control plane on Kubernetes with policy, identity, and FinOps. |
-| 20 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-11 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 41 | Go | 2026-10-11 | Agentic Runtime |
+| 2 | [Arashka-DS/financial-crag-with-langgraph-langsmith](https://github.com/Arashka-DS/financial-crag-with-langgraph-langsmith) | 0 | Python | 2026-10-11 | Enterprise Corrective RAG (CRAG) platform for financial intelligence. Combines PostgreSQL pgvector hybrid search (Dense  |
+| 3 | [pom11/hscc](https://github.com/pom11/hscc) | 6 | Python | 2026-10-11 | Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents — cluster control, role-specialized worke |
+| 4 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2949 | Python | 2026-10-11 | Community maintained hardware plugin for vLLM on Huawei Ascend |
+| 5 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-11 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 6 | [shaikn6/shaikn6](https://github.com/shaikn6/shaikn6) | 0 | Python | 2026-10-11 | Nagizaaz Shaik — ML & AI Systems Engineer |
+| 7 | [kelvran/gateway](https://github.com/kelvran/gateway) | 0 | Go | 2026-10-11 | Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O |
+| 8 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 60944 | Python | 2026-10-11 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 9 | [Permed-lizard3456/ActionGuard](https://github.com/Permed-lizard3456/ActionGuard) | 0 | — | 2026-10-11 | Protect your machine from AI-powered automation with local, deterministic Allow/Ask/Deny controls for high-impact action |
+| 10 | [Traciewheelless86/sentiment-analysis-nlp-api](https://github.com/Traciewheelless86/sentiment-analysis-nlp-api) | 0 | Python | 2026-10-11 | Classify user feedback into positive, negative, or neutral categories using an automated machine learning pipeline and F |
+| 11 | [acr3463/systemprompt-demo](https://github.com/acr3463/systemprompt-demo) | 0 | — | 2026-10-11 | Manage Claude Desktop and Claude Cowork through an audited gateway with full visibility into prompts, tool calls, and co |
+| 12 | [Unadventurous-concertina802/arcadia-win-script-execute](https://github.com/Unadventurous-concertina802/arcadia-win-script-execute) | 0 | HTML | 2026-10-11 | Execute Roblox Lua scripts on Windows with this compact, keyless runner featuring a built-in library of over 500 scripts |
+| 13 | [Conflictofinteresteddy300/FlowLens-AgentOps](https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps) | 0 | — | 2026-10-11 | Monitor multi-agent runtimes with evidence-based observability and deterministic failure attribution. |
+| 14 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 28339 | Python | 2026-10-11 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
+| 15 | [Ray0907/spanbox](https://github.com/Ray0907/spanbox) | 1 | Go | 2026-10-11 | Single-binary LLM observability for Claude Code, Codex and OpenAI/Gemini apps: OTLP or proxy in, SQLite inside, UI and a |
+| 16 | [montgome753/LLM-Evaluation-Framework](https://github.com/montgome753/LLM-Evaluation-Framework) | 0 | Python | 2026-10-11 | Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite. |
+| 17 | [TayebKahia/grounded-docs](https://github.com/TayebKahia/grounded-docs) | 0 | — | 2026-10-11 | Private document assistant for teams: answers only from your own Drive documents, every claim cited and verified, or an  |
+| 18 | [Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker](https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker) | 0 | Dockerfile | 2026-10-11 | Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment. |
+| 19 | [justrunme/ai-runtime-platform](https://github.com/justrunme/ai-runtime-platform) | 2 | Python | 2026-10-11 | OpenAI-compatible AI execution plane on Kubernetes with MCP, vLLM, and policy. |
+| 20 | [justrunme/ai-infra-control-plane](https://github.com/justrunme/ai-infra-control-plane) | 2 | Python | 2026-10-11 | Governed private AI control plane on Kubernetes with policy, identity, and FinOps. |
 | 21 | [harishu652/Class-AI-Agent](https://github.com/harishu652/Class-AI-Agent) | 0 | — | 2026-10-11 | Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules |
 | 22 | [Healthful-article791/rag-systems-production](https://github.com/Healthful-article791/rag-systems-production) | 1 | — | 2026-10-11 | Build production-ready RAG systems with document ingestion, vector search, LLM integration, and enterprise monitoring fo |
 | 23 | [umutkeltek/switchback](https://github.com/umutkeltek/switchback) | 2 | Rust | 2026-10-11 | One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an |
