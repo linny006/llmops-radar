@@ -1,11 +1,74 @@
 [
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8703,
+    "updated_at": "2026-10-11T18:45:02Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-10-11T18:44:40Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "Find and prove inference savings on your own GPUs: $/M tokens with 95% CIs, agent workloads, verified-savings statements",
+    "id": "KushagraKanaujia/throttle",
+    "language": "Python",
+    "name": "KushagraKanaujia/throttle",
+    "stars": 7,
+    "updated_at": "2026-10-11T18:43:25Z",
+    "url": "https://github.com/KushagraKanaujia/throttle"
+  },
+  {
+    "description": "An open-source CLI plus GitHub Action that prevents unsafe prompt, model, retrieval, tool, or configuration changes from",
+    "id": "Chris0Jeky/llm-release-gate",
+    "language": "Python",
+    "name": "Chris0Jeky/llm-release-gate",
+    "stars": 0,
+    "updated_at": "2026-10-11T18:42:07Z",
+    "url": "https://github.com/Chris0Jeky/llm-release-gate"
+  },
+  {
+    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 1,
+    "updated_at": "2026-10-11T18:37:29Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "Official O11y One SDKs for TypeScript, Python and Go, plus o11y-eval, the CI runner and PR-diff action that gate release",
+    "id": "o11y-one/o11y-one-sdk",
+    "language": "TypeScript",
+    "name": "o11y-one/o11y-one-sdk",
+    "stars": 0,
+    "updated_at": "2026-10-11T18:35:44Z",
+    "url": "https://github.com/o11y-one/o11y-one-sdk"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-11T18:30:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 60967,
-    "updated_at": "2026-10-11T18:28:52Z",
+    "updated_at": "2026-10-11T18:40:29Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -52,24 +115,6 @@
     "stars": 28344,
     "updated_at": "2026-10-11T18:17:53Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 1,
-    "updated_at": "2026-10-11T18:29:32Z",
-    "url": "https://github.com/a-novel/service-genai"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-11T18:15:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Convert static anime images into structured, QA-checked PSDs with Codex, Colab GPU, and built-in motion preview.",
@@ -194,7 +239,7 @@
     "language": "Python",
     "name": "judgekeeper/judgekeeper",
     "stars": 0,
-    "updated_at": "2026-10-11T17:58:03Z",
+    "updated_at": "2026-10-11T18:38:09Z",
     "url": "https://github.com/judgekeeper/judgekeeper"
   },
   {
@@ -256,7 +301,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11785,
+    "stars": 11786,
     "updated_at": "2026-10-11T17:50:39Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -338,7 +383,7 @@
     "language": "Ruby",
     "name": "sergey-homenko/llm_cost_tracker",
     "stars": 45,
-    "updated_at": "2026-10-11T18:15:30Z",
+    "updated_at": "2026-10-11T18:45:20Z",
     "url": "https://github.com/sergey-homenko/llm_cost_tracker"
   },
   {
@@ -374,7 +419,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25897,
-    "updated_at": "2026-10-11T18:12:09Z",
+    "updated_at": "2026-10-11T18:45:03Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-11T17:34:54Z",
     "url": "https://github.com/mviraj/KakeyaFiniteFields"
-  },
-  {
-    "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
-    "id": "runcycles/cycles-docs",
-    "language": "Vue",
-    "name": "runcycles/cycles-docs",
-    "stars": 4,
-    "updated_at": "2026-10-11T17:34:18Z",
-    "url": "https://github.com/runcycles/cycles-docs"
-  },
-  {
-    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
-    "id": "luetzey/who2be",
-    "language": "Python",
-    "name": "luetzey/who2be",
-    "stars": 0,
-    "updated_at": "2026-10-11T18:19:43Z",
-    "url": "https://github.com/luetzey/who2be"
-  },
-  {
-    "description": "Open-source AI gateway and operations platform. Bring your own provider API keys and unify every AI model behind a singl",
-    "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
-    "language": "TypeScript",
-    "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
-    "stars": 4,
-    "updated_at": "2026-10-11T17:29:43Z",
-    "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
-  },
-  {
-    "description": "FastAPI backend for versioning and executing LLM prompts \u2014 tracks tokens, cost, latency, retries and failures per call. ",
-    "id": "mbommakanti/PromptVault",
-    "language": "Python",
-    "name": "mbommakanti/PromptVault",
-    "stars": 0,
-    "updated_at": "2026-10-11T17:23:24Z",
-    "url": "https://github.com/mbommakanti/PromptVault"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8703,
-    "updated_at": "2026-10-11T18:23:30Z",
-    "url": "https://github.com/maximhq/bifrost"
   }
 ]
