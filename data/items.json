@@ -1,12 +1,66 @@
 [
   {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 95,
+    "updated_at": "2026-10-11T09:44:04Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2949,
+    "updated_at": "2026-10-11T09:40:55Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Personal skills that bridge my daily tools with my Obsidian Second Brain \u2014 turning operational work into structured, sea",
+    "id": "BorjaIP/personal-os-skills",
+    "language": "Shell",
+    "name": "BorjaIP/personal-os-skills",
+    "stars": 1,
+    "updated_at": "2026-10-11T09:38:34Z",
+    "url": "https://github.com/BorjaIP/personal-os-skills"
+  },
+  {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-10-11T09:34:23Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
     "id": "pom11/hscc",
     "language": "Python",
     "name": "pom11/hscc",
     "stars": 7,
-    "updated_at": "2026-10-11T09:27:55Z",
+    "updated_at": "2026-10-11T09:33:57Z",
     "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25888,
+    "updated_at": "2026-10-11T09:31:33Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-11T09:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Agentic Runtime",
@@ -22,8 +76,8 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 60947,
-    "updated_at": "2026-10-11T09:24:38Z",
+    "stars": 60948,
+    "updated_at": "2026-10-11T09:43:26Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -32,17 +86,8 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-11T09:29:54Z",
+    "updated_at": "2026-10-11T09:43:56Z",
     "url": "https://github.com/srjn45/warden"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2949,
-    "updated_at": "2026-10-11T09:16:32Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
@@ -52,15 +97,6 @@
     "stars": 42,
     "updated_at": "2026-10-11T09:19:05Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-11T09:15:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "git-bisect for LLM-agent regressions: replay a failing run across prompt/model/tool versions to find the breaking change",
@@ -77,7 +113,7 @@
     "language": "Python",
     "name": "luetzey/who2be",
     "stars": 0,
-    "updated_at": "2026-10-11T09:21:58Z",
+    "updated_at": "2026-10-11T09:33:18Z",
     "url": "https://github.com/luetzey/who2be"
   },
   {
@@ -106,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-10-11T09:11:14Z",
     "url": "https://github.com/Nephets1010/llm-glasshouse"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25886,
-    "updated_at": "2026-10-11T09:07:19Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Privacy audit for multi-agent AI systems (CrewAI \u00b7 LangGraph \u00b7 AutoGen) \u2014 detect compositional data leaks without the ce",
@@ -243,15 +270,6 @@
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
-    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-10-11T08:31:08Z",
-    "url": "https://github.com/veerarakesh56/warden"
-  },
-  {
     "description": "Self-hosted AI Agents Platform supporting Claude Code, Codex, Gemini agents. Apache 2.0.  ",
     "id": "Abilityai/trinity",
     "language": "Python",
@@ -268,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-10-11T08:24:23Z",
     "url": "https://github.com/runcycles/langchain-runcycles"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 95,
-    "updated_at": "2026-10-11T09:24:29Z",
-    "url": "https://github.com/mloda-ai/mloda"
   },
   {
     "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-11T07:32:25Z",
     "url": "https://github.com/justrunme/ai-runtime-platform"
-  },
-  {
-    "description": "Governed private AI control plane on Kubernetes with policy, identity, and FinOps.",
-    "id": "justrunme/ai-infra-control-plane",
-    "language": "Python",
-    "name": "justrunme/ai-infra-control-plane",
-    "stars": 2,
-    "updated_at": "2026-10-11T07:30:31Z",
-    "url": "https://github.com/justrunme/ai-infra-control-plane"
   }
 ]
