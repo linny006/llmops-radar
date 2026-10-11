@@ -1,30 +1,93 @@
 [
   {
-    "description": "Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O",
-    "id": "kelvran/gateway",
-    "language": "Go",
-    "name": "kelvran/gateway",
+    "description": "Enterprise Corrective RAG (CRAG) platform for financial intelligence. Combines PostgreSQL pgvector hybrid search (Dense ",
+    "id": "Arashka-DS/financial-crag-with-langgraph-langsmith",
+    "language": "Python",
+    "name": "Arashka-DS/financial-crag-with-langgraph-langsmith",
     "stars": 0,
-    "updated_at": "2026-10-11T02:52:40Z",
-    "url": "https://github.com/kelvran/gateway"
+    "updated_at": "2026-10-11T03:15:15Z",
+    "url": "https://github.com/Arashka-DS/financial-crag-with-langgraph-langsmith"
+  },
+  {
+    "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
+    "id": "0xLazAI/alith",
+    "language": "Rust",
+    "name": "0xLazAI/alith",
+    "stars": 44,
+    "updated_at": "2026-10-11T03:13:25Z",
+    "url": "https://github.com/0xLazAI/alith"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 60928,
-    "updated_at": "2026-10-11T02:59:39Z",
+    "stars": 60930,
+    "updated_at": "2026-10-11T03:08:33Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
-    "description": "Enterprise Corrective RAG (CRAG) platform for financial intelligence. Combines PostgreSQL pgvector hybrid search (Dense ",
-    "id": "Arashka-DS/financial-crag-with-langgraph-langsmith",
-    "language": "Python",
-    "name": "Arashka-DS/financial-crag-with-langgraph-langsmith",
+    "description": "TypeScript SDK for Cycles \u2014 runtime budget and action authority for Node.js AI agents",
+    "id": "runcycles/cycles-client-typescript",
+    "language": "TypeScript",
+    "name": "runcycles/cycles-client-typescript",
     "stars": 0,
-    "updated_at": "2026-10-11T02:50:13Z",
-    "url": "https://github.com/Arashka-DS/financial-crag-with-langgraph-langsmith"
+    "updated_at": "2026-10-11T03:07:53Z",
+    "url": "https://github.com/runcycles/cycles-client-typescript"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-11T03:15:20Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O",
+    "id": "kelvran/gateway",
+    "language": "Go",
+    "name": "kelvran/gateway",
+    "stars": 0,
+    "updated_at": "2026-10-11T03:15:16Z",
+    "url": "https://github.com/kelvran/gateway"
+  },
+  {
+    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
+    "id": "luetzey/who2be",
+    "language": "Python",
+    "name": "luetzey/who2be",
+    "stars": 0,
+    "updated_at": "2026-10-11T03:04:38Z",
+    "url": "https://github.com/luetzey/who2be"
+  },
+  {
+    "description": "The open-source safety layer for AI agents \u2014 block unsafe tool calls, require approval, enforce budgets, audit, replay.",
+    "id": "jamjet-labs/jamjet",
+    "language": "Rust",
+    "name": "jamjet-labs/jamjet",
+    "stars": 22,
+    "updated_at": "2026-10-11T03:05:03Z",
+    "url": "https://github.com/jamjet-labs/jamjet"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-11T03:00:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35622,
+    "updated_at": "2026-10-11T02:54:34Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -34,15 +97,6 @@
     "stars": 25878,
     "updated_at": "2026-10-11T02:59:36Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-11T02:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Protect your machine from AI-powered automation with local, deterministic Allow/Ask/Deny controls for high-impact action",
@@ -106,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-10-11T02:41:05Z",
     "url": "https://github.com/Conflictofinteresteddy300/FlowLens-AgentOps"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-11T02:39:54Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
@@ -315,15 +360,6 @@
     "url": "https://github.com/sedai194443/langfuse-go"
   },
   {
-    "description": "The open-source safety layer for AI agents \u2014 block unsafe tool calls, require approval, enforce budgets, audit, replay.",
-    "id": "jamjet-labs/jamjet",
-    "language": "Rust",
-    "name": "jamjet-labs/jamjet",
-    "stars": 22,
-    "updated_at": "2026-10-11T02:19:19Z",
-    "url": "https://github.com/jamjet-labs/jamjet"
-  },
-  {
     "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
     "id": "richardpapiona9/llm",
     "language": "JavaScript",
@@ -349,15 +385,6 @@
     "stars": 1,
     "updated_at": "2026-10-11T02:06:51Z",
     "url": "https://github.com/Nephets1010/llm-glasshouse"
-  },
-  {
-    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
-    "id": "luetzey/who2be",
-    "language": "Python",
-    "name": "luetzey/who2be",
-    "stars": 0,
-    "updated_at": "2026-10-11T02:28:23Z",
-    "url": "https://github.com/luetzey/who2be"
   },
   {
     "description": "\ud83d\ude80 Accelerate LLM training with Fast-LLM, an open-source library for high-speed, scalable, and flexible model development",
@@ -410,7 +437,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28337,
-    "updated_at": "2026-10-11T01:53:35Z",
+    "updated_at": "2026-10-11T03:14:37Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 6,
     "updated_at": "2026-10-11T01:52:03Z",
     "url": "https://github.com/Ker102/Harneloop"
-  },
-  {
-    "description": "Deterministic content guardrails for LLM and agent applications. Prompt injection in the encoding, PII, secrets and your",
-    "id": "jamjet-labs/jamjet-guardrails",
-    "language": "Python",
-    "name": "jamjet-labs/jamjet-guardrails",
-    "stars": 1,
-    "updated_at": "2026-10-11T01:49:47Z",
-    "url": "https://github.com/jamjet-labs/jamjet-guardrails"
-  },
-  {
-    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
-    "id": "alibaba/rtp-llm",
-    "language": "Python",
-    "name": "alibaba/rtp-llm",
-    "stars": 1360,
-    "updated_at": "2026-10-11T02:35:44Z",
-    "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-11T01:43:53Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   }
 ]
