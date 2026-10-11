@@ -1,21 +1,102 @@
 [
   {
-    "description": "AI trust-boundary gateway for OpenAI, Anthropic, and Gemini.",
-    "id": "GetSHIM/shim",
-    "language": "Python",
-    "name": "GetSHIM/shim",
-    "stars": 8,
-    "updated_at": "2026-10-11T13:28:57Z",
-    "url": "https://github.com/GetSHIM/shim"
-  },
-  {
     "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
     "id": "maks3201/decision-model-operator",
     "language": "Go",
     "name": "maks3201/decision-model-operator",
     "stars": 1,
-    "updated_at": "2026-10-11T13:29:47Z",
+    "updated_at": "2026-10-11T13:44:53Z",
     "url": "https://github.com/maks3201/decision-model-operator"
+  },
+  {
+    "description": "\ud83d\udeaa Governance gate for AI agents. Enforce policies before deployment: request contracts, operational safeguards, identity",
+    "id": "VamsiSudhakaran1/release-gate",
+    "language": "Python",
+    "name": "VamsiSudhakaran1/release-gate",
+    "stars": 3,
+    "updated_at": "2026-10-11T13:43:06Z",
+    "url": "https://github.com/VamsiSudhakaran1/release-gate"
+  },
+  {
+    "description": "A free, open-source AI infrastructure roadmap: a 9-layer map of the stack, 6 stages with exit criteria, around 200 vette",
+    "id": "iambiniyam/ai-infra-roadmap",
+    "language": "Python",
+    "name": "iambiniyam/ai-infra-roadmap",
+    "stars": 4,
+    "updated_at": "2026-10-11T13:41:11Z",
+    "url": "https://github.com/iambiniyam/ai-infra-roadmap"
+  },
+  {
+    "description": "Self-hosted OpenAI/Anthropic-compatible gateway: give each AI agent run a dollar budget, enforced before the provider, w",
+    "id": "domondi1/inferrail",
+    "language": "Python",
+    "name": "domondi1/inferrail",
+    "stars": 1,
+    "updated_at": "2026-10-11T13:39:27Z",
+    "url": "https://github.com/domondi1/inferrail"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 30,
+    "updated_at": "2026-10-11T13:38:56Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "GitHub Action for LLM migration and regression testing \u2014 runs your golden suite on every PR and fails the check on model",
+    "id": "evalshift/evalshift-action",
+    "language": "Python",
+    "name": "evalshift/evalshift-action",
+    "stars": 0,
+    "updated_at": "2026-10-11T13:38:52Z",
+    "url": "https://github.com/evalshift/evalshift-action"
+  },
+  {
+    "description": "Open Source software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-10-11T13:38:29Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60952,
+    "updated_at": "2026-10-11T13:34:48Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "",
+    "id": "octavebahoun/gouvra",
+    "language": "TypeScript",
+    "name": "octavebahoun/gouvra",
+    "stars": 0,
+    "updated_at": "2026-10-11T13:33:10Z",
+    "url": "https://github.com/octavebahoun/gouvra"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-11T13:30:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "AI trust-boundary gateway for OpenAI, Anthropic, and Gemini.",
+    "id": "GetSHIM/shim",
+    "language": "Python",
+    "name": "GetSHIM/shim",
+    "stars": 8,
+    "updated_at": "2026-10-11T13:36:47Z",
+    "url": "https://github.com/GetSHIM/shim"
   },
   {
     "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
@@ -27,31 +108,13 @@
     "url": "https://github.com/luetzey/who2be"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60952,
-    "updated_at": "2026-10-11T13:24:59Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "An open-source CLI plus GitHub Action that prevents unsafe prompt, model, retrieval, tool, or configuration changes from",
     "id": "Chris0Jeky/llm-release-gate",
     "language": "Python",
     "name": "Chris0Jeky/llm-release-gate",
     "stars": 0,
-    "updated_at": "2026-10-11T13:23:35Z",
+    "updated_at": "2026-10-11T13:40:51Z",
     "url": "https://github.com/Chris0Jeky/llm-release-gate"
-  },
-  {
-    "description": "Open Source software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-10-11T13:27:04Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
@@ -72,15 +135,6 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 30,
-    "updated_at": "2026-10-11T13:18:27Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
     "id": "vivek-541/vivek-541",
     "language": "HTML",
@@ -95,7 +149,7 @@
     "language": "Python",
     "name": "evalshift/evalshift-sdk",
     "stars": 0,
-    "updated_at": "2026-10-11T13:16:55Z",
+    "updated_at": "2026-10-11T13:31:25Z",
     "url": "https://github.com/evalshift/evalshift-sdk"
   },
   {
@@ -104,17 +158,8 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8700,
-    "updated_at": "2026-10-11T13:23:16Z",
+    "updated_at": "2026-10-11T13:40:35Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "",
-    "id": "octavebahoun/gouvra",
-    "language": "TypeScript",
-    "name": "octavebahoun/gouvra",
-    "stars": 0,
-    "updated_at": "2026-10-11T13:16:50Z",
-    "url": "https://github.com/octavebahoun/gouvra"
   },
   {
     "description": "Open-source LLM migration and regression testing for AI agents. Compare models, detect tool-call regressions, and gate m",
@@ -122,17 +167,8 @@
     "language": "Python",
     "name": "evalshift/evalshift-cli",
     "stars": 5,
-    "updated_at": "2026-10-11T13:16:44Z",
+    "updated_at": "2026-10-11T13:31:23Z",
     "url": "https://github.com/evalshift/evalshift-cli"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-11T13:15:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O",
@@ -203,7 +239,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-11T13:19:21Z",
+    "updated_at": "2026-10-11T13:39:53Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -320,7 +356,7 @@
     "language": "Vue",
     "name": "runcycles/cycles-docs",
     "stars": 4,
-    "updated_at": "2026-10-11T11:51:44Z",
+    "updated_at": "2026-10-11T13:39:31Z",
     "url": "https://github.com/runcycles/cycles-docs"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-11T11:42:50Z",
     "url": "https://github.com/santiag6001/llm-engineering-platform"
-  },
-  {
-    "description": "Track human movement in real-time using LiteRT.js and Three.js for browser-based 3D character animation without server d",
-    "id": "Frayagronomist166/LiteRT.js-Mocap",
-    "language": "\u2014",
-    "name": "Frayagronomist166/LiteRT.js-Mocap",
-    "stars": 1,
-    "updated_at": "2026-10-11T11:41:55Z",
-    "url": "https://github.com/Frayagronomist166/LiteRT.js-Mocap"
-  },
-  {
-    "description": "Route LLM requests through a self-hosted, OpenAI-compatible gateway for local projects and team workflows.",
-    "id": "Soilbuilding-libraryroutine78/Gozar",
-    "language": "Python",
-    "name": "Soilbuilding-libraryroutine78/Gozar",
-    "stars": 0,
-    "updated_at": "2026-10-11T11:41:33Z",
-    "url": "https://github.com/Soilbuilding-libraryroutine78/Gozar"
-  },
-  {
-    "description": "Generate business emails locally using Python, Streamlit, and Ollama with this production-ready desktop application.",
-    "id": "wordmiddling872/AI_Email_Generator",
-    "language": "Python",
-    "name": "wordmiddling872/AI_Email_Generator",
-    "stars": 1,
-    "updated_at": "2026-10-11T11:41:26Z",
-    "url": "https://github.com/wordmiddling872/AI_Email_Generator"
-  },
-  {
-    "description": "OpenAI-compatible proxy daemon that races multiple LLM providers per request and cancels the losers to cut tail latency.",
-    "id": "mykolapodpriatov/hedge-llm",
-    "language": "Go",
-    "name": "mykolapodpriatov/hedge-llm",
-    "stars": 0,
-    "updated_at": "2026-10-11T11:40:21Z",
-    "url": "https://github.com/mykolapodpriatov/hedge-llm"
   }
 ]
