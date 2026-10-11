@@ -1,5 +1,113 @@
 [
   {
+    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
+    "id": "luetzey/who2be",
+    "language": "Python",
+    "name": "luetzey/who2be",
+    "stars": 0,
+    "updated_at": "2026-10-11T06:00:12Z",
+    "url": "https://github.com/luetzey/who2be"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-11T05:59:20Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "language": "Go",
+    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-10-11T05:58:42Z",
+    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60940,
+    "updated_at": "2026-10-11T06:00:23Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 6,
+    "updated_at": "2026-10-11T05:56:14Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Enterprise Corrective RAG (CRAG) platform for financial intelligence. Combines PostgreSQL pgvector hybrid search (Dense ",
+    "id": "Arashka-DS/financial-crag-with-langgraph-langsmith",
+    "language": "Python",
+    "name": "Arashka-DS/financial-crag-with-langgraph-langsmith",
+    "stars": 0,
+    "updated_at": "2026-10-11T05:52:50Z",
+    "url": "https://github.com/Arashka-DS/financial-crag-with-langgraph-langsmith"
+  },
+  {
+    "description": "Sovereign enterprise RAG & analytics platform \u2014 role-scoped persona intelligence, hybrid retrieval (Dense BGE-M3 + BM25 ",
+    "id": "Yacine-ai-tech/IntelAI",
+    "language": "Python",
+    "name": "Yacine-ai-tech/IntelAI",
+    "stars": 0,
+    "updated_at": "2026-10-11T05:52:09Z",
+    "url": "https://github.com/Yacine-ai-tech/IntelAI"
+  },
+  {
+    "description": "Protect your machine from AI-powered automation with local, deterministic Allow/Ask/Deny controls for high-impact action",
+    "id": "Permed-lizard3456/ActionGuard",
+    "language": "\u2014",
+    "name": "Permed-lizard3456/ActionGuard",
+    "stars": 0,
+    "updated_at": "2026-10-11T05:49:15Z",
+    "url": "https://github.com/Permed-lizard3456/ActionGuard"
+  },
+  {
+    "description": "Classify user feedback into positive, negative, or neutral categories using an automated machine learning pipeline and F",
+    "id": "Traciewheelless86/sentiment-analysis-nlp-api",
+    "language": "Python",
+    "name": "Traciewheelless86/sentiment-analysis-nlp-api",
+    "stars": 0,
+    "updated_at": "2026-10-11T05:46:44Z",
+    "url": "https://github.com/Traciewheelless86/sentiment-analysis-nlp-api"
+  },
+  {
+    "description": "Manage Claude Desktop and Claude Cowork through an audited gateway with full visibility into prompts, tool calls, and co",
+    "id": "acr3463/systemprompt-demo",
+    "language": "\u2014",
+    "name": "acr3463/systemprompt-demo",
+    "stars": 0,
+    "updated_at": "2026-10-11T05:46:15Z",
+    "url": "https://github.com/acr3463/systemprompt-demo"
+  },
+  {
+    "description": "Execute Roblox Lua scripts on Windows with this compact, keyless runner featuring a built-in library of over 500 scripts",
+    "id": "Unadventurous-concertina802/arcadia-win-script-execute",
+    "language": "HTML",
+    "name": "Unadventurous-concertina802/arcadia-win-script-execute",
+    "stars": 0,
+    "updated_at": "2026-10-11T05:45:45Z",
+    "url": "https://github.com/Unadventurous-concertina802/arcadia-win-script-execute"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-11T05:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Monitor multi-agent runtimes with evidence-based observability and deterministic failure attribution.",
     "id": "Conflictofinteresteddy300/FlowLens-AgentOps",
     "language": "\u2014",
@@ -18,15 +126,6 @@
     "url": "https://github.com/veerarakesh56/warden"
   },
   {
-    "description": "Enterprise Corrective RAG (CRAG) platform for financial intelligence. Combines PostgreSQL pgvector hybrid search (Dense ",
-    "id": "Arashka-DS/financial-crag-with-langgraph-langsmith",
-    "language": "Python",
-    "name": "Arashka-DS/financial-crag-with-langgraph-langsmith",
-    "stars": 0,
-    "updated_at": "2026-10-11T05:43:35Z",
-    "url": "https://github.com/Arashka-DS/financial-crag-with-langgraph-langsmith"
-  },
-  {
     "description": "Nagizaaz Shaik \u2014 ML & AI Systems Engineer",
     "id": "shaikn6/shaikn6",
     "language": "Python",
@@ -34,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-11T05:43:56Z",
     "url": "https://github.com/shaikn6/shaikn6"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-11T05:42:23Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
@@ -135,15 +225,6 @@
     "url": "https://github.com/sarrahw23/deploy-guide"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-11T05:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
     "id": "rvhn/rest-gateway-1771918257-5",
     "language": "\u2014",
@@ -198,15 +279,6 @@
     "url": "https://github.com/abdullahimohamed101/agent-black-box"
   },
   {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "language": "Go",
-    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "stars": 1,
-    "updated_at": "2026-10-11T05:41:35Z",
-    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
-  },
-  {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
     "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
     "language": "\u2014",
@@ -234,15 +306,6 @@
     "url": "https://github.com/bharion1/analytics-dashboard"
   },
   {
-    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
-    "id": "luetzey/who2be",
-    "language": "Python",
-    "name": "luetzey/who2be",
-    "stars": 0,
-    "updated_at": "2026-10-11T05:33:26Z",
-    "url": "https://github.com/luetzey/who2be"
-  },
-  {
     "description": "\ud83d\ude80 Build with the Langfuse Go SDK to enhance your applications using Langfuse's open-source LLM engineering platform.",
     "id": "sedai194443/langfuse-go",
     "language": "Go",
@@ -250,15 +313,6 @@
     "stars": 1,
     "updated_at": "2026-10-11T05:20:52Z",
     "url": "https://github.com/sedai194443/langfuse-go"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60940,
-    "updated_at": "2026-10-11T05:44:05Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
@@ -293,7 +347,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8693,
-    "updated_at": "2026-10-11T05:44:51Z",
+    "updated_at": "2026-10-11T05:58:57Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -351,15 +405,6 @@
     "url": "https://github.com/runcycles/cycles-mcp-server"
   },
   {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 6,
-    "updated_at": "2026-10-11T05:03:53Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
     "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
     "id": "bilal0399/learn-agentic-ai",
     "language": "\u2014",
@@ -403,50 +448,5 @@
     "stars": 129,
     "updated_at": "2026-10-11T04:36:36Z",
     "url": "https://github.com/ZIZKA-AI-SL/ZizkaDB"
-  },
-  {
-    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 42,
-    "updated_at": "2026-10-11T04:38:27Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "Master project orchestrator featuring Dual Engine (Gentle-AI Integrated ODD vs Standalone), Article ARQ-01 Vertical Slic",
-    "id": "QuantumEdu/q-agent",
-    "language": "Python",
-    "name": "QuantumEdu/q-agent",
-    "stars": 0,
-    "updated_at": "2026-10-11T04:34:25Z",
-    "url": "https://github.com/QuantumEdu/q-agent"
-  },
-  {
-    "description": "Proyecto de investigaci\u00f3n y desarrollo de software orientado a detectar, localizar y explicar regresiones conductuales e",
-    "id": "kapumota/ProvRegress",
-    "language": "Python",
-    "name": "kapumota/ProvRegress",
-    "stars": 0,
-    "updated_at": "2026-10-11T04:32:16Z",
-    "url": "https://github.com/kapumota/ProvRegress"
-  },
-  {
-    "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
-    "id": "judgekeeper/judgekeeper",
-    "language": "Python",
-    "name": "judgekeeper/judgekeeper",
-    "stars": 0,
-    "updated_at": "2026-10-11T05:43:18Z",
-    "url": "https://github.com/judgekeeper/judgekeeper"
-  },
-  {
-    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 1,
-    "updated_at": "2026-10-11T04:27:15Z",
-    "url": "https://github.com/a-novel/service-genai"
   }
 ]
