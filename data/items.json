@@ -1,5 +1,32 @@
 [
   {
+    "description": "Self-hosted OpenAI/Anthropic-compatible gateway: give each AI agent run a dollar budget, enforced before the provider, w",
+    "id": "domondi1/inferrail",
+    "language": "Python",
+    "name": "domondi1/inferrail",
+    "stars": 1,
+    "updated_at": "2026-10-11T14:34:33Z",
+    "url": "https://github.com/domondi1/inferrail"
+  },
+  {
+    "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
+    "id": "syntactic-orleanism949/logal-rag",
+    "language": "\u2014",
+    "name": "syntactic-orleanism949/logal-rag",
+    "stars": 1,
+    "updated_at": "2026-10-11T14:34:12Z",
+    "url": "https://github.com/syntactic-orleanism949/logal-rag"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-11T14:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -144,15 +171,6 @@
     "url": "https://github.com/niyetbay0304/gateway"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-11T14:15:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Token usage tracker for multi-agent AI sessions",
     "id": "yunaremaia/agentcost",
     "language": "Python",
@@ -160,15 +178,6 @@
     "stars": 2,
     "updated_at": "2026-10-11T14:14:50Z",
     "url": "https://github.com/yunaremaia/agentcost"
-  },
-  {
-    "description": "Self-hosted OpenAI/Anthropic-compatible gateway: give each AI agent run a dollar budget, enforced before the provider, w",
-    "id": "domondi1/inferrail",
-    "language": "Python",
-    "name": "domondi1/inferrail",
-    "stars": 1,
-    "updated_at": "2026-10-11T14:29:28Z",
-    "url": "https://github.com/domondi1/inferrail"
   },
   {
     "description": "\ud83c\udfa4 Build real-time voice assistants with AgentOS 2 Live, utilizing OpenAI's Realtime API for seamless voice interactions ",
@@ -302,7 +311,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28342,
-    "updated_at": "2026-10-11T13:51:56Z",
+    "updated_at": "2026-10-11T14:30:33Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -392,7 +401,7 @@
     "language": "Python",
     "name": "GetSHIM/shim",
     "stars": 8,
-    "updated_at": "2026-10-11T14:06:12Z",
+    "updated_at": "2026-10-11T14:30:28Z",
     "url": "https://github.com/GetSHIM/shim"
   },
   {
@@ -428,7 +437,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8700,
-    "updated_at": "2026-10-11T14:28:12Z",
+    "updated_at": "2026-10-11T14:33:29Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 5,
     "updated_at": "2026-10-11T13:31:23Z",
     "url": "https://github.com/evalshift/evalshift-cli"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2949,
-    "updated_at": "2026-10-11T13:06:39Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   }
 ]
