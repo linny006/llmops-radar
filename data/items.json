@@ -1,5 +1,104 @@
 [
   {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-10-11T08:28:15Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "LangChain agent middleware for Cycles \u2014 pre-tool-call authorization and per-tenant budget enforcement for Python agents ",
+    "id": "runcycles/langchain-runcycles",
+    "language": "Python",
+    "name": "runcycles/langchain-runcycles",
+    "stars": 0,
+    "updated_at": "2026-10-11T08:24:23Z",
+    "url": "https://github.com/runcycles/langchain-runcycles"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2949,
+    "updated_at": "2026-10-11T08:23:55Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-10-11T08:22:49Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25884,
+    "updated_at": "2026-10-11T08:22:13Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 95,
+    "updated_at": "2026-10-11T08:27:59Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8693,
+    "updated_at": "2026-10-11T08:24:41Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60946,
+    "updated_at": "2026-10-11T08:28:59Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
+    "id": "umutkeltek/switchback",
+    "language": "Rust",
+    "name": "umutkeltek/switchback",
+    "stars": 2,
+    "updated_at": "2026-10-11T08:18:05Z",
+    "url": "https://github.com/umutkeltek/switchback"
+  },
+  {
+    "description": "OpenAI-compatible proxy daemon that races multiple LLM providers per request and cancels the losers to cut tail latency.",
+    "id": "mykolapodpriatov/hedge-llm",
+    "language": "Go",
+    "name": "mykolapodpriatov/hedge-llm",
+    "stars": 0,
+    "updated_at": "2026-10-11T08:17:45Z",
+    "url": "https://github.com/mykolapodpriatov/hedge-llm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-11T08:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The gagarin CLI \u2014 deploy and operate applications on gagarin. Ships the agent skill inside the binary.",
     "id": "gagarin-cloud/gg",
     "language": "Go",
@@ -18,24 +117,6 @@
     "url": "https://github.com/Arashka-DS/financial-crag-with-langgraph-langsmith"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8693,
-    "updated_at": "2026-10-11T08:15:02Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 95,
-    "updated_at": "2026-10-11T08:13:17Z",
-    "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
     "description": "Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O",
     "id": "kelvran/gateway",
     "language": "Go",
@@ -50,7 +131,7 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 41,
-    "updated_at": "2026-10-11T08:09:42Z",
+    "updated_at": "2026-10-11T08:23:55Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -63,31 +144,13 @@
     "url": "https://github.com/Justin0504/federated-agent-audit"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-11T08:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
     "id": "srjn45/warden",
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-11T08:09:38Z",
+    "updated_at": "2026-10-11T08:28:41Z",
     "url": "https://github.com/srjn45/warden"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60944,
-    "updated_at": "2026-10-11T08:07:35Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Enterprise-grade multimodal AI video generation pipeline orchestrating Google Gemini 3.5, Imagen 3 & Veo 3.1 with fault-",
@@ -104,35 +167,8 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8847,
-    "updated_at": "2026-10-11T07:56:36Z",
+    "updated_at": "2026-10-11T08:24:11Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25882,
-    "updated_at": "2026-10-11T07:50:11Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-10-11T07:50:08Z",
-    "url": "https://github.com/veerarakesh56/warden"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2949,
-    "updated_at": "2026-10-11T07:59:57Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
@@ -212,7 +248,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28341,
-    "updated_at": "2026-10-11T08:09:17Z",
+    "updated_at": "2026-10-11T08:30:20Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -286,15 +322,6 @@
     "stars": 1,
     "updated_at": "2026-10-11T07:28:33Z",
     "url": "https://github.com/Healthful-article791/rag-systems-production"
-  },
-  {
-    "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
-    "id": "umutkeltek/switchback",
-    "language": "Rust",
-    "name": "umutkeltek/switchback",
-    "stars": 2,
-    "updated_at": "2026-10-11T07:27:24Z",
-    "url": "https://github.com/umutkeltek/switchback"
   },
   {
     "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-11T07:14:17Z",
     "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "\ud83d\ude80 Accelerate large language model training and fine-tuning with Surogate\u2019s high-performance, mixed-precision framework i",
-    "id": "Kokotpica/surogate",
-    "language": "C++",
-    "name": "Kokotpica/surogate",
-    "stars": 2,
-    "updated_at": "2026-10-11T07:14:01Z",
-    "url": "https://github.com/Kokotpica/surogate"
-  },
-  {
-    "description": "\ud83d\udcca Build an interactive analytics dashboard with Spring Boot and JavaScript, featuring real-time data updates and advance",
-    "id": "bharion1/analytics-dashboard",
-    "language": "\u2014",
-    "name": "bharion1/analytics-dashboard",
-    "stars": 0,
-    "updated_at": "2026-10-11T07:13:52Z",
-    "url": "https://github.com/bharion1/analytics-dashboard"
-  },
-  {
-    "description": "\ud83d\ude80 Build with the Langfuse Go SDK to enhance your applications using Langfuse's open-source LLM engineering platform.",
-    "id": "sedai194443/langfuse-go",
-    "language": "Go",
-    "name": "sedai194443/langfuse-go",
-    "stars": 1,
-    "updated_at": "2026-10-11T07:12:45Z",
-    "url": "https://github.com/sedai194443/langfuse-go"
   }
 ]
