@@ -1,11 +1,128 @@
 [
   {
+    "description": "Open-source LLM migration and regression testing for AI agents. Compare models, detect tool-call regressions, and gate m",
+    "id": "evalshift/evalshift-cli",
+    "language": "Python",
+    "name": "evalshift/evalshift-cli",
+    "stars": 5,
+    "updated_at": "2026-10-11T14:58:25Z",
+    "url": "https://github.com/evalshift/evalshift-cli"
+  },
+  {
+    "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
+    "id": "maks3201/decision-model-operator",
+    "language": "Go",
+    "name": "maks3201/decision-model-operator",
+    "stars": 1,
+    "updated_at": "2026-10-11T14:57:55Z",
+    "url": "https://github.com/maks3201/decision-model-operator"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 7,
+    "updated_at": "2026-10-11T14:56:50Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-11T14:55:53Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Admin API for Cycles \u2014 tenants, budgets, API keys, webhooks, audit, and governance",
+    "id": "runcycles/cycles-server-admin",
+    "language": "Java",
+    "name": "runcycles/cycles-server-admin",
+    "stars": 1,
+    "updated_at": "2026-10-11T14:55:52Z",
+    "url": "https://github.com/runcycles/cycles-server-admin"
+  },
+  {
+    "description": "Self-hosted OpenAI/Anthropic-compatible gateway: give each AI agent run a dollar budget, enforced before the provider, w",
+    "id": "domondi1/inferrail",
+    "language": "Python",
+    "name": "domondi1/inferrail",
+    "stars": 1,
+    "updated_at": "2026-10-11T14:55:18Z",
+    "url": "https://github.com/domondi1/inferrail"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25896,
+    "updated_at": "2026-10-11T14:55:00Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "\u7aef\u5230\u7aef\u667a\u80fd\u4f53\u5e73\u53f0\uff1a\u628a\u672c\u673a\u7684 AI Agent \u53d8\u6210\u4eba\u4eba\u53ef\u7528\u7684 Web \u4ea7\u54c1\uff08Vue 3 + Flask + Go WS \u7f51\u5173 + Docker \u90e8\u7f72\uff09",
+    "id": "liaosiliangCodeLife/harness-mate-plat",
+    "language": "Python",
+    "name": "liaosiliangCodeLife/harness-mate-plat",
+    "stars": 12,
+    "updated_at": "2026-10-11T14:53:07Z",
+    "url": "https://github.com/liaosiliangCodeLife/harness-mate-plat"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28342,
+    "updated_at": "2026-10-11T14:51:24Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8702,
+    "updated_at": "2026-10-11T14:50:09Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60957,
+    "updated_at": "2026-10-11T14:50:07Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The decision before the AI build: evidence in, an architecture with receipts out, a scored build or a stop. Every decisi",
+    "id": "atulkapoor/fde-framework",
+    "language": "Python",
+    "name": "atulkapoor/fde-framework",
+    "stars": 10,
+    "updated_at": "2026-10-11T14:47:38Z",
+    "url": "https://github.com/atulkapoor/fde-framework"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-11T14:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O",
     "id": "kelvran/gateway",
     "language": "Go",
     "name": "kelvran/gateway",
     "stars": 0,
-    "updated_at": "2026-10-11T14:44:44Z",
+    "updated_at": "2026-10-11T14:45:57Z",
     "url": "https://github.com/kelvran/gateway"
   },
   {
@@ -18,30 +135,12 @@
     "url": "https://github.com/Rickettsiayorkshirefog4963/still2rig-psd"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25895,
-    "updated_at": "2026-10-11T14:44:34Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-11T14:43:31Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Open-source AI gateway and operations platform. Bring your own provider API keys and unify every AI model behind a singl",
     "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
     "language": "TypeScript",
     "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
     "stars": 4,
-    "updated_at": "2026-10-11T14:42:41Z",
+    "updated_at": "2026-10-11T14:54:38Z",
     "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
   },
   {
@@ -52,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-10-11T14:40:41Z",
     "url": "https://github.com/santiag6001/llm-engineering-platform"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60954,
-    "updated_at": "2026-10-11T14:39:53Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Track human movement in real-time using LiteRT.js and Three.js for browser-based 3D character animation without server d",
@@ -99,15 +189,6 @@
     "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28342,
-    "updated_at": "2026-10-11T14:36:35Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
     "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
     "language": "\u2014",
@@ -117,24 +198,6 @@
     "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-11T14:35:50Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Self-hosted OpenAI/Anthropic-compatible gateway: give each AI agent run a dollar budget, enforced before the provider, w",
-    "id": "domondi1/inferrail",
-    "language": "Python",
-    "name": "domondi1/inferrail",
-    "stars": 1,
-    "updated_at": "2026-10-11T14:37:28Z",
-    "url": "https://github.com/domondi1/inferrail"
-  },
-  {
     "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
     "id": "syntactic-orleanism949/logal-rag",
     "language": "\u2014",
@@ -142,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-10-11T14:34:12Z",
     "url": "https://github.com/syntactic-orleanism949/logal-rag"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8701,
-    "updated_at": "2026-10-11T14:39:54Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic",
@@ -178,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-10-11T14:26:04Z",
     "url": "https://github.com/SreenathKarthick11/Sage-Serve"
-  },
-  {
-    "description": "The decision before the AI build: evidence in, an architecture with receipts out, a scored build or a stop. Every decisi",
-    "id": "atulkapoor/fde-framework",
-    "language": "Python",
-    "name": "atulkapoor/fde-framework",
-    "stars": 10,
-    "updated_at": "2026-10-11T14:25:34Z",
-    "url": "https://github.com/atulkapoor/fde-framework"
   },
   {
     "description": "Implement a configurable neuromorphic processor with LIF neurons, STDP learning, and RISC-V management for FPGA-based ne",
@@ -306,15 +351,6 @@
     "url": "https://github.com/rsaudio/second-brain"
   },
   {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 7,
-    "updated_at": "2026-10-11T14:09:19Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
     "description": "\u2708\ufe0f Plan personalized travel itineraries effortlessly with this agentic AI tool, streamlining your journey from start to ",
     "id": "StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary",
     "language": "Python",
@@ -347,7 +383,7 @@
     "language": "Python",
     "name": "Chris0Jeky/llm-release-gate",
     "stars": 0,
-    "updated_at": "2026-10-11T14:03:21Z",
+    "updated_at": "2026-10-11T14:50:08Z",
     "url": "https://github.com/Chris0Jeky/llm-release-gate"
   },
   {
@@ -356,7 +392,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8852,
-    "updated_at": "2026-10-11T14:00:39Z",
+    "updated_at": "2026-10-11T14:57:23Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -382,7 +418,7 @@
     "id": "traceloop/openllmetry",
     "language": "Python",
     "name": "traceloop/openllmetry",
-    "stars": 7481,
+    "stars": 7482,
     "updated_at": "2026-10-11T13:54:28Z",
     "url": "https://github.com/traceloop/openllmetry"
   },
@@ -412,41 +448,5 @@
     "stars": 6,
     "updated_at": "2026-10-11T13:49:18Z",
     "url": "https://github.com/Kakz/prometheus-llm"
-  },
-  {
-    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
-    "id": "tenemos/langwatch",
-    "language": "TypeScript",
-    "name": "tenemos/langwatch",
-    "stars": 2,
-    "updated_at": "2026-10-11T13:48:05Z",
-    "url": "https://github.com/tenemos/langwatch"
-  },
-  {
-    "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
-    "id": "maks3201/decision-model-operator",
-    "language": "Go",
-    "name": "maks3201/decision-model-operator",
-    "stars": 1,
-    "updated_at": "2026-10-11T14:41:41Z",
-    "url": "https://github.com/maks3201/decision-model-operator"
-  },
-  {
-    "description": "\ud83d\udeaa Governance gate for AI agents. Enforce policies before deployment: request contracts, operational safeguards, identity",
-    "id": "VamsiSudhakaran1/release-gate",
-    "language": "Python",
-    "name": "VamsiSudhakaran1/release-gate",
-    "stars": 3,
-    "updated_at": "2026-10-11T14:41:19Z",
-    "url": "https://github.com/VamsiSudhakaran1/release-gate"
-  },
-  {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 30,
-    "updated_at": "2026-10-11T13:38:56Z",
-    "url": "https://github.com/SourceShift/mini-ork"
   }
 ]
