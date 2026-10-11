@@ -1,11 +1,83 @@
 [
   {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-11T04:59:55Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 6,
+    "updated_at": "2026-10-11T04:58:53Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "LLM spend tracking and budgets for Rails \u2014 by user, feature, or any tag, in your own database, no proxy.",
+    "id": "sergey-homenko/llm_cost_tracker",
+    "language": "Ruby",
+    "name": "sergey-homenko/llm_cost_tracker",
+    "stars": 44,
+    "updated_at": "2026-10-11T04:58:48Z",
+    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
+  },
+  {
+    "description": "GatewayCrate: self-hosted AI gateway powered by LiteLLM. Unified OpenAI-compatible API for 100+ cloud and local LLM prov",
+    "id": "hwdsl2/gatewaycrate",
+    "language": "Shell",
+    "name": "hwdsl2/gatewaycrate",
+    "stars": 9,
+    "updated_at": "2026-10-11T04:57:35Z",
+    "url": "https://github.com/hwdsl2/gatewaycrate"
+  },
+  {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-10-11T04:52:11Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60935,
+    "updated_at": "2026-10-11T04:57:43Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O",
+    "id": "kelvran/gateway",
+    "language": "Go",
+    "name": "kelvran/gateway",
+    "stars": 0,
+    "updated_at": "2026-10-11T04:55:34Z",
+    "url": "https://github.com/kelvran/gateway"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-11T04:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Flight recorder & observability for AI agents: trace every model call, tool call, file edit and shell command live, with",
     "id": "abdullahimohamed101/agent-black-box",
     "language": "Python",
     "name": "abdullahimohamed101/agent-black-box",
     "stars": 0,
-    "updated_at": "2026-10-11T04:42:22Z",
+    "updated_at": "2026-10-11T04:47:45Z",
     "url": "https://github.com/abdullahimohamed101/agent-black-box"
   },
   {
@@ -54,15 +126,6 @@
     "url": "https://github.com/QuantumEdu/q-agent"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-11T04:33:41Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Proyecto de investigaci\u00f3n y desarrollo de software orientado a detectar, localizar y explicar regresiones conductuales e",
     "id": "kapumota/ProvRegress",
     "language": "Python",
@@ -70,24 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-11T04:32:16Z",
     "url": "https://github.com/kapumota/ProvRegress"
-  },
-  {
-    "description": "Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O",
-    "id": "kelvran/gateway",
-    "language": "Go",
-    "name": "kelvran/gateway",
-    "stars": 0,
-    "updated_at": "2026-10-11T04:39:30Z",
-    "url": "https://github.com/kelvran/gateway"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-11T04:30:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
@@ -115,24 +160,6 @@
     "stars": 0,
     "updated_at": "2026-10-11T04:27:02Z",
     "url": "https://github.com/luetzey/who2be"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 6,
-    "updated_at": "2026-10-11T04:15:33Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60934,
-    "updated_at": "2026-10-11T04:44:51Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -274,7 +301,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 35622,
+    "stars": 35624,
     "updated_at": "2026-10-11T02:54:34Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-11T02:26:06Z",
     "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-10-11T02:25:03Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
-  },
-  {
-    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
-    "id": "developersofik/greenprompt",
-    "language": "TypeScript",
-    "name": "developersofik/greenprompt",
-    "stars": 0,
-    "updated_at": "2026-10-11T02:22:41Z",
-    "url": "https://github.com/developersofik/greenprompt"
-  },
-  {
-    "description": "Enterprise AI Router and Governance System \u2014 the AI that governs all AIs",
-    "id": "kensterinvest/tidus",
-    "language": "HTML",
-    "name": "kensterinvest/tidus",
-    "stars": 1,
-    "updated_at": "2026-10-11T02:22:22Z",
-    "url": "https://github.com/kensterinvest/tidus"
   }
 ]
