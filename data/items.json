@@ -1,21 +1,21 @@
 [
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60964,
-    "updated_at": "2026-10-11T16:44:37Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
+    "id": "maks3201/decision-model-operator",
+    "language": "Go",
+    "name": "maks3201/decision-model-operator",
+    "stars": 1,
+    "updated_at": "2026-10-11T16:59:55Z",
+    "url": "https://github.com/maks3201/decision-model-operator"
   },
   {
-    "description": "Flight recorder & observability for AI agents: trace every model call, tool call, file edit and shell command live, with",
-    "id": "abdullahimohamed101/agent-black-box",
-    "language": "Python",
-    "name": "abdullahimohamed101/agent-black-box",
-    "stars": 0,
-    "updated_at": "2026-10-11T16:43:46Z",
-    "url": "https://github.com/abdullahimohamed101/agent-black-box"
+    "description": "Open-source AI gateway and operations platform. Bring your own provider API keys and unify every AI model behind a singl",
+    "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "language": "TypeScript",
+    "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "stars": 4,
+    "updated_at": "2026-10-11T16:59:26Z",
+    "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
   },
   {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
@@ -23,8 +23,53 @@
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 23,
-    "updated_at": "2026-10-11T16:41:49Z",
+    "updated_at": "2026-10-11T16:59:03Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "On-premises proxy that catches runaway AI agent loops before they drain your API budget",
+    "id": "PujanMirani/NakshGuard",
+    "language": "Go",
+    "name": "PujanMirani/NakshGuard",
+    "stars": 3,
+    "updated_at": "2026-10-11T16:53:27Z",
+    "url": "https://github.com/PujanMirani/NakshGuard"
+  },
+  {
+    "description": "Flight recorder & observability for AI agents: trace every model call, tool call, file edit and shell command live, with",
+    "id": "abdullahimohamed101/agent-black-box",
+    "language": "Python",
+    "name": "abdullahimohamed101/agent-black-box",
+    "stars": 0,
+    "updated_at": "2026-10-11T16:51:48Z",
+    "url": "https://github.com/abdullahimohamed101/agent-black-box"
+  },
+  {
+    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 1,
+    "updated_at": "2026-10-11T16:54:37Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-11T16:45:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60964,
+    "updated_at": "2026-10-11T16:44:37Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Agentic Runtime",
@@ -59,7 +104,7 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-11T16:39:51Z",
+    "updated_at": "2026-10-11T16:56:08Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -86,7 +131,7 @@
     "language": "Python",
     "name": "Jott2121/sabot",
     "stars": 0,
-    "updated_at": "2026-10-11T16:44:11Z",
+    "updated_at": "2026-10-11T16:50:47Z",
     "url": "https://github.com/Jott2121/sabot"
   },
   {
@@ -126,21 +171,12 @@
     "url": "https://github.com/heyvaldemar/dify-traefik-letsencrypt-docker-compose"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-11T16:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25897,
-    "updated_at": "2026-10-11T16:42:50Z",
+    "updated_at": "2026-10-11T16:54:03Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -149,17 +185,8 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8703,
-    "updated_at": "2026-10-11T16:31:58Z",
+    "updated_at": "2026-10-11T16:54:33Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
-    "id": "maks3201/decision-model-operator",
-    "language": "Go",
-    "name": "maks3201/decision-model-operator",
-    "stars": 1,
-    "updated_at": "2026-10-11T16:45:12Z",
-    "url": "https://github.com/maks3201/decision-model-operator"
   },
   {
     "description": "AI-powered desktop localization for game mods: Paradox games and Surviving Mars: Relaunched, with RimWorld and Project Z",
@@ -185,7 +212,7 @@
     "language": "Python",
     "name": "luetzey/who2be",
     "stars": 0,
-    "updated_at": "2026-10-11T16:20:46Z",
+    "updated_at": "2026-10-11T16:51:21Z",
     "url": "https://github.com/luetzey/who2be"
   },
   {
@@ -203,7 +230,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8853,
-    "updated_at": "2026-10-11T16:16:46Z",
+    "updated_at": "2026-10-11T16:47:19Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -212,7 +239,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 177,
-    "updated_at": "2026-10-11T16:42:34Z",
+    "updated_at": "2026-10-11T16:48:36Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -259,15 +286,6 @@
     "stars": 1,
     "updated_at": "2026-10-11T15:35:14Z",
     "url": "https://github.com/runcycles/cycles-client-rust"
-  },
-  {
-    "description": "Open-source AI gateway and operations platform. Bring your own provider API keys and unify every AI model behind a singl",
-    "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
-    "language": "TypeScript",
-    "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
-    "stars": 4,
-    "updated_at": "2026-10-11T15:31:45Z",
-    "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
   },
   {
     "description": "\u7aef\u5230\u7aef\u667a\u80fd\u4f53\u5e73\u53f0\uff1a\u628a\u672c\u673a\u7684 AI Agent \u53d8\u6210\u4eba\u4eba\u53ef\u7528\u7684 Web \u4ea7\u54c1\uff08Vue 3 + Flask + Go WS \u7f51\u5173 + Docker \u90e8\u7f72\uff09",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-11T14:34:12Z",
     "url": "https://github.com/syntactic-orleanism949/logal-rag"
-  },
-  {
-    "description": "Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic",
-    "id": "effecterelectricalplant87/LLM",
-    "language": "\u2014",
-    "name": "effecterelectricalplant87/LLM",
-    "stars": 0,
-    "updated_at": "2026-10-11T14:29:36Z",
-    "url": "https://github.com/effecterelectricalplant87/LLM"
-  },
-  {
-    "description": "Scan AI-generated code for security, performance, and code quality issues before they ship",
-    "id": "Rosalyndfaithful716/Guardrail",
-    "language": "TypeScript",
-    "name": "Rosalyndfaithful716/Guardrail",
-    "stars": 1,
-    "updated_at": "2026-10-11T14:29:31Z",
-    "url": "https://github.com/Rosalyndfaithful716/Guardrail"
   }
 ]
