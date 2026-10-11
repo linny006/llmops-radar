@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-11 21:00 UTC
+> ⏰ Last updated: 2026-10-11 21:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,31 +42,31 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [pom11/hscc](https://github.com/pom11/hscc) | 7 | Python | 2026-10-11 | Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents — cluster control, role-specialized worke |
-| 2 | [dativo-io/talon](https://github.com/dativo-io/talon) | 14 | Go | 2026-10-11 | Control plane for company AI use cases — one self-hosted operating layer for shared budgets, policies, reliability, and  |
-| 3 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 9 | Go | 2026-10-11 | Open Source software factory. |
-| 4 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 60974 | Python | 2026-10-11 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 5 | [mozilla-ai/otari](https://github.com/mozilla-ai/otari) | 516 | Python | 2026-10-11 | Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, |
-| 6 | [a-novel/service-genai](https://github.com/a-novel/service-genai) | 1 | Go | 2026-10-11 | Durable execution for AI provider calls: crash-safe, idempotent and pollable. |
-| 7 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-10-11 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
-| 8 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-11 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 9 | [SourceShift/mini-ork](https://github.com/SourceShift/mini-ork) | 30 | Python | 2026-10-11 | Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack |
-| 10 | [QuantumEdu/q-agent](https://github.com/QuantumEdu/q-agent) | 0 | Python | 2026-10-11 | Master project orchestrator featuring Dual Engine (Gentle-AI Integrated ODD vs Standalone), Article ARQ-01 Vertical Slic |
-| 11 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25899 | TypeScript | 2026-10-11 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 12 | [justin-rhee/attest-check](https://github.com/justin-rhee/attest-check) | 0 | Shell | 2026-10-11 | Fails an agent's answer that skips anything you asked about |
-| 13 | [TAIPANBOX/tokenfuse](https://github.com/TAIPANBOX/tokenfuse) | 1 | Rust | 2026-10-11 | TokenFuse — runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh |
-| 14 | [cubxxw/blog](https://github.com/cubxxw/blog) | 28 | JavaScript | 2026-10-11 | 顶级审美的个人博客！！！写一些关于 AI、Agent、技术、产品、营销、一些生活思考，个人成长类的精文 |
-| 15 | [cloudrift-ai/emmy](https://github.com/cloudrift-ai/emmy) | 94 | Python | 2026-10-11 | Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel  |
-| 16 | [721189/Market-Metrics](https://github.com/721189/Market-Metrics) | 1 | TypeScript | 2026-10-11 | Market Metrics is an autonomous market-intelligence platform designed to transform product ideas into structured, eviden |
-| 17 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-10-11 | ThakiCloud Tech Blog |
-| 18 | [llmsyscore/llm-systems-manager](https://github.com/llmsyscore/llm-systems-manager) | 5 | Python | 2026-10-11 | LLM Systems Manager — real-time observability and control for LLM systems |
-| 19 | [shaikn6/shaikn6](https://github.com/shaikn6/shaikn6) | 0 | Python | 2026-10-11 | Nagizaaz Shaik — ML & AI Systems Engineer |
-| 20 | [llmspendguard/llm-spendguard](https://github.com/llmspendguard/llm-spendguard) | 0 | Python | 2026-10-11 | Know what an LLM job will cost before you run it — and prove your ledger matches the provider's bill. Pre-submit estimat |
-| 21 | [atulkapoor/fde-framework](https://github.com/atulkapoor/fde-framework) | 10 | Python | 2026-10-11 | The decision before the AI build: evidence in, an architecture with receipts out, a scored build or a stop. Every decisi |
-| 22 | [runcycles/cycles-server](https://github.com/runcycles/cycles-server) | 5 | Java | 2026-10-11 | Self-hosted runtime authority server for AI agents — budgets, risk, actions, tenant isolation |
-| 23 | [Yacine-ai-tech/AgentKit](https://github.com/Yacine-ai-tech/AgentKit) | 0 | Python | 2026-10-11 | Governed Model Context Protocol (MCP) server & AI agent runtime with cryptographic action approval, typed tool effects,  |
-| 24 | [Yacine-ai-tech/RAGeval](https://github.com/Yacine-ai-tech/RAGeval) | 0 | Python | 2026-10-11 | Production LLM & RAG evaluation library — multi-judge consensus with disagreement alarm, 5 composite metric scorers, boo |
-| 25 | [Yacine-ai-tech/IntelAI](https://github.com/Yacine-ai-tech/IntelAI) | 0 | Python | 2026-10-11 | Sovereign enterprise RAG & analytics platform — role-scoped persona intelligence, hybrid retrieval (Dense BGE-M3 + BM25  |
+| 1 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 60975 | Python | 2026-10-11 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25901 | TypeScript | 2026-10-11 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 3 | [mozilla-ai/otari](https://github.com/mozilla-ai/otari) | 516 | Python | 2026-10-11 | Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, |
+| 4 | [Yacine-ai-tech/IntelAI](https://github.com/Yacine-ai-tech/IntelAI) | 0 | Python | 2026-10-11 | Sovereign enterprise RAG & analytics platform — role-scoped persona intelligence, hybrid retrieval (Dense BGE-M3 + BM25  |
+| 5 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-11 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 6 | [pom11/hscc](https://github.com/pom11/hscc) | 7 | Python | 2026-10-11 | Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents — cluster control, role-specialized worke |
+| 7 | [dativo-io/talon](https://github.com/dativo-io/talon) | 14 | Go | 2026-10-11 | Control plane for company AI use cases — one self-hosted operating layer for shared budgets, policies, reliability, and  |
+| 8 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 9 | Go | 2026-10-11 | Open Source software factory. |
+| 9 | [a-novel/service-genai](https://github.com/a-novel/service-genai) | 1 | Go | 2026-10-11 | Durable execution for AI provider calls: crash-safe, idempotent and pollable. |
+| 10 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-10-11 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 11 | [SourceShift/mini-ork](https://github.com/SourceShift/mini-ork) | 30 | Python | 2026-10-11 | Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack |
+| 12 | [QuantumEdu/q-agent](https://github.com/QuantumEdu/q-agent) | 0 | Python | 2026-10-11 | Master project orchestrator featuring Dual Engine (Gentle-AI Integrated ODD vs Standalone), Article ARQ-01 Vertical Slic |
+| 13 | [justin-rhee/attest-check](https://github.com/justin-rhee/attest-check) | 0 | Shell | 2026-10-11 | Fails an agent's answer that skips anything you asked about |
+| 14 | [TAIPANBOX/tokenfuse](https://github.com/TAIPANBOX/tokenfuse) | 1 | Rust | 2026-10-11 | TokenFuse — runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh |
+| 15 | [cubxxw/blog](https://github.com/cubxxw/blog) | 28 | JavaScript | 2026-10-11 | 顶级审美的个人博客！！！写一些关于 AI、Agent、技术、产品、营销、一些生活思考，个人成长类的精文 |
+| 16 | [cloudrift-ai/emmy](https://github.com/cloudrift-ai/emmy) | 94 | Python | 2026-10-11 | Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel  |
+| 17 | [721189/Market-Metrics](https://github.com/721189/Market-Metrics) | 1 | TypeScript | 2026-10-11 | Market Metrics is an autonomous market-intelligence platform designed to transform product ideas into structured, eviden |
+| 18 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-10-11 | ThakiCloud Tech Blog |
+| 19 | [llmsyscore/llm-systems-manager](https://github.com/llmsyscore/llm-systems-manager) | 5 | Python | 2026-10-11 | LLM Systems Manager — real-time observability and control for LLM systems |
+| 20 | [shaikn6/shaikn6](https://github.com/shaikn6/shaikn6) | 0 | Python | 2026-10-11 | Nagizaaz Shaik — ML & AI Systems Engineer |
+| 21 | [llmspendguard/llm-spendguard](https://github.com/llmspendguard/llm-spendguard) | 0 | Python | 2026-10-11 | Know what an LLM job will cost before you run it — and prove your ledger matches the provider's bill. Pre-submit estimat |
+| 22 | [atulkapoor/fde-framework](https://github.com/atulkapoor/fde-framework) | 10 | Python | 2026-10-11 | The decision before the AI build: evidence in, an architecture with receipts out, a scored build or a stop. Every decisi |
+| 23 | [runcycles/cycles-server](https://github.com/runcycles/cycles-server) | 5 | Java | 2026-10-11 | Self-hosted runtime authority server for AI agents — budgets, risk, actions, tenant isolation |
+| 24 | [Yacine-ai-tech/AgentKit](https://github.com/Yacine-ai-tech/AgentKit) | 0 | Python | 2026-10-11 | Governed Model Context Protocol (MCP) server & AI agent runtime with cryptographic action approval, typed tool effects,  |
+| 25 | [Yacine-ai-tech/RAGeval](https://github.com/Yacine-ai-tech/RAGeval) | 0 | Python | 2026-10-11 | Production LLM & RAG evaluation library — multi-judge consensus with disagreement alarm, 5 composite metric scorers, boo |
 | 26 | [kelvran/gateway](https://github.com/kelvran/gateway) | 0 | Go | 2026-10-11 | Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O |
 | 27 | [luetzey/who2be](https://github.com/luetzey/who2be) | 0 | Python | 2026-10-11 | Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se |
 | 28 | [srjn45/warden](https://github.com/srjn45/warden) | 2 | Go | 2026-10-11 | Run a fleet of Claude Code agents from one Go binary — spawn, monitor, and tear them down in isolated git worktrees, tra |
@@ -81,7 +81,7 @@ expired items removed — so you can rely on what you see being current.
 | 37 | [KushagraKanaujia/throttle](https://github.com/KushagraKanaujia/throttle) | 7 | Python | 2026-10-11 | Find and prove inference savings on your own GPUs: $/M tokens with 95% CIs, agent workloads, verified-savings statements |
 | 38 | [Chris0Jeky/llm-release-gate](https://github.com/Chris0Jeky/llm-release-gate) | 0 | Python | 2026-10-11 | An open-source CLI plus GitHub Action that prevents unsafe prompt, model, retrieval, tool, or configuration changes from |
 | 39 | [o11y-one/o11y-one-sdk](https://github.com/o11y-one/o11y-one-sdk) | 0 | TypeScript | 2026-10-11 | Official O11y One SDKs for TypeScript, Python and Go, plus o11y-eval, the CI runner and PR-diff action that gate release |
-| 40 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 30502 | TypeScript | 2026-10-11 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
+| 40 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 30503 | TypeScript | 2026-10-11 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
 | 41 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 8854 | Rust | 2026-10-11 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
 | 42 | [abdullahimohamed101/agent-black-box](https://github.com/abdullahimohamed101/agent-black-box) | 0 | Python | 2026-10-11 | Flight recorder & observability for AI agents: trace every model call, tool call, file edit and shell command live, with |
 | 43 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 28345 | Python | 2026-10-11 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
