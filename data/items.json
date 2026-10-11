@@ -1,5 +1,59 @@
 [
   {
+    "description": "Open Source software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-10-11T10:59:17Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod",
+    "id": "valteresj2/agent-hangar",
+    "language": "Python",
+    "name": "valteresj2/agent-hangar",
+    "stars": 3,
+    "updated_at": "2026-10-11T10:57:17Z",
+    "url": "https://github.com/valteresj2/agent-hangar"
+  },
+  {
+    "description": "Is a cheaper model as good as the one you run now? Paired-bootstrap non-inferiority check for swapping models.",
+    "id": "illate/parity",
+    "language": "Python",
+    "name": "illate/parity",
+    "stars": 0,
+    "updated_at": "2026-10-11T10:53:17Z",
+    "url": "https://github.com/illate/parity"
+  },
+  {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-10-11T10:49:37Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
+    "id": "empiredestroyer/AI-Prompt-Enhancer",
+    "language": "\u2014",
+    "name": "empiredestroyer/AI-Prompt-Enhancer",
+    "stars": 2,
+    "updated_at": "2026-10-11T10:48:33Z",
+    "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-11T10:45:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
     "id": "Kakz/prometheus-llm",
     "language": "Python",
@@ -34,15 +88,6 @@
     "stars": 41,
     "updated_at": "2026-10-11T10:41:53Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod",
-    "id": "valteresj2/agent-hangar",
-    "language": "Python",
-    "name": "valteresj2/agent-hangar",
-    "stars": 3,
-    "updated_at": "2026-10-11T10:37:52Z",
-    "url": "https://github.com/valteresj2/agent-hangar"
   },
   {
     "description": "\u9ad8\u53ef\u7528 RAG + MCP Agent \u5e95\u5ea7\uff1a\u751f\u6210\u4fa7\u4e3b\u5907\u964d\u7ea7 / \u68c0\u7d22\u4fa7\u5173\u952e\u8bcd\u515c\u5e95 / \u5411\u91cf\u5e93\u4e00\u81f4\u6027\u5b88\u536b / \u53ef\u590d\u73b0\u7684\u534f\u8bae\u6392\u9519\u63a2\u9488\uff0874 \u4e2a\u6d4b\u8bd5 + 44 \u5f20\u5b9e\u6d4b\u622a\u56fe\uff09",
@@ -81,15 +126,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-11T10:30:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Agent skill that upgrades LLM code to Claude Opus 5.5, GPT-6, Gemini 3.8 without breaking prod. Fixes breaking changes, ",
     "id": "forkadarshp/modelport",
     "language": "Python",
@@ -106,15 +142,6 @@
     "stars": 7,
     "updated_at": "2026-10-11T10:24:41Z",
     "url": "https://github.com/runcycles/cycles-openclaw-budget-guard"
-  },
-  {
-    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-10-11T10:24:27Z",
-    "url": "https://github.com/veerarakesh56/warden"
   },
   {
     "description": "Policy, measurement, and operations workbench for running Codex and Claude agents safely across a GitHub estate.",
@@ -149,7 +176,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8696,
-    "updated_at": "2026-10-11T10:33:44Z",
+    "updated_at": "2026-10-11T10:58:01Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -167,7 +194,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 60948,
-    "updated_at": "2026-10-11T10:42:04Z",
+    "updated_at": "2026-10-11T10:56:31Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -203,7 +230,7 @@
     "language": "Python",
     "name": "luetzey/who2be",
     "stars": 0,
-    "updated_at": "2026-10-11T10:36:35Z",
+    "updated_at": "2026-10-11T11:00:24Z",
     "url": "https://github.com/luetzey/who2be"
   },
   {
@@ -212,7 +239,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25889,
-    "updated_at": "2026-10-11T10:36:41Z",
+    "updated_at": "2026-10-11T10:56:40Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -257,7 +284,7 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-11T10:34:02Z",
+    "updated_at": "2026-10-11T10:53:08Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -387,21 +414,12 @@
     "url": "https://github.com/rafiulhc/calldesk-rag-llmops"
   },
   {
-    "description": "Open Source software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-10-11T10:38:24Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28341,
-    "updated_at": "2026-10-11T10:10:02Z",
+    "updated_at": "2026-10-11T10:50:40Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -410,7 +428,7 @@
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 639,
-    "updated_at": "2026-10-11T10:30:46Z",
+    "updated_at": "2026-10-11T10:47:46Z",
     "url": "https://github.com/Abilityai/trinity"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-11T08:18:05Z",
     "url": "https://github.com/umutkeltek/switchback"
-  },
-  {
-    "description": "OpenAI-compatible proxy daemon that races multiple LLM providers per request and cancels the losers to cut tail latency.",
-    "id": "mykolapodpriatov/hedge-llm",
-    "language": "Go",
-    "name": "mykolapodpriatov/hedge-llm",
-    "stars": 0,
-    "updated_at": "2026-10-11T08:17:45Z",
-    "url": "https://github.com/mykolapodpriatov/hedge-llm"
-  },
-  {
-    "description": "The gagarin CLI \u2014 deploy and operate applications on gagarin. Ships the agent skill inside the binary.",
-    "id": "gagarin-cloud/gg",
-    "language": "Go",
-    "name": "gagarin-cloud/gg",
-    "stars": 1,
-    "updated_at": "2026-10-11T08:15:21Z",
-    "url": "https://github.com/gagarin-cloud/gg"
   }
 ]
