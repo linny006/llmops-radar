@@ -1,5 +1,131 @@
 [
   {
+    "description": "Independent AI model router: multi-provider policies, API key quotas, SSE/WebSocket, reasoning playground and portable D",
+    "id": "chensl139-ok/switchboard-ai-router",
+    "language": "JavaScript",
+    "name": "chensl139-ok/switchboard-ai-router",
+    "stars": 5,
+    "updated_at": "2026-10-11T13:59:55Z",
+    "url": "https://github.com/chensl139-ok/switchboard-ai-router"
+  },
+  {
+    "description": "A free, open-source AI infrastructure roadmap: a 9-layer map of the stack, 6 stages with exit criteria, around 200 vette",
+    "id": "iambiniyam/ai-infra-roadmap",
+    "language": "Python",
+    "name": "iambiniyam/ai-infra-roadmap",
+    "stars": 4,
+    "updated_at": "2026-10-11T13:59:32Z",
+    "url": "https://github.com/iambiniyam/ai-infra-roadmap"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 23,
+    "updated_at": "2026-10-11T13:55:54Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 7,
+    "updated_at": "2026-10-11T13:55:47Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Budget governance for OpenAI Agents SDK \u2014 enforce cost limits before tools execute",
+    "id": "runcycles/cycles-openai-agents",
+    "language": "Python",
+    "name": "runcycles/cycles-openai-agents",
+    "stars": 0,
+    "updated_at": "2026-10-11T13:54:42Z",
+    "url": "https://github.com/runcycles/cycles-openai-agents"
+  },
+  {
+    "description": "Open-source observability for your GenAI or LLM application, based on OpenTelemetry",
+    "id": "traceloop/openllmetry",
+    "language": "Python",
+    "name": "traceloop/openllmetry",
+    "stars": 7481,
+    "updated_at": "2026-10-11T13:54:28Z",
+    "url": "https://github.com/traceloop/openllmetry"
+  },
+  {
+    "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
+    "id": "empiredestroyer/AI-Prompt-Enhancer",
+    "language": "\u2014",
+    "name": "empiredestroyer/AI-Prompt-Enhancer",
+    "stars": 2,
+    "updated_at": "2026-10-11T13:52:11Z",
+    "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
+  },
+  {
+    "description": "Open-source AI gateway and operations platform. Bring your own provider API keys and unify every AI model behind a singl",
+    "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "language": "TypeScript",
+    "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "stars": 4,
+    "updated_at": "2026-10-11T13:49:54Z",
+    "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
+  },
+  {
+    "description": "One-click installer that self-hosts a FreeLLMAPI gateway and wires it into Hermes Agent as a free LLM provider, fallback",
+    "id": "pktradingview3-ops/freellmapi-hermes-setup",
+    "language": "Shell",
+    "name": "pktradingview3-ops/freellmapi-hermes-setup",
+    "stars": 0,
+    "updated_at": "2026-10-11T13:49:43Z",
+    "url": "https://github.com/pktradingview3-ops/freellmapi-hermes-setup"
+  },
+  {
+    "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
+    "id": "Kakz/prometheus-llm",
+    "language": "Python",
+    "name": "Kakz/prometheus-llm",
+    "stars": 6,
+    "updated_at": "2026-10-11T13:49:18Z",
+    "url": "https://github.com/Kakz/prometheus-llm"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28342,
+    "updated_at": "2026-10-11T13:51:56Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O",
+    "id": "kelvran/gateway",
+    "language": "Go",
+    "name": "kelvran/gateway",
+    "stars": 0,
+    "updated_at": "2026-10-11T13:56:32Z",
+    "url": "https://github.com/kelvran/gateway"
+  },
+  {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-10-11T13:48:05Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-11T13:45:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
     "id": "maks3201/decision-model-operator",
     "language": "Go",
@@ -14,17 +140,8 @@
     "language": "Python",
     "name": "VamsiSudhakaran1/release-gate",
     "stars": 3,
-    "updated_at": "2026-10-11T13:43:06Z",
+    "updated_at": "2026-10-11T13:52:40Z",
     "url": "https://github.com/VamsiSudhakaran1/release-gate"
-  },
-  {
-    "description": "A free, open-source AI infrastructure roadmap: a 9-layer map of the stack, 6 stages with exit criteria, around 200 vette",
-    "id": "iambiniyam/ai-infra-roadmap",
-    "language": "Python",
-    "name": "iambiniyam/ai-infra-roadmap",
-    "stars": 4,
-    "updated_at": "2026-10-11T13:41:11Z",
-    "url": "https://github.com/iambiniyam/ai-infra-roadmap"
   },
   {
     "description": "Self-hosted OpenAI/Anthropic-compatible gateway: give each AI agent run a dollar budget, enforced before the provider, w",
@@ -68,7 +185,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 60952,
-    "updated_at": "2026-10-11T13:34:48Z",
+    "updated_at": "2026-10-11T13:46:22Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -81,21 +198,12 @@
     "url": "https://github.com/octavebahoun/gouvra"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-11T13:30:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "AI trust-boundary gateway for OpenAI, Anthropic, and Gemini.",
     "id": "GetSHIM/shim",
     "language": "Python",
     "name": "GetSHIM/shim",
     "stars": 8,
-    "updated_at": "2026-10-11T13:36:47Z",
+    "updated_at": "2026-10-11T13:55:51Z",
     "url": "https://github.com/GetSHIM/shim"
   },
   {
@@ -115,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-10-11T13:40:51Z",
     "url": "https://github.com/Chris0Jeky/llm-release-gate"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 23,
-    "updated_at": "2026-10-11T13:20:44Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "Agentic Runtime",
@@ -158,7 +257,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8700,
-    "updated_at": "2026-10-11T13:40:35Z",
+    "updated_at": "2026-10-11T13:58:44Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -171,15 +270,6 @@
     "url": "https://github.com/evalshift/evalshift-cli"
   },
   {
-    "description": "Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O",
-    "id": "kelvran/gateway",
-    "language": "Go",
-    "name": "kelvran/gateway",
-    "stars": 0,
-    "updated_at": "2026-10-11T13:12:20Z",
-    "url": "https://github.com/kelvran/gateway"
-  },
-  {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "Python",
@@ -187,15 +277,6 @@
     "stars": 2949,
     "updated_at": "2026-10-11T13:06:39Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 7,
-    "updated_at": "2026-10-11T13:05:29Z",
-    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "Does your LLM telemetry tell the truth? Replays provider responses through LLM instrumentation libraries and checks ever",
@@ -220,7 +301,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25892,
+    "stars": 25894,
     "updated_at": "2026-10-11T12:54:05Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -239,7 +320,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-11T13:39:53Z",
+    "updated_at": "2026-10-11T13:58:35Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -275,7 +356,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1361,
-    "updated_at": "2026-10-11T12:58:50Z",
+    "updated_at": "2026-10-11T13:51:44Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-11T11:48:35Z",
     "url": "https://github.com/runcycles/cycles-dashboard"
-  },
-  {
-    "description": "Open protocol for runtime budget and action authority over AI agents",
-    "id": "runcycles/cycles-protocol",
-    "language": "Python",
-    "name": "runcycles/cycles-protocol",
-    "stars": 4,
-    "updated_at": "2026-10-11T11:47:53Z",
-    "url": "https://github.com/runcycles/cycles-protocol"
-  },
-  {
-    "description": "Cycles budget and action guard for OpenClaw agents",
-    "id": "runcycles/cycles-openclaw-budget-guard",
-    "language": "TypeScript",
-    "name": "runcycles/cycles-openclaw-budget-guard",
-    "stars": 7,
-    "updated_at": "2026-10-11T11:47:46Z",
-    "url": "https://github.com/runcycles/cycles-openclaw-budget-guard"
-  },
-  {
-    "description": "MCP budget and risk authority for Cycles \u2014 runtime governance for Claude, Cursor, and Windsurf",
-    "id": "runcycles/cycles-mcp-server",
-    "language": "TypeScript",
-    "name": "runcycles/cycles-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-10-11T11:47:40Z",
-    "url": "https://github.com/runcycles/cycles-mcp-server"
-  },
-  {
-    "description": "TypeScript SDK for Cycles \u2014 runtime budget and action authority for Node.js AI agents",
-    "id": "runcycles/cycles-client-typescript",
-    "language": "TypeScript",
-    "name": "runcycles/cycles-client-typescript",
-    "stars": 0,
-    "updated_at": "2026-10-11T11:47:29Z",
-    "url": "https://github.com/runcycles/cycles-client-typescript"
-  },
-  {
-    "description": "Python SDK for Cycles \u2014 reserve, commit, release budget and risk for AI agents",
-    "id": "runcycles/cycles-client-python",
-    "language": "Python",
-    "name": "runcycles/cycles-client-python",
-    "stars": 0,
-    "updated_at": "2026-10-11T11:47:10Z",
-    "url": "https://github.com/runcycles/cycles-client-python"
-  },
-  {
-    "description": "Convert static anime images into structured, QA-checked PSDs with Codex, Colab GPU, and built-in motion preview.",
-    "id": "Rickettsiayorkshirefog4963/still2rig-psd",
-    "language": "JavaScript",
-    "name": "Rickettsiayorkshirefog4963/still2rig-psd",
-    "stars": 0,
-    "updated_at": "2026-10-11T11:46:31Z",
-    "url": "https://github.com/Rickettsiayorkshirefog4963/still2rig-psd"
-  },
-  {
-    "description": "LangChain agent middleware for Cycles \u2014 pre-tool-call authorization and per-tenant budget enforcement for Python agents ",
-    "id": "runcycles/langchain-runcycles",
-    "language": "Python",
-    "name": "runcycles/langchain-runcycles",
-    "stars": 0,
-    "updated_at": "2026-10-11T11:46:29Z",
-    "url": "https://github.com/runcycles/langchain-runcycles"
-  },
-  {
-    "description": "GitHub org config, CI workflows, and community health files for Cycles",
-    "id": "runcycles/.github",
-    "language": "Shell",
-    "name": "runcycles/.github",
-    "stars": 0,
-    "updated_at": "2026-10-11T11:46:30Z",
-    "url": "https://github.com/runcycles/.github"
-  },
-  {
-    "description": "Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability ",
-    "id": "santiag6001/llm-engineering-platform",
-    "language": "Python",
-    "name": "santiag6001/llm-engineering-platform",
-    "stars": 1,
-    "updated_at": "2026-10-11T11:42:50Z",
-    "url": "https://github.com/santiag6001/llm-engineering-platform"
   }
 ]
