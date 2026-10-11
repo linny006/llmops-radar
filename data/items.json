@@ -1,12 +1,57 @@
 [
   {
-    "description": "Agent skill that upgrades LLM code to Claude Opus 5.5, GPT-6, Gemini 3.8 without breaking prod. Fixes breaking changes, ",
-    "id": "forkadarshp/modelport",
+    "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
+    "id": "Kakz/prometheus-llm",
     "language": "Python",
-    "name": "forkadarshp/modelport",
-    "stars": 4,
-    "updated_at": "2026-10-11T10:28:15Z",
-    "url": "https://github.com/forkadarshp/modelport"
+    "name": "Kakz/prometheus-llm",
+    "stars": 6,
+    "updated_at": "2026-10-11T10:44:56Z",
+    "url": "https://github.com/Kakz/prometheus-llm"
+  },
+  {
+    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+    "id": "tenemos/langwatch",
+    "language": "TypeScript",
+    "name": "tenemos/langwatch",
+    "stars": 2,
+    "updated_at": "2026-10-11T10:43:47Z",
+    "url": "https://github.com/tenemos/langwatch"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 23,
+    "updated_at": "2026-10-11T10:42:35Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-11T10:41:53Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod",
+    "id": "valteresj2/agent-hangar",
+    "language": "Python",
+    "name": "valteresj2/agent-hangar",
+    "stars": 3,
+    "updated_at": "2026-10-11T10:37:52Z",
+    "url": "https://github.com/valteresj2/agent-hangar"
+  },
+  {
+    "description": "\u9ad8\u53ef\u7528 RAG + MCP Agent \u5e95\u5ea7\uff1a\u751f\u6210\u4fa7\u4e3b\u5907\u964d\u7ea7 / \u68c0\u7d22\u4fa7\u5173\u952e\u8bcd\u515c\u5e95 / \u5411\u91cf\u5e93\u4e00\u81f4\u6027\u5b88\u536b / \u53ef\u590d\u73b0\u7684\u534f\u8bae\u6392\u9519\u63a2\u9488\uff0874 \u4e2a\u6d4b\u8bd5 + 44 \u5f20\u5b9e\u6d4b\u622a\u56fe\uff09",
+    "id": "yrd-go/AI-Agent-Harness",
+    "language": "Python",
+    "name": "yrd-go/AI-Agent-Harness",
+    "stars": 0,
+    "updated_at": "2026-10-11T10:37:47Z",
+    "url": "https://github.com/yrd-go/AI-Agent-Harness"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
@@ -14,8 +59,44 @@
     "language": "Python",
     "name": "vllm-project/vllm-ascend",
     "stars": 2949,
-    "updated_at": "2026-10-11T10:28:00Z",
+    "updated_at": "2026-10-11T10:37:14Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Evaluation-first RAG and LLMOps platform for production-grade document QA, tracing, regression testing, and cost-aware e",
+    "id": "DiogoRibeiro7/rag-quality-engine",
+    "language": "Jupyter Notebook",
+    "name": "DiogoRibeiro7/rag-quality-engine",
+    "stars": 0,
+    "updated_at": "2026-10-11T10:34:21Z",
+    "url": "https://github.com/DiogoRibeiro7/rag-quality-engine"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-11T10:33:07Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-11T10:30:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Agent skill that upgrades LLM code to Claude Opus 5.5, GPT-6, Gemini 3.8 without breaking prod. Fixes breaking changes, ",
+    "id": "forkadarshp/modelport",
+    "language": "Python",
+    "name": "forkadarshp/modelport",
+    "stars": 4,
+    "updated_at": "2026-10-11T10:28:15Z",
+    "url": "https://github.com/forkadarshp/modelport"
   },
   {
     "description": "Cycles budget and action guard for OpenClaw agents",
@@ -68,17 +149,8 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8696,
-    "updated_at": "2026-10-11T10:25:38Z",
+    "updated_at": "2026-10-11T10:33:44Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-11T10:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O",
@@ -86,7 +158,7 @@
     "language": "Go",
     "name": "kelvran/gateway",
     "stars": 0,
-    "updated_at": "2026-10-11T10:15:34Z",
+    "updated_at": "2026-10-11T10:32:53Z",
     "url": "https://github.com/kelvran/gateway"
   },
   {
@@ -94,18 +166,9 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 60947,
-    "updated_at": "2026-10-11T10:14:23Z",
+    "stars": 60948,
+    "updated_at": "2026-10-11T10:42:04Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-11T10:11:49Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Python SDK for Cycles \u2014 reserve, commit, release budget and risk for AI agents",
@@ -140,17 +203,8 @@
     "language": "Python",
     "name": "luetzey/who2be",
     "stars": 0,
-    "updated_at": "2026-10-11T10:01:05Z",
+    "updated_at": "2026-10-11T10:36:35Z",
     "url": "https://github.com/luetzey/who2be"
-  },
-  {
-    "description": "Evaluation-first RAG and LLMOps platform for production-grade document QA, tracing, regression testing, and cost-aware e",
-    "id": "DiogoRibeiro7/rag-quality-engine",
-    "language": "Jupyter Notebook",
-    "name": "DiogoRibeiro7/rag-quality-engine",
-    "stars": 0,
-    "updated_at": "2026-10-11T10:03:29Z",
-    "url": "https://github.com/DiogoRibeiro7/rag-quality-engine"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -158,7 +212,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25889,
-    "updated_at": "2026-10-11T09:54:48Z",
+    "updated_at": "2026-10-11T10:36:41Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -176,7 +230,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 95,
-    "updated_at": "2026-10-11T10:26:07Z",
+    "updated_at": "2026-10-11T10:36:44Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -189,12 +243,21 @@
     "url": "https://github.com/BorjaIP/personal-os-skills"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11785,
+    "updated_at": "2026-10-11T09:19:33Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
     "id": "srjn45/warden",
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-11T10:24:52Z",
+    "updated_at": "2026-10-11T10:34:02Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -311,7 +374,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 93,
-    "updated_at": "2026-10-11T09:52:43Z",
+    "updated_at": "2026-10-11T10:37:36Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -324,21 +387,12 @@
     "url": "https://github.com/rafiulhc/calldesk-rag-llmops"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-11T08:33:45Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "Open Source software factory.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-10-11T10:17:18Z",
+    "updated_at": "2026-10-11T10:38:24Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -356,7 +410,7 @@
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 639,
-    "updated_at": "2026-10-11T08:44:56Z",
+    "updated_at": "2026-10-11T10:30:46Z",
     "url": "https://github.com/Abilityai/trinity"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-11T08:15:21Z",
     "url": "https://github.com/gagarin-cloud/gg"
-  },
-  {
-    "description": "Enterprise Corrective RAG (CRAG) platform for financial intelligence. Combines PostgreSQL pgvector hybrid search (Dense ",
-    "id": "Arashka-DS/financial-crag-with-langgraph-langsmith",
-    "language": "Python",
-    "name": "Arashka-DS/financial-crag-with-langgraph-langsmith",
-    "stars": 0,
-    "updated_at": "2026-10-11T08:14:08Z",
-    "url": "https://github.com/Arashka-DS/financial-crag-with-langgraph-langsmith"
-  },
-  {
-    "description": "Enterprise-grade multimodal AI video generation pipeline orchestrating Google Gemini 3.5, Imagen 3 & Veo 3.1 with fault-",
-    "id": "jaypiasco/fable-motion-showcase",
-    "language": "TypeScript",
-    "name": "jaypiasco/fable-motion-showcase",
-    "stars": 0,
-    "updated_at": "2026-10-11T07:58:02Z",
-    "url": "https://github.com/jaypiasco/fable-motion-showcase"
-  },
-  {
-    "description": "Nagizaaz Shaik \u2014 ML & AI Systems Engineer",
-    "id": "shaikn6/shaikn6",
-    "language": "Python",
-    "name": "shaikn6/shaikn6",
-    "stars": 0,
-    "updated_at": "2026-10-11T07:45:25Z",
-    "url": "https://github.com/shaikn6/shaikn6"
-  },
-  {
-    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
-    "id": "alibaba/rtp-llm",
-    "language": "Python",
-    "name": "alibaba/rtp-llm",
-    "stars": 1361,
-    "updated_at": "2026-10-11T10:29:53Z",
-    "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "Protect your machine from AI-powered automation with local, deterministic Allow/Ask/Deny controls for high-impact action",
-    "id": "Permed-lizard3456/ActionGuard",
-    "language": "\u2014",
-    "name": "Permed-lizard3456/ActionGuard",
-    "stars": 0,
-    "updated_at": "2026-10-11T07:42:01Z",
-    "url": "https://github.com/Permed-lizard3456/ActionGuard"
-  },
-  {
-    "description": "Classify user feedback into positive, negative, or neutral categories using an automated machine learning pipeline and F",
-    "id": "Traciewheelless86/sentiment-analysis-nlp-api",
-    "language": "Python",
-    "name": "Traciewheelless86/sentiment-analysis-nlp-api",
-    "stars": 0,
-    "updated_at": "2026-10-11T07:39:26Z",
-    "url": "https://github.com/Traciewheelless86/sentiment-analysis-nlp-api"
   }
 ]
