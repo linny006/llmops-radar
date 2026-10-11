@@ -1,5 +1,149 @@
 [
   {
+    "description": "\u9876\u7ea7\u5ba1\u7f8e\u7684\u4e2a\u4eba\u535a\u5ba2\uff01\uff01\uff01\u5199\u4e00\u4e9b\u5173\u4e8e AI\u3001Agent\u3001\u6280\u672f\u3001\u4ea7\u54c1\u3001\u8425\u9500\u3001\u4e00\u4e9b\u751f\u6d3b\u601d\u8003\uff0c\u4e2a\u4eba\u6210\u957f\u7c7b\u7684\u7cbe\u6587",
+    "id": "cubxxw/blog",
+    "language": "JavaScript",
+    "name": "cubxxw/blog",
+    "stars": 28,
+    "updated_at": "2026-10-11T11:59:58Z",
+    "url": "https://github.com/cubxxw/blog"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8696,
+    "updated_at": "2026-10-11T12:00:01Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "ESLint for your LLM prompts \u2014 catch prompt-injection risks, missing token limits & prompt anti-patterns before you ship.",
+    "id": "pop123-ux/promptlint",
+    "language": "Python",
+    "name": "pop123-ux/promptlint",
+    "stars": 1,
+    "updated_at": "2026-10-11T11:55:12Z",
+    "url": "https://github.com/pop123-ux/promptlint"
+  },
+  {
+    "description": "AI platform reference architecture for LLM serving on Kubernetes, with reliability, observability, failure testing, and ",
+    "id": "asadhanif3188/InferOps",
+    "language": "Python",
+    "name": "asadhanif3188/InferOps",
+    "stars": 0,
+    "updated_at": "2026-10-11T11:54:49Z",
+    "url": "https://github.com/asadhanif3188/InferOps"
+  },
+  {
+    "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
+    "id": "runcycles/cycles-docs",
+    "language": "Vue",
+    "name": "runcycles/cycles-docs",
+    "stars": 4,
+    "updated_at": "2026-10-11T11:51:44Z",
+    "url": "https://github.com/runcycles/cycles-docs"
+  },
+  {
+    "description": "Open Source software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-10-11T11:52:51Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "AI agent governance dashboard for Cycles \u2014 budgets, action authority, tenants, webhooks, reservations, audit",
+    "id": "runcycles/cycles-dashboard",
+    "language": "TypeScript",
+    "name": "runcycles/cycles-dashboard",
+    "stars": 0,
+    "updated_at": "2026-10-11T11:48:35Z",
+    "url": "https://github.com/runcycles/cycles-dashboard"
+  },
+  {
+    "description": "Open protocol for runtime budget and action authority over AI agents",
+    "id": "runcycles/cycles-protocol",
+    "language": "Python",
+    "name": "runcycles/cycles-protocol",
+    "stars": 4,
+    "updated_at": "2026-10-11T11:47:53Z",
+    "url": "https://github.com/runcycles/cycles-protocol"
+  },
+  {
+    "description": "Cycles budget and action guard for OpenClaw agents",
+    "id": "runcycles/cycles-openclaw-budget-guard",
+    "language": "TypeScript",
+    "name": "runcycles/cycles-openclaw-budget-guard",
+    "stars": 7,
+    "updated_at": "2026-10-11T11:47:46Z",
+    "url": "https://github.com/runcycles/cycles-openclaw-budget-guard"
+  },
+  {
+    "description": "MCP budget and risk authority for Cycles \u2014 runtime governance for Claude, Cursor, and Windsurf",
+    "id": "runcycles/cycles-mcp-server",
+    "language": "TypeScript",
+    "name": "runcycles/cycles-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-10-11T11:47:40Z",
+    "url": "https://github.com/runcycles/cycles-mcp-server"
+  },
+  {
+    "description": "TypeScript SDK for Cycles \u2014 runtime budget and action authority for Node.js AI agents",
+    "id": "runcycles/cycles-client-typescript",
+    "language": "TypeScript",
+    "name": "runcycles/cycles-client-typescript",
+    "stars": 0,
+    "updated_at": "2026-10-11T11:47:29Z",
+    "url": "https://github.com/runcycles/cycles-client-typescript"
+  },
+  {
+    "description": "Python SDK for Cycles \u2014 reserve, commit, release budget and risk for AI agents",
+    "id": "runcycles/cycles-client-python",
+    "language": "Python",
+    "name": "runcycles/cycles-client-python",
+    "stars": 0,
+    "updated_at": "2026-10-11T11:47:10Z",
+    "url": "https://github.com/runcycles/cycles-client-python"
+  },
+  {
+    "description": "Convert static anime images into structured, QA-checked PSDs with Codex, Colab GPU, and built-in motion preview.",
+    "id": "Rickettsiayorkshirefog4963/still2rig-psd",
+    "language": "JavaScript",
+    "name": "Rickettsiayorkshirefog4963/still2rig-psd",
+    "stars": 0,
+    "updated_at": "2026-10-11T11:46:31Z",
+    "url": "https://github.com/Rickettsiayorkshirefog4963/still2rig-psd"
+  },
+  {
+    "description": "LangChain agent middleware for Cycles \u2014 pre-tool-call authorization and per-tenant budget enforcement for Python agents ",
+    "id": "runcycles/langchain-runcycles",
+    "language": "Python",
+    "name": "runcycles/langchain-runcycles",
+    "stars": 0,
+    "updated_at": "2026-10-11T11:46:29Z",
+    "url": "https://github.com/runcycles/langchain-runcycles"
+  },
+  {
+    "description": "GitHub org config, CI workflows, and community health files for Cycles",
+    "id": "runcycles/.github",
+    "language": "Shell",
+    "name": "runcycles/.github",
+    "stars": 0,
+    "updated_at": "2026-10-11T11:46:30Z",
+    "url": "https://github.com/runcycles/.github"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-11T11:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability ",
     "id": "santiag6001/llm-engineering-platform",
     "language": "Python",
@@ -67,8 +211,8 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 28341,
-    "updated_at": "2026-10-11T11:39:09Z",
+    "stars": 28342,
+    "updated_at": "2026-10-11T11:53:30Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -77,7 +221,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 60949,
-    "updated_at": "2026-10-11T11:44:53Z",
+    "updated_at": "2026-10-11T11:53:48Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -106,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-10-11T11:30:32Z",
     "url": "https://github.com/Rosalyndfaithful716/Guardrail"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-11T11:30:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Agentic Runtime",
@@ -293,7 +428,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8851,
-    "updated_at": "2026-10-11T11:36:54Z",
+    "updated_at": "2026-10-11T11:52:10Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -313,140 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-11T11:11:26Z",
     "url": "https://github.com/KewalPra/agent-sdk"
-  },
-  {
-    "description": "\u2708\ufe0f Plan personalized travel itineraries effortlessly with this agentic AI tool, streamlining your journey from start to ",
-    "id": "StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary",
-    "language": "Python",
-    "name": "StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary",
-    "stars": 2,
-    "updated_at": "2026-10-11T11:09:54Z",
-    "url": "https://github.com/StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary"
-  },
-  {
-    "description": "\ud83c\udfac Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend",
-    "id": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "language": "Python",
-    "name": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "stars": 2,
-    "updated_at": "2026-10-11T11:09:47Z",
-    "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
-  },
-  {
-    "description": "\ud83d\udcda Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical",
-    "id": "mviraj/KakeyaFiniteFields",
-    "language": "JavaScript",
-    "name": "mviraj/KakeyaFiniteFields",
-    "stars": 0,
-    "updated_at": "2026-10-11T11:06:17Z",
-    "url": "https://github.com/mviraj/KakeyaFiniteFields"
-  },
-  {
-    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
-    "id": "srjn45/warden",
-    "language": "Go",
-    "name": "srjn45/warden",
-    "stars": 2,
-    "updated_at": "2026-10-11T11:03:31Z",
-    "url": "https://github.com/srjn45/warden"
-  },
-  {
-    "description": "Open Source software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-10-11T11:33:23Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod",
-    "id": "valteresj2/agent-hangar",
-    "language": "Python",
-    "name": "valteresj2/agent-hangar",
-    "stars": 3,
-    "updated_at": "2026-10-11T10:57:17Z",
-    "url": "https://github.com/valteresj2/agent-hangar"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25890,
-    "updated_at": "2026-10-11T10:56:40Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Is a cheaper model as good as the one you run now? Paired-bootstrap non-inferiority check for swapping models.",
-    "id": "illate/parity",
-    "language": "Python",
-    "name": "illate/parity",
-    "stars": 0,
-    "updated_at": "2026-10-11T10:53:17Z",
-    "url": "https://github.com/illate/parity"
-  },
-  {
-    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-10-11T10:49:37Z",
-    "url": "https://github.com/veerarakesh56/warden"
-  },
-  {
-    "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
-    "id": "empiredestroyer/AI-Prompt-Enhancer",
-    "language": "\u2014",
-    "name": "empiredestroyer/AI-Prompt-Enhancer",
-    "stars": 2,
-    "updated_at": "2026-10-11T10:48:33Z",
-    "url": "https://github.com/empiredestroyer/AI-Prompt-Enhancer"
-  },
-  {
-    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4937,
-    "updated_at": "2026-10-11T11:31:10Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new f",
-    "id": "Kakz/prometheus-llm",
-    "language": "Python",
-    "name": "Kakz/prometheus-llm",
-    "stars": 6,
-    "updated_at": "2026-10-11T10:44:56Z",
-    "url": "https://github.com/Kakz/prometheus-llm"
-  },
-  {
-    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
-    "id": "tenemos/langwatch",
-    "language": "TypeScript",
-    "name": "tenemos/langwatch",
-    "stars": 2,
-    "updated_at": "2026-10-11T10:43:47Z",
-    "url": "https://github.com/tenemos/langwatch"
-  },
-  {
-    "description": "\u53ef\u8fd0\u884c\u7684 RAG + MCP Agent \u5e95\u5ea7\uff1a\u751f\u6210\u4fa7\u4e3b\u5907\u964d\u7ea7 / \u68c0\u7d22\u4fa7\u5173\u952e\u8bcd\u515c\u5e95 / \u5411\u91cf\u5e93\u4e00\u81f4\u6027\u5b88\u536b / \u53ef\u590d\u73b0\u7684\u534f\u8bae\u6392\u9519\u63a2\u9488\uff0896 \u4e2a\u6d4b\u8bd5 + 40 \u9898\u53ef\u590d\u73b0\u8bc4\u6d4b + 44 \u5f20\u5b9e\u6d4b\u622a\u56fe\uff09",
-    "id": "yrd-go/AI-Agent-Harness",
-    "language": "Python",
-    "name": "yrd-go/AI-Agent-Harness",
-    "stars": 0,
-    "updated_at": "2026-10-11T10:37:47Z",
-    "url": "https://github.com/yrd-go/AI-Agent-Harness"
-  },
-  {
-    "description": "Evaluation-first RAG and LLMOps platform for production-grade document QA, tracing, regression testing, and cost-aware e",
-    "id": "DiogoRibeiro7/rag-quality-engine",
-    "language": "Jupyter Notebook",
-    "name": "DiogoRibeiro7/rag-quality-engine",
-    "stars": 0,
-    "updated_at": "2026-10-11T10:34:21Z",
-    "url": "https://github.com/DiogoRibeiro7/rag-quality-engine"
   }
 ]
