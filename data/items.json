@@ -1,12 +1,39 @@
 [
   {
+    "description": "Master project orchestrator featuring Dual Engine (Gentle-AI Integrated ODD vs Standalone), Article ARQ-01 Vertical Slic",
+    "id": "QuantumEdu/q-agent",
+    "language": "Python",
+    "name": "QuantumEdu/q-agent",
+    "stars": 0,
+    "updated_at": "2026-10-11T20:43:18Z",
+    "url": "https://github.com/QuantumEdu/q-agent"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25899,
-    "updated_at": "2026-10-11T20:27:11Z",
+    "updated_at": "2026-10-11T20:43:33Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Open Source software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-10-11T20:34:44Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Fails an agent's answer that skips anything you asked about",
+    "id": "justin-rhee/attest-check",
+    "language": "Shell",
+    "name": "justin-rhee/attest-check",
+    "stars": 0,
+    "updated_at": "2026-10-11T20:32:07Z",
+    "url": "https://github.com/justin-rhee/attest-check"
   },
   {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
@@ -14,8 +41,17 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 516,
-    "updated_at": "2026-10-11T20:26:22Z",
+    "updated_at": "2026-10-11T20:42:58Z",
     "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-11T20:30:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
@@ -25,15 +61,6 @@
     "stars": 1,
     "updated_at": "2026-10-11T20:16:39Z",
     "url": "https://github.com/TAIPANBOX/tokenfuse"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-11T20:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -59,7 +86,7 @@
     "language": "Go",
     "name": "a-novel/service-genai",
     "stars": 1,
-    "updated_at": "2026-10-11T20:06:35Z",
+    "updated_at": "2026-10-11T20:40:16Z",
     "url": "https://github.com/a-novel/service-genai"
   },
   {
@@ -266,7 +293,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-11T20:27:21Z",
+    "updated_at": "2026-10-11T20:39:23Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-11T18:06:04Z",
     "url": "https://github.com/Karinaclastic11/Drip-Lite-Client"
-  },
-  {
-    "description": "Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar",
-    "id": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "language": "\u2014",
-    "name": "Nihilisticdelusionoldboy87/loop-engineering-orange-book",
-    "stars": 2,
-    "updated_at": "2026-10-11T18:04:26Z",
-    "url": "https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book"
-  },
-  {
-    "description": "Governed private AI control plane on Kubernetes with policy, identity, and FinOps.",
-    "id": "justrunme/ai-infra-control-plane",
-    "language": "Python",
-    "name": "justrunme/ai-infra-control-plane",
-    "stars": 2,
-    "updated_at": "2026-10-11T18:02:37Z",
-    "url": "https://github.com/justrunme/ai-infra-control-plane"
-  },
-  {
-    "description": "Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from",
-    "id": "syntactic-orleanism949/logal-rag",
-    "language": "\u2014",
-    "name": "syntactic-orleanism949/logal-rag",
-    "stars": 1,
-    "updated_at": "2026-10-11T18:02:19Z",
-    "url": "https://github.com/syntactic-orleanism949/logal-rag"
   }
 ]
