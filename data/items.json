@@ -1,12 +1,93 @@
 [
   {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 30,
+    "updated_at": "2026-10-11T15:43:37Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 23,
+    "updated_at": "2026-10-11T15:42:58Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 41,
-    "updated_at": "2026-10-11T15:29:44Z",
+    "updated_at": "2026-10-11T15:42:12Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 7,
+    "updated_at": "2026-10-11T15:40:50Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
+    "id": "maks3201/decision-model-operator",
+    "language": "Go",
+    "name": "maks3201/decision-model-operator",
+    "stars": 1,
+    "updated_at": "2026-10-11T15:40:23Z",
+    "url": "https://github.com/maks3201/decision-model-operator"
+  },
+  {
+    "description": "Self-hosted OpenAI/Anthropic-compatible gateway: give each AI agent run a dollar budget, enforced before the provider, w",
+    "id": "domondi1/inferrail",
+    "language": "Python",
+    "name": "domondi1/inferrail",
+    "stars": 1,
+    "updated_at": "2026-10-11T15:37:44Z",
+    "url": "https://github.com/domondi1/inferrail"
+  },
+  {
+    "description": "Rust client for Cycles \u2014 runtime budget authority for AI agents",
+    "id": "runcycles/cycles-client-rust",
+    "language": "Rust",
+    "name": "runcycles/cycles-client-rust",
+    "stars": 1,
+    "updated_at": "2026-10-11T15:35:14Z",
+    "url": "https://github.com/runcycles/cycles-client-rust"
+  },
+  {
+    "description": "Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O",
+    "id": "kelvran/gateway",
+    "language": "Go",
+    "name": "kelvran/gateway",
+    "stars": 0,
+    "updated_at": "2026-10-11T15:43:20Z",
+    "url": "https://github.com/kelvran/gateway"
+  },
+  {
+    "description": "Open-source AI gateway and operations platform. Bring your own provider API keys and unify every AI model behind a singl",
+    "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "language": "TypeScript",
+    "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "stars": 4,
+    "updated_at": "2026-10-11T15:31:45Z",
+    "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-11T15:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -22,7 +103,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 60961,
+    "stars": 60962,
     "updated_at": "2026-10-11T15:29:19Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -31,7 +112,7 @@
     "id": "liaosiliangCodeLife/harness-mate-plat",
     "language": "Python",
     "name": "liaosiliangCodeLife/harness-mate-plat",
-    "stars": 12,
+    "stars": 13,
     "updated_at": "2026-10-11T15:26:06Z",
     "url": "https://github.com/liaosiliangCodeLife/harness-mate-plat"
   },
@@ -45,30 +126,12 @@
     "url": "https://github.com/atulkapoor/fde-framework"
   },
   {
-    "description": "Self-hosted OpenAI/Anthropic-compatible gateway: give each AI agent run a dollar budget, enforced before the provider, w",
-    "id": "domondi1/inferrail",
-    "language": "Python",
-    "name": "domondi1/inferrail",
-    "stars": 1,
-    "updated_at": "2026-10-11T15:26:27Z",
-    "url": "https://github.com/domondi1/inferrail"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 23,
-    "updated_at": "2026-10-11T15:22:15Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
     "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
     "id": "judgekeeper/judgekeeper",
     "language": "Python",
     "name": "judgekeeper/judgekeeper",
     "stars": 0,
-    "updated_at": "2026-10-11T15:27:11Z",
+    "updated_at": "2026-10-11T15:44:37Z",
     "url": "https://github.com/judgekeeper/judgekeeper"
   },
   {
@@ -79,42 +142,6 @@
     "stars": 0,
     "updated_at": "2026-10-11T15:21:04Z",
     "url": "https://github.com/Chris0Jeky/llm-release-gate"
-  },
-  {
-    "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
-    "id": "maks3201/decision-model-operator",
-    "language": "Go",
-    "name": "maks3201/decision-model-operator",
-    "stars": 1,
-    "updated_at": "2026-10-11T15:22:02Z",
-    "url": "https://github.com/maks3201/decision-model-operator"
-  },
-  {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 30,
-    "updated_at": "2026-10-11T15:21:55Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Open-source AI gateway and operations platform. Bring your own provider API keys and unify every AI model behind a singl",
-    "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
-    "language": "TypeScript",
-    "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
-    "stars": 4,
-    "updated_at": "2026-10-11T15:27:50Z",
-    "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-11T15:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "OpenAI-compatible AI execution plane on Kubernetes with MCP, vLLM, and policy.",
@@ -162,15 +189,6 @@
     "url": "https://github.com/comet-ml/opik"
   },
   {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 7,
-    "updated_at": "2026-10-11T14:56:50Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
     "description": "Admin API for Cycles \u2014 tenants, budgets, API keys, webhooks, audit, and governance",
     "id": "runcycles/cycles-server-admin",
     "language": "Java",
@@ -185,7 +203,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25896,
-    "updated_at": "2026-10-11T15:16:27Z",
+    "updated_at": "2026-10-11T15:43:24Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -203,17 +221,8 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8702,
-    "updated_at": "2026-10-11T15:13:30Z",
+    "updated_at": "2026-10-11T15:43:56Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O",
-    "id": "kelvran/gateway",
-    "language": "Go",
-    "name": "kelvran/gateway",
-    "stars": 0,
-    "updated_at": "2026-10-11T14:45:57Z",
-    "url": "https://github.com/kelvran/gateway"
   },
   {
     "description": "Convert static anime images into structured, QA-checked PSDs with Codex, Colab GPU, and built-in motion preview.",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-11T14:08:39Z",
     "url": "https://github.com/StacksMadeDev/Agentic-AI-Travel-Planner-Itinerary"
-  },
-  {
-    "description": "\ud83c\udfac Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend",
-    "id": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "language": "Python",
-    "name": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "stars": 2,
-    "updated_at": "2026-10-11T14:08:25Z",
-    "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
   }
 ]
