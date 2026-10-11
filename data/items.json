@@ -1,12 +1,66 @@
 [
   {
+    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 1,
+    "updated_at": "2026-10-11T23:14:18Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
     "id": "toxicwind/ranch",
     "language": "Rust",
     "name": "toxicwind/ranch",
     "stars": 0,
-    "updated_at": "2026-10-11T23:00:05Z",
+    "updated_at": "2026-10-11T23:14:12Z",
     "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Token & cost tracking for LLM apps across OpenAI, Anthropic, Gemini, Ollama and LangChain, with budgets and per-feature ",
+    "id": "hasnat23/llm-costwatch",
+    "language": "Python",
+    "name": "hasnat23/llm-costwatch",
+    "stars": 0,
+    "updated_at": "2026-10-11T23:11:10Z",
+    "url": "https://github.com/hasnat23/llm-costwatch"
+  },
+  {
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
+    "stars": 1,
+    "updated_at": "2026-10-11T23:10:33Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
+    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
+    "id": "burakdede/lorepack",
+    "language": "TypeScript",
+    "name": "burakdede/lorepack",
+    "stars": 3,
+    "updated_at": "2026-10-11T23:06:04Z",
+    "url": "https://github.com/burakdede/lorepack"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1260,
+    "updated_at": "2026-10-11T23:00:34Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-11T23:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
@@ -23,17 +77,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 60979,
-    "updated_at": "2026-10-11T22:57:08Z",
+    "updated_at": "2026-10-11T23:13:54Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-11T22:53:40Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open Source software factory.",
@@ -61,24 +106,6 @@
     "stars": 0,
     "updated_at": "2026-10-11T22:50:37Z",
     "url": "https://github.com/Yash-Chindam/Production-Local-LLM-Inference-Routing-Platform"
-  },
-  {
-    "description": "Token & cost tracking for LLM apps across OpenAI, Anthropic, Gemini, Ollama and LangChain, with budgets and per-feature ",
-    "id": "hasnat23/llm-costwatch",
-    "language": "Python",
-    "name": "hasnat23/llm-costwatch",
-    "stars": 0,
-    "updated_at": "2026-10-11T22:44:52Z",
-    "url": "https://github.com/hasnat23/llm-costwatch"
-  },
-  {
-    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 1,
-    "updated_at": "2026-10-11T22:43:48Z",
-    "url": "https://github.com/a-novel/service-genai"
   },
   {
     "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
@@ -311,7 +338,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8853,
-    "updated_at": "2026-10-11T22:49:12Z",
+    "updated_at": "2026-10-11T23:09:07Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 6,
     "updated_at": "2026-10-11T21:38:00Z",
     "url": "https://github.com/Kakz/prometheus-llm"
-  },
-  {
-    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
-    "id": "tenemos/langwatch",
-    "language": "TypeScript",
-    "name": "tenemos/langwatch",
-    "stars": 2,
-    "updated_at": "2026-10-11T21:37:07Z",
-    "url": "https://github.com/tenemos/langwatch"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-10-11T21:29:34Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
-    "id": "TAIPANBOX/tokenfuse",
-    "language": "Rust",
-    "name": "TAIPANBOX/tokenfuse",
-    "stars": 1,
-    "updated_at": "2026-10-11T22:53:19Z",
-    "url": "https://github.com/TAIPANBOX/tokenfuse"
   }
 ]
