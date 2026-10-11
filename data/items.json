@@ -1,5 +1,59 @@
 [
   {
+    "description": "Open Source software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-10-11T22:51:58Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Evaluation-driven, privacy-aware self-optimizing production RAG platform",
+    "id": "Yash-Chindam/self-optimizing-production-rag-platform",
+    "language": "Python",
+    "name": "Yash-Chindam/self-optimizing-production-rag-platform",
+    "stars": 0,
+    "updated_at": "2026-10-11T22:52:06Z",
+    "url": "https://github.com/Yash-Chindam/self-optimizing-production-rag-platform"
+  },
+  {
+    "description": "Production local-LLM inference gateway with policy-aware routing and delivery automation",
+    "id": "Yash-Chindam/Production-Local-LLM-Inference-Routing-Platform",
+    "language": "Python",
+    "name": "Yash-Chindam/Production-Local-LLM-Inference-Routing-Platform",
+    "stars": 0,
+    "updated_at": "2026-10-11T22:50:37Z",
+    "url": "https://github.com/Yash-Chindam/Production-Local-LLM-Inference-Routing-Platform"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60978,
+    "updated_at": "2026-10-11T22:53:34Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-11T22:48:40Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-11T22:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Token & cost tracking for LLM apps across OpenAI, Anthropic, Gemini, Ollama and LangChain, with budgets and per-feature ",
     "id": "hasnat23/llm-costwatch",
     "language": "Python",
@@ -27,15 +81,6 @@
     "url": "https://github.com/maks3201/decision-model-operator"
   },
   {
-    "description": "Production local-LLM inference gateway with policy-aware routing and delivery automation",
-    "id": "Yash-Chindam/Production-Local-LLM-Inference-Routing-Platform",
-    "language": "Python",
-    "name": "Yash-Chindam/Production-Local-LLM-Inference-Routing-Platform",
-    "stars": 0,
-    "updated_at": "2026-10-11T22:41:43Z",
-    "url": "https://github.com/Yash-Chindam/Production-Local-LLM-Inference-Routing-Platform"
-  },
-  {
     "description": "Nagizaaz Shaik \u2014 ML & AI Systems Engineer",
     "id": "shaikn6/shaikn6",
     "language": "Python",
@@ -43,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-10-11T22:41:55Z",
     "url": "https://github.com/shaikn6/shaikn6"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60978,
-    "updated_at": "2026-10-11T22:45:24Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
@@ -72,15 +108,6 @@
     "url": "https://github.com/valteresj2/agent-hangar"
   },
   {
-    "description": "Open Source software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-10-11T22:35:46Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "The decision before the AI build: evidence in, an architecture with receipts out, a scored build or a stop. Every decisi",
     "id": "atulkapoor/fde-framework",
     "language": "Python",
@@ -90,30 +117,12 @@
     "url": "https://github.com/atulkapoor/fde-framework"
   },
   {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-11T22:35:03Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-11T22:30:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O",
     "id": "kelvran/gateway",
     "language": "Go",
     "name": "kelvran/gateway",
     "stars": 0,
-    "updated_at": "2026-10-11T22:42:16Z",
+    "updated_at": "2026-10-11T22:47:07Z",
     "url": "https://github.com/kelvran/gateway"
   },
   {
@@ -122,7 +131,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22516,
-    "updated_at": "2026-10-11T22:35:59Z",
+    "updated_at": "2026-10-11T22:46:27Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -302,7 +311,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8853,
-    "updated_at": "2026-10-11T22:36:41Z",
+    "updated_at": "2026-10-11T22:49:12Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -437,16 +446,7 @@
     "language": "Rust",
     "name": "TAIPANBOX/tokenfuse",
     "stars": 1,
-    "updated_at": "2026-10-11T21:26:11Z",
+    "updated_at": "2026-10-11T22:53:19Z",
     "url": "https://github.com/TAIPANBOX/tokenfuse"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 516,
-    "updated_at": "2026-10-11T21:28:10Z",
-    "url": "https://github.com/mozilla-ai/otari"
   }
 ]
