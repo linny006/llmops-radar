@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-11 22:53 UTC
+> ⏰ Last updated: 2026-10-11 23:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,31 +42,31 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 9 | Go | 2026-10-11 | Open Source software factory. |
-| 2 | [Yash-Chindam/self-optimizing-production-rag-platform](https://github.com/Yash-Chindam/self-optimizing-production-rag-platform) | 0 | Python | 2026-10-11 | Evaluation-driven, privacy-aware self-optimizing production RAG platform |
-| 3 | [Yash-Chindam/Production-Local-LLM-Inference-Routing-Platform](https://github.com/Yash-Chindam/Production-Local-LLM-Inference-Routing-Platform) | 0 | Python | 2026-10-11 | Production local-LLM inference gateway with policy-aware routing and delivery automation |
-| 4 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 60978 | Python | 2026-10-11 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 5 | [toxicwind/ranch](https://github.com/toxicwind/ranch) | 0 | Rust | 2026-10-11 | The self-hosted LLM estate in one monorepo — local model serving, cloud provider routing, MCP gateway, build jobs. All O |
-| 6 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-11 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 7 | [hasnat23/llm-costwatch](https://github.com/hasnat23/llm-costwatch) | 0 | Python | 2026-10-11 | Token & cost tracking for LLM apps across OpenAI, Anthropic, Gemini, Ollama and LangChain, with budgets and per-feature  |
-| 8 | [a-novel/service-genai](https://github.com/a-novel/service-genai) | 1 | Go | 2026-10-11 | Durable execution for AI provider calls: crash-safe, idempotent and pollable. |
-| 9 | [maks3201/decision-model-operator](https://github.com/maks3201/decision-model-operator) | 1 | Go | 2026-10-11 | Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product |
-| 10 | [shaikn6/shaikn6](https://github.com/shaikn6/shaikn6) | 0 | Python | 2026-10-11 | Nagizaaz Shaik — ML & AI Systems Engineer |
-| 11 | [iblai/os](https://github.com/iblai/os) | 805 | TypeScript | 2026-10-11 | Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha |
-| 12 | [valteresj2/agent-hangar](https://github.com/valteresj2/agent-hangar) | 3 | Python | 2026-10-11 | One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod |
-| 13 | [atulkapoor/fde-framework](https://github.com/atulkapoor/fde-framework) | 10 | Python | 2026-10-11 | The decision before the AI build: evidence in, an architecture with receipts out, a scored build or a stop. Every decisi |
-| 14 | [kelvran/gateway](https://github.com/kelvran/gateway) | 0 | Go | 2026-10-11 | Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O |
-| 15 | [comet-ml/opik](https://github.com/comet-ml/opik) | 22516 | Python | 2026-10-11 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
-| 16 | [Rickettsiayorkshirefog4963/still2rig-psd](https://github.com/Rickettsiayorkshirefog4963/still2rig-psd) | 0 | JavaScript | 2026-10-11 | Convert static anime images into structured, QA-checked PSDs with Codex, Colab GPU, and built-in motion preview. |
-| 17 | [santiag6001/llm-engineering-platform](https://github.com/santiag6001/llm-engineering-platform) | 1 | Python | 2026-10-11 | Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability  |
-| 18 | [Frayagronomist166/LiteRT.js-Mocap](https://github.com/Frayagronomist166/LiteRT.js-Mocap) | 1 | — | 2026-10-11 | Track human movement in real-time using LiteRT.js and Three.js for browser-based 3D character animation without server d |
-| 19 | [Soilbuilding-libraryroutine78/Gozar](https://github.com/Soilbuilding-libraryroutine78/Gozar) | 0 | Python | 2026-10-11 | Route LLM requests through a self-hosted, OpenAI-compatible gateway for local projects and team workflows. |
-| 20 | [wordmiddling872/AI_Email_Generator](https://github.com/wordmiddling872/AI_Email_Generator) | 1 | Python | 2026-10-11 | Generate business emails locally using Python, Streamlit, and Ollama with this production-ready desktop application. |
-| 21 | [Karinaclastic11/Drip-Lite-Client](https://github.com/Karinaclastic11/Drip-Lite-Client) | 1 | — | 2026-10-11 | Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls. |
-| 22 | [Nihilisticdelusionoldboy87/loop-engineering-orange-book](https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book) | 2 | — | 2026-10-11 | Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar |
-| 23 | [vivek-541/vivek-541](https://github.com/vivek-541/vivek-541) | 4 | HTML | 2026-10-11 | AI Engineer building production-grade ML systems \| LLMs, RAG, ML Pipelines \| Python, TensorFlow, LangChain \| Open to opp |
-| 24 | [syntactic-orleanism949/logal-rag](https://github.com/syntactic-orleanism949/logal-rag) | 1 | — | 2026-10-11 | Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from |
-| 25 | [pom11/hscc](https://github.com/pom11/hscc) | 7 | Python | 2026-10-11 | Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents — cluster control, role-specialized worke |
+| 1 | [toxicwind/ranch](https://github.com/toxicwind/ranch) | 0 | Rust | 2026-10-11 | The self-hosted LLM estate in one monorepo — local model serving, cloud provider routing, MCP gateway, build jobs. All O |
+| 2 | [pom11/hscc](https://github.com/pom11/hscc) | 7 | Python | 2026-10-11 | Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents — cluster control, role-specialized worke |
+| 3 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 60979 | Python | 2026-10-11 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-11 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 5 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 9 | Go | 2026-10-11 | Open Source software factory. |
+| 6 | [Yash-Chindam/self-optimizing-production-rag-platform](https://github.com/Yash-Chindam/self-optimizing-production-rag-platform) | 0 | Python | 2026-10-11 | Evaluation-driven, privacy-aware self-optimizing production RAG platform |
+| 7 | [Yash-Chindam/Production-Local-LLM-Inference-Routing-Platform](https://github.com/Yash-Chindam/Production-Local-LLM-Inference-Routing-Platform) | 0 | Python | 2026-10-11 | Production local-LLM inference gateway with policy-aware routing and delivery automation |
+| 8 | [hasnat23/llm-costwatch](https://github.com/hasnat23/llm-costwatch) | 0 | Python | 2026-10-11 | Token & cost tracking for LLM apps across OpenAI, Anthropic, Gemini, Ollama and LangChain, with budgets and per-feature  |
+| 9 | [a-novel/service-genai](https://github.com/a-novel/service-genai) | 1 | Go | 2026-10-11 | Durable execution for AI provider calls: crash-safe, idempotent and pollable. |
+| 10 | [maks3201/decision-model-operator](https://github.com/maks3201/decision-model-operator) | 1 | Go | 2026-10-11 | Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product |
+| 11 | [shaikn6/shaikn6](https://github.com/shaikn6/shaikn6) | 0 | Python | 2026-10-11 | Nagizaaz Shaik — ML & AI Systems Engineer |
+| 12 | [iblai/os](https://github.com/iblai/os) | 805 | TypeScript | 2026-10-11 | Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha |
+| 13 | [valteresj2/agent-hangar](https://github.com/valteresj2/agent-hangar) | 3 | Python | 2026-10-11 | One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod |
+| 14 | [atulkapoor/fde-framework](https://github.com/atulkapoor/fde-framework) | 10 | Python | 2026-10-11 | The decision before the AI build: evidence in, an architecture with receipts out, a scored build or a stop. Every decisi |
+| 15 | [kelvran/gateway](https://github.com/kelvran/gateway) | 0 | Go | 2026-10-11 | Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O |
+| 16 | [comet-ml/opik](https://github.com/comet-ml/opik) | 22516 | Python | 2026-10-11 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
+| 17 | [Rickettsiayorkshirefog4963/still2rig-psd](https://github.com/Rickettsiayorkshirefog4963/still2rig-psd) | 0 | JavaScript | 2026-10-11 | Convert static anime images into structured, QA-checked PSDs with Codex, Colab GPU, and built-in motion preview. |
+| 18 | [santiag6001/llm-engineering-platform](https://github.com/santiag6001/llm-engineering-platform) | 1 | Python | 2026-10-11 | Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability  |
+| 19 | [Frayagronomist166/LiteRT.js-Mocap](https://github.com/Frayagronomist166/LiteRT.js-Mocap) | 1 | — | 2026-10-11 | Track human movement in real-time using LiteRT.js and Three.js for browser-based 3D character animation without server d |
+| 20 | [Soilbuilding-libraryroutine78/Gozar](https://github.com/Soilbuilding-libraryroutine78/Gozar) | 0 | Python | 2026-10-11 | Route LLM requests through a self-hosted, OpenAI-compatible gateway for local projects and team workflows. |
+| 21 | [wordmiddling872/AI_Email_Generator](https://github.com/wordmiddling872/AI_Email_Generator) | 1 | Python | 2026-10-11 | Generate business emails locally using Python, Streamlit, and Ollama with this production-ready desktop application. |
+| 22 | [Karinaclastic11/Drip-Lite-Client](https://github.com/Karinaclastic11/Drip-Lite-Client) | 1 | — | 2026-10-11 | Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls. |
+| 23 | [Nihilisticdelusionoldboy87/loop-engineering-orange-book](https://github.com/Nihilisticdelusionoldboy87/loop-engineering-orange-book) | 2 | — | 2026-10-11 | Build automated agent systems that remove manual prompting by applying loop engineering principles for efficient softwar |
+| 24 | [vivek-541/vivek-541](https://github.com/vivek-541/vivek-541) | 4 | HTML | 2026-10-11 | AI Engineer building production-grade ML systems \| LLMs, RAG, ML Pipelines \| Python, TensorFlow, LangChain \| Open to opp |
+| 25 | [syntactic-orleanism949/logal-rag](https://github.com/syntactic-orleanism949/logal-rag) | 1 | — | 2026-10-11 | Build a local intelligent customer service system that uses Retrieval Augmented Generation to answer user questions from |
 | 26 | [olivaresai/olivares](https://github.com/olivaresai/olivares) | 9 | Go | 2026-10-11 | Ground truth for enterprise AI — discover, operate and govern every agent, session, model and MCP already running on you |
 | 27 | [effecterelectricalplant87/LLM](https://github.com/effecterelectricalplant87/LLM) | 0 | — | 2026-10-11 | Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic |
 | 28 | [Rosalyndfaithful716/Guardrail](https://github.com/Rosalyndfaithful716/Guardrail) | 1 | TypeScript | 2026-10-11 | Scan AI-generated code for security, performance, and code quality issues before they ship |
