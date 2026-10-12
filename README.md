@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-12 02:00 UTC
+> ⏰ Last updated: 2026-10-12 02:01 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,12 +42,12 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 41 | Go | 2026-10-12 | Agentic Runtime |
-| 2 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 28346 | Python | 2026-10-12 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
-| 3 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 60983 | Python | 2026-10-12 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 4 | [dshakes/distil](https://github.com/dshakes/distil) | 19 | Python | 2026-10-12 | Compression with a quality contract — cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi |
-| 5 | [pom11/hscc](https://github.com/pom11/hscc) | 7 | Python | 2026-10-12 | Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents — cluster control, role-specialized worke |
-| 6 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-12 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-12 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 41 | Go | 2026-10-12 | Agentic Runtime |
+| 3 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 28346 | Python | 2026-10-12 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
+| 4 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 60983 | Python | 2026-10-12 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 5 | [dshakes/distil](https://github.com/dshakes/distil) | 19 | Python | 2026-10-12 | Compression with a quality contract — cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi |
+| 6 | [pom11/hscc](https://github.com/pom11/hscc) | 7 | Python | 2026-10-12 | Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents — cluster control, role-specialized worke |
 | 7 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 8856 | Rust | 2026-10-12 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
 | 8 | [a-novel/service-genai](https://github.com/a-novel/service-genai) | 1 | Go | 2026-10-12 | Durable execution for AI provider calls: crash-safe, idempotent and pollable. |
 | 9 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2951 | Python | 2026-10-12 | Community maintained hardware plugin for vLLM on Huawei Ascend |
