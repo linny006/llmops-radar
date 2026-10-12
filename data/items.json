@@ -1,12 +1,84 @@
 [
   {
+    "description": "Production-ready platform for evaluating LLM applications with quality, reliability, safety, latency, token usage, and c",
+    "id": "Lazaro549/ai-evaluation-platform",
+    "language": "TypeScript",
+    "name": "Lazaro549/ai-evaluation-platform",
+    "stars": 1,
+    "updated_at": "2026-10-12T04:00:01Z",
+    "url": "https://github.com/Lazaro549/ai-evaluation-platform"
+  },
+  {
+    "description": "\u9876\u7ea7\u5ba1\u7f8e\u7684\u4e2a\u4eba\u535a\u5ba2\uff01\uff01\uff01\u5199\u4e00\u4e9b\u5173\u4e8e AI\u3001Agent\u3001\u6280\u672f\u3001\u4ea7\u54c1\u3001\u8425\u9500\u3001\u4e00\u4e9b\u751f\u6d3b\u601d\u8003\uff0c\u4e2a\u4eba\u6210\u957f\u7c7b\u7684\u7cbe\u6587",
+    "id": "cubxxw/blog",
+    "language": "JavaScript",
+    "name": "cubxxw/blog",
+    "stars": 28,
+    "updated_at": "2026-10-12T03:59:22Z",
+    "url": "https://github.com/cubxxw/blog"
+  },
+  {
+    "description": "Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code \u2014 V3 prototype runs ",
+    "id": "MongLong0214/jev-gate",
+    "language": "TypeScript",
+    "name": "MongLong0214/jev-gate",
+    "stars": 3,
+    "updated_at": "2026-10-12T03:56:18Z",
+    "url": "https://github.com/MongLong0214/jev-gate"
+  },
+  {
+    "description": "AgentFox: open-source control plane for AI agents. Guardrails on model traffic, tool calls bounded by capability grants,",
+    "id": "architsharm/agentfox",
+    "language": "Python",
+    "name": "architsharm/agentfox",
+    "stars": 3,
+    "updated_at": "2026-10-12T03:55:58Z",
+    "url": "https://github.com/architsharm/agentfox"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2952,
+    "updated_at": "2026-10-12T03:55:35Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-12T03:53:56Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 7,
+    "updated_at": "2026-10-12T03:52:04Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
     "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
     "id": "veerarakesh56/warden",
     "language": "Python",
     "name": "veerarakesh56/warden",
     "stars": 0,
-    "updated_at": "2026-10-12T03:43:51Z",
+    "updated_at": "2026-10-12T03:51:49Z",
     "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-12T03:45:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -14,7 +86,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25908,
-    "updated_at": "2026-10-12T03:43:14Z",
+    "updated_at": "2026-10-12T03:59:01Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -32,8 +104,17 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-10-12T03:40:14Z",
+    "updated_at": "2026-10-12T03:50:52Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60997,
+    "updated_at": "2026-10-12T03:38:19Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
@@ -45,31 +126,13 @@
     "url": "https://github.com/0xLazAI/alith"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-12T03:30:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
     "id": "burakdede/lorepack",
     "language": "TypeScript",
     "name": "burakdede/lorepack",
     "stars": 3,
-    "updated_at": "2026-10-12T03:29:18Z",
+    "updated_at": "2026-10-12T03:53:13Z",
     "url": "https://github.com/burakdede/lorepack"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2952,
-    "updated_at": "2026-10-12T03:14:05Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Convert static anime images into structured, QA-checked PSDs with Codex, Colab GPU, and built-in motion preview.",
@@ -148,18 +211,9 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 35667,
+    "stars": 35668,
     "updated_at": "2026-10-12T03:04:08Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60995,
-    "updated_at": "2026-10-12T03:38:19Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Build a GPT-style LLM in C# from scratch with clear, readable code for learning transformer internals and training basic",
@@ -275,7 +329,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8858,
-    "updated_at": "2026-10-12T02:48:22Z",
+    "updated_at": "2026-10-12T03:46:23Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -288,15 +342,6 @@
     "url": "https://github.com/KewalPra/agent-sdk"
   },
   {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 7,
-    "updated_at": "2026-10-12T02:47:50Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
     "description": "\ud83e\udde0 Capture and organize your ideas with an AI-powered system that turns thoughts into actionable knowledge, all without c",
     "id": "rsaudio/second-brain",
     "language": "\u2014",
@@ -304,15 +349,6 @@
     "stars": 1,
     "updated_at": "2026-10-12T02:47:42Z",
     "url": "https://github.com/rsaudio/second-brain"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-12T02:47:37Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "\u2708\ufe0f Plan personalized travel itineraries effortlessly with this agentic AI tool, streamlining your journey from start to ",
@@ -356,7 +392,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11795,
-    "updated_at": "2026-10-12T03:20:08Z",
+    "updated_at": "2026-10-12T03:55:13Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 14,
     "updated_at": "2026-10-12T02:12:30Z",
     "url": "https://github.com/liaosiliangCodeLife/harness-mate-plat"
-  },
-  {
-    "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
-    "id": "dshakes/distil",
-    "language": "Python",
-    "name": "dshakes/distil",
-    "stars": 19,
-    "updated_at": "2026-10-12T02:11:52Z",
-    "url": "https://github.com/dshakes/distil"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 30503,
-    "updated_at": "2026-10-12T01:14:42Z",
-    "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "",
-    "id": "octavebahoun/gouvra",
-    "language": "TypeScript",
-    "name": "octavebahoun/gouvra",
-    "stars": 1,
-    "updated_at": "2026-10-12T01:14:35Z",
-    "url": "https://github.com/octavebahoun/gouvra"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 2140,
-    "updated_at": "2026-10-12T02:58:12Z",
-    "url": "https://github.com/future-agi/future-agi"
   }
 ]
