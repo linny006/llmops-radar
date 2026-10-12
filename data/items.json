@@ -1,12 +1,102 @@
 [
   {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8717,
+    "updated_at": "2026-10-12T09:00:03Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "\u4f01\u4e1a\u57f9\u8bad\u4e0e\u667a\u80fd\u8003\u6838\u7cfb\u7edf \u00b7 \u8bfe\u7a0b\u2192\u8003\u8bd5\u2192AI\u8bc4\u5206\u2192\u9519\u56e0\u5206\u6790\u2192\u77e5\u8bc6\u68c0\u7d22\u95ed\u73af\uff5cSpring Boot 3.4 + Spring AI\uff1a\u4e09\u7ea7\u964d\u7ea7 RAG\u3001MCP \u5de5\u5177\u63a5\u5165\u3001\u591a\u667a\u80fd\u4f53\u4ea4\u53c9\u6821\u9a8c\u3001Span \u94fe\u8def\u8ffd\u8e2a\u4e0e Golden \u9898\u96c6\u56de\u5f52\u8bc4\u4f30",
+    "id": "AL-1SOVO/trainer-eval",
+    "language": "Python",
+    "name": "AL-1SOVO/trainer-eval",
+    "stars": 0,
+    "updated_at": "2026-10-12T08:58:31Z",
+    "url": "https://github.com/AL-1SOVO/trainer-eval"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35681,
+    "updated_at": "2026-10-12T09:00:46Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25919,
+    "updated_at": "2026-10-12T08:58:50Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Catches AI regressions before your users do, diffs a prompt or model change, has an AI write targeted tests, judges old ",
+    "id": "amareshhebbar/gitgrounded",
+    "language": "Python",
+    "name": "amareshhebbar/gitgrounded",
+    "stars": 0,
+    "updated_at": "2026-10-12T08:57:04Z",
+    "url": "https://github.com/amareshhebbar/gitgrounded"
+  },
+  {
     "description": "Store agent traces remotely. Analyze them locally. Keep control of the data.",
     "id": "marcusschiesser/agentpond",
     "language": "TypeScript",
     "name": "marcusschiesser/agentpond",
     "stars": 13,
-    "updated_at": "2026-10-12T08:44:29Z",
+    "updated_at": "2026-10-12T08:55:58Z",
     "url": "https://github.com/marcusschiesser/agentpond"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61030,
+    "updated_at": "2026-10-12T09:00:38Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 1,
+    "updated_at": "2026-10-12T08:53:36Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "Genaryx: the browser control room over the TAIPANBOX agent-governance stack. Money, policy, identity, quality, crypto, m",
+    "id": "TAIPANBOX/genaryx",
+    "language": "Rust",
+    "name": "TAIPANBOX/genaryx",
+    "stars": 0,
+    "updated_at": "2026-10-12T08:52:28Z",
+    "url": "https://github.com/TAIPANBOX/genaryx"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2954,
+    "updated_at": "2026-10-12T08:49:14Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-12T08:45:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
@@ -27,15 +117,6 @@
     "url": "https://github.com/intel/enterprise-inference"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61024,
-    "updated_at": "2026-10-12T08:42:24Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "ThakiCloud Tech Blog",
     "id": "ThakiCloud/thakicloud.github.io",
     "language": "JavaScript",
@@ -54,30 +135,12 @@
     "url": "https://github.com/Srishti233/LLMOps"
   },
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35681,
-    "updated_at": "2026-10-12T08:44:40Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2954,
-    "updated_at": "2026-10-12T08:39:00Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "Guardrails for speech-to-text in production: catches the AI's confident mistakes before a client sees them, and removes ",
     "id": "Guillain-RDCDE/Trusted-Transcription",
     "language": "Python",
     "name": "Guillain-RDCDE/Trusted-Transcription",
     "stars": 0,
-    "updated_at": "2026-10-12T08:38:53Z",
+    "updated_at": "2026-10-12T08:47:56Z",
     "url": "https://github.com/Guillain-RDCDE/Trusted-Transcription"
   },
   {
@@ -86,17 +149,8 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1361,
-    "updated_at": "2026-10-12T08:42:53Z",
+    "updated_at": "2026-10-12T08:58:16Z",
     "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8716,
-    "updated_at": "2026-10-12T08:41:51Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Single-binary LLM observability for Claude Code, Codex and OpenAI/Gemini apps: OTLP or proxy in, SQLite inside, UI and a",
@@ -131,7 +185,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 95,
-    "updated_at": "2026-10-12T08:33:38Z",
+    "updated_at": "2026-10-12T08:54:53Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -142,15 +196,6 @@
     "stars": 463,
     "updated_at": "2026-10-12T08:34:21Z",
     "url": "https://github.com/SynaLinks/synalinks"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-12T08:30:37Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Self-hosted coding assistant that routes each request to the cheapest model that can handle it",
@@ -216,15 +261,6 @@
     "url": "https://github.com/RevanthMeda/Enterprise-AI-Governance"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25918,
-    "updated_at": "2026-10-12T08:37:17Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Turn Claude into a context-aware red team operator with 78 drop-in offensive security skills across 23 categories.",
     "id": "urellai22/Claude-Red",
     "language": "Python",
@@ -239,7 +275,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4937,
-    "updated_at": "2026-10-12T08:38:46Z",
+    "updated_at": "2026-10-12T08:57:51Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -293,7 +329,7 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 41,
-    "updated_at": "2026-10-12T08:08:44Z",
+    "updated_at": "2026-10-12T08:57:34Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -347,7 +383,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 517,
-    "updated_at": "2026-10-12T08:24:27Z",
+    "updated_at": "2026-10-12T09:00:40Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-12T07:52:10Z",
     "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "Lossless token compression for coding agents. Drop-in proxy that cuts prompt tokens ~50% on logs, compiler output and re",
-    "id": "arcnosixta/squeeze",
-    "language": "TypeScript",
-    "name": "arcnosixta/squeeze",
-    "stars": 0,
-    "updated_at": "2026-10-12T07:50:32Z",
-    "url": "https://github.com/arcnosixta/squeeze"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28348,
-    "updated_at": "2026-10-12T08:33:05Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-12T07:49:13Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
-    "description": "Eval gates for agentic coding: block prompt, model and context builder changes in CI until an LLM eval of that exact cha",
-    "id": "Zoroval/agent-gates",
-    "language": "Python",
-    "name": "Zoroval/agent-gates",
-    "stars": 0,
-    "updated_at": "2026-10-12T07:47:24Z",
-    "url": "https://github.com/Zoroval/agent-gates"
   }
 ]
