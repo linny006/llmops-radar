@@ -1,12 +1,75 @@
 [
   {
-    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
-    "id": "veritasfuji-japan/veritas_os",
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8712,
+    "updated_at": "2026-10-12T05:45:03Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "AI Testing Framework using Promptfoo for automated LLM evaluation, red teaming, and CI/CD integration with Jenkins. Supp",
+    "id": "VenkateshDoijode/promptfoo-cicd-framework",
     "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 42,
-    "updated_at": "2026-10-12T05:28:56Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
+    "name": "VenkateshDoijode/promptfoo-cicd-framework",
+    "stars": 3,
+    "updated_at": "2026-10-12T05:42:48Z",
+    "url": "https://github.com/VenkateshDoijode/promptfoo-cicd-framework"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-10-12T05:39:45Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-12T05:39:00Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-10-12T05:38:34Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "Your LLM's answers, served in microseconds: learns the fixed-choice decisions your LLM makes and answers the ones it is ",
+    "id": "2796gaurav/shad0w",
+    "language": "Python",
+    "name": "2796gaurav/shad0w",
+    "stars": 0,
+    "updated_at": "2026-10-12T05:38:16Z",
+    "url": "https://github.com/2796gaurav/shad0w"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28347,
+    "updated_at": "2026-10-12T05:40:12Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
+    "id": "burakdede/lorepack",
+    "language": "TypeScript",
+    "name": "burakdede/lorepack",
+    "stars": 3,
+    "updated_at": "2026-10-12T05:33:05Z",
+    "url": "https://github.com/burakdede/lorepack"
   },
   {
     "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
@@ -14,8 +77,26 @@
     "language": "Go",
     "name": "a-novel/service-genai",
     "stars": 1,
-    "updated_at": "2026-10-12T05:26:47Z",
+    "updated_at": "2026-10-12T05:32:33Z",
     "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-12T05:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 42,
+    "updated_at": "2026-10-12T05:44:19Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
     "description": "Open-source platform for building multi-agent systems. Compose agents into pipelines, give them knowledge search, sandbo",
@@ -43,42 +124,6 @@
     "stars": 28,
     "updated_at": "2026-10-12T05:17:53Z",
     "url": "https://github.com/cubxxw/blog"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-12T05:17:24Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-12T05:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8712,
-    "updated_at": "2026-10-12T05:29:49Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-10-12T05:28:27Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
     "description": "31 hands-on, production-grade agentic AI engineering projects built from scratch \u2014 AI agents, RAG, LLMOps, guardrails, e",
@@ -216,15 +261,6 @@
     "url": "https://github.com/comet-ml/opik"
   },
   {
-    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
-    "id": "burakdede/lorepack",
-    "language": "TypeScript",
-    "name": "burakdede/lorepack",
-    "stars": 3,
-    "updated_at": "2026-10-12T04:55:26Z",
-    "url": "https://github.com/burakdede/lorepack"
-  },
-  {
     "description": "Scan AI-generated code for security, performance, and code quality issues before they ship",
     "id": "Rosalyndfaithful716/Guardrail",
     "language": "TypeScript",
@@ -315,15 +351,6 @@
     "url": "https://github.com/shaikn6/shaikn6"
   },
   {
-    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-10-12T04:39:37Z",
-    "url": "https://github.com/veerarakesh56/warden"
-  },
-  {
     "description": "\ud83c\udfa4 Build real-time voice assistants with AgentOS 2 Live, utilizing OpenAI's Realtime API for seamless voice interactions ",
     "id": "rozario-1234/end2end_sample",
     "language": "TypeScript",
@@ -391,18 +418,9 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 61002,
+    "stars": 61004,
     "updated_at": "2026-10-12T04:27:44Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28347,
-    "updated_at": "2026-10-12T04:28:23Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "\ud83d\ude80 Enhance prompts effortlessly with AI-Prompt-Enhancer. Transform simple ideas into precise commands for optimal AI resu",
@@ -428,25 +446,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25910,
-    "updated_at": "2026-10-12T05:27:41Z",
+    "updated_at": "2026-10-12T05:32:18Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
-    "id": "tenemos/langwatch",
-    "language": "TypeScript",
-    "name": "tenemos/langwatch",
-    "stars": 2,
-    "updated_at": "2026-10-12T04:18:15Z",
-    "url": "https://github.com/tenemos/langwatch"
-  },
-  {
-    "description": "Production-ready platform for evaluating LLM applications with quality, reliability, safety, latency, token usage, and c",
-    "id": "Lazaro549/ai-evaluation-platform",
-    "language": "TypeScript",
-    "name": "Lazaro549/ai-evaluation-platform",
-    "stars": 1,
-    "updated_at": "2026-10-12T04:03:12Z",
-    "url": "https://github.com/Lazaro549/ai-evaluation-platform"
   }
 ]
