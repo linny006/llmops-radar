@@ -1,12 +1,84 @@
 [
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
+    "description": "Curated list of open-source LLMOps tools: tracing, evals, AI gateways, guardrails and prompt management. Sorted by stars",
+    "id": "talhaanwarch/awesome-llmops-platforms",
+    "language": "Python",
+    "name": "talhaanwarch/awesome-llmops-platforms",
+    "stars": 33,
+    "updated_at": "2026-10-12T13:45:11Z",
+    "url": "https://github.com/talhaanwarch/awesome-llmops-platforms"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 517,
+    "updated_at": "2026-10-12T13:44:56Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1260,
+    "updated_at": "2026-10-12T13:45:14Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2955,
+    "updated_at": "2026-10-12T13:42:20Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35691,
+    "updated_at": "2026-10-12T13:45:08Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
+    "stars": 1,
+    "updated_at": "2026-10-12T13:40:44Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 30505,
+    "updated_at": "2026-10-12T13:43:47Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
     "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8722,
-    "updated_at": "2026-10-12T13:30:01Z",
-    "url": "https://github.com/maximhq/bifrost"
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-12T13:36:46Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 8595,
+    "updated_at": "2026-10-12T13:36:06Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "Client packages for AER: the flight recorder for AI agents",
@@ -14,8 +86,71 @@
     "language": "TypeScript",
     "name": "Ad-Astra-Computing/aer",
     "stars": 0,
-    "updated_at": "2026-10-12T13:29:50Z",
+    "updated_at": "2026-10-12T13:37:06Z",
     "url": "https://github.com/Ad-Astra-Computing/aer"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 397,
+    "updated_at": "2026-10-12T13:34:31Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
+    "id": "maks3201/decision-model-operator",
+    "language": "Go",
+    "name": "maks3201/decision-model-operator",
+    "stars": 1,
+    "updated_at": "2026-10-12T13:33:50Z",
+    "url": "https://github.com/maks3201/decision-model-operator"
+  },
+  {
+    "description": "One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod",
+    "id": "valteresj2/agent-hangar",
+    "language": "Python",
+    "name": "valteresj2/agent-hangar",
+    "stars": 3,
+    "updated_at": "2026-10-12T13:33:01Z",
+    "url": "https://github.com/valteresj2/agent-hangar"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25928,
+    "updated_at": "2026-10-12T13:41:26Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-12T13:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8722,
+    "updated_at": "2026-10-12T13:45:15Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61054,
+    "updated_at": "2026-10-12T13:29:21Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Regression testing and evals for LLM applications in CI \u2014 with the baseline in your repository, not on someone's server.",
@@ -36,24 +171,6 @@
     "url": "https://github.com/clintonai-tech/thirsty-tokens"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2955,
-    "updated_at": "2026-10-12T13:27:15Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-12T13:21:15Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Turn Claude into a context-aware red team operator with 78 drop-in offensive security skills across 23 categories.",
     "id": "urellai22/Claude-Red",
     "language": "Python",
@@ -70,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-10-12T13:18:03Z",
     "url": "https://github.com/justanotheruser82174/cua-lite"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35690,
-    "updated_at": "2026-10-12T13:28:50Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -108,15 +216,6 @@
     "url": "https://github.com/ashrafb8962/agentic-ops-and-rag"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-12T13:15:47Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Manage AI model access with a secure gateway featuring load balancing, rate limiting, and audit trails for OpenAI, Groq,",
     "id": "sargentfragrant429/AgentAccessManager",
     "language": "\u2014",
@@ -124,24 +223,6 @@
     "stars": 0,
     "updated_at": "2026-10-12T13:15:04Z",
     "url": "https://github.com/sargentfragrant429/AgentAccessManager"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61053,
-    "updated_at": "2026-10-12T13:29:21Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
-    "id": "maks3201/decision-model-operator",
-    "language": "Go",
-    "name": "maks3201/decision-model-operator",
-    "stars": 1,
-    "updated_at": "2026-10-12T13:15:42Z",
-    "url": "https://github.com/maks3201/decision-model-operator"
   },
   {
     "description": "\u9876\u7ea7\u5ba1\u7f8e\u7684\u4e2a\u4eba\u535a\u5ba2\uff01\uff01\uff01\u5199\u4e00\u4e9b\u5173\u4e8e AI\u3001Agent\u3001\u6280\u672f\u3001\u4ea7\u54c1\u3001\u8425\u9500\u3001\u4e00\u4e9b\u751f\u6d3b\u601d\u8003\uff0c\u4e2a\u4eba\u6210\u957f\u7c7b\u7684\u7cbe\u6587",
@@ -176,7 +257,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 184,
-    "updated_at": "2026-10-12T13:09:36Z",
+    "updated_at": "2026-10-12T13:45:03Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -187,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-10-12T13:09:09Z",
     "url": "https://github.com/alebgl77/awesome-ai-architect"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 8593,
-    "updated_at": "2026-10-12T13:08:09Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
@@ -230,7 +302,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-12T13:22:41Z",
+    "updated_at": "2026-10-12T13:39:50Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -284,7 +356,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 2142,
-    "updated_at": "2026-10-12T13:22:21Z",
+    "updated_at": "2026-10-12T13:44:38Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -306,15 +378,6 @@
     "url": "https://github.com/kelvran/gateway"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25928,
-    "updated_at": "2026-10-12T12:59:41Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
     "id": "ydavidcm9-wq/vigil",
     "language": "JavaScript",
@@ -333,24 +396,6 @@
     "url": "https://github.com/islaagnet27/llm-cost"
   },
   {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 30505,
-    "updated_at": "2026-10-12T13:14:03Z",
-    "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 397,
-    "updated_at": "2026-10-12T13:17:07Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
     "description": "Self-hosted LLM gateway in Rust: one OpenAI-compatible API for OpenAI, Anthropic, Gemini, Azure, Ollama and more, with v",
     "id": "rustrak/llmtrack",
     "language": "Rust",
@@ -365,7 +410,7 @@
     "language": "Python",
     "name": "trustyai-explainability/llama-stack-provider-trustyai-garak",
     "stars": 3,
-    "updated_at": "2026-10-12T12:57:27Z",
+    "updated_at": "2026-10-12T13:39:30Z",
     "url": "https://github.com/trustyai-explainability/llama-stack-provider-trustyai-garak"
   },
   {
@@ -400,53 +445,8 @@
     "id": "overmind-core/overmind",
     "language": "Python",
     "name": "overmind-core/overmind",
-    "stars": 632,
+    "stars": 633,
     "updated_at": "2026-10-12T12:54:03Z",
     "url": "https://github.com/overmind-core/overmind"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI rules with Agent Guardrails, preventing breaches and ensuring compliance for your coding agents. Secure yo",
-    "id": "GaBySuGy/agent-guardrails",
-    "language": "Shell",
-    "name": "GaBySuGy/agent-guardrails",
-    "stars": 2,
-    "updated_at": "2026-10-12T12:53:33Z",
-    "url": "https://github.com/GaBySuGy/agent-guardrails"
-  },
-  {
-    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
-    "id": "dynamiq-ai/dynamiq",
-    "language": "Python",
-    "name": "dynamiq-ai/dynamiq",
-    "stars": 1071,
-    "updated_at": "2026-10-12T13:21:57Z",
-    "url": "https://github.com/dynamiq-ai/dynamiq"
-  },
-  {
-    "description": "\ud83d\udd0d Explore the shift from MLOps to LLMOps with materials that simplify AI deployment and enhance document intelligence.",
-    "id": "Farukul-Islam/from-mlops-to-llmops",
-    "language": "PHP",
-    "name": "Farukul-Islam/from-mlops-to-llmops",
-    "stars": 0,
-    "updated_at": "2026-10-12T12:52:09Z",
-    "url": "https://github.com/Farukul-Islam/from-mlops-to-llmops"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI behavior guidelines with SpecGuard, a tool that turns policies into executable tests for reliable and scal",
-    "id": "Tearfullnex/SpecGuard",
-    "language": "Python",
-    "name": "Tearfullnex/SpecGuard",
-    "stars": 0,
-    "updated_at": "2026-10-12T12:51:25Z",
-    "url": "https://github.com/Tearfullnex/SpecGuard"
-  },
-  {
-    "description": "\ud83d\udcca Build insightful sales dashboards for SuperStore, enhancing decision-making and driving business growth with real-time",
-    "id": "matiaslanza99/SuperStore.SalesDashboard",
-    "language": "CSS",
-    "name": "matiaslanza99/SuperStore.SalesDashboard",
-    "stars": 1,
-    "updated_at": "2026-10-12T12:50:26Z",
-    "url": "https://github.com/matiaslanza99/SuperStore.SalesDashboard"
   }
 ]
