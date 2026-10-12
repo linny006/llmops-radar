@@ -1,12 +1,48 @@
 [
   {
+    "description": "One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod",
+    "id": "valteresj2/agent-hangar",
+    "language": "Python",
+    "name": "valteresj2/agent-hangar",
+    "stars": 3,
+    "updated_at": "2026-10-12T21:14:44Z",
+    "url": "https://github.com/valteresj2/agent-hangar"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35713,
+    "updated_at": "2026-10-12T21:14:29Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11808,
+    "updated_at": "2026-10-12T21:14:52Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8729,
-    "updated_at": "2026-10-12T20:59:22Z",
+    "updated_at": "2026-10-12T21:13:19Z",
     "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "GitHub Action for LLM migration and regression testing \u2014 runs your golden suite on every PR and fails the check on model",
+    "id": "evalshift/evalshift-action",
+    "language": "Python",
+    "name": "evalshift/evalshift-action",
+    "stars": 0,
+    "updated_at": "2026-10-12T21:11:45Z",
+    "url": "https://github.com/evalshift/evalshift-action"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -14,8 +50,53 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61083,
-    "updated_at": "2026-10-12T20:58:28Z",
+    "updated_at": "2026-10-12T21:14:57Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Flight recorder & observability for AI agents: trace every model call, tool call, file edit and shell command live, with",
+    "id": "abdullahimohamed101/agent-black-box",
+    "language": "Python",
+    "name": "abdullahimohamed101/agent-black-box",
+    "stars": 0,
+    "updated_at": "2026-10-12T21:09:51Z",
+    "url": "https://github.com/abdullahimohamed101/agent-black-box"
+  },
+  {
+    "description": "LLM Router Gateway and Adaptive Router",
+    "id": "orcunku/llm-router-gateway",
+    "language": "HTML",
+    "name": "orcunku/llm-router-gateway",
+    "stars": 0,
+    "updated_at": "2026-10-12T21:08:55Z",
+    "url": "https://github.com/orcunku/llm-router-gateway"
+  },
+  {
+    "description": "Open-source LLM migration and regression testing for AI agents. Compare models, detect tool-call regressions, and gate m",
+    "id": "evalshift/evalshift-cli",
+    "language": "Python",
+    "name": "evalshift/evalshift-cli",
+    "stars": 5,
+    "updated_at": "2026-10-12T21:07:37Z",
+    "url": "https://github.com/evalshift/evalshift-cli"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 397,
+    "updated_at": "2026-10-12T21:07:00Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-12T21:00:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Kubernetes-native control plane for AI agents that work inside the tools you already use \u2014 review PRs, triage issues, ac",
@@ -32,7 +113,7 @@
     "language": "Python",
     "name": "architsharm/agentfox",
     "stars": 3,
-    "updated_at": "2026-10-12T20:56:41Z",
+    "updated_at": "2026-10-12T21:04:22Z",
     "url": "https://github.com/architsharm/agentfox"
   },
   {
@@ -50,7 +131,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-12T20:54:12Z",
+    "updated_at": "2026-10-12T21:11:43Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -79,15 +160,6 @@
     "stars": 8,
     "updated_at": "2026-10-12T20:53:19Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11808,
-    "updated_at": "2026-10-12T20:58:28Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
@@ -153,15 +225,6 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "Open-source LLM migration and regression testing for AI agents. Compare models, detect tool-call regressions, and gate m",
-    "id": "evalshift/evalshift-cli",
-    "language": "Python",
-    "name": "evalshift/evalshift-cli",
-    "stars": 5,
-    "updated_at": "2026-10-12T20:59:47Z",
-    "url": "https://github.com/evalshift/evalshift-cli"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -169,15 +232,6 @@
     "stars": 25941,
     "updated_at": "2026-10-12T20:47:37Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-12T20:45:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
@@ -212,7 +266,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-10-12T20:42:04Z",
+    "updated_at": "2026-10-12T21:07:47Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -302,7 +356,7 @@
     "language": "Jupyter Notebook",
     "name": "DiogoRibeiro7/rag-quality-engine",
     "stars": 0,
-    "updated_at": "2026-10-12T20:32:30Z",
+    "updated_at": "2026-10-12T21:13:38Z",
     "url": "https://github.com/DiogoRibeiro7/rag-quality-engine"
   },
   {
@@ -340,15 +394,6 @@
     "stars": 1,
     "updated_at": "2026-10-12T20:25:42Z",
     "url": "https://github.com/matiaslanza99/SuperStore.SalesDashboard"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35711,
-    "updated_at": "2026-10-12T20:56:03Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-12T20:20:51Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28353,
-    "updated_at": "2026-10-12T20:18:56Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Open-source replay and evidence infrastructure for AI agents. Capture runs as portable Run Capsules for replay, diff, li",
-    "id": "MSKazemi/novafabric",
-    "language": "Python",
-    "name": "MSKazemi/novafabric",
-    "stars": 7,
-    "updated_at": "2026-10-12T20:16:59Z",
-    "url": "https://github.com/MSKazemi/novafabric"
-  },
-  {
-    "description": "Market Metrics is an autonomous market-intelligence platform designed to transform product ideas into structured, eviden",
-    "id": "721189/Market-Metrics",
-    "language": "TypeScript",
-    "name": "721189/Market-Metrics",
-    "stars": 1,
-    "updated_at": "2026-10-12T20:07:21Z",
-    "url": "https://github.com/721189/Market-Metrics"
-  },
-  {
-    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
-    "id": "Lo3okSky/LLM_course",
-    "language": "Jupyter Notebook",
-    "name": "Lo3okSky/LLM_course",
-    "stars": 3,
-    "updated_at": "2026-10-12T20:06:10Z",
-    "url": "https://github.com/Lo3okSky/LLM_course"
-  },
-  {
-    "description": "Enable NVIDIA Smooth Motion on RTX 30-series GPUs with this clean-room compatibility layer for NvPresent64.dll.",
-    "id": "titanium0202/NVSmooth30",
-    "language": "C++",
-    "name": "titanium0202/NVSmooth30",
-    "stars": 1,
-    "updated_at": "2026-10-12T20:04:13Z",
-    "url": "https://github.com/titanium0202/NVSmooth30"
   }
 ]
