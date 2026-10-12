@@ -1,5 +1,122 @@
 [
   {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35680,
+    "updated_at": "2026-10-12T08:14:19Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4937,
+    "updated_at": "2026-10-12T08:13:53Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61016,
+    "updated_at": "2026-10-12T08:13:18Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Retrieve multilingual visual documents with ultra-compact token embeddings from this Qwen3.5-4B-powered ColPali engine.",
+    "id": "Satisfiable-polopony613/EVIE-Preview-4.5B",
+    "language": "Python",
+    "name": "Satisfiable-polopony613/EVIE-Preview-4.5B",
+    "stars": 2,
+    "updated_at": "2026-10-12T08:11:08Z",
+    "url": "https://github.com/Satisfiable-polopony613/EVIE-Preview-4.5B"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 7,
+    "updated_at": "2026-10-12T08:10:04Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "YOalphabet & YOconlang is a 4-bit isomorphic visual script replacing heavy CNNs and text embeddings with zero-inference ",
+    "id": "YOalphabet/YOalphabet",
+    "language": "HTML",
+    "name": "YOalphabet/YOalphabet",
+    "stars": 19,
+    "updated_at": "2026-10-12T08:09:42Z",
+    "url": "https://github.com/YOalphabet/YOalphabet"
+  },
+  {
+    "description": "Build and evaluate production-ready RAG pipelines with hands-on notebooks, templates, and proven performance strategies.",
+    "id": "ashrafb8962/agentic-ops-and-rag",
+    "language": "Jupyter Notebook",
+    "name": "ashrafb8962/agentic-ops-and-rag",
+    "stars": 0,
+    "updated_at": "2026-10-12T08:09:40Z",
+    "url": "https://github.com/ashrafb8962/agentic-ops-and-rag"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 95,
+    "updated_at": "2026-10-12T08:11:31Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "Manage AI model access with a secure gateway featuring load balancing, rate limiting, and audit trails for OpenAI, Groq,",
+    "id": "sargentfragrant429/AgentAccessManager",
+    "language": "\u2014",
+    "name": "sargentfragrant429/AgentAccessManager",
+    "stars": 0,
+    "updated_at": "2026-10-12T08:08:54Z",
+    "url": "https://github.com/sargentfragrant429/AgentAccessManager"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-12T08:08:44Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
+    "id": "Guruexpl8276/LLM_Inference_Lab",
+    "language": "Python",
+    "name": "Guruexpl8276/LLM_Inference_Lab",
+    "stars": 0,
+    "updated_at": "2026-10-12T08:02:00Z",
+    "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
+  },
+  {
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
+    "stars": 1,
+    "updated_at": "2026-10-12T08:03:17Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-12T08:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
     "id": "Fauniethermal3522/agentic-dart",
     "language": "Python",
@@ -14,8 +131,17 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8715,
-    "updated_at": "2026-10-12T08:00:06Z",
+    "updated_at": "2026-10-12T08:11:19Z",
     "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25917,
+    "updated_at": "2026-10-12T07:59:59Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Agent and LLM API performance monitoring via network packet probe. Measures performance of OpenClaw, Claude, Codex, Deep",
@@ -41,7 +167,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 517,
-    "updated_at": "2026-10-12T07:59:53Z",
+    "updated_at": "2026-10-12T08:13:04Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -52,24 +178,6 @@
     "stars": 1,
     "updated_at": "2026-10-12T07:57:18Z",
     "url": "https://github.com/wordenneapolitan768/llm-pricing"
-  },
-  {
-    "description": "YOalphabet & YOconlang is a 4-bit isomorphic visual script replacing heavy CNNs and text embeddings with zero-inference ",
-    "id": "YOalphabet/YOalphabet",
-    "language": "HTML",
-    "name": "YOalphabet/YOalphabet",
-    "stars": 19,
-    "updated_at": "2026-10-12T07:57:07Z",
-    "url": "https://github.com/YOalphabet/YOalphabet"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61014,
-    "updated_at": "2026-10-12T07:59:42Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Version AI prompts in Markdown, inject variables with Jinja2, and manage prompt metadata with strict validation and a CL",
@@ -106,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-10-12T07:54:28Z",
     "url": "https://github.com/Citrous-districtline59/agent-trace"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35680,
-    "updated_at": "2026-10-12T07:59:09Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
@@ -176,7 +275,7 @@
     "language": "TypeScript",
     "name": "RevanthMeda/Enterprise-AI-Governance",
     "stars": 1,
-    "updated_at": "2026-10-12T07:48:50Z",
+    "updated_at": "2026-10-12T08:12:57Z",
     "url": "https://github.com/RevanthMeda/Enterprise-AI-Governance"
   },
   {
@@ -205,15 +304,6 @@
     "stars": 1,
     "updated_at": "2026-10-12T07:46:18Z",
     "url": "https://github.com/andrewbakercloudscale/claude-code-cost-sidebar"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-12T07:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\udd0d Explore the shift from MLOps to LLMOps with materials that simplify AI deployment and enhance document intelligence.",
@@ -265,7 +355,7 @@
     "id": "vllm-project/vllm-ascend",
     "language": "Python",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2953,
+    "stars": 2954,
     "updated_at": "2026-10-12T07:40:55Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
@@ -277,15 +367,6 @@
     "stars": 1,
     "updated_at": "2026-10-12T07:39:43Z",
     "url": "https://github.com/Lukaa1507/langchain-runner"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 95,
-    "updated_at": "2026-10-12T07:56:32Z",
-    "url": "https://github.com/mloda-ai/mloda"
   },
   {
     "description": "Provider-agnostic AI dev pipeline: clarify \u2192 plan \u2192 build \u2192 review \u2192 PR across your repos, mixing LLM providers per stag",
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-12T07:22:57Z",
     "url": "https://github.com/titanium0202/NVSmooth30"
-  },
-  {
-    "description": "A local-first autonomous LLMOps platform for continuous LLM evaluation, failure diagnosis, and self-healing using local ",
-    "id": "srishanthreddy456789/Sentinel",
-    "language": "Python",
-    "name": "srishanthreddy456789/Sentinel",
-    "stars": 0,
-    "updated_at": "2026-10-12T07:20:41Z",
-    "url": "https://github.com/srishanthreddy456789/Sentinel"
-  },
-  {
-    "description": "See what your Google ADK agent costs (per-invocation USD from token usage) and fail CI when it gets more expensive.",
-    "id": "gaurav-gandhi-2411/adk-tracegauge",
-    "language": "Python",
-    "name": "gaurav-gandhi-2411/adk-tracegauge",
-    "stars": 0,
-    "updated_at": "2026-10-12T07:19:22Z",
-    "url": "https://github.com/gaurav-gandhi-2411/adk-tracegauge"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-12T07:19:15Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Kubernetes-native control plane for AI agents that work inside the tools you already use \u2014 review PRs, triage issues, ac",
-    "id": "DominikPinsel/ainsel",
-    "language": "Go",
-    "name": "DominikPinsel/ainsel",
-    "stars": 3,
-    "updated_at": "2026-10-12T07:17:21Z",
-    "url": "https://github.com/DominikPinsel/ainsel"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25916,
-    "updated_at": "2026-10-12T07:59:59Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-10-12T07:13:13Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Multi-tenant, permissions-aware knowledge assistant. A portfolio project about the operational layer around an LLM app: ",
-    "id": "alexvervloet/knowledge-desk",
-    "language": "Python",
-    "name": "alexvervloet/knowledge-desk",
-    "stars": 1,
-    "updated_at": "2026-10-12T07:09:59Z",
-    "url": "https://github.com/alexvervloet/knowledge-desk"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-12T07:08:37Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Six repeatable failure scenarios for comparing how tool-using agents handle timeouts, rate limits, approvals, and restar",
-    "id": "SCUliujiacheng/agent-reliability-lab",
-    "language": "Python",
-    "name": "SCUliujiacheng/agent-reliability-lab",
-    "stars": 0,
-    "updated_at": "2026-10-12T07:04:13Z",
-    "url": "https://github.com/SCUliujiacheng/agent-reliability-lab"
   }
 ]
