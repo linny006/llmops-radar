@@ -1,39 +1,30 @@
 [
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-12T02:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 41,
-    "updated_at": "2026-10-12T01:58:31Z",
+    "updated_at": "2026-10-12T02:15:12Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
     "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28346,
-    "updated_at": "2026-10-12T01:54:37Z",
-    "url": "https://github.com/mlflow/mlflow"
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2951,
+    "updated_at": "2026-10-12T02:14:20Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "\u7aef\u5230\u7aef\u667a\u80fd\u4f53\u5e73\u53f0\uff1a\u628a\u672c\u673a\u7684 AI Agent \u53d8\u6210\u4eba\u4eba\u53ef\u7528\u7684 Web \u4ea7\u54c1\uff08Vue 3 + Flask + Go WS \u7f51\u5173 + Docker \u90e8\u7f72\uff09",
+    "id": "liaosiliangCodeLife/harness-mate-plat",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 60983,
-    "updated_at": "2026-10-12T01:52:04Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "liaosiliangCodeLife/harness-mate-plat",
+    "stars": 13,
+    "updated_at": "2026-10-12T02:12:30Z",
+    "url": "https://github.com/liaosiliangCodeLife/harness-mate-plat"
   },
   {
     "description": "Compression with a quality contract \u2014 cache-aware, causally-pruned LLM context compression for agentic runtimes, certifi",
@@ -41,8 +32,53 @@
     "language": "Python",
     "name": "dshakes/distil",
     "stars": 19,
-    "updated_at": "2026-10-12T01:54:56Z",
+    "updated_at": "2026-10-12T02:11:52Z",
     "url": "https://github.com/dshakes/distil"
+  },
+  {
+    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 1,
+    "updated_at": "2026-10-12T02:10:56Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
+    "stars": 1,
+    "updated_at": "2026-10-12T02:07:53Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-12T02:01:38Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28346,
+    "updated_at": "2026-10-12T02:15:17Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 60985,
+    "updated_at": "2026-10-12T01:52:04Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
@@ -58,34 +94,16 @@
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
-    "stars": 8856,
+    "stars": 8857,
     "updated_at": "2026-10-12T01:44:39Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 1,
-    "updated_at": "2026-10-12T01:58:36Z",
-    "url": "https://github.com/a-novel/service-genai"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2951,
-    "updated_at": "2026-10-12T01:22:10Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25905,
+    "stars": 25906,
     "updated_at": "2026-10-12T01:17:50Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -104,7 +122,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 2140,
-    "updated_at": "2026-10-12T01:31:35Z",
+    "updated_at": "2026-10-12T02:06:02Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -140,7 +158,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-10-12T01:36:05Z",
+    "updated_at": "2026-10-12T02:08:05Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -162,15 +180,6 @@
     "url": "https://github.com/toxicwind/ranch"
   },
   {
-    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
-    "id": "TAIPANBOX/tokenfuse",
-    "language": "Rust",
-    "name": "TAIPANBOX/tokenfuse",
-    "stars": 1,
-    "updated_at": "2026-10-12T01:48:22Z",
-    "url": "https://github.com/TAIPANBOX/tokenfuse"
-  },
-  {
     "description": "A collection of tricks and tools to speed up transformer models",
     "id": "OpenMachine-ai/transformer-tricks",
     "language": "TeX",
@@ -178,6 +187,15 @@
     "stars": 233,
     "updated_at": "2026-10-12T00:53:16Z",
     "url": "https://github.com/OpenMachine-ai/transformer-tricks"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11794,
+    "updated_at": "2026-10-12T00:35:44Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
@@ -214,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-10-12T00:26:07Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11793,
-    "updated_at": "2026-10-12T00:35:44Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -439,14 +448,5 @@
     "stars": 1983,
     "updated_at": "2026-10-11T23:44:04Z",
     "url": "https://github.com/ShenSeanChen/waku-agent"
-  },
-  {
-    "description": "\ud83d\udcda Formalize Kakeya sets in finite fields with Lean 4, establishing lower bounds on their size and advancing mathematical",
-    "id": "mviraj/KakeyaFiniteFields",
-    "language": "JavaScript",
-    "name": "mviraj/KakeyaFiniteFields",
-    "stars": 0,
-    "updated_at": "2026-10-11T23:43:48Z",
-    "url": "https://github.com/mviraj/KakeyaFiniteFields"
   }
 ]
