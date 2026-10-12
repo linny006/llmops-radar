@@ -1,12 +1,93 @@
 [
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22524,
+    "updated_at": "2026-10-12T09:08:57Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-10-12T09:09:55Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35682,
+    "updated_at": "2026-10-12T09:09:57Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25920,
+    "updated_at": "2026-10-12T09:06:19Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8717,
-    "updated_at": "2026-10-12T09:00:03Z",
+    "updated_at": "2026-10-12T09:09:51Z",
     "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "Python",
+    "name": "dataelement/bisheng",
+    "stars": 12037,
+    "updated_at": "2026-10-12T09:02:42Z",
+    "url": "https://github.com/dataelement/bisheng"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28348,
+    "updated_at": "2026-10-12T09:05:12Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-12T09:01:03Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 517,
+    "updated_at": "2026-10-12T09:07:25Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2954,
+    "updated_at": "2026-10-12T08:59:31Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "\u4f01\u4e1a\u57f9\u8bad\u4e0e\u667a\u80fd\u8003\u6838\u7cfb\u7edf \u00b7 \u8bfe\u7a0b\u2192\u8003\u8bd5\u2192AI\u8bc4\u5206\u2192\u9519\u56e0\u5206\u6790\u2192\u77e5\u8bc6\u68c0\u7d22\u95ed\u73af\uff5cSpring Boot 3.4 + Spring AI\uff1a\u4e09\u7ea7\u964d\u7ea7 RAG\u3001MCP \u5de5\u5177\u63a5\u5165\u3001\u591a\u667a\u80fd\u4f53\u4ea4\u53c9\u6821\u9a8c\u3001Span \u94fe\u8def\u8ffd\u8e2a\u4e0e Golden \u9898\u96c6\u56de\u5f52\u8bc4\u4f30",
@@ -16,24 +97,6 @@
     "stars": 0,
     "updated_at": "2026-10-12T08:58:31Z",
     "url": "https://github.com/AL-1SOVO/trainer-eval"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35681,
-    "updated_at": "2026-10-12T09:00:46Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25919,
-    "updated_at": "2026-10-12T08:58:50Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Catches AI regressions before your users do, diffs a prompt or model change, has an AI write targeted tests, judges old ",
@@ -59,7 +122,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61030,
-    "updated_at": "2026-10-12T09:00:38Z",
+    "updated_at": "2026-10-12T09:09:21Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -81,24 +144,6 @@
     "url": "https://github.com/TAIPANBOX/genaryx"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2954,
-    "updated_at": "2026-10-12T08:49:14Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-12T08:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
     "id": "veerarakesh56/warden",
     "language": "Python",
@@ -115,6 +160,15 @@
     "stars": 6,
     "updated_at": "2026-10-12T08:43:32Z",
     "url": "https://github.com/intel/enterprise-inference"
+  },
+  {
+    "description": "The platform for continuously improving AI agents.",
+    "id": "overmind-core/overmind",
+    "language": "Python",
+    "name": "overmind-core/overmind",
+    "stars": 626,
+    "updated_at": "2026-10-12T08:43:14Z",
+    "url": "https://github.com/overmind-core/overmind"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -149,7 +203,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1361,
-    "updated_at": "2026-10-12T08:58:16Z",
+    "updated_at": "2026-10-12T09:06:40Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -185,7 +239,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 95,
-    "updated_at": "2026-10-12T08:54:53Z",
+    "updated_at": "2026-10-12T09:07:05Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -275,7 +329,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4937,
-    "updated_at": "2026-10-12T08:57:51Z",
+    "updated_at": "2026-10-12T09:04:23Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -333,15 +387,6 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "The platform for continuously improving AI agents.",
-    "id": "overmind-core/overmind",
-    "language": "Python",
-    "name": "overmind-core/overmind",
-    "stars": 625,
-    "updated_at": "2026-10-12T08:43:14Z",
-    "url": "https://github.com/overmind-core/overmind"
-  },
-  {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
     "id": "Guruexpl8276/LLM_Inference_Lab",
     "language": "Python",
@@ -378,15 +423,6 @@
     "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
   },
   {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 517,
-    "updated_at": "2026-10-12T09:00:40Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
     "description": "Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards",
     "id": "wordenneapolitan768/llm-pricing",
     "language": "\u2014",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-12T07:54:38Z",
     "url": "https://github.com/recordrnase224/brix-protocol"
-  },
-  {
-    "description": "Route OpenAI-compatible requests to LLM providers with a fast Rust API gateway",
-    "id": "Impure-platen433/crabllm",
-    "language": "Rust",
-    "name": "Impure-platen433/crabllm",
-    "stars": 0,
-    "updated_at": "2026-10-12T07:54:38Z",
-    "url": "https://github.com/Impure-platen433/crabllm"
-  },
-  {
-    "description": "Capture and replay every AI agent tool call, prompt, and response to trace sessions and debug complex workflows with ful",
-    "id": "Citrous-districtline59/agent-trace",
-    "language": "Python",
-    "name": "Citrous-districtline59/agent-trace",
-    "stars": 0,
-    "updated_at": "2026-10-12T07:54:28Z",
-    "url": "https://github.com/Citrous-districtline59/agent-trace"
-  },
-  {
-    "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
-    "id": "ydavidcm9-wq/vigil",
-    "language": "JavaScript",
-    "name": "ydavidcm9-wq/vigil",
-    "stars": 0,
-    "updated_at": "2026-10-12T07:52:23Z",
-    "url": "https://github.com/ydavidcm9-wq/vigil"
-  },
-  {
-    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
-    "id": "islaagnet27/llm-cost",
-    "language": "C++",
-    "name": "islaagnet27/llm-cost",
-    "stars": 1,
-    "updated_at": "2026-10-12T07:52:10Z",
-    "url": "https://github.com/islaagnet27/llm-cost"
   }
 ]
