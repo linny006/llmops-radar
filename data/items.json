@@ -1,5 +1,68 @@
 [
   {
+    "description": "",
+    "id": "octavebahoun/gouvra",
+    "language": "TypeScript",
+    "name": "octavebahoun/gouvra",
+    "stars": 1,
+    "updated_at": "2026-10-12T01:14:35Z",
+    "url": "https://github.com/octavebahoun/gouvra"
+  },
+  {
+    "description": "Local-first tracer and efficiency profiler for AI agents",
+    "id": "TommyTranX/traceburn",
+    "language": "Python",
+    "name": "TommyTranX/traceburn",
+    "stars": 2,
+    "updated_at": "2026-10-12T01:12:49Z",
+    "url": "https://github.com/TommyTranX/traceburn"
+  },
+  {
+    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 1,
+    "updated_at": "2026-10-12T01:15:08Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
+    "id": "burakdede/lorepack",
+    "language": "TypeScript",
+    "name": "burakdede/lorepack",
+    "stars": 3,
+    "updated_at": "2026-10-12T01:11:16Z",
+    "url": "https://github.com/burakdede/lorepack"
+  },
+  {
+    "description": "Self-hosted OpenAI/Anthropic-compatible gateway: give each AI agent run a dollar budget, enforced before the provider, w",
+    "id": "domondi1/inferrail",
+    "language": "Python",
+    "name": "domondi1/inferrail",
+    "stars": 1,
+    "updated_at": "2026-10-12T01:10:04Z",
+    "url": "https://github.com/domondi1/inferrail"
+  },
+  {
+    "description": "Open Source software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-10-12T01:11:13Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-12T01:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -54,15 +117,6 @@
     "url": "https://github.com/pom11/hscc"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-12T00:45:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
     "id": "cloudrift-ai/emmy",
     "language": "Python",
@@ -72,12 +126,21 @@
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22518,
+    "updated_at": "2026-10-12T00:31:52Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8855,
-    "updated_at": "2026-10-12T00:48:33Z",
+    "updated_at": "2026-10-12T01:14:02Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -117,24 +180,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 1,
-    "updated_at": "2026-10-12T00:52:46Z",
-    "url": "https://github.com/a-novel/service-genai"
-  },
-  {
-    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
-    "id": "burakdede/lorepack",
-    "language": "TypeScript",
-    "name": "burakdede/lorepack",
-    "stars": 3,
-    "updated_at": "2026-10-12T00:53:24Z",
-    "url": "https://github.com/burakdede/lorepack"
-  },
-  {
     "description": "Convert static anime images into structured, QA-checked PSDs with Codex, Colab GPU, and built-in motion preview.",
     "id": "Rickettsiayorkshirefog4963/still2rig-psd",
     "language": "JavaScript",
@@ -167,7 +212,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 60980,
-    "updated_at": "2026-10-12T00:56:04Z",
+    "updated_at": "2026-10-12T01:10:49Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -187,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-10-12T00:08:44Z",
     "url": "https://github.com/wordmiddling872/AI_Email_Generator"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22518,
-    "updated_at": "2026-10-12T00:31:52Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-11T23:27:39Z",
     "url": "https://github.com/tenemos/langwatch"
-  },
-  {
-    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
-    "id": "korczis/prismatic-majordomus",
-    "language": "Rust",
-    "name": "korczis/prismatic-majordomus",
-    "stars": 0,
-    "updated_at": "2026-10-12T00:38:26Z",
-    "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8704,
-    "updated_at": "2026-10-11T23:16:51Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Token & cost tracking for LLM apps across OpenAI, Anthropic, Gemini, Ollama and LangChain, with budgets and per-feature ",
-    "id": "hasnat23/llm-costwatch",
-    "language": "Python",
-    "name": "hasnat23/llm-costwatch",
-    "stars": 0,
-    "updated_at": "2026-10-11T23:11:10Z",
-    "url": "https://github.com/hasnat23/llm-costwatch"
-  },
-  {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1260,
-    "updated_at": "2026-10-12T00:17:47Z",
-    "url": "https://github.com/Arize-ai/openinference"
   }
 ]
