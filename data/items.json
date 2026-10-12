@@ -1,5 +1,32 @@
 [
   {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 94,
+    "updated_at": "2026-10-12T00:35:22Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-12T00:30:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8855,
+    "updated_at": "2026-10-12T00:37:24Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -32,7 +59,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11793,
-    "updated_at": "2026-10-12T00:23:27Z",
+    "updated_at": "2026-10-12T00:35:44Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -54,15 +81,6 @@
     "url": "https://github.com/a-novel/service-genai"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-12T00:15:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
     "id": "burakdede/lorepack",
     "language": "TypeScript",
@@ -79,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-10-12T00:13:15Z",
     "url": "https://github.com/Rickettsiayorkshirefog4963/still2rig-psd"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8854,
-    "updated_at": "2026-10-12T00:28:53Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Build production-ready LLM systems using FastAPI and llama.cpp with integrated streaming, evaluation, and observability ",
@@ -133,6 +142,15 @@
     "stars": 1,
     "updated_at": "2026-10-12T00:08:44Z",
     "url": "https://github.com/wordmiddling872/AI_Email_Generator"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22518,
+    "updated_at": "2026-10-12T00:31:52Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Enhance Minecraft gameplay with this lightweight utility featuring aim assistance, ESP, and custom movement controls.",
@@ -225,15 +243,6 @@
     "url": "https://github.com/Firmancaaa/rest-gateway-1771916753-3"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22517,
-    "updated_at": "2026-10-12T00:07:27Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Provide visibility, traceability, and cost tracking for AI requests with minimal overhead across multiple AI providers a",
     "id": "niyetbay0304/gateway",
     "language": "Go",
@@ -248,7 +257,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28346,
-    "updated_at": "2026-10-11T23:50:04Z",
+    "updated_at": "2026-10-12T00:40:06Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -383,7 +392,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-12T00:22:41Z",
+    "updated_at": "2026-10-12T00:38:26Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -428,7 +437,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-10-12T00:22:56Z",
+    "updated_at": "2026-10-12T00:42:43Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-11T22:52:06Z",
     "url": "https://github.com/Yash-Chindam/self-optimizing-production-rag-platform"
-  },
-  {
-    "description": "Production local-LLM inference gateway with policy-aware routing and delivery automation",
-    "id": "Yash-Chindam/Production-Local-LLM-Inference-Routing-Platform",
-    "language": "Python",
-    "name": "Yash-Chindam/Production-Local-LLM-Inference-Routing-Platform",
-    "stars": 0,
-    "updated_at": "2026-10-11T22:50:37Z",
-    "url": "https://github.com/Yash-Chindam/Production-Local-LLM-Inference-Routing-Platform"
   }
 ]
