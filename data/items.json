@@ -1,21 +1,120 @@
 [
   {
-    "description": "Curated list of open-source LLMOps tools: tracing, evals, AI gateways, guardrails and prompt management. Sorted by stars",
-    "id": "talhaanwarch/awesome-llmops-platforms",
-    "language": "Python",
-    "name": "talhaanwarch/awesome-llmops-platforms",
-    "stars": 33,
-    "updated_at": "2026-10-12T13:45:11Z",
-    "url": "https://github.com/talhaanwarch/awesome-llmops-platforms"
-  },
-  {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
     "id": "mozilla-ai/otari",
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 517,
-    "updated_at": "2026-10-12T13:44:56Z",
+    "updated_at": "2026-10-12T13:58:33Z",
     "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35693,
+    "updated_at": "2026-10-12T13:57:45Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-10-12T13:54:40Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 8595,
+    "updated_at": "2026-10-12T13:56:04Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Open-source AI gateway and operations platform. Bring your own provider API keys and unify every AI model behind a singl",
+    "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "language": "TypeScript",
+    "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "stars": 4,
+    "updated_at": "2026-10-12T13:53:10Z",
+    "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-12T14:00:23Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "",
+    "id": "octavebahoun/gouvra",
+    "language": "TypeScript",
+    "name": "octavebahoun/gouvra",
+    "stars": 1,
+    "updated_at": "2026-10-12T13:51:17Z",
+    "url": "https://github.com/octavebahoun/gouvra"
+  },
+  {
+    "description": "Client packages for AER: the flight recorder for AI agents",
+    "id": "Ad-Astra-Computing/aer",
+    "language": "TypeScript",
+    "name": "Ad-Astra-Computing/aer",
+    "stars": 0,
+    "updated_at": "2026-10-12T13:50:40Z",
+    "url": "https://github.com/Ad-Astra-Computing/aer"
+  },
+  {
+    "description": "Source-available operating layer for governed AI applications \u2014 reuse policy, authority, evidence, execution, and recove",
+    "id": "jakbuczarnecki/intergrax",
+    "language": "Python",
+    "name": "jakbuczarnecki/intergrax",
+    "stars": 4,
+    "updated_at": "2026-10-12T13:52:19Z",
+    "url": "https://github.com/jakbuczarnecki/intergrax"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 7,
+    "updated_at": "2026-10-12T13:48:27Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "50+ curated LLM observability tools PLUS 26 Agent Skills (several with runnable, unit-tested scripts) to build, evaluate",
+    "id": "ContextJet-ai/awesome-llm-observability",
+    "language": "Python",
+    "name": "ContextJet-ai/awesome-llm-observability",
+    "stars": 40,
+    "updated_at": "2026-10-12T13:45:55Z",
+    "url": "https://github.com/ContextJet-ai/awesome-llm-observability"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-12T13:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Curated list of open-source LLMOps tools: tracing, evals, AI gateways, guardrails and prompt management. Sorted by stars",
+    "id": "talhaanwarch/awesome-llmops-platforms",
+    "language": "Python",
+    "name": "talhaanwarch/awesome-llmops-platforms",
+    "stars": 34,
+    "updated_at": "2026-10-12T13:45:11Z",
+    "url": "https://github.com/talhaanwarch/awesome-llmops-platforms"
   },
   {
     "description": "OpenTelemetry Instrumentation for AI Observability",
@@ -36,13 +135,22 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
+    "description": "Production-style hybrid RAG for insurance policy Q&A on AWS Bedrock + OpenSearch: cited answers, PHI redaction, guardrai",
+    "id": "c-kiplimo/insurance-rag-bedrock",
+    "language": "Python",
+    "name": "c-kiplimo/insurance-rag-bedrock",
+    "stars": 0,
+    "updated_at": "2026-10-12T13:42:11Z",
+    "url": "https://github.com/c-kiplimo/insurance-rag-bedrock"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
     "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35691,
-    "updated_at": "2026-10-12T13:45:08Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "name": "promptfoo/promptfoo",
+    "stars": 25930,
+    "updated_at": "2026-10-12T13:41:26Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
@@ -59,35 +167,17 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30505,
-    "updated_at": "2026-10-12T13:43:47Z",
+    "updated_at": "2026-10-12T13:49:41Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-12T13:36:46Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
     "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 8595,
-    "updated_at": "2026-10-12T13:36:06Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Client packages for AER: the flight recorder for AI agents",
-    "id": "Ad-Astra-Computing/aer",
-    "language": "TypeScript",
-    "name": "Ad-Astra-Computing/aer",
-    "stars": 0,
-    "updated_at": "2026-10-12T13:37:06Z",
-    "url": "https://github.com/Ad-Astra-Computing/aer"
+    "name": "Arize-ai/phoenix",
+    "stars": 11807,
+    "updated_at": "2026-10-12T13:37:56Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
@@ -117,30 +207,12 @@
     "url": "https://github.com/valteresj2/agent-hangar"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25928,
-    "updated_at": "2026-10-12T13:41:26Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-12T13:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8722,
-    "updated_at": "2026-10-12T13:45:15Z",
+    "updated_at": "2026-10-12T13:57:43Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -148,7 +220,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 61054,
+    "stars": 61055,
     "updated_at": "2026-10-12T13:29:21Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -158,7 +230,7 @@
     "language": "Python",
     "name": "digline/digline",
     "stars": 8,
-    "updated_at": "2026-10-12T13:26:32Z",
+    "updated_at": "2026-10-12T13:57:31Z",
     "url": "https://github.com/digline/digline"
   },
   {
@@ -239,7 +311,7 @@
     "language": "TypeScript",
     "name": "burakdede/lorepack",
     "stars": 3,
-    "updated_at": "2026-10-12T13:23:54Z",
+    "updated_at": "2026-10-12T13:48:46Z",
     "url": "https://github.com/burakdede/lorepack"
   },
   {
@@ -257,7 +329,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 184,
-    "updated_at": "2026-10-12T13:45:03Z",
+    "updated_at": "2026-10-12T13:56:54Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -302,7 +374,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-12T13:39:50Z",
+    "updated_at": "2026-10-12T13:55:58Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -356,7 +428,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 2142,
-    "updated_at": "2026-10-12T13:44:38Z",
+    "updated_at": "2026-10-12T13:53:34Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-12T13:01:29Z",
     "url": "https://github.com/kelvran/gateway"
-  },
-  {
-    "description": "Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking,",
-    "id": "ydavidcm9-wq/vigil",
-    "language": "JavaScript",
-    "name": "ydavidcm9-wq/vigil",
-    "stars": 0,
-    "updated_at": "2026-10-12T12:59:40Z",
-    "url": "https://github.com/ydavidcm9-wq/vigil"
-  },
-  {
-    "description": "Count tokens and estimate API costs for large language models with a lightweight, single-header C++ library from the llm",
-    "id": "islaagnet27/llm-cost",
-    "language": "C++",
-    "name": "islaagnet27/llm-cost",
-    "stars": 1,
-    "updated_at": "2026-10-12T12:59:28Z",
-    "url": "https://github.com/islaagnet27/llm-cost"
-  },
-  {
-    "description": "Self-hosted LLM gateway in Rust: one OpenAI-compatible API for OpenAI, Anthropic, Gemini, Azure, Ollama and more, with v",
-    "id": "rustrak/llmtrack",
-    "language": "Rust",
-    "name": "rustrak/llmtrack",
-    "stars": 1,
-    "updated_at": "2026-10-12T12:57:51Z",
-    "url": "https://github.com/rustrak/llmtrack"
-  },
-  {
-    "description": "Out-Of-Tree Llama Stack Eval Provider for Red Teaming LLM Systems with Garak",
-    "id": "trustyai-explainability/llama-stack-provider-trustyai-garak",
-    "language": "Python",
-    "name": "trustyai-explainability/llama-stack-provider-trustyai-garak",
-    "stars": 3,
-    "updated_at": "2026-10-12T13:39:30Z",
-    "url": "https://github.com/trustyai-explainability/llama-stack-provider-trustyai-garak"
-  },
-  {
-    "description": "cubestudio\u5f00\u6e90\u4e91\u539f\u751f\u4e00\u7ad9\u5f0f\u673a\u5668\u5b66\u4e60/\u6df1\u5ea6\u5b66\u4e60/\u5927\u6a21\u578bAI\u5e73\u53f0/MaaS/mlops/\u4eba\u5de5\u667a\u80fd\u5e73\u53f0/\u8bad\u63a8\u5e73\u53f0\uff0c\u7b97\u6cd5\u5168\u94fe\u8def\u6d41\u7a0b\uff0c\u591a\u79df\u6237\uff0c\u7b97\u529b\u79df\u8d41\u5e73\u53f0\uff0ctoken\u4e2d\u8f6c\uff0c\u62d6\u62c9\u62fd\u4efb\u52a1\u6d41pipeline\u7f16\u6392\uff0c\u591a\u673a\u591a\u5361\u5206\u5e03\u5f0f\u8bad\u7ec3\uff0c\u8d85\u53c2\u641c\u7d22\uff0c\u63a8\u7406",
-    "id": "data-infra/cube-studio",
-    "language": "Python",
-    "name": "data-infra/cube-studio",
-    "stars": 2550,
-    "updated_at": "2026-10-12T12:57:12Z",
-    "url": "https://github.com/data-infra/cube-studio"
-  },
-  {
-    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-10-12T12:55:20Z",
-    "url": "https://github.com/veerarakesh56/warden"
-  },
-  {
-    "description": "ClearML - Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data Management, Pipeline, Orchestra",
-    "id": "clearml/clearml",
-    "language": "Python",
-    "name": "clearml/clearml",
-    "stars": 6902,
-    "updated_at": "2026-10-12T12:54:10Z",
-    "url": "https://github.com/clearml/clearml"
-  },
-  {
-    "description": "The platform for continuously improving AI agents.",
-    "id": "overmind-core/overmind",
-    "language": "Python",
-    "name": "overmind-core/overmind",
-    "stars": 633,
-    "updated_at": "2026-10-12T12:54:03Z",
-    "url": "https://github.com/overmind-core/overmind"
   }
 ]
