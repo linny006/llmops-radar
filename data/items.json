@@ -1,11 +1,101 @@
 [
   {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-10-12T12:00:14Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-12T11:56:37Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22526,
+    "updated_at": "2026-10-12T11:56:09Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 397,
+    "updated_at": "2026-10-12T11:54:49Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "LLM agent that diagnoses Kubernetes problems with read-only kubectl tools, a ReAct loop and evals",
+    "id": "arthuersundar/k8s-troubleshooting-agent",
+    "language": "Python",
+    "name": "arthuersundar/k8s-troubleshooting-agent",
+    "stars": 0,
+    "updated_at": "2026-10-12T11:52:11Z",
+    "url": "https://github.com/arthuersundar/k8s-troubleshooting-agent"
+  },
+  {
+    "description": "RAG assistant over the Kubernetes docs, deployed on Kubernetes with Helm, pgvector, Ollama and automated evals",
+    "id": "arthuersundar/rag-platform",
+    "language": "Python",
+    "name": "arthuersundar/rag-platform",
+    "stars": 0,
+    "updated_at": "2026-10-12T11:52:05Z",
+    "url": "https://github.com/arthuersundar/rag-platform"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2955,
+    "updated_at": "2026-10-12T11:52:51Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "AgentFox: open-source control plane for AI agents. Guardrails on model traffic, tool calls bounded by capability grants,",
+    "id": "architsharm/agentfox",
+    "language": "Python",
+    "name": "architsharm/agentfox",
+    "stars": 3,
+    "updated_at": "2026-10-12T12:00:31Z",
+    "url": "https://github.com/architsharm/agentfox"
+  },
+  {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-10-12T11:49:56Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-12T11:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O",
     "id": "kelvran/gateway",
     "language": "Go",
     "name": "kelvran/gateway",
     "stars": 0,
-    "updated_at": "2026-10-12T11:44:35Z",
+    "updated_at": "2026-10-12T11:45:55Z",
     "url": "https://github.com/kelvran/gateway"
   },
   {
@@ -18,22 +108,13 @@
     "url": "https://github.com/arthuersundar/vllm-gpu-k8s"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22525,
-    "updated_at": "2026-10-12T11:44:58Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-12T11:41:25Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25929,
+    "updated_at": "2026-10-12T11:41:40Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Ollama fleet operations patterns: running local LLM fleets \u2014 model management & manifest sync, fleet health checks, load",
@@ -43,33 +124,6 @@
     "stars": 0,
     "updated_at": "2026-10-12T11:41:16Z",
     "url": "https://github.com/ZQM-Computing/ollama-fleet-patterns"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-10-12T11:41:16Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-10-12T11:40:39Z",
-    "url": "https://github.com/veerarakesh56/warden"
-  },
-  {
-    "description": "AgentFox: open-source control plane for AI agents. Guardrails on model traffic, tool calls bounded by capability grants,",
-    "id": "architsharm/agentfox",
-    "language": "Python",
-    "name": "architsharm/agentfox",
-    "stars": 3,
-    "updated_at": "2026-10-12T11:40:38Z",
-    "url": "https://github.com/architsharm/agentfox"
   },
   {
     "description": "ClearML Agent - MLOps/LLMOps made easy. MLOps/LLMOps scheduler & orchestration solution",
@@ -86,7 +140,7 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8721,
-    "updated_at": "2026-10-12T11:43:40Z",
+    "updated_at": "2026-10-12T12:00:29Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -104,17 +158,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 35688,
-    "updated_at": "2026-10-12T11:37:39Z",
+    "updated_at": "2026-10-12T11:46:36Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2955,
-    "updated_at": "2026-10-12T11:37:06Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Next.js dashboard for AgentCost: spend by agent, workflow and model, with budget guardrails.",
@@ -144,6 +189,15 @@
     "url": "https://github.com/MongLong0214/jev-gate"
   },
   {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8863,
+    "updated_at": "2026-10-12T11:33:53Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
     "description": "\u9876\u7ea7\u5ba1\u7f8e\u7684\u4e2a\u4eba\u535a\u5ba2\uff01\uff01\uff01\u5199\u4e00\u4e9b\u5173\u4e8e AI\u3001Agent\u3001\u6280\u672f\u3001\u4ea7\u54c1\u3001\u8425\u9500\u3001\u4e00\u4e9b\u751f\u6d3b\u601d\u8003\uff0c\u4e2a\u4eba\u6210\u957f\u7c7b\u7684\u7cbe\u6587",
     "id": "cubxxw/blog",
     "language": "JavaScript",
@@ -167,24 +221,15 @@
     "language": "Python",
     "name": "radicalbit/radicalbit-ai-gateway",
     "stars": 71,
-    "updated_at": "2026-10-12T11:30:52Z",
+    "updated_at": "2026-10-12T11:53:46Z",
     "url": "https://github.com/radicalbit/radicalbit-ai-gateway"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-12T11:30:39Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 61046,
+    "stars": 61048,
     "updated_at": "2026-10-12T11:30:20Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -221,7 +266,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 184,
-    "updated_at": "2026-10-12T11:29:27Z",
+    "updated_at": "2026-10-12T11:56:32Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -239,7 +284,7 @@
     "language": "Python",
     "name": "GetSHIM/shim",
     "stars": 8,
-    "updated_at": "2026-10-12T11:21:26Z",
+    "updated_at": "2026-10-12T11:59:33Z",
     "url": "https://github.com/GetSHIM/shim"
   },
   {
@@ -284,7 +329,7 @@
     "language": "Rust",
     "name": "TAIPANBOX/tokenfuse",
     "stars": 1,
-    "updated_at": "2026-10-12T11:35:26Z",
+    "updated_at": "2026-10-12T11:57:25Z",
     "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
@@ -383,7 +428,7 @@
     "language": "Python",
     "name": "dynamiq-ai/dynamiq",
     "stars": 1071,
-    "updated_at": "2026-10-12T11:44:54Z",
+    "updated_at": "2026-10-12T11:53:49Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-12T10:41:01Z",
     "url": "https://github.com/runcycles/cycles-docs"
-  },
-  {
-    "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
-    "id": "ZIZKA-AI-SL/ZizkaDB",
-    "language": "Python",
-    "name": "ZIZKA-AI-SL/ZizkaDB",
-    "stars": 129,
-    "updated_at": "2026-10-12T10:45:28Z",
-    "url": "https://github.com/ZIZKA-AI-SL/ZizkaDB"
-  },
-  {
-    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4939,
-    "updated_at": "2026-10-12T11:26:45Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 30,
-    "updated_at": "2026-10-12T10:34:24Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25928,
-    "updated_at": "2026-10-12T11:41:40Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Genaryx: the browser control room over the TAIPANBOX agent-governance stack. Money, policy, identity, quality, crypto, m",
-    "id": "TAIPANBOX/genaryx",
-    "language": "Rust",
-    "name": "TAIPANBOX/genaryx",
-    "stars": 0,
-    "updated_at": "2026-10-12T10:22:43Z",
-    "url": "https://github.com/TAIPANBOX/genaryx"
   }
 ]
