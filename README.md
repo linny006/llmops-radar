@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-12 19:00 UTC
+> ⏰ Last updated: 2026-10-12 19:01 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,29 +42,29 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [urellai22/Claude-Red](https://github.com/urellai22/Claude-Red) | 0 | Python | 2026-10-12 | Turn Claude into a context-aware red team operator with 78 drop-in offensive security skills across 23 categories. |
-| 2 | [ihabkhaled/ClawAI](https://github.com/ihabkhaled/ClawAI) | 23 | TypeScript | 2026-10-12 | Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers. |
-| 3 | [pom11/hscc](https://github.com/pom11/hscc) | 7 | Python | 2026-10-12 | Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents — cluster control, role-specialized worke |
-| 4 | [justanotheruser82174/cua-lite](https://github.com/justanotheruser82174/cua-lite) | 0 | Python | 2026-10-12 | Standardize computer-use agents, sandboxes, data, evaluation, SFT, and RL across desktop, browser, and mobile with one u |
-| 5 | [Satisfiable-polopony613/EVIE-Preview-4.5B](https://github.com/Satisfiable-polopony613/EVIE-Preview-4.5B) | 2 | Python | 2026-10-12 | Retrieve multilingual visual documents with ultra-compact token embeddings from this Qwen3.5-4B-powered ColPali engine. |
-| 6 | [ashrafb8962/agentic-ops-and-rag](https://github.com/ashrafb8962/agentic-ops-and-rag) | 0 | Jupyter Notebook | 2026-10-12 | Build and evaluate production-ready RAG pipelines with hands-on notebooks, templates, and proven performance strategies. |
-| 7 | [brutal-45/Nexus-LLM](https://github.com/brutal-45/Nexus-LLM) | 0 | Python | 2026-10-12 | Nexus-LLM is LLM ai model which can run locally on your device. |
-| 8 | [sargentfragrant429/AgentAccessManager](https://github.com/sargentfragrant429/AgentAccessManager) | 0 | — | 2026-10-12 | Manage AI model access with a secure gateway featuring load balancing, rate limiting, and audit trails for OpenAI, Groq, |
-| 9 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 9 | Go | 2026-10-12 | Open Source software factory. |
-| 10 | [prasad-kavuri/prasad-portfolio](https://github.com/prasad-kavuri/prasad-portfolio) | 0 | TypeScript | 2026-10-12 | VP / Head of AI Engineering portfolio — 14 production AI demos, governance-first architecture. prasadkavuri.com |
-| 11 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 4941 | TypeScript | 2026-10-12 | Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist |
-| 12 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 8613 | Python | 2026-10-12 | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
-| 13 | [a-novel/service-genai](https://github.com/a-novel/service-genai) | 1 | Go | 2026-10-12 | Durable execution for AI provider calls: crash-safe, idempotent and pollable. |
-| 14 | [Guruexpl8276/LLM_Inference_Lab](https://github.com/Guruexpl8276/LLM_Inference_Lab) | 0 | Python | 2026-10-12 | Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol |
-| 15 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 41 | Go | 2026-10-12 | Agentic Runtime |
-| 16 | [valteresj2/agent-hangar](https://github.com/valteresj2/agent-hangar) | 3 | Python | 2026-10-12 | One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod |
-| 17 | [Fauniethermal3522/agentic-dart](https://github.com/Fauniethermal3522/agentic-dart) | 1 | Python | 2026-10-12 | Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks. |
-| 18 | [SourceShift/mini-ork](https://github.com/SourceShift/mini-ork) | 30 | Python | 2026-10-12 | Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack |
-| 19 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 61072 | Python | 2026-10-12 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 20 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 8 | Rust | 2026-10-12 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
-| 21 | [retardingforcerightbank635/dm-gateway-bot](https://github.com/retardingforcerightbank635/dm-gateway-bot) | 0 | Python | 2026-10-12 | Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k |
-| 22 | [GetSHIM/shim](https://github.com/GetSHIM/shim) | 8 | Python | 2026-10-12 | AI trust-boundary gateway for OpenAI, Anthropic, and Gemini. |
-| 23 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-12 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [brutal-45/Nexus-LLM](https://github.com/brutal-45/Nexus-LLM) | 0 | Python | 2026-10-12 | Nexus-LLM is LLM ai model which can run locally on your device. |
+| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-12 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 3 | [urellai22/Claude-Red](https://github.com/urellai22/Claude-Red) | 0 | Python | 2026-10-12 | Turn Claude into a context-aware red team operator with 78 drop-in offensive security skills across 23 categories. |
+| 4 | [ihabkhaled/ClawAI](https://github.com/ihabkhaled/ClawAI) | 23 | TypeScript | 2026-10-12 | Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers. |
+| 5 | [pom11/hscc](https://github.com/pom11/hscc) | 7 | Python | 2026-10-12 | Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents — cluster control, role-specialized worke |
+| 6 | [justanotheruser82174/cua-lite](https://github.com/justanotheruser82174/cua-lite) | 0 | Python | 2026-10-12 | Standardize computer-use agents, sandboxes, data, evaluation, SFT, and RL across desktop, browser, and mobile with one u |
+| 7 | [Satisfiable-polopony613/EVIE-Preview-4.5B](https://github.com/Satisfiable-polopony613/EVIE-Preview-4.5B) | 2 | Python | 2026-10-12 | Retrieve multilingual visual documents with ultra-compact token embeddings from this Qwen3.5-4B-powered ColPali engine. |
+| 8 | [ashrafb8962/agentic-ops-and-rag](https://github.com/ashrafb8962/agentic-ops-and-rag) | 0 | Jupyter Notebook | 2026-10-12 | Build and evaluate production-ready RAG pipelines with hands-on notebooks, templates, and proven performance strategies. |
+| 9 | [sargentfragrant429/AgentAccessManager](https://github.com/sargentfragrant429/AgentAccessManager) | 0 | — | 2026-10-12 | Manage AI model access with a secure gateway featuring load balancing, rate limiting, and audit trails for OpenAI, Groq, |
+| 10 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 9 | Go | 2026-10-12 | Open Source software factory. |
+| 11 | [prasad-kavuri/prasad-portfolio](https://github.com/prasad-kavuri/prasad-portfolio) | 0 | TypeScript | 2026-10-12 | VP / Head of AI Engineering portfolio — 14 production AI demos, governance-first architecture. prasadkavuri.com |
+| 12 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 4941 | TypeScript | 2026-10-12 | Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist |
+| 13 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 8613 | Python | 2026-10-12 | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
+| 14 | [a-novel/service-genai](https://github.com/a-novel/service-genai) | 1 | Go | 2026-10-12 | Durable execution for AI provider calls: crash-safe, idempotent and pollable. |
+| 15 | [Guruexpl8276/LLM_Inference_Lab](https://github.com/Guruexpl8276/LLM_Inference_Lab) | 0 | Python | 2026-10-12 | Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol |
+| 16 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 41 | Go | 2026-10-12 | Agentic Runtime |
+| 17 | [valteresj2/agent-hangar](https://github.com/valteresj2/agent-hangar) | 3 | Python | 2026-10-12 | One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod |
+| 18 | [Fauniethermal3522/agentic-dart](https://github.com/Fauniethermal3522/agentic-dart) | 1 | Python | 2026-10-12 | Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks. |
+| 19 | [SourceShift/mini-ork](https://github.com/SourceShift/mini-ork) | 30 | Python | 2026-10-12 | Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack |
+| 20 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 61072 | Python | 2026-10-12 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 21 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 8 | Rust | 2026-10-12 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
+| 22 | [retardingforcerightbank635/dm-gateway-bot](https://github.com/retardingforcerightbank635/dm-gateway-bot) | 0 | Python | 2026-10-12 | Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k |
+| 23 | [GetSHIM/shim](https://github.com/GetSHIM/shim) | 8 | Python | 2026-10-12 | AI trust-boundary gateway for OpenAI, Anthropic, and Gemini. |
 | 24 | [Kokotpica/muse2api](https://github.com/Kokotpica/muse2api) | 2 | Python | 2026-10-12 | Expose muse.ai as a drop-in OpenAI-compatible API with an async FastAPI gateway for seamless integration. |
 | 25 | [wordenneapolitan768/llm-pricing](https://github.com/wordenneapolitan768/llm-pricing) | 1 | — | 2026-10-12 | Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards |
 | 26 | [OpenMachine-ai/transformer-tricks](https://github.com/OpenMachine-ai/transformer-tricks) | 233 | TeX | 2026-10-12 | A collection of tricks and tools to speed up transformer models |
