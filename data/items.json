@@ -1,12 +1,48 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61084,
+    "updated_at": "2026-10-12T21:59:22Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Production-ready platform for evaluating LLM applications with quality, reliability, safety, latency, token usage, and c",
+    "id": "Lazaro549/ai-evaluation-platform",
+    "language": "TypeScript",
+    "name": "Lazaro549/ai-evaluation-platform",
+    "stars": 1,
+    "updated_at": "2026-10-12T21:53:19Z",
+    "url": "https://github.com/Lazaro549/ai-evaluation-platform"
+  },
+  {
+    "description": "Does your LLM telemetry tell the truth? Replays provider responses through LLM instrumentation libraries and checks ever",
+    "id": "Plexito-de/spantruth",
+    "language": "Python",
+    "name": "Plexito-de/spantruth",
+    "stars": 2,
+    "updated_at": "2026-10-12T21:51:19Z",
+    "url": "https://github.com/Plexito-de/spantruth"
+  },
+  {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 35713,
-    "updated_at": "2026-10-12T21:43:16Z",
+    "updated_at": "2026-10-12T21:47:05Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-12T21:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
@@ -41,17 +77,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11809,
-    "updated_at": "2026-10-12T21:35:19Z",
+    "updated_at": "2026-10-12T21:55:46Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Does your LLM telemetry tell the truth? Replays provider responses through LLM instrumentation libraries and checks ever",
-    "id": "Plexito-de/spantruth",
-    "language": "Python",
-    "name": "Plexito-de/spantruth",
-    "stars": 2,
-    "updated_at": "2026-10-12T21:33:40Z",
-    "url": "https://github.com/Plexito-de/spantruth"
   },
   {
     "description": "Field guide: shipping an autonomous AI workflow to production - architecture, reliability, observability, cost engineeri",
@@ -61,24 +88,6 @@
     "stars": 0,
     "updated_at": "2026-10-12T21:32:57Z",
     "url": "https://github.com/TechNaom/autonomous-ai-workflow-field-guide"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61083,
-    "updated_at": "2026-10-12T21:42:45Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-12T21:30:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "LLM gateway with guardrails, cost-aware routing (rules \u00b7 Jev \u00b7 open-source SLMs \u00b7 frontier APIs), and automated evaluati",
@@ -95,7 +104,7 @@
     "language": "Python",
     "name": "Arize-ai/openinference",
     "stars": 1260,
-    "updated_at": "2026-10-12T21:26:50Z",
+    "updated_at": "2026-10-12T21:47:43Z",
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
@@ -113,7 +122,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-12T21:24:29Z",
+    "updated_at": "2026-10-12T21:47:22Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -139,7 +148,7 @@
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
-    "stars": 8729,
+    "stars": 8730,
     "updated_at": "2026-10-12T21:18:18Z",
     "url": "https://github.com/maximhq/bifrost"
   },
@@ -257,7 +266,7 @@
     "language": "Rust",
     "name": "TAIPANBOX/tokenfuse",
     "stars": 1,
-    "updated_at": "2026-10-12T20:52:36Z",
+    "updated_at": "2026-10-12T21:51:01Z",
     "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
@@ -311,7 +320,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25942,
-    "updated_at": "2026-10-12T21:44:41Z",
+    "updated_at": "2026-10-12T21:59:00Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -347,7 +356,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-10-12T21:38:47Z",
+    "updated_at": "2026-10-12T21:56:46Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-12T20:29:00Z",
     "url": "https://github.com/GaBySuGy/agent-guardrails"
-  },
-  {
-    "description": "\ud83d\udd0d Explore the shift from MLOps to LLMOps with materials that simplify AI deployment and enhance document intelligence.",
-    "id": "Farukul-Islam/from-mlops-to-llmops",
-    "language": "PHP",
-    "name": "Farukul-Islam/from-mlops-to-llmops",
-    "stars": 0,
-    "updated_at": "2026-10-12T20:27:38Z",
-    "url": "https://github.com/Farukul-Islam/from-mlops-to-llmops"
   }
 ]
