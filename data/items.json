@@ -4,9 +4,99 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 35680,
-    "updated_at": "2026-10-12T08:14:19Z",
+    "stars": 35681,
+    "updated_at": "2026-10-12T08:28:25Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Deprecated historical repo. Superlinked now develops SIE, a self-hosted inference engine for embeddings, reranking, OCR,",
+    "id": "superlinked/VectorHub",
+    "language": "Jupyter Notebook",
+    "name": "superlinked/VectorHub",
+    "stars": 531,
+    "updated_at": "2026-10-12T08:26:29Z",
+    "url": "https://github.com/superlinked/VectorHub"
+  },
+  {
+    "description": "Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O",
+    "id": "kelvran/gateway",
+    "language": "Go",
+    "name": "kelvran/gateway",
+    "stars": 0,
+    "updated_at": "2026-10-12T08:24:05Z",
+    "url": "https://github.com/kelvran/gateway"
+  },
+  {
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
+    "stars": 1,
+    "updated_at": "2026-10-12T08:21:54Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 30,
+    "updated_at": "2026-10-12T08:21:03Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Dark Gravity LLMOps Standard: ISO/IEC/IEEE 42010 agent observability, prompt lineage, and runtime guardrails for autonom",
+    "id": "lgcorzo/llmops-python-package",
+    "language": "Jupyter Notebook",
+    "name": "lgcorzo/llmops-python-package",
+    "stars": 1,
+    "updated_at": "2026-10-12T08:19:54Z",
+    "url": "https://github.com/lgcorzo/llmops-python-package"
+  },
+  {
+    "description": "Open-source enterprise AI governance and runtime oversight platform for policy, approvals, audit, telemetry, and inciden",
+    "id": "RevanthMeda/Enterprise-AI-Governance",
+    "language": "TypeScript",
+    "name": "RevanthMeda/Enterprise-AI-Governance",
+    "stars": 1,
+    "updated_at": "2026-10-12T08:19:27Z",
+    "url": "https://github.com/RevanthMeda/Enterprise-AI-Governance"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25918,
+    "updated_at": "2026-10-12T08:17:17Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61021,
+    "updated_at": "2026-10-12T08:16:06Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Turn Claude into a context-aware red team operator with 78 drop-in offensive security skills across 23 categories.",
+    "id": "urellai22/Claude-Red",
+    "language": "Python",
+    "name": "urellai22/Claude-Red",
+    "stars": 0,
+    "updated_at": "2026-10-12T08:15:46Z",
+    "url": "https://github.com/urellai22/Claude-Red"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-12T08:15:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
@@ -14,17 +104,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4937,
-    "updated_at": "2026-10-12T08:13:53Z",
+    "updated_at": "2026-10-12T08:26:41Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61016,
-    "updated_at": "2026-10-12T08:13:18Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Retrieve multilingual visual documents with ultra-compact token embeddings from this Qwen3.5-4B-powered ColPali engine.",
@@ -68,7 +149,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 95,
-    "updated_at": "2026-10-12T08:11:31Z",
+    "updated_at": "2026-10-12T08:25:26Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -90,6 +171,15 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
+    "description": "The platform for continuously improving AI agents.",
+    "id": "overmind-core/overmind",
+    "language": "Python",
+    "name": "overmind-core/overmind",
+    "stars": 625,
+    "updated_at": "2026-10-12T08:06:23Z",
+    "url": "https://github.com/overmind-core/overmind"
+  },
+  {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
     "id": "Guruexpl8276/LLM_Inference_Lab",
     "language": "Python",
@@ -97,24 +187,6 @@
     "stars": 0,
     "updated_at": "2026-10-12T08:02:00Z",
     "url": "https://github.com/Guruexpl8276/LLM_Inference_Lab"
-  },
-  {
-    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
-    "id": "TAIPANBOX/tokenfuse",
-    "language": "Rust",
-    "name": "TAIPANBOX/tokenfuse",
-    "stars": 1,
-    "updated_at": "2026-10-12T08:03:17Z",
-    "url": "https://github.com/TAIPANBOX/tokenfuse"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-12T08:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Automate digital forensics and incident response tasks using an autonomous agent aligned with MITRE ATT&CK frameworks.",
@@ -131,17 +203,8 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8715,
-    "updated_at": "2026-10-12T08:11:19Z",
+    "updated_at": "2026-10-12T08:28:45Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25917,
-    "updated_at": "2026-10-12T07:59:59Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Agent and LLM API performance monitoring via network packet probe. Measures performance of OpenClaw, Claude, Codex, Deep",
@@ -149,7 +212,7 @@
     "language": "Rust",
     "name": "Netis/heron",
     "stars": 103,
-    "updated_at": "2026-10-12T07:59:07Z",
+    "updated_at": "2026-10-12T08:15:36Z",
     "url": "https://github.com/Netis/heron"
   },
   {
@@ -167,7 +230,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 517,
-    "updated_at": "2026-10-12T08:13:04Z",
+    "updated_at": "2026-10-12T08:24:27Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -257,7 +320,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28348,
-    "updated_at": "2026-10-12T07:51:41Z",
+    "updated_at": "2026-10-12T08:19:50Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -268,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-10-12T07:49:13Z",
     "url": "https://github.com/toxicwind/ranch"
-  },
-  {
-    "description": "Open-source enterprise AI governance and runtime oversight platform for policy, approvals, audit, telemetry, and inciden",
-    "id": "RevanthMeda/Enterprise-AI-Governance",
-    "language": "TypeScript",
-    "name": "RevanthMeda/Enterprise-AI-Governance",
-    "stars": 1,
-    "updated_at": "2026-10-12T08:12:57Z",
-    "url": "https://github.com/RevanthMeda/Enterprise-AI-Governance"
   },
   {
     "description": "Eval gates for agentic coding: block prompt, model and context builder changes in CI until an LLM eval of that exact cha",
@@ -394,59 +448,5 @@
     "stars": 42,
     "updated_at": "2026-10-12T07:37:00Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "Guardrails for speech-to-text in production: catches the AI's confident mistakes before a client sees them, and removes ",
-    "id": "Guillain-RDCDE/Trusted-Transcription",
-    "language": "Python",
-    "name": "Guillain-RDCDE/Trusted-Transcription",
-    "stars": 0,
-    "updated_at": "2026-10-12T07:28:04Z",
-    "url": "https://github.com/Guillain-RDCDE/Trusted-Transcription"
-  },
-  {
-    "description": "Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O",
-    "id": "kelvran/gateway",
-    "language": "Go",
-    "name": "kelvran/gateway",
-    "stars": 0,
-    "updated_at": "2026-10-12T07:27:43Z",
-    "url": "https://github.com/kelvran/gateway"
-  },
-  {
-    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
-    "id": "Lo3okSky/LLM_course",
-    "language": "Jupyter Notebook",
-    "name": "Lo3okSky/LLM_course",
-    "stars": 3,
-    "updated_at": "2026-10-12T07:24:50Z",
-    "url": "https://github.com/Lo3okSky/LLM_course"
-  },
-  {
-    "description": "Open-source platform for building multi-agent systems. Compose agents into pipelines, give them knowledge search, sandbo",
-    "id": "sarkar4777/abenix",
-    "language": "Python",
-    "name": "sarkar4777/abenix",
-    "stars": 0,
-    "updated_at": "2026-10-12T07:24:46Z",
-    "url": "https://github.com/sarkar4777/abenix"
-  },
-  {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "Python",
-    "name": "dataelement/bisheng",
-    "stars": 12036,
-    "updated_at": "2026-10-12T07:45:56Z",
-    "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "Enable NVIDIA Smooth Motion on RTX 30-series GPUs with this clean-room compatibility layer for NvPresent64.dll.",
-    "id": "titanium0202/NVSmooth30",
-    "language": "C++",
-    "name": "titanium0202/NVSmooth30",
-    "stars": 1,
-    "updated_at": "2026-10-12T07:22:57Z",
-    "url": "https://github.com/titanium0202/NVSmooth30"
   }
 ]
