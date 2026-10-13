@@ -1,12 +1,75 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61158,
+    "updated_at": "2026-10-13T18:14:37Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Genaryx: the browser control room over the TAIPANBOX agent-governance stack. Money, policy, identity, quality, crypto, m",
+    "id": "TAIPANBOX/genaryx",
+    "language": "Rust",
+    "name": "TAIPANBOX/genaryx",
+    "stars": 0,
+    "updated_at": "2026-10-13T18:12:55Z",
+    "url": "https://github.com/TAIPANBOX/genaryx"
+  },
+  {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
     "id": "pom11/hscc",
     "language": "Python",
     "name": "pom11/hscc",
     "stars": 7,
-    "updated_at": "2026-10-13T18:00:04Z",
+    "updated_at": "2026-10-13T18:09:01Z",
     "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 519,
+    "updated_at": "2026-10-13T18:10:44Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Mide y frena el gasto de tokens de tu flota de agentes (Claude Code, Codex, OpenCode): panel, app de barra de menus y re",
+    "id": "yosnap/codeia-cost-guard",
+    "language": "Python",
+    "name": "yosnap/codeia-cost-guard",
+    "stars": 4,
+    "updated_at": "2026-10-13T18:05:19Z",
+    "url": "https://github.com/yosnap/codeia-cost-guard"
+  },
+  {
+    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
+    "id": "iblai/os",
+    "language": "TypeScript",
+    "name": "iblai/os",
+    "stars": 805,
+    "updated_at": "2026-10-13T18:11:59Z",
+    "url": "https://github.com/iblai/os"
+  },
+  {
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
+    "stars": 1,
+    "updated_at": "2026-10-13T18:08:23Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-13T18:00:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
@@ -14,7 +77,7 @@
     "language": "Python",
     "name": "dynamiq-ai/dynamiq",
     "stars": 1071,
-    "updated_at": "2026-10-13T17:57:04Z",
+    "updated_at": "2026-10-13T18:03:30Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
@@ -54,15 +117,6 @@
     "url": "https://github.com/langfuse/langfuse"
   },
   {
-    "description": "Genaryx: the browser control room over the TAIPANBOX agent-governance stack. Money, policy, identity, quality, crypto, m",
-    "id": "TAIPANBOX/genaryx",
-    "language": "Rust",
-    "name": "TAIPANBOX/genaryx",
-    "stars": 0,
-    "updated_at": "2026-10-13T17:59:35Z",
-    "url": "https://github.com/TAIPANBOX/genaryx"
-  },
-  {
     "description": "Open-source, self-hosted AI platform for teams. Run private AI chat, manage Ray/vLLM GPU clusters, and connect apps and ",
     "id": "fadenstack/fadenstack",
     "language": "Python",
@@ -81,29 +135,11 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-13T17:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61159,
-    "updated_at": "2026-10-13T17:57:21Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25967,
+    "stars": 25968,
     "updated_at": "2026-10-13T17:39:46Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -126,15 +162,6 @@
     "url": "https://github.com/abdullahimohamed101/agent-black-box"
   },
   {
-    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
-    "id": "TAIPANBOX/tokenfuse",
-    "language": "Rust",
-    "name": "TAIPANBOX/tokenfuse",
-    "stars": 1,
-    "updated_at": "2026-10-13T17:44:38Z",
-    "url": "https://github.com/TAIPANBOX/tokenfuse"
-  },
-  {
     "description": "Ollama fleet operations patterns: running local LLM fleets \u2014 model management & manifest sync, fleet health checks, load",
     "id": "ZQM-Computing/ollama-fleet-patterns",
     "language": "Python",
@@ -142,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-10-13T17:27:27Z",
     "url": "https://github.com/ZQM-Computing/ollama-fleet-patterns"
-  },
-  {
-    "description": "Mide y frena el gasto de tokens de tu flota de agentes (Claude Code, Codex, OpenCode): panel, app de barra de menus y re",
-    "id": "yosnap/codeia-cost-guard",
-    "language": "Python",
-    "name": "yosnap/codeia-cost-guard",
-    "stars": 4,
-    "updated_at": "2026-10-13T17:27:21Z",
-    "url": "https://github.com/yosnap/codeia-cost-guard"
   },
   {
     "description": "The platform for continuously improving AI agents.",
@@ -167,7 +185,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 105,
-    "updated_at": "2026-10-13T17:50:38Z",
+    "updated_at": "2026-10-13T18:11:28Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -194,7 +212,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-13T17:54:16Z",
+    "updated_at": "2026-10-13T18:08:50Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -266,7 +284,7 @@
     "language": "TypeScript",
     "name": "crewhaus/factory",
     "stars": 3,
-    "updated_at": "2026-10-13T17:36:49Z",
+    "updated_at": "2026-10-13T18:14:04Z",
     "url": "https://github.com/crewhaus/factory"
   },
   {
@@ -277,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-10-13T17:02:16Z",
     "url": "https://github.com/Ad-Astra-Computing/aer"
-  },
-  {
-    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
-    "id": "iblai/os",
-    "language": "TypeScript",
-    "name": "iblai/os",
-    "stars": 805,
-    "updated_at": "2026-10-13T17:34:18Z",
-    "url": "https://github.com/iblai/os"
   },
   {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
@@ -364,7 +373,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 22569,
+    "stars": 22570,
     "updated_at": "2026-10-13T16:36:12Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -401,7 +410,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1361,
-    "updated_at": "2026-10-13T17:53:36Z",
+    "updated_at": "2026-10-13T18:06:35Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2146,
     "updated_at": "2026-10-13T17:44:59Z",
     "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
-    "id": "sauravbhattacharya001/prompt",
-    "language": "C#",
-    "name": "sauravbhattacharya001/prompt",
-    "stars": 1,
-    "updated_at": "2026-10-13T16:04:16Z",
-    "url": "https://github.com/sauravbhattacharya001/prompt"
   }
 ]
