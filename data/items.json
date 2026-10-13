@@ -1,5 +1,41 @@
 [
   {
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
+    "stars": 1,
+    "updated_at": "2026-10-13T23:14:17Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 42,
+    "updated_at": "2026-10-13T23:12:55Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
+    "id": "maks3201/decision-model-operator",
+    "language": "Go",
+    "name": "maks3201/decision-model-operator",
+    "stars": 1,
+    "updated_at": "2026-10-13T23:06:50Z",
+    "url": "https://github.com/maks3201/decision-model-operator"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-13T23:00:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
     "id": "vivek-541/vivek-541",
     "language": "HTML",
@@ -23,7 +59,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61170,
-    "updated_at": "2026-10-13T23:00:21Z",
+    "updated_at": "2026-10-13T23:11:07Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -81,15 +117,6 @@
     "url": "https://github.com/iblai/os"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-13T22:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Self-demonstrating ReDevOps \u00d7 AWS deploy-and-operate demo: one prompt in Projects provisions, secures, monitors and self",
     "id": "redevops-io/redevops-demo",
     "language": "Python",
@@ -113,7 +140,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11824,
-    "updated_at": "2026-10-13T22:37:01Z",
+    "updated_at": "2026-10-13T23:05:08Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -140,7 +167,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 2,
-    "updated_at": "2026-10-13T22:32:37Z",
+    "updated_at": "2026-10-13T23:09:13Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -149,7 +176,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25978,
-    "updated_at": "2026-10-13T22:49:03Z",
+    "updated_at": "2026-10-13T23:04:57Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -169,6 +196,15 @@
     "stars": 1,
     "updated_at": "2026-10-13T22:24:28Z",
     "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "OpenLIT is the open-source agent harness engineering platform: trace, evaluate, guard, and improve everything around the",
+    "id": "openlit/openlit",
+    "language": "TypeScript",
+    "name": "openlit/openlit",
+    "stars": 2848,
+    "updated_at": "2026-10-13T22:15:27Z",
+    "url": "https://github.com/openlit/openlit"
   },
   {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
@@ -194,7 +230,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22580,
-    "updated_at": "2026-10-13T22:58:36Z",
+    "updated_at": "2026-10-13T23:08:14Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -295,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-10-13T22:53:03Z",
     "url": "https://github.com/luetzey/who2be"
-  },
-  {
-    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
-    "id": "TAIPANBOX/tokenfuse",
-    "language": "Rust",
-    "name": "TAIPANBOX/tokenfuse",
-    "stars": 1,
-    "updated_at": "2026-10-13T22:42:48Z",
-    "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
     "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-13T21:06:09Z",
     "url": "https://github.com/ashmedanraj/langfuse-eks-production"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-13T21:06:06Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
-    "id": "sarrahw23/deploy-guide",
-    "language": "\u2014",
-    "name": "sarrahw23/deploy-guide",
-    "stars": 1,
-    "updated_at": "2026-10-13T21:05:56Z",
-    "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
-    "id": "rvhn/rest-gateway-1771918257-5",
-    "language": "\u2014",
-    "name": "rvhn/rest-gateway-1771918257-5",
-    "stars": 0,
-    "updated_at": "2026-10-13T21:04:19Z",
-    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
   }
 ]
