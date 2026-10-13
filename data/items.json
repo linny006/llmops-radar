@@ -1,12 +1,102 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25963,
+    "updated_at": "2026-10-13T16:30:19Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61154,
+    "updated_at": "2026-10-13T16:30:12Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 35767,
-    "updated_at": "2026-10-13T16:15:10Z",
+    "updated_at": "2026-10-13T16:30:00Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Open Source software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-10-13T16:29:54Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 1,
+    "updated_at": "2026-10-13T16:26:52Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Python",
+    "name": "alibaba/rtp-llm",
+    "stars": 1361,
+    "updated_at": "2026-10-13T16:21:27Z",
+    "url": "https://github.com/alibaba/rtp-llm"
+  },
+  {
+    "description": "Open-source LLM observability. See every prompt, completion, token, cost, latency and error as traces and sessions. Pyth",
+    "id": "dheerajkarwasra/spanlight",
+    "language": "Python",
+    "name": "dheerajkarwasra/spanlight",
+    "stars": 0,
+    "updated_at": "2026-10-13T16:19:56Z",
+    "url": "https://github.com/dheerajkarwasra/spanlight"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11819,
+    "updated_at": "2026-10-13T16:22:16Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Empower Your Productivity with Local AI Assistants",
+    "id": "Opla/opla",
+    "language": "TypeScript",
+    "name": "Opla/opla",
+    "stars": 40,
+    "updated_at": "2026-10-13T16:16:39Z",
+    "url": "https://github.com/Opla/opla"
+  },
+  {
+    "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
+    "id": "maks3201/decision-model-operator",
+    "language": "Go",
+    "name": "maks3201/decision-model-operator",
+    "stars": 1,
+    "updated_at": "2026-10-13T16:16:37Z",
+    "url": "https://github.com/maks3201/decision-model-operator"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-13T16:15:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Ollama fleet operations patterns: running local LLM fleets \u2014 model management & manifest sync, fleet health checks, load",
@@ -16,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-10-13T16:14:50Z",
     "url": "https://github.com/ZQM-Computing/ollama-fleet-patterns"
-  },
-  {
-    "description": "Empower Your Productivity with Local AI Assistants",
-    "id": "Opla/opla",
-    "language": "TypeScript",
-    "name": "Opla/opla",
-    "stars": 40,
-    "updated_at": "2026-10-13T16:13:22Z",
-    "url": "https://github.com/Opla/opla"
   },
   {
     "description": "Agentic Runtime",
@@ -45,40 +126,13 @@
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25963,
-    "updated_at": "2026-10-13T16:10:09Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11819,
-    "updated_at": "2026-10-13T16:09:27Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Regression testing and evals for LLM applications in CI \u2014 with the baseline in your repository, not on someone's server.",
     "id": "digline/digline",
     "language": "Python",
     "name": "digline/digline",
     "stars": 8,
-    "updated_at": "2026-10-13T16:08:14Z",
+    "updated_at": "2026-10-13T16:29:46Z",
     "url": "https://github.com/digline/digline"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61152,
-    "updated_at": "2026-10-13T16:14:58Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "\u9876\u7ea7\u5ba1\u7f8e\u7684\u4e2a\u4eba\u535a\u5ba2\uff01\uff01\uff01\u5199\u4e00\u4e9b\u5173\u4e8e AI\u3001Agent\u3001\u6280\u672f\u3001\u4ea7\u54c1\u3001\u8425\u9500\u3001\u4e00\u4e9b\u751f\u6d3b\u601d\u8003\uff0c\u4e2a\u4eba\u6210\u957f\u7c7b\u7684\u7cbe\u6587",
@@ -104,24 +158,15 @@
     "language": "Python",
     "name": "jakbuczarnecki/intergrax",
     "stars": 4,
-    "updated_at": "2026-10-13T16:08:38Z",
+    "updated_at": "2026-10-13T16:27:39Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-13T16:00:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 8753,
+    "stars": 8759,
     "updated_at": "2026-10-13T15:59:14Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -149,7 +194,7 @@
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 649,
-    "updated_at": "2026-10-13T16:12:32Z",
+    "updated_at": "2026-10-13T16:15:34Z",
     "url": "https://github.com/Abilityai/trinity"
   },
   {
@@ -169,6 +214,15 @@
     "stars": 0,
     "updated_at": "2026-10-13T15:51:59Z",
     "url": "https://github.com/iarsingh/prompt-evaluation-platform"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 30526,
+    "updated_at": "2026-10-13T15:51:29Z",
+    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "The black box for AI agents: record every LLM, tool, clock and random step, replay it offline, diff two runs, fork a run",
@@ -297,15 +351,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 30525,
-    "updated_at": "2026-10-13T15:51:29Z",
-    "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
     "description": "Python, prompt pin, eval gate, cost cap",
     "id": "iarsingh/production-llmops-platform",
     "language": "Python",
@@ -328,7 +373,7 @@
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
-    "stars": 8869,
+    "stars": 8870,
     "updated_at": "2026-10-13T15:30:59Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
@@ -356,7 +401,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 519,
-    "updated_at": "2026-10-13T15:43:10Z",
+    "updated_at": "2026-10-13T16:19:44Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-13T15:20:51Z",
     "url": "https://github.com/iarsingh/llmops-observability-platform"
-  },
-  {
-    "description": "Python, faithfulness and correctness",
-    "id": "iarsingh/llm-response-evaluation-system",
-    "language": "Python",
-    "name": "iarsingh/llm-response-evaluation-system",
-    "stars": 0,
-    "updated_at": "2026-10-13T15:19:00Z",
-    "url": "https://github.com/iarsingh/llm-response-evaluation-system"
-  },
-  {
-    "description": "Python, retrieval hit rates",
-    "id": "iarsingh/rag-llm-observability-platform",
-    "language": "Python",
-    "name": "iarsingh/rag-llm-observability-platform",
-    "stars": 0,
-    "updated_at": "2026-10-13T15:18:20Z",
-    "url": "https://github.com/iarsingh/rag-llm-observability-platform"
-  },
-  {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 5,
-    "updated_at": "2026-10-13T15:17:25Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 2,
-    "updated_at": "2026-10-13T15:51:16Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
-    "id": "burakdede/lorepack",
-    "language": "TypeScript",
-    "name": "burakdede/lorepack",
-    "stars": 3,
-    "updated_at": "2026-10-13T15:13:03Z",
-    "url": "https://github.com/burakdede/lorepack"
   }
 ]
