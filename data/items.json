@@ -1,12 +1,75 @@
 [
   {
+    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
+    "id": "korczis/prismatic-majordomus",
+    "language": "Rust",
+    "name": "korczis/prismatic-majordomus",
+    "stars": 0,
+    "updated_at": "2026-10-13T02:43:39Z",
+    "url": "https://github.com/korczis/prismatic-majordomus"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61101,
+    "updated_at": "2026-10-13T02:43:48Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "Python",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2956,
-    "updated_at": "2026-10-13T02:29:08Z",
+    "stars": 2957,
+    "updated_at": "2026-10-13T02:40:36Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Java \u539f\u751f LLM \u53ef\u89c2\u6d4b\u4e0e\u8bc4\u6d4b\uff1a\u540c\u6e90 traceId \u8d2f\u901a\u3001\u56fd\u4ea7\u6a21\u578b\u4e2d\u6587\u8bc4\u6d4b\u96c6\u3001CI \u56de\u5f52\u95e8\u7981\u3002\u4e0d\u662f Langfuse \u7684\u66ff\u4ee3\u54c1\u3002",
+    "id": "Nephets1010/llm-glasshouse",
+    "language": "Java",
+    "name": "Nephets1010/llm-glasshouse",
+    "stars": 1,
+    "updated_at": "2026-10-13T02:34:39Z",
+    "url": "https://github.com/Nephets1010/llm-glasshouse"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8733,
+    "updated_at": "2026-10-13T02:34:12Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Profile of Dr. Ravi Teja Thiriveedhi \u2014 clinician turned AI systems architect: multi-agent platforms, AI governance, LLM ",
+    "id": "Raviteja2k2k/Raviteja2k2k",
+    "language": "Python",
+    "name": "Raviteja2k2k/Raviteja2k2k",
+    "stars": 0,
+    "updated_at": "2026-10-13T02:41:10Z",
+    "url": "https://github.com/Raviteja2k2k/Raviteja2k2k"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 7,
+    "updated_at": "2026-10-13T02:33:55Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-13T02:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Flight recorder & observability for AI agents: trace every model call, tool call, file edit and shell command live, with",
@@ -18,21 +81,12 @@
     "url": "https://github.com/abdullahimohamed101/agent-black-box"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61099,
-    "updated_at": "2026-10-13T02:25:56Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
     "id": "alibaba/rtp-llm",
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1361,
-    "updated_at": "2026-10-13T02:27:26Z",
+    "updated_at": "2026-10-13T02:41:39Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -68,8 +122,17 @@
     "language": "Python",
     "name": "Chris0Jeky/agent-harness",
     "stars": 2,
-    "updated_at": "2026-10-13T02:20:24Z",
+    "updated_at": "2026-10-13T02:35:10Z",
     "url": "https://github.com/Chris0Jeky/agent-harness"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3599,
+    "updated_at": "2026-10-13T02:17:36Z",
+    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "Build and evaluate production-ready RAG pipelines with hands-on notebooks, templates, and proven performance strategies.",
@@ -90,21 +153,12 @@
     "url": "https://github.com/sargentfragrant429/AgentAccessManager"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-13T02:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4942,
-    "updated_at": "2026-10-13T02:13:55Z",
+    "updated_at": "2026-10-13T02:45:09Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -142,6 +196,15 @@
     "stars": 0,
     "updated_at": "2026-10-13T02:08:46Z",
     "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8865,
+    "updated_at": "2026-10-13T02:08:15Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards",
@@ -270,24 +333,6 @@
     "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8732,
-    "updated_at": "2026-10-13T02:01:41Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
-    "id": "korczis/prismatic-majordomus",
-    "language": "Rust",
-    "name": "korczis/prismatic-majordomus",
-    "stars": 0,
-    "updated_at": "2026-10-13T02:06:48Z",
-    "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
     "description": "\ud83d\ude80 Expose your LangChain agents as services with zero configuration; turn scripts into web services using simple wrappers",
     "id": "Lukaa1507/langchain-runner",
     "language": "Python",
@@ -301,7 +346,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25945,
+    "stars": 25946,
     "updated_at": "2026-10-13T01:44:05Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -333,13 +378,13 @@
     "url": "https://github.com/titanium0202/NVSmooth30"
   },
   {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
     "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 7,
-    "updated_at": "2026-10-13T01:28:29Z",
-    "url": "https://github.com/pom11/hscc"
+    "name": "Arize-ai/phoenix",
+    "stars": 11816,
+    "updated_at": "2026-10-13T01:23:54Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "A decision library for running local LLMs on multi-GPU machines without NVLink: parallelism, communication, quantization",
@@ -355,7 +400,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 22543,
+    "stars": 22544,
     "updated_at": "2026-10-13T01:20:16Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -373,7 +418,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 28354,
+    "stars": 28355,
     "updated_at": "2026-10-13T01:17:15Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-13T02:05:30Z",
     "url": "https://github.com/prismal-ai/prismal"
-  },
-  {
-    "description": "AI native youth mental health platform simulation: safety first LLM companion, real RAG with pgvector, event driven work",
-    "id": "Divya1S/CareMesh",
-    "language": "Python",
-    "name": "Divya1S/CareMesh",
-    "stars": 0,
-    "updated_at": "2026-10-13T01:11:50Z",
-    "url": "https://github.com/Divya1S/CareMesh"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11813,
-    "updated_at": "2026-10-13T01:23:54Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "An open-source CLI plus GitHub Action that prevents unsafe prompt, model, retrieval, tool, or configuration changes from",
-    "id": "Chris0Jeky/llm-release-gate",
-    "language": "Python",
-    "name": "Chris0Jeky/llm-release-gate",
-    "stars": 0,
-    "updated_at": "2026-10-13T01:07:57Z",
-    "url": "https://github.com/Chris0Jeky/llm-release-gate"
-  },
-  {
-    "description": "Session-layer circuit breaker for LLM & agent traffic \u2014 a transparent streaming proxy that meters every session and kill",
-    "id": "marceloribeiro/turnstile",
-    "language": "Go",
-    "name": "marceloribeiro/turnstile",
-    "stars": 18,
-    "updated_at": "2026-10-13T01:05:01Z",
-    "url": "https://github.com/marceloribeiro/turnstile"
-  },
-  {
-    "description": "Kubernetes-native control plane for AI agents that work inside the tools you already use \u2014 review PRs, triage issues, ac",
-    "id": "DominikPinsel/ainsel",
-    "language": "Go",
-    "name": "DominikPinsel/ainsel",
-    "stars": 4,
-    "updated_at": "2026-10-13T00:58:41Z",
-    "url": "https://github.com/DominikPinsel/ainsel"
   }
 ]
