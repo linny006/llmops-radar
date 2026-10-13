@@ -1,12 +1,48 @@
 [
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 30,
+    "updated_at": "2026-10-13T21:59:33Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 397,
+    "updated_at": "2026-10-13T21:56:44Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 1,
+    "updated_at": "2026-10-13T21:56:38Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22578,
+    "updated_at": "2026-10-13T21:48:08Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
     "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 23,
-    "updated_at": "2026-10-13T21:43:48Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
+    "name": "langfuse/langfuse",
+    "stars": 35780,
+    "updated_at": "2026-10-13T21:47:54Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -14,8 +50,26 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61167,
-    "updated_at": "2026-10-13T21:45:18Z",
+    "updated_at": "2026-10-13T21:59:46Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-13T21:45:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 23,
+    "updated_at": "2026-10-13T21:43:48Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "Mide y frena el gasto de tokens de tu flota de agentes (Claude Code, Codex, OpenCode): panel, app de barra de menus y re",
@@ -32,17 +86,8 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 106,
-    "updated_at": "2026-10-13T21:38:00Z",
+    "updated_at": "2026-10-13T21:47:07Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 397,
-    "updated_at": "2026-10-13T21:44:51Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
     "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
@@ -63,24 +108,6 @@
     "url": "https://github.com/TorrixAI/torrix"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22577,
-    "updated_at": "2026-10-13T21:34:46Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-13T21:30:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Protect your machine from AI-powered automation with local, deterministic Allow/Ask/Deny controls for high-impact action",
     "id": "Permed-lizard3456/ActionGuard",
     "language": "\u2014",
@@ -95,7 +122,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30532,
-    "updated_at": "2026-10-13T21:44:58Z",
+    "updated_at": "2026-10-13T21:56:51Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -113,7 +140,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11823,
-    "updated_at": "2026-10-13T21:43:37Z",
+    "updated_at": "2026-10-13T21:55:56Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -122,7 +149,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-13T21:22:39Z",
+    "updated_at": "2026-10-13T21:55:15Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -176,7 +203,7 @@
     "language": "Rust",
     "name": "TAIPANBOX/tokenfuse",
     "stars": 1,
-    "updated_at": "2026-10-13T21:18:38Z",
+    "updated_at": "2026-10-13T21:55:04Z",
     "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
@@ -250,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-10-13T21:11:03Z",
     "url": "https://github.com/Healthful-article791/rag-systems-production"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35779,
-    "updated_at": "2026-10-13T21:38:11Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Provide frameworks to establish leadership alignment, clarify decision authority, and enhance oversight for enterprise g",
@@ -414,15 +432,6 @@
     "url": "https://github.com/bharion1/analytics-dashboard"
   },
   {
-    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 1,
-    "updated_at": "2026-10-13T21:07:30Z",
-    "url": "https://github.com/a-novel/service-genai"
-  },
-  {
     "description": "\ud83d\ude80 Build with the Langfuse Go SDK to enhance your applications using Langfuse's open-source LLM engineering platform.",
     "id": "sedai194443/langfuse-go",
     "language": "Go",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-13T20:47:12Z",
     "url": "https://github.com/richardpapiona9/llm"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance retrieval accuracy with a production-ready RAG system that integrates semantic and lexical search for optimal ",
-    "id": "mahdidjemaci/production-rag",
-    "language": "Python",
-    "name": "mahdidjemaci/production-rag",
-    "stars": 2,
-    "updated_at": "2026-10-13T20:46:56Z",
-    "url": "https://github.com/mahdidjemaci/production-rag"
   }
 ]
