@@ -1,5 +1,86 @@
 [
   {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-13T05:59:29Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "A youth policy RAG and LLMOps system for reliable policy retrieval, automated evaluation, experiment tracking, and quali",
+    "id": "jinhyeok212/YouthAsk",
+    "language": "Python",
+    "name": "jinhyeok212/YouthAsk",
+    "stars": 0,
+    "updated_at": "2026-10-13T05:58:25Z",
+    "url": "https://github.com/jinhyeok212/YouthAsk"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35730,
+    "updated_at": "2026-10-13T05:55:00Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61105,
+    "updated_at": "2026-10-13T05:52:42Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open-source observability for your GenAI or LLM application, based on OpenTelemetry",
+    "id": "traceloop/openllmetry",
+    "language": "Python",
+    "name": "traceloop/openllmetry",
+    "stars": 7486,
+    "updated_at": "2026-10-13T05:51:56Z",
+    "url": "https://github.com/traceloop/openllmetry"
+  },
+  {
+    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
+    "id": "korczis/prismatic-majordomus",
+    "language": "Rust",
+    "name": "korczis/prismatic-majordomus",
+    "stars": 0,
+    "updated_at": "2026-10-13T06:00:15Z",
+    "url": "https://github.com/korczis/prismatic-majordomus"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28357,
+    "updated_at": "2026-10-13T05:50:46Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8736,
+    "updated_at": "2026-10-13T05:47:49Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-13T05:45:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
     "id": "SourceShift/mini-ork",
     "language": "Python",
@@ -27,6 +108,15 @@
     "url": "https://github.com/sergey-homenko/llm_cost_tracker"
   },
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25952,
+    "updated_at": "2026-10-13T05:42:46Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "An LLM router that uses built-in logic and system 1 decision models to intelligently route requests to the appropriate L",
     "id": "storm-software/mindctl",
     "language": "Go",
@@ -34,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-10-13T05:43:05Z",
     "url": "https://github.com/storm-software/mindctl"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-13T05:40:55Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
@@ -61,24 +142,6 @@
     "stars": 2845,
     "updated_at": "2026-10-13T05:32:50Z",
     "url": "https://github.com/openlit/openlit"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28357,
-    "updated_at": "2026-10-13T05:32:37Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-13T05:30:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Turn Claude into a context-aware red team operator with 78 drop-in offensive security skills across 23 categories.",
@@ -135,15 +198,6 @@
     "url": "https://github.com/abdullahimohamed101/agent-black-box"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61105,
-    "updated_at": "2026-10-13T05:39:55Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -171,15 +225,6 @@
     "url": "https://github.com/Fauniethermal3522/agentic-dart"
   },
   {
-    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
-    "id": "korczis/prismatic-majordomus",
-    "language": "Rust",
-    "name": "korczis/prismatic-majordomus",
-    "stars": 0,
-    "updated_at": "2026-10-13T05:43:43Z",
-    "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
     "description": "Route Telegram DMs through a bot with emoji captcha, verified message relay, and owner reply support to block spam and k",
     "id": "retardingforcerightbank635/dm-gateway-bot",
     "language": "Python",
@@ -196,15 +241,6 @@
     "stars": 649,
     "updated_at": "2026-10-13T05:12:11Z",
     "url": "https://github.com/overmind-core/overmind"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25951,
-    "updated_at": "2026-10-13T05:42:46Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards",
@@ -284,17 +320,8 @@
     "language": "Python",
     "name": "Arize-ai/openinference",
     "stars": 1261,
-    "updated_at": "2026-10-13T05:05:07Z",
+    "updated_at": "2026-10-13T05:55:12Z",
     "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8735,
-    "updated_at": "2026-10-13T05:06:57Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "LLM and RAG evaluation library: multi-judge consensus with a disagreement alarm, bootstrap confidence intervals and Open",
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-13T04:39:35Z",
     "url": "https://github.com/MongLong0214/jev-gate"
-  },
-  {
-    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
-    "id": "Lo3okSky/LLM_course",
-    "language": "Jupyter Notebook",
-    "name": "Lo3okSky/LLM_course",
-    "stars": 3,
-    "updated_at": "2026-10-13T04:38:55Z",
-    "url": "https://github.com/Lo3okSky/LLM_course"
-  },
-  {
-    "description": "Enable NVIDIA Smooth Motion on RTX 30-series GPUs with this clean-room compatibility layer for NvPresent64.dll.",
-    "id": "titanium0202/NVSmooth30",
-    "language": "C++",
-    "name": "titanium0202/NVSmooth30",
-    "stars": 1,
-    "updated_at": "2026-10-13T04:37:01Z",
-    "url": "https://github.com/titanium0202/NVSmooth30"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-13T04:34:42Z",
-    "url": "https://github.com/toxicwind/ranch"
   }
 ]
