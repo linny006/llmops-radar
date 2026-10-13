@@ -1,30 +1,12 @@
 [
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25963,
-    "updated_at": "2026-10-13T16:30:19Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61154,
-    "updated_at": "2026-10-13T16:30:12Z",
+    "updated_at": "2026-10-13T16:44:06Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35767,
-    "updated_at": "2026-10-13T16:30:00Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Open Source software factory.",
@@ -32,8 +14,80 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-10-13T16:29:54Z",
+    "updated_at": "2026-10-13T16:42:44Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Flight recorder & observability for AI agents: trace every model call, tool call, file edit and shell command live, with",
+    "id": "abdullahimohamed101/agent-black-box",
+    "language": "Python",
+    "name": "abdullahimohamed101/agent-black-box",
+    "stars": 0,
+    "updated_at": "2026-10-13T16:39:45Z",
+    "url": "https://github.com/abdullahimohamed101/agent-black-box"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-10-13T16:36:24Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35768,
+    "updated_at": "2026-10-13T16:43:21Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Regression testing and evals for LLM applications in CI \u2014 with the baseline in your repository, not on someone's server.",
+    "id": "digline/digline",
+    "language": "Python",
+    "name": "digline/digline",
+    "stars": 8,
+    "updated_at": "2026-10-13T16:36:51Z",
+    "url": "https://github.com/digline/digline"
+  },
+  {
+    "description": "The Project for the Course : DS5619 MLOPS",
+    "id": "SreenathKarthick11/Sage-Serve",
+    "language": "Jupyter Notebook",
+    "name": "SreenathKarthick11/Sage-Serve",
+    "stars": 1,
+    "updated_at": "2026-10-13T16:32:01Z",
+    "url": "https://github.com/SreenathKarthick11/Sage-Serve"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-13T16:30:29Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-13T16:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25963,
+    "updated_at": "2026-10-13T16:30:39Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
@@ -68,7 +122,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11819,
-    "updated_at": "2026-10-13T16:22:16Z",
+    "updated_at": "2026-10-13T16:37:29Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -90,15 +144,6 @@
     "url": "https://github.com/maks3201/decision-model-operator"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-13T16:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Ollama fleet operations patterns: running local LLM fleets \u2014 model management & manifest sync, fleet health checks, load",
     "id": "ZQM-Computing/ollama-fleet-patterns",
     "language": "Python",
@@ -108,31 +153,13 @@
     "url": "https://github.com/ZQM-Computing/ollama-fleet-patterns"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-13T16:12:20Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-10-13T16:10:10Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "Regression testing and evals for LLM applications in CI \u2014 with the baseline in your repository, not on someone's server.",
-    "id": "digline/digline",
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
     "language": "Python",
-    "name": "digline/digline",
-    "stars": 8,
-    "updated_at": "2026-10-13T16:29:46Z",
-    "url": "https://github.com/digline/digline"
+    "name": "future-agi/future-agi",
+    "stars": 2146,
+    "updated_at": "2026-10-13T16:44:32Z",
+    "url": "https://github.com/future-agi/future-agi"
   },
   {
     "description": "\u9876\u7ea7\u5ba1\u7f8e\u7684\u4e2a\u4eba\u535a\u5ba2\uff01\uff01\uff01\u5199\u4e00\u4e9b\u5173\u4e8e AI\u3001Agent\u3001\u6280\u672f\u3001\u4ea7\u54c1\u3001\u8425\u9500\u3001\u4e00\u4e9b\u751f\u6d3b\u601d\u8003\uff0c\u4e2a\u4eba\u6210\u957f\u7c7b\u7684\u7cbe\u6587",
@@ -166,7 +193,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 8759,
+    "stars": 8763,
     "updated_at": "2026-10-13T15:59:14Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -220,8 +247,8 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 30526,
-    "updated_at": "2026-10-13T15:51:29Z",
+    "stars": 30527,
+    "updated_at": "2026-10-13T16:40:51Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -320,7 +347,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-13T16:10:28Z",
+    "updated_at": "2026-10-13T16:37:12Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -374,7 +401,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8870,
-    "updated_at": "2026-10-13T15:30:59Z",
+    "updated_at": "2026-10-13T16:40:57Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -383,7 +410,7 @@
     "language": "TypeScript",
     "name": "Ad-Astra-Computing/aer",
     "stars": 0,
-    "updated_at": "2026-10-13T15:30:27Z",
+    "updated_at": "2026-10-13T16:42:44Z",
     "url": "https://github.com/Ad-Astra-Computing/aer"
   },
   {
@@ -392,7 +419,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22565,
-    "updated_at": "2026-10-13T16:10:39Z",
+    "updated_at": "2026-10-13T16:36:12Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -401,7 +428,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 519,
-    "updated_at": "2026-10-13T16:19:44Z",
+    "updated_at": "2026-10-13T16:44:01Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-13T15:26:28Z",
     "url": "https://github.com/iarsingh/llm-api-gateway"
-  },
-  {
-    "description": "Block a request until policy, cost, citation, and image pin pass.",
-    "id": "iarsingh/enterprise-ai-control-plane",
-    "language": "Python",
-    "name": "iarsingh/enterprise-ai-control-plane",
-    "stars": 0,
-    "updated_at": "2026-10-13T15:24:25Z",
-    "url": "https://github.com/iarsingh/enterprise-ai-control-plane"
-  },
-  {
-    "description": "Python, token-cost lines",
-    "id": "iarsingh/llm-cost-monitoring-dashboard",
-    "language": "Python",
-    "name": "iarsingh/llm-cost-monitoring-dashboard",
-    "stars": 0,
-    "updated_at": "2026-10-13T15:23:04Z",
-    "url": "https://github.com/iarsingh/llm-cost-monitoring-dashboard"
-  },
-  {
-    "description": "Trace tokens, latency, cost, and quality for LLM calls.",
-    "id": "iarsingh/llmops-observability-platform",
-    "language": "Python",
-    "name": "iarsingh/llmops-observability-platform",
-    "stars": 0,
-    "updated_at": "2026-10-13T15:20:51Z",
-    "url": "https://github.com/iarsingh/llmops-observability-platform"
   }
 ]
