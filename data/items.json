@@ -1,5 +1,104 @@
 [
   {
+    "description": "Radicalbit AI Gateway",
+    "id": "radicalbit/radicalbit-ai-gateway",
+    "language": "Python",
+    "name": "radicalbit/radicalbit-ai-gateway",
+    "stars": 71,
+    "updated_at": "2026-10-13T08:29:31Z",
+    "url": "https://github.com/radicalbit/radicalbit-ai-gateway"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 519,
+    "updated_at": "2026-10-13T08:28:44Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-13T08:27:24Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Prompt templates as plain YAML in git, rendered through a sandboxed, strict Jinja environment so a typo'd variable fails",
+    "id": "Furkiozknn/prompt-template-manager",
+    "language": "Python",
+    "name": "Furkiozknn/prompt-template-manager",
+    "stars": 0,
+    "updated_at": "2026-10-13T08:23:40Z",
+    "url": "https://github.com/Furkiozknn/prompt-template-manager"
+  },
+  {
+    "description": "Run coding agents without babysitting them. Keep jobs focused, bounded, checked and accountable from start to finish. Fi",
+    "id": "Keesan12/martin-loop",
+    "language": "TypeScript",
+    "name": "Keesan12/martin-loop",
+    "stars": 410,
+    "updated_at": "2026-10-13T08:22:34Z",
+    "url": "https://github.com/Keesan12/martin-loop"
+  },
+  {
+    "description": "Conversational product recommender: one rating-aware ranking core, two retrieval backends - Qdrant hybrid RAG over your ",
+    "id": "ghourimarti/Product-Recommender-Engine",
+    "language": "Python",
+    "name": "ghourimarti/Product-Recommender-Engine",
+    "stars": 0,
+    "updated_at": "2026-10-13T08:21:04Z",
+    "url": "https://github.com/ghourimarti/Product-Recommender-Engine"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22556,
+    "updated_at": "2026-10-13T08:29:05Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35741,
+    "updated_at": "2026-10-13T08:28:56Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
+    "id": "lmnr-ai/lmnr",
+    "language": "TypeScript",
+    "name": "lmnr-ai/lmnr",
+    "stars": 3378,
+    "updated_at": "2026-10-13T08:20:44Z",
+    "url": "https://github.com/lmnr-ai/lmnr"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61120,
+    "updated_at": "2026-10-13T08:17:46Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-13T08:15:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
     "id": "systempromptio/systemprompt-core",
     "language": "Rust",
@@ -9,15 +108,6 @@
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-13T08:15:14Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "AI gateway as a framework. For full control over models, routing & lifecycle. OpenAI /chat/completions, OpenResponses /r",
     "id": "8monkey-ai/hebo-gateway",
     "language": "TypeScript",
@@ -25,15 +115,6 @@
     "stars": 26,
     "updated_at": "2026-10-13T08:14:58Z",
     "url": "https://github.com/8monkey-ai/hebo-gateway"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 519,
-    "updated_at": "2026-10-13T08:14:51Z",
-    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code \u2014 V3 prototype runs ",
@@ -68,26 +149,8 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 397,
-    "updated_at": "2026-10-13T08:09:01Z",
+    "updated_at": "2026-10-13T08:23:04Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61119,
-    "updated_at": "2026-10-13T08:11:44Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35739,
-    "updated_at": "2026-10-13T08:13:31Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Self-hosted enterprise RAG and analytics: hybrid retrieval (BGE-M3, BM25, RRF), BGE reranker, GraphRAG-lite and forecast",
@@ -99,21 +162,12 @@
     "url": "https://github.com/Yacine-ai-tech/IntelAI"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-13T08:02:43Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Regression testing and evals for LLM applications in CI \u2014 with the baseline in your repository, not on someone's server.",
     "id": "digline/digline",
     "language": "Python",
     "name": "digline/digline",
     "stars": 8,
-    "updated_at": "2026-10-13T08:03:44Z",
+    "updated_at": "2026-10-13T08:30:12Z",
     "url": "https://github.com/digline/digline"
   },
   {
@@ -124,15 +178,6 @@
     "stars": 45,
     "updated_at": "2026-10-13T07:58:21Z",
     "url": "https://github.com/sergey-homenko/llm_cost_tracker"
-  },
-  {
-    "description": "Conversational product recommender: one rating-aware ranking core, two retrieval backends - Qdrant hybrid RAG over your ",
-    "id": "ghourimarti/Product-Recommender-Engine",
-    "language": "Python",
-    "name": "ghourimarti/Product-Recommender-Engine",
-    "stars": 0,
-    "updated_at": "2026-10-13T07:56:45Z",
-    "url": "https://github.com/ghourimarti/Product-Recommender-Engine"
   },
   {
     "description": "LLM gateway with guardrails, cost-aware routing (rules \u00b7 Jev \u00b7 open-source SLMs \u00b7 frontier APIs), and automated evaluati",
@@ -176,7 +221,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4942,
-    "updated_at": "2026-10-13T08:15:00Z",
+    "updated_at": "2026-10-13T08:21:55Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -194,7 +239,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-13T07:45:37Z",
+    "updated_at": "2026-10-13T08:19:10Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -205,15 +250,6 @@
     "stars": 2845,
     "updated_at": "2026-10-13T07:41:25Z",
     "url": "https://github.com/openlit/openlit"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22556,
-    "updated_at": "2026-10-13T08:11:53Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "A youth policy RAG and LLMOps system for reliable policy retrieval, automated evaluation, experiment tracking, and quali",
@@ -241,15 +277,6 @@
     "stars": 28360,
     "updated_at": "2026-10-13T07:35:35Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Radicalbit AI Gateway",
-    "id": "radicalbit/radicalbit-ai-gateway",
-    "language": "Python",
-    "name": "radicalbit/radicalbit-ai-gateway",
-    "stars": 71,
-    "updated_at": "2026-10-13T07:58:30Z",
-    "url": "https://github.com/radicalbit/radicalbit-ai-gateway"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -329,7 +356,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8867,
-    "updated_at": "2026-10-13T08:11:58Z",
+    "updated_at": "2026-10-13T08:28:13Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-13T07:16:37Z",
     "url": "https://github.com/justanotheruser82174/cua-lite"
-  },
-  {
-    "description": "Retrieve multilingual visual documents with ultra-compact token embeddings from this Qwen3.5-4B-powered ColPali engine.",
-    "id": "Satisfiable-polopony613/EVIE-Preview-4.5B",
-    "language": "Python",
-    "name": "Satisfiable-polopony613/EVIE-Preview-4.5B",
-    "stars": 2,
-    "updated_at": "2026-10-13T07:15:47Z",
-    "url": "https://github.com/Satisfiable-polopony613/EVIE-Preview-4.5B"
-  },
-  {
-    "description": "A practical checklist for evaluating production readiness of AI systems: LLM workflows, architecture, observability, eva",
-    "id": "manuelblinkert/ai-production-readiness-checklist",
-    "language": "\u2014",
-    "name": "manuelblinkert/ai-production-readiness-checklist",
-    "stars": 0,
-    "updated_at": "2026-10-13T07:14:59Z",
-    "url": "https://github.com/manuelblinkert/ai-production-readiness-checklist"
-  },
-  {
-    "description": "Practical architecture notes on production-grade AI systems, LLM orchestration, observability, backend architecture, and",
-    "id": "manuelblinkert/ai-systems-architecture-notes",
-    "language": "\u2014",
-    "name": "manuelblinkert/ai-systems-architecture-notes",
-    "stars": 0,
-    "updated_at": "2026-10-13T07:14:59Z",
-    "url": "https://github.com/manuelblinkert/ai-systems-architecture-notes"
   }
 ]
