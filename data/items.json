@@ -1,5 +1,122 @@
 [
   {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-10-13T19:59:57Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-10-13T19:58:23Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61163,
+    "updated_at": "2026-10-13T20:00:25Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4944,
+    "updated_at": "2026-10-13T19:58:07Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Quality evaluation and drift for AI agents: the quality plane of the agent-governance stack",
+    "id": "TAIPANBOX/verdryx",
+    "language": "Python",
+    "name": "TAIPANBOX/verdryx",
+    "stars": 1,
+    "updated_at": "2026-10-13T19:50:10Z",
+    "url": "https://github.com/TAIPANBOX/verdryx"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 8812,
+    "updated_at": "2026-10-13T19:49:36Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35777,
+    "updated_at": "2026-10-13T19:59:11Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Self-hosted enterprise RAG and analytics: hybrid retrieval (BGE-M3, BM25, RRF), BGE reranker, GraphRAG-lite and forecast",
+    "id": "Yacine-ai-tech/IntelAI",
+    "language": "Python",
+    "name": "Yacine-ai-tech/IntelAI",
+    "stars": 0,
+    "updated_at": "2026-10-13T19:48:24Z",
+    "url": "https://github.com/Yacine-ai-tech/IntelAI"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-13T19:46:21Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Governed MCP server and agent runtime: signed action approvals, typed tool effects and audit logs for Claude Desktop, Cu",
+    "id": "Yacine-ai-tech/AgentKit",
+    "language": "Python",
+    "name": "Yacine-ai-tech/AgentKit",
+    "stars": 0,
+    "updated_at": "2026-10-13T19:46:01Z",
+    "url": "https://github.com/Yacine-ai-tech/AgentKit"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 23,
+    "updated_at": "2026-10-13T19:45:48Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "LLM and RAG evaluation library: multi-judge consensus with a disagreement alarm, bootstrap confidence intervals and Open",
+    "id": "Yacine-ai-tech/RAGeval",
+    "language": "Python",
+    "name": "Yacine-ai-tech/RAGeval",
+    "stars": 0,
+    "updated_at": "2026-10-13T19:45:40Z",
+    "url": "https://github.com/Yacine-ai-tech/RAGeval"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-13T19:45:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
     "id": "a-novel/service-genai",
     "language": "Go",
@@ -14,17 +131,8 @@
     "language": "Rust",
     "name": "TAIPANBOX/tokenfuse",
     "stars": 1,
-    "updated_at": "2026-10-13T19:43:02Z",
+    "updated_at": "2026-10-13T19:50:06Z",
     "url": "https://github.com/TAIPANBOX/tokenfuse"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61162,
-    "updated_at": "2026-10-13T19:41:10Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
@@ -34,24 +142,6 @@
     "stars": 130,
     "updated_at": "2026-10-13T19:40:41Z",
     "url": "https://github.com/ZIZKA-AI-SL/ZizkaDB"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35776,
-    "updated_at": "2026-10-13T19:41:53Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-10-13T19:39:25Z",
-    "url": "https://github.com/redevops-io/agentic-os"
   },
   {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
@@ -70,24 +160,6 @@
     "stars": 182,
     "updated_at": "2026-10-13T19:34:12Z",
     "url": "https://github.com/GetBusbar/busbar"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 8805,
-    "updated_at": "2026-10-13T19:33:35Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-13T19:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
@@ -167,7 +239,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 2,
-    "updated_at": "2026-10-13T19:24:40Z",
+    "updated_at": "2026-10-13T20:00:03Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -207,15 +279,6 @@
     "url": "https://github.com/TAIPANBOX/genaryx"
   },
   {
-    "description": "Governed MCP server and agent runtime: signed action approvals, typed tool effects and audit logs for Claude Desktop, Cu",
-    "id": "Yacine-ai-tech/AgentKit",
-    "language": "Python",
-    "name": "Yacine-ai-tech/AgentKit",
-    "stars": 0,
-    "updated_at": "2026-10-13T19:37:33Z",
-    "url": "https://github.com/Yacine-ai-tech/AgentKit"
-  },
-  {
     "description": "Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.",
     "id": "montgome753/LLM-Evaluation-Framework",
     "language": "Python",
@@ -225,15 +288,6 @@
     "url": "https://github.com/montgome753/LLM-Evaluation-Framework"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 23,
-    "updated_at": "2026-10-13T19:17:03Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
     "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
     "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
     "language": "Dockerfile",
@@ -241,24 +295,6 @@
     "stars": 0,
     "updated_at": "2026-10-13T19:16:45Z",
     "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "Quality evaluation and drift for AI agents: the quality plane of the agent-governance stack",
-    "id": "TAIPANBOX/verdryx",
-    "language": "Python",
-    "name": "TAIPANBOX/verdryx",
-    "stars": 1,
-    "updated_at": "2026-10-13T19:15:12Z",
-    "url": "https://github.com/TAIPANBOX/verdryx"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-13T19:13:37Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Build production-ready AI agent configs for Claude Code with structured workflows, special agents, and clear rules",
@@ -356,7 +392,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-13T19:30:14Z",
+    "updated_at": "2026-10-13T19:53:33Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-13T18:55:18Z",
     "url": "https://github.com/bharion1/analytics-dashboard"
-  },
-  {
-    "description": "\ud83d\ude80 Build with the Langfuse Go SDK to enhance your applications using Langfuse's open-source LLM engineering platform.",
-    "id": "sedai194443/langfuse-go",
-    "language": "Go",
-    "name": "sedai194443/langfuse-go",
-    "stars": 1,
-    "updated_at": "2026-10-13T18:54:06Z",
-    "url": "https://github.com/sedai194443/langfuse-go"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25974,
-    "updated_at": "2026-10-13T18:53:15Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Open-source, self-hosted AI platform for teams. Run private AI chat, manage Ray/vLLM GPU clusters, and connect apps and ",
-    "id": "fadenstack/fadenstack",
-    "language": "Python",
-    "name": "fadenstack/fadenstack",
-    "stars": 0,
-    "updated_at": "2026-10-13T18:52:56Z",
-    "url": "https://github.com/fadenstack/fadenstack"
-  },
-  {
-    "description": "\ud83e\udd16 Build engaging AI chat experiences with Ultralytics LLM, a lightweight JavaScript client for web applications, deliver",
-    "id": "richardpapiona9/llm",
-    "language": "JavaScript",
-    "name": "richardpapiona9/llm",
-    "stars": 0,
-    "updated_at": "2026-10-13T18:47:33Z",
-    "url": "https://github.com/richardpapiona9/llm"
   }
 ]
