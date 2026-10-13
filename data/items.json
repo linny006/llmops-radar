@@ -1,12 +1,39 @@
 [
   {
-    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
-    "id": "korczis/prismatic-majordomus",
-    "language": "Rust",
-    "name": "korczis/prismatic-majordomus",
+    "description": "Client packages for AER: the flight recorder for AI agents",
+    "id": "Ad-Astra-Computing/aer",
+    "language": "TypeScript",
+    "name": "Ad-Astra-Computing/aer",
     "stars": 0,
-    "updated_at": "2026-10-13T02:43:39Z",
-    "url": "https://github.com/korczis/prismatic-majordomus"
+    "updated_at": "2026-10-13T02:59:45Z",
+    "url": "https://github.com/Ad-Astra-Computing/aer"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 7,
+    "updated_at": "2026-10-13T02:54:27Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Model-agnostic Agent Skill: keep multiple hypotheses alive, test them against evidence, revive alternatives, collapse to",
+    "id": "Furox-Art/quantum-reasoning-skill",
+    "language": "Python",
+    "name": "Furox-Art/quantum-reasoning-skill",
+    "stars": 1,
+    "updated_at": "2026-10-13T02:52:59Z",
+    "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
+  },
+  {
+    "description": "A control layer that decides how an LLM should speak before it speaks",
+    "id": "Furox-Art/eq-layer",
+    "language": "Python",
+    "name": "Furox-Art/eq-layer",
+    "stars": 0,
+    "updated_at": "2026-10-13T02:52:55Z",
+    "url": "https://github.com/Furox-Art/eq-layer"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -14,17 +41,71 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61101,
-    "updated_at": "2026-10-13T02:43:48Z",
+    "updated_at": "2026-10-13T02:59:35Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 185,
+    "updated_at": "2026-10-13T02:50:48Z",
+    "url": "https://github.com/api7/aisix"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "Python",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2957,
-    "updated_at": "2026-10-13T02:40:36Z",
+    "stars": 2958,
+    "updated_at": "2026-10-13T02:50:02Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-10-13T02:46:48Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8733,
+    "updated_at": "2026-10-13T02:47:10Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "Policy, measurement, and operations workbench for running Codex and Claude agents safely across a GitHub estate.",
+    "id": "Chris0Jeky/agent-harness",
+    "language": "Python",
+    "name": "Chris0Jeky/agent-harness",
+    "stars": 2,
+    "updated_at": "2026-10-13T02:45:49Z",
+    "url": "https://github.com/Chris0Jeky/agent-harness"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-13T02:45:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
+    "id": "korczis/prismatic-majordomus",
+    "language": "Rust",
+    "name": "korczis/prismatic-majordomus",
+    "stars": 0,
+    "updated_at": "2026-10-13T02:43:39Z",
+    "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
     "description": "Java \u539f\u751f LLM \u53ef\u89c2\u6d4b\u4e0e\u8bc4\u6d4b\uff1a\u540c\u6e90 traceId \u8d2f\u901a\u3001\u56fd\u4ea7\u6a21\u578b\u4e2d\u6587\u8bc4\u6d4b\u96c6\u3001CI \u56de\u5f52\u95e8\u7981\u3002\u4e0d\u662f Langfuse \u7684\u66ff\u4ee3\u54c1\u3002",
@@ -36,15 +117,6 @@
     "url": "https://github.com/Nephets1010/llm-glasshouse"
   },
   {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8733,
-    "updated_at": "2026-10-13T02:34:12Z",
-    "url": "https://github.com/maximhq/bifrost"
-  },
-  {
     "description": "Profile of Dr. Ravi Teja Thiriveedhi \u2014 clinician turned AI systems architect: multi-agent platforms, AI governance, LLM ",
     "id": "Raviteja2k2k/Raviteja2k2k",
     "language": "Python",
@@ -54,30 +126,12 @@
     "url": "https://github.com/Raviteja2k2k/Raviteja2k2k"
   },
   {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 7,
-    "updated_at": "2026-10-13T02:33:55Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-13T02:30:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Flight recorder & observability for AI agents: trace every model call, tool call, file edit and shell command live, with",
     "id": "abdullahimohamed101/agent-black-box",
     "language": "Python",
     "name": "abdullahimohamed101/agent-black-box",
     "stars": 0,
-    "updated_at": "2026-10-13T02:28:51Z",
+    "updated_at": "2026-10-13T02:53:04Z",
     "url": "https://github.com/abdullahimohamed101/agent-black-box"
   },
   {
@@ -86,7 +140,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1361,
-    "updated_at": "2026-10-13T02:41:39Z",
+    "updated_at": "2026-10-13T02:56:54Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -115,15 +169,6 @@
     "stars": 2,
     "updated_at": "2026-10-13T02:18:40Z",
     "url": "https://github.com/Satisfiable-polopony613/EVIE-Preview-4.5B"
-  },
-  {
-    "description": "Policy, measurement, and operations workbench for running Codex and Claude agents safely across a GitHub estate.",
-    "id": "Chris0Jeky/agent-harness",
-    "language": "Python",
-    "name": "Chris0Jeky/agent-harness",
-    "stars": 2,
-    "updated_at": "2026-10-13T02:35:10Z",
-    "url": "https://github.com/Chris0Jeky/agent-harness"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
@@ -158,7 +203,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4942,
-    "updated_at": "2026-10-13T02:45:09Z",
+    "updated_at": "2026-10-13T02:48:59Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -203,7 +248,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8865,
-    "updated_at": "2026-10-13T02:08:15Z",
+    "updated_at": "2026-10-13T02:57:24Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -346,7 +391,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25946,
+    "stars": 25948,
     "updated_at": "2026-10-13T01:44:05Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -400,53 +445,8 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 22544,
+    "stars": 22546,
     "updated_at": "2026-10-13T01:20:16Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 1,
-    "updated_at": "2026-10-13T01:19:42Z",
-    "url": "https://github.com/a-novel/service-genai"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28355,
-    "updated_at": "2026-10-13T01:17:15Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "AI gateway as a framework. For full control over models, routing & lifecycle. OpenAI /chat/completions, OpenResponses /r",
-    "id": "8monkey-ai/hebo-gateway",
-    "language": "TypeScript",
-    "name": "8monkey-ai/hebo-gateway",
-    "stars": 26,
-    "updated_at": "2026-10-13T01:57:51Z",
-    "url": "https://github.com/8monkey-ai/hebo-gateway"
-  },
-  {
-    "description": "Self-hosted AI Agents Platform supporting Claude Code, Codex, Gemini agents. Apache 2.0.  ",
-    "id": "Abilityai/trinity",
-    "language": "Python",
-    "name": "Abilityai/trinity",
-    "stars": 647,
-    "updated_at": "2026-10-13T01:34:41Z",
-    "url": "https://github.com/Abilityai/trinity"
-  },
-  {
-    "description": "Prism-inspired multi-agent orchestration framework built on LangGraph. Security-first, provider-agnostic, composable.",
-    "id": "prismal-ai/prismal",
-    "language": "Python",
-    "name": "prismal-ai/prismal",
-    "stars": 1,
-    "updated_at": "2026-10-13T02:05:30Z",
-    "url": "https://github.com/prismal-ai/prismal"
   }
 ]
