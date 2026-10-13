@@ -1,11 +1,128 @@
 [
   {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 1,
+    "updated_at": "2026-10-13T09:28:40Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-10-13T09:27:58Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61128,
+    "updated_at": "2026-10-13T09:26:56Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
+    "id": "dynamiq-ai/dynamiq",
+    "language": "Python",
+    "name": "dynamiq-ai/dynamiq",
+    "stars": 1071,
+    "updated_at": "2026-10-13T09:27:09Z",
+    "url": "https://github.com/dynamiq-ai/dynamiq"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2965,
+    "updated_at": "2026-10-13T09:27:01Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 30,
+    "updated_at": "2026-10-13T09:23:58Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "language": "Go",
+    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-10-13T09:23:10Z",
+    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
+  },
+  {
+    "description": "LLM and RAG evaluation library: multi-judge consensus with a disagreement alarm, bootstrap confidence intervals and Open",
+    "id": "Yacine-ai-tech/RAGeval",
+    "language": "Python",
+    "name": "Yacine-ai-tech/RAGeval",
+    "stars": 0,
+    "updated_at": "2026-10-13T09:22:27Z",
+    "url": "https://github.com/Yacine-ai-tech/RAGeval"
+  },
+  {
+    "description": "Governed MCP server and agent runtime: signed action approvals, typed tool effects and audit logs for Claude Desktop, Cu",
+    "id": "Yacine-ai-tech/AgentKit",
+    "language": "Python",
+    "name": "Yacine-ai-tech/AgentKit",
+    "stars": 0,
+    "updated_at": "2026-10-13T09:21:02Z",
+    "url": "https://github.com/Yacine-ai-tech/AgentKit"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28363,
+    "updated_at": "2026-10-13T09:17:04Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Self-hosted enterprise RAG and analytics: hybrid retrieval (BGE-M3, BM25, RRF), BGE reranker, GraphRAG-lite and forecast",
+    "id": "Yacine-ai-tech/IntelAI",
+    "language": "Python",
+    "name": "Yacine-ai-tech/IntelAI",
+    "stars": 0,
+    "updated_at": "2026-10-13T09:16:02Z",
+    "url": "https://github.com/Yacine-ai-tech/IntelAI"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-13T09:15:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Healthcare RAG service with a built-in evaluation harness. Hybrid retrieval (pgvector + Postgres FTS), optional reranker",
+    "id": "alyrraza/docdesk-healthcare-rag-evals",
+    "language": "Python",
+    "name": "alyrraza/docdesk-healthcare-rag-evals",
+    "stars": 0,
+    "updated_at": "2026-10-13T09:13:46Z",
+    "url": "https://github.com/alyrraza/docdesk-healthcare-rag-evals"
+  },
+  {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 35744,
-    "updated_at": "2026-10-13T09:13:20Z",
+    "updated_at": "2026-10-13T09:28:27Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -23,17 +140,8 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1361,
-    "updated_at": "2026-10-13T09:13:02Z",
+    "updated_at": "2026-10-13T09:30:20Z",
     "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61125,
-    "updated_at": "2026-10-13T09:09:55Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
@@ -41,7 +149,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 101,
-    "updated_at": "2026-10-13T09:13:44Z",
+    "updated_at": "2026-10-13T09:29:52Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -63,21 +171,12 @@
     "url": "https://github.com/jinhyeok212/YouthAsk"
   },
   {
-    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
-    "id": "dynamiq-ai/dynamiq",
-    "language": "Python",
-    "name": "dynamiq-ai/dynamiq",
-    "stars": 1071,
-    "updated_at": "2026-10-13T09:10:07Z",
-    "url": "https://github.com/dynamiq-ai/dynamiq"
-  },
-  {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
     "id": "mozilla-ai/otari",
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 519,
-    "updated_at": "2026-10-13T09:03:55Z",
+    "updated_at": "2026-10-13T09:28:51Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -90,30 +189,12 @@
     "url": "https://github.com/digline/digline"
   },
   {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 30,
-    "updated_at": "2026-10-13T09:03:00Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-13T09:00:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
     "id": "maximhq/bifrost",
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8743,
-    "updated_at": "2026-10-13T08:58:54Z",
+    "updated_at": "2026-10-13T09:17:45Z",
     "url": "https://github.com/maximhq/bifrost"
   },
   {
@@ -122,7 +203,7 @@
     "language": "Rust",
     "name": "systempromptio/systemprompt-core",
     "stars": 8,
-    "updated_at": "2026-10-13T08:57:04Z",
+    "updated_at": "2026-10-13T09:26:14Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
@@ -144,15 +225,6 @@
     "url": "https://github.com/comet-ml/opik"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2965,
-    "updated_at": "2026-10-13T08:50:56Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "OpenLIT is the open-source agent harness engineering platform: trace, evaluate, guard, and improve everything around the",
     "id": "openlit/openlit",
     "language": "TypeScript",
@@ -167,7 +239,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse-js",
     "stars": 174,
-    "updated_at": "2026-10-13T08:47:31Z",
+    "updated_at": "2026-10-13T09:27:32Z",
     "url": "https://github.com/langfuse/langfuse-js"
   },
   {
@@ -266,7 +338,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3378,
-    "updated_at": "2026-10-13T08:20:44Z",
+    "updated_at": "2026-10-13T09:21:48Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -297,15 +369,6 @@
     "url": "https://github.com/NotHarshhaa/devops-ai-implementation-ideas"
   },
   {
-    "description": "Self-hosted enterprise RAG and analytics: hybrid retrieval (BGE-M3, BM25, RRF), BGE reranker, GraphRAG-lite and forecast",
-    "id": "Yacine-ai-tech/IntelAI",
-    "language": "Python",
-    "name": "Yacine-ai-tech/IntelAI",
-    "stars": 0,
-    "updated_at": "2026-10-13T08:03:38Z",
-    "url": "https://github.com/Yacine-ai-tech/IntelAI"
-  },
-  {
     "description": "LLM spend tracking and budgets for Rails \u2014 by user, feature, or any tag, in your own database, no proxy.",
     "id": "sergey-homenko/llm_cost_tracker",
     "language": "Ruby",
@@ -320,26 +383,8 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 12042,
-    "updated_at": "2026-10-13T07:55:09Z",
+    "updated_at": "2026-10-13T09:21:47Z",
     "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "LLM and RAG evaluation library: multi-judge consensus with a disagreement alarm, bootstrap confidence intervals and Open",
-    "id": "Yacine-ai-tech/RAGeval",
-    "language": "Python",
-    "name": "Yacine-ai-tech/RAGeval",
-    "stars": 0,
-    "updated_at": "2026-10-13T07:53:27Z",
-    "url": "https://github.com/Yacine-ai-tech/RAGeval"
-  },
-  {
-    "description": "Governed MCP server and agent runtime: signed action approvals, typed tool effects and audit logs for Claude Desktop, Cu",
-    "id": "Yacine-ai-tech/AgentKit",
-    "language": "Python",
-    "name": "Yacine-ai-tech/AgentKit",
-    "stars": 0,
-    "updated_at": "2026-10-13T07:51:33Z",
-    "url": "https://github.com/Yacine-ai-tech/AgentKit"
   },
   {
     "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
@@ -347,7 +392,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4942,
-    "updated_at": "2026-10-13T08:58:42Z",
+    "updated_at": "2026-10-13T09:21:14Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -367,24 +412,6 @@
     "stars": 10,
     "updated_at": "2026-10-13T07:38:48Z",
     "url": "https://github.com/atulkapoor/fde-framework"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28362,
-    "updated_at": "2026-10-13T09:13:06Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "language": "Go",
-    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "stars": 1,
-    "updated_at": "2026-10-13T09:05:15Z",
-    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
   },
   {
     "description": "Client packages for AER: the flight recorder for AI agents",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-13T07:31:05Z",
     "url": "https://github.com/arthuersundar/rag-platform"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8867,
-    "updated_at": "2026-10-13T08:52:49Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "LLM agent that diagnoses Kubernetes problems with read-only kubectl tools, a ReAct loop and evals",
-    "id": "arthuersundar/k8s-troubleshooting-agent",
-    "language": "Python",
-    "name": "arthuersundar/k8s-troubleshooting-agent",
-    "stars": 0,
-    "updated_at": "2026-10-13T07:28:10Z",
-    "url": "https://github.com/arthuersundar/k8s-troubleshooting-agent"
-  },
-  {
-    "description": "Open-source enterprise AI governance and runtime oversight platform for policy, approvals, audit, telemetry, and inciden",
-    "id": "RevanthMeda/Enterprise-AI-Governance",
-    "language": "TypeScript",
-    "name": "RevanthMeda/Enterprise-AI-Governance",
-    "stars": 1,
-    "updated_at": "2026-10-13T07:27:57Z",
-    "url": "https://github.com/RevanthMeda/Enterprise-AI-Governance"
   }
 ]
