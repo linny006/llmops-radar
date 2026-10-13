@@ -1,5 +1,50 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61094,
+    "updated_at": "2026-10-13T01:30:03Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 7,
+    "updated_at": "2026-10-13T01:28:29Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8732,
+    "updated_at": "2026-10-13T01:27:19Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "A decision library for running local LLMs on multi-GPU machines without NVLink: parallelism, communication, quantization",
+    "id": "yangchuan665/local-llm-tuning-guide",
+    "language": "HTML",
+    "name": "yangchuan665/local-llm-tuning-guide",
+    "stars": 0,
+    "updated_at": "2026-10-13T01:22:54Z",
+    "url": "https://github.com/yangchuan665/local-llm-tuning-guide"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-13T01:20:09Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
     "id": "a-novel/service-genai",
     "language": "Go",
@@ -18,21 +63,12 @@
     "url": "https://github.com/SourceShift/mini-ork"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61093,
-    "updated_at": "2026-10-13T01:18:49Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "AI gateway as a framework. For full control over models, routing & lifecycle. OpenAI /chat/completions, OpenResponses /r",
     "id": "8monkey-ai/hebo-gateway",
     "language": "TypeScript",
     "name": "8monkey-ai/hebo-gateway",
     "stars": 26,
-    "updated_at": "2026-10-13T01:16:18Z",
+    "updated_at": "2026-10-13T01:26:25Z",
     "url": "https://github.com/8monkey-ai/hebo-gateway"
   },
   {
@@ -45,22 +81,13 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "Self-hosted AI Agents Platform supporting Claude Code, Codex, Gemini agents. Apache 2.0.  ",
+    "id": "Abilityai/trinity",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-13T01:15:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 7,
-    "updated_at": "2026-10-13T01:13:41Z",
-    "url": "https://github.com/pom11/hscc"
+    "name": "Abilityai/trinity",
+    "stars": 647,
+    "updated_at": "2026-10-13T01:11:49Z",
+    "url": "https://github.com/Abilityai/trinity"
   },
   {
     "description": "Prism-inspired multi-agent orchestration framework built on LangGraph. Security-first, provider-agnostic, composable.",
@@ -81,13 +108,13 @@
     "url": "https://github.com/Divya1S/CareMesh"
   },
   {
-    "description": "A decision library for running local LLMs on multi-GPU machines without NVLink: parallelism, communication, quantization",
-    "id": "yangchuan665/local-llm-tuning-guide",
-    "language": "HTML",
-    "name": "yangchuan665/local-llm-tuning-guide",
-    "stars": 0,
-    "updated_at": "2026-10-13T01:09:40Z",
-    "url": "https://github.com/yangchuan665/local-llm-tuning-guide"
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11813,
+    "updated_at": "2026-10-13T01:23:54Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "An open-source CLI plus GitHub Action that prevents unsafe prompt, model, retrieval, tool, or configuration changes from",
@@ -113,17 +140,8 @@
     "language": "Python",
     "name": "llmspendguard/llm-spendguard",
     "stars": 0,
-    "updated_at": "2026-10-13T01:02:57Z",
+    "updated_at": "2026-10-13T01:28:17Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8732,
-    "updated_at": "2026-10-13T01:17:24Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
@@ -158,7 +176,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 2,
-    "updated_at": "2026-10-13T00:54:31Z",
+    "updated_at": "2026-10-13T01:29:07Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -176,7 +194,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-13T01:14:42Z",
+    "updated_at": "2026-10-13T01:29:11Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -212,7 +230,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22538,
-    "updated_at": "2026-10-13T00:29:55Z",
+    "updated_at": "2026-10-13T01:20:16Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -284,7 +302,7 @@
     "language": "Python",
     "name": "Chris0Jeky/agent-harness",
     "stars": 2,
-    "updated_at": "2026-10-13T01:09:44Z",
+    "updated_at": "2026-10-13T01:22:19Z",
     "url": "https://github.com/Chris0Jeky/agent-harness"
   },
   {
@@ -391,7 +409,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 35717,
+    "stars": 35719,
     "updated_at": "2026-10-13T00:09:22Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-13T00:02:05Z",
     "url": "https://github.com/Farukul-Islam/from-mlops-to-llmops"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Enforce AI behavior guidelines with SpecGuard, a tool that turns policies into executable tests for reliable and scal",
-    "id": "Tearfullnex/SpecGuard",
-    "language": "Python",
-    "name": "Tearfullnex/SpecGuard",
-    "stars": 0,
-    "updated_at": "2026-10-13T00:01:23Z",
-    "url": "https://github.com/Tearfullnex/SpecGuard"
-  },
-  {
-    "description": "\ud83d\udcca Build insightful sales dashboards for SuperStore, enhancing decision-making and driving business growth with real-time",
-    "id": "matiaslanza99/SuperStore.SalesDashboard",
-    "language": "CSS",
-    "name": "matiaslanza99/SuperStore.SalesDashboard",
-    "stars": 1,
-    "updated_at": "2026-10-13T00:00:24Z",
-    "url": "https://github.com/matiaslanza99/SuperStore.SalesDashboard"
   }
 ]
