@@ -1,5 +1,95 @@
 [
   {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 7,
+    "updated_at": "2026-10-13T01:13:41Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Prism-inspired multi-agent orchestration framework built on LangGraph. Security-first, provider-agnostic, composable.",
+    "id": "prismal-ai/prismal",
+    "language": "Python",
+    "name": "prismal-ai/prismal",
+    "stars": 1,
+    "updated_at": "2026-10-13T01:10:50Z",
+    "url": "https://github.com/prismal-ai/prismal"
+  },
+  {
+    "description": "AI native youth mental health platform simulation: safety first LLM companion, real RAG with pgvector, event driven work",
+    "id": "Divya1S/CareMesh",
+    "language": "Python",
+    "name": "Divya1S/CareMesh",
+    "stars": 0,
+    "updated_at": "2026-10-13T01:11:50Z",
+    "url": "https://github.com/Divya1S/CareMesh"
+  },
+  {
+    "description": "A decision library for running local LLMs on multi-GPU machines without NVLink: parallelism, communication, quantization",
+    "id": "yangchuan665/local-llm-tuning-guide",
+    "language": "HTML",
+    "name": "yangchuan665/local-llm-tuning-guide",
+    "stars": 0,
+    "updated_at": "2026-10-13T01:09:40Z",
+    "url": "https://github.com/yangchuan665/local-llm-tuning-guide"
+  },
+  {
+    "description": "An open-source CLI plus GitHub Action that prevents unsafe prompt, model, retrieval, tool, or configuration changes from",
+    "id": "Chris0Jeky/llm-release-gate",
+    "language": "Python",
+    "name": "Chris0Jeky/llm-release-gate",
+    "stars": 0,
+    "updated_at": "2026-10-13T01:07:57Z",
+    "url": "https://github.com/Chris0Jeky/llm-release-gate"
+  },
+  {
+    "description": "Session-layer circuit breaker for LLM & agent traffic \u2014 a transparent streaming proxy that meters every session and kill",
+    "id": "marceloribeiro/turnstile",
+    "language": "Go",
+    "name": "marceloribeiro/turnstile",
+    "stars": 18,
+    "updated_at": "2026-10-13T01:05:01Z",
+    "url": "https://github.com/marceloribeiro/turnstile"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-10-13T01:02:57Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8732,
+    "updated_at": "2026-10-13T01:03:42Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
+    "stars": 1,
+    "updated_at": "2026-10-13T01:01:10Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-13T01:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Kubernetes-native control plane for AI agents that work inside the tools you already use \u2014 review PRs, triage issues, ac",
     "id": "DominikPinsel/ainsel",
     "language": "Go",
@@ -23,7 +113,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61093,
-    "updated_at": "2026-10-13T00:58:05Z",
+    "updated_at": "2026-10-13T01:11:01Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -59,26 +149,8 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-13T00:47:29Z",
+    "updated_at": "2026-10-13T01:14:42Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-13T00:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-10-13T00:59:44Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
     "description": "Self-hosted starting point for agentic projects: agents built from skills and tools, a storage library over your own tab",
@@ -106,24 +178,6 @@
     "stars": 3,
     "updated_at": "2026-10-13T00:36:21Z",
     "url": "https://github.com/po4yka/llm-wiki-skills"
-  },
-  {
-    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
-    "id": "TAIPANBOX/tokenfuse",
-    "language": "Rust",
-    "name": "TAIPANBOX/tokenfuse",
-    "stars": 1,
-    "updated_at": "2026-10-13T00:39:59Z",
-    "url": "https://github.com/TAIPANBOX/tokenfuse"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8732,
-    "updated_at": "2026-10-13T00:34:10Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -203,7 +257,7 @@
     "language": "Python",
     "name": "Chris0Jeky/agent-harness",
     "stars": 2,
-    "updated_at": "2026-10-13T00:23:21Z",
+    "updated_at": "2026-10-13T01:09:44Z",
     "url": "https://github.com/Chris0Jeky/agent-harness"
   },
   {
@@ -241,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-10-13T00:16:10Z",
     "url": "https://github.com/retardingforcerightbank635/dm-gateway-bot"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 7,
-    "updated_at": "2026-10-13T00:14:46Z",
-    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "Track standardized pricing for 300+ LLM APIs in one JSON file for cost tools, comparisons, and billing dashboards",
@@ -319,7 +364,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 35716,
+    "stars": 35717,
     "updated_at": "2026-10-13T00:09:22Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -401,52 +446,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28353,
-    "updated_at": "2026-10-13T00:33:52Z",
+    "updated_at": "2026-10-13T01:13:34Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 42,
-    "updated_at": "2026-10-12T23:58:28Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "Azure API Management as a centralised AI Gateway for Microsoft Foundry and Azure OpenAI models, with per-application cos",
-    "id": "muazuisah/azure-ai-gateway-cost-attribution",
-    "language": "HCL",
-    "name": "muazuisah/azure-ai-gateway-cost-attribution",
-    "stars": 0,
-    "updated_at": "2026-10-12T23:54:31Z",
-    "url": "https://github.com/muazuisah/azure-ai-gateway-cost-attribution"
-  },
-  {
-    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
-    "id": "burakdede/lorepack",
-    "language": "TypeScript",
-    "name": "burakdede/lorepack",
-    "stars": 3,
-    "updated_at": "2026-10-13T00:59:46Z",
-    "url": "https://github.com/burakdede/lorepack"
-  },
-  {
-    "description": "AgentFox: open-source control plane for AI agents. Guardrails on model traffic, tool calls bounded by capability grants,",
-    "id": "architsharm/agentfox",
-    "language": "Python",
-    "name": "architsharm/agentfox",
-    "stars": 3,
-    "updated_at": "2026-10-12T23:43:55Z",
-    "url": "https://github.com/architsharm/agentfox"
-  },
-  {
-    "description": "\ud83d\udc19 Explore the inner workings of large language models with hands-on Python and PyTorch code. Master LLM architecture, tr",
-    "id": "Lo3okSky/LLM_course",
-    "language": "Jupyter Notebook",
-    "name": "Lo3okSky/LLM_course",
-    "stars": 3,
-    "updated_at": "2026-10-12T23:41:42Z",
-    "url": "https://github.com/Lo3okSky/LLM_course"
   }
 ]
