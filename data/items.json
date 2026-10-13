@@ -5,8 +5,62 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 41,
-    "updated_at": "2026-10-13T05:59:29Z",
+    "updated_at": "2026-10-13T06:15:16Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4942,
+    "updated_at": "2026-10-13T06:14:34Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Catches AI regressions before your users do, diffs a prompt or model change, has an AI write targeted tests, judges old ",
+    "id": "amareshhebbar/gitgrounded",
+    "language": "Python",
+    "name": "amareshhebbar/gitgrounded",
+    "stars": 0,
+    "updated_at": "2026-10-13T06:12:36Z",
+    "url": "https://github.com/amareshhebbar/gitgrounded"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35731,
+    "updated_at": "2026-10-13T06:10:37Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25952,
+    "updated_at": "2026-10-13T06:04:07Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Multi-agent system for US drug prices and shortages on Azure: Databricks pipeline, MCP tool server, Ask agent and a week",
+    "id": "sujithnsn2026-crypto/drug-pricing-agent",
+    "language": "Python",
+    "name": "sujithnsn2026-crypto/drug-pricing-agent",
+    "stars": 0,
+    "updated_at": "2026-10-13T06:02:01Z",
+    "url": "https://github.com/sujithnsn2026-crypto/drug-pricing-agent"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-13T06:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "A youth policy RAG and LLMOps system for reliable policy retrieval, automated evaluation, experiment tracking, and quali",
@@ -18,21 +72,12 @@
     "url": "https://github.com/jinhyeok212/YouthAsk"
   },
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35730,
-    "updated_at": "2026-10-13T05:55:00Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 61105,
-    "updated_at": "2026-10-13T05:52:42Z",
+    "stars": 61106,
+    "updated_at": "2026-10-13T06:09:31Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -50,7 +95,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-13T06:00:15Z",
+    "updated_at": "2026-10-13T06:02:43Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -68,17 +113,8 @@
     "language": "Go",
     "name": "maximhq/bifrost",
     "stars": 8736,
-    "updated_at": "2026-10-13T05:47:49Z",
+    "updated_at": "2026-10-13T06:01:48Z",
     "url": "https://github.com/maximhq/bifrost"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-13T05:45:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
@@ -90,15 +126,6 @@
     "url": "https://github.com/SourceShift/mini-ork"
   },
   {
-    "description": "Multi-agent system for US drug prices and shortages on Azure: Databricks pipeline, MCP tool server, Ask agent and a week",
-    "id": "sujithnsn2026-crypto/drug-pricing-agent",
-    "language": "Python",
-    "name": "sujithnsn2026-crypto/drug-pricing-agent",
-    "stars": 0,
-    "updated_at": "2026-10-13T05:45:06Z",
-    "url": "https://github.com/sujithnsn2026-crypto/drug-pricing-agent"
-  },
-  {
     "description": "LLM spend tracking and budgets for Rails \u2014 by user, feature, or any tag, in your own database, no proxy.",
     "id": "sergey-homenko/llm_cost_tracker",
     "language": "Ruby",
@@ -106,15 +133,6 @@
     "stars": 45,
     "updated_at": "2026-10-13T05:44:13Z",
     "url": "https://github.com/sergey-homenko/llm_cost_tracker"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 25952,
-    "updated_at": "2026-10-13T05:42:46Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "An LLM router that uses built-in logic and system 1 decision models to intelligently route requests to the appropriate L",
@@ -205,6 +223,15 @@
     "stars": 1,
     "updated_at": "2026-10-13T05:17:27Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8865,
+    "updated_at": "2026-10-13T05:16:23Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Measure local LLM inference performance by tracking TTFT, TPOT, and throughput with this research-grade dashboard for Ol",
@@ -311,7 +338,7 @@
     "language": "TypeScript",
     "name": "8monkey-ai/hebo-gateway",
     "stars": 26,
-    "updated_at": "2026-10-13T05:07:36Z",
+    "updated_at": "2026-10-13T06:08:14Z",
     "url": "https://github.com/8monkey-ai/hebo-gateway"
   },
   {
@@ -320,7 +347,7 @@
     "language": "Python",
     "name": "Arize-ai/openinference",
     "stars": 1261,
-    "updated_at": "2026-10-13T05:55:12Z",
+    "updated_at": "2026-10-13T06:06:29Z",
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
@@ -383,7 +410,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1361,
-    "updated_at": "2026-10-13T05:21:58Z",
+    "updated_at": "2026-10-13T06:13:46Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 44,
     "updated_at": "2026-10-13T04:50:58Z",
     "url": "https://github.com/0xLazAI/alith"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-10-13T04:44:41Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "Continuous Evaluation Infrastructure for Production AI",
-    "id": "Red1-Rahman/NiriZan",
-    "language": "Jupyter Notebook",
-    "name": "Red1-Rahman/NiriZan",
-    "stars": 3,
-    "updated_at": "2026-10-13T04:39:38Z",
-    "url": "https://github.com/Red1-Rahman/NiriZan"
-  },
-  {
-    "description": "Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code \u2014 V3 prototype runs ",
-    "id": "MongLong0214/jev-gate",
-    "language": "TypeScript",
-    "name": "MongLong0214/jev-gate",
-    "stars": 3,
-    "updated_at": "2026-10-13T04:39:35Z",
-    "url": "https://github.com/MongLong0214/jev-gate"
   }
 ]
