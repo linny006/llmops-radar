@@ -1,5 +1,122 @@
 [
   {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35744,
+    "updated_at": "2026-10-13T09:13:20Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "LLM gateway with guardrails, cost-aware routing (rules \u00b7 Jev \u00b7 open-source SLMs \u00b7 frontier APIs), and automated evaluati",
+    "id": "rspstat/LLMOps",
+    "language": "Python",
+    "name": "rspstat/LLMOps",
+    "stars": 0,
+    "updated_at": "2026-10-13T09:11:47Z",
+    "url": "https://github.com/rspstat/LLMOps"
+  },
+  {
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Python",
+    "name": "alibaba/rtp-llm",
+    "stars": 1361,
+    "updated_at": "2026-10-13T09:13:02Z",
+    "url": "https://github.com/alibaba/rtp-llm"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61125,
+    "updated_at": "2026-10-13T09:09:55Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 101,
+    "updated_at": "2026-10-13T09:13:44Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 397,
+    "updated_at": "2026-10-13T09:07:47Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "A youth policy RAG and LLMOps system for reliable policy retrieval, automated evaluation, experiment tracking, and quali",
+    "id": "jinhyeok212/YouthAsk",
+    "language": "Python",
+    "name": "jinhyeok212/YouthAsk",
+    "stars": 0,
+    "updated_at": "2026-10-13T09:05:40Z",
+    "url": "https://github.com/jinhyeok212/YouthAsk"
+  },
+  {
+    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
+    "id": "dynamiq-ai/dynamiq",
+    "language": "Python",
+    "name": "dynamiq-ai/dynamiq",
+    "stars": 1071,
+    "updated_at": "2026-10-13T09:10:07Z",
+    "url": "https://github.com/dynamiq-ai/dynamiq"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 519,
+    "updated_at": "2026-10-13T09:03:55Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Regression testing and evals for LLM applications in CI \u2014 with the baseline in your repository, not on someone's server.",
+    "id": "digline/digline",
+    "language": "Python",
+    "name": "digline/digline",
+    "stars": 8,
+    "updated_at": "2026-10-13T09:03:20Z",
+    "url": "https://github.com/digline/digline"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 30,
+    "updated_at": "2026-10-13T09:03:00Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-13T09:00:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
+    "id": "maximhq/bifrost",
+    "language": "Go",
+    "name": "maximhq/bifrost",
+    "stars": 8743,
+    "updated_at": "2026-10-13T08:58:54Z",
+    "url": "https://github.com/maximhq/bifrost"
+  },
+  {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
     "id": "systempromptio/systemprompt-core",
     "language": "Rust",
@@ -7,24 +124,6 @@
     "stars": 8,
     "updated_at": "2026-10-13T08:57:04Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35743,
-    "updated_at": "2026-10-13T08:56:05Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61123,
-    "updated_at": "2026-10-13T08:57:37Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Drop-in LLM proxy that cuts input tokens 30\u201370% (54.1% measured, quality-gated) across 27 transparent optimisations \u2014 ca",
@@ -36,22 +135,13 @@
     "url": "https://github.com/sumitdevgupto/TokenLean"
   },
   {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
     "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 397,
-    "updated_at": "2026-10-13T08:56:36Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "LLM gateway with guardrails, cost-aware routing (rules \u00b7 Jev \u00b7 open-source SLMs \u00b7 frontier APIs), and automated evaluati",
-    "id": "rspstat/LLMOps",
-    "language": "Python",
-    "name": "rspstat/LLMOps",
-    "stars": 0,
-    "updated_at": "2026-10-13T08:53:21Z",
-    "url": "https://github.com/rspstat/LLMOps"
+    "name": "comet-ml/opik",
+    "stars": 22557,
+    "updated_at": "2026-10-13T08:52:09Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
@@ -72,13 +162,13 @@
     "url": "https://github.com/openlit/openlit"
   },
   {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 30,
-    "updated_at": "2026-10-13T08:48:56Z",
-    "url": "https://github.com/SourceShift/mini-ork"
+    "description": "\ud83e\udea2 Langfuse JS/TS SDK",
+    "id": "langfuse/langfuse-js",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse-js",
+    "stars": 174,
+    "updated_at": "2026-10-13T08:47:31Z",
+    "url": "https://github.com/langfuse/langfuse-js"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -88,24 +178,6 @@
     "stars": 1,
     "updated_at": "2026-10-13T08:46:19Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-13T08:45:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ mod",
-    "id": "maximhq/bifrost",
-    "language": "Go",
-    "name": "maximhq/bifrost",
-    "stars": 8739,
-    "updated_at": "2026-10-13T08:58:54Z",
-    "url": "https://github.com/maximhq/bifrost"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -126,33 +198,6 @@
     "url": "https://github.com/Raviteja2k2k/Raviteja2k2k"
   },
   {
-    "description": "Regression testing and evals for LLM applications in CI \u2014 with the baseline in your repository, not on someone's server.",
-    "id": "digline/digline",
-    "language": "Python",
-    "name": "digline/digline",
-    "stars": 8,
-    "updated_at": "2026-10-13T08:58:37Z",
-    "url": "https://github.com/digline/digline"
-  },
-  {
-    "description": "A youth policy RAG and LLMOps system for reliable policy retrieval, automated evaluation, experiment tracking, and quali",
-    "id": "jinhyeok212/YouthAsk",
-    "language": "Python",
-    "name": "jinhyeok212/YouthAsk",
-    "stars": 0,
-    "updated_at": "2026-10-13T08:39:26Z",
-    "url": "https://github.com/jinhyeok212/YouthAsk"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 519,
-    "updated_at": "2026-10-13T08:47:32Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
     "description": "Policy, measurement, and operations workbench for running Codex and Claude agents safely across a GitHub estate.",
     "id": "Chris0Jeky/agent-harness",
     "language": "Python",
@@ -160,15 +205,6 @@
     "stars": 2,
     "updated_at": "2026-10-13T08:35:39Z",
     "url": "https://github.com/Chris0Jeky/agent-harness"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22556,
-    "updated_at": "2026-10-13T08:52:09Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
@@ -338,7 +374,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28362,
-    "updated_at": "2026-10-13T07:35:35Z",
+    "updated_at": "2026-10-13T09:13:06Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -347,7 +383,7 @@
     "language": "Go",
     "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "stars": 1,
-    "updated_at": "2026-10-13T08:31:40Z",
+    "updated_at": "2026-10-13T09:05:15Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-13T07:27:57Z",
     "url": "https://github.com/RevanthMeda/Enterprise-AI-Governance"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-13T07:27:37Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
-    "description": "AI platform reference architecture for LLM serving on Kubernetes, with reliability, observability, failure testing, and ",
-    "id": "asadhanif3188/InferOps",
-    "language": "Python",
-    "name": "asadhanif3188/InferOps",
-    "stars": 0,
-    "updated_at": "2026-10-13T07:25:44Z",
-    "url": "https://github.com/asadhanif3188/InferOps"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11818,
-    "updated_at": "2026-10-13T07:19:29Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Turn Claude into a context-aware red team operator with 78 drop-in offensive security skills across 23 categories.",
-    "id": "urellai22/Claude-Red",
-    "language": "Python",
-    "name": "urellai22/Claude-Red",
-    "stars": 0,
-    "updated_at": "2026-10-13T07:18:35Z",
-    "url": "https://github.com/urellai22/Claude-Red"
   }
 ]
