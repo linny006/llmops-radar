@@ -1,5 +1,86 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61171,
+    "updated_at": "2026-10-13T23:30:07Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3600,
+    "updated_at": "2026-10-13T23:28:04Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-10-13T23:25:01Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 2,
+    "updated_at": "2026-10-13T23:23:56Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude ",
+    "id": "Fast-Editor/Lynkr",
+    "language": "JavaScript",
+    "name": "Fast-Editor/Lynkr",
+    "stars": 626,
+    "updated_at": "2026-10-13T23:22:06Z",
+    "url": "https://github.com/Fast-Editor/Lynkr"
+  },
+  {
+    "description": "One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod",
+    "id": "valteresj2/agent-hangar",
+    "language": "Python",
+    "name": "valteresj2/agent-hangar",
+    "stars": 3,
+    "updated_at": "2026-10-13T23:20:29Z",
+    "url": "https://github.com/valteresj2/agent-hangar"
+  },
+  {
+    "description": "Model-agnostic Agent Skill: keep multiple hypotheses alive, test them against evidence, revive alternatives, collapse to",
+    "id": "Furox-Art/quantum-reasoning-skill",
+    "language": "Python",
+    "name": "Furox-Art/quantum-reasoning-skill",
+    "stars": 1,
+    "updated_at": "2026-10-13T23:28:07Z",
+    "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
+  },
+  {
+    "description": "Mide y frena el gasto de tokens de tu flota de agentes (Claude Code, Codex, OpenCode): panel, app de barra de menus y re",
+    "id": "yosnap/codeia-cost-guard",
+    "language": "Python",
+    "name": "yosnap/codeia-cost-guard",
+    "stars": 4,
+    "updated_at": "2026-10-13T23:19:06Z",
+    "url": "https://github.com/yosnap/codeia-cost-guard"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-13T23:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
     "id": "TAIPANBOX/tokenfuse",
     "language": "Rust",
@@ -27,15 +108,6 @@
     "url": "https://github.com/maks3201/decision-model-operator"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-13T23:00:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
     "id": "vivek-541/vivek-541",
     "language": "HTML",
@@ -54,15 +126,6 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61170,
-    "updated_at": "2026-10-13T23:11:07Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
     "id": "burakdede/lorepack",
     "language": "TypeScript",
@@ -77,7 +140,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-13T22:55:56Z",
+    "updated_at": "2026-10-13T23:26:44Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -104,7 +167,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 106,
-    "updated_at": "2026-10-13T22:50:45Z",
+    "updated_at": "2026-10-13T23:21:49Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -117,6 +180,15 @@
     "url": "https://github.com/iblai/os"
   },
   {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35782,
+    "updated_at": "2026-10-13T22:44:23Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "Self-demonstrating ReDevOps \u00d7 AWS deploy-and-operate demo: one prompt in Projects provisions, secures, monitors and self",
     "id": "redevops-io/redevops-demo",
     "language": "Python",
@@ -124,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-10-13T22:44:05Z",
     "url": "https://github.com/redevops-io/redevops-demo"
-  },
-  {
-    "description": "One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod",
-    "id": "valteresj2/agent-hangar",
-    "language": "Python",
-    "name": "valteresj2/agent-hangar",
-    "stars": 3,
-    "updated_at": "2026-10-13T22:43:15Z",
-    "url": "https://github.com/valteresj2/agent-hangar"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -162,15 +225,6 @@
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 2,
-    "updated_at": "2026-10-13T23:09:13Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -194,7 +248,7 @@
     "language": "Go",
     "name": "a-novel/service-genai",
     "stars": 1,
-    "updated_at": "2026-10-13T22:24:28Z",
+    "updated_at": "2026-10-13T23:27:57Z",
     "url": "https://github.com/a-novel/service-genai"
   },
   {
@@ -221,7 +275,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30534,
-    "updated_at": "2026-10-13T22:14:17Z",
+    "updated_at": "2026-10-13T23:29:11Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -250,24 +304,6 @@
     "stars": 397,
     "updated_at": "2026-10-13T21:56:44Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35781,
-    "updated_at": "2026-10-13T22:44:23Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Mide y frena el gasto de tokens de tu flota de agentes (Claude Code, Codex, OpenCode): panel, app de barra de menus y re",
-    "id": "yosnap/codeia-cost-guard",
-    "language": "Python",
-    "name": "yosnap/codeia-cost-guard",
-    "stars": 4,
-    "updated_at": "2026-10-13T21:39:33Z",
-    "url": "https://github.com/yosnap/codeia-cost-guard"
   },
   {
     "description": "Protect your machine from AI-powered automation with local, deterministic Allow/Ask/Deny controls for high-impact action",
@@ -329,7 +365,7 @@
     "language": "Python",
     "name": "luetzey/who2be",
     "stars": 0,
-    "updated_at": "2026-10-13T22:53:03Z",
+    "updated_at": "2026-10-13T23:18:16Z",
     "url": "https://github.com/luetzey/who2be"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-13T21:07:24Z",
     "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
-  },
-  {
-    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
-    "id": "Anbumani08/agentic-coding-workflow",
-    "language": "HTML",
-    "name": "Anbumani08/agentic-coding-workflow",
-    "stars": 0,
-    "updated_at": "2026-10-13T21:06:44Z",
-    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
-  },
-  {
-    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
-    "id": "wahhyun/llm-eval",
-    "language": "C++",
-    "name": "wahhyun/llm-eval",
-    "stars": 1,
-    "updated_at": "2026-10-13T21:06:42Z",
-    "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
-    "id": "kawaiirashi/llm-retry",
-    "language": "C++",
-    "name": "kawaiirashi/llm-retry",
-    "stars": 1,
-    "updated_at": "2026-10-13T21:06:38Z",
-    "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-10-13T21:06:09Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
   }
 ]
