@@ -1,12 +1,84 @@
 [
   {
-    "description": "The black box for AI agents: record every LLM, tool, clock and random step, replay it offline, diff two runs, fork a run",
-    "id": "flaviorg/agent-flight-recorder",
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-13T13:30:12Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 30,
+    "updated_at": "2026-10-13T13:30:12Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-13T13:28:23Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "The platform for continuously improving AI agents.",
+    "id": "overmind-core/overmind",
+    "language": "Python",
+    "name": "overmind-core/overmind",
+    "stars": 651,
+    "updated_at": "2026-10-13T13:28:03Z",
+    "url": "https://github.com/overmind-core/overmind"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
     "language": "TypeScript",
-    "name": "flaviorg/agent-flight-recorder",
+    "name": "langfuse/langfuse",
+    "stars": 35761,
+    "updated_at": "2026-10-13T13:28:02Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61144,
+    "updated_at": "2026-10-13T13:26:50Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\u4e2d\u6587\u7248\uff5c\u7528 6 \u4e2a\u56fa\u5b9a\u6545\u969c\u573a\u666f\uff0c\u6bd4\u8f83 Agent \u5728\u8d85\u65f6\u3001\u9650\u6d41\u3001\u5ba1\u6279\u548c\u91cd\u542f\u540e\u7684\u884c\u4e3a\u3002",
+    "id": "SCUliujiacheng/agent-reliability-lab-zh",
+    "language": "Python",
+    "name": "SCUliujiacheng/agent-reliability-lab-zh",
     "stars": 0,
-    "updated_at": "2026-10-13T13:14:47Z",
-    "url": "https://github.com/flaviorg/agent-flight-recorder"
+    "updated_at": "2026-10-13T13:29:34Z",
+    "url": "https://github.com/SCUliujiacheng/agent-reliability-lab-zh"
+  },
+  {
+    "description": "Six repeatable failure scenarios for comparing how tool-using agents handle timeouts, rate limits, approvals, and restar",
+    "id": "SCUliujiacheng/agent-reliability-lab",
+    "language": "Python",
+    "name": "SCUliujiacheng/agent-reliability-lab",
+    "stars": 0,
+    "updated_at": "2026-10-13T13:29:30Z",
+    "url": "https://github.com/SCUliujiacheng/agent-reliability-lab"
+  },
+  {
+    "description": "\u9876\u7ea7\u5ba1\u7f8e\u7684\u4e2a\u4eba\u535a\u5ba2\uff01\uff01\uff01\u5199\u4e00\u4e9b\u5173\u4e8e AI\u3001Agent\u3001\u6280\u672f\u3001\u4ea7\u54c1\u3001\u8425\u9500\u3001\u4e00\u4e9b\u751f\u6d3b\u601d\u8003\uff0c\u4e2a\u4eba\u6210\u957f\u7c7b\u7684\u7cbe\u6587",
+    "id": "cubxxw/blog",
+    "language": "JavaScript",
+    "name": "cubxxw/blog",
+    "stars": 28,
+    "updated_at": "2026-10-13T13:22:15Z",
+    "url": "https://github.com/cubxxw/blog"
   },
   {
     "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
@@ -14,17 +86,44 @@
     "language": "Go",
     "name": "a-novel/service-genai",
     "stars": 1,
-    "updated_at": "2026-10-13T13:14:29Z",
+    "updated_at": "2026-10-13T13:20:38Z",
     "url": "https://github.com/a-novel/service-genai"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-13T13:13:46Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 8703,
+    "updated_at": "2026-10-13T13:19:29Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22563,
+    "updated_at": "2026-10-13T13:27:51Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-13T13:15:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The black box for AI agents: record every LLM, tool, clock and random step, replay it offline, diff two runs, fork a run",
+    "id": "flaviorg/agent-flight-recorder",
+    "language": "TypeScript",
+    "name": "flaviorg/agent-flight-recorder",
+    "stars": 0,
+    "updated_at": "2026-10-13T13:14:47Z",
+    "url": "https://github.com/flaviorg/agent-flight-recorder"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -45,12 +144,21 @@
     "url": "https://github.com/digline/digline"
   },
   {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 30523,
+    "updated_at": "2026-10-13T13:10:17Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
     "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
     "id": "korczis/prismatic-majordomus",
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-13T13:10:16Z",
+    "updated_at": "2026-10-13T13:24:35Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -81,24 +189,6 @@
     "url": "https://github.com/maks3201/decision-model-operator"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61141,
-    "updated_at": "2026-10-13T13:07:56Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 8698,
-    "updated_at": "2026-10-13T13:04:10Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -108,42 +198,6 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-13T13:00:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The platform for continuously improving AI agents.",
-    "id": "overmind-core/overmind",
-    "language": "Python",
-    "name": "overmind-core/overmind",
-    "stars": 651,
-    "updated_at": "2026-10-13T13:14:57Z",
-    "url": "https://github.com/overmind-core/overmind"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 30522,
-    "updated_at": "2026-10-13T13:10:17Z",
-    "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35759,
-    "updated_at": "2026-10-13T13:15:17Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "A control layer that decides how an LLM should speak before it speaks",
     "id": "Furox-Art/eq-layer",
     "language": "Python",
@@ -151,6 +205,15 @@
     "stars": 0,
     "updated_at": "2026-10-13T12:55:47Z",
     "url": "https://github.com/Furox-Art/eq-layer"
+  },
+  {
+    "description": "The open-source agentic framework to build, orchestrate, and operate production AI agents.",
+    "id": "apowerb/apowerb",
+    "language": "Python",
+    "name": "apowerb/apowerb",
+    "stars": 79,
+    "updated_at": "2026-10-13T12:52:58Z",
+    "url": "https://github.com/apowerb/apowerb"
   },
   {
     "description": "Policy, measurement, and operations workbench for running Codex and Claude agents safely across a GitHub estate.",
@@ -171,15 +234,6 @@
     "url": "https://github.com/Root1V/prometheus-inference-platform"
   },
   {
-    "description": "The open-source agentic framework to build, orchestrate, and operate production AI agents.",
-    "id": "apowerb/apowerb",
-    "language": "Python",
-    "name": "apowerb/apowerb",
-    "stars": 78,
-    "updated_at": "2026-10-13T12:52:58Z",
-    "url": "https://github.com/apowerb/apowerb"
-  },
-  {
     "description": "A self-updating, auto-classified map of the GenAI engineering stack: agents, MCP, memory, RAG, evals, LLMOps, AI securit",
     "id": "alebgl77/awesome-ai-architect",
     "language": "Python",
@@ -187,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-10-13T12:41:56Z",
     "url": "https://github.com/alebgl77/awesome-ai-architect"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22562,
-    "updated_at": "2026-10-13T13:09:56Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
@@ -221,7 +266,7 @@
     "language": "Python",
     "name": "redevops-io/agentic-os",
     "stars": 2,
-    "updated_at": "2026-10-13T13:13:40Z",
+    "updated_at": "2026-10-13T13:17:01Z",
     "url": "https://github.com/redevops-io/agentic-os"
   },
   {
@@ -284,8 +329,17 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 519,
-    "updated_at": "2026-10-13T13:03:23Z",
+    "updated_at": "2026-10-13T13:27:25Z",
     "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
+    "id": "ZIZKA-AI-SL/ZizkaDB",
+    "language": "Python",
+    "name": "ZIZKA-AI-SL/ZizkaDB",
+    "stars": 128,
+    "updated_at": "2026-10-13T12:20:32Z",
+    "url": "https://github.com/ZIZKA-AI-SL/ZizkaDB"
   },
   {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
@@ -360,15 +414,6 @@
     "url": "https://github.com/SynaLinks/synalinks"
   },
   {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 30,
-    "updated_at": "2026-10-13T11:45:08Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
     "id": "pom11/hscc",
     "language": "Python",
@@ -383,7 +428,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 12045,
-    "updated_at": "2026-10-13T12:47:15Z",
+    "updated_at": "2026-10-13T13:22:53Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 11,
     "updated_at": "2026-10-13T11:28:53Z",
     "url": "https://github.com/AcruxCore/AcruxCore"
-  },
-  {
-    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 42,
-    "updated_at": "2026-10-13T12:47:37Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "Live cost, token and context usage sidebar for Claude Code: a mod that shows cost per turn, cache hit rate, burn rate an",
-    "id": "andrewbakercloudscale/claude-code-cost-sidebar",
-    "language": "Shell",
-    "name": "andrewbakercloudscale/claude-code-cost-sidebar",
-    "stars": 1,
-    "updated_at": "2026-10-13T11:27:59Z",
-    "url": "https://github.com/andrewbakercloudscale/claude-code-cost-sidebar"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 23,
-    "updated_at": "2026-10-13T12:49:54Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
-    "id": "ZIZKA-AI-SL/ZizkaDB",
-    "language": "Python",
-    "name": "ZIZKA-AI-SL/ZizkaDB",
-    "stars": 130,
-    "updated_at": "2026-10-13T12:20:32Z",
-    "url": "https://github.com/ZIZKA-AI-SL/ZizkaDB"
-  },
-  {
-    "description": "OpenLIT is the open-source agent harness engineering platform: trace, evaluate, guard, and improve everything around the",
-    "id": "openlit/openlit",
-    "language": "TypeScript",
-    "name": "openlit/openlit",
-    "stars": 2845,
-    "updated_at": "2026-10-13T12:15:04Z",
-    "url": "https://github.com/openlit/openlit"
   }
 ]
