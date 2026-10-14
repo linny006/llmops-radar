@@ -4,9 +4,18 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 61260,
-    "updated_at": "2026-10-14T21:45:07Z",
+    "stars": 61261,
+    "updated_at": "2026-10-14T22:00:06Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Healthcare RAG service with a built-in evaluation harness. Hybrid retrieval (pgvector + Postgres FTS), optional reranker",
+    "id": "alyrraza/docdesk-healthcare-rag-evals",
+    "language": "Python",
+    "name": "alyrraza/docdesk-healthcare-rag-evals",
+    "stars": 0,
+    "updated_at": "2026-10-14T21:59:26Z",
+    "url": "https://github.com/alyrraza/docdesk-healthcare-rag-evals"
   },
   {
     "description": "Genaryx: the browser control room over the TAIPANBOX agent-governance stack. Money, policy, identity, quality, crypto, m",
@@ -14,8 +23,44 @@
     "language": "Rust",
     "name": "TAIPANBOX/genaryx",
     "stars": 0,
-    "updated_at": "2026-10-14T21:41:22Z",
+    "updated_at": "2026-10-14T21:58:14Z",
     "url": "https://github.com/TAIPANBOX/genaryx"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 5,
+    "updated_at": "2026-10-14T21:55:35Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4950,
+    "updated_at": "2026-10-14T21:57:07Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 4,
+    "updated_at": "2026-10-14T21:51:14Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-14T21:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
@@ -36,15 +81,6 @@
     "url": "https://github.com/SourceShift/mini-ork"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-14T21:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Self-hosted coding assistant that routes each request to the cheapest model that can handle it",
     "id": "optiware-ai/optimux",
     "language": "Python",
@@ -52,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-10-14T21:28:26Z",
     "url": "https://github.com/optiware-ai/optimux"
-  },
-  {
-    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4950,
-    "updated_at": "2026-10-14T21:42:52Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
@@ -131,7 +158,7 @@
     "language": "Python",
     "name": "overmind-core/overmind",
     "stars": 659,
-    "updated_at": "2026-10-14T21:13:48Z",
+    "updated_at": "2026-10-14T21:55:27Z",
     "url": "https://github.com/overmind-core/overmind"
   },
   {
@@ -176,17 +203,8 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 520,
-    "updated_at": "2026-10-14T21:37:11Z",
+    "updated_at": "2026-10-14T21:56:08Z",
     "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Healthcare RAG service with a built-in evaluation harness. Hybrid retrieval (pgvector + Postgres FTS), optional reranker",
-    "id": "alyrraza/docdesk-healthcare-rag-evals",
-    "language": "Python",
-    "name": "alyrraza/docdesk-healthcare-rag-evals",
-    "stars": 0,
-    "updated_at": "2026-10-14T20:52:52Z",
-    "url": "https://github.com/alyrraza/docdesk-healthcare-rag-evals"
   },
   {
     "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
@@ -194,7 +212,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-14T21:44:44Z",
+    "updated_at": "2026-10-14T21:58:09Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -311,7 +329,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28384,
-    "updated_at": "2026-10-14T20:33:24Z",
+    "updated_at": "2026-10-14T21:54:44Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -356,7 +374,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 110,
-    "updated_at": "2026-10-14T20:45:32Z",
+    "updated_at": "2026-10-14T21:59:15Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -382,7 +400,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 22601,
+    "stars": 22602,
     "updated_at": "2026-10-14T19:47:57Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -419,7 +437,7 @@
     "language": "Python",
     "name": "theagentplane/control-plane",
     "stars": 4,
-    "updated_at": "2026-10-14T20:19:00Z",
+    "updated_at": "2026-10-14T21:53:37Z",
     "url": "https://github.com/theagentplane/control-plane"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-14T19:27:27Z",
     "url": "https://github.com/heyvaldemar/dify-traefik-letsencrypt-docker-compose"
-  },
-  {
-    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
-    "id": "luetzey/who2be",
-    "language": "Python",
-    "name": "luetzey/who2be",
-    "stars": 0,
-    "updated_at": "2026-10-14T19:18:41Z",
-    "url": "https://github.com/luetzey/who2be"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11838,
-    "updated_at": "2026-10-14T19:17:10Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   }
 ]
