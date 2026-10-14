@@ -1,5 +1,140 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61245,
+    "updated_at": "2026-10-14T16:45:19Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22596,
+    "updated_at": "2026-10-14T16:44:38Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11835,
+    "updated_at": "2026-10-14T16:45:23Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio",
+    "id": "naim-munshi/metriqen-llm-serving-optimization",
+    "language": "Python",
+    "name": "naim-munshi/metriqen-llm-serving-optimization",
+    "stars": 0,
+    "updated_at": "2026-10-14T16:43:22Z",
+    "url": "https://github.com/naim-munshi/metriqen-llm-serving-optimization"
+  },
+  {
+    "description": "Multimodal RAG QA for cosmetics regulation: hybrid retrieval, two-stage reranking, evidence gating that refuses unsuppor",
+    "id": "Xander-Xai/Beauty-Industry-RAG-QA-System",
+    "language": "Python",
+    "name": "Xander-Xai/Beauty-Industry-RAG-QA-System",
+    "stars": 0,
+    "updated_at": "2026-10-14T16:42:45Z",
+    "url": "https://github.com/Xander-Xai/Beauty-Industry-RAG-QA-System"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2979,
+    "updated_at": "2026-10-14T16:42:42Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
+    "id": "korczis/prismatic-majordomus",
+    "language": "Rust",
+    "name": "korczis/prismatic-majordomus",
+    "stars": 0,
+    "updated_at": "2026-10-14T16:42:24Z",
+    "url": "https://github.com/korczis/prismatic-majordomus"
+  },
+  {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-10-14T16:38:19Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35820,
+    "updated_at": "2026-10-14T16:37:47Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "\u9876\u7ea7\u5ba1\u7f8e\u7684\u4e2a\u4eba\u535a\u5ba2\uff01\uff01\uff01\u5199\u4e00\u4e9b\u5173\u4e8e AI\u3001Agent\u3001\u6280\u672f\u3001\u4ea7\u54c1\u3001\u8425\u9500\u3001\u4e00\u4e9b\u751f\u6d3b\u601d\u8003\uff0c\u4e2a\u4eba\u6210\u957f\u7c7b\u7684\u7cbe\u6587",
+    "id": "cubxxw/blog",
+    "language": "JavaScript",
+    "name": "cubxxw/blog",
+    "stars": 28,
+    "updated_at": "2026-10-14T16:37:37Z",
+    "url": "https://github.com/cubxxw/blog"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-10-14T16:33:54Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 31,
+    "updated_at": "2026-10-14T16:36:49Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 30550,
+    "updated_at": "2026-10-14T16:43:19Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-10-14T16:31:26Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-14T16:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Healthcare RAG service with a built-in evaluation harness. Hybrid retrieval (pgvector + Postgres FTS), optional reranker",
     "id": "alyrraza/docdesk-healthcare-rag-evals",
     "language": "Python",
@@ -9,21 +144,12 @@
     "url": "https://github.com/alyrraza/docdesk-healthcare-rag-evals"
   },
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35820,
-    "updated_at": "2026-10-14T16:30:09Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Run coding agents without babysitting them. Keep jobs focused, bounded, checked and accountable from start to finish. Fi",
     "id": "Keesan12/martin-loop",
     "language": "TypeScript",
     "name": "Keesan12/martin-loop",
     "stars": 410,
-    "updated_at": "2026-10-14T16:26:56Z",
+    "updated_at": "2026-10-14T16:42:41Z",
     "url": "https://github.com/Keesan12/martin-loop"
   },
   {
@@ -68,7 +194,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4947,
-    "updated_at": "2026-10-14T16:30:22Z",
+    "updated_at": "2026-10-14T16:42:29Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -79,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T16:24:39Z",
     "url": "https://github.com/Chris0Jeky/llm-release-gate"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61243,
-    "updated_at": "2026-10-14T16:26:22Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "AegisRAG is a security-first, auditable enterprise RAG backend for teams that care more about access control,traceabilit",
@@ -108,30 +225,12 @@
     "url": "https://github.com/kogunlowo123/continuous-red-teaming"
   },
   {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 31,
-    "updated_at": "2026-10-14T16:21:51Z",
-    "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11835,
-    "updated_at": "2026-10-14T16:29:19Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
     "id": "AixleHQ/flow",
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 22,
-    "updated_at": "2026-10-14T16:15:54Z",
+    "updated_at": "2026-10-14T16:34:54Z",
     "url": "https://github.com/AixleHQ/flow"
   },
   {
@@ -142,15 +241,6 @@
     "stars": 41,
     "updated_at": "2026-10-14T16:15:40Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-14T16:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Flight recorder & observability for AI agents: trace every model call, tool call, file edit and shell command live, with",
@@ -230,7 +320,7 @@
     "language": "Python",
     "name": "ArtVsMark/Engineering-Incidents-Playbook",
     "stars": 5,
-    "updated_at": "2026-10-14T16:10:03Z",
+    "updated_at": "2026-10-14T16:40:05Z",
     "url": "https://github.com/ArtVsMark/Engineering-Incidents-Playbook"
   },
   {
@@ -274,7 +364,7 @@
     "id": "dheerajkarwasra/spanlight",
     "language": "Python",
     "name": "dheerajkarwasra/spanlight",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-10-14T16:00:59Z",
     "url": "https://github.com/dheerajkarwasra/spanlight"
   },
@@ -295,24 +385,6 @@
     "stars": 2,
     "updated_at": "2026-10-14T16:27:18Z",
     "url": "https://github.com/redevops-io/agentic-os"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 30550,
-    "updated_at": "2026-10-14T15:58:40Z",
-    "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2979,
-    "updated_at": "2026-10-14T16:12:25Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "A deterministic linter for agent runs \u2014 reads the execution trace and flags structural bugs (ignored errors, schema viol",
@@ -351,15 +423,6 @@
     "url": "https://github.com/DemetZhdanov8843/llmix"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22595,
-    "updated_at": "2026-10-14T16:03:17Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Model Context Protocol (MCP) Server for Langfuse Prompt Management. This server allows you to access and manage your Lan",
     "id": "Lefebvre10317/mcp-server-langfuse",
     "language": "TypeScript",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-14T15:47:45Z",
     "url": "https://github.com/redevops-io/redevops-demo"
-  },
-  {
-    "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
-    "id": "Sundberg84811/ZizkaDB",
-    "language": "Python",
-    "name": "Sundberg84811/ZizkaDB",
-    "stars": 0,
-    "updated_at": "2026-10-14T15:47:01Z",
-    "url": "https://github.com/Sundberg84811/ZizkaDB"
-  },
-  {
-    "description": "AgentOps and OpenTelemetry platform: OTLP agent traces, cost attribution, multi-window burn-rate SLO alerting and policy",
-    "id": "kogunlowo123/agentops-slo-platform",
-    "language": "Python",
-    "name": "kogunlowo123/agentops-slo-platform",
-    "stars": 0,
-    "updated_at": "2026-10-14T15:49:14Z",
-    "url": "https://github.com/kogunlowo123/agentops-slo-platform"
-  },
-  {
-    "description": "Cheaper and better Greptile alternative runs on your own github actions.",
-    "id": "Richardson60512/juror",
-    "language": "TypeScript",
-    "name": "Richardson60512/juror",
-    "stars": 0,
-    "updated_at": "2026-10-14T15:41:40Z",
-    "url": "https://github.com/Richardson60512/juror"
-  },
-  {
-    "description": "Fast, streaming indexing, query, and agentic LLM applications in Rust",
-    "id": "bosun-ai/swiftide",
-    "language": "Rust",
-    "name": "bosun-ai/swiftide",
-    "stars": 791,
-    "updated_at": "2026-10-14T16:26:39Z",
-    "url": "https://github.com/bosun-ai/swiftide"
-  },
-  {
-    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
-    "id": "danielagrigorev79/llmaker",
-    "language": "Go",
-    "name": "danielagrigorev79/llmaker",
-    "stars": 0,
-    "updated_at": "2026-10-14T15:39:06Z",
-    "url": "https://github.com/danielagrigorev79/llmaker"
-  },
-  {
-    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
-    "id": "luetzey/who2be",
-    "language": "Python",
-    "name": "luetzey/who2be",
-    "stars": 0,
-    "updated_at": "2026-10-14T15:39:02Z",
-    "url": "https://github.com/luetzey/who2be"
-  },
-  {
-    "description": "Multi-foundation-model routing and evaluation: compliance-filtered Thompson-sampling routing across GPT, Claude, Gemini,",
-    "id": "kogunlowo123/model-routing-evaluation",
-    "language": "Python",
-    "name": "kogunlowo123/model-routing-evaluation",
-    "stars": 0,
-    "updated_at": "2026-10-14T15:41:45Z",
-    "url": "https://github.com/kogunlowo123/model-routing-evaluation"
   }
 ]
