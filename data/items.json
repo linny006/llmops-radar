@@ -1,5 +1,95 @@
 [
   {
+    "description": "Policy, measurement, and operations workbench for running Codex and Claude agents safely across a GitHub estate.",
+    "id": "Chris0Jeky/agent-harness",
+    "language": "Python",
+    "name": "Chris0Jeky/agent-harness",
+    "stars": 2,
+    "updated_at": "2026-10-14T19:59:20Z",
+    "url": "https://github.com/Chris0Jeky/agent-harness"
+  },
+  {
+    "description": "Self-hosted coding assistant that routes each request to the cheapest model that can handle it",
+    "id": "optiware-ai/optimux",
+    "language": "Python",
+    "name": "optiware-ai/optimux",
+    "stars": 1,
+    "updated_at": "2026-10-14T19:56:31Z",
+    "url": "https://github.com/optiware-ai/optimux"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 9008,
+    "updated_at": "2026-10-14T19:59:28Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Healthcare RAG service with a built-in evaluation harness. Hybrid retrieval (pgvector + Postgres FTS), optional reranker",
+    "id": "alyrraza/docdesk-healthcare-rag-evals",
+    "language": "Python",
+    "name": "alyrraza/docdesk-healthcare-rag-evals",
+    "stars": 0,
+    "updated_at": "2026-10-14T19:55:28Z",
+    "url": "https://github.com/alyrraza/docdesk-healthcare-rag-evals"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61259,
+    "updated_at": "2026-10-14T19:59:00Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-10-14T19:47:50Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "Production-grade observability and agentic AIOps for AI systems \u2014 OpenTelemetry-native across independent polyglot apps;",
+    "id": "Root1V/argus-observability-platform",
+    "language": "Python",
+    "name": "Root1V/argus-observability-platform",
+    "stars": 1,
+    "updated_at": "2026-10-14T19:47:26Z",
+    "url": "https://github.com/Root1V/argus-observability-platform"
+  },
+  {
+    "description": "Nagizaaz Shaik \u2014 ML & AI Systems Engineer",
+    "id": "shaikn6/shaikn6",
+    "language": "Python",
+    "name": "shaikn6/shaikn6",
+    "stars": 0,
+    "updated_at": "2026-10-14T19:47:39Z",
+    "url": "https://github.com/shaikn6/shaikn6"
+  },
+  {
+    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4947,
+    "updated_at": "2026-10-14T19:56:11Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-14T19:45:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
     "id": "sarkars/agent-failure-modes",
     "language": "Python",
@@ -14,7 +104,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-14T19:43:44Z",
+    "updated_at": "2026-10-14T19:58:15Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -23,17 +113,17 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22601,
-    "updated_at": "2026-10-14T19:41:50Z",
+    "updated_at": "2026-10-14T19:47:57Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61256,
-    "updated_at": "2026-10-14T19:45:13Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26001,
+    "updated_at": "2026-10-14T19:40:46Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
@@ -43,15 +133,6 @@
     "stars": 3,
     "updated_at": "2026-10-14T19:41:44Z",
     "url": "https://github.com/crewhaus/factory"
-  },
-  {
-    "description": "Policy, measurement, and operations workbench for running Codex and Claude agents safely across a GitHub estate.",
-    "id": "Chris0Jeky/agent-harness",
-    "language": "Python",
-    "name": "Chris0Jeky/agent-harness",
-    "stars": 2,
-    "updated_at": "2026-10-14T19:40:14Z",
-    "url": "https://github.com/Chris0Jeky/agent-harness"
   },
   {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
@@ -90,15 +171,6 @@
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-14T19:30:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Dify with Let's Encrypt Using Docker Compose",
     "id": "heyvaldemar/dify-traefik-letsencrypt-docker-compose",
     "language": "Shell",
@@ -115,33 +187,6 @@
     "stars": 23,
     "updated_at": "2026-10-14T19:24:21Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4947,
-    "updated_at": "2026-10-14T19:44:46Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Self-hosted coding assistant that routes each request to the cheapest model that can handle it",
-    "id": "optiware-ai/optimux",
-    "language": "Python",
-    "name": "optiware-ai/optimux",
-    "stars": 1,
-    "updated_at": "2026-10-14T19:21:50Z",
-    "url": "https://github.com/optiware-ai/optimux"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 9008,
-    "updated_at": "2026-10-14T19:21:46Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
@@ -166,7 +211,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11836,
+    "stars": 11837,
     "updated_at": "2026-10-14T19:17:10Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -194,7 +239,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 520,
-    "updated_at": "2026-10-14T19:34:07Z",
+    "updated_at": "2026-10-14T19:52:35Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -241,15 +286,6 @@
     "stars": 1,
     "updated_at": "2026-10-14T19:09:18Z",
     "url": "https://github.com/Ghostfactory-art/spanchain"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26000,
-    "updated_at": "2026-10-14T19:40:46Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "The platform for continuously improving AI agents.",
@@ -356,7 +392,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8877,
-    "updated_at": "2026-10-14T19:37:50Z",
+    "updated_at": "2026-10-14T19:56:50Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-14T17:49:30Z",
     "url": "https://github.com/xuerp/ai-knowledge-explorer"
-  },
-  {
-    "description": "LLM spend tracking and budgets for Rails \u2014 by user, feature, or any tag, in your own database, no proxy.",
-    "id": "sergey-homenko/llm_cost_tracker",
-    "language": "Ruby",
-    "name": "sergey-homenko/llm_cost_tracker",
-    "stars": 46,
-    "updated_at": "2026-10-14T17:45:51Z",
-    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
-  },
-  {
-    "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
-    "id": "homemade-software-inc/completion-kit",
-    "language": "Ruby",
-    "name": "homemade-software-inc/completion-kit",
-    "stars": 3,
-    "updated_at": "2026-10-14T17:45:13Z",
-    "url": "https://github.com/homemade-software-inc/completion-kit"
-  },
-  {
-    "description": "Live cost, token and context usage sidebar for Claude Code: a mod that shows cost per turn, cache hit rate, burn rate an",
-    "id": "andrewbakercloudscale/claude-code-cost-sidebar",
-    "language": "Shell",
-    "name": "andrewbakercloudscale/claude-code-cost-sidebar",
-    "stars": 1,
-    "updated_at": "2026-10-14T17:45:11Z",
-    "url": "https://github.com/andrewbakercloudscale/claude-code-cost-sidebar"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-10-14T17:43:44Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   }
 ]
