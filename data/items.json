@@ -1,12 +1,66 @@
 [
   {
-    "description": "Production-ready platform for deploying OpenAI-compatible LLM inference on Kubernetes. A one-command installer for enter",
-    "id": "intel/enterprise-ai-solutions",
-    "language": "Shell",
-    "name": "intel/enterprise-ai-solutions",
-    "stars": 8,
-    "updated_at": "2026-10-14T18:15:13Z",
-    "url": "https://github.com/intel/enterprise-ai-solutions"
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 9004,
+    "updated_at": "2026-10-14T18:29:55Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "In-process Python metaframework on Pydantic AI for production GenAI \u2014 composable, protocol-driven layers for agents & mi",
+    "id": "fireflyframework/fireflyframework-agentic",
+    "language": "Python",
+    "name": "fireflyframework/fireflyframework-agentic",
+    "stars": 4,
+    "updated_at": "2026-10-14T18:28:50Z",
+    "url": "https://github.com/fireflyframework/fireflyframework-agentic"
+  },
+  {
+    "description": "Profile of Dr. Ravi Teja Thiriveedhi \u2014 clinician turned AI systems architect: multi-agent platforms, AI governance, LLM ",
+    "id": "Raviteja2k2k/Raviteja2k2k",
+    "language": "Python",
+    "name": "Raviteja2k2k/Raviteja2k2k",
+    "stars": 0,
+    "updated_at": "2026-10-14T18:26:39Z",
+    "url": "https://github.com/Raviteja2k2k/Raviteja2k2k"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61252,
+    "updated_at": "2026-10-14T18:28:32Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-14T18:24:47Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 520,
+    "updated_at": "2026-10-14T18:27:18Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Case study + playbook: an AI agent fleet cut heartbeat tokens 12.0M to 1.0M a day (-91%). 18 methods across 5 groups, wi",
+    "id": "sterilefield/llm-token-economics",
+    "language": "Python",
+    "name": "sterilefield/llm-token-economics",
+    "stars": 0,
+    "updated_at": "2026-10-14T18:25:41Z",
+    "url": "https://github.com/sterilefield/llm-token-economics"
   },
   {
     "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
@@ -14,17 +68,44 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4947,
-    "updated_at": "2026-10-14T18:14:07Z",
+    "updated_at": "2026-10-14T18:26:46Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
+    "description": "Self-hosted coding assistant that routes each request to the cheapest model that can handle it",
+    "id": "optiware-ai/optimux",
     "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 9001,
-    "updated_at": "2026-10-14T18:13:09Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
+    "name": "optiware-ai/optimux",
+    "stars": 1,
+    "updated_at": "2026-10-14T18:19:36Z",
+    "url": "https://github.com/optiware-ai/optimux"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-10-14T18:19:11Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-14T18:15:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Production-ready platform for deploying OpenAI-compatible LLM inference on Kubernetes. A one-command installer for enter",
+    "id": "intel/enterprise-ai-solutions",
+    "language": "Shell",
+    "name": "intel/enterprise-ai-solutions",
+    "stars": 8,
+    "updated_at": "2026-10-14T18:15:13Z",
+    "url": "https://github.com/intel/enterprise-ai-solutions"
   },
   {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
@@ -36,24 +117,6 @@
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61249,
-    "updated_at": "2026-10-14T18:15:26Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "In-process Python metaframework on Pydantic AI for production GenAI \u2014 composable, protocol-driven layers for agents & mi",
-    "id": "fireflyframework/fireflyframework-agentic",
-    "language": "Python",
-    "name": "fireflyframework/fireflyframework-agentic",
-    "stars": 4,
-    "updated_at": "2026-10-14T18:11:29Z",
-    "url": "https://github.com/fireflyframework/fireflyframework-agentic"
-  },
-  {
     "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
     "id": "veerarakesh56/warden",
     "language": "Python",
@@ -61,24 +124,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T18:09:15Z",
     "url": "https://github.com/veerarakesh56/warden"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-10-14T18:06:43Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 520,
-    "updated_at": "2026-10-14T18:09:29Z",
-    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
@@ -90,21 +135,12 @@
     "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-14T18:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
     "id": "korczis/prismatic-majordomus",
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-14T18:00:01Z",
+    "updated_at": "2026-10-14T18:29:40Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -112,7 +148,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 35827,
+    "stars": 35828,
     "updated_at": "2026-10-14T17:59:26Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -131,7 +167,7 @@
     "language": "Python",
     "name": "theagentplane/control-plane",
     "stars": 4,
-    "updated_at": "2026-10-14T17:56:09Z",
+    "updated_at": "2026-10-14T18:29:28Z",
     "url": "https://github.com/theagentplane/control-plane"
   },
   {
@@ -149,7 +185,7 @@
     "language": "Python",
     "name": "luetzey/who2be",
     "stars": 0,
-    "updated_at": "2026-10-14T17:52:12Z",
+    "updated_at": "2026-10-14T18:21:28Z",
     "url": "https://github.com/luetzey/who2be"
   },
   {
@@ -234,15 +270,6 @@
     "url": "https://github.com/cubxxw/blog"
   },
   {
-    "description": "Self-hosted coding assistant that routes each request to the cheapest model that can handle it",
-    "id": "optiware-ai/optimux",
-    "language": "Python",
-    "name": "optiware-ai/optimux",
-    "stars": 1,
-    "updated_at": "2026-10-14T17:29:23Z",
-    "url": "https://github.com/optiware-ai/optimux"
-  },
-  {
     "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
     "id": "redevops-io/agentic-os",
     "language": "Python",
@@ -292,7 +319,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 22598,
+    "stars": 22600,
     "updated_at": "2026-10-14T17:01:35Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -304,6 +331,15 @@
     "stars": 0,
     "updated_at": "2026-10-14T17:05:17Z",
     "url": "https://github.com/fadenstack/fadenstack"
+  },
+  {
+    "description": "Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. \ud83d\udc33Docker-friendly.\u26a1Always in sy",
+    "id": "pathwaycom/serviette",
+    "language": "Jupyter Notebook",
+    "name": "pathwaycom/serviette",
+    "stars": 58788,
+    "updated_at": "2026-10-14T16:56:37Z",
+    "url": "https://github.com/pathwaycom/serviette"
   },
   {
     "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-14T17:13:08Z",
     "url": "https://github.com/kogunlowo123/context-engineering-graphrag"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-14T16:26:15Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Production LLM call layer for AI agents and tools: keep OpenAI/Anthropic/AI SDK/LiteLLM, hot-swap models with MDA preset",
-    "id": "dimitriou23/llmix",
-    "language": "Python",
-    "name": "dimitriou23/llmix",
-    "stars": 0,
-    "updated_at": "2026-10-14T16:25:40Z",
-    "url": "https://github.com/dimitriou23/llmix"
-  },
-  {
-    "description": "An open-source CLI plus GitHub Action that prevents unsafe prompt, model, retrieval, tool, or configuration changes from",
-    "id": "Chris0Jeky/llm-release-gate",
-    "language": "Python",
-    "name": "Chris0Jeky/llm-release-gate",
-    "stars": 0,
-    "updated_at": "2026-10-14T16:24:39Z",
-    "url": "https://github.com/Chris0Jeky/llm-release-gate"
-  },
-  {
-    "description": "AegisRAG is a security-first, auditable enterprise RAG backend for teams that care more about access control,traceabilit",
-    "id": "chyinan/AegisRAG",
-    "language": "Python",
-    "name": "chyinan/AegisRAG",
-    "stars": 4,
-    "updated_at": "2026-10-14T16:24:34Z",
-    "url": "https://github.com/chyinan/AegisRAG"
   }
 ]
