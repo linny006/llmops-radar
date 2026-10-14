@@ -1,12 +1,39 @@
 [
   {
-    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
-    "id": "korczis/prismatic-majordomus",
-    "language": "Rust",
-    "name": "korczis/prismatic-majordomus",
-    "stars": 0,
-    "updated_at": "2026-10-14T11:44:39Z",
-    "url": "https://github.com/korczis/prismatic-majordomus"
+    "description": "\u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 Claude Code \u0438 \u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u043e\u043c GitHub \u2014 \u043a\u0430\u0436\u0434\u043e\u0435 \u0441 \u0438\u0441\u0442\u043e\u0440\u0438\u0435\u0439 \u043f\u043e\u043b\u043e\u043c\u043a\u0438, \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b\u0440\u043e\u0441\u043b\u043e \u00b7 Incident-based rules ",
+    "id": "ArtVsMark/Engineering-Incidents-Playbook",
+    "language": "Python",
+    "name": "ArtVsMark/Engineering-Incidents-Playbook",
+    "stars": 5,
+    "updated_at": "2026-10-14T12:00:22Z",
+    "url": "https://github.com/ArtVsMark/Engineering-Incidents-Playbook"
+  },
+  {
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
+    "language": "Python",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 53,
+    "updated_at": "2026-10-14T11:57:48Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-14T11:56:36Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "OpenLIT is the open-source agent harness engineering platform: trace, evaluate, guard, and improve everything around the",
+    "id": "openlit/openlit",
+    "language": "TypeScript",
+    "name": "openlit/openlit",
+    "stars": 2849,
+    "updated_at": "2026-10-14T11:55:17Z",
+    "url": "https://github.com/openlit/openlit"
   },
   {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
@@ -14,8 +41,35 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 35810,
-    "updated_at": "2026-10-14T11:43:12Z",
+    "updated_at": "2026-10-14T11:59:30Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
+    "id": "AixleHQ/flow",
+    "language": "Ruby",
+    "name": "AixleHQ/flow",
+    "stars": 22,
+    "updated_at": "2026-10-14T11:54:52Z",
+    "url": "https://github.com/AixleHQ/flow"
+  },
+  {
+    "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
+    "id": "Amz34/awesome-agent-infrastructure",
+    "language": "Python",
+    "name": "Amz34/awesome-agent-infrastructure",
+    "stars": 0,
+    "updated_at": "2026-10-14T11:54:09Z",
+    "url": "https://github.com/Amz34/awesome-agent-infrastructure"
+  },
+  {
+    "description": "Profile of Dr. Ravi Teja Thiriveedhi \u2014 clinician turned AI systems architect: multi-agent platforms, AI governance, LLM ",
+    "id": "Raviteja2k2k/Raviteja2k2k",
+    "language": "Python",
+    "name": "Raviteja2k2k/Raviteja2k2k",
+    "stars": 0,
+    "updated_at": "2026-10-14T11:53:46Z",
+    "url": "https://github.com/Raviteja2k2k/Raviteja2k2k"
   },
   {
     "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
@@ -23,8 +77,53 @@
     "language": "Python",
     "name": "SourceShift/mini-ork",
     "stars": 31,
-    "updated_at": "2026-10-14T11:42:54Z",
+    "updated_at": "2026-10-14T11:53:20Z",
     "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-10-14T11:52:10Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2978,
+    "updated_at": "2026-10-14T11:54:37Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 23,
+    "updated_at": "2026-10-14T11:46:33Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-14T11:45:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
+    "id": "korczis/prismatic-majordomus",
+    "language": "Rust",
+    "name": "korczis/prismatic-majordomus",
+    "stars": 0,
+    "updated_at": "2026-10-14T11:51:41Z",
+    "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
     "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
@@ -45,33 +144,6 @@
     "url": "https://github.com/optiware-ai/optimux"
   },
   {
-    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
-    "id": "AixleHQ/flow",
-    "language": "Ruby",
-    "name": "AixleHQ/flow",
-    "stars": 22,
-    "updated_at": "2026-10-14T11:42:19Z",
-    "url": "https://github.com/AixleHQ/flow"
-  },
-  {
-    "description": "\u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 Claude Code \u0438 \u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u043e\u043c GitHub \u2014 \u043a\u0430\u0436\u0434\u043e\u0435 \u0441 \u0438\u0441\u0442\u043e\u0440\u0438\u0435\u0439 \u043f\u043e\u043b\u043e\u043c\u043a\u0438, \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b\u0440\u043e\u0441\u043b\u043e \u00b7 Incident-based rules ",
-    "id": "ArtVsMark/Engineering-Incidents-Playbook",
-    "language": "Python",
-    "name": "ArtVsMark/Engineering-Incidents-Playbook",
-    "stars": 5,
-    "updated_at": "2026-10-14T11:44:27Z",
-    "url": "https://github.com/ArtVsMark/Engineering-Incidents-Playbook"
-  },
-  {
-    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-10-14T11:37:46Z",
-    "url": "https://github.com/veerarakesh56/warden"
-  },
-  {
     "description": "Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF\u2194Bedrock mapping (US regions) with a free st",
     "id": "scttfrdmn/hf-bedrock-map",
     "language": "Go",
@@ -85,7 +157,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 8944,
+    "stars": 8945,
     "updated_at": "2026-10-14T11:35:21Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -97,24 +169,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T11:34:27Z",
     "url": "https://github.com/dataagentsai/ai-assurance-catalog"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-14T11:32:27Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-14T11:30:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The open-source agentic framework to build, orchestrate, and operate production AI agents.",
@@ -131,7 +185,7 @@
     "language": "Python",
     "name": "luetzey/who2be",
     "stars": 0,
-    "updated_at": "2026-10-14T11:29:25Z",
+    "updated_at": "2026-10-14T11:55:48Z",
     "url": "https://github.com/luetzey/who2be"
   },
   {
@@ -140,7 +194,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22592,
-    "updated_at": "2026-10-14T11:43:19Z",
+    "updated_at": "2026-10-14T11:59:33Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -153,21 +207,12 @@
     "url": "https://github.com/KRISH123no/airlock"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2978,
-    "updated_at": "2026-10-14T11:23:21Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61221,
-    "updated_at": "2026-10-14T11:42:53Z",
+    "updated_at": "2026-10-14T11:58:37Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -194,7 +239,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4947,
-    "updated_at": "2026-10-14T11:44:06Z",
+    "updated_at": "2026-10-14T12:00:10Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -203,7 +248,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 2,
-    "updated_at": "2026-10-14T11:15:19Z",
+    "updated_at": "2026-10-14T11:57:13Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -212,7 +257,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 184,
-    "updated_at": "2026-10-14T11:42:31Z",
+    "updated_at": "2026-10-14T11:59:39Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -221,7 +266,7 @@
     "language": "Python",
     "name": "architsharm/agentfox",
     "stars": 3,
-    "updated_at": "2026-10-14T11:17:39Z",
+    "updated_at": "2026-10-14T11:53:26Z",
     "url": "https://github.com/architsharm/agentfox"
   },
   {
@@ -266,7 +311,7 @@
     "language": "Python",
     "name": "Yacine-ai-tech/IntelAI",
     "stars": 0,
-    "updated_at": "2026-10-14T11:06:47Z",
+    "updated_at": "2026-10-14T11:54:37Z",
     "url": "https://github.com/Yacine-ai-tech/IntelAI"
   },
   {
@@ -277,15 +322,6 @@
     "stars": 1,
     "updated_at": "2026-10-14T11:05:39Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 23,
-    "updated_at": "2026-10-14T11:03:33Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "\u9876\u7ea7\u5ba1\u7f8e\u7684\u4e2a\u4eba\u535a\u5ba2\uff01\uff01\uff01\u5199\u4e00\u4e9b\u5173\u4e8e AI\u3001Agent\u3001\u6280\u672f\u3001\u4ea7\u54c1\u3001\u8425\u9500\u3001\u4e00\u4e9b\u751f\u6d3b\u601d\u8003\uff0c\u4e2a\u4eba\u6210\u957f\u7c7b\u7684\u7cbe\u6587",
@@ -329,7 +365,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse-js",
     "stars": 174,
-    "updated_at": "2026-10-14T10:55:44Z",
+    "updated_at": "2026-10-14T11:52:25Z",
     "url": "https://github.com/langfuse/langfuse-js"
   },
   {
@@ -351,15 +387,6 @@
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
-    "description": "OpenLIT is the open-source agent harness engineering platform: trace, evaluate, guard, and improve everything around the",
-    "id": "openlit/openlit",
-    "language": "TypeScript",
-    "name": "openlit/openlit",
-    "stars": 2849,
-    "updated_at": "2026-10-14T10:52:16Z",
-    "url": "https://github.com/openlit/openlit"
-  },
-  {
     "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
     "id": "ZIZKA-AI-SL/ZizkaDB",
     "language": "Python",
@@ -373,7 +400,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 30545,
+    "stars": 30546,
     "updated_at": "2026-10-14T10:42:00Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -383,7 +410,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 519,
-    "updated_at": "2026-10-14T11:24:34Z",
+    "updated_at": "2026-10-14T11:58:14Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -414,15 +441,6 @@
     "url": "https://github.com/sterilefield/llm-token-economics"
   },
   {
-    "description": "Profile of Dr. Ravi Teja Thiriveedhi \u2014 clinician turned AI systems architect: multi-agent platforms, AI governance, LLM ",
-    "id": "Raviteja2k2k/Raviteja2k2k",
-    "language": "Python",
-    "name": "Raviteja2k2k/Raviteja2k2k",
-    "stars": 0,
-    "updated_at": "2026-10-14T10:26:52Z",
-    "url": "https://github.com/Raviteja2k2k/Raviteja2k2k"
-  },
-  {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
     "id": "api7/aisix",
     "language": "Rust",
@@ -430,23 +448,5 @@
     "stars": 188,
     "updated_at": "2026-10-14T10:24:57Z",
     "url": "https://github.com/api7/aisix"
-  },
-  {
-    "description": "Governed AI pipelines for service businesses. Deterministic-first, single Go binary, operator-approved.",
-    "id": "renezander030/draftcat",
-    "language": "Go",
-    "name": "renezander030/draftcat",
-    "stars": 9,
-    "updated_at": "2026-10-14T10:19:36Z",
-    "url": "https://github.com/renezander030/draftcat"
-  },
-  {
-    "description": "Fast, streaming indexing, query, and agentic LLM applications in Rust",
-    "id": "bosun-ai/swiftide",
-    "language": "Rust",
-    "name": "bosun-ai/swiftide",
-    "stars": 791,
-    "updated_at": "2026-10-14T11:41:05Z",
-    "url": "https://github.com/bosun-ai/swiftide"
   }
 ]
