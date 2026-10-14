@@ -1,21 +1,102 @@
 [
   {
-    "description": "Self-hosted production platform for deploying, routing, scheduling, and observing Eve agent fleets.",
-    "id": "evelandhq/eveland",
-    "language": "TypeScript",
-    "name": "evelandhq/eveland",
-    "stars": 9,
-    "updated_at": "2026-10-14T03:29:32Z",
-    "url": "https://github.com/evelandhq/eveland"
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1263,
+    "updated_at": "2026-10-14T03:43:26Z",
+    "url": "https://github.com/Arize-ai/openinference"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 61186,
-    "updated_at": "2026-10-14T03:30:09Z",
+    "stars": 61187,
+    "updated_at": "2026-10-14T03:43:28Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 107,
+    "updated_at": "2026-10-14T03:40:49Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-10-14T03:39:28Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-14T03:39:11Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 30,
+    "updated_at": "2026-10-14T03:38:41Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11826,
+    "updated_at": "2026-10-14T03:44:49Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Top AI Telemetry Observability Stacks (Opensource)  Star if you like it! ",
+    "id": "ishandutta2007/Awesome-AI-Telemetry-Observability-Stacks",
+    "language": "\u2014",
+    "name": "ishandutta2007/Awesome-AI-Telemetry-Observability-Stacks",
+    "stars": 0,
+    "updated_at": "2026-10-14T03:38:23Z",
+    "url": "https://github.com/ishandutta2007/Awesome-AI-Telemetry-Observability-Stacks"
+  },
+  {
+    "description": "Self-hosted production platform for deploying, routing, scheduling, and observing Eve agent fleets.",
+    "id": "evelandhq/eveland",
+    "language": "TypeScript",
+    "name": "evelandhq/eveland",
+    "stars": 9,
+    "updated_at": "2026-10-14T03:33:50Z",
+    "url": "https://github.com/evelandhq/eveland"
+  },
+  {
+    "description": "Terminal trace debugger for AI agents.",
+    "id": "tonquoc0407/capybara",
+    "language": "Go",
+    "name": "tonquoc0407/capybara",
+    "stars": 12,
+    "updated_at": "2026-10-14T03:31:25Z",
+    "url": "https://github.com/tonquoc0407/capybara"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-14T03:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Tracking my journey into AI engineering, one module at a time. Fundamentals to agents, with hands-on projects. Open to a",
@@ -27,31 +108,13 @@
     "url": "https://github.com/bimal1023/AI-native-engineer"
   },
   {
-    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-10-14T03:28:36Z",
-    "url": "https://github.com/veerarakesh56/warden"
-  },
-  {
     "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
     "id": "a-novel/service-genai",
     "language": "Go",
     "name": "a-novel/service-genai",
     "stars": 1,
-    "updated_at": "2026-10-14T03:27:10Z",
+    "updated_at": "2026-10-14T03:45:07Z",
     "url": "https://github.com/a-novel/service-genai"
-  },
-  {
-    "description": "Terminal trace debugger for AI agents.",
-    "id": "tonquoc0407/capybara",
-    "language": "Go",
-    "name": "tonquoc0407/capybara",
-    "stars": 12,
-    "updated_at": "2026-10-14T03:26:42Z",
-    "url": "https://github.com/tonquoc0407/capybara"
   },
   {
     "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
@@ -63,30 +126,12 @@
     "url": "https://github.com/coze-dev/coze-loop"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-14T03:24:57Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Top AI Telemetry Observability Stacks (Opensource)  Star if you like it! ",
-    "id": "ishandutta2007/Awesome-AI-Telemetry-Observability-Stacks",
-    "language": "\u2014",
-    "name": "ishandutta2007/Awesome-AI-Telemetry-Observability-Stacks",
-    "stars": 0,
-    "updated_at": "2026-10-14T03:22:39Z",
-    "url": "https://github.com/ishandutta2007/Awesome-AI-Telemetry-Observability-Stacks"
-  },
-  {
     "description": "An open-source CLI plus GitHub Action that prevents unsafe prompt, model, retrieval, tool, or configuration changes from",
     "id": "Chris0Jeky/llm-release-gate",
     "language": "Python",
     "name": "Chris0Jeky/llm-release-gate",
     "stars": 0,
-    "updated_at": "2026-10-14T03:19:34Z",
+    "updated_at": "2026-10-14T03:40:30Z",
     "url": "https://github.com/Chris0Jeky/llm-release-gate"
   },
   {
@@ -95,17 +140,8 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28374,
-    "updated_at": "2026-10-14T03:16:45Z",
+    "updated_at": "2026-10-14T03:44:47Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-14T03:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Static gate for LLM calls that resend a large static prompt prefix without prompt caching - an unforced 5-10x token over",
@@ -131,7 +167,7 @@
     "language": "Python",
     "name": "luetzey/who2be",
     "stars": 0,
-    "updated_at": "2026-10-14T03:10:14Z",
+    "updated_at": "2026-10-14T03:41:58Z",
     "url": "https://github.com/luetzey/who2be"
   },
   {
@@ -149,7 +185,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 2,
-    "updated_at": "2026-10-14T03:10:36Z",
+    "updated_at": "2026-10-14T03:44:54Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -184,7 +220,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 22584,
+    "stars": 22585,
     "updated_at": "2026-10-14T02:46:12Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -203,17 +239,8 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-10-14T03:19:38Z",
+    "updated_at": "2026-10-14T03:42:54Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11826,
-    "updated_at": "2026-10-14T02:43:27Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
@@ -229,7 +256,7 @@
     "id": "vllm-project/vllm-ascend",
     "language": "Python",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2975,
+    "stars": 2976,
     "updated_at": "2026-10-14T02:38:00Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
@@ -257,7 +284,7 @@
     "language": "TypeScript",
     "name": "burakdede/lorepack",
     "stars": 3,
-    "updated_at": "2026-10-14T02:33:57Z",
+    "updated_at": "2026-10-14T03:36:49Z",
     "url": "https://github.com/burakdede/lorepack"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-14T02:10:58Z",
     "url": "https://github.com/Anbumani08/agentic-coding-workflow"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-10-14T02:10:36Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
-  },
-  {
-    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
-    "id": "sarrahw23/deploy-guide",
-    "language": "\u2014",
-    "name": "sarrahw23/deploy-guide",
-    "stars": 1,
-    "updated_at": "2026-10-14T02:10:23Z",
-    "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "Hybrid RAG with document ingestion, guardrails (prompt injection, hallucination, out-of-scope) and an automated evaluati",
-    "id": "austinfutures/enterprise-rag-guardrails",
-    "language": "Python",
-    "name": "austinfutures/enterprise-rag-guardrails",
-    "stars": 0,
-    "updated_at": "2026-10-14T02:09:17Z",
-    "url": "https://github.com/austinfutures/enterprise-rag-guardrails"
   }
 ]
