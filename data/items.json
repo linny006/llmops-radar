@@ -4,18 +4,45 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 61195,
-    "updated_at": "2026-10-14T06:13:43Z",
+    "stars": 61196,
+    "updated_at": "2026-10-14T06:29:22Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
+    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
+    "id": "scotth96/llmaker",
     "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-14T06:11:55Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
+    "name": "scotth96/llmaker",
+    "stars": 0,
+    "updated_at": "2026-10-14T06:28:59Z",
+    "url": "https://github.com/scotth96/llmaker"
+  },
+  {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-10-14T06:28:31Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 23,
+    "updated_at": "2026-10-14T06:27:30Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-10-14T06:27:11Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
@@ -23,8 +50,44 @@
     "language": "Python",
     "name": "vllm-project/vllm-ascend",
     "stars": 2977,
-    "updated_at": "2026-10-14T06:10:48Z",
+    "updated_at": "2026-10-14T06:25:36Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
+    "id": "luetzey/who2be",
+    "language": "Python",
+    "name": "luetzey/who2be",
+    "stars": 0,
+    "updated_at": "2026-10-14T06:21:02Z",
+    "url": "https://github.com/luetzey/who2be"
+  },
+  {
+    "description": "AgentFox: open-source control plane for AI agents. Guardrails on model traffic, tool calls bounded by capability grants,",
+    "id": "architsharm/agentfox",
+    "language": "Python",
+    "name": "architsharm/agentfox",
+    "stars": 3,
+    "updated_at": "2026-10-14T06:17:45Z",
+    "url": "https://github.com/architsharm/agentfox"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-14T06:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-14T06:26:33Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
@@ -45,15 +108,6 @@
     "url": "https://github.com/Hoffmann98/llmaker"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 23,
-    "updated_at": "2026-10-14T06:02:28Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
     "description": "A MCP server allowing LLM agents to easily connect and retrieve data from any database",
     "id": "oDuong8351/turbular",
     "language": "Python",
@@ -63,21 +117,12 @@
     "url": "https://github.com/oDuong8351/turbular"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-14T06:00:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4945,
-    "updated_at": "2026-10-14T06:06:54Z",
+    "updated_at": "2026-10-14T06:26:28Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -169,6 +214,24 @@
     "stars": 12046,
     "updated_at": "2026-10-14T05:43:13Z",
     "url": "https://github.com/dataelement/bisheng"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 2146,
+    "updated_at": "2026-10-14T06:29:22Z",
+    "url": "https://github.com/future-agi/future-agi"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35797,
+    "updated_at": "2026-10-14T06:28:41Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Estimate LLM VRAM \u2014 model weights, KV cache, context window & concurrent users \u2014 and find the right GPU. Live Hugging Fa",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-14T05:14:27Z",
     "url": "https://github.com/FawwazAzka/openclaw-docs"
-  },
-  {
-    "description": "\ud83c\udf3f Analyze and optimize AI prompt energy use, costs, and carbon footprints with real-time dashboards and expert insights.",
-    "id": "developersofik/greenprompt",
-    "language": "TypeScript",
-    "name": "developersofik/greenprompt",
-    "stars": 0,
-    "updated_at": "2026-10-14T05:12:06Z",
-    "url": "https://github.com/developersofik/greenprompt"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 4,
-    "updated_at": "2026-10-14T05:10:27Z",
-    "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
-    "id": "Alexreye/advance-nlp-generative-ai",
-    "language": "\u2014",
-    "name": "Alexreye/advance-nlp-generative-ai",
-    "stars": 1,
-    "updated_at": "2026-10-14T05:09:21Z",
-    "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
-  },
-  {
-    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
-    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "language": "\u2014",
-    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "stars": 0,
-    "updated_at": "2026-10-14T05:07:20Z",
-    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "Expose muse.ai as a drop-in OpenAI-compatible API with an async FastAPI gateway for seamless integration.",
-    "id": "Kokotpica/muse2api",
-    "language": "Python",
-    "name": "Kokotpica/muse2api",
-    "stars": 2,
-    "updated_at": "2026-10-14T05:07:04Z",
-    "url": "https://github.com/Kokotpica/muse2api"
-  },
-  {
-    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-10-14T05:06:57Z",
-    "url": "https://github.com/veerarakesh56/warden"
-  },
-  {
-    "description": "\ud83d\udcca Build an interactive analytics dashboard with Spring Boot and JavaScript, featuring real-time data updates and advance",
-    "id": "bharion1/analytics-dashboard",
-    "language": "\u2014",
-    "name": "bharion1/analytics-dashboard",
-    "stars": 0,
-    "updated_at": "2026-10-14T05:06:50Z",
-    "url": "https://github.com/bharion1/analytics-dashboard"
   }
 ]
