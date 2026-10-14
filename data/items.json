@@ -1,11 +1,83 @@
 [
   {
+    "description": "Run-aware token governance for multi-agent systems.",
+    "id": "theagentplane/tokenops",
+    "language": "Python",
+    "name": "theagentplane/tokenops",
+    "stars": 83,
+    "updated_at": "2026-10-14T20:43:23Z",
+    "url": "https://github.com/theagentplane/tokenops"
+  },
+  {
+    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 1,
+    "updated_at": "2026-10-14T20:42:58Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "Admin API for Cycles \u2014 tenants, budgets, API keys, webhooks, audit, and governance",
+    "id": "runcycles/cycles-server-admin",
+    "language": "Java",
+    "name": "runcycles/cycles-server-admin",
+    "stars": 1,
+    "updated_at": "2026-10-14T20:38:04Z",
+    "url": "https://github.com/runcycles/cycles-server-admin"
+  },
+  {
+    "description": "Hard budget enforcement for Claude Code tool calls \u2014 PreToolUse gating, AI-agent cost control, Cycles usage metering, an",
+    "id": "runcycles/cycles-claude-plugin",
+    "language": "JavaScript",
+    "name": "runcycles/cycles-claude-plugin",
+    "stars": 0,
+    "updated_at": "2026-10-14T20:37:49Z",
+    "url": "https://github.com/runcycles/cycles-claude-plugin"
+  },
+  {
+    "description": "Budget governance for OpenAI Agents SDK \u2014 enforce cost limits before tools execute",
+    "id": "runcycles/cycles-openai-agents",
+    "language": "Python",
+    "name": "runcycles/cycles-openai-agents",
+    "stars": 0,
+    "updated_at": "2026-10-14T20:35:50Z",
+    "url": "https://github.com/runcycles/cycles-openai-agents"
+  },
+  {
+    "description": "Spring AI starter for Cycles \u2014 runtime budget and action authority for Spring AI agents",
+    "id": "runcycles/cycles-spring-ai-starter",
+    "language": "Java",
+    "name": "runcycles/cycles-spring-ai-starter",
+    "stars": 0,
+    "updated_at": "2026-10-14T20:37:43Z",
+    "url": "https://github.com/runcycles/cycles-spring-ai-starter"
+  },
+  {
+    "description": "AI trust-boundary gateway for OpenAI, Anthropic, and Gemini.",
+    "id": "GetSHIM/shim",
+    "language": "Python",
+    "name": "GetSHIM/shim",
+    "stars": 8,
+    "updated_at": "2026-10-14T20:41:11Z",
+    "url": "https://github.com/GetSHIM/shim"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-14T20:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 9011,
-    "updated_at": "2026-10-14T20:30:15Z",
+    "stars": 9013,
+    "updated_at": "2026-10-14T20:45:14Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
@@ -32,7 +104,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61258,
-    "updated_at": "2026-10-14T20:29:57Z",
+    "updated_at": "2026-10-14T20:44:57Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -77,7 +149,7 @@
     "language": "Rust",
     "name": "TAIPANBOX/tokenfuse",
     "stars": 1,
-    "updated_at": "2026-10-14T20:22:17Z",
+    "updated_at": "2026-10-14T20:43:37Z",
     "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
@@ -88,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T20:15:45Z",
     "url": "https://github.com/veerarakesh56/warden"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-14T20:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Agentic Runtime",
@@ -144,6 +207,15 @@
     "url": "https://github.com/alyrraza/docdesk-healthcare-rag-evals"
   },
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22602,
+    "updated_at": "2026-10-14T19:47:57Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "ThakiCloud Tech Blog",
     "id": "ThakiCloud/thakicloud.github.io",
     "language": "JavaScript",
@@ -176,7 +248,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4947,
-    "updated_at": "2026-10-14T20:29:13Z",
+    "updated_at": "2026-10-14T20:40:04Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -194,17 +266,8 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-14T20:29:40Z",
+    "updated_at": "2026-10-14T20:42:11Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22601,
-    "updated_at": "2026-10-14T19:47:57Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -320,7 +383,7 @@
     "language": "Python",
     "name": "llmspendguard/llm-spendguard",
     "stars": 0,
-    "updated_at": "2026-10-14T20:26:01Z",
+    "updated_at": "2026-10-14T20:31:07Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
@@ -338,7 +401,7 @@
     "language": "Python",
     "name": "overmind-core/overmind",
     "stars": 659,
-    "updated_at": "2026-10-14T19:06:07Z",
+    "updated_at": "2026-10-14T20:37:32Z",
     "url": "https://github.com/overmind-core/overmind"
   },
   {
@@ -358,15 +421,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T19:03:45Z",
     "url": "https://github.com/Yacine-ai-tech/RAGeval"
-  },
-  {
-    "description": "Spring AI starter for Cycles \u2014 runtime budget and action authority for Spring AI agents",
-    "id": "runcycles/cycles-spring-ai-starter",
-    "language": "Java",
-    "name": "runcycles/cycles-spring-ai-starter",
-    "stars": 0,
-    "updated_at": "2026-10-14T19:02:49Z",
-    "url": "https://github.com/runcycles/cycles-spring-ai-starter"
   },
   {
     "description": "Governed MCP server and agent runtime: signed action approvals, typed tool effects and audit logs for Claude Desktop, Cu",
@@ -394,59 +448,5 @@
     "stars": 11,
     "updated_at": "2026-10-14T18:55:06Z",
     "url": "https://github.com/AshwinUgale/tracelint"
-  },
-  {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
-    "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 1,
-    "updated_at": "2026-10-14T18:39:44Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "Profile of Dr. Ravi Teja Thiriveedhi \u2014 clinician turned AI systems architect: multi-agent platforms, AI governance, LLM ",
-    "id": "Raviteja2k2k/Raviteja2k2k",
-    "language": "Python",
-    "name": "Raviteja2k2k/Raviteja2k2k",
-    "stars": 0,
-    "updated_at": "2026-10-14T18:37:34Z",
-    "url": "https://github.com/Raviteja2k2k/Raviteja2k2k"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8877,
-    "updated_at": "2026-10-14T20:15:03Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Case study + playbook: an AI agent fleet cut heartbeat tokens 12.0M to 1.0M a day (-91%). 18 methods across 5 groups, wi",
-    "id": "sterilefield/llm-token-economics",
-    "language": "Python",
-    "name": "sterilefield/llm-token-economics",
-    "stars": 0,
-    "updated_at": "2026-10-14T18:25:41Z",
-    "url": "https://github.com/sterilefield/llm-token-economics"
-  },
-  {
-    "description": "Production-ready platform for deploying OpenAI-compatible LLM inference on Kubernetes. A one-command installer for enter",
-    "id": "intel/enterprise-ai-solutions",
-    "language": "Shell",
-    "name": "intel/enterprise-ai-solutions",
-    "stars": 8,
-    "updated_at": "2026-10-14T18:15:13Z",
-    "url": "https://github.com/intel/enterprise-ai-solutions"
-  },
-  {
-    "description": "The open-source agentic framework to build, orchestrate, and operate production AI agents.",
-    "id": "apowerb/apowerb",
-    "language": "Python",
-    "name": "apowerb/apowerb",
-    "stars": 108,
-    "updated_at": "2026-10-14T20:25:51Z",
-    "url": "https://github.com/apowerb/apowerb"
   }
 ]
