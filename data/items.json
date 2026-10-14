@@ -1,12 +1,129 @@
 [
   {
+    "description": "Ollama fleet operations patterns: running local LLM fleets \u2014 model management & manifest sync, fleet health checks, load",
+    "id": "ZQM-Computing/ollama-fleet-patterns",
+    "language": "Python",
+    "name": "ZQM-Computing/ollama-fleet-patterns",
+    "stars": 0,
+    "updated_at": "2026-10-14T21:14:40Z",
+    "url": "https://github.com/ZQM-Computing/ollama-fleet-patterns"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-10-14T21:12:02Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-10-14T21:11:14Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O",
+    "id": "kelvran/gateway",
+    "language": "Go",
+    "name": "kelvran/gateway",
+    "stars": 0,
+    "updated_at": "2026-10-14T21:11:24Z",
+    "url": "https://github.com/kelvran/gateway"
+  },
+  {
+    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4949,
+    "updated_at": "2026-10-14T21:15:20Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 23,
-    "updated_at": "2026-10-14T20:57:11Z",
+    "updated_at": "2026-10-14T21:08:16Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61259,
+    "updated_at": "2026-10-14T21:13:38Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod",
+    "id": "valteresj2/agent-hangar",
+    "language": "Python",
+    "name": "valteresj2/agent-hangar",
+    "stars": 3,
+    "updated_at": "2026-10-14T21:06:51Z",
+    "url": "https://github.com/valteresj2/agent-hangar"
+  },
+  {
+    "description": "The platform for continuously improving AI agents.",
+    "id": "overmind-core/overmind",
+    "language": "Python",
+    "name": "overmind-core/overmind",
+    "stars": 659,
+    "updated_at": "2026-10-14T21:13:48Z",
+    "url": "https://github.com/overmind-core/overmind"
+  },
+  {
+    "description": "Mission SDK \u2014 the developer boundary over the ReDevOps Mission Runtime (author, validate, explain a governed MissionProg",
+    "id": "redevops-io/mission-sdk",
+    "language": "Python",
+    "name": "redevops-io/mission-sdk",
+    "stars": 0,
+    "updated_at": "2026-10-14T21:05:32Z",
+    "url": "https://github.com/redevops-io/mission-sdk"
+  },
+  {
+    "description": "Self-demonstrating ReDevOps \u00d7 AWS deploy-and-operate demo: one prompt in Projects provisions, secures, monitors and self",
+    "id": "redevops-io/redevops-demo",
+    "language": "Python",
+    "name": "redevops-io/redevops-demo",
+    "stars": 0,
+    "updated_at": "2026-10-14T21:04:01Z",
+    "url": "https://github.com/redevops-io/redevops-demo"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-14T21:03:23Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "AI trust-boundary gateway for OpenAI, Anthropic, and Gemini.",
+    "id": "GetSHIM/shim",
+    "language": "Python",
+    "name": "GetSHIM/shim",
+    "stars": 8,
+    "updated_at": "2026-10-14T21:07:40Z",
+    "url": "https://github.com/GetSHIM/shim"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-14T21:00:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -23,7 +140,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 520,
-    "updated_at": "2026-10-14T20:56:39Z",
+    "updated_at": "2026-10-14T21:02:21Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -45,21 +162,12 @@
     "url": "https://github.com/alyrraza/docdesk-healthcare-rag-evals"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61258,
-    "updated_at": "2026-10-14T20:59:19Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
     "id": "korczis/prismatic-majordomus",
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-14T20:58:53Z",
+    "updated_at": "2026-10-14T21:14:23Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -81,15 +189,6 @@
     "url": "https://github.com/api-evangelist/comet"
   },
   {
-    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4948,
-    "updated_at": "2026-10-14T21:00:26Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "Rust client for Cycles \u2014 runtime budget authority for AI agents",
     "id": "runcycles/cycles-client-rust",
     "language": "Rust",
@@ -108,20 +207,11 @@
     "url": "https://github.com/crewhaus/factory"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-14T20:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 9013,
+    "stars": 9015,
     "updated_at": "2026-10-14T20:45:14Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -189,15 +279,6 @@
     "url": "https://github.com/runcycles/cycles-spring-ai-starter"
   },
   {
-    "description": "AI trust-boundary gateway for OpenAI, Anthropic, and Gemini.",
-    "id": "GetSHIM/shim",
-    "language": "Python",
-    "name": "GetSHIM/shim",
-    "stars": 8,
-    "updated_at": "2026-10-14T20:41:11Z",
-    "url": "https://github.com/GetSHIM/shim"
-  },
-  {
     "description": "Policy, measurement, and operations workbench for running Codex and Claude agents safely across a GitHub estate.",
     "id": "Chris0Jeky/agent-harness",
     "language": "Python",
@@ -243,40 +324,13 @@
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
-    "description": "Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O",
-    "id": "kelvran/gateway",
-    "language": "Go",
-    "name": "kelvran/gateway",
-    "stars": 0,
-    "updated_at": "2026-10-14T20:20:51Z",
-    "url": "https://github.com/kelvran/gateway"
-  },
-  {
     "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
     "id": "TAIPANBOX/tokenfuse",
     "language": "Rust",
     "name": "TAIPANBOX/tokenfuse",
     "stars": 1,
-    "updated_at": "2026-10-14T20:53:39Z",
+    "updated_at": "2026-10-14T21:13:48Z",
     "url": "https://github.com/TAIPANBOX/tokenfuse"
-  },
-  {
-    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-10-14T20:15:45Z",
-    "url": "https://github.com/veerarakesh56/warden"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-14T20:12:48Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
@@ -293,7 +347,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 35828,
-    "updated_at": "2026-10-14T20:05:44Z",
+    "updated_at": "2026-10-14T21:10:25Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -378,15 +432,6 @@
     "url": "https://github.com/redevops-io/agentic-os"
   },
   {
-    "description": "One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod",
-    "id": "valteresj2/agent-hangar",
-    "language": "Python",
-    "name": "valteresj2/agent-hangar",
-    "stars": 3,
-    "updated_at": "2026-10-14T19:14:39Z",
-    "url": "https://github.com/valteresj2/agent-hangar"
-  },
-  {
     "description": "In-process Python metaframework on Pydantic AI for production GenAI \u2014 composable, protocol-driven layers for agents & mi",
     "id": "fireflyframework/fireflyframework-agentic",
     "language": "Python",
@@ -396,24 +441,6 @@
     "url": "https://github.com/fireflyframework/fireflyframework-agentic"
   },
   {
-    "description": "Ollama fleet operations patterns: running local LLM fleets \u2014 model management & manifest sync, fleet health checks, load",
-    "id": "ZQM-Computing/ollama-fleet-patterns",
-    "language": "Python",
-    "name": "ZQM-Computing/ollama-fleet-patterns",
-    "stars": 0,
-    "updated_at": "2026-10-14T19:10:46Z",
-    "url": "https://github.com/ZQM-Computing/ollama-fleet-patterns"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-10-14T20:54:01Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
     "description": "Open-source cryptographic audit trail for AI agents. Produces cryptographic receipts - SHA-256 hash-chained, tamper-evid",
     "id": "Ghostfactory-art/spanchain",
     "language": "Elixir",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-14T19:09:18Z",
     "url": "https://github.com/Ghostfactory-art/spanchain"
-  },
-  {
-    "description": "The platform for continuously improving AI agents.",
-    "id": "overmind-core/overmind",
-    "language": "Python",
-    "name": "overmind-core/overmind",
-    "stars": 659,
-    "updated_at": "2026-10-14T20:51:14Z",
-    "url": "https://github.com/overmind-core/overmind"
-  },
-  {
-    "description": "Self-hosted enterprise RAG and analytics: hybrid retrieval (BGE-M3, BM25, RRF), BGE reranker, GraphRAG-lite and forecast",
-    "id": "Yacine-ai-tech/IntelAI",
-    "language": "Python",
-    "name": "Yacine-ai-tech/IntelAI",
-    "stars": 0,
-    "updated_at": "2026-10-14T19:05:00Z",
-    "url": "https://github.com/Yacine-ai-tech/IntelAI"
-  },
-  {
-    "description": "LLM and RAG evaluation library: multi-judge consensus with a disagreement alarm, bootstrap confidence intervals and Open",
-    "id": "Yacine-ai-tech/RAGeval",
-    "language": "Python",
-    "name": "Yacine-ai-tech/RAGeval",
-    "stars": 0,
-    "updated_at": "2026-10-14T19:03:45Z",
-    "url": "https://github.com/Yacine-ai-tech/RAGeval"
   }
 ]
