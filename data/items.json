@@ -1,12 +1,48 @@
 [
   {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
+    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4947,
+    "updated_at": "2026-10-14T14:00:08Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35816,
+    "updated_at": "2026-10-14T13:58:16Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
     "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 8959,
-    "updated_at": "2026-10-14T13:45:05Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
+    "name": "BerriAI/litellm",
+    "stars": 61228,
+    "updated_at": "2026-10-14T13:57:58Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-10-14T13:57:46Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-10-14T13:57:32Z",
+    "url": "https://github.com/redevops-io/agentic-os"
   },
   {
     "description": "\u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 Claude Code \u0438 \u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u043e\u043c GitHub \u2014 \u043a\u0430\u0436\u0434\u043e\u0435 \u0441 \u0438\u0441\u0442\u043e\u0440\u0438\u0435\u0439 \u043f\u043e\u043b\u043e\u043c\u043a\u0438, \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b\u0440\u043e\u0441\u043b\u043e \u00b7 Incident-based rules ",
@@ -14,8 +50,71 @@
     "language": "Python",
     "name": "ArtVsMark/Engineering-Incidents-Playbook",
     "stars": 5,
-    "updated_at": "2026-10-14T13:45:02Z",
+    "updated_at": "2026-10-14T13:58:13Z",
     "url": "https://github.com/ArtVsMark/Engineering-Incidents-Playbook"
+  },
+  {
+    "description": "Genaryx: the browser control room over the TAIPANBOX agent-governance stack. Money, policy, identity, quality, crypto, m",
+    "id": "TAIPANBOX/genaryx",
+    "language": "Rust",
+    "name": "TAIPANBOX/genaryx",
+    "stars": 0,
+    "updated_at": "2026-10-14T13:52:37Z",
+    "url": "https://github.com/TAIPANBOX/genaryx"
+  },
+  {
+    "description": "Regression testing and evals for LLM applications in CI \u2014 with the baseline in your repository, not on someone's server.",
+    "id": "digline/digline",
+    "language": "Python",
+    "name": "digline/digline",
+    "stars": 8,
+    "updated_at": "2026-10-14T13:50:34Z",
+    "url": "https://github.com/digline/digline"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 23,
+    "updated_at": "2026-10-14T13:49:32Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 398,
+    "updated_at": "2026-10-14T13:48:19Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-10-14T13:46:49Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-14T13:45:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 8965,
+    "updated_at": "2026-10-14T13:45:05Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "\u9876\u7ea7\u5ba1\u7f8e\u7684\u4e2a\u4eba\u535a\u5ba2\uff01\uff01\uff01\u5199\u4e00\u4e9b\u5173\u4e8e AI\u3001Agent\u3001\u6280\u672f\u3001\u4ea7\u54c1\u3001\u8425\u9500\u3001\u4e00\u4e9b\u751f\u6d3b\u601d\u8003\uff0c\u4e2a\u4eba\u6210\u957f\u7c7b\u7684\u7cbe\u6587",
@@ -27,15 +126,6 @@
     "url": "https://github.com/cubxxw/blog"
   },
   {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-10-14T13:41:52Z",
-    "url": "https://github.com/redevops-io/agentic-os"
-  },
-  {
     "description": "Mission SDK \u2014 the developer boundary over the ReDevOps Mission Runtime (author, validate, explain a governed MissionProg",
     "id": "redevops-io/mission-sdk",
     "language": "Python",
@@ -45,13 +135,13 @@
     "url": "https://github.com/redevops-io/mission-sdk"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61227,
-    "updated_at": "2026-10-14T13:37:40Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
+    "id": "iblai/os",
+    "language": "TypeScript",
+    "name": "iblai/os",
+    "stars": 814,
+    "updated_at": "2026-10-14T13:39:00Z",
+    "url": "https://github.com/iblai/os"
   },
   {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
@@ -59,17 +149,8 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 519,
-    "updated_at": "2026-10-14T13:36:34Z",
+    "updated_at": "2026-10-14T13:56:37Z",
     "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35815,
-    "updated_at": "2026-10-14T13:45:16Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Shared kernel for enterprise agentic AI platforms: multi-provider model routing with failover, ABAC policy engine, signe",
@@ -79,24 +160,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T13:42:31Z",
     "url": "https://github.com/kogunlowo123/agentic-core"
-  },
-  {
-    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4947,
-    "updated_at": "2026-10-14T13:41:14Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 23,
-    "updated_at": "2026-10-14T13:34:12Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -122,7 +185,7 @@
     "language": "Python",
     "name": "architsharm/agentfox",
     "stars": 3,
-    "updated_at": "2026-10-14T13:34:33Z",
+    "updated_at": "2026-10-14T13:49:08Z",
     "url": "https://github.com/architsharm/agentfox"
   },
   {
@@ -133,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T13:31:14Z",
     "url": "https://github.com/Phat1911/Tributary"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-14T13:30:36Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -158,7 +212,7 @@
     "language": "Rust",
     "name": "TAIPANBOX/tokenfuse",
     "stars": 1,
-    "updated_at": "2026-10-14T13:41:57Z",
+    "updated_at": "2026-10-14T13:59:47Z",
     "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
@@ -167,7 +221,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22593,
-    "updated_at": "2026-10-14T13:43:08Z",
+    "updated_at": "2026-10-14T13:59:46Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -178,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-10-14T13:28:15Z",
     "url": "https://github.com/TAIPANBOX/verdryx"
-  },
-  {
-    "description": "Genaryx: the browser control room over the TAIPANBOX agent-governance stack. Money, policy, identity, quality, crypto, m",
-    "id": "TAIPANBOX/genaryx",
-    "language": "Rust",
-    "name": "TAIPANBOX/genaryx",
-    "stars": 0,
-    "updated_at": "2026-10-14T13:42:02Z",
-    "url": "https://github.com/TAIPANBOX/genaryx"
   },
   {
     "description": "Self-hosted production platform for deploying, routing, scheduling, and observing Eve agent fleets.",
@@ -243,24 +288,6 @@
     "url": "https://github.com/langfuse/langfuse-js"
   },
   {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 398,
-    "updated_at": "2026-10-14T13:31:47Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-10-14T13:14:51Z",
-    "url": "https://github.com/veerarakesh56/warden"
-  },
-  {
     "description": "Open-source, self-hosted AI platform for teams. Run private AI chat, manage Ray/vLLM GPU clusters, and connect apps and ",
     "id": "fadenstack/fadenstack",
     "language": "Python",
@@ -293,7 +320,7 @@
     "language": "Python",
     "name": "Chris0Jeky/llm-release-gate",
     "stars": 0,
-    "updated_at": "2026-10-14T13:12:25Z",
+    "updated_at": "2026-10-14T13:55:52Z",
     "url": "https://github.com/Chris0Jeky/llm-release-gate"
   },
   {
@@ -304,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T13:31:47Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
-    "description": "Regression testing and evals for LLM applications in CI \u2014 with the baseline in your repository, not on someone's server.",
-    "id": "digline/digline",
-    "language": "Python",
-    "name": "digline/digline",
-    "stars": 8,
-    "updated_at": "2026-10-14T13:45:17Z",
-    "url": "https://github.com/digline/digline"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -430,23 +448,5 @@
     "stars": 2849,
     "updated_at": "2026-10-14T13:31:46Z",
     "url": "https://github.com/openlit/openlit"
-  },
-  {
-    "description": "Estimate LLM VRAM \u2014 model weights, KV cache, context window & concurrent users \u2014 and find the right GPU. Live Hugging Fa",
-    "id": "tahircengiz/LLMScale",
-    "language": "TypeScript",
-    "name": "tahircengiz/LLMScale",
-    "stars": 0,
-    "updated_at": "2026-10-14T12:40:58Z",
-    "url": "https://github.com/tahircengiz/LLMScale"
-  },
-  {
-    "description": "Self-hosted enterprise RAG and analytics: hybrid retrieval (BGE-M3, BM25, RRF), BGE reranker, GraphRAG-lite and forecast",
-    "id": "Yacine-ai-tech/IntelAI",
-    "language": "Python",
-    "name": "Yacine-ai-tech/IntelAI",
-    "stars": 0,
-    "updated_at": "2026-10-14T12:35:36Z",
-    "url": "https://github.com/Yacine-ai-tech/IntelAI"
   }
 ]
