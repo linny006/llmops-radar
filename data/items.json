@@ -1,12 +1,75 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61254,
+    "updated_at": "2026-10-14T19:30:08Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Dify with Let's Encrypt Using Docker Compose",
+    "id": "heyvaldemar/dify-traefik-letsencrypt-docker-compose",
+    "language": "Shell",
+    "name": "heyvaldemar/dify-traefik-letsencrypt-docker-compose",
+    "stars": 0,
+    "updated_at": "2026-10-14T19:27:27Z",
+    "url": "https://github.com/heyvaldemar/dify-traefik-letsencrypt-docker-compose"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35829,
+    "updated_at": "2026-10-14T19:29:18Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 23,
+    "updated_at": "2026-10-14T19:24:21Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
     "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4947,
-    "updated_at": "2026-10-14T19:20:54Z",
+    "updated_at": "2026-10-14T19:28:02Z",
     "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Self-hosted coding assistant that routes each request to the cheapest model that can handle it",
+    "id": "optiware-ai/optimux",
+    "language": "Python",
+    "name": "optiware-ai/optimux",
+    "stars": 1,
+    "updated_at": "2026-10-14T19:21:50Z",
+    "url": "https://github.com/optiware-ai/optimux"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 9008,
+    "updated_at": "2026-10-14T19:21:46Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-14T19:21:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
@@ -25,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T19:18:08Z",
     "url": "https://github.com/veerarakesh56/warden"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 9008,
-    "updated_at": "2026-10-14T19:17:35Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
@@ -63,15 +117,6 @@
     "url": "https://github.com/redevops-io/agentic-os"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-14T19:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod",
     "id": "valteresj2/agent-hangar",
     "language": "Python",
@@ -99,21 +144,12 @@
     "url": "https://github.com/fireflyframework/fireflyframework-agentic"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61254,
-    "updated_at": "2026-10-14T19:20:14Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22601,
-    "updated_at": "2026-10-14T19:18:54Z",
+    "updated_at": "2026-10-14T19:25:32Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -149,17 +185,8 @@
     "language": "Python",
     "name": "llmspendguard/llm-spendguard",
     "stars": 0,
-    "updated_at": "2026-10-14T19:14:53Z",
+    "updated_at": "2026-10-14T19:26:38Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 23,
-    "updated_at": "2026-10-14T19:09:20Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "Open-source cryptographic audit trail for AI agents. Produces cryptographic receipts - SHA-256 hash-chained, tamper-evid",
@@ -266,7 +293,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 110,
-    "updated_at": "2026-10-14T19:00:13Z",
+    "updated_at": "2026-10-14T19:29:03Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -284,7 +311,7 @@
     "language": "Rust",
     "name": "TAIPANBOX/tokenfuse",
     "stars": 1,
-    "updated_at": "2026-10-14T19:07:59Z",
+    "updated_at": "2026-10-14T19:26:06Z",
     "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
@@ -324,15 +351,6 @@
     "url": "https://github.com/sterilefield/llm-token-economics"
   },
   {
-    "description": "Self-hosted coding assistant that routes each request to the cheapest model that can handle it",
-    "id": "optiware-ai/optimux",
-    "language": "Python",
-    "name": "optiware-ai/optimux",
-    "stars": 1,
-    "updated_at": "2026-10-14T18:19:36Z",
-    "url": "https://github.com/optiware-ai/optimux"
-  },
-  {
     "description": "Production-ready platform for deploying OpenAI-compatible LLM inference on Kubernetes. A one-command installer for enter",
     "id": "intel/enterprise-ai-solutions",
     "language": "Shell",
@@ -351,15 +369,6 @@
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35829,
-    "updated_at": "2026-10-14T19:21:12Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
     "id": "byte5ai/omadia",
     "language": "TypeScript",
@@ -374,7 +383,7 @@
     "language": "Python",
     "name": "theagentplane/control-plane",
     "stars": 4,
-    "updated_at": "2026-10-14T19:08:32Z",
+    "updated_at": "2026-10-14T19:29:04Z",
     "url": "https://github.com/theagentplane/control-plane"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 28,
     "updated_at": "2026-10-14T17:31:25Z",
     "url": "https://github.com/cubxxw/blog"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 4,
-    "updated_at": "2026-10-14T17:25:51Z",
-    "url": "https://github.com/vivek-541/vivek-541"
   }
 ]
