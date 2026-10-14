@@ -1,12 +1,156 @@
 [
   {
+    "description": "Radicalbit AI Gateway",
+    "id": "radicalbit/radicalbit-ai-gateway",
+    "language": "Python",
+    "name": "radicalbit/radicalbit-ai-gateway",
+    "stars": 71,
+    "updated_at": "2026-10-14T06:43:52Z",
+    "url": "https://github.com/radicalbit/radicalbit-ai-gateway"
+  },
+  {
+    "description": "A self-hosted OpenAI-compatible proxy and web app for debugging, testing, and improving AI agents.",
+    "id": "NordsteinSoftware/Proxytrace",
+    "language": "C#",
+    "name": "NordsteinSoftware/Proxytrace",
+    "stars": 3,
+    "updated_at": "2026-10-14T06:42:25Z",
+    "url": "https://github.com/NordsteinSoftware/Proxytrace"
+  },
+  {
+    "description": "Model Context Protocol (MCP) Server for Langfuse Prompt Management. This server allows you to access and manage your Lan",
+    "id": "JaeminRay/mcp-server-langfuse",
+    "language": "TypeScript",
+    "name": "JaeminRay/mcp-server-langfuse",
+    "stars": 0,
+    "updated_at": "2026-10-14T06:42:17Z",
+    "url": "https://github.com/JaeminRay/mcp-server-langfuse"
+  },
+  {
+    "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agent",
+    "id": "bilal0399/learn-agentic-ai",
+    "language": "\u2014",
+    "name": "bilal0399/learn-agentic-ai",
+    "stars": 9,
+    "updated_at": "2026-10-14T06:40:52Z",
+    "url": "https://github.com/bilal0399/learn-agentic-ai"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-14T06:39:00Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35799,
+    "updated_at": "2026-10-14T06:45:21Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-10-14T06:37:54Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 23,
+    "updated_at": "2026-10-14T06:37:27Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2977,
+    "updated_at": "2026-10-14T06:37:20Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Cheaper and better Greptile alternative runs on your own github actions.",
+    "id": "lawrence624/juror",
+    "language": "TypeScript",
+    "name": "lawrence624/juror",
+    "stars": 0,
+    "updated_at": "2026-10-14T06:36:52Z",
+    "url": "https://github.com/lawrence624/juror"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 61196,
-    "updated_at": "2026-10-14T06:29:22Z",
+    "stars": 61200,
+    "updated_at": "2026-10-14T06:45:06Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "Python",
+    "name": "dataelement/bisheng",
+    "stars": 12047,
+    "updated_at": "2026-10-14T06:44:15Z",
+    "url": "https://github.com/dataelement/bisheng"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-14T06:35:03Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Terminal trace debugger for AI agents.",
+    "id": "tonquoc0407/capybara",
+    "language": "Go",
+    "name": "tonquoc0407/capybara",
+    "stars": 12,
+    "updated_at": "2026-10-14T06:32:43Z",
+    "url": "https://github.com/tonquoc0407/capybara"
+  },
+  {
+    "description": "Product analytics for AI Assistants",
+    "id": "francesb13734/trubrics-python",
+    "language": "Python",
+    "name": "francesb13734/trubrics-python",
+    "stars": 0,
+    "updated_at": "2026-10-14T06:32:24Z",
+    "url": "https://github.com/francesb13734/trubrics-python"
+  },
+  {
+    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
+    "id": "RaulKowalczyk/awesome-ai-gateway",
+    "language": "HTML",
+    "name": "RaulKowalczyk/awesome-ai-gateway",
+    "stars": 0,
+    "updated_at": "2026-10-14T06:31:20Z",
+    "url": "https://github.com/RaulKowalczyk/awesome-ai-gateway"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-14T06:30:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
@@ -18,24 +162,6 @@
     "url": "https://github.com/scotth96/llmaker"
   },
   {
-    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-10-14T06:28:31Z",
-    "url": "https://github.com/veerarakesh56/warden"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 23,
-    "updated_at": "2026-10-14T06:27:30Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
     "id": "systempromptio/systemprompt-core",
     "language": "Rust",
@@ -43,15 +169,6 @@
     "stars": 8,
     "updated_at": "2026-10-14T06:27:11Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2977,
-    "updated_at": "2026-10-14T06:25:36Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
@@ -68,26 +185,8 @@
     "language": "Python",
     "name": "architsharm/agentfox",
     "stars": 3,
-    "updated_at": "2026-10-14T06:17:45Z",
+    "updated_at": "2026-10-14T06:41:00Z",
     "url": "https://github.com/architsharm/agentfox"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-14T06:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-14T06:26:33Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
@@ -95,7 +194,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-14T06:11:59Z",
+    "updated_at": "2026-10-14T06:39:04Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -106,6 +205,15 @@
     "stars": 0,
     "updated_at": "2026-10-14T06:05:28Z",
     "url": "https://github.com/Hoffmann98/llmaker"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 25987,
+    "updated_at": "2026-10-14T06:40:03Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "A MCP server allowing LLM agents to easily connect and retrieve data from any database",
@@ -124,15 +232,6 @@
     "stars": 4945,
     "updated_at": "2026-10-14T06:26:28Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-14T05:56:21Z",
-    "url": "https://github.com/toxicwind/ranch"
   },
   {
     "description": "A MCP server allowing LLM agents to easily connect and retrieve data from any database",
@@ -207,15 +306,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "Python",
-    "name": "dataelement/bisheng",
-    "stars": 12046,
-    "updated_at": "2026-10-14T05:43:13Z",
-    "url": "https://github.com/dataelement/bisheng"
-  },
-  {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
     "id": "future-agi/future-agi",
     "language": "Python",
@@ -223,15 +313,6 @@
     "stars": 2146,
     "updated_at": "2026-10-14T06:29:22Z",
     "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35797,
-    "updated_at": "2026-10-14T06:28:41Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Estimate LLM VRAM \u2014 model weights, KV cache, context window & concurrent users \u2014 and find the right GPU. Live Hugging Fa",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-14T05:18:19Z",
     "url": "https://github.com/ivanmoralesf2015-sudo/enterprise-governance-toolkit"
-  },
-  {
-    "description": "Provide retry logic and circuit breaker functionality for C++ applications to improve fault tolerance in LLM infrastruct",
-    "id": "kawaiirashi/llm-retry",
-    "language": "C++",
-    "name": "kawaiirashi/llm-retry",
-    "stars": 1,
-    "updated_at": "2026-10-14T05:17:30Z",
-    "url": "https://github.com/kawaiirashi/llm-retry"
-  },
-  {
-    "description": "Evaluate large language models with tools for performance and consistency scoring as part of the llm-cpp C++ infrastruct",
-    "id": "wahhyun/llm-eval",
-    "language": "C++",
-    "name": "wahhyun/llm-eval",
-    "stars": 1,
-    "updated_at": "2026-10-14T05:17:28Z",
-    "url": "https://github.com/wahhyun/llm-eval"
-  },
-  {
-    "description": "Improve AI-generated code quality by breaking tasks into small, reviewable chunks with planned, stacked branches for eas",
-    "id": "Anbumani08/agentic-coding-workflow",
-    "language": "HTML",
-    "name": "Anbumani08/agentic-coding-workflow",
-    "stars": 0,
-    "updated_at": "2026-10-14T05:17:26Z",
-    "url": "https://github.com/Anbumani08/agentic-coding-workflow"
-  },
-  {
-    "description": "Deploy Langfuse on AWS EKS using Terraform with production-ready settings, secure defaults, and multi-zone high availabi",
-    "id": "ashmedanraj/langfuse-eks-production",
-    "language": "\u2014",
-    "name": "ashmedanraj/langfuse-eks-production",
-    "stars": 0,
-    "updated_at": "2026-10-14T05:16:59Z",
-    "url": "https://github.com/ashmedanraj/langfuse-eks-production"
-  },
-  {
-    "description": "Deliver clear, step-by-step deployment guides for multiple platforms and frameworks to speed up your app deployment proc",
-    "id": "sarrahw23/deploy-guide",
-    "language": "\u2014",
-    "name": "sarrahw23/deploy-guide",
-    "stars": 1,
-    "updated_at": "2026-10-14T05:16:49Z",
-    "url": "https://github.com/sarrahw23/deploy-guide"
-  },
-  {
-    "description": "Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O",
-    "id": "kelvran/gateway",
-    "language": "Go",
-    "name": "kelvran/gateway",
-    "stars": 0,
-    "updated_at": "2026-10-14T05:24:40Z",
-    "url": "https://github.com/kelvran/gateway"
-  },
-  {
-    "description": "Provide a RESTful API gateway that manages authentication and controls request rates for secure and efficient traffic ha",
-    "id": "rvhn/rest-gateway-1771918257-5",
-    "language": "\u2014",
-    "name": "rvhn/rest-gateway-1771918257-5",
-    "stars": 0,
-    "updated_at": "2026-10-14T05:15:23Z",
-    "url": "https://github.com/rvhn/rest-gateway-1771918257-5"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28375,
-    "updated_at": "2026-10-14T05:15:16Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Provide comprehensive Chinese guides for installing, configuring, and understanding the OpenClaw AI agent framework and ",
-    "id": "FawwazAzka/openclaw-docs",
-    "language": "JavaScript",
-    "name": "FawwazAzka/openclaw-docs",
-    "stars": 0,
-    "updated_at": "2026-10-14T05:14:27Z",
-    "url": "https://github.com/FawwazAzka/openclaw-docs"
   }
 ]
