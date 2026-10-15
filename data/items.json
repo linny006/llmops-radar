@@ -1,5 +1,68 @@
 [
   {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-10-15T00:27:55Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-10-15T00:28:15Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22608,
+    "updated_at": "2026-10-15T00:23:13Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Bounded context for long-horizon LLM agents: carry a small re-grounded signal instead of replaying the transcript, so a ",
+    "id": "aimerdoux/plateau",
+    "language": "Python",
+    "name": "aimerdoux/plateau",
+    "stars": 1,
+    "updated_at": "2026-10-15T00:22:35Z",
+    "url": "https://github.com/aimerdoux/plateau"
+  },
+  {
+    "description": "Healthcare RAG service with a built-in evaluation harness. Hybrid retrieval (pgvector + Postgres FTS), optional reranker",
+    "id": "alyrraza/docdesk-healthcare-rag-evals",
+    "language": "Python",
+    "name": "alyrraza/docdesk-healthcare-rag-evals",
+    "stars": 0,
+    "updated_at": "2026-10-15T00:22:04Z",
+    "url": "https://github.com/alyrraza/docdesk-healthcare-rag-evals"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61263,
+    "updated_at": "2026-10-15T00:29:41Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-15T00:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -18,21 +81,12 @@
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61263,
-    "updated_at": "2026-10-15T00:14:27Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
     "id": "mozilla-ai/otari",
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 520,
-    "updated_at": "2026-10-15T00:12:39Z",
+    "updated_at": "2026-10-15T00:29:44Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -43,15 +97,6 @@
     "stars": 110,
     "updated_at": "2026-10-15T00:07:36Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-15T00:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
@@ -86,7 +131,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28386,
-    "updated_at": "2026-10-15T00:11:47Z",
+    "updated_at": "2026-10-15T00:26:31Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -153,31 +198,13 @@
     "url": "https://github.com/TAIPANBOX/genaryx"
   },
   {
-    "description": "Bounded context for long-horizon LLM agents: carry a small re-grounded signal instead of replaying the transcript, so a ",
-    "id": "aimerdoux/plateau",
-    "language": "Python",
-    "name": "aimerdoux/plateau",
-    "stars": 1,
-    "updated_at": "2026-10-14T23:29:32Z",
-    "url": "https://github.com/aimerdoux/plateau"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11839,
-    "updated_at": "2026-10-14T23:26:39Z",
+    "updated_at": "2026-10-15T00:26:42Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22607,
-    "updated_at": "2026-10-14T23:40:34Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
@@ -187,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-10-14T23:17:47Z",
     "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "Healthcare RAG service with a built-in evaluation harness. Hybrid retrieval (pgvector + Postgres FTS), optional reranker",
-    "id": "alyrraza/docdesk-healthcare-rag-evals",
-    "language": "Python",
-    "name": "alyrraza/docdesk-healthcare-rag-evals",
-    "stars": 0,
-    "updated_at": "2026-10-14T23:16:41Z",
-    "url": "https://github.com/alyrraza/docdesk-healthcare-rag-evals"
   },
   {
     "description": "Quality evaluation and drift for AI agents: the quality plane of the agent-governance stack",
@@ -230,7 +248,7 @@
     "language": "Python",
     "name": "overmind-core/overmind",
     "stars": 659,
-    "updated_at": "2026-10-14T22:41:57Z",
+    "updated_at": "2026-10-15T00:21:23Z",
     "url": "https://github.com/overmind-core/overmind"
   },
   {
@@ -266,7 +284,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4950,
-    "updated_at": "2026-10-15T00:11:38Z",
+    "updated_at": "2026-10-15T00:16:19Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -293,7 +311,7 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 5,
-    "updated_at": "2026-10-14T21:55:35Z",
+    "updated_at": "2026-10-15T00:22:18Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
@@ -337,7 +355,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 35830,
+    "stars": 35831,
     "updated_at": "2026-10-14T21:28:01Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -367,15 +385,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T21:12:02Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-10-14T21:11:14Z",
-    "url": "https://github.com/veerarakesh56/warden"
   },
   {
     "description": "Mission SDK \u2014 the developer boundary over the ReDevOps Mission Runtime (author, validate, explain a governed MissionProg",
@@ -410,7 +419,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-15T00:14:07Z",
+    "updated_at": "2026-10-15T00:26:35Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-14T20:47:34Z",
     "url": "https://github.com/runcycles/cycles-client-rust"
-  },
-  {
-    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
-    "id": "crewhaus/factory",
-    "language": "TypeScript",
-    "name": "crewhaus/factory",
-    "stars": 3,
-    "updated_at": "2026-10-14T20:47:00Z",
-    "url": "https://github.com/crewhaus/factory"
   }
 ]
