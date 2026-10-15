@@ -1,12 +1,12 @@
 [
   {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
+    "description": "A zero-Python, production-grade LLM security layer written in Rust.",
+    "id": "Mattral/guardrail-rs",
     "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-15T00:55:25Z",
-    "url": "https://github.com/toxicwind/ranch"
+    "name": "Mattral/guardrail-rs",
+    "stars": 13,
+    "updated_at": "2026-10-15T01:14:04Z",
+    "url": "https://github.com/Mattral/guardrail-rs"
   },
   {
     "description": "Agentic Runtime",
@@ -14,17 +14,8 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 41,
-    "updated_at": "2026-10-15T00:54:28Z",
+    "updated_at": "2026-10-15T01:13:46Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61264,
-    "updated_at": "2026-10-15T00:59:45Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
@@ -32,17 +23,8 @@
     "language": "Python",
     "name": "Root1V/prometheus-inference-platform",
     "stars": 1,
-    "updated_at": "2026-10-15T00:50:24Z",
+    "updated_at": "2026-10-15T01:13:27Z",
     "url": "https://github.com/Root1V/prometheus-inference-platform"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-15T00:45:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
@@ -50,8 +32,35 @@
     "language": "Python",
     "name": "vllm-project/vllm-ascend",
     "stars": 2979,
-    "updated_at": "2026-10-15T00:44:07Z",
+    "updated_at": "2026-10-15T01:12:49Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61264,
+    "updated_at": "2026-10-15T01:15:10Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "If the agent bill went up and nothing errored, a prompt cache broke. Replay Doctor names the turn it broke on, the cause",
+    "id": "RedRobotKK/Replay",
+    "language": "Go",
+    "name": "RedRobotKK/Replay",
+    "stars": 3,
+    "updated_at": "2026-10-15T01:06:27Z",
+    "url": "https://github.com/RedRobotKK/Replay"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22609,
+    "updated_at": "2026-10-15T01:04:40Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
@@ -59,8 +68,26 @@
     "language": "Python",
     "name": "veerarakesh56/warden",
     "stars": 0,
-    "updated_at": "2026-10-15T00:42:04Z",
+    "updated_at": "2026-10-15T01:03:02Z",
     "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-15T01:01:20Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-15T01:00:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod",
@@ -108,13 +135,13 @@
     "url": "https://github.com/redevops-io/agentic-os"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
     "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22608,
-    "updated_at": "2026-10-15T00:23:13Z",
-    "url": "https://github.com/comet-ml/opik"
+    "name": "mlflow/mlflow",
+    "stars": 28387,
+    "updated_at": "2026-10-15T00:26:31Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Bounded context for long-horizon LLM agents: carry a small re-grounded signal instead of replaying the transcript, so a ",
@@ -158,7 +185,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 110,
-    "updated_at": "2026-10-15T00:57:13Z",
+    "updated_at": "2026-10-15T01:05:08Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -187,15 +214,6 @@
     "stars": 3,
     "updated_at": "2026-10-14T23:50:37Z",
     "url": "https://github.com/cosmonomic/pulsarlm"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28386,
-    "updated_at": "2026-10-15T00:26:31Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
@@ -329,7 +347,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8879,
-    "updated_at": "2026-10-14T22:25:45Z",
+    "updated_at": "2026-10-15T01:03:26Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-14T21:04:01Z",
     "url": "https://github.com/redevops-io/redevops-demo"
-  },
-  {
-    "description": "AI trust-boundary gateway for OpenAI, Anthropic, and Gemini.",
-    "id": "GetSHIM/shim",
-    "language": "Python",
-    "name": "GetSHIM/shim",
-    "stars": 8,
-    "updated_at": "2026-10-14T23:20:21Z",
-    "url": "https://github.com/GetSHIM/shim"
-  },
-  {
-    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
-    "id": "korczis/prismatic-majordomus",
-    "language": "Rust",
-    "name": "korczis/prismatic-majordomus",
-    "stars": 0,
-    "updated_at": "2026-10-15T00:53:38Z",
-    "url": "https://github.com/korczis/prismatic-majordomus"
   }
 ]
