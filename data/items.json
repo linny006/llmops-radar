@@ -1,5 +1,68 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61282,
+    "updated_at": "2026-10-15T06:30:04Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35843,
+    "updated_at": "2026-10-15T06:24:15Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 521,
+    "updated_at": "2026-10-15T06:20:21Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "OpenLIT is the open-source agent harness engineering platform: trace, evaluate, guard, and improve everything around the",
+    "id": "openlit/openlit",
+    "language": "TypeScript",
+    "name": "openlit/openlit",
+    "stars": 2850,
+    "updated_at": "2026-10-15T06:18:13Z",
+    "url": "https://github.com/openlit/openlit"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2983,
+    "updated_at": "2026-10-15T06:16:47Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "A lightweight self-service portal and API for managing LiteLLM keys",
+    "id": "brtydse100/litegate",
+    "language": "Python",
+    "name": "brtydse100/litegate",
+    "stars": 7,
+    "updated_at": "2026-10-15T06:16:08Z",
+    "url": "https://github.com/brtydse100/litegate"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-15T06:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\ud83e\udea2 Langfuse JS/TS SDK",
     "id": "langfuse/langfuse-js",
     "language": "TypeScript",
@@ -18,31 +81,13 @@
     "url": "https://github.com/toxicwind/ranch"
   },
   {
-    "description": "OpenLIT is the open-source agent harness engineering platform: trace, evaluate, guard, and improve everything around the",
-    "id": "openlit/openlit",
-    "language": "TypeScript",
-    "name": "openlit/openlit",
-    "stars": 2850,
-    "updated_at": "2026-10-15T06:06:24Z",
-    "url": "https://github.com/openlit/openlit"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35840,
-    "updated_at": "2026-10-15T06:13:55Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61282,
-    "updated_at": "2026-10-15T06:13:16Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8882,
+    "updated_at": "2026-10-15T06:01:57Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
@@ -52,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-10-15T06:00:49Z",
     "url": "https://github.com/veerarakesh56/warden"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-15T06:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Agentic Runtime",
@@ -76,7 +112,7 @@
     "id": "Amz34/awesome-agent-infrastructure",
     "language": "Python",
     "name": "Amz34/awesome-agent-infrastructure",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-10-15T05:59:25Z",
     "url": "https://github.com/Amz34/awesome-agent-infrastructure"
   },
@@ -97,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-10-15T05:52:50Z",
     "url": "https://github.com/Masterplanner25/aindy-runtime"
-  },
-  {
-    "description": "A lightweight self-service portal and API for managing LiteLLM keys",
-    "id": "brtydse100/litegate",
-    "language": "Python",
-    "name": "brtydse100/litegate",
-    "stars": 7,
-    "updated_at": "2026-10-15T06:07:42Z",
-    "url": "https://github.com/brtydse100/litegate"
   },
   {
     "description": "Companion code for the Manning book 'LLM Customization and Fine-Tuning.' Adapt open-weights LLMs end to end: prompting a",
@@ -157,7 +184,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 28389,
+    "stars": 28390,
     "updated_at": "2026-10-15T05:24:17Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -189,21 +216,12 @@
     "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8881,
-    "updated_at": "2026-10-15T06:01:57Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
     "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
     "id": "burakdede/lorepack",
     "language": "TypeScript",
     "name": "burakdede/lorepack",
     "stars": 3,
-    "updated_at": "2026-10-15T06:13:21Z",
+    "updated_at": "2026-10-15T06:25:26Z",
     "url": "https://github.com/burakdede/lorepack"
   },
   {
@@ -301,7 +319,7 @@
     "id": "dataelement/bisheng",
     "language": "Python",
     "name": "dataelement/bisheng",
-    "stars": 12051,
+    "stars": 12052,
     "updated_at": "2026-10-15T03:54:43Z",
     "url": "https://github.com/dataelement/bisheng"
   },
@@ -360,15 +378,6 @@
     "url": "https://github.com/Mattral/guardrail-rs"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2982,
-    "updated_at": "2026-10-15T04:53:45Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -383,7 +392,7 @@
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 652,
-    "updated_at": "2026-10-15T05:25:55Z",
+    "updated_at": "2026-10-15T06:26:50Z",
     "url": "https://github.com/Abilityai/trinity"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 44,
     "updated_at": "2026-10-15T02:37:13Z",
     "url": "https://github.com/0xLazAI/alith"
-  },
-  {
-    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
-    "id": "alibaba/rtp-llm",
-    "language": "Python",
-    "name": "alibaba/rtp-llm",
-    "stars": 1361,
-    "updated_at": "2026-10-15T06:13:00Z",
-    "url": "https://github.com/alibaba/rtp-llm"
   }
 ]
