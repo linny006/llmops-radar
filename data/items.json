@@ -1,21 +1,57 @@
 [
   {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 31,
+    "updated_at": "2026-10-15T04:43:26Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-15T04:42:07Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-10-15T04:41:42Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "Self-hostable AI token pools \u2014 govern your org's AI usage with per-member keys, quotas, and leak detection; or deposit s",
+    "id": "Phat1911/Tributary",
+    "language": "Rust",
+    "name": "Phat1911/Tributary",
+    "stars": 0,
+    "updated_at": "2026-10-15T04:41:05Z",
+    "url": "https://github.com/Phat1911/Tributary"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 61275,
-    "updated_at": "2026-10-15T04:29:29Z",
+    "stars": 61276,
+    "updated_at": "2026-10-15T04:45:17Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
-    "description": "Open Source software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-10-15T04:24:31Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
+    "description": "Multimodal RAG QA for cosmetics regulation: hybrid retrieval, two-stage reranking, evidence gating that refuses unsuppor",
+    "id": "Xander-Xai/Beauty-Industry-RAG-QA-System",
+    "language": "Python",
+    "name": "Xander-Xai/Beauty-Industry-RAG-QA-System",
+    "stars": 0,
+    "updated_at": "2026-10-15T04:36:32Z",
+    "url": "https://github.com/Xander-Xai/Beauty-Industry-RAG-QA-System"
   },
   {
     "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
@@ -23,8 +59,26 @@
     "language": "Python",
     "name": "Masterplanner25/aindy-runtime",
     "stars": 1,
-    "updated_at": "2026-10-15T04:26:58Z",
+    "updated_at": "2026-10-15T04:36:02Z",
     "url": "https://github.com/Masterplanner25/aindy-runtime"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-15T04:30:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Open Source software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-10-15T04:43:22Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "If the agent bill went up and nothing errored, a prompt cache broke. Replay Doctor names the turn it broke on, the cause",
@@ -43,24 +97,6 @@
     "stars": 5,
     "updated_at": "2026-10-15T04:19:21Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-10-15T04:17:27Z",
-    "url": "https://github.com/veerarakesh56/warden"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-15T04:15:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
@@ -126,15 +162,6 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-15T03:39:54Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
     "id": "toxicwind/ranch",
     "language": "Rust",
@@ -149,7 +176,7 @@
     "language": "Python",
     "name": "chyinan/AegisRAG",
     "stars": 4,
-    "updated_at": "2026-10-15T03:36:14Z",
+    "updated_at": "2026-10-15T04:37:45Z",
     "url": "https://github.com/chyinan/AegisRAG"
   },
   {
@@ -184,7 +211,7 @@
     "id": "vllm-project/vllm-ascend",
     "language": "Python",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2981,
+    "stars": 2982,
     "updated_at": "2026-10-15T03:28:15Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
@@ -203,7 +230,7 @@
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 652,
-    "updated_at": "2026-10-15T03:51:24Z",
+    "updated_at": "2026-10-15T04:36:54Z",
     "url": "https://github.com/Abilityai/trinity"
   },
   {
@@ -247,18 +274,9 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 22615,
+    "stars": 22616,
     "updated_at": "2026-10-15T02:46:57Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Self-hostable AI token pools \u2014 govern your org's AI usage with per-member keys, quotas, and leak detection; or deposit s",
-    "id": "Phat1911/Tributary",
-    "language": "Rust",
-    "name": "Phat1911/Tributary",
-    "stars": 0,
-    "updated_at": "2026-10-15T02:45:12Z",
-    "url": "https://github.com/Phat1911/Tributary"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -279,15 +297,6 @@
     "url": "https://github.com/langfuse/langfuse"
   },
   {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 31,
-    "updated_at": "2026-10-15T02:38:08Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
     "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
     "id": "0xLazAI/alith",
     "language": "Rust",
@@ -302,7 +311,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1361,
-    "updated_at": "2026-10-15T04:29:52Z",
+    "updated_at": "2026-10-15T04:43:31Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 3384,
     "updated_at": "2026-10-15T00:02:31Z",
     "url": "https://github.com/lmnr-ai/lmnr"
-  },
-  {
-    "description": "Profile of Dr. Ravi Teja Thiriveedhi \u2014 clinician turned AI systems architect: multi-agent platforms, AI governance, LLM ",
-    "id": "Raviteja2k2k/Raviteja2k2k",
-    "language": "Python",
-    "name": "Raviteja2k2k/Raviteja2k2k",
-    "stars": 0,
-    "updated_at": "2026-10-15T00:02:08Z",
-    "url": "https://github.com/Raviteja2k2k/Raviteja2k2k"
   }
 ]
