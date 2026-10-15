@@ -1,12 +1,57 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61322,
+    "updated_at": "2026-10-15T17:44:54Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28399,
+    "updated_at": "2026-10-15T17:44:03Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
     "description": "A self-hosted zero-cost LLM routing stack that discovers, benchmarks, and routes to the best currently free models.",
     "id": "sjfakharian/zerospend",
     "language": "JavaScript",
     "name": "sjfakharian/zerospend",
     "stars": 4,
-    "updated_at": "2026-10-15T17:29:07Z",
+    "updated_at": "2026-10-15T17:42:11Z",
     "url": "https://github.com/sjfakharian/zerospend"
+  },
+  {
+    "description": "Run-aware token governance for multi-agent systems.",
+    "id": "theagentplane/tokenops",
+    "language": "Python",
+    "name": "theagentplane/tokenops",
+    "stars": 83,
+    "updated_at": "2026-10-15T17:39:46Z",
+    "url": "https://github.com/theagentplane/tokenops"
+  },
+  {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-10-15T17:36:00Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "Open Source software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-10-15T17:40:02Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
@@ -14,8 +59,26 @@
     "language": "Python",
     "name": "SourceShift/mini-ork",
     "stars": 31,
-    "updated_at": "2026-10-15T17:28:51Z",
+    "updated_at": "2026-10-15T17:31:07Z",
     "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35873,
+    "updated_at": "2026-10-15T17:45:04Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-15T17:30:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Continuous LLM governance monitoring for regulated environments - EU AI Act, GDPR, ANSSI. Self-hosted, profile-driven, n",
@@ -45,31 +108,13 @@
     "url": "https://github.com/ishandutta2007/Awesome-AI-Evaluation-Tracking"
   },
   {
-    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-10-15T17:27:08Z",
-    "url": "https://github.com/veerarakesh56/warden"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 26017,
-    "updated_at": "2026-10-15T17:28:49Z",
+    "updated_at": "2026-10-15T17:31:57Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61322,
-    "updated_at": "2026-10-15T17:29:40Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
@@ -95,17 +140,8 @@
     "language": "Python",
     "name": "Justin0504/federated-agent-audit",
     "stars": 4,
-    "updated_at": "2026-10-15T17:16:29Z",
+    "updated_at": "2026-10-15T17:39:46Z",
     "url": "https://github.com/Justin0504/federated-agent-audit"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-15T17:15:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI trust-boundary gateway for OpenAI, Anthropic, and Gemini.",
@@ -162,21 +198,12 @@
     "url": "https://github.com/dheerajkarwasra/spanlight"
   },
   {
-    "description": "Run-aware token governance for multi-agent systems.",
-    "id": "theagentplane/tokenops",
-    "language": "Python",
-    "name": "theagentplane/tokenops",
-    "stars": 83,
-    "updated_at": "2026-10-15T17:29:56Z",
-    "url": "https://github.com/theagentplane/tokenops"
-  },
-  {
     "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4957,
-    "updated_at": "2026-10-15T17:22:48Z",
+    "updated_at": "2026-10-15T17:40:47Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -203,17 +230,8 @@
     "language": "TypeScript",
     "name": "burakdede/lorepack",
     "stars": 3,
-    "updated_at": "2026-10-15T17:24:10Z",
+    "updated_at": "2026-10-15T17:42:20Z",
     "url": "https://github.com/burakdede/lorepack"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35872,
-    "updated_at": "2026-10-15T17:27:54Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -239,7 +257,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8885,
-    "updated_at": "2026-10-15T17:28:39Z",
+    "updated_at": "2026-10-15T17:36:41Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -266,7 +284,7 @@
     "language": "TypeScript",
     "name": "Keesan12/martin-loop",
     "stars": 410,
-    "updated_at": "2026-10-15T16:47:21Z",
+    "updated_at": "2026-10-15T17:45:07Z",
     "url": "https://github.com/Keesan12/martin-loop"
   },
   {
@@ -275,7 +293,7 @@
     "language": "Go",
     "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "stars": 1,
-    "updated_at": "2026-10-15T17:26:09Z",
+    "updated_at": "2026-10-15T17:31:00Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
   },
   {
@@ -297,15 +315,6 @@
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
-    "description": "Open Source software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-10-15T17:21:09Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -320,7 +329,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 523,
-    "updated_at": "2026-10-15T17:20:59Z",
+    "updated_at": "2026-10-15T17:34:26Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -412,15 +421,6 @@
     "stars": 1,
     "updated_at": "2026-10-15T16:05:43Z",
     "url": "https://github.com/sauravbhattacharya001/prompt"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28399,
-    "updated_at": "2026-10-15T16:02:26Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "One Rust binary for explainable AI provider routing: multi-provider fallback, encrypted credentials, budgets, quotas, an",
