@@ -1,30 +1,48 @@
 [
   {
-    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
-    "id": "Masterplanner25/aindy-runtime",
-    "language": "Python",
-    "name": "Masterplanner25/aindy-runtime",
-    "stars": 1,
-    "updated_at": "2026-10-15T04:12:29Z",
-    "url": "https://github.com/Masterplanner25/aindy-runtime"
-  },
-  {
-    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 42,
-    "updated_at": "2026-10-15T04:15:21Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61275,
-    "updated_at": "2026-10-15T04:14:24Z",
+    "updated_at": "2026-10-15T04:29:29Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open Source software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-10-15T04:24:31Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
+    "id": "Masterplanner25/aindy-runtime",
+    "language": "Python",
+    "name": "Masterplanner25/aindy-runtime",
+    "stars": 1,
+    "updated_at": "2026-10-15T04:26:58Z",
+    "url": "https://github.com/Masterplanner25/aindy-runtime"
+  },
+  {
+    "description": "If the agent bill went up and nothing errored, a prompt cache broke. Replay Doctor names the turn it broke on, the cause",
+    "id": "RedRobotKK/Replay",
+    "language": "Go",
+    "name": "RedRobotKK/Replay",
+    "stars": 3,
+    "updated_at": "2026-10-15T04:20:54Z",
+    "url": "https://github.com/RedRobotKK/Replay"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 5,
+    "updated_at": "2026-10-15T04:19:21Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
     "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
@@ -32,7 +50,7 @@
     "language": "Python",
     "name": "veerarakesh56/warden",
     "stars": 0,
-    "updated_at": "2026-10-15T04:07:19Z",
+    "updated_at": "2026-10-15T04:17:27Z",
     "url": "https://github.com/veerarakesh56/warden"
   },
   {
@@ -41,8 +59,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-10-15T04:00:27Z",
+    "updated_at": "2026-10-15T04:15:25Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 42,
+    "updated_at": "2026-10-15T04:19:30Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
@@ -106,15 +133,6 @@
     "stars": 41,
     "updated_at": "2026-10-15T03:39:54Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Open Source software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-10-15T04:13:14Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
@@ -221,7 +239,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 2149,
-    "updated_at": "2026-10-15T03:38:25Z",
+    "updated_at": "2026-10-15T04:19:43Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -229,7 +247,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 22613,
+    "stars": 22615,
     "updated_at": "2026-10-15T02:46:57Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -256,7 +274,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 35836,
+    "stars": 35837,
     "updated_at": "2026-10-15T02:38:34Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -284,7 +302,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1361,
-    "updated_at": "2026-10-15T04:08:13Z",
+    "updated_at": "2026-10-15T04:29:52Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -333,15 +351,6 @@
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 5,
-    "updated_at": "2026-10-15T04:13:09Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
     "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
     "id": "redevops-io/agentic-os",
     "language": "Python",
@@ -365,17 +374,8 @@
     "language": "TypeScript",
     "name": "burakdede/lorepack",
     "stars": 3,
-    "updated_at": "2026-10-15T03:58:34Z",
+    "updated_at": "2026-10-15T04:18:05Z",
     "url": "https://github.com/burakdede/lorepack"
-  },
-  {
-    "description": "If the agent bill went up and nothing errored, a prompt cache broke. Replay Doctor names the turn it broke on, the cause",
-    "id": "RedRobotKK/Replay",
-    "language": "Go",
-    "name": "RedRobotKK/Replay",
-    "stars": 3,
-    "updated_at": "2026-10-15T02:40:12Z",
-    "url": "https://github.com/RedRobotKK/Replay"
   },
   {
     "description": "One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod",
@@ -432,6 +432,15 @@
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
+    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
+    "id": "lmnr-ai/lmnr",
+    "language": "TypeScript",
+    "name": "lmnr-ai/lmnr",
+    "stars": 3384,
+    "updated_at": "2026-10-15T00:02:31Z",
+    "url": "https://github.com/lmnr-ai/lmnr"
+  },
+  {
     "description": "Profile of Dr. Ravi Teja Thiriveedhi \u2014 clinician turned AI systems architect: multi-agent platforms, AI governance, LLM ",
     "id": "Raviteja2k2k/Raviteja2k2k",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-15T00:02:08Z",
     "url": "https://github.com/Raviteja2k2k/Raviteja2k2k"
-  },
-  {
-    "description": "An LLM inference engine for persistent chat bots and agents. It allows models to forget old and unimportant tokens to ke",
-    "id": "cosmonomic/pulsarlm",
-    "language": "C++",
-    "name": "cosmonomic/pulsarlm",
-    "stars": 3,
-    "updated_at": "2026-10-14T23:50:37Z",
-    "url": "https://github.com/cosmonomic/pulsarlm"
   }
 ]
