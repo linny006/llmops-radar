@@ -1,12 +1,102 @@
 [
   {
+    "description": "AI trust-boundary gateway for OpenAI, Anthropic, and Gemini.",
+    "id": "GetSHIM/shim",
+    "language": "Python",
+    "name": "GetSHIM/shim",
+    "stars": 9,
+    "updated_at": "2026-10-15T19:44:57Z",
+    "url": "https://github.com/GetSHIM/shim"
+  },
+  {
+    "description": "Open Source software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-10-15T19:44:28Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Model Context Protocol (MCP) Server for Langfuse Prompt Management. This server allows you to access and manage your Lan",
+    "id": "cjackson732/mcp-server-langfuse",
+    "language": "TypeScript",
+    "name": "cjackson732/mcp-server-langfuse",
+    "stars": 0,
+    "updated_at": "2026-10-15T19:43:59Z",
+    "url": "https://github.com/cjackson732/mcp-server-langfuse"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22627,
+    "updated_at": "2026-10-15T19:43:23Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61329,
+    "updated_at": "2026-10-15T19:44:50Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Painel para operar agentes de IA em produ\u00e7\u00e3o: prompt versionado com rollback, troca de modelo sem reescrever instru\u00e7\u00f5es ",
+    "id": "WellCod/automata",
+    "language": "Python",
+    "name": "WellCod/automata",
+    "stars": 1,
+    "updated_at": "2026-10-15T19:41:04Z",
+    "url": "https://github.com/WellCod/automata"
+  },
+  {
+    "description": "LiteLLM plugin that downgrades selected routes to cheaper models as a team's budget runs out",
+    "id": "amk9978/litellm-brownout",
+    "language": "Python",
+    "name": "amk9978/litellm-brownout",
+    "stars": 0,
+    "updated_at": "2026-10-15T19:36:44Z",
+    "url": "https://github.com/amk9978/litellm-brownout"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 2,
+    "updated_at": "2026-10-15T19:37:01Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35875,
+    "updated_at": "2026-10-15T19:34:53Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
     "id": "SourceShift/mini-ork",
     "language": "Python",
     "name": "SourceShift/mini-ork",
     "stars": 31,
-    "updated_at": "2026-10-15T19:28:18Z",
+    "updated_at": "2026-10-15T19:30:43Z",
     "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-15T19:30:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Continuous Evaluation Infrastructure for Production AI",
@@ -16,15 +106,6 @@
     "stars": 3,
     "updated_at": "2026-10-15T19:28:09Z",
     "url": "https://github.com/Red1-Rahman/NiriZan"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61327,
-    "updated_at": "2026-10-15T19:27:56Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Agentic Runtime",
@@ -41,7 +122,7 @@
     "language": "TypeScript",
     "name": "burakdede/lorepack",
     "stars": 3,
-    "updated_at": "2026-10-15T19:24:43Z",
+    "updated_at": "2026-10-15T19:41:01Z",
     "url": "https://github.com/burakdede/lorepack"
   },
   {
@@ -50,7 +131,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-15T19:22:06Z",
+    "updated_at": "2026-10-15T19:31:58Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -68,7 +149,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30571,
-    "updated_at": "2026-10-15T19:27:17Z",
+    "updated_at": "2026-10-15T19:32:14Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -81,15 +162,6 @@
     "url": "https://github.com/veerarakesh56/warden"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-15T19:15:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "50+ curated LLM observability tools PLUS 26 Agent Skills (several with runnable, unit-tested scripts) to build, evaluate",
     "id": "ContextJet-ai/awesome-llm-observability",
     "language": "Python",
@@ -97,15 +169,6 @@
     "stars": 41,
     "updated_at": "2026-10-15T19:13:36Z",
     "url": "https://github.com/ContextJet-ai/awesome-llm-observability"
-  },
-  {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 2,
-    "updated_at": "2026-10-15T19:26:35Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
     "description": "Production LLM call layer for AI agents and tools: keep OpenAI/Anthropic/AI SDK/LiteLLM, hot-swap models with MDA preset",
@@ -149,7 +212,7 @@
     "language": "Python",
     "name": "llmspendguard/llm-spendguard",
     "stars": 0,
-    "updated_at": "2026-10-15T19:05:00Z",
+    "updated_at": "2026-10-15T19:37:37Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
@@ -185,7 +248,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 110,
-    "updated_at": "2026-10-15T19:19:01Z",
+    "updated_at": "2026-10-15T19:44:30Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -248,17 +311,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11858,
-    "updated_at": "2026-10-15T19:24:51Z",
+    "updated_at": "2026-10-15T19:40:04Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35874,
-    "updated_at": "2026-10-15T19:14:11Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "ZenML \u2014 independent third-party profile of a public API surface, by API Evangelist. ZenML is an open-source MLOps and LL",
@@ -342,15 +396,6 @@
     "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
-    "description": "Painel para operar agentes de IA em produ\u00e7\u00e3o: prompt versionado com rollback, troca de modelo sem reescrever instru\u00e7\u00f5es ",
-    "id": "WellCod/automata",
-    "language": "Python",
-    "name": "WellCod/automata",
-    "stars": 1,
-    "updated_at": "2026-10-15T19:04:32Z",
-    "url": "https://github.com/WellCod/automata"
-  },
-  {
     "description": "Run-aware token governance for multi-agent systems.",
     "id": "theagentplane/tokenops",
     "language": "Python",
@@ -383,7 +428,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 523,
-    "updated_at": "2026-10-15T19:29:30Z",
+    "updated_at": "2026-10-15T19:39:31Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-15T18:07:25Z",
     "url": "https://github.com/kelvran/gateway"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-10-15T18:05:45Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "If the agent bill went up and nothing errored, a prompt cache broke. Replay Doctor names the turn it broke on, the cause",
-    "id": "RedRobotKK/Replay",
-    "language": "Go",
-    "name": "RedRobotKK/Replay",
-    "stars": 3,
-    "updated_at": "2026-10-15T18:05:34Z",
-    "url": "https://github.com/RedRobotKK/Replay"
-  },
-  {
-    "description": "Dark Gravity LLMOps Standard: ISO/IEC/IEEE 42010 agent observability, prompt lineage, and runtime guardrails for autonom",
-    "id": "lgcorzo/llmops-python-package",
-    "language": "Jupyter Notebook",
-    "name": "lgcorzo/llmops-python-package",
-    "stars": 1,
-    "updated_at": "2026-10-15T18:01:54Z",
-    "url": "https://github.com/lgcorzo/llmops-python-package"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 1,
-    "updated_at": "2026-10-15T17:58:17Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Open Source software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-10-15T18:59:16Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   }
 ]
