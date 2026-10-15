@@ -5,34 +5,16 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30571,
-    "updated_at": "2026-10-15T23:00:13Z",
+    "updated_at": "2026-10-15T23:13:12Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Open Source software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-10-15T23:00:07Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-15T22:59:18Z",
-    "url": "https://github.com/vocion/vocion-core"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 61333,
-    "updated_at": "2026-10-15T23:00:18Z",
+    "stars": 61334,
+    "updated_at": "2026-10-15T23:14:38Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -41,17 +23,53 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 41,
-    "updated_at": "2026-10-15T22:57:48Z",
+    "updated_at": "2026-10-15T23:15:09Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "If the agent bill went up and nothing errored, a prompt cache broke. Replay Doctor names the turn it broke on, the cause",
-    "id": "RedRobotKK/Replay",
-    "language": "Go",
-    "name": "RedRobotKK/Replay",
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-10-15T23:09:14Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 31,
+    "updated_at": "2026-10-15T23:06:11Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Flight recorder & observability for AI agents: trace every model call, tool call, file edit and shell command live, with",
+    "id": "abdullahimohamed101/agent-black-box",
+    "language": "Python",
+    "name": "abdullahimohamed101/agent-black-box",
+    "stars": 0,
+    "updated_at": "2026-10-15T23:05:52Z",
+    "url": "https://github.com/abdullahimohamed101/agent-black-box"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-10-15T23:13:53Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod",
+    "id": "valteresj2/agent-hangar",
+    "language": "Python",
+    "name": "valteresj2/agent-hangar",
     "stars": 3,
-    "updated_at": "2026-10-15T22:47:45Z",
-    "url": "https://github.com/RedRobotKK/Replay"
+    "updated_at": "2026-10-15T23:00:38Z",
+    "url": "https://github.com/valteresj2/agent-hangar"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -59,8 +77,44 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-10-15T22:45:25Z",
+    "updated_at": "2026-10-15T23:00:26Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Open Source software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-10-15T23:11:44Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-15T23:09:33Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22632,
+    "updated_at": "2026-10-15T22:52:34Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "If the agent bill went up and nothing errored, a prompt cache broke. Replay Doctor names the turn it broke on, the cause",
+    "id": "RedRobotKK/Replay",
+    "language": "Go",
+    "name": "RedRobotKK/Replay",
+    "stars": 3,
+    "updated_at": "2026-10-15T23:11:22Z",
+    "url": "https://github.com/RedRobotKK/Replay"
   },
   {
     "description": "Resource providers for pragma-os. Manage cloud infrastructure, AI agents, knowledge bases, pipelines, and workflows.",
@@ -86,7 +140,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 110,
-    "updated_at": "2026-10-15T22:58:56Z",
+    "updated_at": "2026-10-15T23:10:00Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -95,7 +149,7 @@
     "language": "Python",
     "name": "amk9978/litellm-brownout",
     "stars": 0,
-    "updated_at": "2026-10-15T22:57:37Z",
+    "updated_at": "2026-10-15T23:11:38Z",
     "url": "https://github.com/amk9978/litellm-brownout"
   },
   {
@@ -142,15 +196,6 @@
     "stars": 41,
     "updated_at": "2026-10-15T22:16:32Z",
     "url": "https://github.com/ContextJet-ai/awesome-llm-observability"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22631,
-    "updated_at": "2026-10-15T22:52:34Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
@@ -214,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-10-15T21:43:25Z",
     "url": "https://github.com/SibelTrinh25/mcp-server-langfuse"
-  },
-  {
-    "description": "One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod",
-    "id": "valteresj2/agent-hangar",
-    "language": "Python",
-    "name": "valteresj2/agent-hangar",
-    "stars": 3,
-    "updated_at": "2026-10-15T21:45:18Z",
-    "url": "https://github.com/valteresj2/agent-hangar"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -293,7 +329,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 26020,
-    "updated_at": "2026-10-15T21:06:14Z",
+    "updated_at": "2026-10-15T23:13:53Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -369,15 +405,6 @@
     "url": "https://github.com/WellCod/automata"
   },
   {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 31,
-    "updated_at": "2026-10-15T20:18:12Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
     "description": "The missing manual for shipping AI agents you can trust. Evals, guardrails and observability for LLM agents and RAG, wit",
     "id": "Sarangk90/awesome-agent-evals-and-guardrails",
     "language": "JavaScript",
@@ -419,34 +446,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4958,
-    "updated_at": "2026-10-15T21:51:39Z",
+    "updated_at": "2026-10-15T23:06:36Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Model Context Protocol (MCP) Server for Langfuse Prompt Management. This server allows you to access and manage your Lan",
-    "id": "cjackson732/mcp-server-langfuse",
-    "language": "TypeScript",
-    "name": "cjackson732/mcp-server-langfuse",
-    "stars": 0,
-    "updated_at": "2026-10-15T19:50:01Z",
-    "url": "https://github.com/cjackson732/mcp-server-langfuse"
-  },
-  {
-    "description": "Continuous Evaluation Infrastructure for Production AI",
-    "id": "Red1-Rahman/NiriZan",
-    "language": "Jupyter Notebook",
-    "name": "Red1-Rahman/NiriZan",
-    "stars": 3,
-    "updated_at": "2026-10-15T19:28:09Z",
-    "url": "https://github.com/Red1-Rahman/NiriZan"
-  },
-  {
-    "description": "Cheaper and better Greptile alternative runs on your own github actions.",
-    "id": "MeganDemir95658/juror",
-    "language": "TypeScript",
-    "name": "MeganDemir95658/juror",
-    "stars": 0,
-    "updated_at": "2026-10-15T19:21:32Z",
-    "url": "https://github.com/MeganDemir95658/juror"
   }
 ]
