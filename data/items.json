@@ -1,12 +1,57 @@
 [
   {
+    "description": "\u5f00\u6e90 AI Agent \u6cbb\u7406\u6280\u80fd\u5e93\uff1a109 \u4e2a\u96f6\u4f9d\u8d56\u6280\u80fd\uff0c\u8ba9\u6bcf\u4e2a AI \u8f93\u51fa\u6709\u7c4d\u00b7\u6709\u8bc1\u00b7\u6709\u95e8\u7981\u3002\u8986\u76d6 AI \u6cbb\u7406 / Agent \u5b89\u5168 / \u5408\u89c4\u81ea\u52a8\u5316 / \u8bb0\u5fc6\u6cbb\u7406\uff0c\u9002\u914d Claude Code \u00b7 Codex \u00b7 Cursor \u00b7 Wor",
+    "id": "zhaoxinghua09-cell/agent-skills",
+    "language": "Python",
+    "name": "zhaoxinghua09-cell/agent-skills",
+    "stars": 2,
+    "updated_at": "2026-10-15T06:44:00Z",
+    "url": "https://github.com/zhaoxinghua09-cell/agent-skills"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 30559,
+    "updated_at": "2026-10-15T06:41:50Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 61282,
-    "updated_at": "2026-10-15T06:30:04Z",
+    "stars": 61283,
+    "updated_at": "2026-10-15T06:41:27Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "OpenLIT is the open-source agent harness engineering platform: trace, evaluate, guard, and improve everything around the",
+    "id": "openlit/openlit",
+    "language": "TypeScript",
+    "name": "openlit/openlit",
+    "stars": 2850,
+    "updated_at": "2026-10-15T06:36:12Z",
+    "url": "https://github.com/openlit/openlit"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-15T06:36:01Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-15T06:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
@@ -14,7 +59,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 35843,
-    "updated_at": "2026-10-15T06:24:15Z",
+    "updated_at": "2026-10-15T06:42:55Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -27,21 +72,12 @@
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
-    "description": "OpenLIT is the open-source agent harness engineering platform: trace, evaluate, guard, and improve everything around the",
-    "id": "openlit/openlit",
-    "language": "TypeScript",
-    "name": "openlit/openlit",
-    "stars": 2850,
-    "updated_at": "2026-10-15T06:18:13Z",
-    "url": "https://github.com/openlit/openlit"
-  },
-  {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "Python",
     "name": "vllm-project/vllm-ascend",
     "stars": 2983,
-    "updated_at": "2026-10-15T06:16:47Z",
+    "updated_at": "2026-10-15T06:42:20Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -54,21 +90,12 @@
     "url": "https://github.com/brtydse100/litegate"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-15T06:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\ud83e\udea2 Langfuse JS/TS SDK",
     "id": "langfuse/langfuse-js",
     "language": "TypeScript",
     "name": "langfuse/langfuse-js",
     "stars": 174,
-    "updated_at": "2026-10-15T06:11:43Z",
+    "updated_at": "2026-10-15T06:37:11Z",
     "url": "https://github.com/langfuse/langfuse-js"
   },
   {
@@ -97,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-10-15T06:00:49Z",
     "url": "https://github.com/veerarakesh56/warden"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-15T05:59:54Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
@@ -171,15 +189,6 @@
     "url": "https://github.com/aws-samples/sample-genai-on-eks-starter-kit"
   },
   {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 30558,
-    "updated_at": "2026-10-15T05:59:22Z",
-    "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -230,7 +239,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11841,
-    "updated_at": "2026-10-15T04:59:08Z",
+    "updated_at": "2026-10-15T06:33:48Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -266,7 +275,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-10-15T06:14:32Z",
+    "updated_at": "2026-10-15T06:41:39Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -338,7 +347,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 110,
-    "updated_at": "2026-10-15T06:05:10Z",
+    "updated_at": "2026-10-15T06:31:38Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-15T02:43:43Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
-  },
-  {
-    "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
-    "id": "0xLazAI/alith",
-    "language": "Rust",
-    "name": "0xLazAI/alith",
-    "stars": 44,
-    "updated_at": "2026-10-15T02:37:13Z",
-    "url": "https://github.com/0xLazAI/alith"
   }
 ]
