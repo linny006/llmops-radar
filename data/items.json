@@ -1,12 +1,57 @@
 [
   {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
+    "description": "50+ curated LLM observability tools PLUS 26 Agent Skills (several with runnable, unit-tested scripts) to build, evaluate",
+    "id": "ContextJet-ai/awesome-llm-observability",
     "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
+    "name": "ContextJet-ai/awesome-llm-observability",
+    "stars": 41,
+    "updated_at": "2026-10-15T19:13:36Z",
+    "url": "https://github.com/ContextJet-ai/awesome-llm-observability"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 31,
+    "updated_at": "2026-10-15T19:13:35Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 2,
+    "updated_at": "2026-10-15T19:12:40Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61325,
+    "updated_at": "2026-10-15T19:12:33Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Production LLM call layer for AI agents and tools: keep OpenAI/Anthropic/AI SDK/LiteLLM, hot-swap models with MDA preset",
+    "id": "ElifHu65/llmix",
+    "language": "Python",
+    "name": "ElifHu65/llmix",
     "stars": 0,
-    "updated_at": "2026-10-15T19:05:00Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
+    "updated_at": "2026-10-15T19:12:23Z",
+    "url": "https://github.com/ElifHu65/llmix"
+  },
+  {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-10-15T19:10:20Z",
+    "url": "https://github.com/veerarakesh56/warden"
   },
   {
     "description": "Continuous LLM governance monitoring for regulated environments - EU AI Act, GDPR, ANSSI. Self-hosted, profile-driven, n",
@@ -14,8 +59,44 @@
     "language": "Python",
     "name": "JehanneDussert/govllm",
     "stars": 31,
-    "updated_at": "2026-10-15T19:05:10Z",
+    "updated_at": "2026-10-15T19:11:24Z",
     "url": "https://github.com/JehanneDussert/govllm"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26019,
+    "updated_at": "2026-10-15T19:13:58Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Dify \u2014 independent third-party profile of a public API surface, by API Evangelist. Dify is an open-source platform for b",
+    "id": "api-evangelist/dify",
+    "language": "\u2014",
+    "name": "api-evangelist/dify",
+    "stars": 0,
+    "updated_at": "2026-10-15T19:08:02Z",
+    "url": "https://github.com/api-evangelist/dify"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-15T19:05:59Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-10-15T19:05:00Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
     "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
@@ -27,24 +108,6 @@
     "url": "https://github.com/eOzturk454/awesome-ai-gateway"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26018,
-    "updated_at": "2026-10-15T19:05:43Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61324,
-    "updated_at": "2026-10-15T19:05:00Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Resource providers for pragma-os. Manage cloud infrastructure, AI agents, knowledge bases, pipelines, and workflows.",
     "id": "pragmatiks/pragma-providers",
     "language": "Python",
@@ -54,13 +117,13 @@
     "url": "https://github.com/pragmatiks/pragma-providers"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-15T19:00:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "future-agi/future-agi",
+    "stars": 2153,
+    "updated_at": "2026-10-15T18:57:24Z",
+    "url": "https://github.com/future-agi/future-agi"
   },
   {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
@@ -68,7 +131,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 110,
-    "updated_at": "2026-10-15T19:05:50Z",
+    "updated_at": "2026-10-15T19:15:05Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -135,6 +198,15 @@
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
+    "description": "The missing manual for shipping AI agents you can trust. Evals, guardrails and observability for LLM agents and RAG, wit",
+    "id": "Sarangk90/awesome-agent-evals-and-guardrails",
+    "language": "JavaScript",
+    "name": "Sarangk90/awesome-agent-evals-and-guardrails",
+    "stars": 2,
+    "updated_at": "2026-10-15T18:43:29Z",
+    "url": "https://github.com/Sarangk90/awesome-agent-evals-and-guardrails"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -149,17 +221,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 35874,
-    "updated_at": "2026-10-15T18:58:29Z",
+    "updated_at": "2026-10-15T19:14:11Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "50+ curated LLM observability tools PLUS 26 Agent Skills (several with runnable, unit-tested scripts) to build, evaluate",
-    "id": "ContextJet-ai/awesome-llm-observability",
-    "language": "Python",
-    "name": "ContextJet-ai/awesome-llm-observability",
-    "stars": 41,
-    "updated_at": "2026-10-15T18:38:31Z",
-    "url": "https://github.com/ContextJet-ai/awesome-llm-observability"
   },
   {
     "description": "ZenML \u2014 independent third-party profile of a public API surface, by API Evangelist. ZenML is an open-source MLOps and LL",
@@ -178,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-10-15T18:36:11Z",
     "url": "https://github.com/api-evangelist/seldon"
-  },
-  {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 31,
-    "updated_at": "2026-10-15T18:35:07Z",
-    "url": "https://github.com/SourceShift/mini-ork"
   },
   {
     "description": "The platform for continuously improving AI agents.",
@@ -216,15 +270,6 @@
     "url": "https://github.com/donaldc572/turbular"
   },
   {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 2,
-    "updated_at": "2026-10-15T19:03:49Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
@@ -234,21 +279,12 @@
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
-    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-10-15T18:22:50Z",
-    "url": "https://github.com/veerarakesh56/warden"
-  },
-  {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8885,
-    "updated_at": "2026-10-15T18:44:49Z",
+    "updated_at": "2026-10-15T19:13:29Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -275,7 +311,7 @@
     "language": "Go",
     "name": "rknightion/genai-otel-bridge",
     "stars": 1,
-    "updated_at": "2026-10-15T18:40:29Z",
+    "updated_at": "2026-10-15T19:15:21Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
@@ -378,15 +414,6 @@
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 2152,
-    "updated_at": "2026-10-15T18:57:24Z",
-    "url": "https://github.com/future-agi/future-agi"
-  },
-  {
     "description": "Open Source software factory.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
@@ -421,32 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-15T18:12:09Z",
     "url": "https://github.com/sjfakharian/zerospend"
-  },
-  {
-    "description": "Official O11y One SDKs for TypeScript, Python and Go, plus o11y-eval, the CI runner and PR-diff action that gate release",
-    "id": "o11y-one/o11y-one-sdk",
-    "language": "TypeScript",
-    "name": "o11y-one/o11y-one-sdk",
-    "stars": 0,
-    "updated_at": "2026-10-15T17:28:16Z",
-    "url": "https://github.com/o11y-one/o11y-one-sdk"
-  },
-  {
-    "description": "Top AI Evaluation Tracking (Opensource)  Star if you like it! ",
-    "id": "ishandutta2007/Awesome-AI-Evaluation-Tracking",
-    "language": "\u2014",
-    "name": "ishandutta2007/Awesome-AI-Evaluation-Tracking",
-    "stars": 0,
-    "updated_at": "2026-10-15T17:27:28Z",
-    "url": "https://github.com/ishandutta2007/Awesome-AI-Evaluation-Tracking"
-  },
-  {
-    "description": "Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio",
-    "id": "naim-munshi/metriqen-llm-serving-optimization",
-    "language": "Python",
-    "name": "naim-munshi/metriqen-llm-serving-optimization",
-    "stars": 0,
-    "updated_at": "2026-10-15T17:21:20Z",
-    "url": "https://github.com/naim-munshi/metriqen-llm-serving-optimization"
   }
 ]
