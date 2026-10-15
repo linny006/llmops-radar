@@ -1,21 +1,21 @@
 [
   {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8879,
-    "updated_at": "2026-10-15T03:57:37Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
+    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
+    "id": "Masterplanner25/aindy-runtime",
+    "language": "Python",
+    "name": "Masterplanner25/aindy-runtime",
+    "stars": 1,
+    "updated_at": "2026-10-15T04:12:29Z",
+    "url": "https://github.com/Masterplanner25/aindy-runtime"
   },
   {
-    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
-    "id": "veerarakesh56/warden",
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
     "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-10-15T03:55:47Z",
-    "url": "https://github.com/veerarakesh56/warden"
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 42,
+    "updated_at": "2026-10-15T04:15:21Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -23,8 +23,35 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61275,
-    "updated_at": "2026-10-15T03:59:35Z",
+    "updated_at": "2026-10-15T04:14:24Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-10-15T04:07:19Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-15T04:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8879,
+    "updated_at": "2026-10-15T03:57:37Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "A comprehensive toolkit for deploying production-ready Generative AI infrastructure on Amazon EKS. Includes pre-configur",
@@ -63,13 +90,13 @@
     "url": "https://github.com/prasad-kavuri/prasad-portfolio"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-15T03:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "mlflow/mlflow",
+    "stars": 28389,
+    "updated_at": "2026-10-15T03:44:31Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Agentic Runtime",
@@ -86,7 +113,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-10-15T03:55:31Z",
+    "updated_at": "2026-10-15T04:13:14Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -126,7 +153,7 @@
     "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
-    "description": "A zero-Python LLM security proxy written in Rust.",
+    "description": "LLM security proxy written in Rust.",
     "id": "Mattral/guardrail-rs",
     "language": "Rust",
     "name": "Mattral/guardrail-rs",
@@ -142,15 +169,6 @@
     "stars": 2981,
     "updated_at": "2026-10-15T03:28:15Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28388,
-    "updated_at": "2026-10-15T03:44:31Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -238,7 +256,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 35834,
+    "stars": 35836,
     "updated_at": "2026-10-15T02:38:34Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -266,7 +284,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1361,
-    "updated_at": "2026-10-15T03:58:52Z",
+    "updated_at": "2026-10-15T04:08:13Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -283,7 +301,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 30558,
+    "stars": 30559,
     "updated_at": "2026-10-15T02:29:59Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -311,17 +329,8 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 187,
-    "updated_at": "2026-10-15T03:51:42Z",
+    "updated_at": "2026-10-15T04:06:37Z",
     "url": "https://github.com/GetBusbar/busbar"
-  },
-  {
-    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
-    "id": "Masterplanner25/aindy-runtime",
-    "language": "Python",
-    "name": "Masterplanner25/aindy-runtime",
-    "stars": 1,
-    "updated_at": "2026-10-15T03:46:25Z",
-    "url": "https://github.com/Masterplanner25/aindy-runtime"
   },
   {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
@@ -329,17 +338,8 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 5,
-    "updated_at": "2026-10-15T02:05:48Z",
+    "updated_at": "2026-10-15T04:13:09Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 42,
-    "updated_at": "2026-10-15T03:07:47Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
     "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
@@ -418,7 +418,7 @@
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
-    "stars": 4951,
+    "stars": 4952,
     "updated_at": "2026-10-15T00:16:19Z",
     "url": "https://github.com/langwatch/langwatch"
   },
