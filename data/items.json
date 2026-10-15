@@ -1,12 +1,75 @@
 [
   {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-10-15T01:45:03Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 42,
+    "updated_at": "2026-10-15T01:44:56Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-15T01:39:00Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28387,
+    "updated_at": "2026-10-15T01:41:44Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
+    "id": "Root1V/prometheus-inference-platform",
+    "language": "Python",
+    "name": "Root1V/prometheus-inference-platform",
+    "stars": 1,
+    "updated_at": "2026-10-15T01:32:46Z",
+    "url": "https://github.com/Root1V/prometheus-inference-platform"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61264,
-    "updated_at": "2026-10-15T01:30:26Z",
+    "updated_at": "2026-10-15T01:44:32Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-10-15T01:44:48Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-15T01:30:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
@@ -23,7 +86,7 @@
     "language": "TypeScript",
     "name": "burakdede/lorepack",
     "stars": 3,
-    "updated_at": "2026-10-15T01:19:06Z",
+    "updated_at": "2026-10-15T01:38:08Z",
     "url": "https://github.com/burakdede/lorepack"
   },
   {
@@ -54,33 +117,6 @@
     "url": "https://github.com/Root1V/argus-observability-platform"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-15T01:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-15T01:13:46Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
-    "id": "Root1V/prometheus-inference-platform",
-    "language": "Python",
-    "name": "Root1V/prometheus-inference-platform",
-    "stars": 1,
-    "updated_at": "2026-10-15T01:13:27Z",
-    "url": "https://github.com/Root1V/prometheus-inference-platform"
-  },
-  {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "Python",
@@ -106,15 +142,6 @@
     "stars": 22610,
     "updated_at": "2026-10-15T01:04:40Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-10-15T01:03:02Z",
-    "url": "https://github.com/veerarakesh56/warden"
   },
   {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
@@ -160,24 +187,6 @@
     "stars": 53,
     "updated_at": "2026-10-15T00:32:08Z",
     "url": "https://github.com/GeiserX/LynxPrompt"
-  },
-  {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-10-15T00:28:15Z",
-    "url": "https://github.com/redevops-io/agentic-os"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28387,
-    "updated_at": "2026-10-15T00:26:31Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Bounded context for long-horizon LLM agents: carry a small re-grounded signal instead of replaying the transcript, so a ",
@@ -302,7 +311,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11839,
-    "updated_at": "2026-10-15T00:26:42Z",
+    "updated_at": "2026-10-15T01:41:09Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -338,7 +347,7 @@
     "language": "Python",
     "name": "overmind-core/overmind",
     "stars": 659,
-    "updated_at": "2026-10-15T00:21:23Z",
+    "updated_at": "2026-10-15T01:35:31Z",
     "url": "https://github.com/overmind-core/overmind"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-14T21:17:57Z",
     "url": "https://github.com/ZQM-Computing/ollama-fleet-patterns"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-10-14T21:12:02Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
   }
 ]
