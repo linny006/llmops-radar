@@ -5,8 +5,62 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30571,
-    "updated_at": "2026-10-15T22:43:33Z",
+    "updated_at": "2026-10-15T23:00:13Z",
     "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
+    "description": "Open Source software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-10-15T23:00:07Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-15T22:59:18Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61333,
+    "updated_at": "2026-10-15T23:00:18Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-15T22:57:48Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "If the agent bill went up and nothing errored, a prompt cache broke. Replay Doctor names the turn it broke on, the cause",
+    "id": "RedRobotKK/Replay",
+    "language": "Go",
+    "name": "RedRobotKK/Replay",
+    "stars": 3,
+    "updated_at": "2026-10-15T22:47:45Z",
+    "url": "https://github.com/RedRobotKK/Replay"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-15T22:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Resource providers for pragma-os. Manage cloud infrastructure, AI agents, knowledge bases, pipelines, and workflows.",
@@ -18,30 +72,12 @@
     "url": "https://github.com/pragmatiks/pragma-providers"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61333,
-    "updated_at": "2026-10-15T22:44:34Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-15T22:39:04Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 35878,
-    "updated_at": "2026-10-15T22:37:44Z",
+    "updated_at": "2026-10-15T22:54:29Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -50,17 +86,8 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 110,
-    "updated_at": "2026-10-15T22:40:13Z",
+    "updated_at": "2026-10-15T22:58:56Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-15T22:30:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "LiteLLM plugin that downgrades selected routes to cheaper models as a team's budget runs out",
@@ -68,7 +95,7 @@
     "language": "Python",
     "name": "amk9978/litellm-brownout",
     "stars": 0,
-    "updated_at": "2026-10-15T22:28:21Z",
+    "updated_at": "2026-10-15T22:57:37Z",
     "url": "https://github.com/amk9978/litellm-brownout"
   },
   {
@@ -90,21 +117,12 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-15T22:34:30Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
     "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
     "id": "burakdede/lorepack",
     "language": "TypeScript",
     "name": "burakdede/lorepack",
     "stars": 3,
-    "updated_at": "2026-10-15T22:18:08Z",
+    "updated_at": "2026-10-15T22:53:09Z",
     "url": "https://github.com/burakdede/lorepack"
   },
   {
@@ -131,7 +149,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22631,
-    "updated_at": "2026-10-15T22:33:00Z",
+    "updated_at": "2026-10-15T22:52:34Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -230,7 +248,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8886,
-    "updated_at": "2026-10-15T21:29:08Z",
+    "updated_at": "2026-10-15T22:50:01Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -270,6 +288,15 @@
     "url": "https://github.com/GetSHIM/shim"
   },
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26020,
+    "updated_at": "2026-10-15T21:06:14Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "GitHub Action for LLM migration and regression testing \u2014 runs your golden suite on every PR and fails the check on model",
     "id": "evalshift/evalshift-action",
     "language": "Python",
@@ -286,15 +313,6 @@
     "stars": 2,
     "updated_at": "2026-10-15T21:14:03Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "Open Source software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-10-15T22:15:08Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "Estimate LLM VRAM \u2014 model weights, KV cache, context window & concurrent users \u2014 and find the right GPU. Live Hugging Fa",
@@ -414,15 +432,6 @@
     "url": "https://github.com/cjackson732/mcp-server-langfuse"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26019,
-    "updated_at": "2026-10-15T21:06:14Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Continuous Evaluation Infrastructure for Production AI",
     "id": "Red1-Rahman/NiriZan",
     "language": "Jupyter Notebook",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-15T19:21:32Z",
     "url": "https://github.com/MeganDemir95658/juror"
-  },
-  {
-    "description": "Production LLM call layer for AI agents and tools: keep OpenAI/Anthropic/AI SDK/LiteLLM, hot-swap models with MDA preset",
-    "id": "ElifHu65/llmix",
-    "language": "Python",
-    "name": "ElifHu65/llmix",
-    "stars": 0,
-    "updated_at": "2026-10-15T19:12:23Z",
-    "url": "https://github.com/ElifHu65/llmix"
   }
 ]
