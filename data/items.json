@@ -1,12 +1,66 @@
 [
   {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-10-15T19:05:00Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "Continuous LLM governance monitoring for regulated environments - EU AI Act, GDPR, ANSSI. Self-hosted, profile-driven, n",
+    "id": "JehanneDussert/govllm",
+    "language": "Python",
+    "name": "JehanneDussert/govllm",
+    "stars": 31,
+    "updated_at": "2026-10-15T19:05:10Z",
+    "url": "https://github.com/JehanneDussert/govllm"
+  },
+  {
+    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
+    "id": "eOzturk454/awesome-ai-gateway",
+    "language": "CSS",
+    "name": "eOzturk454/awesome-ai-gateway",
+    "stars": 0,
+    "updated_at": "2026-10-15T19:03:26Z",
+    "url": "https://github.com/eOzturk454/awesome-ai-gateway"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26018,
+    "updated_at": "2026-10-15T19:05:43Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61324,
-    "updated_at": "2026-10-15T19:00:19Z",
+    "updated_at": "2026-10-15T19:05:00Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Resource providers for pragma-os. Manage cloud infrastructure, AI agents, knowledge bases, pipelines, and workflows.",
+    "id": "pragmatiks/pragma-providers",
+    "language": "Python",
+    "name": "pragmatiks/pragma-providers",
+    "stars": 0,
+    "updated_at": "2026-10-15T19:00:48Z",
+    "url": "https://github.com/pragmatiks/pragma-providers"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-15T19:00:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
@@ -14,7 +68,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 110,
-    "updated_at": "2026-10-15T18:59:32Z",
+    "updated_at": "2026-10-15T19:05:50Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -34,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-10-15T18:55:27Z",
     "url": "https://github.com/tahircengiz/LLMScale"
-  },
-  {
-    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
-    "id": "eOzturk454/awesome-ai-gateway",
-    "language": "CSS",
-    "name": "eOzturk454/awesome-ai-gateway",
-    "stars": 0,
-    "updated_at": "2026-10-15T18:50:42Z",
-    "url": "https://github.com/eOzturk454/awesome-ai-gateway"
   },
   {
     "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
@@ -79,15 +124,6 @@
     "stars": 53,
     "updated_at": "2026-10-15T18:46:59Z",
     "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-15T18:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -158,7 +194,7 @@
     "language": "Python",
     "name": "overmind-core/overmind",
     "stars": 659,
-    "updated_at": "2026-10-15T18:56:39Z",
+    "updated_at": "2026-10-15T19:04:34Z",
     "url": "https://github.com/overmind-core/overmind"
   },
   {
@@ -180,21 +216,12 @@
     "url": "https://github.com/donaldc572/turbular"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26018,
-    "updated_at": "2026-10-15T18:24:44Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
     "id": "rrahimi-uci/caliber-suite",
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 2,
-    "updated_at": "2026-10-15T18:24:25Z",
+    "updated_at": "2026-10-15T19:03:49Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -257,7 +284,7 @@
     "language": "Python",
     "name": "WellCod/automata",
     "stars": 1,
-    "updated_at": "2026-10-15T18:51:49Z",
+    "updated_at": "2026-10-15T19:04:32Z",
     "url": "https://github.com/WellCod/automata"
   },
   {
@@ -396,15 +423,6 @@
     "url": "https://github.com/sjfakharian/zerospend"
   },
   {
-    "description": "Continuous LLM governance monitoring for regulated environments - EU AI Act, GDPR, ANSSI. Self-hosted, profile-driven, n",
-    "id": "JehanneDussert/govllm",
-    "language": "Python",
-    "name": "JehanneDussert/govllm",
-    "stars": 31,
-    "updated_at": "2026-10-15T18:59:32Z",
-    "url": "https://github.com/JehanneDussert/govllm"
-  },
-  {
     "description": "Official O11y One SDKs for TypeScript, Python and Go, plus o11y-eval, the CI runner and PR-diff action that gate release",
     "id": "o11y-one/o11y-one-sdk",
     "language": "TypeScript",
@@ -423,15 +441,6 @@
     "url": "https://github.com/ishandutta2007/Awesome-AI-Evaluation-Tracking"
   },
   {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-10-15T18:39:27Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
     "description": "Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio",
     "id": "naim-munshi/metriqen-llm-serving-optimization",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-15T17:21:20Z",
     "url": "https://github.com/naim-munshi/metriqen-llm-serving-optimization"
-  },
-  {
-    "description": "Privacy audit for multi-agent AI systems (CrewAI \u00b7 LangGraph \u00b7 AutoGen) \u2014 detect compositional data leaks without the ce",
-    "id": "Justin0504/federated-agent-audit",
-    "language": "Python",
-    "name": "Justin0504/federated-agent-audit",
-    "stars": 4,
-    "updated_at": "2026-10-15T17:39:46Z",
-    "url": "https://github.com/Justin0504/federated-agent-audit"
   }
 ]
