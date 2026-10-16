@@ -1,5 +1,77 @@
 [
   {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-16T06:44:16Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Continuous Evaluation Infrastructure for Production AI",
+    "id": "Red1-Rahman/NiriZan",
+    "language": "Jupyter Notebook",
+    "name": "Red1-Rahman/NiriZan",
+    "stars": 3,
+    "updated_at": "2026-10-16T06:42:51Z",
+    "url": "https://github.com/Red1-Rahman/NiriZan"
+  },
+  {
+    "description": "The platform for continuously improving AI agents.",
+    "id": "overmind-core/overmind",
+    "language": "Python",
+    "name": "overmind-core/overmind",
+    "stars": 660,
+    "updated_at": "2026-10-16T06:40:50Z",
+    "url": "https://github.com/overmind-core/overmind"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61357,
+    "updated_at": "2026-10-16T06:41:22Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35889,
+    "updated_at": "2026-10-16T06:45:13Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "An awesome & curated list of best LLMOps tools for developers",
+    "id": "tensorchord/Awesome-LLMOps",
+    "language": "Shell",
+    "name": "tensorchord/Awesome-LLMOps",
+    "stars": 5961,
+    "updated_at": "2026-10-16T06:34:42Z",
+    "url": "https://github.com/tensorchord/Awesome-LLMOps"
+  },
+  {
+    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
+    "id": "korczis/prismatic-majordomus",
+    "language": "Rust",
+    "name": "korczis/prismatic-majordomus",
+    "stars": 0,
+    "updated_at": "2026-10-16T06:34:28Z",
+    "url": "https://github.com/korczis/prismatic-majordomus"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-16T06:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "Python",
@@ -7,15 +79,6 @@
     "stars": 2993,
     "updated_at": "2026-10-16T06:28:05Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-16T06:26:42Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
@@ -27,15 +90,6 @@
     "url": "https://github.com/toxicwind/ranch"
   },
   {
-    "description": "Continuous Evaluation Infrastructure for Production AI",
-    "id": "Red1-Rahman/NiriZan",
-    "language": "Jupyter Notebook",
-    "name": "Red1-Rahman/NiriZan",
-    "stars": 3,
-    "updated_at": "2026-10-16T06:22:39Z",
-    "url": "https://github.com/Red1-Rahman/NiriZan"
-  },
-  {
     "description": "AI platform reference architecture for LLM serving on Kubernetes, with reliability, observability, failure testing, and ",
     "id": "asadhanif3188/InferOps",
     "language": "Python",
@@ -45,15 +99,6 @@
     "url": "https://github.com/asadhanif3188/InferOps"
   },
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35889,
-    "updated_at": "2026-10-16T06:29:54Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Enterprise Scale AIFactory (esml) - on Azure",
     "id": "jostrm/azure-enterprise-scale-ml",
     "language": "Python",
@@ -61,15 +106,6 @@
     "stars": 53,
     "updated_at": "2026-10-16T06:19:59Z",
     "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-16T06:15:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
@@ -85,7 +121,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26031,
+    "stars": 26032,
     "updated_at": "2026-10-16T06:09:34Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -95,7 +131,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 193,
-    "updated_at": "2026-10-16T06:08:55Z",
+    "updated_at": "2026-10-16T06:33:23Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -104,7 +140,7 @@
     "language": "Go",
     "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "stars": 1,
-    "updated_at": "2026-10-16T06:24:22Z",
+    "updated_at": "2026-10-16T06:41:48Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
   },
   {
@@ -113,7 +149,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28405,
-    "updated_at": "2026-10-16T06:04:34Z",
+    "updated_at": "2026-10-16T06:40:43Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -122,7 +158,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 110,
-    "updated_at": "2026-10-16T06:27:41Z",
+    "updated_at": "2026-10-16T06:38:26Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -185,17 +221,8 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 12055,
-    "updated_at": "2026-10-16T06:13:29Z",
+    "updated_at": "2026-10-16T06:42:58Z",
     "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61356,
-    "updated_at": "2026-10-16T06:27:50Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "AI Radar\uff1a\u5177\u5907\u8bc1\u636e\u94fe\u3001\u4eba\u5de5\u5ba1\u6838\u3001\u77e5\u8bc6\u56fe\u8c31\u4e0e\u53ef\u4fe1 RAG \u7684 AI \u6280\u672f\u60c5\u62a5\u5e73\u53f0",
@@ -277,15 +304,6 @@
     "stars": 22640,
     "updated_at": "2026-10-16T06:06:13Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "The platform for continuously improving AI agents.",
-    "id": "overmind-core/overmind",
-    "language": "Python",
-    "name": "overmind-core/overmind",
-    "stars": 660,
-    "updated_at": "2026-10-16T05:58:58Z",
-    "url": "https://github.com/overmind-core/overmind"
   },
   {
     "description": "Automated LLM Evaluation Suites, Benchmarking Pipelines & Continuous Statistical Regression Testing for Probabilistic Mo",
@@ -382,7 +400,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11867,
+    "stars": 11868,
     "updated_at": "2026-10-16T03:24:27Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -403,15 +421,6 @@
     "stars": 2156,
     "updated_at": "2026-10-16T06:24:42Z",
     "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
-    "id": "korczis/prismatic-majordomus",
-    "language": "Rust",
-    "name": "korczis/prismatic-majordomus",
-    "stars": 0,
-    "updated_at": "2026-10-16T04:53:51Z",
-    "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-16T02:55:55Z",
     "url": "https://github.com/Lowaltitudeflight/Lowaltitudeflight"
-  },
-  {
-    "description": "Hands-on handbook for delivering private LLM deployments: environment survey, VRAM estimation with worked examples, vLLM",
-    "id": "Lowaltitudeflight/llm-private-deploy-handbook",
-    "language": "Python",
-    "name": "Lowaltitudeflight/llm-private-deploy-handbook",
-    "stars": 0,
-    "updated_at": "2026-10-16T02:54:49Z",
-    "url": "https://github.com/Lowaltitudeflight/llm-private-deploy-handbook"
   }
 ]
