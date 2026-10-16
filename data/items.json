@@ -1,21 +1,21 @@
 [
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-16T03:29:19Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 61350,
-    "updated_at": "2026-10-16T03:28:15Z",
+    "stars": 61352,
+    "updated_at": "2026-10-16T03:45:16Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Local, self-hosted agent infrastructure \u2014 one endpoint for every AI client (Claude Code, Codex CLI, Gemini CLI, OpenCode",
+    "id": "Stravia-AI/StraviaPlatform",
+    "language": "Rust",
+    "name": "Stravia-AI/StraviaPlatform",
+    "stars": 3,
+    "updated_at": "2026-10-16T03:40:47Z",
+    "url": "https://github.com/Stravia-AI/StraviaPlatform"
   },
   {
     "description": "Behavioral regression testing for AI apps and agents: pytest plugin, behavior diff, CI gate, and document extraction met",
@@ -23,8 +23,35 @@
     "language": "Python",
     "name": "tap222/assay-evals",
     "stars": 16,
-    "updated_at": "2026-10-16T03:27:53Z",
+    "updated_at": "2026-10-16T03:37:58Z",
     "url": "https://github.com/tap222/assay-evals"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "language": "Go",
+    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-10-16T03:36:03Z",
+    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-16T03:39:32Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-16T03:30:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
@@ -63,15 +90,6 @@
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-16T03:15:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
     "id": "toxicwind/ranch",
     "language": "Rust",
@@ -104,7 +122,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8887,
-    "updated_at": "2026-10-16T03:04:59Z",
+    "updated_at": "2026-10-16T03:41:27Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -148,7 +166,7 @@
     "id": "vllm-project/vllm-ascend",
     "language": "Python",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2992,
+    "stars": 2993,
     "updated_at": "2026-10-16T02:52:34Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
@@ -180,15 +198,6 @@
     "url": "https://github.com/thequantumfalcon/kry"
   },
   {
-    "description": "Local, self-hosted agent infrastructure \u2014 one endpoint for every AI client (Claude Code, Codex CLI, Gemini CLI, OpenCode",
-    "id": "Stravia-AI/StraviaPlatform",
-    "language": "Rust",
-    "name": "Stravia-AI/StraviaPlatform",
-    "stars": 3,
-    "updated_at": "2026-10-16T02:26:40Z",
-    "url": "https://github.com/Stravia-AI/StraviaPlatform"
-  },
-  {
     "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
     "id": "prasad-kavuri/prasad-portfolio",
     "language": "TypeScript",
@@ -203,7 +212,7 @@
     "language": "Python",
     "name": "Furkiozknn/prompt-template-manager",
     "stars": 0,
-    "updated_at": "2026-10-16T02:16:41Z",
+    "updated_at": "2026-10-16T03:44:21Z",
     "url": "https://github.com/Furkiozknn/prompt-template-manager"
   },
   {
@@ -212,7 +221,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1362,
-    "updated_at": "2026-10-16T03:29:38Z",
+    "updated_at": "2026-10-16T03:40:42Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -248,7 +257,7 @@
     "language": "Python",
     "name": "cbeyondcloud/TokenLean",
     "stars": 3,
-    "updated_at": "2026-10-16T02:08:25Z",
+    "updated_at": "2026-10-16T03:43:42Z",
     "url": "https://github.com/cbeyondcloud/TokenLean"
   },
   {
@@ -266,7 +275,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-10-16T03:27:56Z",
+    "updated_at": "2026-10-16T03:37:06Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -369,6 +378,15 @@
     "url": "https://github.com/MongLong0214/jev-gate"
   },
   {
+    "description": "Unified AI Gateway for 30+ LLMs (OpenAI, Anthropic, Bedrock, Azure etc) with Caching, Guardrails, A/B test & cost contro",
+    "id": "ferro-labs/ai-gateway",
+    "language": "Go",
+    "name": "ferro-labs/ai-gateway",
+    "stars": 270,
+    "updated_at": "2026-10-16T00:53:54Z",
+    "url": "https://github.com/ferro-labs/ai-gateway"
+  },
+  {
     "description": "Mide y frena el gasto de tokens de tu flota de agentes (Claude Code, Codex, OpenCode): panel, app de barra de menus y re",
     "id": "yosnap/codeia-cost-guard",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-15T23:54:41Z",
     "url": "https://github.com/cognifityai/verdict"
-  },
-  {
-    "description": "Profile of Dr. Ravi Teja Thiriveedhi \u2014 clinician turned AI systems architect: multi-agent platforms, AI governance, LLM ",
-    "id": "Raviteja2k2k/Raviteja2k2k",
-    "language": "Python",
-    "name": "Raviteja2k2k/Raviteja2k2k",
-    "stars": 0,
-    "updated_at": "2026-10-15T23:46:22Z",
-    "url": "https://github.com/Raviteja2k2k/Raviteja2k2k"
-  },
-  {
-    "description": "Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O",
-    "id": "kelvran/gateway",
-    "language": "Go",
-    "name": "kelvran/gateway",
-    "stars": 0,
-    "updated_at": "2026-10-15T23:47:43Z",
-    "url": "https://github.com/kelvran/gateway"
   }
 ]
