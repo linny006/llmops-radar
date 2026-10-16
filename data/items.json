@@ -1,5 +1,59 @@
 [
   {
+    "description": "The platform for continuously improving AI agents.",
+    "id": "overmind-core/overmind",
+    "language": "Python",
+    "name": "overmind-core/overmind",
+    "stars": 660,
+    "updated_at": "2026-10-16T04:59:40Z",
+    "url": "https://github.com/overmind-core/overmind"
+  },
+  {
+    "description": "Automated LLM Evaluation Suites, Benchmarking Pipelines & Continuous Statistical Regression Testing for Probabilistic Mo",
+    "id": "subasah/probabilistic-llm-eval-suite",
+    "language": "Python",
+    "name": "subasah/probabilistic-llm-eval-suite",
+    "stars": 0,
+    "updated_at": "2026-10-16T04:59:10Z",
+    "url": "https://github.com/subasah/probabilistic-llm-eval-suite"
+  },
+  {
+    "description": "Tamper-evident, stranger-verifiable receipts for LLM cost-savings \u2014 anyone can recompute your caching/routing savings ma",
+    "id": "thequantumfalcon/kry",
+    "language": "Python",
+    "name": "thequantumfalcon/kry",
+    "stars": 1,
+    "updated_at": "2026-10-16T04:58:09Z",
+    "url": "https://github.com/thequantumfalcon/kry"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-16T04:58:40Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "\u4e2d\u6587 AI/LLM Agent \u7cfb\u7edf\u5b66\u4e60\u77e5\u8bc6\u5e93:15 \u7ae0\u4ece\u4ea4\u4e92\u5165\u53e3\u3001MCP \u534f\u8bae\u3001Agent \u4e3b\u4f53\u5230\u6784\u5efa\u81ea\u5df1\u7684 Agent \u5168\u6d41\u7a0b,\u9644\u771f\u5b9e\u53ef\u8fd0\u884c\u7684 LangGraph \u5b9e\u6218\u9879\u76ee\u3002\u4e2a\u4eba\u5b66\u4e60\u603b\u7ed3,\u6b22\u8fce\u65a7\u6b63\u3002",
+    "id": "123caiji/AI-LLM-Agent-Learning",
+    "language": "Python",
+    "name": "123caiji/AI-LLM-Agent-Learning",
+    "stars": 7,
+    "updated_at": "2026-10-16T04:51:40Z",
+    "url": "https://github.com/123caiji/AI-LLM-Agent-Learning"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-16T04:50:20Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
     "id": "vivek-541/vivek-541",
     "language": "HTML",
@@ -14,17 +68,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61356,
-    "updated_at": "2026-10-16T04:46:18Z",
+    "updated_at": "2026-10-16T04:58:51Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-16T04:45:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
@@ -52,15 +97,6 @@
     "stars": 16,
     "updated_at": "2026-10-16T04:35:05Z",
     "url": "https://github.com/tap222/assay-evals"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-16T04:50:03Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "A decision library for running local LLMs on multi-GPU machines without NVLink: parallelism, communication, quantization",
@@ -108,15 +144,6 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "The platform for continuously improving AI agents.",
-    "id": "overmind-core/overmind",
-    "language": "Python",
-    "name": "overmind-core/overmind",
-    "stars": 660,
-    "updated_at": "2026-10-16T04:48:30Z",
-    "url": "https://github.com/overmind-core/overmind"
-  },
-  {
     "description": "Local, self-hosted agent infrastructure \u2014 one endpoint for every AI client (Claude Code, Codex CLI, Gemini CLI, OpenCode",
     "id": "Stravia-AI/StraviaPlatform",
     "language": "Rust",
@@ -140,7 +167,7 @@
     "language": "Go",
     "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "stars": 1,
-    "updated_at": "2026-10-16T04:46:20Z",
+    "updated_at": "2026-10-16T04:56:02Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
   },
   {
@@ -176,7 +203,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 2156,
-    "updated_at": "2026-10-16T03:22:27Z",
+    "updated_at": "2026-10-16T04:59:28Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -185,7 +212,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-16T04:41:08Z",
+    "updated_at": "2026-10-16T04:53:51Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -212,7 +239,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8887,
-    "updated_at": "2026-10-16T04:18:11Z",
+    "updated_at": "2026-10-16T04:57:31Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -268,15 +295,6 @@
     "stars": 124,
     "updated_at": "2026-10-16T02:35:17Z",
     "url": "https://github.com/OrlojHQ/orloj"
-  },
-  {
-    "description": "Tamper-evident, stranger-verifiable receipts for LLM cost-savings \u2014 anyone can recompute your caching/routing savings ma",
-    "id": "thequantumfalcon/kry",
-    "language": "Python",
-    "name": "thequantumfalcon/kry",
-    "stars": 1,
-    "updated_at": "2026-10-16T02:29:38Z",
-    "url": "https://github.com/thequantumfalcon/kry"
   },
   {
     "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-16T00:55:28Z",
     "url": "https://github.com/MongLong0214/jev-gate"
-  },
-  {
-    "description": "Unified AI Gateway for 30+ LLMs (OpenAI, Anthropic, Bedrock, Azure etc) with Caching, Guardrails, A/B test & cost contro",
-    "id": "ferro-labs/ai-gateway",
-    "language": "Go",
-    "name": "ferro-labs/ai-gateway",
-    "stars": 270,
-    "updated_at": "2026-10-16T00:53:54Z",
-    "url": "https://github.com/ferro-labs/ai-gateway"
-  },
-  {
-    "description": "Mide y frena el gasto de tokens de tu flota de agentes (Claude Code, Codex, OpenCode): panel, app de barra de menus y re",
-    "id": "yosnap/codeia-cost-guard",
-    "language": "Python",
-    "name": "yosnap/codeia-cost-guard",
-    "stars": 4,
-    "updated_at": "2026-10-16T00:51:43Z",
-    "url": "https://github.com/yosnap/codeia-cost-guard"
   }
 ]
