@@ -1,5 +1,122 @@
 [
   {
+    "description": "Self-hosted coding assistant that routes each request to the cheapest model that can handle it",
+    "id": "optiware-ai/optimux",
+    "language": "Python",
+    "name": "optiware-ai/optimux",
+    "stars": 1,
+    "updated_at": "2026-10-16T06:59:24Z",
+    "url": "https://github.com/optiware-ai/optimux"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "language": "Go",
+    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-10-16T06:57:55Z",
+    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28405,
+    "updated_at": "2026-10-16T06:57:33Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Continuous LLM governance monitoring for regulated environments - EU AI Act, GDPR, ANSSI. Self-hosted, profile-driven, n",
+    "id": "JehanneDussert/govllm",
+    "language": "Python",
+    "name": "JehanneDussert/govllm",
+    "stars": 31,
+    "updated_at": "2026-10-16T06:56:31Z",
+    "url": "https://github.com/JehanneDussert/govllm"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35890,
+    "updated_at": "2026-10-16T06:59:57Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-16T06:54:32Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61359,
+    "updated_at": "2026-10-16T06:58:33Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8889,
+    "updated_at": "2026-10-16T06:57:01Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-10-16T06:53:04Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
+    "language": "Python",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 53,
+    "updated_at": "2026-10-16T06:52:11Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-10-16T06:50:31Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "Continuous Evaluation Infrastructure for Production AI",
+    "id": "Red1-Rahman/NiriZan",
+    "language": "Jupyter Notebook",
+    "name": "Red1-Rahman/NiriZan",
+    "stars": 3,
+    "updated_at": "2026-10-16T06:49:21Z",
+    "url": "https://github.com/Red1-Rahman/NiriZan"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-16T06:45:36Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -9,15 +126,6 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "Continuous Evaluation Infrastructure for Production AI",
-    "id": "Red1-Rahman/NiriZan",
-    "language": "Jupyter Notebook",
-    "name": "Red1-Rahman/NiriZan",
-    "stars": 3,
-    "updated_at": "2026-10-16T06:42:51Z",
-    "url": "https://github.com/Red1-Rahman/NiriZan"
-  },
-  {
     "description": "The platform for continuously improving AI agents.",
     "id": "overmind-core/overmind",
     "language": "Python",
@@ -25,24 +133,6 @@
     "stars": 660,
     "updated_at": "2026-10-16T06:40:50Z",
     "url": "https://github.com/overmind-core/overmind"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61357,
-    "updated_at": "2026-10-16T06:41:22Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35889,
-    "updated_at": "2026-10-16T06:45:13Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "An awesome & curated list of best LLMOps tools for developers",
@@ -59,17 +149,8 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-16T06:34:28Z",
+    "updated_at": "2026-10-16T06:56:07Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-16T06:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
@@ -99,29 +180,11 @@
     "url": "https://github.com/asadhanif3188/InferOps"
   },
   {
-    "description": "Enterprise Scale AIFactory (esml) - on Azure",
-    "id": "jostrm/azure-enterprise-scale-ml",
-    "language": "Python",
-    "name": "jostrm/azure-enterprise-scale-ml",
-    "stars": 53,
-    "updated_at": "2026-10-16T06:19:59Z",
-    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-10-16T06:12:21Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26032,
+    "stars": 26033,
     "updated_at": "2026-10-16T06:09:34Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -131,26 +194,8 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 193,
-    "updated_at": "2026-10-16T06:33:23Z",
+    "updated_at": "2026-10-16T06:57:54Z",
     "url": "https://github.com/api7/aisix"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "language": "Go",
-    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "stars": 1,
-    "updated_at": "2026-10-16T06:41:48Z",
-    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28405,
-    "updated_at": "2026-10-16T06:40:43Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
@@ -158,7 +203,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 110,
-    "updated_at": "2026-10-16T06:38:26Z",
+    "updated_at": "2026-10-16T06:48:56Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -243,15 +288,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-16T05:23:20Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "Drop-in LLM proxy that cuts input tokens 30\u201370% (54.1% measured, quality-gated) across 27 transparent optimisations \u2014 ca",
     "id": "cbeyondcloud/TokenLean",
     "language": "Python",
@@ -293,7 +329,7 @@
     "language": "TypeScript",
     "name": "burakdede/lorepack",
     "stars": 3,
-    "updated_at": "2026-10-16T05:09:32Z",
+    "updated_at": "2026-10-16T06:57:32Z",
     "url": "https://github.com/burakdede/lorepack"
   },
   {
@@ -400,7 +436,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11868,
+    "stars": 11869,
     "updated_at": "2026-10-16T03:24:27Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -412,41 +448,5 @@
     "stars": 524,
     "updated_at": "2026-10-16T04:48:16Z",
     "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 2156,
-    "updated_at": "2026-10-16T06:24:42Z",
-    "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8887,
-    "updated_at": "2026-10-16T06:24:12Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 24,
-    "updated_at": "2026-10-16T03:03:57Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "Self-hosted LLM systems: inference benchmarking, multi-GPU tuning decisions, and private-deployment delivery.",
-    "id": "Lowaltitudeflight/Lowaltitudeflight",
-    "language": "\u2014",
-    "name": "Lowaltitudeflight/Lowaltitudeflight",
-    "stars": 0,
-    "updated_at": "2026-10-16T02:55:55Z",
-    "url": "https://github.com/Lowaltitudeflight/Lowaltitudeflight"
   }
 ]
