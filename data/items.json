@@ -1,5 +1,185 @@
 [
   {
+    "description": "Myrtia \u2014 agent-native red teaming for LLMs and AI agents: a deliberating council of attacker models (propose, cross-crit",
+    "id": "francordel/myrtia",
+    "language": "Python",
+    "name": "francordel/myrtia",
+    "stars": 24,
+    "updated_at": "2026-10-16T11:15:00Z",
+    "url": "https://github.com/francordel/myrtia"
+  },
+  {
+    "description": "Model Context Protocol (MCP) Server for Langfuse Prompt Management. This server allows you to access and manage your Lan",
+    "id": "saralaurent/mcp-server-langfuse",
+    "language": "TypeScript",
+    "name": "saralaurent/mcp-server-langfuse",
+    "stars": 0,
+    "updated_at": "2026-10-16T11:14:26Z",
+    "url": "https://github.com/saralaurent/mcp-server-langfuse"
+  },
+  {
+    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
+    "id": "JoniMartin27/lookspan",
+    "language": "TypeScript",
+    "name": "JoniMartin27/lookspan",
+    "stars": 7,
+    "updated_at": "2026-10-16T11:13:51Z",
+    "url": "https://github.com/JoniMartin27/lookspan"
+  },
+  {
+    "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
+    "id": "prasad-kavuri/prasad-portfolio",
+    "language": "TypeScript",
+    "name": "prasad-kavuri/prasad-portfolio",
+    "stars": 0,
+    "updated_at": "2026-10-16T11:13:44Z",
+    "url": "https://github.com/prasad-kavuri/prasad-portfolio"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35904,
+    "updated_at": "2026-10-16T11:11:02Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF\u2194Bedrock mapping (US regions) with a free st",
+    "id": "scttfrdmn/hf-bedrock-map",
+    "language": "Go",
+    "name": "scttfrdmn/hf-bedrock-map",
+    "stars": 1,
+    "updated_at": "2026-10-16T11:10:48Z",
+    "url": "https://github.com/scttfrdmn/hf-bedrock-map"
+  },
+  {
+    "description": "The open-source agentic framework to build, orchestrate, and operate production AI agents.",
+    "id": "apowerb/apowerb",
+    "language": "Python",
+    "name": "apowerb/apowerb",
+    "stars": 117,
+    "updated_at": "2026-10-16T11:14:06Z",
+    "url": "https://github.com/apowerb/apowerb"
+  },
+  {
+    "description": "LiteLLM plugin that downgrades selected routes to cheaper models as a team's budget runs out",
+    "id": "amk9978/litellm-brownout",
+    "language": "Python",
+    "name": "amk9978/litellm-brownout",
+    "stars": 0,
+    "updated_at": "2026-10-16T11:10:11Z",
+    "url": "https://github.com/amk9978/litellm-brownout"
+  },
+  {
+    "description": "Production-style multilingual RAG with tenant-safe retrieval, evidence provenance, deterministic validation, observabili",
+    "id": "negativexq/knowledge-base-rag",
+    "language": "Python",
+    "name": "negativexq/knowledge-base-rag",
+    "stars": 1,
+    "updated_at": "2026-10-16T11:09:29Z",
+    "url": "https://github.com/negativexq/knowledge-base-rag"
+  },
+  {
+    "description": "Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio",
+    "id": "naim-munshi/metriqen-llm-serving-optimization",
+    "language": "Python",
+    "name": "naim-munshi/metriqen-llm-serving-optimization",
+    "stars": 0,
+    "updated_at": "2026-10-16T11:14:06Z",
+    "url": "https://github.com/naim-munshi/metriqen-llm-serving-optimization"
+  },
+  {
+    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
+    "id": "Vandenberg32/awesome-ai-gateway",
+    "language": "HTML",
+    "name": "Vandenberg32/awesome-ai-gateway",
+    "stars": 0,
+    "updated_at": "2026-10-16T11:05:48Z",
+    "url": "https://github.com/Vandenberg32/awesome-ai-gateway"
+  },
+  {
+    "description": "AI platform reference architecture for LLM serving on Kubernetes, with reliability, observability, failure testing, and ",
+    "id": "asadhanif3188/InferOps",
+    "language": "Python",
+    "name": "asadhanif3188/InferOps",
+    "stars": 0,
+    "updated_at": "2026-10-16T11:05:37Z",
+    "url": "https://github.com/asadhanif3188/InferOps"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61372,
+    "updated_at": "2026-10-16T11:10:44Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
+    "id": "ZIZKA-AI-SL/ZizkaDB",
+    "language": "Python",
+    "name": "ZIZKA-AI-SL/ZizkaDB",
+    "stars": 144,
+    "updated_at": "2026-10-16T11:04:04Z",
+    "url": "https://github.com/ZIZKA-AI-SL/ZizkaDB"
+  },
+  {
+    "description": "Open-source AI gateway and operations platform. Bring your own provider API keys and unify every AI model behind a singl",
+    "id": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "language": "TypeScript",
+    "name": "Alayra-Systems-Pvt-Limited/Alayra-Nexus",
+    "stars": 4,
+    "updated_at": "2026-10-16T11:06:13Z",
+    "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-10-16T11:03:07Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28412,
+    "updated_at": "2026-10-16T11:03:18Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22647,
+    "updated_at": "2026-10-16T11:13:04Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Open Source software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-10-16T11:10:18Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-16T11:00:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
     "id": "veerarakesh56/warden",
     "language": "Python",
@@ -14,7 +194,7 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 31,
-    "updated_at": "2026-10-16T10:59:19Z",
+    "updated_at": "2026-10-16T11:04:13Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -22,18 +202,9 @@
     "id": "vllm-project/vllm-ascend",
     "language": "Python",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2994,
+    "stars": 2995,
     "updated_at": "2026-10-16T10:58:47Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35904,
-    "updated_at": "2026-10-16T10:58:49Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
@@ -54,24 +225,6 @@
     "url": "https://github.com/kingfs/Trajecta"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22645,
-    "updated_at": "2026-10-16T10:58:49Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "The open-source agentic framework to build, orchestrate, and operate production AI agents.",
-    "id": "apowerb/apowerb",
-    "language": "Python",
-    "name": "apowerb/apowerb",
-    "stars": 117,
-    "updated_at": "2026-10-16T10:59:14Z",
-    "url": "https://github.com/apowerb/apowerb"
-  },
-  {
     "description": "Model Context Protocol (MCP) Server for Langfuse Prompt Management. This server allows you to access and manage your Lan",
     "id": "mohammedvasiliev62/mcp-server-langfuse",
     "language": "TypeScript",
@@ -79,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-10-16T10:56:09Z",
     "url": "https://github.com/mohammedvasiliev62/mcp-server-langfuse"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61371,
-    "updated_at": "2026-10-16T10:55:58Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Mide y frena el gasto de tokens de tu flota de agentes (Claude Code, Codex, OpenCode): panel, app de barra de menus y re",
@@ -126,15 +270,6 @@
     "url": "https://github.com/antonioz252/llmaker"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-16T10:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -160,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-10-16T10:44:09Z",
     "url": "https://github.com/storm-software/mindctl"
-  },
-  {
-    "description": "Production-style multilingual RAG with tenant-safe retrieval, evidence provenance, deterministic validation, observabili",
-    "id": "negativexq/knowledge-base-rag",
-    "language": "Python",
-    "name": "negativexq/knowledge-base-rag",
-    "stars": 1,
-    "updated_at": "2026-10-16T10:39:30Z",
-    "url": "https://github.com/negativexq/knowledge-base-rag"
   },
   {
     "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
@@ -225,15 +351,6 @@
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
-    "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
-    "id": "ZIZKA-AI-SL/ZizkaDB",
-    "language": "Python",
-    "name": "ZIZKA-AI-SL/ZizkaDB",
-    "stars": 144,
-    "updated_at": "2026-10-16T10:32:51Z",
-    "url": "https://github.com/ZIZKA-AI-SL/ZizkaDB"
-  },
-  {
     "description": "Reference deployment of a governed AI stack: LLM gateway, MCP evidence server and multi-agent service as hardened contai",
     "id": "flam7791/governed-ai-platform",
     "language": "Python",
@@ -284,7 +401,7 @@
     "language": "Python",
     "name": "ArtVsMark/Engineering-Incidents-Playbook",
     "stars": 5,
-    "updated_at": "2026-10-16T10:35:48Z",
+    "updated_at": "2026-10-16T11:13:48Z",
     "url": "https://github.com/ArtVsMark/Engineering-Incidents-Playbook"
   },
   {
@@ -295,6 +412,15 @@
     "stars": 1,
     "updated_at": "2026-10-16T10:30:14Z",
     "url": "https://github.com/domondi1/inferrail"
+  },
+  {
+    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
+    "id": "lmnr-ai/lmnr",
+    "language": "TypeScript",
+    "name": "lmnr-ai/lmnr",
+    "stars": 3390,
+    "updated_at": "2026-10-16T10:29:33Z",
+    "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
     "description": "Production LLM call layer for AI agents and tools: keep OpenAI/Anthropic/AI SDK/LiteLLM, hot-swap models with MDA preset",
@@ -322,131 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-16T10:27:26Z",
     "url": "https://github.com/kevinl4059/mcp-server-langfuse"
-  },
-  {
-    "description": "Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio",
-    "id": "naim-munshi/metriqen-llm-serving-optimization",
-    "language": "Python",
-    "name": "naim-munshi/metriqen-llm-serving-optimization",
-    "stars": 0,
-    "updated_at": "2026-10-16T10:59:45Z",
-    "url": "https://github.com/naim-munshi/metriqen-llm-serving-optimization"
-  },
-  {
-    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
-    "id": "HasanYadav0920/llmaker",
-    "language": "Go",
-    "name": "HasanYadav0920/llmaker",
-    "stars": 0,
-    "updated_at": "2026-10-16T10:24:49Z",
-    "url": "https://github.com/HasanYadav0920/llmaker"
-  },
-  {
-    "description": "Cheaper and better Greptile alternative runs on your own github actions.",
-    "id": "bernd24228/juror",
-    "language": "TypeScript",
-    "name": "bernd24228/juror",
-    "stars": 0,
-    "updated_at": "2026-10-16T10:23:11Z",
-    "url": "https://github.com/bernd24228/juror"
-  },
-  {
-    "description": "Cheaper and better Greptile alternative runs on your own github actions.",
-    "id": "alessiolopez690/juror",
-    "language": "TypeScript",
-    "name": "alessiolopez690/juror",
-    "stars": 0,
-    "updated_at": "2026-10-16T10:19:14Z",
-    "url": "https://github.com/alessiolopez690/juror"
-  },
-  {
-    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
-    "id": "burakdede/lorepack",
-    "language": "TypeScript",
-    "name": "burakdede/lorepack",
-    "stars": 3,
-    "updated_at": "2026-10-16T10:18:41Z",
-    "url": "https://github.com/burakdede/lorepack"
-  },
-  {
-    "description": "Production LLM call layer for AI agents and tools: keep OpenAI/Anthropic/AI SDK/LiteLLM, hot-swap models with MDA preset",
-    "id": "Willem845/llmix",
-    "language": "Python",
-    "name": "Willem845/llmix",
-    "stars": 0,
-    "updated_at": "2026-10-16T10:15:58Z",
-    "url": "https://github.com/Willem845/llmix"
-  },
-  {
-    "description": "Production LLM call layer for AI agents and tools: keep OpenAI/Anthropic/AI SDK/LiteLLM, hot-swap models with MDA preset",
-    "id": "lMiyazaki21/llmix",
-    "language": "Python",
-    "name": "lMiyazaki21/llmix",
-    "stars": 0,
-    "updated_at": "2026-10-16T10:13:35Z",
-    "url": "https://github.com/lMiyazaki21/llmix"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28412,
-    "updated_at": "2026-10-16T11:00:10Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
-    "id": "Ngoc8765/llmaker",
-    "language": "Go",
-    "name": "Ngoc8765/llmaker",
-    "stars": 0,
-    "updated_at": "2026-10-16T10:06:09Z",
-    "url": "https://github.com/Ngoc8765/llmaker"
-  },
-  {
-    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
-    "id": "JonathanPandey/llmaker",
-    "language": "Go",
-    "name": "JonathanPandey/llmaker",
-    "stars": 0,
-    "updated_at": "2026-10-16T10:05:33Z",
-    "url": "https://github.com/JonathanPandey/llmaker"
-  },
-  {
-    "description": "Model Context Protocol (MCP) Server for Langfuse Prompt Management. This server allows you to access and manage your Lan",
-    "id": "Jonathan17718/mcp-server-langfuse",
-    "language": "TypeScript",
-    "name": "Jonathan17718/mcp-server-langfuse",
-    "stars": 0,
-    "updated_at": "2026-10-16T10:02:02Z",
-    "url": "https://github.com/Jonathan17718/mcp-server-langfuse"
-  },
-  {
-    "description": "Product analytics for AI Assistants",
-    "id": "KeithChen78352/trubrics-python",
-    "language": "Python",
-    "name": "KeithChen78352/trubrics-python",
-    "stars": 0,
-    "updated_at": "2026-10-16T10:00:23Z",
-    "url": "https://github.com/KeithChen78352/trubrics-python"
-  },
-  {
-    "description": "Self-hosted coding assistant that routes each request to the cheapest model that can handle it",
-    "id": "optiware-ai/optimux",
-    "language": "Python",
-    "name": "optiware-ai/optimux",
-    "stars": 1,
-    "updated_at": "2026-10-16T10:00:13Z",
-    "url": "https://github.com/optiware-ai/optimux"
-  },
-  {
-    "description": "Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O",
-    "id": "kelvran/gateway",
-    "language": "Go",
-    "name": "kelvran/gateway",
-    "stars": 0,
-    "updated_at": "2026-10-16T10:00:47Z",
-    "url": "https://github.com/kelvran/gateway"
   }
 ]
