@@ -1,11 +1,92 @@
 [
   {
+    "description": "Production-style multilingual RAG with tenant-safe retrieval, evidence provenance, deterministic validation, observabili",
+    "id": "negativexq/knowledge-base-rag",
+    "language": "Python",
+    "name": "negativexq/knowledge-base-rag",
+    "stars": 1,
+    "updated_at": "2026-10-16T22:43:16Z",
+    "url": "https://github.com/negativexq/knowledge-base-rag"
+  },
+  {
+    "description": "Does an OpenAI-compatible endpoint disclose model prices without an account or key? One unauthenticated GET, three-tier ",
+    "id": "happy520ai/gateway-price-check",
+    "language": "JavaScript",
+    "name": "happy520ai/gateway-price-check",
+    "stars": 0,
+    "updated_at": "2026-10-16T22:38:54Z",
+    "url": "https://github.com/happy520ai/gateway-price-check"
+  },
+  {
+    "description": "A control layer that decides how an LLM should speak before it speaks",
+    "id": "Furox-Art/eq-layer",
+    "language": "Python",
+    "name": "Furox-Art/eq-layer",
+    "stars": 0,
+    "updated_at": "2026-10-16T22:37:25Z",
+    "url": "https://github.com/Furox-Art/eq-layer"
+  },
+  {
+    "description": "Replayable OpenCSG model/price snapshot: curl /v1/models with no key, plus self-verifying checks",
+    "id": "happy520ai/opencsg-model-pricing",
+    "language": "JavaScript",
+    "name": "happy520ai/opencsg-model-pricing",
+    "stars": 0,
+    "updated_at": "2026-10-16T22:36:17Z",
+    "url": "https://github.com/happy520ai/opencsg-model-pricing"
+  },
+  {
+    "description": "Self-hosted coding assistant that routes each request to the cheapest model that can handle it",
+    "id": "optiware-ai/optimux",
+    "language": "Python",
+    "name": "optiware-ai/optimux",
+    "stars": 1,
+    "updated_at": "2026-10-16T22:35:00Z",
+    "url": "https://github.com/optiware-ai/optimux"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-10-16T22:33:57Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-10-16T22:31:45Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Mide y frena el gasto de tokens de tu flota de agentes (Claude Code, Codex, OpenCode): panel, app de barra de menus y re",
+    "id": "yosnap/codeia-cost-guard",
+    "language": "Python",
+    "name": "yosnap/codeia-cost-guard",
+    "stars": 4,
+    "updated_at": "2026-10-16T22:31:38Z",
+    "url": "https://github.com/yosnap/codeia-cost-guard"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-16T22:30:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61401,
-    "updated_at": "2026-10-16T22:29:44Z",
+    "updated_at": "2026-10-16T22:42:37Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -18,15 +99,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Production-style multilingual RAG with tenant-safe retrieval, evidence provenance, deterministic validation, observabili",
-    "id": "negativexq/knowledge-base-rag",
-    "language": "Python",
-    "name": "negativexq/knowledge-base-rag",
-    "stars": 1,
-    "updated_at": "2026-10-16T22:24:07Z",
-    "url": "https://github.com/negativexq/knowledge-base-rag"
-  },
-  {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
     "id": "cloudrift-ai/emmy",
     "language": "Python",
@@ -36,13 +108,13 @@
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
-    "description": "Replayable OpenCSG model/price snapshot: curl /v1/models with no key, plus self-verifying checks",
-    "id": "happy520ai/opencsg-model-pricing",
-    "language": "JavaScript",
-    "name": "happy520ai/opencsg-model-pricing",
-    "stars": 0,
-    "updated_at": "2026-10-16T22:22:48Z",
-    "url": "https://github.com/happy520ai/opencsg-model-pricing"
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35937,
+    "updated_at": "2026-10-16T22:23:12Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
@@ -52,24 +124,6 @@
     "stars": 32,
     "updated_at": "2026-10-16T22:21:04Z",
     "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Self-hosted coding assistant that routes each request to the cheapest model that can handle it",
-    "id": "optiware-ai/optimux",
-    "language": "Python",
-    "name": "optiware-ai/optimux",
-    "stars": 1,
-    "updated_at": "2026-10-16T22:20:18Z",
-    "url": "https://github.com/optiware-ai/optimux"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-16T22:15:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Agentic Runtime",
@@ -99,15 +153,6 @@
     "url": "https://github.com/a-novel/service-genai"
   },
   {
-    "description": "Mide y frena el gasto de tokens de tu flota de agentes (Claude Code, Codex, OpenCode): panel, app de barra de menus y re",
-    "id": "yosnap/codeia-cost-guard",
-    "language": "Python",
-    "name": "yosnap/codeia-cost-guard",
-    "stars": 4,
-    "updated_at": "2026-10-16T22:07:25Z",
-    "url": "https://github.com/yosnap/codeia-cost-guard"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
@@ -115,15 +160,6 @@
     "stars": 22659,
     "updated_at": "2026-10-16T22:18:18Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "A control layer that decides how an LLM should speak before it speaks",
-    "id": "Furox-Art/eq-layer",
-    "language": "Python",
-    "name": "Furox-Art/eq-layer",
-    "stars": 0,
-    "updated_at": "2026-10-16T22:05:10Z",
-    "url": "https://github.com/Furox-Art/eq-layer"
   },
   {
     "description": "LocalPilot is a Python application that helps nontechnical users discover, install, run, monitor, update and remove loca",
@@ -158,7 +194,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-10-16T22:21:21Z",
+    "updated_at": "2026-10-16T22:31:29Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -166,7 +202,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26069,
+    "stars": 26070,
     "updated_at": "2026-10-16T21:47:57Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -176,26 +212,8 @@
     "language": "Python",
     "name": "redevops-io/agentic-os",
     "stars": 2,
-    "updated_at": "2026-10-16T21:43:13Z",
+    "updated_at": "2026-10-16T22:43:13Z",
     "url": "https://github.com/redevops-io/agentic-os"
-  },
-  {
-    "description": "Does an OpenAI-compatible endpoint disclose model prices without an account or key? One unauthenticated GET, three-tier ",
-    "id": "happy520ai/gateway-price-check",
-    "language": "JavaScript",
-    "name": "happy520ai/gateway-price-check",
-    "stars": 0,
-    "updated_at": "2026-10-16T21:37:41Z",
-    "url": "https://github.com/happy520ai/gateway-price-check"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35936,
-    "updated_at": "2026-10-16T22:23:12Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -239,7 +257,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 193,
-    "updated_at": "2026-10-16T21:50:22Z",
+    "updated_at": "2026-10-16T22:39:59Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -266,7 +284,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4960,
-    "updated_at": "2026-10-16T22:26:11Z",
+    "updated_at": "2026-10-16T22:44:26Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -340,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-10-16T20:35:47Z",
     "url": "https://github.com/api-evangelist/seldon"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-10-16T22:06:09Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
     "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-16T20:11:13Z",
     "url": "https://github.com/api-evangelist/log10"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-10-16T20:06:05Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   }
 ]
