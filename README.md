@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-16 23:34 UTC
+> ⏰ Last updated: 2026-10-16 23:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,29 +42,29 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Raviteja2k2k/Raviteja2k2k](https://github.com/Raviteja2k2k/Raviteja2k2k) | 0 | Python | 2026-10-16 | Profile of Dr. Ravi Teja Thiriveedhi — clinician turned AI systems architect: multi-agent platforms, AI governance, LLM  |
-| 2 | [happy520ai/gateway-price-check](https://github.com/happy520ai/gateway-price-check) | 0 | JavaScript | 2026-10-16 | Does an OpenAI-compatible endpoint disclose model prices without an account or key? One unauthenticated GET, five verdic |
-| 3 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-16 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 4 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-10-16 | ThakiCloud Tech Blog |
-| 5 | [cloudrift-ai/emmy](https://github.com/cloudrift-ai/emmy) | 110 | Python | 2026-10-16 | Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel  |
-| 6 | [happy520ai/opencsg-model-pricing](https://github.com/happy520ai/opencsg-model-pricing) | 0 | JavaScript | 2026-10-16 | Replayable OpenCSG model/price snapshot: curl /v1/models with no key, plus self-verifying checks |
-| 7 | [GetSHIM/shim](https://github.com/GetSHIM/shim) | 9 | Python | 2026-10-16 | AI trust-boundary gateway for OpenAI, Anthropic, and Gemini. |
-| 8 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-10-16 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
-| 9 | [mozilla-ai/otari](https://github.com/mozilla-ai/otari) | 566 | Python | 2026-10-16 | Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, |
-| 10 | [jostrm/azure-enterprise-scale-ml](https://github.com/jostrm/azure-enterprise-scale-ml) | 53 | Python | 2026-10-16 | Enterprise Scale AIFactory (esml) - on Azure |
-| 11 | [Arize-ai/arize-skills](https://github.com/Arize-ai/arize-skills) | 65 | Python | 2026-10-16 | Agent skills for Arize — datasets, experiments, and traces via the ax CLI |
-| 12 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 41 | Go | 2026-10-16 | Agentic Runtime |
-| 13 | [fakhruldeen/LocalPilot](https://github.com/fakhruldeen/LocalPilot) | 1 | Python | 2026-10-16 | LocalPilot is a Python application that helps nontechnical users discover, install, run, monitor, update and remove loca |
-| 14 | [Peter-A-P/fraction-of-the-bill](https://github.com/Peter-A-P/fraction-of-the-bill) | 0 | Python | 2026-10-16 | A small fine-tuned model that matches frontier APIs on SEC filing extraction at a tenth of the per-call cost: QLoRA fine |
-| 15 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11875 | Python | 2026-10-16 | AI Observability & Evaluation |
-| 16 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 61401 | Python | 2026-10-16 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 17 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 8893 | Rust | 2026-10-16 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
-| 18 | [JavisBot-Service/javis-transparency](https://github.com/JavisBot-Service/javis-transparency) | 1 | Python | 2026-10-16 | Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay — open-source probe, runs on GitHub A |
-| 19 | [hjongc/openrouter-endpoint-watch](https://github.com/hjongc/openrouter-endpoint-watch) | 0 | Python | 2026-10-16 | Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p |
-| 20 | [Peter-A-P/compliant-ai-gateway](https://github.com/Peter-A-P/compliant-ai-gateway) | 0 | Python | 2026-10-16 | Every model call through one library: raw-HTTP provider adapters, a cost ledger row and an OpenTelemetry span per call,  |
-| 21 | [redevops-io/agentic-os](https://github.com/redevops-io/agentic-os) | 2 | Python | 2026-10-16 | The control plane for the redevops.io Agentic Business OS — Mission Runtime kernel (Python + Go), Projects cockpit, cost |
-| 22 | [negativexq/knowledge-base-rag](https://github.com/negativexq/knowledge-base-rag) | 1 | Python | 2026-10-16 | Production-style multilingual RAG with tenant-safe retrieval, evidence provenance, deterministic validation, observabili |
-| 23 | [Furox-Art/eq-layer](https://github.com/Furox-Art/eq-layer) | 0 | Python | 2026-10-16 | A control layer that decides how an LLM should speak before it speaks |
+| 1 | [happy520ai/gateway-price-check](https://github.com/happy520ai/gateway-price-check) | 0 | JavaScript | 2026-10-16 | Does an OpenAI-compatible endpoint disclose model prices without an account or key? One unauthenticated GET, five verdic |
+| 2 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 61401 | Python | 2026-10-16 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 3 | [Peter-A-P/compliant-ai-gateway](https://github.com/Peter-A-P/compliant-ai-gateway) | 0 | Python | 2026-10-16 | Every model call through one library: raw-HTTP provider adapters, a cost ledger row and an OpenTelemetry span per call,  |
+| 4 | [Furox-Art/eq-layer](https://github.com/Furox-Art/eq-layer) | 0 | Python | 2026-10-16 | A control layer that decides how an LLM should speak before it speaks |
+| 5 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 41 | Go | 2026-10-16 | Agentic Runtime |
+| 6 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-16 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 7 | [Raviteja2k2k/Raviteja2k2k](https://github.com/Raviteja2k2k/Raviteja2k2k) | 0 | Python | 2026-10-16 | Profile of Dr. Ravi Teja Thiriveedhi — clinician turned AI systems architect: multi-agent platforms, AI governance, LLM  |
+| 8 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-10-16 | ThakiCloud Tech Blog |
+| 9 | [cloudrift-ai/emmy](https://github.com/cloudrift-ai/emmy) | 110 | Python | 2026-10-16 | Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel  |
+| 10 | [happy520ai/opencsg-model-pricing](https://github.com/happy520ai/opencsg-model-pricing) | 0 | JavaScript | 2026-10-16 | Replayable OpenCSG model/price snapshot: curl /v1/models with no key, plus self-verifying checks |
+| 11 | [GetSHIM/shim](https://github.com/GetSHIM/shim) | 9 | Python | 2026-10-16 | AI trust-boundary gateway for OpenAI, Anthropic, and Gemini. |
+| 12 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-10-16 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 13 | [mozilla-ai/otari](https://github.com/mozilla-ai/otari) | 566 | Python | 2026-10-16 | Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, |
+| 14 | [jostrm/azure-enterprise-scale-ml](https://github.com/jostrm/azure-enterprise-scale-ml) | 53 | Python | 2026-10-16 | Enterprise Scale AIFactory (esml) - on Azure |
+| 15 | [Arize-ai/arize-skills](https://github.com/Arize-ai/arize-skills) | 65 | Python | 2026-10-16 | Agent skills for Arize — datasets, experiments, and traces via the ax CLI |
+| 16 | [fakhruldeen/LocalPilot](https://github.com/fakhruldeen/LocalPilot) | 1 | Python | 2026-10-16 | LocalPilot is a Python application that helps nontechnical users discover, install, run, monitor, update and remove loca |
+| 17 | [Peter-A-P/fraction-of-the-bill](https://github.com/Peter-A-P/fraction-of-the-bill) | 0 | Python | 2026-10-16 | A small fine-tuned model that matches frontier APIs on SEC filing extraction at a tenth of the per-call cost: QLoRA fine |
+| 18 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11875 | Python | 2026-10-16 | AI Observability & Evaluation |
+| 19 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 8893 | Rust | 2026-10-16 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
+| 20 | [JavisBot-Service/javis-transparency](https://github.com/JavisBot-Service/javis-transparency) | 1 | Python | 2026-10-16 | Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay — open-source probe, runs on GitHub A |
+| 21 | [hjongc/openrouter-endpoint-watch](https://github.com/hjongc/openrouter-endpoint-watch) | 0 | Python | 2026-10-16 | Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p |
+| 22 | [redevops-io/agentic-os](https://github.com/redevops-io/agentic-os) | 2 | Python | 2026-10-16 | The control plane for the redevops.io Agentic Business OS — Mission Runtime kernel (Python + Go), Projects cockpit, cost |
+| 23 | [negativexq/knowledge-base-rag](https://github.com/negativexq/knowledge-base-rag) | 1 | Python | 2026-10-16 | Production-style multilingual RAG with tenant-safe retrieval, evidence provenance, deterministic validation, observabili |
 | 24 | [optiware-ai/optimux](https://github.com/optiware-ai/optimux) | 1 | Python | 2026-10-16 | Self-hosted coding assistant that routes each request to the cheapest model that can handle it |
 | 25 | [llmspendguard/llm-spendguard](https://github.com/llmspendguard/llm-spendguard) | 0 | Python | 2026-10-16 | Know what an LLM job will cost before you run it — and prove your ledger matches the provider's bill. Pre-submit estimat |
 | 26 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 1 | HTML | 2026-10-16 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
