@@ -1,11 +1,92 @@
 [
   {
+    "description": "Agent skills for Arize \u2014 datasets, experiments, and traces via the ax CLI",
+    "id": "Arize-ai/arize-skills",
+    "language": "Python",
+    "name": "Arize-ai/arize-skills",
+    "stars": 65,
+    "updated_at": "2026-10-16T23:15:15Z",
+    "url": "https://github.com/Arize-ai/arize-skills"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-16T23:13:50Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "LocalPilot is a Python application that helps nontechnical users discover, install, run, monitor, update and remove loca",
+    "id": "fakhruldeen/LocalPilot",
+    "language": "Python",
+    "name": "fakhruldeen/LocalPilot",
+    "stars": 1,
+    "updated_at": "2026-10-16T23:11:23Z",
+    "url": "https://github.com/fakhruldeen/LocalPilot"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-10-16T23:04:59Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "A small fine-tuned model that matches frontier APIs on SEC filing extraction at a tenth of the per-call cost: QLoRA fine",
+    "id": "Peter-A-P/fraction-of-the-bill",
+    "language": "Python",
+    "name": "Peter-A-P/fraction-of-the-bill",
+    "stars": 0,
+    "updated_at": "2026-10-16T23:04:26Z",
+    "url": "https://github.com/Peter-A-P/fraction-of-the-bill"
+  },
+  {
+    "description": "Replayable OpenCSG model/price snapshot: curl /v1/models with no key, plus self-verifying checks",
+    "id": "happy520ai/opencsg-model-pricing",
+    "language": "JavaScript",
+    "name": "happy520ai/opencsg-model-pricing",
+    "stars": 0,
+    "updated_at": "2026-10-16T23:04:20Z",
+    "url": "https://github.com/happy520ai/opencsg-model-pricing"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11875,
+    "updated_at": "2026-10-16T23:02:11Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
+    "language": "Python",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 53,
+    "updated_at": "2026-10-16T23:01:22Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-16T23:00:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61401,
-    "updated_at": "2026-10-16T23:00:09Z",
+    "updated_at": "2026-10-16T23:13:39Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -45,15 +126,6 @@
     "url": "https://github.com/hjongc/openrouter-endpoint-watch"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-16T22:50:35Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Every model call through one library: raw-HTTP provider adapters, a cost ledger row and an OpenTelemetry span per call, ",
     "id": "Peter-A-P/compliant-ai-gateway",
     "language": "Python",
@@ -72,15 +144,6 @@
     "url": "https://github.com/redevops-io/agentic-os"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-16T22:45:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Production-style multilingual RAG with tenant-safe retrieval, evidence provenance, deterministic validation, observabili",
     "id": "negativexq/knowledge-base-rag",
     "language": "Python",
@@ -97,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-10-16T22:37:25Z",
     "url": "https://github.com/Furox-Art/eq-layer"
-  },
-  {
-    "description": "Replayable OpenCSG model/price snapshot: curl /v1/models with no key, plus self-verifying checks",
-    "id": "happy520ai/opencsg-model-pricing",
-    "language": "JavaScript",
-    "name": "happy520ai/opencsg-model-pricing",
-    "stars": 0,
-    "updated_at": "2026-10-16T22:36:17Z",
-    "url": "https://github.com/happy520ai/opencsg-model-pricing"
   },
   {
     "description": "Self-hosted coding assistant that routes each request to the cheapest model that can handle it",
@@ -158,7 +212,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 110,
-    "updated_at": "2026-10-16T22:24:05Z",
+    "updated_at": "2026-10-16T23:01:36Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -180,6 +234,15 @@
     "url": "https://github.com/SourceShift/mini-ork"
   },
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22660,
+    "updated_at": "2026-10-16T22:18:18Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "Dify with Let's Encrypt Using Docker Compose",
     "id": "heyvaldemar/dify-traefik-letsencrypt-docker-compose",
     "language": "Shell",
@@ -198,24 +261,6 @@
     "url": "https://github.com/a-novel/service-genai"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22659,
-    "updated_at": "2026-10-16T22:18:18Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "LocalPilot is a Python application that helps nontechnical users discover, install, run, monitor, update and remove loca",
-    "id": "fakhruldeen/LocalPilot",
-    "language": "Python",
-    "name": "fakhruldeen/LocalPilot",
-    "stars": 1,
-    "updated_at": "2026-10-16T22:03:26Z",
-    "url": "https://github.com/fakhruldeen/LocalPilot"
-  },
-  {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
     "id": "toxicwind/ranch",
     "language": "Rust",
@@ -223,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-10-16T22:00:13Z",
     "url": "https://github.com/toxicwind/ranch"
-  },
-  {
-    "description": "Enterprise Scale AIFactory (esml) - on Azure",
-    "id": "jostrm/azure-enterprise-scale-ml",
-    "language": "Python",
-    "name": "jostrm/azure-enterprise-scale-ml",
-    "stars": 53,
-    "updated_at": "2026-10-16T21:54:40Z",
-    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
   },
   {
     "description": "Open Source software factory.",
@@ -293,7 +329,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 193,
-    "updated_at": "2026-10-16T22:51:03Z",
+    "updated_at": "2026-10-16T23:13:29Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -320,7 +356,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4960,
-    "updated_at": "2026-10-16T22:56:38Z",
+    "updated_at": "2026-10-16T23:08:15Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-16T20:45:35Z",
     "url": "https://github.com/ahmetatar/agent-blueprint"
-  },
-  {
-    "description": "Raindrop \u2014 independent third-party profile of a public API surface, by API Evangelist. Raindrop is the monitoring and ob",
-    "id": "api-evangelist/raindrop",
-    "language": "\u2014",
-    "name": "api-evangelist/raindrop",
-    "stars": 0,
-    "updated_at": "2026-10-16T20:30:31Z",
-    "url": "https://github.com/api-evangelist/raindrop"
-  },
-  {
-    "description": "Qwak \u2014 independent third-party profile of a public API surface, by API Evangelist. Qwak is an end-to-end production mach",
-    "id": "api-evangelist/qwak",
-    "language": "\u2014",
-    "name": "api-evangelist/qwak",
-    "stars": 0,
-    "updated_at": "2026-10-16T20:30:15Z",
-    "url": "https://github.com/api-evangelist/qwak"
-  },
-  {
-    "description": "Arize Phoenix \u2014 independent third-party profile of a public API surface, by API Evangelist. Arize Phoenix is an open-sou",
-    "id": "api-evangelist/phoenix",
-    "language": "\u2014",
-    "name": "api-evangelist/phoenix",
-    "stars": 0,
-    "updated_at": "2026-10-16T20:25:59Z",
-    "url": "https://github.com/api-evangelist/phoenix"
-  },
-  {
-    "description": "Which AI model to use, and did the new version get worse, answered with statistical confidence at a tenth of the evaluat",
-    "id": "Peter-A-P/model-selection-tenth-cost",
-    "language": "Python",
-    "name": "Peter-A-P/model-selection-tenth-cost",
-    "stars": 0,
-    "updated_at": "2026-10-16T20:23:10Z",
-    "url": "https://github.com/Peter-A-P/model-selection-tenth-cost"
   }
 ]
