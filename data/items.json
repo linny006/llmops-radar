@@ -1,11 +1,92 @@
 [
   {
+    "description": "Replayable OpenCSG model/price snapshot: curl /v1/models with no key, plus self-verifying checks",
+    "id": "happy520ai/opencsg-model-pricing",
+    "language": "HTML",
+    "name": "happy520ai/opencsg-model-pricing",
+    "stars": 0,
+    "updated_at": "2026-10-16T17:59:57Z",
+    "url": "https://github.com/happy520ai/opencsg-model-pricing"
+  },
+  {
+    "description": "Mide y frena el gasto de tokens de tu flota de agentes (Claude Code, Codex, OpenCode): panel, app de barra de menus y re",
+    "id": "yosnap/codeia-cost-guard",
+    "language": "Python",
+    "name": "yosnap/codeia-cost-guard",
+    "stars": 4,
+    "updated_at": "2026-10-16T17:59:05Z",
+    "url": "https://github.com/yosnap/codeia-cost-guard"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61394,
+    "updated_at": "2026-10-16T18:00:22Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 110,
+    "updated_at": "2026-10-16T17:55:08Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-10-16T17:54:47Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "LLM observability and self-healing platform for detecting, diagnosing, and repairing failures in multi-agent AI systems.",
+    "id": "sankalp-rajeev/Nexus",
+    "language": "Python",
+    "name": "sankalp-rajeev/Nexus",
+    "stars": 0,
+    "updated_at": "2026-10-16T17:50:25Z",
+    "url": "https://github.com/sankalp-rajeev/Nexus"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-16T17:49:59Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "An LLM inference engine for persistent chat bots and agents. It allows models to forget old and unimportant tokens to ke",
+    "id": "cosmonomic/pulsarlm",
+    "language": "C++",
+    "name": "cosmonomic/pulsarlm",
+    "stars": 4,
+    "updated_at": "2026-10-16T17:49:00Z",
+    "url": "https://github.com/cosmonomic/pulsarlm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-16T17:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
     "id": "mozilla-ai/otari",
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 541,
-    "updated_at": "2026-10-16T17:44:57Z",
+    "updated_at": "2026-10-16T18:00:29Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -27,15 +108,6 @@
     "url": "https://github.com/andrewbakercloudscale/claude-code-cost-sidebar"
   },
   {
-    "description": "Replayable OpenCSG model/price snapshot: curl /v1/models with no key, plus self-verifying checks",
-    "id": "happy520ai/opencsg-model-pricing",
-    "language": "HTML",
-    "name": "happy520ai/opencsg-model-pricing",
-    "stars": 0,
-    "updated_at": "2026-10-16T17:43:07Z",
-    "url": "https://github.com/happy520ai/opencsg-model-pricing"
-  },
-  {
     "description": "A MCP server allowing LLM agents to easily connect and retrieve data from any database",
     "id": "douglas16154/turbular",
     "language": "Python",
@@ -43,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-10-16T17:40:50Z",
     "url": "https://github.com/douglas16154/turbular"
-  },
-  {
-    "description": "Mide y frena el gasto de tokens de tu flota de agentes (Claude Code, Codex, OpenCode): panel, app de barra de menus y re",
-    "id": "yosnap/codeia-cost-guard",
-    "language": "Python",
-    "name": "yosnap/codeia-cost-guard",
-    "stars": 4,
-    "updated_at": "2026-10-16T17:40:39Z",
-    "url": "https://github.com/yosnap/codeia-cost-guard"
   },
   {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
@@ -70,15 +133,6 @@
     "stars": 11,
     "updated_at": "2026-10-16T17:38:30Z",
     "url": "https://github.com/AcruxCore/AcruxCore"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61393,
-    "updated_at": "2026-10-16T17:42:37Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
@@ -104,7 +158,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 35928,
-    "updated_at": "2026-10-16T17:35:23Z",
+    "updated_at": "2026-10-16T17:56:08Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -133,24 +187,6 @@
     "stars": 6,
     "updated_at": "2026-10-16T17:33:58Z",
     "url": "https://github.com/intel/enterprise-inference"
-  },
-  {
-    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-10-16T17:37:09Z",
-    "url": "https://github.com/veerarakesh56/warden"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-16T17:30:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -230,7 +266,7 @@
     "language": "Python",
     "name": "WellCod/automata",
     "stars": 1,
-    "updated_at": "2026-10-16T17:43:43Z",
+    "updated_at": "2026-10-16T17:58:08Z",
     "url": "https://github.com/WellCod/automata"
   },
   {
@@ -259,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-10-16T17:14:45Z",
     "url": "https://github.com/happy520ai/gateway-price-check"
-  },
-  {
-    "description": "An LLM inference engine for persistent chat bots and agents. It allows models to forget old and unimportant tokens to ke",
-    "id": "cosmonomic/pulsarlm",
-    "language": "C++",
-    "name": "cosmonomic/pulsarlm",
-    "stars": 4,
-    "updated_at": "2026-10-16T17:10:40Z",
-    "url": "https://github.com/cosmonomic/pulsarlm"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -315,15 +342,6 @@
     "url": "https://github.com/vivek-541/vivek-541"
   },
   {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 110,
-    "updated_at": "2026-10-16T17:28:11Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
     "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
     "id": "byte5ai/omadia",
     "language": "TypeScript",
@@ -356,7 +374,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1362,
-    "updated_at": "2026-10-16T17:44:10Z",
+    "updated_at": "2026-10-16T17:53:41Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1266,
     "updated_at": "2026-10-16T16:03:51Z",
     "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11875,
-    "updated_at": "2026-10-16T17:42:05Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-10-16T15:54:39Z",
-    "url": "https://github.com/redevops-io/agentic-os"
   }
 ]
