@@ -1,5 +1,77 @@
 [
   {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2993,
+    "updated_at": "2026-10-16T06:28:05Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-16T06:26:42Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-16T06:25:09Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Continuous Evaluation Infrastructure for Production AI",
+    "id": "Red1-Rahman/NiriZan",
+    "language": "Jupyter Notebook",
+    "name": "Red1-Rahman/NiriZan",
+    "stars": 3,
+    "updated_at": "2026-10-16T06:22:39Z",
+    "url": "https://github.com/Red1-Rahman/NiriZan"
+  },
+  {
+    "description": "AI platform reference architecture for LLM serving on Kubernetes, with reliability, observability, failure testing, and ",
+    "id": "asadhanif3188/InferOps",
+    "language": "Python",
+    "name": "asadhanif3188/InferOps",
+    "stars": 0,
+    "updated_at": "2026-10-16T06:22:39Z",
+    "url": "https://github.com/asadhanif3188/InferOps"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35889,
+    "updated_at": "2026-10-16T06:29:54Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
+    "language": "Python",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 53,
+    "updated_at": "2026-10-16T06:19:59Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-16T06:15:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
     "id": "llmspendguard/llm-spendguard",
     "language": "Python",
@@ -32,17 +104,8 @@
     "language": "Go",
     "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "stars": 1,
-    "updated_at": "2026-10-16T06:08:53Z",
+    "updated_at": "2026-10-16T06:24:22Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-16T06:06:41Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -59,17 +122,8 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 110,
-    "updated_at": "2026-10-16T06:11:26Z",
+    "updated_at": "2026-10-16T06:27:41Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-16T06:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
@@ -77,17 +131,8 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 42,
-    "updated_at": "2026-10-16T06:12:59Z",
+    "updated_at": "2026-10-16T06:16:13Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35888,
-    "updated_at": "2026-10-16T05:58:26Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "qKnow is an open-source agent platform for enterprise knowledge intelligence and industry AI. It provides knowledge grap",
@@ -117,15 +162,6 @@
     "url": "https://github.com/hjongc/openrouter-endpoint-watch"
   },
   {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-16T05:52:33Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
     "description": "Portable Agent Skills for building, operating, evaluating, and governing LLM-Wiki knowledge systems.",
     "id": "po4yka/llm-wiki-skills",
     "language": "JavaScript",
@@ -144,15 +180,6 @@
     "url": "https://github.com/AixleHQ/flow"
   },
   {
-    "description": "Continuous Evaluation Infrastructure for Production AI",
-    "id": "Red1-Rahman/NiriZan",
-    "language": "Jupyter Notebook",
-    "name": "Red1-Rahman/NiriZan",
-    "stars": 3,
-    "updated_at": "2026-10-16T06:06:50Z",
-    "url": "https://github.com/Red1-Rahman/NiriZan"
-  },
-  {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
     "id": "dataelement/bisheng",
     "language": "Python",
@@ -167,7 +194,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61356,
-    "updated_at": "2026-10-16T06:09:34Z",
+    "updated_at": "2026-10-16T06:27:50Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -221,7 +248,7 @@
     "language": "Python",
     "name": "intel/enterprise-inference",
     "stars": 6,
-    "updated_at": "2026-10-16T05:30:48Z",
+    "updated_at": "2026-10-16T06:20:54Z",
     "url": "https://github.com/intel/enterprise-inference"
   },
   {
@@ -230,7 +257,7 @@
     "language": "Shell",
     "name": "intel/enterprise-ai-solutions",
     "stars": 8,
-    "updated_at": "2026-10-16T05:08:06Z",
+    "updated_at": "2026-10-16T06:20:47Z",
     "url": "https://github.com/intel/enterprise-ai-solutions"
   },
   {
@@ -324,15 +351,6 @@
     "url": "https://github.com/Lowaltitudeflight/local-llm-tuning-guide"
   },
   {
-    "description": "Enterprise Scale AIFactory (esml) - on Azure",
-    "id": "jostrm/azure-enterprise-scale-ml",
-    "language": "Python",
-    "name": "jostrm/azure-enterprise-scale-ml",
-    "stars": 53,
-    "updated_at": "2026-10-16T04:09:28Z",
-    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
-  },
-  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
@@ -383,7 +401,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 2156,
-    "updated_at": "2026-10-16T06:11:33Z",
+    "updated_at": "2026-10-16T06:24:42Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -401,7 +419,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8887,
-    "updated_at": "2026-10-16T05:45:17Z",
+    "updated_at": "2026-10-16T06:24:12Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-16T02:54:49Z",
     "url": "https://github.com/Lowaltitudeflight/llm-private-deploy-handbook"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2993,
-    "updated_at": "2026-10-16T02:52:34Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "An orchestration runtime for multi-agent AI systems. Declare agents, tools, and policies as YAML; Orloj schedules, execu",
-    "id": "OrlojHQ/orloj",
-    "language": "Go",
-    "name": "OrlojHQ/orloj",
-    "stars": 124,
-    "updated_at": "2026-10-16T02:35:17Z",
-    "url": "https://github.com/OrlojHQ/orloj"
   }
 ]
