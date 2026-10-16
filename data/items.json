@@ -1,11 +1,83 @@
 [
   {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2991,
+    "updated_at": "2026-10-16T02:30:20Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Tamper-evident, stranger-verifiable receipts for LLM cost-savings \u2014 anyone can recompute your caching/routing savings ma",
+    "id": "thequantumfalcon/kry",
+    "language": "Python",
+    "name": "thequantumfalcon/kry",
+    "stars": 1,
+    "updated_at": "2026-10-16T02:29:38Z",
+    "url": "https://github.com/thequantumfalcon/kry"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61346,
+    "updated_at": "2026-10-16T02:29:32Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Local, self-hosted agent infrastructure \u2014 one endpoint for every AI client (Claude Code, Codex CLI, Gemini CLI, OpenCode",
+    "id": "Stravia-AI/StraviaPlatform",
+    "language": "Rust",
+    "name": "Stravia-AI/StraviaPlatform",
+    "stars": 3,
+    "updated_at": "2026-10-16T02:26:40Z",
+    "url": "https://github.com/Stravia-AI/StraviaPlatform"
+  },
+  {
+    "description": "An orchestration runtime for multi-agent AI systems. Declare agents, tools, and policies as YAML; Orloj schedules, execu",
+    "id": "OrlojHQ/orloj",
+    "language": "Go",
+    "name": "OrlojHQ/orloj",
+    "stars": 124,
+    "updated_at": "2026-10-16T02:29:17Z",
+    "url": "https://github.com/OrlojHQ/orloj"
+  },
+  {
+    "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
+    "id": "prasad-kavuri/prasad-portfolio",
+    "language": "TypeScript",
+    "name": "prasad-kavuri/prasad-portfolio",
+    "stars": 0,
+    "updated_at": "2026-10-16T02:24:43Z",
+    "url": "https://github.com/prasad-kavuri/prasad-portfolio"
+  },
+  {
+    "description": "Python CLI and library (ptm) for prompt templates as plain YAML in git, rendered through sandboxed, strict Jinja so a ty",
+    "id": "Furkiozknn/prompt-template-manager",
+    "language": "Python",
+    "name": "Furkiozknn/prompt-template-manager",
+    "stars": 0,
+    "updated_at": "2026-10-16T02:16:41Z",
+    "url": "https://github.com/Furkiozknn/prompt-template-manager"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-16T02:15:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 41,
-    "updated_at": "2026-10-16T02:14:59Z",
+    "updated_at": "2026-10-16T02:23:47Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -14,7 +86,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1362,
-    "updated_at": "2026-10-16T02:14:55Z",
+    "updated_at": "2026-10-16T02:28:53Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -27,22 +99,22 @@
     "url": "https://github.com/kingfs/Trajecta"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61344,
-    "updated_at": "2026-10-16T02:14:38Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "Arize-ai/phoenix",
+    "stars": 11862,
+    "updated_at": "2026-10-16T02:11:40Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
-    "description": "Python CLI and library (ptm) for prompt templates as plain YAML in git, rendered through sandboxed, strict Jinja so a ty",
-    "id": "Furkiozknn/prompt-template-manager",
+    "description": "Enterprise AI infrastructure platform: distributed vLLM inference, agentic workflows, hybrid multimodal RAG, CNN vision,",
+    "id": "Nikhil-creat/vigilai-engine-mesh",
     "language": "Python",
-    "name": "Furkiozknn/prompt-template-manager",
-    "stars": 0,
-    "updated_at": "2026-10-16T02:11:11Z",
-    "url": "https://github.com/Furkiozknn/prompt-template-manager"
+    "name": "Nikhil-creat/vigilai-engine-mesh",
+    "stars": 1,
+    "updated_at": "2026-10-16T02:11:26Z",
+    "url": "https://github.com/Nikhil-creat/vigilai-engine-mesh"
   },
   {
     "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
@@ -50,7 +122,7 @@
     "language": "TypeScript",
     "name": "burakdede/lorepack",
     "stars": 3,
-    "updated_at": "2026-10-16T02:10:23Z",
+    "updated_at": "2026-10-16T02:24:24Z",
     "url": "https://github.com/burakdede/lorepack"
   },
   {
@@ -61,33 +133,6 @@
     "stars": 5,
     "updated_at": "2026-10-16T02:10:04Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11861,
-    "updated_at": "2026-10-16T02:11:40Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Tamper-evident, stranger-verifiable receipts for LLM cost-savings \u2014 anyone can recompute your caching/routing savings ma",
-    "id": "thequantumfalcon/kry",
-    "language": "Python",
-    "name": "thequantumfalcon/kry",
-    "stars": 1,
-    "updated_at": "2026-10-16T02:12:08Z",
-    "url": "https://github.com/thequantumfalcon/kry"
-  },
-  {
-    "description": "An orchestration runtime for multi-agent AI systems. Declare agents, tools, and policies as YAML; Orloj schedules, execu",
-    "id": "OrlojHQ/orloj",
-    "language": "Go",
-    "name": "OrlojHQ/orloj",
-    "stars": 124,
-    "updated_at": "2026-10-16T02:06:30Z",
-    "url": "https://github.com/OrlojHQ/orloj"
   },
   {
     "description": "Drop-in LLM proxy that cuts input tokens 30\u201370% (54.1% measured, quality-gated) across 27 transparent optimisations \u2014 ca",
@@ -117,13 +162,13 @@
     "url": "https://github.com/toxicwind/ranch"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-16T02:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "mlflow/mlflow",
+    "stars": 28403,
+    "updated_at": "2026-10-16T02:27:47Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Open Source software factory.",
@@ -133,24 +178,6 @@
     "stars": 9,
     "updated_at": "2026-10-16T02:07:28Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28402,
-    "updated_at": "2026-10-16T01:59:56Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2991,
-    "updated_at": "2026-10-16T01:57:42Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Production-style multilingual RAG with tenant-safe retrieval, evidence provenance, deterministic validation, observabili",
@@ -194,7 +221,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8886,
-    "updated_at": "2026-10-16T01:59:11Z",
+    "updated_at": "2026-10-16T02:24:19Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -225,22 +252,22 @@
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
+    "description": "Self-hosted AI Agents Platform for AI Native companies. Claude Code, Codex, Gemini, OpenCode agents. Apache 2.0.  ",
+    "id": "Abilityai/trinity",
+    "language": "Python",
+    "name": "Abilityai/trinity",
+    "stars": 655,
+    "updated_at": "2026-10-16T01:35:13Z",
+    "url": "https://github.com/Abilityai/trinity"
+  },
+  {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
     "id": "Cyrax321/CONTINUUM",
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 24,
-    "updated_at": "2026-10-16T01:25:54Z",
+    "updated_at": "2026-10-16T02:20:54Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "Self-hosted AI Agents Platform for AI Native companies. Claude Code, Codex, Gemini, OpenCode agents. Apache 2.0.  ",
-    "id": "Abilityai/trinity",
-    "language": "Python",
-    "name": "Abilityai/trinity",
-    "stars": 654,
-    "updated_at": "2026-10-16T01:35:13Z",
-    "url": "https://github.com/Abilityai/trinity"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -256,7 +283,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 22637,
+    "stars": 22638,
     "updated_at": "2026-10-16T01:03:43Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -265,7 +292,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 30576,
+    "stars": 30577,
     "updated_at": "2026-10-16T00:55:33Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -313,15 +340,6 @@
     "stars": 1,
     "updated_at": "2026-10-16T00:21:16Z",
     "url": "https://github.com/a-novel/service-genai"
-  },
-  {
-    "description": "Local, self-hosted agent infrastructure \u2014 one endpoint for every AI client (Claude Code, Codex CLI, Gemini CLI, OpenCode",
-    "id": "Stravia-AI/StraviaPlatform",
-    "language": "Rust",
-    "name": "Stravia-AI/StraviaPlatform",
-    "stars": 3,
-    "updated_at": "2026-10-16T00:19:42Z",
-    "url": "https://github.com/Stravia-AI/StraviaPlatform"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-15T23:09:14Z",
     "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "Flight recorder & observability for AI agents: trace every model call, tool call, file edit and shell command live, with",
-    "id": "abdullahimohamed101/agent-black-box",
-    "language": "Python",
-    "name": "abdullahimohamed101/agent-black-box",
-    "stars": 0,
-    "updated_at": "2026-10-15T23:05:52Z",
-    "url": "https://github.com/abdullahimohamed101/agent-black-box"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35881,
-    "updated_at": "2026-10-15T22:54:29Z",
-    "url": "https://github.com/langfuse/langfuse"
   }
 ]
