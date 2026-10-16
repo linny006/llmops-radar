@@ -1,12 +1,30 @@
 [
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-16T04:00:17Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
+    "description": "A decision library for running local LLMs on multi-GPU machines without NVLink: parallelism, communication, quantization",
+    "id": "Lowaltitudeflight/local-llm-tuning-guide",
+    "language": "Python",
+    "name": "Lowaltitudeflight/local-llm-tuning-guide",
+    "stars": 0,
+    "updated_at": "2026-10-16T04:12:21Z",
+    "url": "https://github.com/Lowaltitudeflight/local-llm-tuning-guide"
+  },
+  {
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
+    "language": "Python",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 53,
+    "updated_at": "2026-10-16T04:09:28Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61354,
+    "updated_at": "2026-10-16T04:15:18Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
@@ -14,8 +32,53 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5906,
-    "updated_at": "2026-10-16T03:58:06Z",
+    "updated_at": "2026-10-16T04:11:25Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-16T04:02:47Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 110,
+    "updated_at": "2026-10-16T04:02:26Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Open Source software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-10-16T04:01:30Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-16T04:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-16T04:11:35Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "The platform for continuously improving AI agents.",
@@ -25,24 +88,6 @@
     "stars": 660,
     "updated_at": "2026-10-16T03:47:55Z",
     "url": "https://github.com/overmind-core/overmind"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-16T03:45:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61352,
-    "updated_at": "2026-10-16T04:00:22Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Local, self-hosted agent infrastructure \u2014 one endpoint for every AI client (Claude Code, Codex CLI, Gemini CLI, OpenCode",
@@ -59,7 +104,7 @@
     "language": "Python",
     "name": "tap222/assay-evals",
     "stars": 16,
-    "updated_at": "2026-10-16T03:37:58Z",
+    "updated_at": "2026-10-16T04:14:25Z",
     "url": "https://github.com/tap222/assay-evals"
   },
   {
@@ -126,15 +171,6 @@
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-16T03:14:45Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -158,7 +194,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8887,
-    "updated_at": "2026-10-16T03:59:38Z",
+    "updated_at": "2026-10-16T04:02:14Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -169,15 +205,6 @@
     "stars": 24,
     "updated_at": "2026-10-16T03:03:57Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "A decision library for running local LLMs on multi-GPU machines without NVLink: parallelism, communication, quantization",
-    "id": "Lowaltitudeflight/local-llm-tuning-guide",
-    "language": "HTML",
-    "name": "Lowaltitudeflight/local-llm-tuning-guide",
-    "stars": 0,
-    "updated_at": "2026-10-16T02:58:52Z",
-    "url": "https://github.com/Lowaltitudeflight/local-llm-tuning-guide"
   },
   {
     "description": "Self-hosted LLM systems: inference benchmarking, multi-GPU tuning decisions, and private-deployment delivery.",
@@ -257,7 +284,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1362,
-    "updated_at": "2026-10-16T03:58:53Z",
+    "updated_at": "2026-10-16T04:11:22Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -306,15 +333,6 @@
     "url": "https://github.com/valteresj2/agent-hangar"
   },
   {
-    "description": "Open Source software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-10-16T03:37:06Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "Production-style multilingual RAG with tenant-safe retrieval, evidence provenance, deterministic validation, observabili",
     "id": "negativexq/knowledge-base-rag",
     "language": "Python",
@@ -333,21 +351,12 @@
     "url": "https://github.com/vocion/vocion-core"
   },
   {
-    "description": "Enterprise Scale AIFactory (esml) - on Azure",
-    "id": "jostrm/azure-enterprise-scale-ml",
-    "language": "Python",
-    "name": "jostrm/azure-enterprise-scale-ml",
-    "stars": 53,
-    "updated_at": "2026-10-16T01:56:50Z",
-    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
-  },
-  {
     "description": "If the agent bill went up and nothing errored, a prompt cache broke. Replay Doctor names the turn it broke on, the cause",
     "id": "RedRobotKK/Replay",
     "language": "Go",
     "name": "RedRobotKK/Replay",
     "stars": 3,
-    "updated_at": "2026-10-16T01:55:20Z",
+    "updated_at": "2026-10-16T04:07:09Z",
     "url": "https://github.com/RedRobotKK/Replay"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-16T00:26:24Z",
     "url": "https://github.com/hjongc/openrouter-endpoint-watch"
-  },
-  {
-    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 1,
-    "updated_at": "2026-10-16T00:21:16Z",
-    "url": "https://github.com/a-novel/service-genai"
   }
 ]
