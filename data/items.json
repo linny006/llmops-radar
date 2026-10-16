@@ -1,12 +1,138 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61343,
+    "updated_at": "2026-10-16T01:58:50Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open Source software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-10-16T01:58:58Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28402,
+    "updated_at": "2026-10-16T01:59:56Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2990,
+    "updated_at": "2026-10-16T01:57:42Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Production-style multilingual RAG with tenant-safe retrieval, evidence provenance, deterministic validation, observabili",
+    "id": "negativexq/knowledge-base-rag",
+    "language": "Python",
+    "name": "negativexq/knowledge-base-rag",
+    "stars": 1,
+    "updated_at": "2026-10-16T01:57:12Z",
+    "url": "https://github.com/negativexq/knowledge-base-rag"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-16T01:57:02Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
+    "language": "Python",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 53,
+    "updated_at": "2026-10-16T01:56:50Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 41,
-    "updated_at": "2026-10-16T01:43:11Z",
+    "updated_at": "2026-10-16T01:55:34Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "If the agent bill went up and nothing errored, a prompt cache broke. Replay Doctor names the turn it broke on, the cause",
+    "id": "RedRobotKK/Replay",
+    "language": "Go",
+    "name": "RedRobotKK/Replay",
+    "stars": 3,
+    "updated_at": "2026-10-16T01:55:20Z",
+    "url": "https://github.com/RedRobotKK/Replay"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8886,
+    "updated_at": "2026-10-16T01:59:11Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "The platform for continuously improving AI agents.",
+    "id": "overmind-core/overmind",
+    "language": "Python",
+    "name": "overmind-core/overmind",
+    "stars": 660,
+    "updated_at": "2026-10-16T01:48:31Z",
+    "url": "https://github.com/overmind-core/overmind"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 42,
+    "updated_at": "2026-10-16T01:53:58Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
+    "id": "korczis/prismatic-majordomus",
+    "language": "Rust",
+    "name": "korczis/prismatic-majordomus",
+    "stars": 0,
+    "updated_at": "2026-10-16T01:45:39Z",
+    "url": "https://github.com/korczis/prismatic-majordomus"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-16T01:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11861,
+    "updated_at": "2026-10-16T01:41:11Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "A proxy-based tool for tracing, recording, and replaying LLM API requests.",
@@ -16,51 +142,6 @@
     "stars": 3,
     "updated_at": "2026-10-16T01:40:31Z",
     "url": "https://github.com/kingfs/Trajecta"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61342,
-    "updated_at": "2026-10-16T01:45:23Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2990,
-    "updated_at": "2026-10-16T01:38:34Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "The platform for continuously improving AI agents.",
-    "id": "overmind-core/overmind",
-    "language": "Python",
-    "name": "overmind-core/overmind",
-    "stars": 660,
-    "updated_at": "2026-10-16T01:42:24Z",
-    "url": "https://github.com/overmind-core/overmind"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-16T01:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28402,
-    "updated_at": "2026-10-16T01:28:39Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
@@ -112,7 +193,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 22636,
+    "stars": 22637,
     "updated_at": "2026-10-16T01:03:43Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -144,24 +225,6 @@
     "url": "https://github.com/yosnap/codeia-cost-guard"
   },
   {
-    "description": "Production-style multilingual RAG with tenant-safe retrieval, evidence provenance, deterministic validation, observabili",
-    "id": "negativexq/knowledge-base-rag",
-    "language": "Python",
-    "name": "negativexq/knowledge-base-rag",
-    "stars": 1,
-    "updated_at": "2026-10-16T00:42:49Z",
-    "url": "https://github.com/negativexq/knowledge-base-rag"
-  },
-  {
-    "description": "Enterprise Scale AIFactory (esml) - on Azure",
-    "id": "jostrm/azure-enterprise-scale-ml",
-    "language": "Python",
-    "name": "jostrm/azure-enterprise-scale-ml",
-    "stars": 53,
-    "updated_at": "2026-10-16T01:39:46Z",
-    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
-  },
-  {
     "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
     "id": "redevops-io/agentic-os",
     "language": "Python",
@@ -189,15 +252,6 @@
     "url": "https://github.com/hjongc/openrouter-endpoint-watch"
   },
   {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-16T01:35:40Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
     "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
     "id": "a-novel/service-genai",
     "language": "Go",
@@ -216,15 +270,6 @@
     "url": "https://github.com/Stravia-AI/StraviaPlatform"
   },
   {
-    "description": "If the agent bill went up and nothing errored, a prompt cache broke. Replay Doctor names the turn it broke on, the cause",
-    "id": "RedRobotKK/Replay",
-    "language": "Go",
-    "name": "RedRobotKK/Replay",
-    "stars": 3,
-    "updated_at": "2026-10-16T00:56:06Z",
-    "url": "https://github.com/RedRobotKK/Replay"
-  },
-  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -232,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-10-16T00:06:03Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Open Source software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-10-16T01:45:02Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
@@ -266,7 +302,7 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 5,
-    "updated_at": "2026-10-16T01:41:00Z",
+    "updated_at": "2026-10-16T01:54:27Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
@@ -293,7 +329,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 110,
-    "updated_at": "2026-10-16T01:19:35Z",
+    "updated_at": "2026-10-16T01:59:14Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -319,7 +355,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26023,
+    "stars": 26024,
     "updated_at": "2026-10-15T23:25:12Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -364,7 +400,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 35880,
+    "stars": 35881,
     "updated_at": "2026-10-15T22:54:29Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -376,15 +412,6 @@
     "stars": 0,
     "updated_at": "2026-10-15T22:40:26Z",
     "url": "https://github.com/pragmatiks/pragma-providers"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11860,
-    "updated_at": "2026-10-16T01:41:11Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "50+ curated LLM observability tools PLUS 26 Agent Skills (several with runnable, unit-tested scripts) to build, evaluate",
@@ -421,32 +448,5 @@
     "stars": 523,
     "updated_at": "2026-10-16T01:25:31Z",
     "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Model Context Protocol (MCP) Server for Langfuse Prompt Management. This server allows you to access and manage your Lan",
-    "id": "SibelTrinh25/mcp-server-langfuse",
-    "language": "TypeScript",
-    "name": "SibelTrinh25/mcp-server-langfuse",
-    "stars": 0,
-    "updated_at": "2026-10-15T21:43:25Z",
-    "url": "https://github.com/SibelTrinh25/mcp-server-langfuse"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 4,
-    "updated_at": "2026-10-15T21:35:25Z",
-    "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8886,
-    "updated_at": "2026-10-16T00:52:15Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   }
 ]
