@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61355,
-    "updated_at": "2026-10-16T04:29:19Z",
+    "updated_at": "2026-10-16T04:45:01Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-16T04:41:20Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Token usage tracker for multi-agent AI sessions",
+    "id": "yunaremaia/agentcost",
+    "language": "Python",
+    "name": "yunaremaia/agentcost",
+    "stars": 2,
+    "updated_at": "2026-10-16T04:37:03Z",
+    "url": "https://github.com/yunaremaia/agentcost"
+  },
+  {
+    "description": "Behavioral regression testing for AI apps and agents: pytest plugin, behavior diff, CI gate, and document extraction met",
+    "id": "tap222/assay-evals",
+    "language": "Python",
+    "name": "tap222/assay-evals",
+    "stars": 16,
+    "updated_at": "2026-10-16T04:35:05Z",
+    "url": "https://github.com/tap222/assay-evals"
   },
   {
     "description": "Agentic Runtime",
@@ -14,7 +41,7 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 41,
-    "updated_at": "2026-10-16T04:19:17Z",
+    "updated_at": "2026-10-16T04:42:19Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -23,7 +50,7 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-10-16T04:15:24Z",
+    "updated_at": "2026-10-16T04:30:24Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -54,15 +81,6 @@
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-16T04:02:47Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
     "id": "cloudrift-ai/emmy",
     "language": "Python",
@@ -77,7 +95,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-10-16T04:01:30Z",
+    "updated_at": "2026-10-16T04:39:28Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -99,15 +117,6 @@
     "url": "https://github.com/Stravia-AI/StraviaPlatform"
   },
   {
-    "description": "Behavioral regression testing for AI apps and agents: pytest plugin, behavior diff, CI gate, and document extraction met",
-    "id": "tap222/assay-evals",
-    "language": "Python",
-    "name": "tap222/assay-evals",
-    "stars": 16,
-    "updated_at": "2026-10-16T04:14:25Z",
-    "url": "https://github.com/tap222/assay-evals"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -122,7 +131,7 @@
     "language": "Go",
     "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "stars": 1,
-    "updated_at": "2026-10-16T03:36:03Z",
+    "updated_at": "2026-10-16T04:41:24Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
   },
   {
@@ -167,7 +176,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-16T03:59:48Z",
+    "updated_at": "2026-10-16T04:41:08Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -238,7 +247,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 35886,
+    "stars": 35887,
     "updated_at": "2026-10-16T02:42:09Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -284,7 +293,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1362,
-    "updated_at": "2026-10-16T04:27:48Z",
+    "updated_at": "2026-10-16T04:40:49Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-16T00:37:16Z",
     "url": "https://github.com/redevops-io/agentic-os"
-  },
-  {
-    "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
-    "id": "hjongc/openrouter-endpoint-watch",
-    "language": "Python",
-    "name": "hjongc/openrouter-endpoint-watch",
-    "stars": 0,
-    "updated_at": "2026-10-16T00:26:24Z",
-    "url": "https://github.com/hjongc/openrouter-endpoint-watch"
   }
 ]
