@@ -1,11 +1,47 @@
 [
   {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-16T04:00:17Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5906,
+    "updated_at": "2026-10-16T03:58:06Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
+    "description": "The platform for continuously improving AI agents.",
+    "id": "overmind-core/overmind",
+    "language": "Python",
+    "name": "overmind-core/overmind",
+    "stars": 660,
+    "updated_at": "2026-10-16T03:47:55Z",
+    "url": "https://github.com/overmind-core/overmind"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-16T03:45:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61352,
-    "updated_at": "2026-10-16T03:45:16Z",
+    "updated_at": "2026-10-16T04:00:22Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -27,6 +63,15 @@
     "url": "https://github.com/tap222/assay-evals"
   },
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26030,
+    "updated_at": "2026-10-16T03:36:24Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
     "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "language": "Go",
@@ -36,31 +81,22 @@
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-16T03:39:32Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-16T03:30:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
     "id": "dataelement/bisheng",
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 12055,
-    "updated_at": "2026-10-16T03:24:54Z",
+    "updated_at": "2026-10-16T03:52:33Z",
     "url": "https://github.com/dataelement/bisheng"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 524,
+    "updated_at": "2026-10-16T03:23:42Z",
+    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -76,7 +112,7 @@
     "id": "future-agi/future-agi",
     "language": "Python",
     "name": "future-agi/future-agi",
-    "stars": 2155,
+    "stars": 2156,
     "updated_at": "2026-10-16T03:22:27Z",
     "url": "https://github.com/future-agi/future-agi"
   },
@@ -86,7 +122,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-16T03:30:08Z",
+    "updated_at": "2026-10-16T03:59:48Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -104,7 +140,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28404,
-    "updated_at": "2026-10-16T03:12:02Z",
+    "updated_at": "2026-10-16T03:45:25Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -113,7 +149,7 @@
     "language": "TypeScript",
     "name": "burakdede/lorepack",
     "stars": 3,
-    "updated_at": "2026-10-16T03:07:30Z",
+    "updated_at": "2026-10-16T03:49:24Z",
     "url": "https://github.com/burakdede/lorepack"
   },
   {
@@ -122,7 +158,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8887,
-    "updated_at": "2026-10-16T03:41:27Z",
+    "updated_at": "2026-10-16T03:59:38Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -221,7 +257,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1362,
-    "updated_at": "2026-10-16T03:40:42Z",
+    "updated_at": "2026-10-16T03:58:53Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -313,15 +349,6 @@
     "stars": 3,
     "updated_at": "2026-10-16T01:55:20Z",
     "url": "https://github.com/RedRobotKK/Replay"
-  },
-  {
-    "description": "The platform for continuously improving AI agents.",
-    "id": "overmind-core/overmind",
-    "language": "Python",
-    "name": "overmind-core/overmind",
-    "stars": 660,
-    "updated_at": "2026-10-16T03:25:55Z",
-    "url": "https://github.com/overmind-core/overmind"
   },
   {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-16T00:21:16Z",
     "url": "https://github.com/a-novel/service-genai"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-10-16T00:06:03Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 31,
-    "updated_at": "2026-10-16T00:03:39Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Open-source LLM observability and drift detection for AI apps",
-    "id": "cognifityai/verdict",
-    "language": "Python",
-    "name": "cognifityai/verdict",
-    "stars": 0,
-    "updated_at": "2026-10-15T23:54:41Z",
-    "url": "https://github.com/cognifityai/verdict"
   }
 ]
