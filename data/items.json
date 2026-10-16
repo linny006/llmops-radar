@@ -1,29 +1,11 @@
 [
   {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2990,
-    "updated_at": "2026-10-16T01:14:53Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Self-hosted AI Agents Platform for AI Native companies. Claude Code, Codex, Gemini, OpenCode agents. Apache 2.0.  ",
-    "id": "Abilityai/trinity",
-    "language": "Python",
-    "name": "Abilityai/trinity",
-    "stars": 654,
-    "updated_at": "2026-10-16T01:14:22Z",
-    "url": "https://github.com/Abilityai/trinity"
-  },
-  {
     "description": "The platform for continuously improving AI agents.",
     "id": "overmind-core/overmind",
     "language": "Python",
     "name": "overmind-core/overmind",
     "stars": 660,
-    "updated_at": "2026-10-16T01:12:17Z",
+    "updated_at": "2026-10-16T01:29:53Z",
     "url": "https://github.com/overmind-core/overmind"
   },
   {
@@ -32,17 +14,26 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61341,
-    "updated_at": "2026-10-16T01:15:16Z",
+    "updated_at": "2026-10-16T01:30:15Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
-    "description": "One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod",
-    "id": "valteresj2/agent-hangar",
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
     "language": "Python",
-    "name": "valteresj2/agent-hangar",
-    "stars": 3,
-    "updated_at": "2026-10-16T01:09:50Z",
-    "url": "https://github.com/valteresj2/agent-hangar"
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2990,
+    "updated_at": "2026-10-16T01:29:08Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28401,
+    "updated_at": "2026-10-16T01:28:39Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Agentic Runtime",
@@ -50,8 +41,53 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 41,
-    "updated_at": "2026-10-16T01:08:23Z",
+    "updated_at": "2026-10-16T01:26:57Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 24,
+    "updated_at": "2026-10-16T01:25:54Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-16T01:20:46Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod",
+    "id": "valteresj2/agent-hangar",
+    "language": "Python",
+    "name": "valteresj2/agent-hangar",
+    "stars": 3,
+    "updated_at": "2026-10-16T01:18:51Z",
+    "url": "https://github.com/valteresj2/agent-hangar"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-16T01:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Self-hosted AI Agents Platform for AI Native companies. Claude Code, Codex, Gemini, OpenCode agents. Apache 2.0.  ",
+    "id": "Abilityai/trinity",
+    "language": "Python",
+    "name": "Abilityai/trinity",
+    "stars": 654,
+    "updated_at": "2026-10-16T01:16:37Z",
+    "url": "https://github.com/Abilityai/trinity"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -63,22 +99,22 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22636,
+    "updated_at": "2026-10-16T01:03:43Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
     "id": "burakdede/lorepack",
     "language": "TypeScript",
     "name": "burakdede/lorepack",
     "stars": 3,
-    "updated_at": "2026-10-16T01:02:52Z",
+    "updated_at": "2026-10-16T01:16:05Z",
     "url": "https://github.com/burakdede/lorepack"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-16T01:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code \u2014 V3 prototype runs ",
@@ -97,15 +133,6 @@
     "stars": 4,
     "updated_at": "2026-10-16T00:51:43Z",
     "url": "https://github.com/yosnap/codeia-cost-guard"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22635,
-    "updated_at": "2026-10-16T01:03:43Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Production-style multilingual RAG with tenant-safe retrieval, evidence provenance, deterministic validation, observabili",
@@ -158,17 +185,8 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-16T00:34:57Z",
+    "updated_at": "2026-10-16T01:24:19Z",
     "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28401,
-    "updated_at": "2026-10-16T01:00:43Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
@@ -212,7 +230,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-10-16T00:49:42Z",
+    "updated_at": "2026-10-16T01:29:33Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -266,7 +284,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 110,
-    "updated_at": "2026-10-16T01:13:44Z",
+    "updated_at": "2026-10-16T01:19:35Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -292,7 +310,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26021,
+    "stars": 26022,
     "updated_at": "2026-10-15T23:25:12Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -333,6 +351,15 @@
     "url": "https://github.com/abdullahimohamed101/agent-black-box"
   },
   {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35880,
+    "updated_at": "2026-10-15T22:54:29Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "Resource providers for pragma-os. Manage cloud infrastructure, AI agents, knowledge bases, pipelines, and workflows.",
     "id": "pragmatiks/pragma-providers",
     "language": "Python",
@@ -342,20 +369,11 @@
     "url": "https://github.com/pragmatiks/pragma-providers"
   },
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35878,
-    "updated_at": "2026-10-15T22:54:29Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11859,
+    "stars": 11860,
     "updated_at": "2026-10-15T22:26:51Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -392,7 +410,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 523,
-    "updated_at": "2026-10-15T21:54:51Z",
+    "updated_at": "2026-10-16T01:25:31Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 192,
     "updated_at": "2026-10-15T21:24:30Z",
     "url": "https://github.com/GetBusbar/busbar"
-  },
-  {
-    "description": "A self-hosted zero-cost LLM routing stack that discovers, benchmarks, and routes to the best currently free models.",
-    "id": "sjfakharian/zerospend",
-    "language": "JavaScript",
-    "name": "sjfakharian/zerospend",
-    "stars": 4,
-    "updated_at": "2026-10-15T21:13:58Z",
-    "url": "https://github.com/sjfakharian/zerospend"
-  },
-  {
-    "description": "AI trust-boundary gateway for OpenAI, Anthropic, and Gemini.",
-    "id": "GetSHIM/shim",
-    "language": "Python",
-    "name": "GetSHIM/shim",
-    "stars": 9,
-    "updated_at": "2026-10-15T21:13:27Z",
-    "url": "https://github.com/GetSHIM/shim"
   }
 ]
