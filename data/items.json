@@ -1,11 +1,164 @@
 [
   {
+    "description": "Painel para operar agentes de IA em produ\u00e7\u00e3o: prompt versionado com rollback, troca de modelo sem reescrever instru\u00e7\u00f5es ",
+    "id": "WellCod/automata",
+    "language": "Python",
+    "name": "WellCod/automata",
+    "stars": 1,
+    "updated_at": "2026-10-16T12:30:09Z",
+    "url": "https://github.com/WellCod/automata"
+  },
+  {
+    "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
+    "id": "brutal-45/Nexus-LLM",
+    "language": "Python",
+    "name": "brutal-45/Nexus-LLM",
+    "stars": 0,
+    "updated_at": "2026-10-16T12:28:03Z",
+    "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
+    "description": "The open-source agentic framework to build, orchestrate, and operate production AI agents.",
+    "id": "apowerb/apowerb",
+    "language": "Python",
+    "name": "apowerb/apowerb",
+    "stars": 119,
+    "updated_at": "2026-10-16T12:27:33Z",
+    "url": "https://github.com/apowerb/apowerb"
+  },
+  {
+    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
+    "id": "lawrence7975/awesome-ai-gateway",
+    "language": "HTML",
+    "name": "lawrence7975/awesome-ai-gateway",
+    "stars": 0,
+    "updated_at": "2026-10-16T12:26:02Z",
+    "url": "https://github.com/lawrence7975/awesome-ai-gateway"
+  },
+  {
+    "description": "Open Source software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-10-16T12:25:51Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Mide y frena el gasto de tokens de tu flota de agentes (Claude Code, Codex, OpenCode): panel, app de barra de menus y re",
+    "id": "yosnap/codeia-cost-guard",
+    "language": "Python",
+    "name": "yosnap/codeia-cost-guard",
+    "stars": 4,
+    "updated_at": "2026-10-16T12:25:36Z",
+    "url": "https://github.com/yosnap/codeia-cost-guard"
+  },
+  {
+    "description": "Product analytics for AI Assistants",
+    "id": "naoerdogan584/trubrics-python",
+    "language": "Python",
+    "name": "naoerdogan584/trubrics-python",
+    "stars": 0,
+    "updated_at": "2026-10-16T12:25:12Z",
+    "url": "https://github.com/naoerdogan584/trubrics-python"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "language": "Go",
+    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-10-16T12:29:30Z",
+    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35911,
+    "updated_at": "2026-10-16T12:29:37Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-10-16T12:20:25Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "Mission SDK \u2014 the developer boundary over the ReDevOps Mission Runtime (author, validate, explain a governed MissionProg",
+    "id": "redevops-io/mission-sdk",
+    "language": "Python",
+    "name": "redevops-io/mission-sdk",
+    "stars": 0,
+    "updated_at": "2026-10-16T12:18:56Z",
+    "url": "https://github.com/redevops-io/mission-sdk"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 32,
+    "updated_at": "2026-10-16T12:18:54Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Cost control for teams building on AI. Enforce spend budgets before the call goes out. Self-hostable dashboard (Next.js)",
+    "id": "bursora/core",
+    "language": "TypeScript",
+    "name": "bursora/core",
+    "stars": 4,
+    "updated_at": "2026-10-16T12:17:21Z",
+    "url": "https://github.com/bursora/core"
+  },
+  {
+    "description": "Self-demonstrating ReDevOps \u00d7 AWS deploy-and-operate demo: one prompt in Projects provisions, secures, monitors and self",
+    "id": "redevops-io/redevops-demo",
+    "language": "Python",
+    "name": "redevops-io/redevops-demo",
+    "stars": 0,
+    "updated_at": "2026-10-16T12:16:58Z",
+    "url": "https://github.com/redevops-io/redevops-demo"
+  },
+  {
+    "description": "Self-hosted coding assistant that routes each request to the cheapest model that can handle it",
+    "id": "optiware-ai/optimux",
+    "language": "Python",
+    "name": "optiware-ai/optimux",
+    "stars": 1,
+    "updated_at": "2026-10-16T12:15:59Z",
+    "url": "https://github.com/optiware-ai/optimux"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 31,
+    "updated_at": "2026-10-16T12:15:30Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-16T12:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4959,
-    "updated_at": "2026-10-16T12:15:08Z",
+    "updated_at": "2026-10-16T12:30:19Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -27,21 +180,12 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "The open-source agentic framework to build, orchestrate, and operate production AI agents.",
-    "id": "apowerb/apowerb",
-    "language": "Python",
-    "name": "apowerb/apowerb",
-    "stars": 118,
-    "updated_at": "2026-10-16T12:12:00Z",
-    "url": "https://github.com/apowerb/apowerb"
-  },
-  {
     "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
     "id": "burakdede/lorepack",
     "language": "TypeScript",
     "name": "burakdede/lorepack",
     "stars": 3,
-    "updated_at": "2026-10-16T12:10:42Z",
+    "updated_at": "2026-10-16T12:26:17Z",
     "url": "https://github.com/burakdede/lorepack"
   },
   {
@@ -54,15 +198,6 @@
     "url": "https://github.com/ArtVsMark/Engineering-Incidents-Playbook"
   },
   {
-    "description": "Self-hosted coding assistant that routes each request to the cheapest model that can handle it",
-    "id": "optiware-ai/optimux",
-    "language": "Python",
-    "name": "optiware-ai/optimux",
-    "stars": 1,
-    "updated_at": "2026-10-16T12:09:45Z",
-    "url": "https://github.com/optiware-ai/optimux"
-  },
-  {
     "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
     "id": "redevops-io/agentic-os",
     "language": "Python",
@@ -72,21 +207,12 @@
     "url": "https://github.com/redevops-io/agentic-os"
   },
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35911,
-    "updated_at": "2026-10-16T12:12:35Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
     "id": "mozilla-ai/otari",
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 524,
-    "updated_at": "2026-10-16T12:10:56Z",
+    "updated_at": "2026-10-16T12:27:42Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -95,26 +221,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61374,
-    "updated_at": "2026-10-16T12:15:12Z",
+    "updated_at": "2026-10-16T12:27:22Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "language": "Go",
-    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "stars": 1,
-    "updated_at": "2026-10-16T12:14:22Z",
-    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
-  },
-  {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 31,
-    "updated_at": "2026-10-16T12:03:53Z",
-    "url": "https://github.com/byte5ai/omadia"
   },
   {
     "description": "Dify with Let's Encrypt Using Docker Compose",
@@ -126,40 +234,13 @@
     "url": "https://github.com/heyvaldemar/dify-traefik-letsencrypt-docker-compose"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-16T12:00:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22649,
-    "updated_at": "2026-10-16T11:54:16Z",
+    "updated_at": "2026-10-16T12:28:31Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Painel para operar agentes de IA em produ\u00e7\u00e3o: prompt versionado com rollback, troca de modelo sem reescrever instru\u00e7\u00f5es ",
-    "id": "WellCod/automata",
-    "language": "Python",
-    "name": "WellCod/automata",
-    "stars": 1,
-    "updated_at": "2026-10-16T11:57:15Z",
-    "url": "https://github.com/WellCod/automata"
-  },
-  {
-    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-10-16T11:54:00Z",
-    "url": "https://github.com/veerarakesh56/warden"
   },
   {
     "description": "Production-style multilingual RAG with tenant-safe retrieval, evidence provenance, deterministic validation, observabili",
@@ -176,7 +257,7 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 42,
-    "updated_at": "2026-10-16T12:05:13Z",
+    "updated_at": "2026-10-16T12:29:00Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
@@ -239,7 +320,7 @@
     "language": "Python",
     "name": "overmind-core/overmind",
     "stars": 660,
-    "updated_at": "2026-10-16T11:38:16Z",
+    "updated_at": "2026-10-16T12:26:25Z",
     "url": "https://github.com/overmind-core/overmind"
   },
   {
@@ -315,15 +396,6 @@
     "url": "https://github.com/Amz34/awesome-agent-infrastructure"
   },
   {
-    "description": "Open Source software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-10-16T12:11:36Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "\u9876\u7ea7\u5ba1\u7f8e\u7684\u4e2a\u4eba\u535a\u5ba2\uff01\uff01\uff01\u5199\u4e00\u4e9b\u5173\u4e8e AI\u3001Agent\u3001\u6280\u672f\u3001\u4ea7\u54c1\u3001\u8425\u9500\u3001\u4e00\u4e9b\u751f\u6d3b\u601d\u8003\uff0c\u4e2a\u4eba\u6210\u957f\u7c7b\u7684\u7cbe\u6587",
     "id": "cubxxw/blog",
     "language": "JavaScript",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-16T11:17:34Z",
     "url": "https://github.com/naim-munshi/metriqen-llm-serving-optimization"
-  },
-  {
-    "description": "Model Context Protocol (MCP) Server for Langfuse Prompt Management. This server allows you to access and manage your Lan",
-    "id": "saralaurent/mcp-server-langfuse",
-    "language": "TypeScript",
-    "name": "saralaurent/mcp-server-langfuse",
-    "stars": 0,
-    "updated_at": "2026-10-16T11:14:26Z",
-    "url": "https://github.com/saralaurent/mcp-server-langfuse"
-  },
-  {
-    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
-    "id": "JoniMartin27/lookspan",
-    "language": "TypeScript",
-    "name": "JoniMartin27/lookspan",
-    "stars": 7,
-    "updated_at": "2026-10-16T11:13:51Z",
-    "url": "https://github.com/JoniMartin27/lookspan"
-  },
-  {
-    "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
-    "id": "prasad-kavuri/prasad-portfolio",
-    "language": "TypeScript",
-    "name": "prasad-kavuri/prasad-portfolio",
-    "stars": 0,
-    "updated_at": "2026-10-16T11:13:44Z",
-    "url": "https://github.com/prasad-kavuri/prasad-portfolio"
-  },
-  {
-    "description": "Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF\u2194Bedrock mapping (US regions) with a free st",
-    "id": "scttfrdmn/hf-bedrock-map",
-    "language": "Go",
-    "name": "scttfrdmn/hf-bedrock-map",
-    "stars": 1,
-    "updated_at": "2026-10-16T11:10:48Z",
-    "url": "https://github.com/scttfrdmn/hf-bedrock-map"
-  },
-  {
-    "description": "LiteLLM plugin that downgrades selected routes to cheaper models as a team's budget runs out",
-    "id": "amk9978/litellm-brownout",
-    "language": "Python",
-    "name": "amk9978/litellm-brownout",
-    "stars": 0,
-    "updated_at": "2026-10-16T11:10:11Z",
-    "url": "https://github.com/amk9978/litellm-brownout"
-  },
-  {
-    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
-    "id": "Vandenberg32/awesome-ai-gateway",
-    "language": "HTML",
-    "name": "Vandenberg32/awesome-ai-gateway",
-    "stars": 0,
-    "updated_at": "2026-10-16T11:05:48Z",
-    "url": "https://github.com/Vandenberg32/awesome-ai-gateway"
-  },
-  {
-    "description": "AI platform reference architecture for LLM serving on Kubernetes, with reliability, observability, failure testing, and ",
-    "id": "asadhanif3188/InferOps",
-    "language": "Python",
-    "name": "asadhanif3188/InferOps",
-    "stars": 0,
-    "updated_at": "2026-10-16T11:05:37Z",
-    "url": "https://github.com/asadhanif3188/InferOps"
-  },
-  {
-    "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
-    "id": "ZIZKA-AI-SL/ZizkaDB",
-    "language": "Python",
-    "name": "ZIZKA-AI-SL/ZizkaDB",
-    "stars": 144,
-    "updated_at": "2026-10-16T11:04:04Z",
-    "url": "https://github.com/ZIZKA-AI-SL/ZizkaDB"
   }
 ]
