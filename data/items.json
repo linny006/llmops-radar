@@ -1,12 +1,102 @@
 [
   {
+    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
+    "id": "korczis/prismatic-majordomus",
+    "language": "Rust",
+    "name": "korczis/prismatic-majordomus",
+    "stars": 0,
+    "updated_at": "2026-10-16T07:44:03Z",
+    "url": "https://github.com/korczis/prismatic-majordomus"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2993,
+    "updated_at": "2026-10-16T07:44:03Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61360,
-    "updated_at": "2026-10-16T07:29:14Z",
+    "updated_at": "2026-10-16T07:45:10Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-16T07:39:55Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O",
+    "id": "kelvran/gateway",
+    "language": "Go",
+    "name": "kelvran/gateway",
+    "stars": 0,
+    "updated_at": "2026-10-16T07:41:00Z",
+    "url": "https://github.com/kelvran/gateway"
+  },
+  {
+    "description": "Production-ready platform for deploying OpenAI-compatible LLM inference on Kubernetes. A one-command installer for enter",
+    "id": "intel/enterprise-ai-solutions",
+    "language": "Shell",
+    "name": "intel/enterprise-ai-solutions",
+    "stars": 8,
+    "updated_at": "2026-10-16T07:38:58Z",
+    "url": "https://github.com/intel/enterprise-ai-solutions"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22642,
+    "updated_at": "2026-10-16T07:41:56Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 31,
+    "updated_at": "2026-10-16T07:44:13Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28408,
+    "updated_at": "2026-10-16T07:32:08Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35893,
+    "updated_at": "2026-10-16T07:42:40Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-16T07:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Continuous LLM governance monitoring for regulated environments - EU AI Act, GDPR, ANSSI. Self-hosted, profile-driven, n",
@@ -36,15 +126,6 @@
     "url": "https://github.com/chyinan/AegisRAG"
   },
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35893,
-    "updated_at": "2026-10-16T07:29:21Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
     "id": "cuihuan/awesome-ai-gateway",
     "language": "HTML",
@@ -61,42 +142,6 @@
     "stars": 1,
     "updated_at": "2026-10-16T07:19:44Z",
     "url": "https://github.com/optiware-ai/optimux"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-16T07:29:51Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22642,
-    "updated_at": "2026-10-16T07:18:11Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O",
-    "id": "kelvran/gateway",
-    "language": "Go",
-    "name": "kelvran/gateway",
-    "stars": 0,
-    "updated_at": "2026-10-16T07:18:44Z",
-    "url": "https://github.com/kelvran/gateway"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-16T07:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -162,15 +207,6 @@
     "url": "https://github.com/techgopal/ultrafast-ai-gateway"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2993,
-    "updated_at": "2026-10-16T07:02:49Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
     "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "language": "Go",
@@ -187,15 +223,6 @@
     "stars": 4,
     "updated_at": "2026-10-16T07:00:47Z",
     "url": "https://github.com/tonydzi/verbatim-citation-gate"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28407,
-    "updated_at": "2026-10-16T07:29:07Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -279,15 +306,6 @@
     "url": "https://github.com/tensorchord/Awesome-LLMOps"
   },
   {
-    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
-    "id": "korczis/prismatic-majordomus",
-    "language": "Rust",
-    "name": "korczis/prismatic-majordomus",
-    "stars": 0,
-    "updated_at": "2026-10-16T07:23:30Z",
-    "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
     "description": "AI platform reference architecture for LLM serving on Kubernetes, with reliability, observability, failure testing, and ",
     "id": "asadhanif3188/InferOps",
     "language": "Python",
@@ -301,7 +319,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26036,
+    "stars": 26039,
     "updated_at": "2026-10-16T06:09:34Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -311,7 +329,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 110,
-    "updated_at": "2026-10-16T06:48:56Z",
+    "updated_at": "2026-10-16T07:38:29Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -374,7 +392,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 12055,
-    "updated_at": "2026-10-16T07:20:23Z",
+    "updated_at": "2026-10-16T07:41:31Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -423,15 +441,6 @@
     "url": "https://github.com/intel/enterprise-inference"
   },
   {
-    "description": "Production-ready platform for deploying OpenAI-compatible LLM inference on Kubernetes. A one-command installer for enter",
-    "id": "intel/enterprise-ai-solutions",
-    "language": "Shell",
-    "name": "intel/enterprise-ai-solutions",
-    "stars": 8,
-    "updated_at": "2026-10-16T07:27:37Z",
-    "url": "https://github.com/intel/enterprise-ai-solutions"
-  },
-  {
     "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
     "id": "burakdede/lorepack",
     "language": "TypeScript",
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-16T07:09:12Z",
     "url": "https://github.com/burakdede/lorepack"
-  },
-  {
-    "description": "Automated LLM Evaluation Suites, Benchmarking Pipelines & Continuous Statistical Regression Testing for Probabilistic Mo",
-    "id": "subasah/probabilistic-llm-eval-suite",
-    "language": "Python",
-    "name": "subasah/probabilistic-llm-eval-suite",
-    "stars": 0,
-    "updated_at": "2026-10-16T04:59:10Z",
-    "url": "https://github.com/subasah/probabilistic-llm-eval-suite"
   }
 ]
