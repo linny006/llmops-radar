@@ -1,5 +1,77 @@
 [
   {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-16T03:29:19Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61350,
+    "updated_at": "2026-10-16T03:28:15Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Behavioral regression testing for AI apps and agents: pytest plugin, behavior diff, CI gate, and document extraction met",
+    "id": "tap222/assay-evals",
+    "language": "Python",
+    "name": "tap222/assay-evals",
+    "stars": 16,
+    "updated_at": "2026-10-16T03:27:53Z",
+    "url": "https://github.com/tap222/assay-evals"
+  },
+  {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "Python",
+    "name": "dataelement/bisheng",
+    "stars": 12055,
+    "updated_at": "2026-10-16T03:24:54Z",
+    "url": "https://github.com/dataelement/bisheng"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11865,
+    "updated_at": "2026-10-16T03:24:27Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 2155,
+    "updated_at": "2026-10-16T03:22:27Z",
+    "url": "https://github.com/future-agi/future-agi"
+  },
+  {
+    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
+    "id": "korczis/prismatic-majordomus",
+    "language": "Rust",
+    "name": "korczis/prismatic-majordomus",
+    "stars": 0,
+    "updated_at": "2026-10-16T03:30:08Z",
+    "url": "https://github.com/korczis/prismatic-majordomus"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-16T03:15:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
     "id": "toxicwind/ranch",
     "language": "Rust",
@@ -18,15 +90,6 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61348,
-    "updated_at": "2026-10-16T03:14:18Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
     "id": "burakdede/lorepack",
     "language": "TypeScript",
@@ -36,6 +99,15 @@
     "url": "https://github.com/burakdede/lorepack"
   },
   {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8887,
+    "updated_at": "2026-10-16T03:04:59Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
     "id": "Cyrax321/CONTINUUM",
     "language": "Python",
@@ -43,15 +115,6 @@
     "stars": 24,
     "updated_at": "2026-10-16T03:03:57Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-16T03:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "A decision library for running local LLMs on multi-GPU machines without NVLink: parallelism, communication, quantization",
@@ -81,15 +144,6 @@
     "url": "https://github.com/Lowaltitudeflight/llm-private-deploy-handbook"
   },
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35883,
-    "updated_at": "2026-10-16T02:42:09Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "Python",
@@ -97,6 +151,15 @@
     "stars": 2992,
     "updated_at": "2026-10-16T02:52:34Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35886,
+    "updated_at": "2026-10-16T02:42:09Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "An orchestration runtime for multi-agent AI systems. Declare agents, tools, and policies as YAML; Orloj schedules, execu",
@@ -144,21 +207,12 @@
     "url": "https://github.com/Furkiozknn/prompt-template-manager"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-16T03:01:47Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
     "id": "alibaba/rtp-llm",
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1362,
-    "updated_at": "2026-10-16T03:11:11Z",
+    "updated_at": "2026-10-16T03:29:38Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -169,15 +223,6 @@
     "stars": 3,
     "updated_at": "2026-10-16T02:14:06Z",
     "url": "https://github.com/kingfs/Trajecta"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11864,
-    "updated_at": "2026-10-16T02:11:40Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Enterprise AI infrastructure platform: distributed vLLM inference, agentic workflows, hybrid multimodal RAG, CNN vision,",
@@ -221,7 +266,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-10-16T02:43:31Z",
+    "updated_at": "2026-10-16T03:27:56Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -261,21 +306,12 @@
     "url": "https://github.com/RedRobotKK/Replay"
   },
   {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8886,
-    "updated_at": "2026-10-16T03:04:59Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
     "description": "The platform for continuously improving AI agents.",
     "id": "overmind-core/overmind",
     "language": "Python",
     "name": "overmind-core/overmind",
     "stars": 660,
-    "updated_at": "2026-10-16T03:15:00Z",
+    "updated_at": "2026-10-16T03:25:55Z",
     "url": "https://github.com/overmind-core/overmind"
   },
   {
@@ -288,15 +324,6 @@
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
-    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
-    "id": "korczis/prismatic-majordomus",
-    "language": "Rust",
-    "name": "korczis/prismatic-majordomus",
-    "stars": 0,
-    "updated_at": "2026-10-16T02:35:51Z",
-    "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
     "description": "Self-hosted AI Agents Platform for AI Native companies. Claude Code, Codex, Gemini, OpenCode agents. Apache 2.0.  ",
     "id": "Abilityai/trinity",
     "language": "Python",
@@ -304,15 +331,6 @@
     "stars": 655,
     "updated_at": "2026-10-16T01:35:13Z",
     "url": "https://github.com/Abilityai/trinity"
-  },
-  {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "Python",
-    "name": "dataelement/bisheng",
-    "stars": 12054,
-    "updated_at": "2026-10-16T01:23:52Z",
-    "url": "https://github.com/dataelement/bisheng"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-15T23:47:43Z",
     "url": "https://github.com/kelvran/gateway"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 110,
-    "updated_at": "2026-10-16T01:59:14Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-10-15T23:31:57Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   }
 ]
