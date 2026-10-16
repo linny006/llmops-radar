@@ -4,9 +4,36 @@
     "id": "vllm-project/vllm-ascend",
     "language": "Python",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2991,
-    "updated_at": "2026-10-16T02:30:20Z",
+    "stars": 2992,
+    "updated_at": "2026-10-16T02:40:33Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "An orchestration runtime for multi-agent AI systems. Declare agents, tools, and policies as YAML; Orloj schedules, execu",
+    "id": "OrlojHQ/orloj",
+    "language": "Go",
+    "name": "OrlojHQ/orloj",
+    "stars": 124,
+    "updated_at": "2026-10-16T02:35:17Z",
+    "url": "https://github.com/OrlojHQ/orloj"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61347,
+    "updated_at": "2026-10-16T02:44:52Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-16T02:30:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Tamper-evident, stranger-verifiable receipts for LLM cost-savings \u2014 anyone can recompute your caching/routing savings ma",
@@ -18,15 +45,6 @@
     "url": "https://github.com/thequantumfalcon/kry"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61346,
-    "updated_at": "2026-10-16T02:29:32Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Local, self-hosted agent infrastructure \u2014 one endpoint for every AI client (Claude Code, Codex CLI, Gemini CLI, OpenCode",
     "id": "Stravia-AI/StraviaPlatform",
     "language": "Rust",
@@ -34,15 +52,6 @@
     "stars": 3,
     "updated_at": "2026-10-16T02:26:40Z",
     "url": "https://github.com/Stravia-AI/StraviaPlatform"
-  },
-  {
-    "description": "An orchestration runtime for multi-agent AI systems. Declare agents, tools, and policies as YAML; Orloj schedules, execu",
-    "id": "OrlojHQ/orloj",
-    "language": "Go",
-    "name": "OrlojHQ/orloj",
-    "stars": 124,
-    "updated_at": "2026-10-16T02:29:17Z",
-    "url": "https://github.com/OrlojHQ/orloj"
   },
   {
     "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
@@ -63,15 +72,6 @@
     "url": "https://github.com/Furkiozknn/prompt-template-manager"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-16T02:15:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -86,7 +86,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1362,
-    "updated_at": "2026-10-16T02:28:53Z",
+    "updated_at": "2026-10-16T02:37:27Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -122,7 +122,7 @@
     "language": "TypeScript",
     "name": "burakdede/lorepack",
     "stars": 3,
-    "updated_at": "2026-10-16T02:24:24Z",
+    "updated_at": "2026-10-16T02:30:41Z",
     "url": "https://github.com/burakdede/lorepack"
   },
   {
@@ -176,7 +176,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-10-16T02:07:28Z",
+    "updated_at": "2026-10-16T02:43:31Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -221,7 +221,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8886,
-    "updated_at": "2026-10-16T02:24:19Z",
+    "updated_at": "2026-10-16T02:34:15Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -230,7 +230,7 @@
     "language": "Python",
     "name": "overmind-core/overmind",
     "stars": 660,
-    "updated_at": "2026-10-16T01:48:31Z",
+    "updated_at": "2026-10-16T02:37:16Z",
     "url": "https://github.com/overmind-core/overmind"
   },
   {
@@ -248,7 +248,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-16T02:10:46Z",
+    "updated_at": "2026-10-16T02:35:51Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -268,6 +268,15 @@
     "stars": 24,
     "updated_at": "2026-10-16T02:20:54Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "Python",
+    "name": "dataelement/bisheng",
+    "stars": 12054,
+    "updated_at": "2026-10-16T01:23:52Z",
+    "url": "https://github.com/dataelement/bisheng"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -292,7 +301,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 30577,
+    "stars": 30578,
     "updated_at": "2026-10-16T00:55:33Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -418,7 +427,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26025,
+    "stars": 26028,
     "updated_at": "2026-10-15T23:25:12Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -439,14 +448,5 @@
     "stars": 819,
     "updated_at": "2026-10-16T00:06:46Z",
     "url": "https://github.com/iblai/os"
-  },
-  {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
-    "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 1,
-    "updated_at": "2026-10-15T23:09:14Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
   }
 ]
