@@ -1,5 +1,32 @@
 [
   {
+    "description": "Painel para operar agentes de IA em produ\u00e7\u00e3o: prompt versionado com rollback, troca de modelo sem reescrever instru\u00e7\u00f5es ",
+    "id": "WellCod/automata",
+    "language": "Python",
+    "name": "WellCod/automata",
+    "stars": 1,
+    "updated_at": "2026-10-16T18:01:38Z",
+    "url": "https://github.com/WellCod/automata"
+  },
+  {
+    "description": "Every model call through one library: raw-HTTP provider adapters, a cost ledger row and an OpenTelemetry span per call, ",
+    "id": "Peter-A-P/compliant-ai-gateway",
+    "language": "Python",
+    "name": "Peter-A-P/compliant-ai-gateway",
+    "stars": 0,
+    "updated_at": "2026-10-16T18:01:14Z",
+    "url": "https://github.com/Peter-A-P/compliant-ai-gateway"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-16T18:00:47Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Replayable OpenCSG model/price snapshot: curl /v1/models with no key, plus self-verifying checks",
     "id": "happy520ai/opencsg-model-pricing",
     "language": "HTML",
@@ -23,7 +50,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61394,
-    "updated_at": "2026-10-16T18:00:22Z",
+    "updated_at": "2026-10-16T18:01:40Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -70,15 +97,6 @@
     "stars": 4,
     "updated_at": "2026-10-16T17:49:00Z",
     "url": "https://github.com/cosmonomic/pulsarlm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-16T17:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
@@ -176,7 +194,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 26062,
-    "updated_at": "2026-10-16T17:34:23Z",
+    "updated_at": "2026-10-16T18:00:44Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -259,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-10-16T17:19:20Z",
     "url": "https://github.com/optiware-ai/optimux"
-  },
-  {
-    "description": "Painel para operar agentes de IA em produ\u00e7\u00e3o: prompt versionado com rollback, troca de modelo sem reescrever instru\u00e7\u00f5es ",
-    "id": "WellCod/automata",
-    "language": "Python",
-    "name": "WellCod/automata",
-    "stars": 1,
-    "updated_at": "2026-10-16T17:58:08Z",
-    "url": "https://github.com/WellCod/automata"
   },
   {
     "description": "Production-style multilingual RAG with tenant-safe retrieval, evidence provenance, deterministic validation, observabili",
@@ -439,14 +448,5 @@
     "stars": 144,
     "updated_at": "2026-10-16T16:02:39Z",
     "url": "https://github.com/ZIZKA-AI-SL/ZizkaDB"
-  },
-  {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1266,
-    "updated_at": "2026-10-16T16:03:51Z",
-    "url": "https://github.com/Arize-ai/openinference"
   }
 ]
