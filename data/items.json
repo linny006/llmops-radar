@@ -1,5 +1,86 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61401,
+    "updated_at": "2026-10-16T23:00:09Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Does an OpenAI-compatible endpoint disclose model prices without an account or key? One unauthenticated GET, five verdic",
+    "id": "happy520ai/gateway-price-check",
+    "language": "JavaScript",
+    "name": "happy520ai/gateway-price-check",
+    "stars": 0,
+    "updated_at": "2026-10-16T22:59:16Z",
+    "url": "https://github.com/happy520ai/gateway-price-check"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8893,
+    "updated_at": "2026-10-16T22:58:22Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-10-16T22:55:06Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
+    "id": "hjongc/openrouter-endpoint-watch",
+    "language": "Python",
+    "name": "hjongc/openrouter-endpoint-watch",
+    "stars": 0,
+    "updated_at": "2026-10-16T22:53:02Z",
+    "url": "https://github.com/hjongc/openrouter-endpoint-watch"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-16T22:50:35Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Every model call through one library: raw-HTTP provider adapters, a cost ledger row and an OpenTelemetry span per call, ",
+    "id": "Peter-A-P/compliant-ai-gateway",
+    "language": "Python",
+    "name": "Peter-A-P/compliant-ai-gateway",
+    "stars": 0,
+    "updated_at": "2026-10-16T22:52:48Z",
+    "url": "https://github.com/Peter-A-P/compliant-ai-gateway"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-10-16T22:50:38Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-16T22:45:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Production-style multilingual RAG with tenant-safe retrieval, evidence provenance, deterministic validation, observabili",
     "id": "negativexq/knowledge-base-rag",
     "language": "Python",
@@ -7,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-10-16T22:43:16Z",
     "url": "https://github.com/negativexq/knowledge-base-rag"
-  },
-  {
-    "description": "Does an OpenAI-compatible endpoint disclose model prices without an account or key? One unauthenticated GET, three-tier ",
-    "id": "happy520ai/gateway-price-check",
-    "language": "JavaScript",
-    "name": "happy520ai/gateway-price-check",
-    "stars": 0,
-    "updated_at": "2026-10-16T22:38:54Z",
-    "url": "https://github.com/happy520ai/gateway-price-check"
   },
   {
     "description": "A control layer that decides how an LLM should speak before it speaks",
@@ -72,24 +144,6 @@
     "url": "https://github.com/yosnap/codeia-cost-guard"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-16T22:30:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61401,
-    "updated_at": "2026-10-16T22:42:37Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -124,15 +178,6 @@
     "stars": 32,
     "updated_at": "2026-10-16T22:21:04Z",
     "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-16T22:12:32Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Dify with Let's Encrypt Using Docker Compose",
@@ -203,17 +248,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 26070,
-    "updated_at": "2026-10-16T21:47:57Z",
+    "updated_at": "2026-10-16T22:57:08Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-10-16T22:43:13Z",
-    "url": "https://github.com/redevops-io/agentic-os"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -257,7 +293,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 193,
-    "updated_at": "2026-10-16T22:39:59Z",
+    "updated_at": "2026-10-16T22:51:03Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -284,7 +320,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4960,
-    "updated_at": "2026-10-16T22:44:26Z",
+    "updated_at": "2026-10-16T22:56:38Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -313,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-10-16T20:56:23Z",
     "url": "https://github.com/api-evangelist/zenml"
-  },
-  {
-    "description": "Every model call through one library: raw-HTTP provider adapters, a cost ledger row and an OpenTelemetry span per call, ",
-    "id": "Peter-A-P/compliant-ai-gateway",
-    "language": "Python",
-    "name": "Peter-A-P/compliant-ai-gateway",
-    "stars": 0,
-    "updated_at": "2026-10-16T20:45:26Z",
-    "url": "https://github.com/Peter-A-P/compliant-ai-gateway"
   },
   {
     "description": "No prompt or model change ships unless proven not to have regressed: calibrated judges, confidence intervals, CI gating,",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-16T20:23:10Z",
     "url": "https://github.com/Peter-A-P/model-selection-tenth-cost"
-  },
-  {
-    "description": "Opik \u2014 independent third-party profile of a public API surface, by API Evangelist. Opik is an open-source LLM evaluation",
-    "id": "api-evangelist/opik",
-    "language": "\u2014",
-    "name": "api-evangelist/opik",
-    "stars": 0,
-    "updated_at": "2026-10-16T20:22:56Z",
-    "url": "https://github.com/api-evangelist/opik"
-  },
-  {
-    "description": "Building reliable LLM Agents \u2014 Agent eval, evidence grounding, context engineering",
-    "id": "KBber/KBber",
-    "language": "\u2014",
-    "name": "KBber/KBber",
-    "stars": 0,
-    "updated_at": "2026-10-16T20:12:16Z",
-    "url": "https://github.com/KBber/KBber"
-  },
-  {
-    "description": "Log10 \u2014 independent third-party profile of a public API surface, by API Evangelist. Log10 is an LLMOps platform that pro",
-    "id": "api-evangelist/log10",
-    "language": "\u2014",
-    "name": "api-evangelist/log10",
-    "stars": 1,
-    "updated_at": "2026-10-16T20:11:13Z",
-    "url": "https://github.com/api-evangelist/log10"
   }
 ]
