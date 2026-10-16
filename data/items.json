@@ -1,21 +1,12 @@
 [
   {
-    "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
-    "id": "brutal-45/Nexus-LLM",
-    "language": "Python",
-    "name": "brutal-45/Nexus-LLM",
-    "stars": 0,
-    "updated_at": "2026-10-16T16:13:59Z",
-    "url": "https://github.com/brutal-45/Nexus-LLM"
-  },
-  {
-    "description": "Replayable OpenCSG model/price snapshot: curl /v1/models with no key, plus self-verifying checks",
-    "id": "happy520ai/opencsg-model-pricing",
-    "language": "HTML",
-    "name": "happy520ai/opencsg-model-pricing",
-    "stars": 0,
-    "updated_at": "2026-10-16T16:12:22Z",
-    "url": "https://github.com/happy520ai/opencsg-model-pricing"
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-16T16:30:05Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
@@ -23,17 +14,71 @@
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
     "stars": 9156,
-    "updated_at": "2026-10-16T16:12:12Z",
+    "updated_at": "2026-10-16T16:29:30Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
+    "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
+    "id": "brutal-45/Nexus-LLM",
     "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 536,
-    "updated_at": "2026-10-16T16:09:34Z",
-    "url": "https://github.com/mozilla-ai/otari"
+    "name": "brutal-45/Nexus-LLM",
+    "stars": 0,
+    "updated_at": "2026-10-16T16:29:03Z",
+    "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
+    "description": "Resource providers for pragma-os. Manage cloud infrastructure, AI agents, knowledge bases, pipelines, and workflows.",
+    "id": "pragmatiks/pragma-providers",
+    "language": "Python",
+    "name": "pragmatiks/pragma-providers",
+    "stars": 0,
+    "updated_at": "2026-10-16T16:28:41Z",
+    "url": "https://github.com/pragmatiks/pragma-providers"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22655,
+    "updated_at": "2026-10-16T16:27:22Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "LocalPilot is a Python application that helps nontechnical users discover, install, run, monitor, update and remove loca",
+    "id": "fakhruldeen/LocalPilot",
+    "language": "Python",
+    "name": "fakhruldeen/LocalPilot",
+    "stars": 1,
+    "updated_at": "2026-10-16T16:26:51Z",
+    "url": "https://github.com/fakhruldeen/LocalPilot"
+  },
+  {
+    "description": "A deterministic linter for agent runs \u2014 reads the execution trace and flags structural bugs (ignored errors, schema viol",
+    "id": "AshwinUgale/tracelint",
+    "language": "Python",
+    "name": "AshwinUgale/tracelint",
+    "stars": 11,
+    "updated_at": "2026-10-16T16:26:43Z",
+    "url": "https://github.com/AshwinUgale/tracelint"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 32,
+    "updated_at": "2026-10-16T16:22:52Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 31,
+    "updated_at": "2026-10-16T16:22:46Z",
+    "url": "https://github.com/byte5ai/omadia"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -41,8 +86,62 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61390,
-    "updated_at": "2026-10-16T16:14:57Z",
+    "updated_at": "2026-10-16T16:29:46Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Self-hosted coding assistant that routes each request to the cheapest model that can handle it",
+    "id": "optiware-ai/optimux",
+    "language": "Python",
+    "name": "optiware-ai/optimux",
+    "stars": 1,
+    "updated_at": "2026-10-16T16:21:34Z",
+    "url": "https://github.com/optiware-ai/optimux"
+  },
+  {
+    "description": "Replayable OpenCSG model/price snapshot: curl /v1/models with no key, plus self-verifying checks",
+    "id": "happy520ai/opencsg-model-pricing",
+    "language": "HTML",
+    "name": "happy520ai/opencsg-model-pricing",
+    "stars": 0,
+    "updated_at": "2026-10-16T16:20:31Z",
+    "url": "https://github.com/happy520ai/opencsg-model-pricing"
+  },
+  {
+    "description": "Open-source LLMOps platform with prompt management, an OpenAI-compatible AI gateway, OpenTelemetry tracing, a versioned ",
+    "id": "AcruxCore/AcruxCore",
+    "language": "TypeScript",
+    "name": "AcruxCore/AcruxCore",
+    "stars": 11,
+    "updated_at": "2026-10-16T16:19:04Z",
+    "url": "https://github.com/AcruxCore/AcruxCore"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26060,
+    "updated_at": "2026-10-16T16:22:03Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-16T16:15:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 537,
+    "updated_at": "2026-10-16T16:09:34Z",
+    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
@@ -54,15 +153,6 @@
     "url": "https://github.com/sauravbhattacharya001/prompt"
   },
   {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 31,
-    "updated_at": "2026-10-16T16:08:59Z",
-    "url": "https://github.com/byte5ai/omadia"
-  },
-  {
     "description": "Open Source software factory.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
@@ -70,15 +160,6 @@
     "stars": 9,
     "updated_at": "2026-10-16T16:04:25Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-16T16:04:01Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Enterprise Scale AIFactory (esml) - on Azure",
@@ -108,15 +189,6 @@
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26060,
-    "updated_at": "2026-10-16T16:13:09Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Azure API Management as a centralised AI Gateway for Microsoft Foundry and Azure OpenAI models, with per-application cos",
     "id": "muazuisah/azure-ai-gateway-cost-attribution",
     "language": "HCL",
@@ -126,31 +198,13 @@
     "url": "https://github.com/muazuisah/azure-ai-gateway-cost-attribution"
   },
   {
-    "description": "Open-source LLMOps platform with prompt management, an OpenAI-compatible AI gateway, OpenTelemetry tracing, a versioned ",
-    "id": "AcruxCore/AcruxCore",
-    "language": "TypeScript",
-    "name": "AcruxCore/AcruxCore",
-    "stars": 11,
-    "updated_at": "2026-10-16T16:00:52Z",
-    "url": "https://github.com/AcruxCore/AcruxCore"
-  },
-  {
     "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
     "id": "AixleHQ/flow",
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 23,
-    "updated_at": "2026-10-16T16:06:09Z",
+    "updated_at": "2026-10-16T16:19:27Z",
     "url": "https://github.com/AixleHQ/flow"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-16T16:00:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -160,15 +214,6 @@
     "stars": 11873,
     "updated_at": "2026-10-16T15:58:13Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 32,
-    "updated_at": "2026-10-16T15:55:05Z",
-    "url": "https://github.com/SourceShift/mini-ork"
   },
   {
     "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
@@ -185,7 +230,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 35921,
-    "updated_at": "2026-10-16T16:12:54Z",
+    "updated_at": "2026-10-16T16:28:44Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -279,21 +324,12 @@
     "url": "https://github.com/truera/trulens"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22655,
-    "updated_at": "2026-10-16T16:09:12Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
     "id": "lmnr-ai/lmnr",
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3394,
-    "updated_at": "2026-10-16T16:14:56Z",
+    "updated_at": "2026-10-16T16:26:07Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -369,15 +405,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "LocalPilot is a Python application that helps nontechnical users discover, install, run, monitor, update and remove loca",
-    "id": "fakhruldeen/LocalPilot",
-    "language": "\u2014",
-    "name": "fakhruldeen/LocalPilot",
-    "stars": 1,
-    "updated_at": "2026-10-16T15:10:05Z",
-    "url": "https://github.com/fakhruldeen/LocalPilot"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -410,17 +437,8 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28415,
-    "updated_at": "2026-10-16T15:55:28Z",
+    "updated_at": "2026-10-16T16:22:53Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "A deterministic linter for agent runs \u2014 reads the execution trace and flags structural bugs (ignored errors, schema viol",
-    "id": "AshwinUgale/tracelint",
-    "language": "Python",
-    "name": "AshwinUgale/tracelint",
-    "stars": 11,
-    "updated_at": "2026-10-16T15:03:00Z",
-    "url": "https://github.com/AshwinUgale/tracelint"
   },
   {
     "description": "Claude Code, Codex and Cursor plugin that streams your sessions to Rius as OpenTelemetry traces: prompts, model calls, t",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-16T14:58:07Z",
     "url": "https://github.com/glassflow/rius-coding-agents"
-  },
-  {
-    "description": "The platform for continuously improving AI agents.",
-    "id": "overmind-core/overmind",
-    "language": "Python",
-    "name": "overmind-core/overmind",
-    "stars": 661,
-    "updated_at": "2026-10-16T14:58:26Z",
-    "url": "https://github.com/overmind-core/overmind"
-  },
-  {
-    "description": "Resource providers for pragma-os. Manage cloud infrastructure, AI agents, knowledge bases, pipelines, and workflows.",
-    "id": "pragmatiks/pragma-providers",
-    "language": "Python",
-    "name": "pragmatiks/pragma-providers",
-    "stars": 0,
-    "updated_at": "2026-10-16T14:55:57Z",
-    "url": "https://github.com/pragmatiks/pragma-providers"
   }
 ]
