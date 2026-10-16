@@ -1,12 +1,75 @@
 [
   {
+    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
+    "id": "AixleHQ/flow",
+    "language": "Ruby",
+    "name": "AixleHQ/flow",
+    "stars": 23,
+    "updated_at": "2026-10-16T05:43:23Z",
+    "url": "https://github.com/AixleHQ/flow"
+  },
+  {
+    "description": "Continuous Evaluation Infrastructure for Production AI",
+    "id": "Red1-Rahman/NiriZan",
+    "language": "Jupyter Notebook",
+    "name": "Red1-Rahman/NiriZan",
+    "stars": 3,
+    "updated_at": "2026-10-16T05:41:50Z",
+    "url": "https://github.com/Red1-Rahman/NiriZan"
+  },
+  {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
     "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "language": "Go",
     "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "stars": 1,
-    "updated_at": "2026-10-16T05:28:41Z",
+    "updated_at": "2026-10-16T05:39:52Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
+  },
+  {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "Python",
+    "name": "dataelement/bisheng",
+    "stars": 12055,
+    "updated_at": "2026-10-16T05:38:29Z",
+    "url": "https://github.com/dataelement/bisheng"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61356,
+    "updated_at": "2026-10-16T05:35:46Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-16T05:39:40Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "AI Radar\uff1a\u5177\u5907\u8bc1\u636e\u94fe\u3001\u4eba\u5de5\u5ba1\u6838\u3001\u77e5\u8bc6\u56fe\u8c31\u4e0e\u53ef\u4fe1 RAG \u7684 AI \u6280\u672f\u60c5\u62a5\u5e73\u53f0",
+    "id": "xuerp/ai-knowledge-explorer",
+    "language": "Python",
+    "name": "xuerp/ai-knowledge-explorer",
+    "stars": 0,
+    "updated_at": "2026-10-16T05:30:34Z",
+    "url": "https://github.com/xuerp/ai-knowledge-explorer"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-16T05:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -16,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-10-16T05:27:01Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-16T05:26:26Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -41,17 +95,17 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 193,
-    "updated_at": "2026-10-16T05:17:41Z",
+    "updated_at": "2026-10-16T05:45:09Z",
     "url": "https://github.com/api7/aisix"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-16T05:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "mlflow/mlflow",
+    "stars": 28405,
+    "updated_at": "2026-10-16T05:13:44Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Drop-in LLM proxy that cuts input tokens 30\u201370% (54.1% measured, quality-gated) across 27 transparent optimisations \u2014 ca",
@@ -61,15 +115,6 @@
     "stars": 3,
     "updated_at": "2026-10-16T05:14:23Z",
     "url": "https://github.com/cbeyondcloud/TokenLean"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28404,
-    "updated_at": "2026-10-16T05:13:44Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
@@ -86,7 +131,7 @@
     "language": "Python",
     "name": "intel/enterprise-inference",
     "stars": 6,
-    "updated_at": "2026-10-16T05:17:37Z",
+    "updated_at": "2026-10-16T05:30:48Z",
     "url": "https://github.com/intel/enterprise-inference"
   },
   {
@@ -106,15 +151,6 @@
     "stars": 3,
     "updated_at": "2026-10-16T05:09:32Z",
     "url": "https://github.com/burakdede/lorepack"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61356,
-    "updated_at": "2026-10-16T05:24:35Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -230,7 +266,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 110,
-    "updated_at": "2026-10-16T05:16:12Z",
+    "updated_at": "2026-10-16T05:44:25Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -256,18 +292,18 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26031,
+    "stars": 26030,
     "updated_at": "2026-10-16T03:36:24Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
     "language": "Python",
-    "name": "dataelement/bisheng",
-    "stars": 12055,
-    "updated_at": "2026-10-16T04:26:59Z",
-    "url": "https://github.com/dataelement/bisheng"
+    "name": "Arize-ai/phoenix",
+    "stars": 11866,
+    "updated_at": "2026-10-16T03:24:27Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
@@ -279,21 +315,12 @@
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11865,
-    "updated_at": "2026-10-16T03:24:27Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
     "id": "future-agi/future-agi",
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 2156,
-    "updated_at": "2026-10-16T05:15:54Z",
+    "updated_at": "2026-10-16T05:38:08Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -311,7 +338,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8887,
-    "updated_at": "2026-10-16T05:29:49Z",
+    "updated_at": "2026-10-16T05:45:17Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 5,
     "updated_at": "2026-10-16T02:10:04Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod",
-    "id": "valteresj2/agent-hangar",
-    "language": "Python",
-    "name": "valteresj2/agent-hangar",
-    "stars": 3,
-    "updated_at": "2026-10-16T02:03:14Z",
-    "url": "https://github.com/valteresj2/agent-hangar"
-  },
-  {
-    "description": "Production-style multilingual RAG with tenant-safe retrieval, evidence provenance, deterministic validation, observabili",
-    "id": "negativexq/knowledge-base-rag",
-    "language": "Python",
-    "name": "negativexq/knowledge-base-rag",
-    "stars": 1,
-    "updated_at": "2026-10-16T01:57:12Z",
-    "url": "https://github.com/negativexq/knowledge-base-rag"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-16T02:06:16Z",
-    "url": "https://github.com/vocion/vocion-core"
   }
 ]
