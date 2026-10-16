@@ -1,11 +1,56 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61400,
+    "updated_at": "2026-10-16T21:05:33Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Replayable OpenCSG model/price snapshot: curl /v1/models with no key, plus self-verifying checks",
+    "id": "happy520ai/opencsg-model-pricing",
+    "language": "HTML",
+    "name": "happy520ai/opencsg-model-pricing",
+    "stars": 0,
+    "updated_at": "2026-10-16T21:03:23Z",
+    "url": "https://github.com/happy520ai/opencsg-model-pricing"
+  },
+  {
+    "description": "Model-agnostic Agent Skill: keep multiple hypotheses alive, test them against evidence, revive alternatives, collapse to",
+    "id": "Furox-Art/quantum-reasoning-skill",
+    "language": "Python",
+    "name": "Furox-Art/quantum-reasoning-skill",
+    "stars": 1,
+    "updated_at": "2026-10-16T21:01:00Z",
+    "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
+  },
+  {
+    "description": "LocalPilot is a Python application that helps nontechnical users discover, install, run, monitor, update and remove loca",
+    "id": "fakhruldeen/LocalPilot",
+    "language": "Python",
+    "name": "fakhruldeen/LocalPilot",
+    "stars": 1,
+    "updated_at": "2026-10-16T21:00:28Z",
+    "url": "https://github.com/fakhruldeen/LocalPilot"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-16T21:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Flight recorder & observability for AI agents: trace every model call, tool call, file edit and shell command live, with",
     "id": "abdullahimohamed101/agent-black-box",
     "language": "Python",
     "name": "abdullahimohamed101/agent-black-box",
     "stars": 0,
-    "updated_at": "2026-10-16T21:00:20Z",
+    "updated_at": "2026-10-16T21:01:22Z",
     "url": "https://github.com/abdullahimohamed101/agent-black-box"
   },
   {
@@ -23,7 +68,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4960,
-    "updated_at": "2026-10-16T20:59:55Z",
+    "updated_at": "2026-10-16T21:03:41Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -59,7 +104,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 110,
-    "updated_at": "2026-10-16T20:55:28Z",
+    "updated_at": "2026-10-16T21:04:05Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -77,17 +122,8 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-10-16T20:53:20Z",
+    "updated_at": "2026-10-16T21:03:22Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61400,
-    "updated_at": "2026-10-16T21:00:01Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Agentic Runtime",
@@ -153,15 +189,6 @@
     "url": "https://github.com/Peter-A-P/compliant-ai-gateway"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-16T20:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "No prompt or model change ships unless proven not to have regressed: calibrated judges, confidence intervals, CI gating,",
     "id": "Peter-A-P/ai-release-gate",
     "language": "Python",
@@ -187,15 +214,6 @@
     "stars": 53,
     "updated_at": "2026-10-16T20:43:54Z",
     "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
-  },
-  {
-    "description": "Replayable OpenCSG model/price snapshot: curl /v1/models with no key, plus self-verifying checks",
-    "id": "happy520ai/opencsg-model-pricing",
-    "language": "HTML",
-    "name": "happy520ai/opencsg-model-pricing",
-    "stars": 0,
-    "updated_at": "2026-10-16T20:43:13Z",
-    "url": "https://github.com/happy520ai/opencsg-model-pricing"
   },
   {
     "description": "Multi-agent LLM pipeline: 110,000 Spotify app reviews \u2192 grounded labels, a ranked issue list and a claim-checked product",
@@ -230,7 +248,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30595,
-    "updated_at": "2026-10-16T20:36:18Z",
+    "updated_at": "2026-10-16T21:02:57Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -409,7 +427,7 @@
     "id": "mozilla-ai/otari",
     "language": "Python",
     "name": "mozilla-ai/otari",
-    "stars": 558,
+    "stars": 559,
     "updated_at": "2026-10-16T19:44:06Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-16T19:39:53Z",
     "url": "https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus"
-  },
-  {
-    "description": "LocalPilot is a Python application that helps nontechnical users discover, install, run, monitor, update and remove loca",
-    "id": "fakhruldeen/LocalPilot",
-    "language": "Python",
-    "name": "fakhruldeen/LocalPilot",
-    "stars": 1,
-    "updated_at": "2026-10-16T19:38:52Z",
-    "url": "https://github.com/fakhruldeen/LocalPilot"
-  },
-  {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 5,
-    "updated_at": "2026-10-16T19:35:17Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
   }
 ]
