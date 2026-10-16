@@ -1,5 +1,167 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26061,
+    "updated_at": "2026-10-16T17:29:20Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35926,
+    "updated_at": "2026-10-16T17:29:42Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61393,
+    "updated_at": "2026-10-16T17:28:41Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-10-16T17:26:01Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "Open Source software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-10-16T17:25:56Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "LocalPilot is a Python application that helps nontechnical users discover, install, run, monitor, update and remove loca",
+    "id": "fakhruldeen/LocalPilot",
+    "language": "Python",
+    "name": "fakhruldeen/LocalPilot",
+    "stars": 1,
+    "updated_at": "2026-10-16T17:24:26Z",
+    "url": "https://github.com/fakhruldeen/LocalPilot"
+  },
+  {
+    "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
+    "id": "brutal-45/Nexus-LLM",
+    "language": "Python",
+    "name": "brutal-45/Nexus-LLM",
+    "stars": 0,
+    "updated_at": "2026-10-16T17:24:15Z",
+    "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 540,
+    "updated_at": "2026-10-16T17:21:41Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "MLOps system for daily gold price prediction \u2014 five competing models, automatic Data/Concept Drift detection, retraining",
+    "id": "vv0vv3r/ModelJoust",
+    "language": "Python",
+    "name": "vv0vv3r/ModelJoust",
+    "stars": 1,
+    "updated_at": "2026-10-16T17:21:24Z",
+    "url": "https://github.com/vv0vv3r/ModelJoust"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 9165,
+    "updated_at": "2026-10-16T17:21:09Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Keras based framework for neuro-symbolic LM systems",
+    "id": "SynaLinks/synalinks",
+    "language": "Python",
+    "name": "SynaLinks/synalinks",
+    "stars": 464,
+    "updated_at": "2026-10-16T17:21:34Z",
+    "url": "https://github.com/SynaLinks/synalinks"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-16T17:20:10Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Flight recorder & observability for AI agents: trace every model call, tool call, file edit and shell command live, with",
+    "id": "abdullahimohamed101/agent-black-box",
+    "language": "Python",
+    "name": "abdullahimohamed101/agent-black-box",
+    "stars": 0,
+    "updated_at": "2026-10-16T17:19:42Z",
+    "url": "https://github.com/abdullahimohamed101/agent-black-box"
+  },
+  {
+    "description": "Self-hosted coding assistant that routes each request to the cheapest model that can handle it",
+    "id": "optiware-ai/optimux",
+    "language": "Python",
+    "name": "optiware-ai/optimux",
+    "stars": 1,
+    "updated_at": "2026-10-16T17:19:20Z",
+    "url": "https://github.com/optiware-ai/optimux"
+  },
+  {
+    "description": "Painel para operar agentes de IA em produ\u00e7\u00e3o: prompt versionado com rollback, troca de modelo sem reescrever instru\u00e7\u00f5es ",
+    "id": "WellCod/automata",
+    "language": "Python",
+    "name": "WellCod/automata",
+    "stars": 1,
+    "updated_at": "2026-10-16T17:24:30Z",
+    "url": "https://github.com/WellCod/automata"
+  },
+  {
+    "description": "Production-style multilingual RAG with tenant-safe retrieval, evidence provenance, deterministic validation, observabili",
+    "id": "negativexq/knowledge-base-rag",
+    "language": "Python",
+    "name": "negativexq/knowledge-base-rag",
+    "stars": 1,
+    "updated_at": "2026-10-16T17:18:36Z",
+    "url": "https://github.com/negativexq/knowledge-base-rag"
+  },
+  {
+    "description": "Replayable OpenCSG model/price snapshot: curl /v1/models with no key, plus self-verifying checks",
+    "id": "happy520ai/opencsg-model-pricing",
+    "language": "HTML",
+    "name": "happy520ai/opencsg-model-pricing",
+    "stars": 0,
+    "updated_at": "2026-10-16T17:18:25Z",
+    "url": "https://github.com/happy520ai/opencsg-model-pricing"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-16T17:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -16,60 +178,6 @@
     "stars": 0,
     "updated_at": "2026-10-16T17:14:45Z",
     "url": "https://github.com/happy520ai/gateway-price-check"
-  },
-  {
-    "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
-    "id": "brutal-45/Nexus-LLM",
-    "language": "Python",
-    "name": "brutal-45/Nexus-LLM",
-    "stars": 0,
-    "updated_at": "2026-10-16T17:14:13Z",
-    "url": "https://github.com/brutal-45/Nexus-LLM"
-  },
-  {
-    "description": "Replayable OpenCSG model/price snapshot: curl /v1/models with no key, plus self-verifying checks",
-    "id": "happy520ai/opencsg-model-pricing",
-    "language": "HTML",
-    "name": "happy520ai/opencsg-model-pricing",
-    "stars": 0,
-    "updated_at": "2026-10-16T17:14:10Z",
-    "url": "https://github.com/happy520ai/opencsg-model-pricing"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 9163,
-    "updated_at": "2026-10-16T17:14:09Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Production-style multilingual RAG with tenant-safe retrieval, evidence provenance, deterministic validation, observabili",
-    "id": "negativexq/knowledge-base-rag",
-    "language": "Python",
-    "name": "negativexq/knowledge-base-rag",
-    "stars": 1,
-    "updated_at": "2026-10-16T17:14:08Z",
-    "url": "https://github.com/negativexq/knowledge-base-rag"
-  },
-  {
-    "description": "Painel para operar agentes de IA em produ\u00e7\u00e3o: prompt versionado com rollback, troca de modelo sem reescrever instru\u00e7\u00f5es ",
-    "id": "WellCod/automata",
-    "language": "Python",
-    "name": "WellCod/automata",
-    "stars": 1,
-    "updated_at": "2026-10-16T17:13:43Z",
-    "url": "https://github.com/WellCod/automata"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35925,
-    "updated_at": "2026-10-16T17:13:14Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "An LLM inference engine for persistent chat bots and agents. It allows models to forget old and unimportant tokens to ke",
@@ -99,39 +207,12 @@
     "url": "https://github.com/intel/enterprise-ai-solutions"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61393,
-    "updated_at": "2026-10-16T17:14:29Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-16T17:06:58Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Open Source software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-10-16T17:05:02Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
     "id": "veerarakesh56/warden",
     "language": "Python",
     "name": "veerarakesh56/warden",
     "stars": 0,
-    "updated_at": "2026-10-16T17:14:33Z",
+    "updated_at": "2026-10-16T17:26:39Z",
     "url": "https://github.com/veerarakesh56/warden"
   },
   {
@@ -144,15 +225,6 @@
     "url": "https://github.com/AixleHQ/flow"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-16T17:00:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Production Open-Weights AI Agent built with Google Gemma 3, Agent Development Kit (ADK), Cloud Run Serverless GPUs (vLLM",
     "id": "RobinaMirbahar/cloudguard-gemma-agent",
     "language": "Python",
@@ -160,24 +232,6 @@
     "stars": 0,
     "updated_at": "2026-10-16T16:57:34Z",
     "url": "https://github.com/RobinaMirbahar/cloudguard-gemma-agent"
-  },
-  {
-    "description": "LocalPilot is a Python application that helps nontechnical users discover, install, run, monitor, update and remove loca",
-    "id": "fakhruldeen/LocalPilot",
-    "language": "Python",
-    "name": "fakhruldeen/LocalPilot",
-    "stars": 1,
-    "updated_at": "2026-10-16T16:57:27Z",
-    "url": "https://github.com/fakhruldeen/LocalPilot"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 539,
-    "updated_at": "2026-10-16T17:09:18Z",
-    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -189,21 +243,12 @@
     "url": "https://github.com/vivek-541/vivek-541"
   },
   {
-    "description": "Self-hosted coding assistant that routes each request to the cheapest model that can handle it",
-    "id": "optiware-ai/optimux",
-    "language": "Python",
-    "name": "optiware-ai/optimux",
-    "stars": 1,
-    "updated_at": "2026-10-16T16:49:21Z",
-    "url": "https://github.com/optiware-ai/optimux"
-  },
-  {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
     "id": "cloudrift-ai/emmy",
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 110,
-    "updated_at": "2026-10-16T16:45:45Z",
+    "updated_at": "2026-10-16T17:28:11Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -232,24 +277,6 @@
     "stars": 0,
     "updated_at": "2026-10-16T16:42:57Z",
     "url": "https://github.com/hjongc/openrouter-endpoint-watch"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26061,
-    "updated_at": "2026-10-16T16:42:25Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Flight recorder & observability for AI agents: trace every model call, tool call, file edit and shell command live, with",
-    "id": "abdullahimohamed101/agent-black-box",
-    "language": "Python",
-    "name": "abdullahimohamed101/agent-black-box",
-    "stars": 0,
-    "updated_at": "2026-10-16T16:59:06Z",
-    "url": "https://github.com/abdullahimohamed101/agent-black-box"
   },
   {
     "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
@@ -355,7 +382,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11874,
+    "stars": 11875,
     "updated_at": "2026-10-16T15:58:13Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -421,32 +448,5 @@
     "stars": 6,
     "updated_at": "2026-10-16T15:47:55Z",
     "url": "https://github.com/intel/enterprise-inference"
-  },
-  {
-    "description": "Regression testing and evals for LLM applications in CI. A pytest plugin and an MCP server, with the baseline in your re",
-    "id": "digline/digline",
-    "language": "Python",
-    "name": "digline/digline",
-    "stars": 8,
-    "updated_at": "2026-10-16T15:33:33Z",
-    "url": "https://github.com/digline/digline"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3602,
-    "updated_at": "2026-10-16T16:01:44Z",
-    "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
-    "id": "lmnr-ai/lmnr",
-    "language": "TypeScript",
-    "name": "lmnr-ai/lmnr",
-    "stars": 3394,
-    "updated_at": "2026-10-16T16:57:51Z",
-    "url": "https://github.com/lmnr-ai/lmnr"
   }
 ]
