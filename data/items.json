@@ -1,21 +1,21 @@
 [
   {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 31,
+    "updated_at": "2026-10-16T16:45:17Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 41,
-    "updated_at": "2026-10-16T16:30:05Z",
+    "updated_at": "2026-10-16T16:44:30Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 9156,
-    "updated_at": "2026-10-16T16:29:30Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
@@ -23,8 +23,125 @@
     "language": "Python",
     "name": "brutal-45/Nexus-LLM",
     "stars": 0,
-    "updated_at": "2026-10-16T16:29:03Z",
+    "updated_at": "2026-10-16T16:44:06Z",
     "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
+    "description": "Azure API Management as a centralised AI Gateway for Microsoft Foundry and Azure OpenAI models, with per-application cos",
+    "id": "muazuisah/azure-ai-gateway-cost-attribution",
+    "language": "HCL",
+    "name": "muazuisah/azure-ai-gateway-cost-attribution",
+    "stars": 0,
+    "updated_at": "2026-10-16T16:43:59Z",
+    "url": "https://github.com/muazuisah/azure-ai-gateway-cost-attribution"
+  },
+  {
+    "description": "Replayable OpenCSG model/price snapshot: curl /v1/models with no key, plus self-verifying checks",
+    "id": "happy520ai/opencsg-model-pricing",
+    "language": "HTML",
+    "name": "happy520ai/opencsg-model-pricing",
+    "stars": 0,
+    "updated_at": "2026-10-16T16:43:09Z",
+    "url": "https://github.com/happy520ai/opencsg-model-pricing"
+  },
+  {
+    "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
+    "id": "hjongc/openrouter-endpoint-watch",
+    "language": "Python",
+    "name": "hjongc/openrouter-endpoint-watch",
+    "stars": 0,
+    "updated_at": "2026-10-16T16:42:57Z",
+    "url": "https://github.com/hjongc/openrouter-endpoint-watch"
+  },
+  {
+    "description": "LocalPilot is a Python application that helps nontechnical users discover, install, run, monitor, update and remove loca",
+    "id": "fakhruldeen/LocalPilot",
+    "language": "Python",
+    "name": "fakhruldeen/LocalPilot",
+    "stars": 1,
+    "updated_at": "2026-10-16T16:40:20Z",
+    "url": "https://github.com/fakhruldeen/LocalPilot"
+  },
+  {
+    "description": "Flight recorder & observability for AI agents: trace every model call, tool call, file edit and shell command live, with",
+    "id": "abdullahimohamed101/agent-black-box",
+    "language": "Python",
+    "name": "abdullahimohamed101/agent-black-box",
+    "stars": 0,
+    "updated_at": "2026-10-16T16:42:40Z",
+    "url": "https://github.com/abdullahimohamed101/agent-black-box"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61392,
+    "updated_at": "2026-10-16T16:43:52Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Production-style multilingual RAG with tenant-safe retrieval, evidence provenance, deterministic validation, observabili",
+    "id": "negativexq/knowledge-base-rag",
+    "language": "Python",
+    "name": "negativexq/knowledge-base-rag",
+    "stars": 1,
+    "updated_at": "2026-10-16T16:39:05Z",
+    "url": "https://github.com/negativexq/knowledge-base-rag"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 538,
+    "updated_at": "2026-10-16T16:37:08Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Python",
+    "name": "alibaba/rtp-llm",
+    "stars": 1362,
+    "updated_at": "2026-10-16T16:37:07Z",
+    "url": "https://github.com/alibaba/rtp-llm"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22656,
+    "updated_at": "2026-10-16T16:33:09Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
+    "id": "burakdede/lorepack",
+    "language": "TypeScript",
+    "name": "burakdede/lorepack",
+    "stars": 3,
+    "updated_at": "2026-10-16T16:31:52Z",
+    "url": "https://github.com/burakdede/lorepack"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-16T16:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 9158,
+    "updated_at": "2026-10-16T16:29:30Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "Resource providers for pragma-os. Manage cloud infrastructure, AI agents, knowledge bases, pipelines, and workflows.",
@@ -34,24 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-16T16:28:41Z",
     "url": "https://github.com/pragmatiks/pragma-providers"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22655,
-    "updated_at": "2026-10-16T16:27:22Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "LocalPilot is a Python application that helps nontechnical users discover, install, run, monitor, update and remove loca",
-    "id": "fakhruldeen/LocalPilot",
-    "language": "Python",
-    "name": "fakhruldeen/LocalPilot",
-    "stars": 1,
-    "updated_at": "2026-10-16T16:26:51Z",
-    "url": "https://github.com/fakhruldeen/LocalPilot"
   },
   {
     "description": "A deterministic linter for agent runs \u2014 reads the execution trace and flags structural bugs (ignored errors, schema viol",
@@ -72,24 +171,6 @@
     "url": "https://github.com/SourceShift/mini-ork"
   },
   {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 31,
-    "updated_at": "2026-10-16T16:22:46Z",
-    "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61390,
-    "updated_at": "2026-10-16T16:29:46Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Self-hosted coding assistant that routes each request to the cheapest model that can handle it",
     "id": "optiware-ai/optimux",
     "language": "Python",
@@ -97,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-10-16T16:21:34Z",
     "url": "https://github.com/optiware-ai/optimux"
-  },
-  {
-    "description": "Replayable OpenCSG model/price snapshot: curl /v1/models with no key, plus self-verifying checks",
-    "id": "happy520ai/opencsg-model-pricing",
-    "language": "HTML",
-    "name": "happy520ai/opencsg-model-pricing",
-    "stars": 0,
-    "updated_at": "2026-10-16T16:20:31Z",
-    "url": "https://github.com/happy520ai/opencsg-model-pricing"
   },
   {
     "description": "Open-source LLMOps platform with prompt management, an OpenAI-compatible AI gateway, OpenTelemetry tracing, a versioned ",
@@ -122,26 +194,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 26060,
-    "updated_at": "2026-10-16T16:22:03Z",
+    "updated_at": "2026-10-16T16:42:25Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-16T16:15:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 537,
-    "updated_at": "2026-10-16T16:09:34Z",
-    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
@@ -158,7 +212,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-10-16T16:04:25Z",
+    "updated_at": "2026-10-16T16:40:35Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -189,21 +243,12 @@
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
-    "description": "Azure API Management as a centralised AI Gateway for Microsoft Foundry and Azure OpenAI models, with per-application cos",
-    "id": "muazuisah/azure-ai-gateway-cost-attribution",
-    "language": "HCL",
-    "name": "muazuisah/azure-ai-gateway-cost-attribution",
-    "stars": 0,
-    "updated_at": "2026-10-16T16:01:39Z",
-    "url": "https://github.com/muazuisah/azure-ai-gateway-cost-attribution"
-  },
-  {
     "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
     "id": "AixleHQ/flow",
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 23,
-    "updated_at": "2026-10-16T16:19:27Z",
+    "updated_at": "2026-10-16T16:32:19Z",
     "url": "https://github.com/AixleHQ/flow"
   },
   {
@@ -230,7 +275,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 35921,
-    "updated_at": "2026-10-16T16:28:44Z",
+    "updated_at": "2026-10-16T16:30:54Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -279,15 +324,6 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "Production-style multilingual RAG with tenant-safe retrieval, evidence provenance, deterministic validation, observabili",
-    "id": "negativexq/knowledge-base-rag",
-    "language": "Python",
-    "name": "negativexq/knowledge-base-rag",
-    "stars": 1,
-    "updated_at": "2026-10-16T15:36:28Z",
-    "url": "https://github.com/negativexq/knowledge-base-rag"
-  },
-  {
     "description": "Enterprise-grade, high-performance LLM serving on Kubernetes. OpenAI-compatible inference powered by vLLM and OpenVINO\u2122 ",
     "id": "intel/enterprise-inference",
     "language": "Python",
@@ -329,7 +365,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3394,
-    "updated_at": "2026-10-16T16:26:07Z",
+    "updated_at": "2026-10-16T16:42:48Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -387,15 +423,6 @@
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
   },
   {
-    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
-    "id": "burakdede/lorepack",
-    "language": "TypeScript",
-    "name": "burakdede/lorepack",
-    "stars": 3,
-    "updated_at": "2026-10-16T15:31:41Z",
-    "url": "https://github.com/burakdede/lorepack"
-  },
-  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-16T15:09:05Z",
     "url": "https://github.com/zyvorai/verixa"
-  },
-  {
-    "description": "AgentFox: open-source control plane for AI agents. Guardrails on model traffic, tool calls bounded by capability grants,",
-    "id": "architsharm/agentfox",
-    "language": "Python",
-    "name": "architsharm/agentfox",
-    "stars": 3,
-    "updated_at": "2026-10-16T15:07:22Z",
-    "url": "https://github.com/architsharm/agentfox"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28415,
-    "updated_at": "2026-10-16T16:22:53Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Claude Code, Codex and Cursor plugin that streams your sessions to Rius as OpenTelemetry traces: prompts, model calls, t",
-    "id": "glassflow/rius-coding-agents",
-    "language": "Python",
-    "name": "glassflow/rius-coding-agents",
-    "stars": 2,
-    "updated_at": "2026-10-16T14:58:07Z",
-    "url": "https://github.com/glassflow/rius-coding-agents"
   }
 ]
