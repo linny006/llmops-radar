@@ -1,5 +1,86 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61336,
+    "updated_at": "2026-10-15T23:59:54Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open-source LLM observability and drift detection for AI apps",
+    "id": "cognifityai/verdict",
+    "language": "Python",
+    "name": "cognifityai/verdict",
+    "stars": 0,
+    "updated_at": "2026-10-15T23:54:41Z",
+    "url": "https://github.com/cognifityai/verdict"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-10-15T23:58:40Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
+    "id": "burakdede/lorepack",
+    "language": "TypeScript",
+    "name": "burakdede/lorepack",
+    "stars": 3,
+    "updated_at": "2026-10-15T23:52:10Z",
+    "url": "https://github.com/burakdede/lorepack"
+  },
+  {
+    "description": "Mide y frena el gasto de tokens de tu flota de agentes (Claude Code, Codex, OpenCode): panel, app de barra de menus y re",
+    "id": "yosnap/codeia-cost-guard",
+    "language": "Python",
+    "name": "yosnap/codeia-cost-guard",
+    "stars": 4,
+    "updated_at": "2026-10-15T23:50:38Z",
+    "url": "https://github.com/yosnap/codeia-cost-guard"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-15T23:56:16Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Open Source software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-10-15T23:49:34Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28400,
+    "updated_at": "2026-10-15T23:47:53Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-15T23:45:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
     "id": "llmsyscore/llm-systems-manager",
     "language": "Python",
@@ -14,8 +95,17 @@
     "language": "Python",
     "name": "Raviteja2k2k/Raviteja2k2k",
     "stars": 0,
-    "updated_at": "2026-10-15T23:41:12Z",
+    "updated_at": "2026-10-15T23:46:22Z",
     "url": "https://github.com/Raviteja2k2k/Raviteja2k2k"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22633,
+    "updated_at": "2026-10-15T23:51:42Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod",
@@ -27,30 +117,12 @@
     "url": "https://github.com/valteresj2/agent-hangar"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-15T23:44:31Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61335,
-    "updated_at": "2026-10-15T23:43:52Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O",
     "id": "kelvran/gateway",
     "language": "Go",
     "name": "kelvran/gateway",
     "stars": 0,
-    "updated_at": "2026-10-15T23:37:53Z",
+    "updated_at": "2026-10-15T23:47:43Z",
     "url": "https://github.com/kelvran/gateway"
   },
   {
@@ -77,7 +149,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30572,
-    "updated_at": "2026-10-15T23:35:41Z",
+    "updated_at": "2026-10-15T23:50:45Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -88,24 +160,6 @@
     "stars": 4,
     "updated_at": "2026-10-15T23:31:57Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Open Source software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-10-15T23:31:51Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-15T23:30:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source, 100% serverless AI-workflow orchestration on AWS Step Functions + Lambda \u2014 build, version & time-travel-deb",
@@ -133,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-10-15T23:23:02Z",
     "url": "https://github.com/amk9978/litellm-brownout"
-  },
-  {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-10-15T23:40:14Z",
-    "url": "https://github.com/redevops-io/agentic-os"
   },
   {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
@@ -189,15 +234,6 @@
     "url": "https://github.com/vocion/vocion-core"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22632,
-    "updated_at": "2026-10-15T23:40:40Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "If the agent bill went up and nothing errored, a prompt cache broke. Replay Doctor names the turn it broke on, the cause",
     "id": "RedRobotKK/Replay",
     "language": "Go",
@@ -232,15 +268,6 @@
     "stars": 11859,
     "updated_at": "2026-10-15T22:26:51Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
-    "id": "burakdede/lorepack",
-    "language": "TypeScript",
-    "name": "burakdede/lorepack",
-    "stars": 3,
-    "updated_at": "2026-10-15T23:33:17Z",
-    "url": "https://github.com/burakdede/lorepack"
   },
   {
     "description": "Production-style multilingual RAG with tenant-safe retrieval, evidence provenance, deterministic validation, observabili",
@@ -324,21 +351,12 @@
     "url": "https://github.com/vivek-541/vivek-541"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28400,
-    "updated_at": "2026-10-15T23:44:31Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8886,
-    "updated_at": "2026-10-15T23:25:44Z",
+    "updated_at": "2026-10-15T23:56:14Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-15T21:32:09Z",
     "url": "https://github.com/WellCod/automata"
-  },
-  {
-    "description": "The missing manual for shipping AI agents you can trust. Evals, guardrails and observability for LLM agents and RAG, wit",
-    "id": "Sarangk90/awesome-agent-evals-and-guardrails",
-    "language": "JavaScript",
-    "name": "Sarangk90/awesome-agent-evals-and-guardrails",
-    "stars": 2,
-    "updated_at": "2026-10-15T20:18:09Z",
-    "url": "https://github.com/Sarangk90/awesome-agent-evals-and-guardrails"
-  },
-  {
-    "description": "Human-supervised fleets of AI coding agents \u2014 coordination is infrastructure, not agency.",
-    "id": "kitporath/hirdforge",
-    "language": "Go",
-    "name": "kitporath/hirdforge",
-    "stars": 0,
-    "updated_at": "2026-10-15T20:16:59Z",
-    "url": "https://github.com/kitporath/hirdforge"
   }
 ]
