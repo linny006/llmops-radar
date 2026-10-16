@@ -1,11 +1,65 @@
 [
   {
+    "description": "A decision library for running local LLMs on multi-GPU machines without NVLink: parallelism, communication, quantization",
+    "id": "Lowaltitudeflight/local-llm-tuning-guide",
+    "language": "HTML",
+    "name": "Lowaltitudeflight/local-llm-tuning-guide",
+    "stars": 0,
+    "updated_at": "2026-10-16T02:58:52Z",
+    "url": "https://github.com/Lowaltitudeflight/local-llm-tuning-guide"
+  },
+  {
+    "description": "Self-hosted LLM systems: inference benchmarking, multi-GPU tuning decisions, and private-deployment delivery.",
+    "id": "Lowaltitudeflight/Lowaltitudeflight",
+    "language": "\u2014",
+    "name": "Lowaltitudeflight/Lowaltitudeflight",
+    "stars": 0,
+    "updated_at": "2026-10-16T02:55:55Z",
+    "url": "https://github.com/Lowaltitudeflight/Lowaltitudeflight"
+  },
+  {
+    "description": "Hands-on handbook for delivering private LLM deployments: environment survey, VRAM estimation with worked examples, vLLM",
+    "id": "Lowaltitudeflight/llm-private-deploy-handbook",
+    "language": "Python",
+    "name": "Lowaltitudeflight/llm-private-deploy-handbook",
+    "stars": 0,
+    "updated_at": "2026-10-16T02:54:49Z",
+    "url": "https://github.com/Lowaltitudeflight/llm-private-deploy-handbook"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61347,
+    "updated_at": "2026-10-16T03:00:21Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-16T02:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35883,
+    "updated_at": "2026-10-16T02:42:09Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "Python",
     "name": "vllm-project/vllm-ascend",
     "stars": 2992,
-    "updated_at": "2026-10-16T02:40:33Z",
+    "updated_at": "2026-10-16T02:52:34Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -16,24 +70,6 @@
     "stars": 124,
     "updated_at": "2026-10-16T02:35:17Z",
     "url": "https://github.com/OrlojHQ/orloj"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61347,
-    "updated_at": "2026-10-16T02:44:52Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-16T02:30:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Tamper-evident, stranger-verifiable receipts for LLM cost-savings \u2014 anyone can recompute your caching/routing savings ma",
@@ -77,7 +113,7 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 41,
-    "updated_at": "2026-10-16T02:23:47Z",
+    "updated_at": "2026-10-16T02:58:07Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -86,7 +122,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1362,
-    "updated_at": "2026-10-16T02:37:27Z",
+    "updated_at": "2026-10-16T03:00:07Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -167,7 +203,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28403,
-    "updated_at": "2026-10-16T02:27:47Z",
+    "updated_at": "2026-10-16T02:57:36Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -221,7 +257,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8886,
-    "updated_at": "2026-10-16T02:34:15Z",
+    "updated_at": "2026-10-16T02:57:45Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -230,7 +266,7 @@
     "language": "Python",
     "name": "overmind-core/overmind",
     "stars": 660,
-    "updated_at": "2026-10-16T02:37:16Z",
+    "updated_at": "2026-10-16T02:51:34Z",
     "url": "https://github.com/overmind-core/overmind"
   },
   {
@@ -293,7 +329,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22638,
-    "updated_at": "2026-10-16T01:03:43Z",
+    "updated_at": "2026-10-16T02:46:43Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -301,7 +337,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 30578,
+    "stars": 30579,
     "updated_at": "2026-10-16T00:55:33Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -412,41 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-15T23:31:57Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Open-source, 100% serverless AI-workflow orchestration on AWS Step Functions + Lambda \u2014 build, version & time-travel-deb",
-    "id": "ALLMA-dev/allma-core",
-    "language": "TypeScript",
-    "name": "ALLMA-dev/allma-core",
-    "stars": 2,
-    "updated_at": "2026-10-15T23:27:07Z",
-    "url": "https://github.com/ALLMA-dev/allma-core"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26028,
-    "updated_at": "2026-10-15T23:25:12Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "LiteLLM plugin that downgrades selected routes to cheaper models as a team's budget runs out",
-    "id": "amk9978/litellm-brownout",
-    "language": "Python",
-    "name": "amk9978/litellm-brownout",
-    "stars": 0,
-    "updated_at": "2026-10-15T23:23:02Z",
-    "url": "https://github.com/amk9978/litellm-brownout"
-  },
-  {
-    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
-    "id": "iblai/os",
-    "language": "TypeScript",
-    "name": "iblai/os",
-    "stars": 819,
-    "updated_at": "2026-10-16T00:06:46Z",
-    "url": "https://github.com/iblai/os"
   }
 ]
