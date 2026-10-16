@@ -1,11 +1,74 @@
 [
   {
+    "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
+    "id": "brutal-45/Nexus-LLM",
+    "language": "Python",
+    "name": "brutal-45/Nexus-LLM",
+    "stars": 0,
+    "updated_at": "2026-10-16T15:58:55Z",
+    "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
+    "description": "Replayable OpenCSG model/price snapshot: curl /v1/models with no key, plus self-verifying checks",
+    "id": "happy520ai/opencsg-model-pricing",
+    "language": "HTML",
+    "name": "happy520ai/opencsg-model-pricing",
+    "stars": 0,
+    "updated_at": "2026-10-16T15:56:50Z",
+    "url": "https://github.com/happy520ai/opencsg-model-pricing"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 9155,
+    "updated_at": "2026-10-16T15:56:36Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 32,
+    "updated_at": "2026-10-16T15:55:05Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-10-16T15:54:39Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61388,
+    "updated_at": "2026-10-16T15:58:14Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-16T15:45:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 35920,
-    "updated_at": "2026-10-16T15:44:07Z",
+    "stars": 35921,
+    "updated_at": "2026-10-16T15:59:05Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -16,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-10-16T15:45:00Z",
     "url": "https://github.com/kelvran/gateway"
-  },
-  {
-    "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
-    "id": "brutal-45/Nexus-LLM",
-    "language": "Python",
-    "name": "brutal-45/Nexus-LLM",
-    "stars": 0,
-    "updated_at": "2026-10-16T15:43:51Z",
-    "url": "https://github.com/brutal-45/Nexus-LLM"
   },
   {
     "description": "Building reliable LLM Agents \u2014 Agent eval, evidence grounding, context engineering",
@@ -45,39 +99,12 @@
     "url": "https://github.com/francordel/myrtia"
   },
   {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-10-16T15:43:33Z",
-    "url": "https://github.com/redevops-io/agentic-os"
-  },
-  {
-    "description": "Replayable OpenCSG model/price snapshot: curl /v1/models with no key, plus self-verifying checks",
-    "id": "happy520ai/opencsg-model-pricing",
-    "language": "HTML",
-    "name": "happy520ai/opencsg-model-pricing",
-    "stars": 0,
-    "updated_at": "2026-10-16T15:41:39Z",
-    "url": "https://github.com/happy520ai/opencsg-model-pricing"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61387,
-    "updated_at": "2026-10-16T15:45:15Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
     "id": "rknightion/genai-otel-bridge",
     "language": "Go",
     "name": "rknightion/genai-otel-bridge",
     "stars": 1,
-    "updated_at": "2026-10-16T15:42:51Z",
+    "updated_at": "2026-10-16T15:47:27Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
@@ -113,7 +140,7 @@
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 23,
-    "updated_at": "2026-10-16T15:41:45Z",
+    "updated_at": "2026-10-16T15:53:01Z",
     "url": "https://github.com/AixleHQ/flow"
   },
   {
@@ -122,7 +149,7 @@
     "language": "Python",
     "name": "intel/enterprise-inference",
     "stars": 6,
-    "updated_at": "2026-10-16T15:35:19Z",
+    "updated_at": "2026-10-16T15:47:55Z",
     "url": "https://github.com/intel/enterprise-inference"
   },
   {
@@ -149,17 +176,8 @@
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3602,
-    "updated_at": "2026-10-16T15:32:26Z",
+    "updated_at": "2026-10-16T15:47:35Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 32,
-    "updated_at": "2026-10-16T15:31:35Z",
-    "url": "https://github.com/SourceShift/mini-ork"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -167,17 +185,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22655,
-    "updated_at": "2026-10-16T15:40:03Z",
+    "updated_at": "2026-10-16T15:56:38Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-16T15:30:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
@@ -185,7 +194,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3394,
-    "updated_at": "2026-10-16T15:33:13Z",
+    "updated_at": "2026-10-16T15:59:31Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -229,8 +238,8 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11873,
-    "updated_at": "2026-10-16T15:23:08Z",
+    "stars": 11874,
+    "updated_at": "2026-10-16T15:58:13Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -284,7 +293,7 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 31,
-    "updated_at": "2026-10-16T15:45:01Z",
+    "updated_at": "2026-10-16T15:51:42Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -329,7 +338,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28415,
-    "updated_at": "2026-10-16T15:42:22Z",
+    "updated_at": "2026-10-16T15:55:28Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -410,7 +419,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-10-16T15:43:29Z",
+    "updated_at": "2026-10-16T15:51:30Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -428,7 +437,7 @@
     "language": "Python",
     "name": "ZIZKA-AI-SL/ZizkaDB",
     "stars": 144,
-    "updated_at": "2026-10-16T14:49:54Z",
+    "updated_at": "2026-10-16T15:58:29Z",
     "url": "https://github.com/ZIZKA-AI-SL/ZizkaDB"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-16T14:49:27Z",
     "url": "https://github.com/runcycles/cycles-spring-boot-starter"
-  },
-  {
-    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 42,
-    "updated_at": "2026-10-16T15:21:10Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
   }
 ]
