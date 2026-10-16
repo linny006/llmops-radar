@@ -1,12 +1,138 @@
 [
   {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8893,
+    "updated_at": "2026-10-16T18:29:32Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "Does an OpenAI-compatible endpoint disclose model prices without an account or key? One unauthenticated GET, three-tier ",
+    "id": "happy520ai/gateway-price-check",
+    "language": "JavaScript",
+    "name": "happy520ai/gateway-price-check",
+    "stars": 0,
+    "updated_at": "2026-10-16T18:29:08Z",
+    "url": "https://github.com/happy520ai/gateway-price-check"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 541,
+    "updated_at": "2026-10-16T18:28:56Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-16T18:27:36Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Product analytics for AI Assistants",
+    "id": "LilyRamirez620/trubrics-python",
+    "language": "Python",
+    "name": "LilyRamirez620/trubrics-python",
+    "stars": 0,
+    "updated_at": "2026-10-16T18:27:15Z",
+    "url": "https://github.com/LilyRamirez620/trubrics-python"
+  },
+  {
+    "description": "Open Source software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-10-16T18:26:54Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Cheaper and better Greptile alternative runs on your own github actions.",
+    "id": "momom21/juror",
+    "language": "TypeScript",
+    "name": "momom21/juror",
+    "stars": 0,
+    "updated_at": "2026-10-16T18:24:38Z",
+    "url": "https://github.com/momom21/juror"
+  },
+  {
+    "description": "A MCP server allowing LLM agents to easily connect and retrieve data from any database",
+    "id": "BuiLambert097/turbular",
+    "language": "Python",
+    "name": "BuiLambert097/turbular",
+    "stars": 0,
+    "updated_at": "2026-10-16T18:24:27Z",
+    "url": "https://github.com/BuiLambert097/turbular"
+  },
+  {
+    "description": "Which AI model to use, and did the new version get worse, answered with statistical confidence at a tenth of the evaluat",
+    "id": "Peter-A-P/model-selection-tenth-cost",
+    "language": "Python",
+    "name": "Peter-A-P/model-selection-tenth-cost",
+    "stars": 0,
+    "updated_at": "2026-10-16T18:22:28Z",
+    "url": "https://github.com/Peter-A-P/model-selection-tenth-cost"
+  },
+  {
+    "description": "Self-hosted prompt library and template editor with an MCP server for ChatGPT. Save prompts as sections with {{variables",
+    "id": "chrysogonus/prompt-maker-studio",
+    "language": "Python",
+    "name": "chrysogonus/prompt-maker-studio",
+    "stars": 3,
+    "updated_at": "2026-10-16T18:23:23Z",
+    "url": "https://github.com/chrysogonus/prompt-maker-studio"
+  },
+  {
+    "description": "Multi-agent LinkedIn branding system with ReAct tool-calling, human-in-the-loop review, full agent traces, and a securit",
+    "id": "BurraRohan/PersonaAI",
+    "language": "Python",
+    "name": "BurraRohan/PersonaAI",
+    "stars": 0,
+    "updated_at": "2026-10-16T18:19:12Z",
+    "url": "https://github.com/BurraRohan/PersonaAI"
+  },
+  {
     "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
     "id": "SourceShift/mini-ork",
     "language": "Python",
     "name": "SourceShift/mini-ork",
     "stars": 32,
-    "updated_at": "2026-10-16T18:12:53Z",
+    "updated_at": "2026-10-16T18:19:03Z",
     "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 5,
+    "updated_at": "2026-10-16T18:18:20Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "Production LLM call layer for AI agents and tools: keep OpenAI/Anthropic/AI SDK/LiteLLM, hot-swap models with MDA preset",
+    "id": "Jungwooo367/llmix",
+    "language": "Python",
+    "name": "Jungwooo367/llmix",
+    "stars": 0,
+    "updated_at": "2026-10-16T18:17:53Z",
+    "url": "https://github.com/Jungwooo367/llmix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-16T18:15:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
@@ -131,7 +257,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61393,
-    "updated_at": "2026-10-16T18:14:24Z",
+    "updated_at": "2026-10-16T18:30:03Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -149,8 +275,17 @@
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 659,
-    "updated_at": "2026-10-16T18:03:31Z",
+    "updated_at": "2026-10-16T18:15:58Z",
     "url": "https://github.com/Abilityai/trinity"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26063,
+    "updated_at": "2026-10-16T18:03:00Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O",
@@ -162,21 +297,12 @@
     "url": "https://github.com/kelvran/gateway"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-16T18:02:04Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Painel para operar agentes de IA em produ\u00e7\u00e3o: prompt versionado com rollback, troca de modelo sem reescrever instru\u00e7\u00f5es ",
     "id": "WellCod/automata",
     "language": "Python",
     "name": "WellCod/automata",
     "stars": 1,
-    "updated_at": "2026-10-16T18:10:14Z",
+    "updated_at": "2026-10-16T18:27:49Z",
     "url": "https://github.com/WellCod/automata"
   },
   {
@@ -203,7 +329,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 110,
-    "updated_at": "2026-10-16T17:55:08Z",
+    "updated_at": "2026-10-16T18:24:02Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -212,7 +338,7 @@
     "language": "Python",
     "name": "veerarakesh56/warden",
     "stars": 0,
-    "updated_at": "2026-10-16T18:09:05Z",
+    "updated_at": "2026-10-16T18:22:18Z",
     "url": "https://github.com/veerarakesh56/warden"
   },
   {
@@ -243,24 +369,6 @@
     "url": "https://github.com/cosmonomic/pulsarlm"
   },
   {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 541,
-    "updated_at": "2026-10-16T18:14:59Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-16T17:44:31Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Live cost, token and context usage sidebar for Claude Code: a mod that shows cost per turn, cache hit rate, burn rate an",
     "id": "andrewbakercloudscale/claude-code-cost-sidebar",
     "language": "Shell",
@@ -283,7 +391,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 9167,
+    "stars": 9169,
     "updated_at": "2026-10-16T17:40:02Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -295,15 +403,6 @@
     "stars": 11,
     "updated_at": "2026-10-16T17:38:30Z",
     "url": "https://github.com/AcruxCore/AcruxCore"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8893,
-    "updated_at": "2026-10-16T17:45:07Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
@@ -333,15 +432,6 @@
     "url": "https://github.com/burakdede/lorepack"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26062,
-    "updated_at": "2026-10-16T18:03:00Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Enterprise-grade, high-performance LLM serving on Kubernetes. OpenAI-compatible inference powered by vLLM and OpenVINO\u2122 ",
     "id": "intel/enterprise-inference",
     "language": "Python",
@@ -358,95 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-16T17:26:01Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Open Source software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-10-16T17:25:56Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
-    "id": "brutal-45/Nexus-LLM",
-    "language": "Python",
-    "name": "brutal-45/Nexus-LLM",
-    "stars": 0,
-    "updated_at": "2026-10-16T17:24:15Z",
-    "url": "https://github.com/brutal-45/Nexus-LLM"
-  },
-  {
-    "description": "MLOps system for daily gold price prediction \u2014 five competing models, automatic Data/Concept Drift detection, retraining",
-    "id": "vv0vv3r/ModelJoust",
-    "language": "Python",
-    "name": "vv0vv3r/ModelJoust",
-    "stars": 1,
-    "updated_at": "2026-10-16T17:21:24Z",
-    "url": "https://github.com/vv0vv3r/ModelJoust"
-  },
-  {
-    "description": "Keras based framework for neuro-symbolic LM systems",
-    "id": "SynaLinks/synalinks",
-    "language": "Python",
-    "name": "SynaLinks/synalinks",
-    "stars": 464,
-    "updated_at": "2026-10-16T17:21:34Z",
-    "url": "https://github.com/SynaLinks/synalinks"
-  },
-  {
-    "description": "Flight recorder & observability for AI agents: trace every model call, tool call, file edit and shell command live, with",
-    "id": "abdullahimohamed101/agent-black-box",
-    "language": "Python",
-    "name": "abdullahimohamed101/agent-black-box",
-    "stars": 0,
-    "updated_at": "2026-10-16T17:19:42Z",
-    "url": "https://github.com/abdullahimohamed101/agent-black-box"
-  },
-  {
-    "description": "Production-style multilingual RAG with tenant-safe retrieval, evidence provenance, deterministic validation, observabili",
-    "id": "negativexq/knowledge-base-rag",
-    "language": "Python",
-    "name": "negativexq/knowledge-base-rag",
-    "stars": 1,
-    "updated_at": "2026-10-16T17:18:36Z",
-    "url": "https://github.com/negativexq/knowledge-base-rag"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-16T17:14:57Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Does an OpenAI-compatible endpoint disclose model prices without an account or key? One unauthenticated GET, three-tier ",
-    "id": "happy520ai/gateway-price-check",
-    "language": "JavaScript",
-    "name": "happy520ai/gateway-price-check",
-    "stars": 0,
-    "updated_at": "2026-10-16T17:14:45Z",
-    "url": "https://github.com/happy520ai/gateway-price-check"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 1,
-    "updated_at": "2026-10-16T17:10:08Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Production-ready platform for deploying OpenAI-compatible LLM inference on Kubernetes. A one-command installer for enter",
-    "id": "intel/enterprise-ai-solutions",
-    "language": "Shell",
-    "name": "intel/enterprise-ai-solutions",
-    "stars": 8,
-    "updated_at": "2026-10-16T17:08:16Z",
-    "url": "https://github.com/intel/enterprise-ai-solutions"
   }
 ]
