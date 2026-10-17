@@ -1,11 +1,38 @@
 [
   {
+    "description": "One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod",
+    "id": "valteresj2/agent-hangar",
+    "language": "Python",
+    "name": "valteresj2/agent-hangar",
+    "stars": 3,
+    "updated_at": "2026-10-17T23:26:48Z",
+    "url": "https://github.com/valteresj2/agent-hangar"
+  },
+  {
+    "description": "Run thousands of LLM calls concurrently from Python asyncio: shared rate-limit cooldowns, RPM/TPM limits, smart retries,",
+    "id": "geoff-davis/async-batch-llm",
+    "language": "Python",
+    "name": "geoff-davis/async-batch-llm",
+    "stars": 1,
+    "updated_at": "2026-10-17T23:29:55Z",
+    "url": "https://github.com/geoff-davis/async-batch-llm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-17T23:25:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61447,
-    "updated_at": "2026-10-17T23:23:54Z",
+    "updated_at": "2026-10-17T23:28:31Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -25,24 +52,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T23:16:15Z",
     "url": "https://github.com/naim-munshi/metriqen-llm-serving-optimization"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-17T23:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Run thousands of LLM calls concurrently from Python asyncio: shared rate-limit cooldowns, RPM/TPM limits, smart retries,",
-    "id": "geoff-davis/async-batch-llm",
-    "language": "Python",
-    "name": "geoff-davis/async-batch-llm",
-    "stars": 1,
-    "updated_at": "2026-10-17T23:22:03Z",
-    "url": "https://github.com/geoff-davis/async-batch-llm"
   },
   {
     "description": "Profile of Dr. Ravi Teja Thiriveedhi \u2014 clinician turned AI systems architect: multi-agent platforms, AI governance, LLM ",
@@ -106,15 +115,6 @@
     "stars": 41,
     "updated_at": "2026-10-17T22:46:51Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod",
-    "id": "valteresj2/agent-hangar",
-    "language": "Python",
-    "name": "valteresj2/agent-hangar",
-    "stars": 3,
-    "updated_at": "2026-10-17T22:46:21Z",
-    "url": "https://github.com/valteresj2/agent-hangar"
   },
   {
     "description": "A self-hosted AI platform: inference, tool use, browser automation, image generation, speech synthesis, transcription, o",

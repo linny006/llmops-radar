@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-17 23:25 UTC
+> ⏰ Last updated: 2026-10-17 23:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,19 +42,19 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 61447 | Python | 2026-10-17 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 2 | [Mattbusel/llm-cost-dashboard](https://github.com/Mattbusel/llm-cost-dashboard) | 2 | Rust | 2026-10-17 | Price every LLM API call from your logs or the provider's response (104 models, prompt caching, Claude Code logs): termi |
-| 3 | [naim-munshi/metriqen-llm-serving-optimization](https://github.com/naim-munshi/metriqen-llm-serving-optimization) | 0 | Python | 2026-10-17 | Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio |
-| 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-17 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 5 | [geoff-davis/async-batch-llm](https://github.com/geoff-davis/async-batch-llm) | 1 | Python | 2026-10-17 | Run thousands of LLM calls concurrently from Python asyncio: shared rate-limit cooldowns, RPM/TPM limits, smart retries, |
-| 6 | [Raviteja2k2k/Raviteja2k2k](https://github.com/Raviteja2k2k/Raviteja2k2k) | 0 | Python | 2026-10-17 | Profile of Dr. Ravi Teja Thiriveedhi — clinician turned AI systems architect: multi-agent platforms, AI governance, LLM  |
-| 7 | [toxicwind/ranch](https://github.com/toxicwind/ranch) | 0 | Rust | 2026-10-17 | The self-hosted LLM estate in one monorepo — local model serving, cloud provider routing, MCP gateway, build jobs. All O |
-| 8 | [dheerajkarwasra/spanlight](https://github.com/dheerajkarwasra/spanlight) | 0 | Python | 2026-10-17 | Open-source LLM observability. See every prompt, completion, token, cost, latency and error as traces and sessions. Pyth |
-| 9 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 1 | HTML | 2026-10-17 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
-| 10 | [brunovicco/governed-llm-gateway](https://github.com/brunovicco/governed-llm-gateway) | 0 | Python | 2026-10-17 | Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven |
-| 11 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-10-17 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
-| 12 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 41 | Go | 2026-10-17 | Agentic Runtime |
-| 13 | [valteresj2/agent-hangar](https://github.com/valteresj2/agent-hangar) | 3 | Python | 2026-10-17 | One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod |
+| 1 | [valteresj2/agent-hangar](https://github.com/valteresj2/agent-hangar) | 3 | Python | 2026-10-17 | One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod |
+| 2 | [geoff-davis/async-batch-llm](https://github.com/geoff-davis/async-batch-llm) | 1 | Python | 2026-10-17 | Run thousands of LLM calls concurrently from Python asyncio: shared rate-limit cooldowns, RPM/TPM limits, smart retries, |
+| 3 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-17 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 4 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 61447 | Python | 2026-10-17 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 5 | [Mattbusel/llm-cost-dashboard](https://github.com/Mattbusel/llm-cost-dashboard) | 2 | Rust | 2026-10-17 | Price every LLM API call from your logs or the provider's response (104 models, prompt caching, Claude Code logs): termi |
+| 6 | [naim-munshi/metriqen-llm-serving-optimization](https://github.com/naim-munshi/metriqen-llm-serving-optimization) | 0 | Python | 2026-10-17 | Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio |
+| 7 | [Raviteja2k2k/Raviteja2k2k](https://github.com/Raviteja2k2k/Raviteja2k2k) | 0 | Python | 2026-10-17 | Profile of Dr. Ravi Teja Thiriveedhi — clinician turned AI systems architect: multi-agent platforms, AI governance, LLM  |
+| 8 | [toxicwind/ranch](https://github.com/toxicwind/ranch) | 0 | Rust | 2026-10-17 | The self-hosted LLM estate in one monorepo — local model serving, cloud provider routing, MCP gateway, build jobs. All O |
+| 9 | [dheerajkarwasra/spanlight](https://github.com/dheerajkarwasra/spanlight) | 0 | Python | 2026-10-17 | Open-source LLM observability. See every prompt, completion, token, cost, latency and error as traces and sessions. Pyth |
+| 10 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 1 | HTML | 2026-10-17 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
+| 11 | [brunovicco/governed-llm-gateway](https://github.com/brunovicco/governed-llm-gateway) | 0 | Python | 2026-10-17 | Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven |
+| 12 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-10-17 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 13 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 41 | Go | 2026-10-17 | Agentic Runtime |
 | 14 | [psyb0t/aigate](https://github.com/psyb0t/aigate) | 16 | Shell | 2026-10-17 | A self-hosted AI platform: inference, tool use, browser automation, image generation, speech synthesis, transcription, o |
 | 15 | [cosmonomic/pulsarlm](https://github.com/cosmonomic/pulsarlm) | 4 | C++ | 2026-10-17 | An LLM inference engine for persistent chat bots and agents. It allows models to forget old and unimportant tokens to ke |
 | 16 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26089 | TypeScript | 2026-10-17 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
