@@ -1,11 +1,83 @@
 [
   {
+    "description": "Decoder only, Encoder only, Diffusion model simulation for SLO, Memory, Infra calculations. For model inference and trai",
+    "id": "BudEcosystem/simulator",
+    "language": "Python",
+    "name": "BudEcosystem/simulator",
+    "stars": 4,
+    "updated_at": "2026-10-17T10:56:28Z",
+    "url": "https://github.com/BudEcosystem/simulator"
+  },
+  {
+    "description": "Interactive CV with AI chat integration. Built with React 19, TypeScript, Claude API. Chat with my AI avatar about my ex",
+    "id": "santifer/cv-santiago",
+    "language": "HTML",
+    "name": "santifer/cv-santiago",
+    "stars": 858,
+    "updated_at": "2026-10-17T10:55:35Z",
+    "url": "https://github.com/santifer/cv-santiago"
+  },
+  {
+    "description": "Production-style multilingual RAG with tenant-safe retrieval, evidence provenance, deterministic validation, observabili",
+    "id": "negativexq/knowledge-base-rag",
+    "language": "Python",
+    "name": "negativexq/knowledge-base-rag",
+    "stars": 1,
+    "updated_at": "2026-10-17T10:55:15Z",
+    "url": "https://github.com/negativexq/knowledge-base-rag"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61426,
+    "updated_at": "2026-10-17T10:59:25Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Evaluation-first RAG and LLMOps platform for production-grade document QA, tracing, regression testing, and cost-aware e",
+    "id": "DiogoRibeiro7/rag-quality-engine",
+    "language": "Jupyter Notebook",
+    "name": "DiogoRibeiro7/rag-quality-engine",
+    "stars": 0,
+    "updated_at": "2026-10-17T10:57:46Z",
+    "url": "https://github.com/DiogoRibeiro7/rag-quality-engine"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "language": "Go",
+    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-10-17T10:50:25Z",
+    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
+  },
+  {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-10-17T10:56:32Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
+    "id": "Amz34/awesome-agent-infrastructure",
+    "language": "Python",
+    "name": "Amz34/awesome-agent-infrastructure",
+    "stars": 1,
+    "updated_at": "2026-10-17T10:46:14Z",
+    "url": "https://github.com/Amz34/awesome-agent-infrastructure"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-10-17T10:45:22Z",
+    "updated_at": "2026-10-17T10:45:56Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -14,7 +86,7 @@
     "language": "Python",
     "name": "SynaLinks/synalinks",
     "stars": 464,
-    "updated_at": "2026-10-17T10:45:08Z",
+    "updated_at": "2026-10-17T10:55:07Z",
     "url": "https://github.com/SynaLinks/synalinks"
   },
   {
@@ -90,24 +162,6 @@
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
-    "description": "Production-style multilingual RAG with tenant-safe retrieval, evidence provenance, deterministic validation, observabili",
-    "id": "negativexq/knowledge-base-rag",
-    "language": "Python",
-    "name": "negativexq/knowledge-base-rag",
-    "stars": 1,
-    "updated_at": "2026-10-17T10:28:12Z",
-    "url": "https://github.com/negativexq/knowledge-base-rag"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61423,
-    "updated_at": "2026-10-17T10:41:57Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -133,6 +187,15 @@
     "stars": 0,
     "updated_at": "2026-10-17T10:26:06Z",
     "url": "https://github.com/ramirez6568/llmaker"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 591,
+    "updated_at": "2026-10-17T10:21:56Z",
+    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "Production LLM call layer for AI agents and tools: keep OpenAI/Anthropic/AI SDK/LiteLLM, hot-swap models with MDA preset",
@@ -270,15 +333,6 @@
     "url": "https://github.com/InftyAI/Awesome-LLMOps"
   },
   {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "language": "Go",
-    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "stars": 1,
-    "updated_at": "2026-10-17T10:32:13Z",
-    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
-  },
-  {
     "description": "AI gateway as a framework. For full control over models, routing & lifecycle. OpenAI /chat/completions, OpenResponses /r",
     "id": "8monkey-ai/hebo-gateway",
     "language": "TypeScript",
@@ -331,15 +385,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T09:44:50Z",
     "url": "https://github.com/PatriciaRyu65/turbular"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 590,
-    "updated_at": "2026-10-17T10:21:56Z",
-    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-17T09:19:23Z",
     "url": "https://github.com/alebgl77/awesome-ai-architect"
-  },
-  {
-    "description": "Single-binary LLM observability for Claude Code, Codex and OpenAI/Gemini apps: OTLP or proxy in, SQLite inside, UI and a",
-    "id": "Ray0907/spanbox",
-    "language": "Go",
-    "name": "Ray0907/spanbox",
-    "stars": 1,
-    "updated_at": "2026-10-17T09:19:18Z",
-    "url": "https://github.com/Ray0907/spanbox"
-  },
-  {
-    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
-    "id": "rknightion/genai-otel-bridge",
-    "language": "Go",
-    "name": "rknightion/genai-otel-bridge",
-    "stars": 1,
-    "updated_at": "2026-10-17T10:25:11Z",
-    "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-10-17T09:10:33Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Self-hosted LLM gateway in Rust: one OpenAI-compatible API for OpenAI, Anthropic, Gemini, Azure, Ollama and more, with v",
-    "id": "rustrak/llmtrack",
-    "language": "Rust",
-    "name": "rustrak/llmtrack",
-    "stars": 1,
-    "updated_at": "2026-10-17T09:08:49Z",
-    "url": "https://github.com/rustrak/llmtrack"
-  },
-  {
-    "description": "The decision before the AI build: evidence in, an architecture with receipts out, a scored build or a stop. Every decisi",
-    "id": "atulkapoor/fde-framework",
-    "language": "Python",
-    "name": "atulkapoor/fde-framework",
-    "stars": 11,
-    "updated_at": "2026-10-17T09:21:43Z",
-    "url": "https://github.com/atulkapoor/fde-framework"
   }
 ]
