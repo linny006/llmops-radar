@@ -1,5 +1,59 @@
 [
   {
+    "description": "Open-source LLMOps platform with prompt management, an OpenAI-compatible AI gateway, OpenTelemetry tracing, a versioned ",
+    "id": "AcruxCore/AcruxCore",
+    "language": "TypeScript",
+    "name": "AcruxCore/AcruxCore",
+    "stars": 11,
+    "updated_at": "2026-10-17T06:08:26Z",
+    "url": "https://github.com/AcruxCore/AcruxCore"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-17T06:04:22Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 110,
+    "updated_at": "2026-10-17T06:11:46Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "An LLM inference engine for persistent chat bots and agents. It allows models to forget old and unimportant tokens to ke",
+    "id": "cosmonomic/pulsarlm",
+    "language": "C++",
+    "name": "cosmonomic/pulsarlm",
+    "stars": 4,
+    "updated_at": "2026-10-17T06:04:04Z",
+    "url": "https://github.com/cosmonomic/pulsarlm"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-17T06:01:22Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-17T06:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
     "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "language": "Go",
@@ -9,21 +63,12 @@
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-17T05:58:48Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61406,
-    "updated_at": "2026-10-17T05:58:16Z",
+    "updated_at": "2026-10-17T06:03:52Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -54,24 +99,6 @@
     "url": "https://github.com/NathanMishra/trubrics-python"
   },
   {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 110,
-    "updated_at": "2026-10-17T05:54:33Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-17T05:45:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "A MCP server allowing LLM agents to easily connect and retrieve data from any database",
     "id": "Weber418/turbular",
     "language": "Python",
@@ -88,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T05:40:42Z",
     "url": "https://github.com/ramirez0761/awesome-ai-gateway"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-17T05:39:34Z",
-    "url": "https://github.com/toxicwind/ranch"
   },
   {
     "description": "Production LLM call layer for AI agents and tools: keep OpenAI/Anthropic/AI SDK/LiteLLM, hot-swap models with MDA preset",
@@ -149,7 +167,7 @@
     "language": "Python",
     "name": "llmspendguard/llm-spendguard",
     "stars": 0,
-    "updated_at": "2026-10-17T05:57:30Z",
+    "updated_at": "2026-10-17T06:06:04Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
@@ -364,7 +382,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 22663,
+    "stars": 22664,
     "updated_at": "2026-10-17T02:45:25Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -405,15 +423,6 @@
     "url": "https://github.com/veerarakesh56/warden"
   },
   {
-    "description": "An LLM inference engine for persistent chat bots and agents. It allows models to forget old and unimportant tokens to ke",
-    "id": "cosmonomic/pulsarlm",
-    "language": "C++",
-    "name": "cosmonomic/pulsarlm",
-    "stars": 4,
-    "updated_at": "2026-10-17T02:04:22Z",
-    "url": "https://github.com/cosmonomic/pulsarlm"
-  },
-  {
     "description": "Building reliable LLM Agents \u2014 Agent eval, evidence grounding, context engineering",
     "id": "KBber/KBber",
     "language": "\u2014",
@@ -439,14 +448,5 @@
     "stars": 662,
     "updated_at": "2026-10-17T04:53:06Z",
     "url": "https://github.com/overmind-core/overmind"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2995,
-    "updated_at": "2026-10-17T01:46:41Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   }
 ]
