@@ -1,5 +1,32 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61405,
+    "updated_at": "2026-10-17T04:14:39Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-17T04:06:03Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-17T04:00:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
     "id": "llmsyscore/llm-systems-manager",
     "language": "Python",
@@ -18,13 +45,13 @@
     "url": "https://github.com/toxicwind/ranch"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61405,
-    "updated_at": "2026-10-17T03:59:03Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "mlflow/mlflow",
+    "stars": 28420,
+    "updated_at": "2026-10-17T03:56:30Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
@@ -45,15 +72,6 @@
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-17T03:52:38Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
     "id": "prasad-kavuri/prasad-portfolio",
     "language": "TypeScript",
@@ -70,24 +88,6 @@
     "stars": 1,
     "updated_at": "2026-10-17T03:50:18Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-17T03:45:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28421,
-    "updated_at": "2026-10-17T03:56:30Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Open-source sandboxes where coding agents build and deploy. Spin up isolated environments where Claude Code, Cursor, and",
@@ -160,6 +160,15 @@
     "stars": 10,
     "updated_at": "2026-10-17T02:49:38Z",
     "url": "https://github.com/hwdsl2/gatewaycrate"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 2157,
+    "updated_at": "2026-10-17T02:47:14Z",
+    "url": "https://github.com/future-agi/future-agi"
   },
   {
     "description": "A hands-on library for DevOps, Cloud, and AI engineers: real production scenarios for AWS, Kubernetes, Docker, and LLMOp",
@@ -293,7 +302,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 194,
-    "updated_at": "2026-10-17T03:23:58Z",
+    "updated_at": "2026-10-17T04:15:24Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -427,7 +436,7 @@
     "id": "mozilla-ai/otari",
     "language": "Python",
     "name": "mozilla-ai/otari",
-    "stars": 577,
+    "stars": 578,
     "updated_at": "2026-10-16T23:21:49Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
@@ -439,14 +448,5 @@
     "stars": 53,
     "updated_at": "2026-10-16T23:16:45Z",
     "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
-  },
-  {
-    "description": "Agent skills for Arize \u2014 datasets, experiments, and traces via the ax CLI",
-    "id": "Arize-ai/arize-skills",
-    "language": "Python",
-    "name": "Arize-ai/arize-skills",
-    "stars": 65,
-    "updated_at": "2026-10-16T23:52:49Z",
-    "url": "https://github.com/Arize-ai/arize-skills"
   }
 ]
