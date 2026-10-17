@@ -1,5 +1,95 @@
 [
   {
+    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
+    "id": "nAshikaga15073/llmaker",
+    "language": "\u2014",
+    "name": "nAshikaga15073/llmaker",
+    "stars": 0,
+    "updated_at": "2026-10-17T09:30:08Z",
+    "url": "https://github.com/nAshikaga15073/llmaker"
+  },
+  {
+    "description": "Production LLM call layer for AI agents and tools: keep OpenAI/Anthropic/AI SDK/LiteLLM, hot-swap models with MDA preset",
+    "id": "mhunter3833/llmix",
+    "language": "Python",
+    "name": "mhunter3833/llmix",
+    "stars": 0,
+    "updated_at": "2026-10-17T09:27:58Z",
+    "url": "https://github.com/mhunter3833/llmix"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 588,
+    "updated_at": "2026-10-17T09:25:05Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
+    "id": "Michel98769/llmaker",
+    "language": "Go",
+    "name": "Michel98769/llmaker",
+    "stars": 0,
+    "updated_at": "2026-10-17T09:23:40Z",
+    "url": "https://github.com/Michel98769/llmaker"
+  },
+  {
+    "description": "Tuned Variables Language (TVL) by Traigent: typed specification language, validators, CLI tools, editor support, and doc",
+    "id": "Traigent/tvl",
+    "language": "Python",
+    "name": "Traigent/tvl",
+    "stars": 0,
+    "updated_at": "2026-10-17T09:19:34Z",
+    "url": "https://github.com/Traigent/tvl"
+  },
+  {
+    "description": "A self-updating, auto-classified map of the GenAI engineering stack: agents, MCP, memory, RAG, evals, LLMOps, AI securit",
+    "id": "alebgl77/awesome-ai-architect",
+    "language": "Python",
+    "name": "alebgl77/awesome-ai-architect",
+    "stars": 0,
+    "updated_at": "2026-10-17T09:19:23Z",
+    "url": "https://github.com/alebgl77/awesome-ai-architect"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-17T09:19:20Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Single-binary LLM observability for Claude Code, Codex and OpenAI/Gemini apps: OTLP or proxy in, SQLite inside, UI and a",
+    "id": "Ray0907/spanbox",
+    "language": "Go",
+    "name": "Ray0907/spanbox",
+    "stars": 1,
+    "updated_at": "2026-10-17T09:19:18Z",
+    "url": "https://github.com/Ray0907/spanbox"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61418,
+    "updated_at": "2026-10-17T09:30:16Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-17T09:15:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
     "id": "toxicwind/ranch",
     "language": "Rust",
@@ -9,21 +99,12 @@
     "url": "https://github.com/toxicwind/ranch"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61417,
-    "updated_at": "2026-10-17T09:14:47Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
     "id": "rknightion/genai-otel-bridge",
     "language": "Go",
     "name": "rknightion/genai-otel-bridge",
     "stars": 1,
-    "updated_at": "2026-10-17T09:13:35Z",
+    "updated_at": "2026-10-17T09:22:15Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
@@ -32,7 +113,7 @@
     "language": "Python",
     "name": "naim-munshi/metriqen-llm-serving-optimization",
     "stars": 0,
-    "updated_at": "2026-10-17T09:13:54Z",
+    "updated_at": "2026-10-17T09:30:18Z",
     "url": "https://github.com/naim-munshi/metriqen-llm-serving-optimization"
   },
   {
@@ -54,21 +135,12 @@
     "url": "https://github.com/rustrak/llmtrack"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-17T09:08:24Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "The decision before the AI build: evidence in, an architecture with receipts out, a scored build or a stop. Every decisi",
     "id": "atulkapoor/fde-framework",
     "language": "Python",
     "name": "atulkapoor/fde-framework",
     "stars": 11,
-    "updated_at": "2026-10-17T09:05:55Z",
+    "updated_at": "2026-10-17T09:21:43Z",
     "url": "https://github.com/atulkapoor/fde-framework"
   },
   {
@@ -126,15 +198,6 @@
     "url": "https://github.com/SourceShift/mini-ork"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-17T09:00:21Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
@@ -142,15 +205,6 @@
     "stars": 35947,
     "updated_at": "2026-10-17T09:00:18Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 588,
-    "updated_at": "2026-10-17T08:53:52Z",
-    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "Production-style multilingual RAG with tenant-safe retrieval, evidence provenance, deterministic validation, observabili",
@@ -207,15 +261,6 @@
     "url": "https://github.com/Amz34/awesome-agent-infrastructure"
   },
   {
-    "description": "Tuned Variables Language (TVL) by Traigent: typed specification language, validators, CLI tools, editor support, and doc",
-    "id": "Traigent/tvl",
-    "language": "Python",
-    "name": "Traigent/tvl",
-    "stars": 0,
-    "updated_at": "2026-10-17T08:36:48Z",
-    "url": "https://github.com/Traigent/tvl"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -248,8 +293,17 @@
     "language": "Python",
     "name": "jakbuczarnecki/intergrax",
     "stars": 4,
-    "updated_at": "2026-10-17T09:13:58Z",
+    "updated_at": "2026-10-17T09:21:05Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22667,
+    "updated_at": "2026-10-17T08:05:39Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
@@ -302,7 +356,7 @@
     "language": "Go",
     "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "stars": 1,
-    "updated_at": "2026-10-17T09:02:34Z",
+    "updated_at": "2026-10-17T09:20:07Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 8,
     "updated_at": "2026-10-17T07:00:43Z",
     "url": "https://github.com/admina-org/admina"
-  },
-  {
-    "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
-    "id": "hjongc/openrouter-endpoint-watch",
-    "language": "Python",
-    "name": "hjongc/openrouter-endpoint-watch",
-    "stars": 0,
-    "updated_at": "2026-10-17T07:00:08Z",
-    "url": "https://github.com/hjongc/openrouter-endpoint-watch"
-  },
-  {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
-    "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 1,
-    "updated_at": "2026-10-17T07:00:04Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
-    "id": "Thiago87283/llmaker",
-    "language": "Go",
-    "name": "Thiago87283/llmaker",
-    "stars": 0,
-    "updated_at": "2026-10-17T06:58:35Z",
-    "url": "https://github.com/Thiago87283/llmaker"
-  },
-  {
-    "description": "The platform for continuously improving AI agents.",
-    "id": "overmind-core/overmind",
-    "language": "Python",
-    "name": "overmind-core/overmind",
-    "stars": 663,
-    "updated_at": "2026-10-17T07:54:54Z",
-    "url": "https://github.com/overmind-core/overmind"
-  },
-  {
-    "description": "A MCP server allowing LLM agents to easily connect and retrieve data from any database",
-    "id": "robertkilic/turbular",
-    "language": "Python",
-    "name": "robertkilic/turbular",
-    "stars": 0,
-    "updated_at": "2026-10-17T06:57:01Z",
-    "url": "https://github.com/robertkilic/turbular"
-  },
-  {
-    "description": "A MCP server allowing LLM agents to easily connect and retrieve data from any database",
-    "id": "Maria48924/turbular",
-    "language": "Python",
-    "name": "Maria48924/turbular",
-    "stars": 0,
-    "updated_at": "2026-10-17T06:55:57Z",
-    "url": "https://github.com/Maria48924/turbular"
   }
 ]
