@@ -1,5 +1,41 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61400,
+    "updated_at": "2026-10-17T00:29:54Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Flight recorder & observability for AI agents: trace every model call, tool call, file edit and shell command live, with",
+    "id": "abdullahimohamed101/agent-black-box",
+    "language": "Python",
+    "name": "abdullahimohamed101/agent-black-box",
+    "stars": 0,
+    "updated_at": "2026-10-17T00:29:27Z",
+    "url": "https://github.com/abdullahimohamed101/agent-black-box"
+  },
+  {
+    "description": "Production-style multilingual RAG with tenant-safe retrieval, evidence provenance, deterministic validation, observabili",
+    "id": "negativexq/knowledge-base-rag",
+    "language": "Python",
+    "name": "negativexq/knowledge-base-rag",
+    "stars": 1,
+    "updated_at": "2026-10-17T00:26:42Z",
+    "url": "https://github.com/negativexq/knowledge-base-rag"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-17T00:15:21Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Does an OpenAI-compatible endpoint disclose model prices without an account or key? One unauthenticated GET, five verdic",
     "id": "happy520ai/gateway-price-check",
     "language": "JavaScript",
@@ -36,15 +72,6 @@
     "url": "https://github.com/Furox-Art/eq-layer"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-17T00:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
     "id": "llmsyscore/llm-systems-manager",
     "language": "Python",
@@ -61,24 +88,6 @@
     "stars": 1,
     "updated_at": "2026-10-16T23:54:41Z",
     "url": "https://github.com/fakhruldeen/LocalPilot"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61401,
-    "updated_at": "2026-10-17T00:13:02Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Production-style multilingual RAG with tenant-safe retrieval, evidence provenance, deterministic validation, observabili",
-    "id": "negativexq/knowledge-base-rag",
-    "language": "Python",
-    "name": "negativexq/knowledge-base-rag",
-    "stars": 1,
-    "updated_at": "2026-10-16T23:54:10Z",
-    "url": "https://github.com/negativexq/knowledge-base-rag"
   },
   {
     "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
@@ -140,7 +149,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 110,
-    "updated_at": "2026-10-17T00:08:14Z",
+    "updated_at": "2026-10-17T00:22:00Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -175,7 +184,7 @@
     "id": "mozilla-ai/otari",
     "language": "Python",
     "name": "mozilla-ai/otari",
-    "stars": 567,
+    "stars": 568,
     "updated_at": "2026-10-16T23:21:49Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
@@ -212,7 +221,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11875,
-    "updated_at": "2026-10-16T23:55:53Z",
+    "updated_at": "2026-10-17T00:28:13Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -392,7 +401,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 193,
-    "updated_at": "2026-10-17T00:14:01Z",
+    "updated_at": "2026-10-17T00:29:44Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -401,17 +410,8 @@
     "language": "Python",
     "name": "Furox-Art/quantum-reasoning-skill",
     "stars": 1,
-    "updated_at": "2026-10-16T23:43:04Z",
+    "updated_at": "2026-10-17T00:15:27Z",
     "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
-  },
-  {
-    "description": "Flight recorder & observability for AI agents: trace every model call, tool call, file edit and shell command live, with",
-    "id": "abdullahimohamed101/agent-black-box",
-    "language": "Python",
-    "name": "abdullahimohamed101/agent-black-box",
-    "stars": 0,
-    "updated_at": "2026-10-16T21:07:52Z",
-    "url": "https://github.com/abdullahimohamed101/agent-black-box"
   },
   {
     "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
