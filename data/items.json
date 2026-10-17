@@ -1,5 +1,122 @@
 [
   {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 32,
+    "updated_at": "2026-10-17T13:14:14Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "AI trust-boundary gateway for OpenAI, Anthropic, and Gemini.",
+    "id": "GetSHIM/shim",
+    "language": "Python",
+    "name": "GetSHIM/shim",
+    "stars": 9,
+    "updated_at": "2026-10-17T13:11:16Z",
+    "url": "https://github.com/GetSHIM/shim"
+  },
+  {
+    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
+    "id": "digline/digline",
+    "language": "Python",
+    "name": "digline/digline",
+    "stars": 9,
+    "updated_at": "2026-10-17T13:14:59Z",
+    "url": "https://github.com/digline/digline"
+  },
+  {
+    "description": "Maps: curated list of agent observability tools, standards and platforms (OTel GenAI, tracing, evals, guardrails, MCP)",
+    "id": "anhermon/awesome-agent-observability",
+    "language": "Python",
+    "name": "anhermon/awesome-agent-observability",
+    "stars": 52,
+    "updated_at": "2026-10-17T13:06:50Z",
+    "url": "https://github.com/anhermon/awesome-agent-observability"
+  },
+  {
+    "description": "Replayable OpenCSG model/price snapshot: curl /v1/models with no key, plus self-verifying checks",
+    "id": "happy520ai/opencsg-model-pricing",
+    "language": "JavaScript",
+    "name": "happy520ai/opencsg-model-pricing",
+    "stars": 0,
+    "updated_at": "2026-10-17T13:05:44Z",
+    "url": "https://github.com/happy520ai/opencsg-model-pricing"
+  },
+  {
+    "description": "A small fine-tuned model that matches frontier APIs on SEC filing extraction at a tenth of the per-call cost: QLoRA fine",
+    "id": "Peter-A-P/fraction-of-the-bill",
+    "language": "Python",
+    "name": "Peter-A-P/fraction-of-the-bill",
+    "stars": 0,
+    "updated_at": "2026-10-17T13:05:42Z",
+    "url": "https://github.com/Peter-A-P/fraction-of-the-bill"
+  },
+  {
+    "description": "Every model call through one library: raw-HTTP provider adapters, a cost ledger row and an OpenTelemetry span per call, ",
+    "id": "Peter-A-P/compliant-ai-gateway",
+    "language": "Python",
+    "name": "Peter-A-P/compliant-ai-gateway",
+    "stars": 0,
+    "updated_at": "2026-10-17T13:05:37Z",
+    "url": "https://github.com/Peter-A-P/compliant-ai-gateway"
+  },
+  {
+    "description": "Model-agnostic Agent Skill: keep multiple hypotheses alive, test them against evidence, revive alternatives, collapse to",
+    "id": "Furox-Art/quantum-reasoning-skill",
+    "language": "Python",
+    "name": "Furox-Art/quantum-reasoning-skill",
+    "stars": 1,
+    "updated_at": "2026-10-17T13:10:48Z",
+    "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
+  },
+  {
+    "description": "No prompt or model change ships unless proven not to have regressed: calibrated judges, confidence intervals, CI gating,",
+    "id": "Peter-A-P/ai-release-gate",
+    "language": "Python",
+    "name": "Peter-A-P/ai-release-gate",
+    "stars": 0,
+    "updated_at": "2026-10-17T13:05:32Z",
+    "url": "https://github.com/Peter-A-P/ai-release-gate"
+  },
+  {
+    "description": "Production-style multilingual RAG with tenant-safe retrieval, evidence provenance, deterministic validation, observabili",
+    "id": "negativexq/knowledge-base-rag",
+    "language": "Python",
+    "name": "negativexq/knowledge-base-rag",
+    "stars": 1,
+    "updated_at": "2026-10-17T13:05:12Z",
+    "url": "https://github.com/negativexq/knowledge-base-rag"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-17T13:05:07Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Evaluation CI, observability, and trajectory testing for production AI agents. The exit code your CI acts on and the ver",
+    "id": "IlaKhan17/proofstep",
+    "language": "Python",
+    "name": "IlaKhan17/proofstep",
+    "stars": 0,
+    "updated_at": "2026-10-17T13:00:37Z",
+    "url": "https://github.com/IlaKhan17/proofstep"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-17T13:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Record, replay and regression-test AI agent runs: ingests OpenTelemetry GenAI traces into PostgreSQL, replays tool calls",
     "id": "xeeshan16/agent-replay",
     "language": "Python",
@@ -9,30 +126,12 @@
     "url": "https://github.com/xeeshan16/agent-replay"
   },
   {
-    "description": "Evaluation CI, observability, and trajectory testing for production AI agents. The exit code your CI acts on and the ver",
-    "id": "IlaKhan17/proofstep",
-    "language": "Python",
-    "name": "IlaKhan17/proofstep",
-    "stars": 0,
-    "updated_at": "2026-10-17T12:54:10Z",
-    "url": "https://github.com/IlaKhan17/proofstep"
-  },
-  {
-    "description": "Production-style multilingual RAG with tenant-safe retrieval, evidence provenance, deterministic validation, observabili",
-    "id": "negativexq/knowledge-base-rag",
-    "language": "Python",
-    "name": "negativexq/knowledge-base-rag",
-    "stars": 1,
-    "updated_at": "2026-10-17T12:52:40Z",
-    "url": "https://github.com/negativexq/knowledge-base-rag"
-  },
-  {
     "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
     "id": "korczis/prismatic-majordomus",
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-17T12:50:33Z",
+    "updated_at": "2026-10-17T13:10:51Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -52,24 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T12:49:44Z",
     "url": "https://github.com/tahircengiz/LLMScale"
-  },
-  {
-    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
-    "id": "digline/digline",
-    "language": "Python",
-    "name": "digline/digline",
-    "stars": 9,
-    "updated_at": "2026-10-17T12:48:03Z",
-    "url": "https://github.com/digline/digline"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-17T12:45:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -108,12 +189,21 @@
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
+    "description": "Dark Gravity LLMOps Standard: ISO/IEC/IEEE 42010 agent observability, prompt lineage, and runtime guardrails for autonom",
+    "id": "lgcorzo/llmops-python-package",
+    "language": "Jupyter Notebook",
+    "name": "lgcorzo/llmops-python-package",
+    "stars": 1,
+    "updated_at": "2026-10-17T12:31:55Z",
+    "url": "https://github.com/lgcorzo/llmops-python-package"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61434,
-    "updated_at": "2026-10-17T12:27:36Z",
+    "updated_at": "2026-10-17T13:13:41Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -157,7 +247,7 @@
     "id": "GetBusbar/busbar",
     "language": "Rust",
     "name": "GetBusbar/busbar",
-    "stars": 196,
+    "stars": 197,
     "updated_at": "2026-10-17T12:24:40Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
@@ -180,21 +270,12 @@
     "url": "https://github.com/ahmeddoghri/guardrail-gate"
   },
   {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 32,
-    "updated_at": "2026-10-17T12:24:29Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
     "description": "Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio",
     "id": "naim-munshi/metriqen-llm-serving-optimization",
     "language": "Python",
     "name": "naim-munshi/metriqen-llm-serving-optimization",
     "stars": 0,
-    "updated_at": "2026-10-17T13:00:08Z",
+    "updated_at": "2026-10-17T13:14:27Z",
     "url": "https://github.com/naim-munshi/metriqen-llm-serving-optimization"
   },
   {
@@ -214,15 +295,6 @@
     "stars": 1,
     "updated_at": "2026-10-17T12:16:37Z",
     "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-17T12:07:28Z",
-    "url": "https://github.com/toxicwind/ranch"
   },
   {
     "description": "Open-source, 100% serverless AI-workflow orchestration on AWS Step Functions + Lambda \u2014 build, version & time-travel-deb",
@@ -250,42 +322,6 @@
     "stars": 1,
     "updated_at": "2026-10-17T12:01:06Z",
     "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Dark Gravity LLMOps Standard: ISO/IEC/IEEE 42010 agent observability, prompt lineage, and runtime guardrails for autonom",
-    "id": "lgcorzo/llmops-python-package",
-    "language": "Jupyter Notebook",
-    "name": "lgcorzo/llmops-python-package",
-    "stars": 1,
-    "updated_at": "2026-10-17T12:31:55Z",
-    "url": "https://github.com/lgcorzo/llmops-python-package"
-  },
-  {
-    "description": "A small fine-tuned model that matches frontier APIs on SEC filing extraction at a tenth of the per-call cost: QLoRA fine",
-    "id": "Peter-A-P/fraction-of-the-bill",
-    "language": "Python",
-    "name": "Peter-A-P/fraction-of-the-bill",
-    "stars": 0,
-    "updated_at": "2026-10-17T11:41:48Z",
-    "url": "https://github.com/Peter-A-P/fraction-of-the-bill"
-  },
-  {
-    "description": "Every model call through one library: raw-HTTP provider adapters, a cost ledger row and an OpenTelemetry span per call, ",
-    "id": "Peter-A-P/compliant-ai-gateway",
-    "language": "Python",
-    "name": "Peter-A-P/compliant-ai-gateway",
-    "stars": 0,
-    "updated_at": "2026-10-17T11:41:44Z",
-    "url": "https://github.com/Peter-A-P/compliant-ai-gateway"
-  },
-  {
-    "description": "No prompt or model change ships unless proven not to have regressed: calibrated judges, confidence intervals, CI gating,",
-    "id": "Peter-A-P/ai-release-gate",
-    "language": "Python",
-    "name": "Peter-A-P/ai-release-gate",
-    "stars": 0,
-    "updated_at": "2026-10-17T11:41:39Z",
-    "url": "https://github.com/Peter-A-P/ai-release-gate"
   },
   {
     "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
@@ -412,41 +448,5 @@
     "stars": 7,
     "updated_at": "2026-10-17T10:33:00Z",
     "url": "https://github.com/JoniMartin27/lookspan"
-  },
-  {
-    "description": "Lightweight observability SDK for LLM cost, latency, and PII, that wraps OpenAI, Anthropic, Bedrock, Cohere, Mistral & V",
-    "id": "data-gras/savi-sdk",
-    "language": "Python",
-    "name": "data-gras/savi-sdk",
-    "stars": 0,
-    "updated_at": "2026-10-17T11:21:08Z",
-    "url": "https://github.com/data-gras/savi-sdk"
-  },
-  {
-    "description": "Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF\u2194Bedrock mapping (US regions) with a free st",
-    "id": "scttfrdmn/hf-bedrock-map",
-    "language": "Go",
-    "name": "scttfrdmn/hf-bedrock-map",
-    "stars": 1,
-    "updated_at": "2026-10-17T10:29:39Z",
-    "url": "https://github.com/scttfrdmn/hf-bedrock-map"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 24,
-    "updated_at": "2026-10-17T10:29:30Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
-    "id": "laurentross/llmaker",
-    "language": "Go",
-    "name": "laurentross/llmaker",
-    "stars": 0,
-    "updated_at": "2026-10-17T10:26:15Z",
-    "url": "https://github.com/laurentross/llmaker"
   }
 ]
