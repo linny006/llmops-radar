@@ -1,12 +1,66 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61444,
+    "updated_at": "2026-10-17T19:14:31Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26087,
+    "updated_at": "2026-10-17T19:14:39Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Production-style multilingual RAG with tenant-safe retrieval, evidence provenance, deterministic validation, observabili",
     "id": "negativexq/knowledge-base-rag",
     "language": "Python",
     "name": "negativexq/knowledge-base-rag",
     "stars": 1,
-    "updated_at": "2026-10-17T18:55:37Z",
+    "updated_at": "2026-10-17T19:11:11Z",
     "url": "https://github.com/negativexq/knowledge-base-rag"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-17T19:08:11Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
+    "id": "burakdede/lorepack",
+    "language": "TypeScript",
+    "name": "burakdede/lorepack",
+    "stars": 3,
+    "updated_at": "2026-10-17T19:11:34Z",
+    "url": "https://github.com/burakdede/lorepack"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-17T19:04:10Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-17T19:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
@@ -27,31 +81,13 @@
     "url": "https://github.com/ErenOzgu/prompt-regression"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-17T18:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
     "id": "korczis/prismatic-majordomus",
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-17T18:43:49Z",
+    "updated_at": "2026-10-17T19:09:09Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61443,
-    "updated_at": "2026-10-17T18:53:51Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio",
@@ -68,7 +104,7 @@
     "language": "Rust",
     "name": "bosun-ai/swiftide",
     "stars": 792,
-    "updated_at": "2026-10-17T18:49:39Z",
+    "updated_at": "2026-10-17T19:01:44Z",
     "url": "https://github.com/bosun-ai/swiftide"
   },
   {
@@ -77,7 +113,7 @@
     "language": "Python",
     "name": "overmind-core/overmind",
     "stars": 663,
-    "updated_at": "2026-10-17T18:56:05Z",
+    "updated_at": "2026-10-17T19:06:53Z",
     "url": "https://github.com/overmind-core/overmind"
   },
   {
@@ -180,24 +216,6 @@
     "url": "https://github.com/o11y-one/o11y-one-sdk"
   },
   {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-17T18:06:05Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
-    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
-    "id": "burakdede/lorepack",
-    "language": "TypeScript",
-    "name": "burakdede/lorepack",
-    "stars": 3,
-    "updated_at": "2026-10-17T18:45:21Z",
-    "url": "https://github.com/burakdede/lorepack"
-  },
-  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -214,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T17:52:25Z",
     "url": "https://github.com/brunovicco/governed-llm-gateway"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-17T17:43:50Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
@@ -439,14 +448,5 @@
     "stars": 9,
     "updated_at": "2026-10-17T15:22:25Z",
     "url": "https://github.com/digline/digline"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8904,
-    "updated_at": "2026-10-17T15:20:44Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   }
 ]
