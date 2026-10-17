@@ -1,12 +1,21 @@
 [
   {
-    "description": "Production-style multilingual RAG with tenant-safe retrieval, evidence provenance, deterministic validation, observabili",
-    "id": "negativexq/knowledge-base-rag",
-    "language": "Python",
-    "name": "negativexq/knowledge-base-rag",
+    "description": "Signed webhook/event delivery for Cycles \u2014 retries, HMAC, replay, audit, governance events",
+    "id": "runcycles/cycles-server-events",
+    "language": "Java",
+    "name": "runcycles/cycles-server-events",
     "stars": 1,
-    "updated_at": "2026-10-17T11:15:16Z",
-    "url": "https://github.com/negativexq/knowledge-base-rag"
+    "updated_at": "2026-10-17T11:30:12Z",
+    "url": "https://github.com/runcycles/cycles-server-events"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 592,
+    "updated_at": "2026-10-17T11:28:41Z",
+    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
@@ -14,8 +23,53 @@
     "language": "Python",
     "name": "vllm-project/vllm-ascend",
     "stars": 2995,
-    "updated_at": "2026-10-17T11:11:58Z",
+    "updated_at": "2026-10-17T11:30:11Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-10-17T11:22:19Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Evaluation-first RAG and LLMOps platform for production-grade document QA, tracing, regression testing, and cost-aware e",
+    "id": "DiogoRibeiro7/rag-quality-engine",
+    "language": "Jupyter Notebook",
+    "name": "DiogoRibeiro7/rag-quality-engine",
+    "stars": 0,
+    "updated_at": "2026-10-17T11:16:16Z",
+    "url": "https://github.com/DiogoRibeiro7/rag-quality-engine"
+  },
+  {
+    "description": "Self-hosted runtime authority server for AI agents \u2014 budgets, risk, actions, tenant isolation",
+    "id": "runcycles/cycles-server",
+    "language": "Java",
+    "name": "runcycles/cycles-server",
+    "stars": 5,
+    "updated_at": "2026-10-17T11:18:51Z",
+    "url": "https://github.com/runcycles/cycles-server"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-17T11:15:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Production-style multilingual RAG with tenant-safe retrieval, evidence provenance, deterministic validation, observabili",
+    "id": "negativexq/knowledge-base-rag",
+    "language": "Python",
+    "name": "negativexq/knowledge-base-rag",
+    "stars": 1,
+    "updated_at": "2026-10-17T11:15:16Z",
+    "url": "https://github.com/negativexq/knowledge-base-rag"
   },
   {
     "description": "Agentic Runtime",
@@ -27,20 +81,11 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 591,
-    "updated_at": "2026-10-17T11:06:09Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 61427,
+    "stars": 61428,
     "updated_at": "2026-10-17T11:05:48Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -72,15 +117,6 @@
     "url": "https://github.com/SynaLinks/synalinks"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-17T11:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Decoder only, Encoder only, Diffusion model simulation for SLO, Memory, Infra calculations. For model inference and trai",
     "id": "BudEcosystem/simulator",
     "language": "Python",
@@ -99,15 +135,6 @@
     "url": "https://github.com/santifer/cv-santiago"
   },
   {
-    "description": "Evaluation-first RAG and LLMOps platform for production-grade document QA, tracing, regression testing, and cost-aware e",
-    "id": "DiogoRibeiro7/rag-quality-engine",
-    "language": "Jupyter Notebook",
-    "name": "DiogoRibeiro7/rag-quality-engine",
-    "stars": 0,
-    "updated_at": "2026-10-17T11:11:35Z",
-    "url": "https://github.com/DiogoRibeiro7/rag-quality-engine"
-  },
-  {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
     "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "language": "Go",
@@ -122,7 +149,7 @@
     "language": "Python",
     "name": "veerarakesh56/warden",
     "stars": 0,
-    "updated_at": "2026-10-17T11:10:16Z",
+    "updated_at": "2026-10-17T11:29:53Z",
     "url": "https://github.com/veerarakesh56/warden"
   },
   {
@@ -185,7 +212,7 @@
     "language": "Python",
     "name": "data-gras/savi-sdk",
     "stars": 0,
-    "updated_at": "2026-10-17T10:30:51Z",
+    "updated_at": "2026-10-17T11:21:08Z",
     "url": "https://github.com/data-gras/savi-sdk"
   },
   {
@@ -369,6 +396,15 @@
     "url": "https://github.com/Traigent/tvl"
   },
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26079,
+    "updated_at": "2026-10-17T09:54:31Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Building reliable LLM Agents \u2014 Agent eval, evidence grounding, context engineering",
     "id": "KBber/KBber",
     "language": "\u2014",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-17T09:44:50Z",
     "url": "https://github.com/PatriciaRyu65/turbular"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11882,
-    "updated_at": "2026-10-17T09:42:45Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "A MCP server allowing LLM agents to easily connect and retrieve data from any database",
-    "id": "fernandapetrov/turbular",
-    "language": "Python",
-    "name": "fernandapetrov/turbular",
-    "stars": 0,
-    "updated_at": "2026-10-17T09:36:16Z",
-    "url": "https://github.com/fernandapetrov/turbular"
-  },
-  {
-    "description": "Evals, not vibes: a short hands-on workshop on measuring an LLM feature. Build a tiny eval harness in plain Python, then",
-    "id": "jars-demo/evals-demo",
-    "language": "TypeScript",
-    "name": "jars-demo/evals-demo",
-    "stars": 0,
-    "updated_at": "2026-10-17T09:36:08Z",
-    "url": "https://github.com/jars-demo/evals-demo"
-  },
-  {
-    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
-    "id": "nAshikaga15073/llmaker",
-    "language": "Go",
-    "name": "nAshikaga15073/llmaker",
-    "stars": 0,
-    "updated_at": "2026-10-17T09:30:08Z",
-    "url": "https://github.com/nAshikaga15073/llmaker"
   }
 ]
