@@ -1,12 +1,102 @@
 [
   {
+    "description": "Dark Gravity LLMOps Standard: ISO/IEC/IEEE 42010 agent observability, prompt lineage, and runtime guardrails for autonom",
+    "id": "lgcorzo/llmops-python-package",
+    "language": "Jupyter Notebook",
+    "name": "lgcorzo/llmops-python-package",
+    "stars": 1,
+    "updated_at": "2026-10-17T15:00:10Z",
+    "url": "https://github.com/lgcorzo/llmops-python-package"
+  },
+  {
+    "description": "Evidently AI \u2014 independent third-party profile of a public API surface, by API Evangelist. Evidently AI is an open-sourc",
+    "id": "api-evangelist/evidently",
+    "language": "\u2014",
+    "name": "api-evangelist/evidently",
+    "stars": 0,
+    "updated_at": "2026-10-17T15:00:08Z",
+    "url": "https://github.com/api-evangelist/evidently"
+  },
+  {
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
+    "language": "Python",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 53,
+    "updated_at": "2026-10-17T14:59:36Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 32,
+    "updated_at": "2026-10-17T14:59:26Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Dify \u2014 independent third-party profile of a public API surface, by API Evangelist. Dify is an open-source platform for b",
+    "id": "api-evangelist/dify",
+    "language": "\u2014",
+    "name": "api-evangelist/dify",
+    "stars": 0,
+    "updated_at": "2026-10-17T14:58:49Z",
+    "url": "https://github.com/api-evangelist/dify"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-10-17T14:58:41Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Comet \u2014 independent third-party profile of a public API surface, by API Evangelist. Comet is an enterprise AI/ML develop",
+    "id": "api-evangelist/comet",
+    "language": "\u2014",
+    "name": "api-evangelist/comet",
+    "stars": 0,
+    "updated_at": "2026-10-17T14:57:17Z",
+    "url": "https://github.com/api-evangelist/comet"
+  },
+  {
+    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
+    "id": "digline/digline",
+    "language": "Python",
+    "name": "digline/digline",
+    "stars": 9,
+    "updated_at": "2026-10-17T14:57:30Z",
+    "url": "https://github.com/digline/digline"
+  },
+  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 41,
-    "updated_at": "2026-10-17T14:40:44Z",
+    "updated_at": "2026-10-17T14:52:36Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Agenta \u2014 independent third-party profile of a public API surface, by API Evangelist. Agenta is an open-source LLMOps pla",
+    "id": "api-evangelist/agenta",
+    "language": "\u2014",
+    "name": "api-evangelist/agenta",
+    "stars": 0,
+    "updated_at": "2026-10-17T14:51:19Z",
+    "url": "https://github.com/api-evangelist/agenta"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-17T14:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Know when an AI conversation thread is still safe to continue \u2014 a deterministic, dependency-free continuity planner.",
@@ -16,15 +106,6 @@
     "stars": 3,
     "updated_at": "2026-10-17T14:35:48Z",
     "url": "https://github.com/Ahuai-Baiy/starsea-continuum"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-17T14:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Self-hosted coding assistant that routes each request to the cheapest model that can handle it",
@@ -122,7 +203,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61434,
-    "updated_at": "2026-10-17T14:37:29Z",
+    "updated_at": "2026-10-17T14:57:38Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -135,15 +216,6 @@
     "url": "https://github.com/ArtVsMark/Engineering-Incidents-Playbook"
   },
   {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 32,
-    "updated_at": "2026-10-17T13:52:02Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
     "description": "Every model call through one library: raw-HTTP provider adapters, a cost ledger row and an OpenTelemetry span per call, ",
     "id": "Peter-A-P/compliant-ai-gateway",
     "language": "Python",
@@ -151,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T13:49:22Z",
     "url": "https://github.com/Peter-A-P/compliant-ai-gateway"
-  },
-  {
-    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
-    "id": "digline/digline",
-    "language": "Python",
-    "name": "digline/digline",
-    "stars": 9,
-    "updated_at": "2026-10-17T14:36:31Z",
-    "url": "https://github.com/digline/digline"
   },
   {
     "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
@@ -194,7 +257,7 @@
     "language": "TypeScript",
     "name": "burakdede/lorepack",
     "stars": 3,
-    "updated_at": "2026-10-17T14:36:26Z",
+    "updated_at": "2026-10-17T14:47:52Z",
     "url": "https://github.com/burakdede/lorepack"
   },
   {
@@ -302,7 +365,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-17T14:13:52Z",
+    "updated_at": "2026-10-17T15:00:12Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -319,7 +382,7 @@
     "id": "mozilla-ai/otari",
     "language": "Python",
     "name": "mozilla-ai/otari",
-    "stars": 604,
+    "stars": 605,
     "updated_at": "2026-10-17T12:47:30Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
@@ -340,15 +403,6 @@
     "stars": 30606,
     "updated_at": "2026-10-17T12:32:12Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Dark Gravity LLMOps Standard: ISO/IEC/IEEE 42010 agent observability, prompt lineage, and runtime guardrails for autonom",
-    "id": "lgcorzo/llmops-python-package",
-    "language": "Jupyter Notebook",
-    "name": "lgcorzo/llmops-python-package",
-    "stars": 1,
-    "updated_at": "2026-10-17T13:22:39Z",
-    "url": "https://github.com/lgcorzo/llmops-python-package"
   },
   {
     "description": "Routes, caches, and batches LLM requests: 73% cheaper. Now also measures whether the routing is correct, which the keywo",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-17T12:24:38Z",
     "url": "https://github.com/ahmeddoghri/kvsqueeze"
-  },
-  {
-    "description": "Catches PII leaks and ungrounded claims in one pass. Now measured against the hard half: hallucinations that reuse the s",
-    "id": "ahmeddoghri/guardrail-gate",
-    "language": "Python",
-    "name": "ahmeddoghri/guardrail-gate",
-    "stars": 0,
-    "updated_at": "2026-10-17T12:24:35Z",
-    "url": "https://github.com/ahmeddoghri/guardrail-gate"
-  },
-  {
-    "description": "Single-binary LLM observability for Claude Code, Codex and OpenAI/Gemini apps: OTLP or proxy in, SQLite inside, UI and a",
-    "id": "Ray0907/spanbox",
-    "language": "Go",
-    "name": "Ray0907/spanbox",
-    "stars": 1,
-    "updated_at": "2026-10-17T14:13:10Z",
-    "url": "https://github.com/Ray0907/spanbox"
-  },
-  {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
-    "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 1,
-    "updated_at": "2026-10-17T12:16:37Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "Open-source, 100% serverless AI-workflow orchestration on AWS Step Functions + Lambda \u2014 build, version & time-travel-deb",
-    "id": "ALLMA-dev/allma-core",
-    "language": "TypeScript",
-    "name": "ALLMA-dev/allma-core",
-    "stars": 2,
-    "updated_at": "2026-10-17T12:08:42Z",
-    "url": "https://github.com/ALLMA-dev/allma-core"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 1,
-    "updated_at": "2026-10-17T12:01:06Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
-    "id": "hjongc/openrouter-endpoint-watch",
-    "language": "Python",
-    "name": "hjongc/openrouter-endpoint-watch",
-    "stars": 0,
-    "updated_at": "2026-10-17T11:39:07Z",
-    "url": "https://github.com/hjongc/openrouter-endpoint-watch"
   }
 ]
