@@ -1,5 +1,41 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61439,
+    "updated_at": "2026-10-17T17:15:07Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-10-17T17:12:33Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "Build applications that make decisions (chatbots, agents, simulations, etc...). Monitor, trace, persist, and execute on ",
+    "id": "apache/burr",
+    "language": "Python",
+    "name": "apache/burr",
+    "stars": 2571,
+    "updated_at": "2026-10-17T17:09:52Z",
+    "url": "https://github.com/apache/burr"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-17T17:08:51Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -59,17 +95,8 @@
     "language": "Python",
     "name": "GetSHIM/shim",
     "stars": 9,
-    "updated_at": "2026-10-17T17:04:54Z",
+    "updated_at": "2026-10-17T17:11:23Z",
     "url": "https://github.com/GetSHIM/shim"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61439,
-    "updated_at": "2026-10-17T17:02:15Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Open-source LLMOps platform with prompt management, an OpenAI-compatible AI gateway, OpenTelemetry tracing, a versioned ",
@@ -79,15 +106,6 @@
     "stars": 11,
     "updated_at": "2026-10-17T17:00:26Z",
     "url": "https://github.com/AcruxCore/AcruxCore"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-17T17:00:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Tamper-evident, stranger-verifiable receipts for LLM cost-savings \u2014 anyone can recompute your caching/routing savings ma",
@@ -169,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T16:20:01Z",
     "url": "https://github.com/hammasbuilds/llm-observability-platform"
-  },
-  {
-    "description": "Build applications that make decisions (chatbots, agents, simulations, etc...). Monitor, trace, persist, and execute on ",
-    "id": "apache/burr",
-    "language": "Python",
-    "name": "apache/burr",
-    "stars": 2571,
-    "updated_at": "2026-10-17T16:16:23Z",
-    "url": "https://github.com/apache/burr"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-17T14:51:19Z",
     "url": "https://github.com/api-evangelist/agenta"
-  },
-  {
-    "description": "Know when an AI conversation thread is still safe to continue \u2014 a deterministic, dependency-free continuity planner.",
-    "id": "Ahuai-Baiy/starsea-continuum",
-    "language": "Python",
-    "name": "Ahuai-Baiy/starsea-continuum",
-    "stars": 4,
-    "updated_at": "2026-10-17T14:35:48Z",
-    "url": "https://github.com/Ahuai-Baiy/starsea-continuum"
   }
 ]
