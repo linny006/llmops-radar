@@ -1,11 +1,101 @@
 [
   {
+    "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
+    "id": "KavyaZhou7140/ZizkaDB",
+    "language": "Python",
+    "name": "KavyaZhou7140/ZizkaDB",
+    "stars": 0,
+    "updated_at": "2026-10-17T21:59:31Z",
+    "url": "https://github.com/KavyaZhou7140/ZizkaDB"
+  },
+  {
+    "description": "Model Context Protocol (MCP) Server for Langfuse Prompt Management. This server allows you to access and manage your Lan",
+    "id": "mYildirim22873/mcp-server-langfuse",
+    "language": "TypeScript",
+    "name": "mYildirim22873/mcp-server-langfuse",
+    "stars": 0,
+    "updated_at": "2026-10-17T21:59:16Z",
+    "url": "https://github.com/mYildirim22873/mcp-server-langfuse"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-17T21:59:08Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Model Context Protocol (MCP) Server for Langfuse Prompt Management. This server allows you to access and manage your Lan",
+    "id": "Mayah1015/mcp-server-langfuse",
+    "language": "TypeScript",
+    "name": "Mayah1015/mcp-server-langfuse",
+    "stars": 0,
+    "updated_at": "2026-10-17T21:59:07Z",
+    "url": "https://github.com/Mayah1015/mcp-server-langfuse"
+  },
+  {
+    "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
+    "id": "mghrkdhlwx/ZizkaDB",
+    "language": "Python",
+    "name": "mghrkdhlwx/ZizkaDB",
+    "stars": 0,
+    "updated_at": "2026-10-17T21:56:18Z",
+    "url": "https://github.com/mghrkdhlwx/ZizkaDB"
+  },
+  {
+    "description": "Open-source LLM observability. See every prompt, completion, token, cost, latency and error as traces and sessions. Pyth",
+    "id": "dheerajkarwasra/spanlight",
+    "language": "Python",
+    "name": "dheerajkarwasra/spanlight",
+    "stars": 0,
+    "updated_at": "2026-10-17T22:00:09Z",
+    "url": "https://github.com/dheerajkarwasra/spanlight"
+  },
+  {
+    "description": "Model Context Protocol (MCP) Server for Langfuse Prompt Management. This server allows you to access and manage your Lan",
+    "id": "William12045/mcp-server-langfuse",
+    "language": "TypeScript",
+    "name": "William12045/mcp-server-langfuse",
+    "stars": 0,
+    "updated_at": "2026-10-17T21:54:14Z",
+    "url": "https://github.com/William12045/mcp-server-langfuse"
+  },
+  {
+    "description": "Production LLM call layer for AI agents and tools: keep OpenAI/Anthropic/AI SDK/LiteLLM, hot-swap models with MDA preset",
+    "id": "Pastore0040/llmix",
+    "language": "Python",
+    "name": "Pastore0040/llmix",
+    "stars": 0,
+    "updated_at": "2026-10-17T21:53:25Z",
+    "url": "https://github.com/Pastore0040/llmix"
+  },
+  {
+    "description": "Cheaper and better Greptile alternative runs on your own github actions.",
+    "id": "marilynnovikov953/juror",
+    "language": "TypeScript",
+    "name": "marilynnovikov953/juror",
+    "stars": 0,
+    "updated_at": "2026-10-17T21:50:52Z",
+    "url": "https://github.com/marilynnovikov953/juror"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-17T21:45:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61445,
-    "updated_at": "2026-10-17T21:44:52Z",
+    "updated_at": "2026-10-17T21:59:14Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -52,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T21:34:31Z",
     "url": "https://github.com/01men/ybkkasi"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-17T21:34:19Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
@@ -189,15 +270,6 @@
     "url": "https://github.com/malikelly91711/awesome-ai-gateway"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-17T21:15:51Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "An open-source CLI plus GitHub Action that prevents unsafe prompt, model, retrieval, tool, or configuration changes from",
     "id": "Chris0Jeky/llm-release-gate",
     "language": "Python",
@@ -293,7 +365,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-17T21:37:06Z",
+    "updated_at": "2026-10-17T21:57:17Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-17T19:37:54Z",
     "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
-  },
-  {
-    "description": "A control layer that decides how an LLM should speak before it speaks",
-    "id": "Furox-Art/eq-layer",
-    "language": "Python",
-    "name": "Furox-Art/eq-layer",
-    "stars": 0,
-    "updated_at": "2026-10-17T19:32:46Z",
-    "url": "https://github.com/Furox-Art/eq-layer"
-  },
-  {
-    "description": "Tamper-evident, stranger-verifiable receipts for LLM cost-savings \u2014 anyone can recompute your caching/routing savings ma",
-    "id": "thequantumfalcon/kry",
-    "language": "Python",
-    "name": "thequantumfalcon/kry",
-    "stars": 1,
-    "updated_at": "2026-10-17T20:26:44Z",
-    "url": "https://github.com/thequantumfalcon/kry"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26089,
-    "updated_at": "2026-10-17T19:17:06Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Regression tests for prompts: cases with deterministic checks, repeated runs, a baseline that fails the build when a pas",
-    "id": "ErenOzgu/prompt-regression",
-    "language": "Python",
-    "name": "ErenOzgu/prompt-regression",
-    "stars": 0,
-    "updated_at": "2026-10-17T18:47:30Z",
-    "url": "https://github.com/ErenOzgu/prompt-regression"
-  },
-  {
-    "description": "Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio",
-    "id": "naim-munshi/metriqen-llm-serving-optimization",
-    "language": "Python",
-    "name": "naim-munshi/metriqen-llm-serving-optimization",
-    "stars": 0,
-    "updated_at": "2026-10-17T18:40:35Z",
-    "url": "https://github.com/naim-munshi/metriqen-llm-serving-optimization"
-  },
-  {
-    "description": "Fast, streaming indexing, query, and agentic LLM applications in Rust",
-    "id": "bosun-ai/swiftide",
-    "language": "Rust",
-    "name": "bosun-ai/swiftide",
-    "stars": 792,
-    "updated_at": "2026-10-17T19:01:44Z",
-    "url": "https://github.com/bosun-ai/swiftide"
-  },
-  {
-    "description": "The platform for continuously improving AI agents.",
-    "id": "overmind-core/overmind",
-    "language": "Python",
-    "name": "overmind-core/overmind",
-    "stars": 663,
-    "updated_at": "2026-10-17T19:06:53Z",
-    "url": "https://github.com/overmind-core/overmind"
-  },
-  {
-    "description": "Mohsen Seyedkazemi Ardebili \u2014 AI Platform & Agentic Systems Engineer \u00b7 Independent Consultant. Agentic AI, MLOps/LLMOps,",
-    "id": "MSKazemi/mskazemi",
-    "language": "\u2014",
-    "name": "MSKazemi/mskazemi",
-    "stars": 0,
-    "updated_at": "2026-10-17T18:33:56Z",
-    "url": "https://github.com/MSKazemi/mskazemi"
   }
 ]
