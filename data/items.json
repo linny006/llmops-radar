@@ -1,11 +1,47 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61447,
+    "updated_at": "2026-10-17T23:23:54Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Price every LLM API call from your logs or the provider's response (104 models, prompt caching, Claude Code logs): termi",
+    "id": "Mattbusel/llm-cost-dashboard",
+    "language": "Rust",
+    "name": "Mattbusel/llm-cost-dashboard",
+    "stars": 2,
+    "updated_at": "2026-10-17T23:17:52Z",
+    "url": "https://github.com/Mattbusel/llm-cost-dashboard"
+  },
+  {
+    "description": "Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio",
+    "id": "naim-munshi/metriqen-llm-serving-optimization",
+    "language": "Python",
+    "name": "naim-munshi/metriqen-llm-serving-optimization",
+    "stars": 0,
+    "updated_at": "2026-10-17T23:16:15Z",
+    "url": "https://github.com/naim-munshi/metriqen-llm-serving-optimization"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-17T23:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Run thousands of LLM calls concurrently from Python asyncio: shared rate-limit cooldowns, RPM/TPM limits, smart retries,",
     "id": "geoff-davis/async-batch-llm",
     "language": "Python",
     "name": "geoff-davis/async-batch-llm",
     "stars": 1,
-    "updated_at": "2026-10-17T23:13:40Z",
+    "updated_at": "2026-10-17T23:22:03Z",
     "url": "https://github.com/geoff-davis/async-batch-llm"
   },
   {
@@ -14,7 +50,7 @@
     "language": "Python",
     "name": "Raviteja2k2k/Raviteja2k2k",
     "stars": 0,
-    "updated_at": "2026-10-17T23:06:58Z",
+    "updated_at": "2026-10-17T23:19:52Z",
     "url": "https://github.com/Raviteja2k2k/Raviteja2k2k"
   },
   {
@@ -34,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T23:02:30Z",
     "url": "https://github.com/dheerajkarwasra/spanlight"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-17T23:00:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -70,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-10-17T22:50:45Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61447,
-    "updated_at": "2026-10-17T23:12:50Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Agentic Runtime",
@@ -196,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T22:17:24Z",
     "url": "https://github.com/riccardoaksoy/llmaker"
-  },
-  {
-    "description": "Price every LLM API call from your logs or the provider's response (104 models, prompt caching, Claude Code logs): termi",
-    "id": "Mattbusel/llm-cost-dashboard",
-    "language": "Rust",
-    "name": "Mattbusel/llm-cost-dashboard",
-    "stars": 2,
-    "updated_at": "2026-10-17T22:16:47Z",
-    "url": "https://github.com/Mattbusel/llm-cost-dashboard"
   },
   {
     "description": "Product analytics for AI Assistants",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-17T21:29:34Z",
     "url": "https://github.com/fakhruldeen/LocalPilot"
-  },
-  {
-    "description": "Enterprise Scale AIFactory (esml) - on Azure",
-    "id": "jostrm/azure-enterprise-scale-ml",
-    "language": "Python",
-    "name": "jostrm/azure-enterprise-scale-ml",
-    "stars": 53,
-    "updated_at": "2026-10-17T21:30:28Z",
-    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
   }
 ]
