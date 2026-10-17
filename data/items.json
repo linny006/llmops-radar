@@ -1,30 +1,21 @@
 [
   {
-    "description": "Product analytics for AI Assistants",
-    "id": "Krzysztof683/trubrics-python",
-    "language": "\u2014",
-    "name": "Krzysztof683/trubrics-python",
+    "description": "Open-source LLM observability. See every prompt, completion, token, cost, latency and error as traces and sessions. Pyth",
+    "id": "dheerajkarwasra/spanlight",
+    "language": "Python",
+    "name": "dheerajkarwasra/spanlight",
     "stars": 0,
-    "updated_at": "2026-10-17T22:14:56Z",
-    "url": "https://github.com/Krzysztof683/trubrics-python"
+    "updated_at": "2026-10-17T22:29:45Z",
+    "url": "https://github.com/dheerajkarwasra/spanlight"
   },
   {
-    "description": "Product analytics for AI Assistants",
-    "id": "michelkumar498/trubrics-python",
+    "description": "Self-hosted prompt library and template editor with an MCP server for ChatGPT. Save prompts as sections with {{variables",
+    "id": "chrysogonus/prompt-maker-studio",
     "language": "Python",
-    "name": "michelkumar498/trubrics-python",
-    "stars": 0,
-    "updated_at": "2026-10-17T22:14:29Z",
-    "url": "https://github.com/michelkumar498/trubrics-python"
-  },
-  {
-    "description": "Product analytics for AI Assistants",
-    "id": "Johan11690/trubrics-python",
-    "language": "Python",
-    "name": "Johan11690/trubrics-python",
-    "stars": 0,
-    "updated_at": "2026-10-17T22:14:56Z",
-    "url": "https://github.com/Johan11690/trubrics-python"
+    "name": "chrysogonus/prompt-maker-studio",
+    "stars": 3,
+    "updated_at": "2026-10-17T22:29:55Z",
+    "url": "https://github.com/chrysogonus/prompt-maker-studio"
   },
   {
     "description": "Agentic Runtime",
@@ -32,8 +23,98 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 41,
-    "updated_at": "2026-10-17T22:13:44Z",
+    "updated_at": "2026-10-17T22:22:59Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61447,
+    "updated_at": "2026-10-17T22:28:55Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-10-17T22:21:36Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "Product analytics for AI Assistants",
+    "id": "Krzysztof683/trubrics-python",
+    "language": "Python",
+    "name": "Krzysztof683/trubrics-python",
+    "stars": 0,
+    "updated_at": "2026-10-17T22:20:45Z",
+    "url": "https://github.com/Krzysztof683/trubrics-python"
+  },
+  {
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
+    "stars": 1,
+    "updated_at": "2026-10-17T22:18:37Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
+    "description": "Product analytics for AI Assistants",
+    "id": "michelkumar498/trubrics-python",
+    "language": "Python",
+    "name": "michelkumar498/trubrics-python",
+    "stars": 0,
+    "updated_at": "2026-10-17T22:17:37Z",
+    "url": "https://github.com/michelkumar498/trubrics-python"
+  },
+  {
+    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
+    "id": "riccardoaksoy/llmaker",
+    "language": "Go",
+    "name": "riccardoaksoy/llmaker",
+    "stars": 0,
+    "updated_at": "2026-10-17T22:17:24Z",
+    "url": "https://github.com/riccardoaksoy/llmaker"
+  },
+  {
+    "description": "Terminal dashboard and Rust library for LLM spend: turn a JSON log of model calls into live cost per request, per-model ",
+    "id": "Mattbusel/llm-cost-dashboard",
+    "language": "Rust",
+    "name": "Mattbusel/llm-cost-dashboard",
+    "stars": 2,
+    "updated_at": "2026-10-17T22:16:47Z",
+    "url": "https://github.com/Mattbusel/llm-cost-dashboard"
+  },
+  {
+    "description": "Product analytics for AI Assistants",
+    "id": "Johan11690/trubrics-python",
+    "language": "Python",
+    "name": "Johan11690/trubrics-python",
+    "stars": 0,
+    "updated_at": "2026-10-17T22:15:59Z",
+    "url": "https://github.com/Johan11690/trubrics-python"
+  },
+  {
+    "description": "Hard USD spend limits for LLM agents in Rust: per-agent and fleet-wide caps, kill switches, and automatic model downgrad",
+    "id": "Mattbusel/llm-budget",
+    "language": "Rust",
+    "name": "Mattbusel/llm-budget",
+    "stars": 3,
+    "updated_at": "2026-10-17T22:15:49Z",
+    "url": "https://github.com/Mattbusel/llm-budget"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-17T22:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Cheaper and better Greptile alternative runs on your own github actions.",
@@ -59,7 +140,7 @@
     "language": "Python",
     "name": "llmspendguard/llm-spendguard",
     "stars": 0,
-    "updated_at": "2026-10-17T22:10:55Z",
+    "updated_at": "2026-10-17T22:25:22Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
@@ -72,21 +153,12 @@
     "url": "https://github.com/fernandasato363/mcp-server-langfuse"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61446,
-    "updated_at": "2026-10-17T22:15:22Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "\u4f01\u4e1a AI \u8d44\u6e90\u7ba1\u7406\u5e73\u53f0 \u2014\u2014 \u628a MCP \u670d\u52a1 / Skill / Agent / AI \u5e94\u7528 \u7edf\u4e00\u6210\u4e00\u5957\u53ef\u7ba1\u3001\u53ef\u7b97\u3001\u53ef\u5ba1\u7684\u8d44\u4ea7\u3002\u4e00\u5957\u8eab\u4efd\u3001\u4e00\u5957\u6743\u9650\u3001\u4e00\u5957\u8ba1\u91cf\u3001\u4e00\u5957\u5ba1\u8ba1\u3002\u81ea\u6258\u7ba1 \u00b7 MIT\u3002",
     "id": "01men/ybkkasi",
     "language": "TypeScript",
     "name": "01men/ybkkasi",
     "stars": 0,
-    "updated_at": "2026-10-17T22:06:42Z",
+    "updated_at": "2026-10-17T22:17:38Z",
     "url": "https://github.com/01men/ybkkasi"
   },
   {
@@ -153,15 +225,6 @@
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-17T22:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
     "id": "KavyaZhou7140/ZizkaDB",
     "language": "Python",
@@ -196,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T21:56:18Z",
     "url": "https://github.com/mghrkdhlwx/ZizkaDB"
-  },
-  {
-    "description": "Open-source LLM observability. See every prompt, completion, token, cost, latency and error as traces and sessions. Pyth",
-    "id": "dheerajkarwasra/spanlight",
-    "language": "Python",
-    "name": "dheerajkarwasra/spanlight",
-    "stars": 0,
-    "updated_at": "2026-10-17T22:00:43Z",
-    "url": "https://github.com/dheerajkarwasra/spanlight"
   },
   {
     "description": "Model Context Protocol (MCP) Server for Langfuse Prompt Management. This server allows you to access and manage your Lan",
@@ -248,7 +302,7 @@
     "language": "Go",
     "name": "a-novel/service-genai",
     "stars": 1,
-    "updated_at": "2026-10-17T21:38:49Z",
+    "updated_at": "2026-10-17T22:28:39Z",
     "url": "https://github.com/a-novel/service-genai"
   },
   {
@@ -342,6 +396,15 @@
     "url": "https://github.com/mVasquez66774/trubrics-python"
   },
   {
+    "description": "An HTTP proxy for gathering local LLM instance metrics",
+    "id": "juusolatva/metrics_proxy",
+    "language": "Go",
+    "name": "juusolatva/metrics_proxy",
+    "stars": 0,
+    "updated_at": "2026-10-17T21:25:01Z",
+    "url": "https://github.com/juusolatva/metrics_proxy"
+  },
+  {
     "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
     "id": "AndrewMustafa/ZizkaDB",
     "language": "Python",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-17T21:18:02Z",
     "url": "https://github.com/ynuwudnsok/llmaker"
-  },
-  {
-    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
-    "id": "malikelly91711/awesome-ai-gateway",
-    "language": "JavaScript",
-    "name": "malikelly91711/awesome-ai-gateway",
-    "stars": 0,
-    "updated_at": "2026-10-17T21:17:54Z",
-    "url": "https://github.com/malikelly91711/awesome-ai-gateway"
-  },
-  {
-    "description": "An open-source CLI plus GitHub Action that prevents unsafe prompt, model, retrieval, tool, or configuration changes from",
-    "id": "Chris0Jeky/llm-release-gate",
-    "language": "Python",
-    "name": "Chris0Jeky/llm-release-gate",
-    "stars": 1,
-    "updated_at": "2026-10-17T21:14:58Z",
-    "url": "https://github.com/Chris0Jeky/llm-release-gate"
-  },
-  {
-    "description": "One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod",
-    "id": "valteresj2/agent-hangar",
-    "language": "Python",
-    "name": "valteresj2/agent-hangar",
-    "stars": 3,
-    "updated_at": "2026-10-17T21:10:52Z",
-    "url": "https://github.com/valteresj2/agent-hangar"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8903,
-    "updated_at": "2026-10-17T21:06:46Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Tuned Variables Language (TVL) by Traigent: typed specification language, validators, CLI tools, editor support, and doc",
-    "id": "Traigent/tvl",
-    "language": "Python",
-    "name": "Traigent/tvl",
-    "stars": 0,
-    "updated_at": "2026-10-17T21:04:22Z",
-    "url": "https://github.com/Traigent/tvl"
-  },
-  {
-    "description": "Self-hosted AI Agents Platform for AI Native companies. Claude Code, Codex, Gemini, OpenCode agents. Apache 2.0.  ",
-    "id": "Abilityai/trinity",
-    "language": "Python",
-    "name": "Abilityai/trinity",
-    "stars": 665,
-    "updated_at": "2026-10-17T21:00:11Z",
-    "url": "https://github.com/Abilityai/trinity"
-  },
-  {
-    "description": "Self-hosted prompt library and template editor with an MCP server for ChatGPT. Save prompts as sections with {{variables",
-    "id": "chrysogonus/prompt-maker-studio",
-    "language": "Python",
-    "name": "chrysogonus/prompt-maker-studio",
-    "stars": 3,
-    "updated_at": "2026-10-17T22:01:11Z",
-    "url": "https://github.com/chrysogonus/prompt-maker-studio"
   }
 ]
