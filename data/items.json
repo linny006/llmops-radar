@@ -1,21 +1,21 @@
 [
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61439,
-    "updated_at": "2026-10-17T16:30:08Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "description": "Self-hostable AI token pools \u2014 govern your org's AI usage with per-member keys, quotas, and leak detection; or deposit s",
+    "id": "Phat1911/Tributary",
+    "language": "Rust",
+    "name": "Phat1911/Tributary",
+    "stars": 0,
+    "updated_at": "2026-10-17T16:43:47Z",
+    "url": "https://github.com/Phat1911/Tributary"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-17T16:29:40Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
+    "description": "Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio",
+    "id": "naim-munshi/metriqen-llm-serving-optimization",
+    "language": "Python",
+    "name": "naim-munshi/metriqen-llm-serving-optimization",
+    "stars": 0,
+    "updated_at": "2026-10-17T16:42:31Z",
+    "url": "https://github.com/naim-munshi/metriqen-llm-serving-optimization"
   },
   {
     "description": "Production-style multilingual RAG with tenant-safe retrieval, evidence provenance, deterministic validation, observabili",
@@ -23,8 +23,35 @@
     "language": "Python",
     "name": "negativexq/knowledge-base-rag",
     "stars": 1,
-    "updated_at": "2026-10-17T16:29:29Z",
+    "updated_at": "2026-10-17T16:42:10Z",
     "url": "https://github.com/negativexq/knowledge-base-rag"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-17T16:40:59Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61439,
+    "updated_at": "2026-10-17T16:36:43Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-17T16:30:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Tamper-evident, stranger-verifiable receipts for LLM cost-savings \u2014 anyone can recompute your caching/routing savings ma",
@@ -32,7 +59,7 @@
     "language": "Python",
     "name": "thequantumfalcon/kry",
     "stars": 1,
-    "updated_at": "2026-10-17T16:28:34Z",
+    "updated_at": "2026-10-17T16:45:16Z",
     "url": "https://github.com/thequantumfalcon/kry"
   },
   {
@@ -41,7 +68,7 @@
     "language": "Python",
     "name": "admina-org/admina",
     "stars": 8,
-    "updated_at": "2026-10-17T16:28:26Z",
+    "updated_at": "2026-10-17T16:40:18Z",
     "url": "https://github.com/admina-org/admina"
   },
   {
@@ -52,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T16:23:05Z",
     "url": "https://github.com/Viiotti/portifolio"
-  },
-  {
-    "description": "Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio",
-    "id": "naim-munshi/metriqen-llm-serving-optimization",
-    "language": "Python",
-    "name": "naim-munshi/metriqen-llm-serving-optimization",
-    "stars": 0,
-    "updated_at": "2026-10-17T16:29:59Z",
-    "url": "https://github.com/naim-munshi/metriqen-llm-serving-optimization"
   },
   {
     "description": "Python \u00b7 PSI drift detection \u00b7 cost telemetry \u2014 Monitoring built for LLM applications: cost per feature and per success,",
@@ -88,15 +106,6 @@
     "stars": 2571,
     "updated_at": "2026-10-17T16:16:23Z",
     "url": "https://github.com/apache/burr"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-17T16:15:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
@@ -176,7 +185,7 @@
     "language": "Python",
     "name": "jostrm/azure-enterprise-scale-ml",
     "stars": 53,
-    "updated_at": "2026-10-17T15:45:08Z",
+    "updated_at": "2026-10-17T16:41:45Z",
     "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-17T15:05:01Z",
     "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
-  },
-  {
-    "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
-    "id": "prasad-kavuri/prasad-portfolio",
-    "language": "TypeScript",
-    "name": "prasad-kavuri/prasad-portfolio",
-    "stars": 0,
-    "updated_at": "2026-10-17T13:46:44Z",
-    "url": "https://github.com/prasad-kavuri/prasad-portfolio"
   }
 ]
