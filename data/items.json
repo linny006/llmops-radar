@@ -1,12 +1,57 @@
 [
   {
+    "description": "Evaluation CI, observability, and trajectory testing for production AI agents. The exit code your CI acts on and the ver",
+    "id": "IlaKhan17/proofstep",
+    "language": "Python",
+    "name": "IlaKhan17/proofstep",
+    "stars": 0,
+    "updated_at": "2026-10-17T11:59:06Z",
+    "url": "https://github.com/IlaKhan17/proofstep"
+  },
+  {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "Python",
     "name": "vllm-project/vllm-ascend",
     "stars": 2995,
-    "updated_at": "2026-10-17T11:42:53Z",
+    "updated_at": "2026-10-17T11:58:20Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Dark Gravity LLMOps Standard: ISO/IEC/IEEE 42010 agent observability, prompt lineage, and runtime guardrails for autonom",
+    "id": "lgcorzo/llmops-python-package",
+    "language": "Jupyter Notebook",
+    "name": "lgcorzo/llmops-python-package",
+    "stars": 1,
+    "updated_at": "2026-10-17T11:56:14Z",
+    "url": "https://github.com/lgcorzo/llmops-python-package"
+  },
+  {
+    "description": "Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio",
+    "id": "naim-munshi/metriqen-llm-serving-optimization",
+    "language": "Python",
+    "name": "naim-munshi/metriqen-llm-serving-optimization",
+    "stars": 0,
+    "updated_at": "2026-10-17T11:57:34Z",
+    "url": "https://github.com/naim-munshi/metriqen-llm-serving-optimization"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 32,
+    "updated_at": "2026-10-17T11:47:55Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-17T11:45:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "A small fine-tuned model that matches frontier APIs on SEC filing extraction at a tenth of the per-call cost: QLoRA fine",
@@ -36,6 +81,15 @@
     "url": "https://github.com/Peter-A-P/ai-release-gate"
   },
   {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 594,
+    "updated_at": "2026-10-17T11:58:30Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
     "description": "Open-source LLMOps platform with prompt management, an OpenAI-compatible AI gateway, OpenTelemetry tracing, a versioned ",
     "id": "AcruxCore/AcruxCore",
     "language": "TypeScript",
@@ -61,24 +115,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T11:40:03Z",
     "url": "https://github.com/veerarakesh56/warden"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 593,
-    "updated_at": "2026-10-17T11:41:02Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-17T11:30:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Signed webhook/event delivery for Cycles \u2014 retries, HMAC, replay, audit, governance events",
@@ -140,7 +176,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61428,
-    "updated_at": "2026-10-17T11:40:39Z",
+    "updated_at": "2026-10-17T11:49:52Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -214,24 +250,6 @@
     "stars": 46,
     "updated_at": "2026-10-17T10:41:31Z",
     "url": "https://github.com/sergey-homenko/llm_cost_tracker"
-  },
-  {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 32,
-    "updated_at": "2026-10-17T10:37:56Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio",
-    "id": "naim-munshi/metriqen-llm-serving-optimization",
-    "language": "Python",
-    "name": "naim-munshi/metriqen-llm-serving-optimization",
-    "stars": 0,
-    "updated_at": "2026-10-17T10:36:32Z",
-    "url": "https://github.com/naim-munshi/metriqen-llm-serving-optimization"
   },
   {
     "description": "Production LLM call layer for AI agents and tools: keep OpenAI/Anthropic/AI SDK/LiteLLM, hot-swap models with MDA preset",
@@ -430,23 +448,5 @@
     "stars": 26,
     "updated_at": "2026-10-17T09:56:09Z",
     "url": "https://github.com/8monkey-ai/hebo-gateway"
-  },
-  {
-    "description": "Tuned Variables Language (TVL) by Traigent: typed specification language, validators, CLI tools, editor support, and doc",
-    "id": "Traigent/tvl",
-    "language": "Python",
-    "name": "Traigent/tvl",
-    "stars": 0,
-    "updated_at": "2026-10-17T09:54:49Z",
-    "url": "https://github.com/Traigent/tvl"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26079,
-    "updated_at": "2026-10-17T09:54:31Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   }
 ]
