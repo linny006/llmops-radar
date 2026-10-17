@@ -1,8 +1,116 @@
 [
   {
+    "description": "A MCP server allowing LLM agents to easily connect and retrieve data from any database",
+    "id": "PatriciaRyu65/turbular",
+    "language": "\u2014",
+    "name": "PatriciaRyu65/turbular",
+    "stars": 0,
+    "updated_at": "2026-10-17T09:44:50Z",
+    "url": "https://github.com/PatriciaRyu65/turbular"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 32,
+    "updated_at": "2026-10-17T09:44:05Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Production-style multilingual RAG with tenant-safe retrieval, evidence provenance, deterministic validation, observabili",
+    "id": "negativexq/knowledge-base-rag",
+    "language": "Python",
+    "name": "negativexq/knowledge-base-rag",
+    "stars": 1,
+    "updated_at": "2026-10-17T09:42:57Z",
+    "url": "https://github.com/negativexq/knowledge-base-rag"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61419,
+    "updated_at": "2026-10-17T09:41:58Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
+    "id": "aTorun3760/awesome-ai-gateway",
+    "language": "JavaScript",
+    "name": "aTorun3760/awesome-ai-gateway",
+    "stars": 0,
+    "updated_at": "2026-10-17T09:40:05Z",
+    "url": "https://github.com/aTorun3760/awesome-ai-gateway"
+  },
+  {
+    "description": "A MCP server allowing LLM agents to easily connect and retrieve data from any database",
+    "id": "fernandapetrov/turbular",
+    "language": "Python",
+    "name": "fernandapetrov/turbular",
+    "stars": 0,
+    "updated_at": "2026-10-17T09:36:16Z",
+    "url": "https://github.com/fernandapetrov/turbular"
+  },
+  {
+    "description": "Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio",
+    "id": "naim-munshi/metriqen-llm-serving-optimization",
+    "language": "Python",
+    "name": "naim-munshi/metriqen-llm-serving-optimization",
+    "stars": 0,
+    "updated_at": "2026-10-17T09:44:57Z",
+    "url": "https://github.com/naim-munshi/metriqen-llm-serving-optimization"
+  },
+  {
+    "description": "Evals, not vibes: a short hands-on workshop on measuring an LLM feature. Build a tiny eval harness in plain Python, then",
+    "id": "jars-demo/evals-demo",
+    "language": "TypeScript",
+    "name": "jars-demo/evals-demo",
+    "stars": 0,
+    "updated_at": "2026-10-17T09:36:08Z",
+    "url": "https://github.com/jars-demo/evals-demo"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "language": "Go",
+    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-10-17T09:39:00Z",
+    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-17T09:34:02Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11881,
+    "updated_at": "2026-10-17T09:42:45Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-17T09:30:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
     "id": "nAshikaga15073/llmaker",
-    "language": "\u2014",
+    "language": "Go",
     "name": "nAshikaga15073/llmaker",
     "stars": 0,
     "updated_at": "2026-10-17T09:30:08Z",
@@ -22,8 +130,8 @@
     "id": "mozilla-ai/otari",
     "language": "Python",
     "name": "mozilla-ai/otari",
-    "stars": 588,
-    "updated_at": "2026-10-17T09:25:05Z",
+    "stars": 589,
+    "updated_at": "2026-10-17T09:44:34Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -54,15 +162,6 @@
     "url": "https://github.com/alebgl77/awesome-ai-architect"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-17T09:19:20Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Single-binary LLM observability for Claude Code, Codex and OpenAI/Gemini apps: OTLP or proxy in, SQLite inside, UI and a",
     "id": "Ray0907/spanbox",
     "language": "Go",
@@ -70,24 +169,6 @@
     "stars": 1,
     "updated_at": "2026-10-17T09:19:18Z",
     "url": "https://github.com/Ray0907/spanbox"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61418,
-    "updated_at": "2026-10-17T09:30:16Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-17T09:15:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
@@ -106,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-10-17T09:22:15Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
-    "description": "Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio",
-    "id": "naim-munshi/metriqen-llm-serving-optimization",
-    "language": "Python",
-    "name": "naim-munshi/metriqen-llm-serving-optimization",
-    "stars": 0,
-    "updated_at": "2026-10-17T09:30:18Z",
-    "url": "https://github.com/naim-munshi/metriqen-llm-serving-optimization"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -149,7 +221,7 @@
     "language": "Python",
     "name": "veerarakesh56/warden",
     "stars": 0,
-    "updated_at": "2026-10-17T09:11:17Z",
+    "updated_at": "2026-10-17T09:43:03Z",
     "url": "https://github.com/veerarakesh56/warden"
   },
   {
@@ -171,15 +243,6 @@
     "url": "https://github.com/digline/digline"
   },
   {
-    "description": "Evals, not vibes: a short hands-on workshop on measuring an LLM feature. Build a tiny eval harness in plain Python, then",
-    "id": "jars-demo/evals-demo",
-    "language": "TypeScript",
-    "name": "jars-demo/evals-demo",
-    "stars": 0,
-    "updated_at": "2026-10-17T09:03:44Z",
-    "url": "https://github.com/jars-demo/evals-demo"
-  },
-  {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "Python",
@@ -189,31 +252,13 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 32,
-    "updated_at": "2026-10-17T09:01:44Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 35947,
+    "stars": 35950,
     "updated_at": "2026-10-17T09:00:18Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Production-style multilingual RAG with tenant-safe retrieval, evidence provenance, deterministic validation, observabili",
-    "id": "negativexq/knowledge-base-rag",
-    "language": "Python",
-    "name": "negativexq/knowledge-base-rag",
-    "stars": 1,
-    "updated_at": "2026-10-17T08:50:55Z",
-    "url": "https://github.com/negativexq/knowledge-base-rag"
   },
   {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
@@ -221,7 +266,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 110,
-    "updated_at": "2026-10-17T08:47:28Z",
+    "updated_at": "2026-10-17T09:42:29Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -230,7 +275,7 @@
     "language": "Jupyter Notebook",
     "name": "DiogoRibeiro7/rag-quality-engine",
     "stars": 0,
-    "updated_at": "2026-10-17T08:58:34Z",
+    "updated_at": "2026-10-17T09:32:26Z",
     "url": "https://github.com/DiogoRibeiro7/rag-quality-engine"
   },
   {
@@ -351,15 +396,6 @@
     "url": "https://github.com/vocion/vocion-core"
   },
   {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "language": "Go",
-    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "stars": 1,
-    "updated_at": "2026-10-17T09:20:07Z",
-    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
-  },
-  {
     "description": "Self-hosted Go LLM gateway with a risk-gated response cache. OpenAI-compatible API in front of AWS Bedrock, Anthropic, O",
     "id": "kelvran/gateway",
     "language": "Go",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-17T07:07:14Z",
     "url": "https://github.com/meiharper795/awesome-ai-gateway"
-  },
-  {
-    "description": "Product analytics for AI Assistants",
-    "id": "nathaliefreitas/trubrics-python",
-    "language": "Python",
-    "name": "nathaliefreitas/trubrics-python",
-    "stars": 0,
-    "updated_at": "2026-10-17T07:04:04Z",
-    "url": "https://github.com/nathaliefreitas/trubrics-python"
-  },
-  {
-    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
-    "id": "cuihuan/awesome-ai-gateway",
-    "language": "HTML",
-    "name": "cuihuan/awesome-ai-gateway",
-    "stars": 130,
-    "updated_at": "2026-10-17T07:03:32Z",
-    "url": "https://github.com/cuihuan/awesome-ai-gateway"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 1,
-    "updated_at": "2026-10-17T07:01:46Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "The open framework for governed AI development: EU AI Act compliance, PII redaction, MCP proxy, prompt-injection firewal",
-    "id": "admina-org/admina",
-    "language": "Python",
-    "name": "admina-org/admina",
-    "stars": 8,
-    "updated_at": "2026-10-17T07:00:43Z",
-    "url": "https://github.com/admina-org/admina"
   }
 ]
