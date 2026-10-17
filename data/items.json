@@ -1,30 +1,12 @@
 [
   {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
+    "description": "Building reliable LLM Agents \u2014 Agent eval, evidence grounding, context engineering",
+    "id": "KBber/KBber",
+    "language": "\u2014",
+    "name": "KBber/KBber",
     "stars": 0,
-    "updated_at": "2026-10-17T01:39:47Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-17T01:37:43Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Production-style multilingual RAG with tenant-safe retrieval, evidence provenance, deterministic validation, observabili",
-    "id": "negativexq/knowledge-base-rag",
-    "language": "Python",
-    "name": "negativexq/knowledge-base-rag",
-    "stars": 1,
-    "updated_at": "2026-10-17T01:45:21Z",
-    "url": "https://github.com/negativexq/knowledge-base-rag"
+    "updated_at": "2026-10-17T01:59:18Z",
+    "url": "https://github.com/KBber/KBber"
   },
   {
     "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
@@ -32,8 +14,44 @@
     "language": "Go",
     "name": "a-novel/service-genai",
     "stars": 1,
-    "updated_at": "2026-10-17T01:33:56Z",
+    "updated_at": "2026-10-17T01:57:33Z",
     "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-17T01:54:07Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61400,
+    "updated_at": "2026-10-17T01:59:21Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
+    "id": "burakdede/lorepack",
+    "language": "TypeScript",
+    "name": "burakdede/lorepack",
+    "stars": 3,
+    "updated_at": "2026-10-17T01:49:10Z",
+    "url": "https://github.com/burakdede/lorepack"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2995,
+    "updated_at": "2026-10-17T01:46:41Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -41,8 +59,26 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-10-17T01:33:08Z",
+    "updated_at": "2026-10-17T01:45:25Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Production-style multilingual RAG with tenant-safe retrieval, evidence provenance, deterministic validation, observabili",
+    "id": "negativexq/knowledge-base-rag",
+    "language": "Python",
+    "name": "negativexq/knowledge-base-rag",
+    "stars": 1,
+    "updated_at": "2026-10-17T01:45:24Z",
+    "url": "https://github.com/negativexq/knowledge-base-rag"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-17T01:39:47Z",
+    "url": "https://github.com/toxicwind/ranch"
   },
   {
     "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
@@ -54,13 +90,13 @@
     "url": "https://github.com/redevops-io/agentic-os"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61400,
-    "updated_at": "2026-10-17T01:44:53Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "description": "The execution control plane for AI agents. Govern every model request, MCP tool call, A2A delegation, and downstream act",
+    "id": "GetBusbar/busbar",
+    "language": "Rust",
+    "name": "GetBusbar/busbar",
+    "stars": 194,
+    "updated_at": "2026-10-17T01:24:59Z",
+    "url": "https://github.com/GetBusbar/busbar"
   },
   {
     "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
@@ -131,7 +167,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30596,
-    "updated_at": "2026-10-17T00:56:10Z",
+    "updated_at": "2026-10-17T01:47:47Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -140,7 +176,7 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 42,
-    "updated_at": "2026-10-17T00:57:41Z",
+    "updated_at": "2026-10-17T01:47:43Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
@@ -149,7 +185,7 @@
     "language": "Shell",
     "name": "juanjtov/adlc-pipeline",
     "stars": 0,
-    "updated_at": "2026-10-17T00:47:31Z",
+    "updated_at": "2026-10-17T01:55:51Z",
     "url": "https://github.com/juanjtov/adlc-pipeline"
   },
   {
@@ -158,7 +194,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 110,
-    "updated_at": "2026-10-17T01:41:37Z",
+    "updated_at": "2026-10-17T01:53:31Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -324,6 +360,15 @@
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26069,
+    "updated_at": "2026-10-16T22:57:08Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
     "id": "JavisBot-Service/javis-transparency",
     "language": "Python",
@@ -396,15 +441,6 @@
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26070,
-    "updated_at": "2026-10-16T22:57:08Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
     "id": "vivek-541/vivek-541",
     "language": "HTML",
@@ -412,41 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-16T21:28:32Z",
     "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 2156,
-    "updated_at": "2026-10-16T21:23:27Z",
-    "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "Azure API Management as a centralised AI Gateway for Microsoft Foundry and Azure OpenAI models, with per-application cos",
-    "id": "muazuisah/azure-ai-gateway-cost-attribution",
-    "language": "HCL",
-    "name": "muazuisah/azure-ai-gateway-cost-attribution",
-    "stars": 0,
-    "updated_at": "2026-10-16T21:23:25Z",
-    "url": "https://github.com/muazuisah/azure-ai-gateway-cost-attribution"
-  },
-  {
-    "description": "LiteLLM plugin that downgrades selected routes to cheaper models as a team's budget runs out",
-    "id": "amirimi/litellm-brownout",
-    "language": "Python",
-    "name": "amirimi/litellm-brownout",
-    "stars": 0,
-    "updated_at": "2026-10-16T21:16:47Z",
-    "url": "https://github.com/amirimi/litellm-brownout"
-  },
-  {
-    "description": "The execution control plane for AI agents. Govern every model request, MCP tool call, A2A delegation, and downstream act",
-    "id": "GetBusbar/busbar",
-    "language": "Rust",
-    "name": "GetBusbar/busbar",
-    "stars": 193,
-    "updated_at": "2026-10-17T01:24:59Z",
-    "url": "https://github.com/GetBusbar/busbar"
   }
 ]
