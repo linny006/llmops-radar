@@ -1,12 +1,93 @@
 [
   {
+    "description": "Evals, not vibes: a short hands-on workshop on measuring an LLM feature. Build a tiny eval harness in plain Python, then",
+    "id": "jars-demo/evals-demo",
+    "language": "\u2014",
+    "name": "jars-demo/evals-demo",
+    "stars": 0,
+    "updated_at": "2026-10-17T08:55:07Z",
+    "url": "https://github.com/jars-demo/evals-demo"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 32,
+    "updated_at": "2026-10-17T08:55:00Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 588,
+    "updated_at": "2026-10-17T08:53:52Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2995,
+    "updated_at": "2026-10-17T08:52:28Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Production-style multilingual RAG with tenant-safe retrieval, evidence provenance, deterministic validation, observabili",
+    "id": "negativexq/knowledge-base-rag",
+    "language": "Python",
+    "name": "negativexq/knowledge-base-rag",
+    "stars": 1,
+    "updated_at": "2026-10-17T08:50:55Z",
+    "url": "https://github.com/negativexq/knowledge-base-rag"
+  },
+  {
+    "description": "Multimodal RAG QA for cosmetics regulation: hybrid retrieval, two-stage reranking, evidence gating that refuses unsuppor",
+    "id": "Xander-Xai/Beauty-Industry-RAG-QA-System",
+    "language": "Python",
+    "name": "Xander-Xai/Beauty-Industry-RAG-QA-System",
+    "stars": 0,
+    "updated_at": "2026-10-17T08:58:51Z",
+    "url": "https://github.com/Xander-Xai/Beauty-Industry-RAG-QA-System"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 110,
+    "updated_at": "2026-10-17T08:47:28Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-17T08:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
     "id": "veerarakesh56/warden",
     "language": "Python",
     "name": "veerarakesh56/warden",
     "stars": 0,
-    "updated_at": "2026-10-17T08:45:06Z",
+    "updated_at": "2026-10-17T08:57:45Z",
     "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35946,
+    "updated_at": "2026-10-17T09:00:18Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Evaluation-first RAG and LLMOps platform for production-grade document QA, tracing, regression testing, and cost-aware e",
@@ -14,7 +95,7 @@
     "language": "Jupyter Notebook",
     "name": "DiogoRibeiro7/rag-quality-engine",
     "stars": 0,
-    "updated_at": "2026-10-17T08:43:34Z",
+    "updated_at": "2026-10-17T08:58:34Z",
     "url": "https://github.com/DiogoRibeiro7/rag-quality-engine"
   },
   {
@@ -23,7 +104,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61415,
-    "updated_at": "2026-10-17T08:44:08Z",
+    "updated_at": "2026-10-17T08:59:59Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -43,15 +124,6 @@
     "stars": 5,
     "updated_at": "2026-10-17T08:37:17Z",
     "url": "https://github.com/ArtVsMark/Engineering-Incidents-Playbook"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-17T08:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
@@ -99,15 +171,6 @@
     "url": "https://github.com/langwatch/langwatch"
   },
   {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 32,
-    "updated_at": "2026-10-17T08:13:16Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
     "description": "Local-first LLM gateway for codex / hermes / Claude Code: bytes go upstream unchanged, the prompt cache keeps hitting, a",
     "id": "flyer103/vadis",
     "language": "Rust",
@@ -124,15 +187,6 @@
     "stars": 4,
     "updated_at": "2026-10-17T08:20:10Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 587,
-    "updated_at": "2026-10-17T08:07:26Z",
-    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
@@ -160,15 +214,6 @@
     "stars": 3,
     "updated_at": "2026-10-17T08:02:25Z",
     "url": "https://github.com/burakdede/lorepack"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35945,
-    "updated_at": "2026-10-17T08:44:51Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
@@ -342,15 +387,6 @@
     "url": "https://github.com/Thiago87283/llmaker"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2995,
-    "updated_at": "2026-10-17T08:22:40Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "The platform for continuously improving AI agents.",
     "id": "overmind-core/overmind",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-17T06:34:08Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "LLM spend tracking and budgets for Rails \u2014 by user, feature, or any tag, in your own database, no proxy.",
-    "id": "sergey-homenko/llm_cost_tracker",
-    "language": "Ruby",
-    "name": "sergey-homenko/llm_cost_tracker",
-    "stars": 46,
-    "updated_at": "2026-10-17T06:20:47Z",
-    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 110,
-    "updated_at": "2026-10-17T07:04:02Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "An LLM inference engine for persistent chat bots and agents. It allows models to forget old and unimportant tokens to ke",
-    "id": "cosmonomic/pulsarlm",
-    "language": "C++",
-    "name": "cosmonomic/pulsarlm",
-    "stars": 4,
-    "updated_at": "2026-10-17T06:04:04Z",
-    "url": "https://github.com/cosmonomic/pulsarlm"
-  },
-  {
-    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
-    "id": "HugoAlmeida50865/awesome-ai-gateway",
-    "language": "JavaScript",
-    "name": "HugoAlmeida50865/awesome-ai-gateway",
-    "stars": 0,
-    "updated_at": "2026-10-17T05:46:40Z",
-    "url": "https://github.com/HugoAlmeida50865/awesome-ai-gateway"
   }
 ]
