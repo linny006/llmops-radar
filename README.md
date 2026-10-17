@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-17 03:15 UTC
+> ⏰ Last updated: 2026-10-17 03:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,21 +42,21 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 41 | Go | 2026-10-17 | Agentic Runtime |
-| 2 | [runtm-ai/runtm](https://github.com/runtm-ai/runtm) | 300 | Python | 2026-10-17 | Open-source sandboxes where coding agents build and deploy. Spin up isolated environments where Claude Code, Cursor, and |
-| 3 | [llmsyscore/llm-systems-manager](https://github.com/llmsyscore/llm-systems-manager) | 5 | Python | 2026-10-17 | LLM Systems Manager — real-time observability and control for LLM systems |
-| 4 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 8895 | Rust | 2026-10-17 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
-| 5 | [Alayra-Systems-Pvt-Limited/Alayra-Nexus](https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus) | 4 | TypeScript | 2026-10-17 | Open-source AI gateway and operations platform. Bring your own provider API keys and unify every AI model behind a singl |
-| 6 | [BurraRohan/PersonaAI](https://github.com/BurraRohan/PersonaAI) | 0 | Python | 2026-10-17 | Multi-agent LinkedIn branding system with ReAct tool-calling, human-in-the-loop review, full agent traces, and a securit |
-| 7 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-17 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 8 | [Phat1911/Tributary](https://github.com/Phat1911/Tributary) | 0 | Rust | 2026-10-17 | Self-hostable AI token pools — govern your org's AI usage with per-member keys, quotas, and leak detection; or deposit s |
-| 9 | [fakhruldeen/LocalPilot](https://github.com/fakhruldeen/LocalPilot) | 1 | HTML | 2026-10-17 | LocalPilot is a Python application that helps nontechnical users discover, install, run, monitor, update and remove loca |
-| 10 | [juanjtov/adlc-pipeline](https://github.com/juanjtov/adlc-pipeline) | 0 | Shell | 2026-10-17 | Portable agentic SDLC pipeline as a Claude Code plugin: 4 role agents, 2 human gates, unit-tested guardrails, self-impro |
-| 11 | [hwdsl2/gatewaycrate](https://github.com/hwdsl2/gatewaycrate) | 10 | Shell | 2026-10-17 | GatewayCrate: self-hosted AI gateway powered by LiteLLM. Unified OpenAI-compatible API for 100+ cloud and local LLM prov |
-| 12 | [prasad-kavuri/prasad-portfolio](https://github.com/prasad-kavuri/prasad-portfolio) | 0 | TypeScript | 2026-10-17 | VP / Head of AI Engineering portfolio — 14 production AI demos, governance-first architecture. prasadkavuri.com |
-| 13 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 28420 | Python | 2026-10-17 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
-| 14 | [sandeepk24/learn-devops-playbook](https://github.com/sandeepk24/learn-devops-playbook) | 1 | Python | 2026-10-17 | A hands-on library for DevOps, Cloud, and AI engineers: real production scenarios for AWS, Kubernetes, Docker, and LLMOp |
-| 15 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 61403 | Python | 2026-10-17 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 1 | [prasad-kavuri/prasad-portfolio](https://github.com/prasad-kavuri/prasad-portfolio) | 0 | TypeScript | 2026-10-17 | VP / Head of AI Engineering portfolio — 14 production AI demos, governance-first architecture. prasadkavuri.com |
+| 2 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 41 | Go | 2026-10-17 | Agentic Runtime |
+| 3 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 28420 | Python | 2026-10-17 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
+| 4 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 61405 | Python | 2026-10-17 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 5 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-17 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 6 | [runtm-ai/runtm](https://github.com/runtm-ai/runtm) | 300 | Python | 2026-10-17 | Open-source sandboxes where coding agents build and deploy. Spin up isolated environments where Claude Code, Cursor, and |
+| 7 | [llmsyscore/llm-systems-manager](https://github.com/llmsyscore/llm-systems-manager) | 5 | Python | 2026-10-17 | LLM Systems Manager — real-time observability and control for LLM systems |
+| 8 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 8895 | Rust | 2026-10-17 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
+| 9 | [Alayra-Systems-Pvt-Limited/Alayra-Nexus](https://github.com/Alayra-Systems-Pvt-Limited/Alayra-Nexus) | 4 | TypeScript | 2026-10-17 | Open-source AI gateway and operations platform. Bring your own provider API keys and unify every AI model behind a singl |
+| 10 | [BurraRohan/PersonaAI](https://github.com/BurraRohan/PersonaAI) | 0 | Python | 2026-10-17 | Multi-agent LinkedIn branding system with ReAct tool-calling, human-in-the-loop review, full agent traces, and a securit |
+| 11 | [Phat1911/Tributary](https://github.com/Phat1911/Tributary) | 0 | Rust | 2026-10-17 | Self-hostable AI token pools — govern your org's AI usage with per-member keys, quotas, and leak detection; or deposit s |
+| 12 | [fakhruldeen/LocalPilot](https://github.com/fakhruldeen/LocalPilot) | 1 | HTML | 2026-10-17 | LocalPilot is a Python application that helps nontechnical users discover, install, run, monitor, update and remove loca |
+| 13 | [juanjtov/adlc-pipeline](https://github.com/juanjtov/adlc-pipeline) | 0 | Shell | 2026-10-17 | Portable agentic SDLC pipeline as a Claude Code plugin: 4 role agents, 2 human gates, unit-tested guardrails, self-impro |
+| 14 | [hwdsl2/gatewaycrate](https://github.com/hwdsl2/gatewaycrate) | 10 | Shell | 2026-10-17 | GatewayCrate: self-hosted AI gateway powered by LiteLLM. Unified OpenAI-compatible API for 100+ cloud and local LLM prov |
+| 15 | [sandeepk24/learn-devops-playbook](https://github.com/sandeepk24/learn-devops-playbook) | 1 | Python | 2026-10-17 | A hands-on library for DevOps, Cloud, and AI engineers: real production scenarios for AWS, Kubernetes, Docker, and LLMOp |
 | 16 | [llmspendguard/llm-spendguard](https://github.com/llmspendguard/llm-spendguard) | 0 | Python | 2026-10-17 | Know what an LLM job will cost before you run it — and prove your ledger matches the provider's bill. Pre-submit estimat |
 | 17 | [SourceShift/mini-ork](https://github.com/SourceShift/mini-ork) | 32 | Python | 2026-10-17 | Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack |
 | 18 | [veritasfuji-japan/veritas_os](https://github.com/veritasfuji-japan/veritas_os) | 42 | Python | 2026-10-17 | VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails, |
