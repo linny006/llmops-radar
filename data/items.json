@@ -1,12 +1,75 @@
 [
   {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-17T01:00:04Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
     "description": "Production-style multilingual RAG with tenant-safe retrieval, evidence provenance, deterministic validation, observabili",
     "id": "negativexq/knowledge-base-rag",
     "language": "Python",
     "name": "negativexq/knowledge-base-rag",
     "stars": 1,
-    "updated_at": "2026-10-17T00:45:12Z",
+    "updated_at": "2026-10-17T00:56:50Z",
     "url": "https://github.com/negativexq/knowledge-base-rag"
+  },
+  {
+    "description": "Find the waste in LLM agent traces: cost, p50/p95 latency and error metrics plus explainable detectors for tool-call loo",
+    "id": "Shibukedang27/agentlens-trace-analyzer",
+    "language": "Python",
+    "name": "Shibukedang27/agentlens-trace-analyzer",
+    "stars": 0,
+    "updated_at": "2026-10-17T00:56:41Z",
+    "url": "https://github.com/Shibukedang27/agentlens-trace-analyzer"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-17T00:56:00Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "A control layer that decides how an LLM should speak before it speaks",
+    "id": "Furox-Art/eq-layer",
+    "language": "Python",
+    "name": "Furox-Art/eq-layer",
+    "stars": 0,
+    "updated_at": "2026-10-17T00:55:37Z",
+    "url": "https://github.com/Furox-Art/eq-layer"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 42,
+    "updated_at": "2026-10-17T00:57:41Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "Portable agentic SDLC pipeline as a Claude Code plugin: 4 role agents, 2 human gates, unit-tested guardrails, self-impro",
+    "id": "juanjtov/adlc-pipeline",
+    "language": "Shell",
+    "name": "juanjtov/adlc-pipeline",
+    "stars": 0,
+    "updated_at": "2026-10-17T00:47:31Z",
+    "url": "https://github.com/juanjtov/adlc-pipeline"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-17T00:45:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
@@ -14,7 +77,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 110,
-    "updated_at": "2026-10-17T00:42:40Z",
+    "updated_at": "2026-10-17T00:46:35Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -32,26 +95,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61400,
-    "updated_at": "2026-10-17T00:44:32Z",
+    "updated_at": "2026-10-17T00:59:21Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-17T00:34:40Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Portable agentic SDLC pipeline as a Claude Code plugin: 4 role agents, 2 human gates, unit-tested guardrails, self-impro",
-    "id": "juanjtov/adlc-pipeline",
-    "language": "Shell",
-    "name": "juanjtov/adlc-pipeline",
-    "stars": 0,
-    "updated_at": "2026-10-17T00:44:36Z",
-    "url": "https://github.com/juanjtov/adlc-pipeline"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -70,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T00:32:25Z",
     "url": "https://github.com/Phat1911/Tributary"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-17T00:30:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Flight recorder & observability for AI agents: trace every model call, tool call, file edit and shell command live, with",
@@ -108,15 +144,6 @@
     "url": "https://github.com/Torvanis/janus"
   },
   {
-    "description": "A control layer that decides how an LLM should speak before it speaks",
-    "id": "Furox-Art/eq-layer",
-    "language": "Python",
-    "name": "Furox-Art/eq-layer",
-    "stars": 0,
-    "updated_at": "2026-10-17T00:07:40Z",
-    "url": "https://github.com/Furox-Art/eq-layer"
-  },
-  {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
     "id": "llmsyscore/llm-systems-manager",
     "language": "Python",
@@ -142,15 +169,6 @@
     "stars": 32,
     "updated_at": "2026-10-16T23:53:35Z",
     "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 42,
-    "updated_at": "2026-10-17T00:04:47Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
     "description": "Open-source sandboxes where coding agents build and deploy. Spin up isolated environments where Claude Code, Cursor, and",
@@ -205,15 +223,6 @@
     "stars": 9,
     "updated_at": "2026-10-16T23:23:19Z",
     "url": "https://github.com/GetSHIM/shim"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-16T23:21:59Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
@@ -428,7 +437,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 193,
-    "updated_at": "2026-10-17T00:38:26Z",
+    "updated_at": "2026-10-17T00:57:59Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-17T00:15:27Z",
     "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
-  },
-  {
-    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4960,
-    "updated_at": "2026-10-16T23:23:50Z",
-    "url": "https://github.com/langwatch/langwatch"
   }
 ]
