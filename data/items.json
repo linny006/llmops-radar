@@ -5,8 +5,26 @@
     "language": "JavaScript",
     "name": "happy520ai/gateway-price-check",
     "stars": 0,
-    "updated_at": "2026-10-16T23:43:07Z",
+    "updated_at": "2026-10-16T23:59:42Z",
     "url": "https://github.com/happy520ai/gateway-price-check"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 5,
+    "updated_at": "2026-10-16T23:57:25Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "LocalPilot is a Python application that helps nontechnical users discover, install, run, monitor, update and remove loca",
+    "id": "fakhruldeen/LocalPilot",
+    "language": "HTML",
+    "name": "fakhruldeen/LocalPilot",
+    "stars": 1,
+    "updated_at": "2026-10-16T23:54:41Z",
+    "url": "https://github.com/fakhruldeen/LocalPilot"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -14,8 +32,53 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61401,
-    "updated_at": "2026-10-16T23:44:57Z",
+    "updated_at": "2026-10-16T23:57:41Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Production-style multilingual RAG with tenant-safe retrieval, evidence provenance, deterministic validation, observabili",
+    "id": "negativexq/knowledge-base-rag",
+    "language": "Python",
+    "name": "negativexq/knowledge-base-rag",
+    "stars": 1,
+    "updated_at": "2026-10-16T23:54:10Z",
+    "url": "https://github.com/negativexq/knowledge-base-rag"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 32,
+    "updated_at": "2026-10-16T23:53:35Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 42,
+    "updated_at": "2026-10-16T23:59:46Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "Open-source sandboxes where coding agents build and deploy. Spin up isolated environments where Claude Code, Cursor, and",
+    "id": "runtm-ai/runtm",
+    "language": "Python",
+    "name": "runtm-ai/runtm",
+    "stars": 300,
+    "updated_at": "2026-10-16T23:48:42Z",
+    "url": "https://github.com/runtm-ai/runtm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-16T23:45:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Every model call through one library: raw-HTTP provider adapters, a cost ledger row and an OpenTelemetry span per call, ",
@@ -45,21 +108,12 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-16T23:34:08Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Profile of Dr. Ravi Teja Thiriveedhi \u2014 clinician turned AI systems architect: multi-agent platforms, AI governance, LLM ",
     "id": "Raviteja2k2k/Raviteja2k2k",
     "language": "Python",
     "name": "Raviteja2k2k/Raviteja2k2k",
     "stars": 0,
-    "updated_at": "2026-10-16T23:33:58Z",
+    "updated_at": "2026-10-16T23:46:46Z",
     "url": "https://github.com/Raviteja2k2k/Raviteja2k2k"
   },
   {
@@ -131,17 +185,8 @@
     "language": "Python",
     "name": "Arize-ai/arize-skills",
     "stars": 65,
-    "updated_at": "2026-10-16T23:15:33Z",
+    "updated_at": "2026-10-16T23:52:49Z",
     "url": "https://github.com/Arize-ai/arize-skills"
-  },
-  {
-    "description": "LocalPilot is a Python application that helps nontechnical users discover, install, run, monitor, update and remove loca",
-    "id": "fakhruldeen/LocalPilot",
-    "language": "Python",
-    "name": "fakhruldeen/LocalPilot",
-    "stars": 1,
-    "updated_at": "2026-10-16T23:11:23Z",
-    "url": "https://github.com/fakhruldeen/LocalPilot"
   },
   {
     "description": "A small fine-tuned model that matches frontier APIs on SEC filing extraction at a tenth of the per-call cost: QLoRA fine",
@@ -158,7 +203,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11875,
-    "updated_at": "2026-10-16T23:44:57Z",
+    "updated_at": "2026-10-16T23:55:53Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -196,15 +241,6 @@
     "stars": 2,
     "updated_at": "2026-10-16T22:50:38Z",
     "url": "https://github.com/redevops-io/agentic-os"
-  },
-  {
-    "description": "Production-style multilingual RAG with tenant-safe retrieval, evidence provenance, deterministic validation, observabili",
-    "id": "negativexq/knowledge-base-rag",
-    "language": "Python",
-    "name": "negativexq/knowledge-base-rag",
-    "stars": 1,
-    "updated_at": "2026-10-16T22:43:16Z",
-    "url": "https://github.com/negativexq/knowledge-base-rag"
   },
   {
     "description": "Self-hosted coding assistant that routes each request to the cheapest model that can handle it",
@@ -250,15 +286,6 @@
     "stars": 35937,
     "updated_at": "2026-10-16T22:23:12Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 32,
-    "updated_at": "2026-10-16T22:21:04Z",
-    "url": "https://github.com/SourceShift/mini-ork"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -356,7 +383,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 193,
-    "updated_at": "2026-10-16T23:29:11Z",
+    "updated_at": "2026-10-16T23:55:08Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-16T20:45:22Z",
     "url": "https://github.com/Peter-A-P/ai-release-gate"
-  },
-  {
-    "description": "TensorZero \u2014 independent third-party profile of a public API surface, by API Evangelist. TensorZero is an open-source, s",
-    "id": "api-evangelist/tensorzero",
-    "language": "\u2014",
-    "name": "api-evangelist/tensorzero",
-    "stars": 0,
-    "updated_at": "2026-10-16T20:44:42Z",
-    "url": "https://github.com/api-evangelist/tensorzero"
-  },
-  {
-    "description": "Multi-agent LLM pipeline: 110,000 Spotify app reviews \u2192 grounded labels, a ranked issue list and a claim-checked product",
-    "id": "patronofalltrades/Fundamentals-of-Agentic-AI-Final-Assignment",
-    "language": "Python",
-    "name": "patronofalltrades/Fundamentals-of-Agentic-AI-Final-Assignment",
-    "stars": 0,
-    "updated_at": "2026-10-16T20:41:31Z",
-    "url": "https://github.com/patronofalltrades/Fundamentals-of-Agentic-AI-Final-Assignment"
-  },
-  {
-    "description": "Seldon \u2014 independent third-party profile of a public API surface, by API Evangelist. Seldon is a Kubernetes-native MLOps",
-    "id": "api-evangelist/seldon",
-    "language": "\u2014",
-    "name": "api-evangelist/seldon",
-    "stars": 0,
-    "updated_at": "2026-10-16T20:35:47Z",
-    "url": "https://github.com/api-evangelist/seldon"
   }
 ]
