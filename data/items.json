@@ -1,12 +1,39 @@
 [
   {
-    "description": "State & control runtime underneath AI agents: authoritative current state, action authority, verified completion. Archit",
-    "id": "CEM888AI/cem888",
-    "language": "Shell",
-    "name": "CEM888AI/cem888",
+    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 1,
+    "updated_at": "2026-10-17T20:43:15Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "Mission SDK \u2014 the developer boundary over the ReDevOps Mission Runtime (author, validate, explain a governed MissionProg",
+    "id": "redevops-io/mission-sdk",
+    "language": "Python",
+    "name": "redevops-io/mission-sdk",
     "stars": 0,
-    "updated_at": "2026-10-17T20:29:04Z",
-    "url": "https://github.com/CEM888AI/cem888"
+    "updated_at": "2026-10-17T20:36:01Z",
+    "url": "https://github.com/redevops-io/mission-sdk"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-17T20:32:01Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-17T20:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -14,7 +41,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61444,
-    "updated_at": "2026-10-17T20:28:46Z",
+    "updated_at": "2026-10-17T20:43:23Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -23,35 +50,8 @@
     "language": "Python",
     "name": "Chris0Jeky/llm-release-gate",
     "stars": 1,
-    "updated_at": "2026-10-17T20:24:57Z",
+    "updated_at": "2026-10-17T20:45:21Z",
     "url": "https://github.com/Chris0Jeky/llm-release-gate"
-  },
-  {
-    "description": "Production-style multilingual RAG with tenant-safe retrieval, evidence provenance, deterministic validation, observabili",
-    "id": "negativexq/knowledge-base-rag",
-    "language": "Python",
-    "name": "negativexq/knowledge-base-rag",
-    "stars": 1,
-    "updated_at": "2026-10-17T20:20:38Z",
-    "url": "https://github.com/negativexq/knowledge-base-rag"
-  },
-  {
-    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 1,
-    "updated_at": "2026-10-17T20:17:03Z",
-    "url": "https://github.com/a-novel/service-genai"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-17T20:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Self-hosted AI Agents Platform for AI Native companies. Claude Code, Codex, Gemini, OpenCode agents. Apache 2.0.  ",
@@ -59,7 +59,7 @@
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 664,
-    "updated_at": "2026-10-17T20:15:14Z",
+    "updated_at": "2026-10-17T20:38:00Z",
     "url": "https://github.com/Abilityai/trinity"
   },
   {
@@ -77,7 +77,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-17T20:12:48Z",
+    "updated_at": "2026-10-17T20:43:57Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -315,15 +315,6 @@
     "url": "https://github.com/fakhruldeen/LocalPilot"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-17T18:09:28Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Official O11y One SDKs for TypeScript, Python and Go, plus o11y-eval, the CI runner and PR-diff action that gate release",
     "id": "o11y-one/o11y-one-sdk",
     "language": "TypeScript",
@@ -436,7 +427,7 @@
     "id": "mozilla-ai/otari",
     "language": "Python",
     "name": "mozilla-ai/otari",
-    "stars": 624,
+    "stars": 625,
     "updated_at": "2026-10-17T16:49:59Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
@@ -448,5 +439,14 @@
     "stars": 0,
     "updated_at": "2026-10-17T16:48:29Z",
     "url": "https://github.com/Phat1911/Tributary"
+  },
+  {
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
+    "language": "Python",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 53,
+    "updated_at": "2026-10-17T16:48:01Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
   }
 ]
