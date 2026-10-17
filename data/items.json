@@ -1,12 +1,57 @@
 [
   {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-10-17T01:28:32Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61400,
-    "updated_at": "2026-10-17T01:14:23Z",
+    "updated_at": "2026-10-17T01:28:22Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
+    "id": "hjongc/openrouter-endpoint-watch",
+    "language": "Python",
+    "name": "hjongc/openrouter-endpoint-watch",
+    "stars": 0,
+    "updated_at": "2026-10-17T01:20:14Z",
+    "url": "https://github.com/hjongc/openrouter-endpoint-watch"
+  },
+  {
+    "description": "Production-style multilingual RAG with tenant-safe retrieval, evidence provenance, deterministic validation, observabili",
+    "id": "negativexq/knowledge-base-rag",
+    "language": "Python",
+    "name": "negativexq/knowledge-base-rag",
+    "stars": 1,
+    "updated_at": "2026-10-17T01:17:34Z",
+    "url": "https://github.com/negativexq/knowledge-base-rag"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-17T01:15:51Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-17T01:15:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Self-hostable AI token pools \u2014 govern your org's AI usage with per-member keys, quotas, and leak detection; or deposit s",
@@ -25,15 +70,6 @@
     "stars": 32,
     "updated_at": "2026-10-17T01:07:06Z",
     "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Production-style multilingual RAG with tenant-safe retrieval, evidence provenance, deterministic validation, observabili",
-    "id": "negativexq/knowledge-base-rag",
-    "language": "Python",
-    "name": "negativexq/knowledge-base-rag",
-    "stars": 1,
-    "updated_at": "2026-10-17T01:03:34Z",
-    "url": "https://github.com/negativexq/knowledge-base-rag"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -63,15 +99,6 @@
     "url": "https://github.com/Shibukedang27/agentlens-trace-analyzer"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-17T01:00:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -88,15 +115,6 @@
     "stars": 30596,
     "updated_at": "2026-10-17T00:56:10Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-17T00:56:00Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
@@ -122,7 +140,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 110,
-    "updated_at": "2026-10-17T01:06:12Z",
+    "updated_at": "2026-10-17T01:29:30Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -139,7 +157,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11874,
+    "stars": 11875,
     "updated_at": "2026-10-17T00:35:09Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -239,7 +257,7 @@
     "language": "Python",
     "name": "GetSHIM/shim",
     "stars": 9,
-    "updated_at": "2026-10-17T01:12:28Z",
+    "updated_at": "2026-10-17T01:17:11Z",
     "url": "https://github.com/GetSHIM/shim"
   },
   {
@@ -247,7 +265,7 @@
     "id": "mozilla-ai/otari",
     "language": "Python",
     "name": "mozilla-ai/otari",
-    "stars": 568,
+    "stars": 570,
     "updated_at": "2026-10-16T23:21:49Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
@@ -284,7 +302,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8893,
-    "updated_at": "2026-10-17T00:35:16Z",
+    "updated_at": "2026-10-17T01:21:42Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -295,24 +313,6 @@
     "stars": 1,
     "updated_at": "2026-10-16T22:55:06Z",
     "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
-    "id": "hjongc/openrouter-endpoint-watch",
-    "language": "Python",
-    "name": "hjongc/openrouter-endpoint-watch",
-    "stars": 0,
-    "updated_at": "2026-10-16T22:53:02Z",
-    "url": "https://github.com/hjongc/openrouter-endpoint-watch"
-  },
-  {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-10-17T01:06:27Z",
-    "url": "https://github.com/redevops-io/agentic-os"
   },
   {
     "description": "Self-hosted coding assistant that routes each request to the cheapest model that can handle it",
@@ -329,7 +329,7 @@
     "language": "Python",
     "name": "llmspendguard/llm-spendguard",
     "stars": 0,
-    "updated_at": "2026-10-16T22:33:57Z",
+    "updated_at": "2026-10-17T01:28:13Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
@@ -346,7 +346,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 35936,
+    "stars": 35937,
     "updated_at": "2026-10-16T22:23:12Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -374,7 +374,7 @@
     "language": "Go",
     "name": "a-novel/service-genai",
     "stars": 1,
-    "updated_at": "2026-10-17T00:45:19Z",
+    "updated_at": "2026-10-17T01:28:41Z",
     "url": "https://github.com/a-novel/service-genai"
   },
   {
@@ -446,7 +446,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 193,
-    "updated_at": "2026-10-17T01:14:58Z",
+    "updated_at": "2026-10-17T01:24:59Z",
     "url": "https://github.com/GetBusbar/busbar"
   }
 ]
