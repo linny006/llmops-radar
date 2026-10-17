@@ -1,12 +1,75 @@
 [
   {
+    "description": "Record, replay and regression-test AI agent runs: ingests OpenTelemetry GenAI traces into PostgreSQL, replays tool calls",
+    "id": "xeeshan16/agent-replay",
+    "language": "Python",
+    "name": "xeeshan16/agent-replay",
+    "stars": 0,
+    "updated_at": "2026-10-17T12:59:33Z",
+    "url": "https://github.com/xeeshan16/agent-replay"
+  },
+  {
+    "description": "Evaluation CI, observability, and trajectory testing for production AI agents. The exit code your CI acts on and the ver",
+    "id": "IlaKhan17/proofstep",
+    "language": "Python",
+    "name": "IlaKhan17/proofstep",
+    "stars": 0,
+    "updated_at": "2026-10-17T12:54:10Z",
+    "url": "https://github.com/IlaKhan17/proofstep"
+  },
+  {
     "description": "Production-style multilingual RAG with tenant-safe retrieval, evidence provenance, deterministic validation, observabili",
     "id": "negativexq/knowledge-base-rag",
     "language": "Python",
     "name": "negativexq/knowledge-base-rag",
     "stars": 1,
-    "updated_at": "2026-10-17T12:40:49Z",
+    "updated_at": "2026-10-17T12:52:40Z",
     "url": "https://github.com/negativexq/knowledge-base-rag"
+  },
+  {
+    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
+    "id": "korczis/prismatic-majordomus",
+    "language": "Rust",
+    "name": "korczis/prismatic-majordomus",
+    "stars": 0,
+    "updated_at": "2026-10-17T12:50:33Z",
+    "url": "https://github.com/korczis/prismatic-majordomus"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-17T12:49:21Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Estimate LLM VRAM \u2014 model weights, KV cache, context window & concurrent users \u2014 and find the right GPU. Live Hugging Fa",
+    "id": "tahircengiz/LLMScale",
+    "language": "TypeScript",
+    "name": "tahircengiz/LLMScale",
+    "stars": 0,
+    "updated_at": "2026-10-17T12:49:44Z",
+    "url": "https://github.com/tahircengiz/LLMScale"
+  },
+  {
+    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
+    "id": "digline/digline",
+    "language": "Python",
+    "name": "digline/digline",
+    "stars": 9,
+    "updated_at": "2026-10-17T12:48:03Z",
+    "url": "https://github.com/digline/digline"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-17T12:45:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -32,7 +95,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 597,
-    "updated_at": "2026-10-17T12:34:12Z",
+    "updated_at": "2026-10-17T12:47:30Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -45,20 +108,11 @@
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-17T12:30:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 61433,
+    "stars": 61434,
     "updated_at": "2026-10-17T12:27:36Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -70,15 +124,6 @@
     "stars": 2995,
     "updated_at": "2026-10-17T12:27:36Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Regression testing and evals for LLM applications in CI. A pytest plugin and an MCP server, with the baseline in your re",
-    "id": "digline/digline",
-    "language": "Python",
-    "name": "digline/digline",
-    "stars": 8,
-    "updated_at": "2026-10-17T12:43:30Z",
-    "url": "https://github.com/digline/digline"
   },
   {
     "description": "Routes, caches, and batches LLM requests: 73% cheaper. Now also measures whether the routing is correct, which the keywo",
@@ -149,7 +194,7 @@
     "language": "Python",
     "name": "naim-munshi/metriqen-llm-serving-optimization",
     "stars": 0,
-    "updated_at": "2026-10-17T12:23:11Z",
+    "updated_at": "2026-10-17T13:00:08Z",
     "url": "https://github.com/naim-munshi/metriqen-llm-serving-optimization"
   },
   {
@@ -205,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-10-17T12:01:06Z",
     "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Evaluation CI, observability, and trajectory testing for production AI agents. The exit code your CI acts on and the ver",
-    "id": "IlaKhan17/proofstep",
-    "language": "Python",
-    "name": "IlaKhan17/proofstep",
-    "stars": 0,
-    "updated_at": "2026-10-17T11:59:06Z",
-    "url": "https://github.com/IlaKhan17/proofstep"
   },
   {
     "description": "Dark Gravity LLMOps Standard: ISO/IEC/IEEE 42010 agent observability, prompt lineage, and runtime guardrails for autonom",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-17T10:26:15Z",
     "url": "https://github.com/laurentross/llmaker"
-  },
-  {
-    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
-    "id": "ramirez6568/llmaker",
-    "language": "Go",
-    "name": "ramirez6568/llmaker",
-    "stars": 0,
-    "updated_at": "2026-10-17T10:26:06Z",
-    "url": "https://github.com/ramirez6568/llmaker"
-  },
-  {
-    "description": "Production LLM call layer for AI agents and tools: keep OpenAI/Anthropic/AI SDK/LiteLLM, hot-swap models with MDA preset",
-    "id": "helmutlopes98582/llmix",
-    "language": "Python",
-    "name": "helmutlopes98582/llmix",
-    "stars": 0,
-    "updated_at": "2026-10-17T10:19:28Z",
-    "url": "https://github.com/helmutlopes98582/llmix"
-  },
-  {
-    "description": "Product analytics for AI Assistants",
-    "id": "OmurPatel48/trubrics-python",
-    "language": "Python",
-    "name": "OmurPatel48/trubrics-python",
-    "stars": 0,
-    "updated_at": "2026-10-17T10:16:03Z",
-    "url": "https://github.com/OmurPatel48/trubrics-python"
-  },
-  {
-    "description": "Product analytics for AI Assistants",
-    "id": "jasmijn99/trubrics-python",
-    "language": "Python",
-    "name": "jasmijn99/trubrics-python",
-    "stars": 0,
-    "updated_at": "2026-10-17T10:15:22Z",
-    "url": "https://github.com/jasmijn99/trubrics-python"
   }
 ]
