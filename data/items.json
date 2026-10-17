@@ -1,5 +1,32 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61445,
+    "updated_at": "2026-10-17T21:33:28Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 6,
+    "updated_at": "2026-10-17T21:32:59Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-17T21:30:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The open framework for governed AI development: EU AI Act compliance, PII redaction, MCP proxy, prompt-injection firewal",
     "id": "admina-org/admina",
     "language": "Python",
@@ -11,20 +38,11 @@
   {
     "description": "A MCP server allowing LLM agents to easily connect and retrieve data from any database",
     "id": "rodrigo79567/turbular",
-    "language": "\u2014",
+    "language": "Python",
     "name": "rodrigo79567/turbular",
     "stars": 0,
     "updated_at": "2026-10-17T21:30:06Z",
     "url": "https://github.com/rodrigo79567/turbular"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61445,
-    "updated_at": "2026-10-17T21:30:01Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
@@ -50,7 +68,7 @@
     "language": "Python",
     "name": "jostrm/azure-enterprise-scale-ml",
     "stars": 53,
-    "updated_at": "2026-10-17T21:29:26Z",
+    "updated_at": "2026-10-17T21:30:28Z",
     "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
   },
   {
@@ -133,15 +151,6 @@
     "stars": 41,
     "updated_at": "2026-10-17T21:15:51Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-17T21:15:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "An open-source CLI plus GitHub Action that prevents unsafe prompt, model, retrieval, tool, or configuration changes from",
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-17T21:08:13Z",
     "url": "https://github.com/architsharm/agentfox"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 30613,
-    "updated_at": "2026-10-17T18:27:28Z",
-    "url": "https://github.com/ComposioHQ/composio"
   }
 ]
