@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61445,
-    "updated_at": "2026-10-17T21:33:28Z",
+    "updated_at": "2026-10-17T21:44:52Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
+    "id": "Webb133/ZizkaDB",
+    "language": "Python",
+    "name": "Webb133/ZizkaDB",
+    "stars": 0,
+    "updated_at": "2026-10-17T21:39:36Z",
+    "url": "https://github.com/Webb133/ZizkaDB"
+  },
+  {
+    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 1,
+    "updated_at": "2026-10-17T21:38:49Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "Production LLM call layer for AI agents and tools: keep OpenAI/Anthropic/AI SDK/LiteLLM, hot-swap models with MDA preset",
+    "id": "Niklas57688/llmix",
+    "language": "Python",
+    "name": "Niklas57688/llmix",
+    "stars": 0,
+    "updated_at": "2026-10-17T21:36:48Z",
+    "url": "https://github.com/Niklas57688/llmix"
+  },
+  {
+    "description": "Self-hosted coding assistant that routes each request to the cheapest model that can handle it",
+    "id": "optiware-ai/optimux",
+    "language": "Python",
+    "name": "optiware-ai/optimux",
+    "stars": 1,
+    "updated_at": "2026-10-17T21:36:13Z",
+    "url": "https://github.com/optiware-ai/optimux"
+  },
+  {
+    "description": "\u4f01\u4e1a AI \u8d44\u6e90\u7ba1\u7406\u5e73\u53f0 \u2014\u2014 \u628a MCP \u670d\u52a1 / Skill / Agent / AI \u5e94\u7528 \u7edf\u4e00\u6210\u4e00\u5957\u53ef\u7ba1\u3001\u53ef\u7b97\u3001\u53ef\u5ba1\u7684\u8d44\u4ea7\u3002\u4e00\u5957\u8eab\u4efd\u3001\u4e00\u5957\u6743\u9650\u3001\u4e00\u5957\u8ba1\u91cf\u3001\u4e00\u5957\u5ba1\u8ba1\u3002\u81ea\u6258\u7ba1 \u00b7 MIT\u3002",
+    "id": "01men/ybkkasi",
+    "language": "TypeScript",
+    "name": "01men/ybkkasi",
+    "stars": 0,
+    "updated_at": "2026-10-17T21:34:31Z",
+    "url": "https://github.com/01men/ybkkasi"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-17T21:34:19Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
@@ -18,21 +72,12 @@
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-17T21:30:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The open framework for governed AI development: EU AI Act compliance, PII redaction, MCP proxy, prompt-injection firewal",
     "id": "admina-org/admina",
     "language": "Python",
     "name": "admina-org/admina",
     "stars": 8,
-    "updated_at": "2026-10-17T21:30:11Z",
+    "updated_at": "2026-10-17T21:42:24Z",
     "url": "https://github.com/admina-org/admina"
   },
   {
@@ -162,15 +207,6 @@
     "url": "https://github.com/Chris0Jeky/llm-release-gate"
   },
   {
-    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 1,
-    "updated_at": "2026-10-17T21:11:17Z",
-    "url": "https://github.com/a-novel/service-genai"
-  },
-  {
     "description": "One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod",
     "id": "valteresj2/agent-hangar",
     "language": "Python",
@@ -234,15 +270,6 @@
     "url": "https://github.com/vivek-541/vivek-541"
   },
   {
-    "description": "\u4f01\u4e1a AI \u8d44\u6e90\u7ba1\u7406\u5e73\u53f0 \u2014\u2014 \u628a MCP \u670d\u52a1 / Skill / Agent / AI \u5e94\u7528 \u7edf\u4e00\u6210\u4e00\u5957\u53ef\u7ba1\u3001\u53ef\u7b97\u3001\u53ef\u5ba1\u7684\u8d44\u4ea7\u3002\u4e00\u5957\u8eab\u4efd\u3001\u4e00\u5957\u6743\u9650\u3001\u4e00\u5957\u8ba1\u91cf\u3001\u4e00\u5957\u5ba1\u8ba1\u3002\u81ea\u6258\u7ba1 \u00b7 MIT\u3002",
-    "id": "01men/ybkkasi",
-    "language": "TypeScript",
-    "name": "01men/ybkkasi",
-    "stars": 0,
-    "updated_at": "2026-10-17T20:46:44Z",
-    "url": "https://github.com/01men/ybkkasi"
-  },
-  {
     "description": "Mission SDK \u2014 the developer boundary over the ReDevOps Mission Runtime (author, validate, explain a governed MissionProg",
     "id": "redevops-io/mission-sdk",
     "language": "Python",
@@ -266,7 +293,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-17T20:43:57Z",
+    "updated_at": "2026-10-17T21:37:06Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-17T18:33:56Z",
     "url": "https://github.com/MSKazemi/mskazemi"
-  },
-  {
-    "description": "AI trust-boundary gateway for OpenAI, Anthropic, and Gemini.",
-    "id": "GetSHIM/shim",
-    "language": "Python",
-    "name": "GetSHIM/shim",
-    "stars": 9,
-    "updated_at": "2026-10-17T18:33:01Z",
-    "url": "https://github.com/GetSHIM/shim"
-  },
-  {
-    "description": "Open-source replay and evidence infrastructure for AI agents. Capture runs as portable Run Capsules for replay, diff, li",
-    "id": "MSKazemi/novafabric",
-    "language": "Python",
-    "name": "MSKazemi/novafabric",
-    "stars": 7,
-    "updated_at": "2026-10-17T18:32:23Z",
-    "url": "https://github.com/MSKazemi/novafabric"
-  },
-  {
-    "description": "AgentFox: open-source control plane for AI agents. Guardrails on model traffic, tool calls bounded by capability grants,",
-    "id": "architsharm/agentfox",
-    "language": "Python",
-    "name": "architsharm/agentfox",
-    "stars": 4,
-    "updated_at": "2026-10-17T21:08:13Z",
-    "url": "https://github.com/architsharm/agentfox"
   }
 ]
