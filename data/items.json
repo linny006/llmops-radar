@@ -1,5 +1,68 @@
 [
   {
+    "description": "A self-hosted AI platform: inference, tool use, browser automation, image generation, speech synthesis, transcription, o",
+    "id": "psyb0t/aigate",
+    "language": "Shell",
+    "name": "psyb0t/aigate",
+    "stars": 16,
+    "updated_at": "2026-10-17T22:44:53Z",
+    "url": "https://github.com/psyb0t/aigate"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-17T22:43:24Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "An LLM inference engine for persistent chat bots and agents. It allows models to forget old and unimportant tokens to ke",
+    "id": "cosmonomic/pulsarlm",
+    "language": "C++",
+    "name": "cosmonomic/pulsarlm",
+    "stars": 4,
+    "updated_at": "2026-10-17T22:43:06Z",
+    "url": "https://github.com/cosmonomic/pulsarlm"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26090,
+    "updated_at": "2026-10-17T22:38:58Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-10-17T22:37:48Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 1,
+    "updated_at": "2026-10-17T22:33:46Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-17T22:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Open-source LLM observability. See every prompt, completion, token, cost, latency and error as traces and sessions. Pyth",
     "id": "dheerajkarwasra/spanlight",
     "language": "Python",
@@ -14,17 +77,8 @@
     "language": "Python",
     "name": "chrysogonus/prompt-maker-studio",
     "stars": 3,
-    "updated_at": "2026-10-17T22:29:55Z",
+    "updated_at": "2026-10-17T22:39:25Z",
     "url": "https://github.com/chrysogonus/prompt-maker-studio"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-17T22:22:59Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -32,7 +86,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61447,
-    "updated_at": "2026-10-17T22:28:55Z",
+    "updated_at": "2026-10-17T22:43:46Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -81,7 +135,7 @@
     "url": "https://github.com/riccardoaksoy/llmaker"
   },
   {
-    "description": "Terminal dashboard and Rust library for LLM spend: turn a JSON log of model calls into live cost per request, per-model ",
+    "description": "Price every LLM API call from your logs or the provider's response (104 models, prompt caching, Claude Code logs): termi",
     "id": "Mattbusel/llm-cost-dashboard",
     "language": "Rust",
     "name": "Mattbusel/llm-cost-dashboard",
@@ -108,15 +162,6 @@
     "url": "https://github.com/Mattbusel/llm-budget"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-17T22:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Cheaper and better Greptile alternative runs on your own github actions.",
     "id": "Vanessa27531/juror",
     "language": "TypeScript",
@@ -133,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T22:11:17Z",
     "url": "https://github.com/andrei17696/ZizkaDB"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-10-17T22:25:22Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
     "description": "Model Context Protocol (MCP) Server for Langfuse Prompt Management. This server allows you to access and manage your Lan",
@@ -297,15 +333,6 @@
     "url": "https://github.com/Webb133/ZizkaDB"
   },
   {
-    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 1,
-    "updated_at": "2026-10-17T22:28:39Z",
-    "url": "https://github.com/a-novel/service-genai"
-  },
-  {
     "description": "Production LLM call layer for AI agents and tools: keep OpenAI/Anthropic/AI SDK/LiteLLM, hot-swap models with MDA preset",
     "id": "Niklas57688/llmix",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-17T21:23:22Z",
     "url": "https://github.com/hharrison52915/turbular"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 7,
-    "updated_at": "2026-10-17T22:08:16Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "Product analytics for AI Assistants",
-    "id": "Oda95/trubrics-python",
-    "language": "Python",
-    "name": "Oda95/trubrics-python",
-    "stars": 0,
-    "updated_at": "2026-10-17T21:19:14Z",
-    "url": "https://github.com/Oda95/trubrics-python"
-  },
-  {
-    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
-    "id": "ynuwudnsok/llmaker",
-    "language": "Go",
-    "name": "ynuwudnsok/llmaker",
-    "stars": 0,
-    "updated_at": "2026-10-17T21:18:02Z",
-    "url": "https://github.com/ynuwudnsok/llmaker"
   }
 ]
