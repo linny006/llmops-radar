@@ -1,5 +1,77 @@
 [
   {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 32,
+    "updated_at": "2026-10-17T16:14:26Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-17T16:14:14Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "AI trust-boundary gateway for OpenAI, Anthropic, and Gemini.",
+    "id": "GetSHIM/shim",
+    "language": "Python",
+    "name": "GetSHIM/shim",
+    "stars": 9,
+    "updated_at": "2026-10-17T16:07:23Z",
+    "url": "https://github.com/GetSHIM/shim"
+  },
+  {
+    "description": "An LLM inference engine for persistent chat bots and agents. It allows models to forget old and unimportant tokens to ke",
+    "id": "cosmonomic/pulsarlm",
+    "language": "C++",
+    "name": "cosmonomic/pulsarlm",
+    "stars": 4,
+    "updated_at": "2026-10-17T16:06:47Z",
+    "url": "https://github.com/cosmonomic/pulsarlm"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-17T16:05:40Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
+    "id": "sauravbhattacharya001/prompt",
+    "language": "C#",
+    "name": "sauravbhattacharya001/prompt",
+    "stars": 1,
+    "updated_at": "2026-10-17T16:03:57Z",
+    "url": "https://github.com/sauravbhattacharya001/prompt"
+  },
+  {
+    "description": "Self-hosted prompt library and template editor with an MCP server for ChatGPT. Save prompts as sections with {{variables",
+    "id": "chrysogonus/prompt-maker-studio",
+    "language": "Python",
+    "name": "chrysogonus/prompt-maker-studio",
+    "stars": 3,
+    "updated_at": "2026-10-17T16:00:44Z",
+    "url": "https://github.com/chrysogonus/prompt-maker-studio"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-17T16:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Production-style multilingual RAG with tenant-safe retrieval, evidence provenance, deterministic validation, observabili",
     "id": "negativexq/knowledge-base-rag",
     "language": "Python",
@@ -14,7 +86,7 @@
     "language": "Python",
     "name": "naim-munshi/metriqen-llm-serving-optimization",
     "stars": 0,
-    "updated_at": "2026-10-17T15:56:08Z",
+    "updated_at": "2026-10-17T16:14:14Z",
     "url": "https://github.com/naim-munshi/metriqen-llm-serving-optimization"
   },
   {
@@ -36,15 +108,6 @@
     "url": "https://github.com/vivek-541/vivek-541"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-17T15:45:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Enterprise Scale AIFactory (esml) - on Azure",
     "id": "jostrm/azure-enterprise-scale-ml",
     "language": "Python",
@@ -63,21 +126,12 @@
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
-    "description": "Self-hosted prompt library and template editor with an MCP server for ChatGPT. Save prompts as sections with {{variables",
-    "id": "chrysogonus/prompt-maker-studio",
-    "language": "Python",
-    "name": "chrysogonus/prompt-maker-studio",
-    "stars": 3,
-    "updated_at": "2026-10-17T15:53:07Z",
-    "url": "https://github.com/chrysogonus/prompt-maker-studio"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61439,
-    "updated_at": "2026-10-17T16:00:03Z",
+    "updated_at": "2026-10-17T16:11:44Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -108,15 +162,6 @@
     "url": "https://github.com/ArtVsMark/Engineering-Incidents-Playbook"
   },
   {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 32,
-    "updated_at": "2026-10-17T15:31:30Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -142,6 +187,15 @@
     "stars": 4,
     "updated_at": "2026-10-17T15:21:46Z",
     "url": "https://github.com/architsharm/agentfox"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8901,
+    "updated_at": "2026-10-17T15:20:44Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "AegisRAG is a security-first, auditable enterprise RAG backend for teams that care more about access control,traceabilit",
@@ -252,15 +306,6 @@
     "url": "https://github.com/api-evangelist/opik"
   },
   {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-17T15:04:57Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
     "description": "Dark Gravity LLMOps Standard: ISO/IEC/IEEE 42010 agent observability, prompt lineage, and runtime guardrails for autonom",
     "id": "lgcorzo/llmops-python-package",
     "language": "Jupyter Notebook",
@@ -360,15 +405,6 @@
     "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-17T14:02:16Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
     "id": "prasad-kavuri/prasad-portfolio",
     "language": "TypeScript",
@@ -412,41 +448,5 @@
     "stars": 26,
     "updated_at": "2026-10-17T13:30:10Z",
     "url": "https://github.com/francordel/myrtia"
-  },
-  {
-    "description": "A control layer that decides how an LLM should speak before it speaks",
-    "id": "Furox-Art/eq-layer",
-    "language": "Python",
-    "name": "Furox-Art/eq-layer",
-    "stars": 0,
-    "updated_at": "2026-10-17T15:30:27Z",
-    "url": "https://github.com/Furox-Art/eq-layer"
-  },
-  {
-    "description": "AI trust-boundary gateway for OpenAI, Anthropic, and Gemini.",
-    "id": "GetSHIM/shim",
-    "language": "Python",
-    "name": "GetSHIM/shim",
-    "stars": 9,
-    "updated_at": "2026-10-17T15:52:36Z",
-    "url": "https://github.com/GetSHIM/shim"
-  },
-  {
-    "description": "Maps: curated list of agent observability tools, standards and platforms (OTel GenAI, tracing, evals, guardrails, MCP)",
-    "id": "anhermon/awesome-agent-observability",
-    "language": "Python",
-    "name": "anhermon/awesome-agent-observability",
-    "stars": 52,
-    "updated_at": "2026-10-17T13:06:50Z",
-    "url": "https://github.com/anhermon/awesome-agent-observability"
-  },
-  {
-    "description": "Replayable OpenCSG model/price snapshot: curl /v1/models with no key, plus self-verifying checks",
-    "id": "happy520ai/opencsg-model-pricing",
-    "language": "JavaScript",
-    "name": "happy520ai/opencsg-model-pricing",
-    "stars": 0,
-    "updated_at": "2026-10-17T13:05:44Z",
-    "url": "https://github.com/happy520ai/opencsg-model-pricing"
   }
 ]
