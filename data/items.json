@@ -1,5 +1,77 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61400,
+    "updated_at": "2026-10-17T01:14:23Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Self-hostable AI token pools \u2014 govern your org's AI usage with per-member keys, quotas, and leak detection; or deposit s",
+    "id": "Phat1911/Tributary",
+    "language": "Rust",
+    "name": "Phat1911/Tributary",
+    "stars": 0,
+    "updated_at": "2026-10-17T01:07:35Z",
+    "url": "https://github.com/Phat1911/Tributary"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 32,
+    "updated_at": "2026-10-17T01:07:06Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Production-style multilingual RAG with tenant-safe retrieval, evidence provenance, deterministic validation, observabili",
+    "id": "negativexq/knowledge-base-rag",
+    "language": "Python",
+    "name": "negativexq/knowledge-base-rag",
+    "stars": 1,
+    "updated_at": "2026-10-17T01:03:34Z",
+    "url": "https://github.com/negativexq/knowledge-base-rag"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-10-17T01:03:18Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "A control layer that decides how an LLM should speak before it speaks",
+    "id": "Furox-Art/eq-layer",
+    "language": "Python",
+    "name": "Furox-Art/eq-layer",
+    "stars": 0,
+    "updated_at": "2026-10-17T01:01:54Z",
+    "url": "https://github.com/Furox-Art/eq-layer"
+  },
+  {
+    "description": "Find the waste in LLM agent traces: cost, p50/p95 latency and error metrics plus explainable detectors for tool-call loo",
+    "id": "Shibukedang27/agentlens-trace-analyzer",
+    "language": "Python",
+    "name": "Shibukedang27/agentlens-trace-analyzer",
+    "stars": 0,
+    "updated_at": "2026-10-17T01:00:30Z",
+    "url": "https://github.com/Shibukedang27/agentlens-trace-analyzer"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-17T01:00:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -9,22 +81,13 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Production-style multilingual RAG with tenant-safe retrieval, evidence provenance, deterministic validation, observabili",
-    "id": "negativexq/knowledge-base-rag",
-    "language": "Python",
-    "name": "negativexq/knowledge-base-rag",
-    "stars": 1,
-    "updated_at": "2026-10-17T00:56:50Z",
-    "url": "https://github.com/negativexq/knowledge-base-rag"
-  },
-  {
-    "description": "Find the waste in LLM agent traces: cost, p50/p95 latency and error metrics plus explainable detectors for tool-call loo",
-    "id": "Shibukedang27/agentlens-trace-analyzer",
-    "language": "Python",
-    "name": "Shibukedang27/agentlens-trace-analyzer",
-    "stars": 0,
-    "updated_at": "2026-10-17T00:56:41Z",
-    "url": "https://github.com/Shibukedang27/agentlens-trace-analyzer"
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 30596,
+    "updated_at": "2026-10-17T00:56:10Z",
+    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "Agentic Runtime",
@@ -34,15 +97,6 @@
     "stars": 41,
     "updated_at": "2026-10-17T00:56:00Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "A control layer that decides how an LLM should speak before it speaks",
-    "id": "Furox-Art/eq-layer",
-    "language": "Python",
-    "name": "Furox-Art/eq-layer",
-    "stars": 0,
-    "updated_at": "2026-10-17T00:55:37Z",
-    "url": "https://github.com/Furox-Art/eq-layer"
   },
   {
     "description": "VERITAS OS is an AI agent governance runtime for decision control, policy enforcement, approval workflows, audit trails,",
@@ -63,21 +117,12 @@
     "url": "https://github.com/juanjtov/adlc-pipeline"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-17T00:45:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
     "id": "cloudrift-ai/emmy",
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 110,
-    "updated_at": "2026-10-17T00:46:35Z",
+    "updated_at": "2026-10-17T01:06:12Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -90,31 +135,13 @@
     "url": "https://github.com/bahree/ModelAdaptationBook"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61400,
-    "updated_at": "2026-10-17T00:59:21Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11875,
+    "stars": 11874,
     "updated_at": "2026-10-17T00:35:09Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Self-hostable AI token pools \u2014 govern your org's AI usage with per-member keys, quotas, and leak detection; or deposit s",
-    "id": "Phat1911/Tributary",
-    "language": "Rust",
-    "name": "Phat1911/Tributary",
-    "stars": 0,
-    "updated_at": "2026-10-17T00:32:25Z",
-    "url": "https://github.com/Phat1911/Tributary"
   },
   {
     "description": "Flight recorder & observability for AI agents: trace every model call, tool call, file edit and shell command live, with",
@@ -160,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-10-16T23:54:41Z",
     "url": "https://github.com/fakhruldeen/LocalPilot"
-  },
-  {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 32,
-    "updated_at": "2026-10-16T23:53:35Z",
-    "url": "https://github.com/SourceShift/mini-ork"
   },
   {
     "description": "Open-source sandboxes where coding agents build and deploy. Spin up isolated environments where Claude Code, Cursor, and",
@@ -221,7 +239,7 @@
     "language": "Python",
     "name": "GetSHIM/shim",
     "stars": 9,
-    "updated_at": "2026-10-16T23:23:19Z",
+    "updated_at": "2026-10-17T01:12:28Z",
     "url": "https://github.com/GetSHIM/shim"
   },
   {
@@ -293,7 +311,7 @@
     "language": "Python",
     "name": "redevops-io/agentic-os",
     "stars": 2,
-    "updated_at": "2026-10-16T22:50:38Z",
+    "updated_at": "2026-10-17T01:06:27Z",
     "url": "https://github.com/redevops-io/agentic-os"
   },
   {
@@ -315,15 +333,6 @@
     "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-10-16T22:31:45Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
     "description": "Mide y frena el gasto de tokens de tu flota de agentes (Claude Code, Codex, OpenCode): panel, app de barra de menus y re",
     "id": "yosnap/codeia-cost-guard",
     "language": "Python",
@@ -337,7 +346,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 35937,
+    "stars": 35936,
     "updated_at": "2026-10-16T22:23:12Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -437,16 +446,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 193,
-    "updated_at": "2026-10-17T00:57:59Z",
+    "updated_at": "2026-10-17T01:14:58Z",
     "url": "https://github.com/GetBusbar/busbar"
-  },
-  {
-    "description": "Model-agnostic Agent Skill: keep multiple hypotheses alive, test them against evidence, revive alternatives, collapse to",
-    "id": "Furox-Art/quantum-reasoning-skill",
-    "language": "Python",
-    "name": "Furox-Art/quantum-reasoning-skill",
-    "stars": 1,
-    "updated_at": "2026-10-17T00:15:27Z",
-    "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
   }
 ]
