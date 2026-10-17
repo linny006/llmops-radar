@@ -1,12 +1,66 @@
 [
   {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-10-17T18:29:26Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Production-style multilingual RAG with tenant-safe retrieval, evidence provenance, deterministic validation, observabili",
+    "id": "negativexq/knowledge-base-rag",
+    "language": "Python",
+    "name": "negativexq/knowledge-base-rag",
+    "stars": 1,
+    "updated_at": "2026-10-17T18:27:17Z",
+    "url": "https://github.com/negativexq/knowledge-base-rag"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61442,
-    "updated_at": "2026-10-17T18:14:03Z",
+    "updated_at": "2026-10-17T18:29:18Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "LocalPilot is a Python application that helps nontechnical users discover, install, run, monitor, update and remove loca",
+    "id": "fakhruldeen/LocalPilot",
+    "language": "Python",
+    "name": "fakhruldeen/LocalPilot",
+    "stars": 1,
+    "updated_at": "2026-10-17T18:23:35Z",
+    "url": "https://github.com/fakhruldeen/LocalPilot"
+  },
+  {
+    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 1,
+    "updated_at": "2026-10-17T18:22:50Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod",
+    "id": "valteresj2/agent-hangar",
+    "language": "Python",
+    "name": "valteresj2/agent-hangar",
+    "stars": 3,
+    "updated_at": "2026-10-17T18:20:16Z",
+    "url": "https://github.com/valteresj2/agent-hangar"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-17T18:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Agentic Runtime",
@@ -36,21 +90,12 @@
     "url": "https://github.com/toxicwind/ranch"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-17T18:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio",
     "id": "naim-munshi/metriqen-llm-serving-optimization",
     "language": "Python",
     "name": "naim-munshi/metriqen-llm-serving-optimization",
     "stars": 0,
-    "updated_at": "2026-10-17T17:58:13Z",
+    "updated_at": "2026-10-17T18:29:45Z",
     "url": "https://github.com/naim-munshi/metriqen-llm-serving-optimization"
   },
   {
@@ -59,7 +104,7 @@
     "language": "TypeScript",
     "name": "burakdede/lorepack",
     "stars": 3,
-    "updated_at": "2026-10-17T17:51:10Z",
+    "updated_at": "2026-10-17T18:17:42Z",
     "url": "https://github.com/burakdede/lorepack"
   },
   {
@@ -162,15 +207,6 @@
     "url": "https://github.com/cosmonomic/pulsarlm"
   },
   {
-    "description": "Production-style multilingual RAG with tenant-safe retrieval, evidence provenance, deterministic validation, observabili",
-    "id": "negativexq/knowledge-base-rag",
-    "language": "Python",
-    "name": "negativexq/knowledge-base-rag",
-    "stars": 1,
-    "updated_at": "2026-10-17T17:05:07Z",
-    "url": "https://github.com/negativexq/knowledge-base-rag"
-  },
-  {
     "description": "CLI-first LLM runtime parity diagnostics. Same model, same input, first causal divergence.",
     "id": "TheusHen/eleanity",
     "language": "Python",
@@ -185,7 +221,7 @@
     "language": "Python",
     "name": "GetSHIM/shim",
     "stars": 9,
-    "updated_at": "2026-10-17T17:11:23Z",
+    "updated_at": "2026-10-17T18:18:38Z",
     "url": "https://github.com/GetSHIM/shim"
   },
   {
@@ -203,7 +239,7 @@
     "language": "Python",
     "name": "thequantumfalcon/kry",
     "stars": 1,
-    "updated_at": "2026-10-17T16:54:45Z",
+    "updated_at": "2026-10-17T18:26:52Z",
     "url": "https://github.com/thequantumfalcon/kry"
   },
   {
@@ -220,7 +256,7 @@
     "id": "mozilla-ai/otari",
     "language": "Python",
     "name": "mozilla-ai/otari",
-    "stars": 618,
+    "stars": 619,
     "updated_at": "2026-10-17T16:49:59Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
@@ -248,7 +284,7 @@
     "language": "Python",
     "name": "admina-org/admina",
     "stars": 8,
-    "updated_at": "2026-10-17T16:40:18Z",
+    "updated_at": "2026-10-17T18:27:26Z",
     "url": "https://github.com/admina-org/admina"
   },
   {
@@ -320,7 +356,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30610,
-    "updated_at": "2026-10-17T15:37:59Z",
+    "updated_at": "2026-10-17T18:27:28Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -347,7 +383,7 @@
     "language": "Python",
     "name": "architsharm/agentfox",
     "stars": 4,
-    "updated_at": "2026-10-17T15:21:46Z",
+    "updated_at": "2026-10-17T18:21:17Z",
     "url": "https://github.com/architsharm/agentfox"
   },
   {
@@ -405,15 +441,6 @@
     "url": "https://github.com/VahidKz/agent-eval-lab"
   },
   {
-    "description": "LocalPilot is a Python application that helps nontechnical users discover, install, run, monitor, update and remove loca",
-    "id": "fakhruldeen/LocalPilot",
-    "language": "Python",
-    "name": "fakhruldeen/LocalPilot",
-    "stars": 1,
-    "updated_at": "2026-10-17T15:14:44Z",
-    "url": "https://github.com/fakhruldeen/LocalPilot"
-  },
-  {
     "description": "Local CLI for auditing AI agent skills, conflicts, duplicates, safety risks, and context cost across coding agents.",
     "id": "evilstar2016/skill-doctor",
     "language": "TypeScript",
@@ -421,32 +448,5 @@
     "stars": 13,
     "updated_at": "2026-10-17T15:14:40Z",
     "url": "https://github.com/evilstar2016/skill-doctor"
-  },
-  {
-    "description": "Open-source replay and evidence infrastructure for AI agents. Capture runs as portable Run Capsules for replay, diff, li",
-    "id": "MSKazemi/novafabric",
-    "language": "Python",
-    "name": "MSKazemi/novafabric",
-    "stars": 7,
-    "updated_at": "2026-10-17T15:14:12Z",
-    "url": "https://github.com/MSKazemi/novafabric"
-  },
-  {
-    "description": "Mohsen Seyedkazemi Ardebili \u2014 AI Platform & Agentic Systems Engineer \u00b7 Independent Consultant. Agentic AI, MLOps/LLMOps,",
-    "id": "MSKazemi/mskazemi",
-    "language": "\u2014",
-    "name": "MSKazemi/mskazemi",
-    "stars": 0,
-    "updated_at": "2026-10-17T15:12:43Z",
-    "url": "https://github.com/MSKazemi/mskazemi"
-  },
-  {
-    "description": "Arize Phoenix \u2014 independent third-party profile of a public API surface, by API Evangelist. Arize Phoenix is an open-sou",
-    "id": "api-evangelist/phoenix",
-    "language": "\u2014",
-    "name": "api-evangelist/phoenix",
-    "stars": 0,
-    "updated_at": "2026-10-17T15:09:25Z",
-    "url": "https://github.com/api-evangelist/phoenix"
   }
 ]
