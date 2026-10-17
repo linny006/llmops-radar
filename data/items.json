@@ -1,5 +1,86 @@
 [
   {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2995,
+    "updated_at": "2026-10-17T11:42:53Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "A small fine-tuned model that matches frontier APIs on SEC filing extraction at a tenth of the per-call cost: QLoRA fine",
+    "id": "Peter-A-P/fraction-of-the-bill",
+    "language": "Python",
+    "name": "Peter-A-P/fraction-of-the-bill",
+    "stars": 0,
+    "updated_at": "2026-10-17T11:41:48Z",
+    "url": "https://github.com/Peter-A-P/fraction-of-the-bill"
+  },
+  {
+    "description": "Every model call through one library: raw-HTTP provider adapters, a cost ledger row and an OpenTelemetry span per call, ",
+    "id": "Peter-A-P/compliant-ai-gateway",
+    "language": "Python",
+    "name": "Peter-A-P/compliant-ai-gateway",
+    "stars": 0,
+    "updated_at": "2026-10-17T11:41:44Z",
+    "url": "https://github.com/Peter-A-P/compliant-ai-gateway"
+  },
+  {
+    "description": "No prompt or model change ships unless proven not to have regressed: calibrated judges, confidence intervals, CI gating,",
+    "id": "Peter-A-P/ai-release-gate",
+    "language": "Python",
+    "name": "Peter-A-P/ai-release-gate",
+    "stars": 0,
+    "updated_at": "2026-10-17T11:41:39Z",
+    "url": "https://github.com/Peter-A-P/ai-release-gate"
+  },
+  {
+    "description": "Open-source LLMOps platform with prompt management, an OpenAI-compatible AI gateway, OpenTelemetry tracing, a versioned ",
+    "id": "AcruxCore/AcruxCore",
+    "language": "TypeScript",
+    "name": "AcruxCore/AcruxCore",
+    "stars": 11,
+    "updated_at": "2026-10-17T11:40:15Z",
+    "url": "https://github.com/AcruxCore/AcruxCore"
+  },
+  {
+    "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
+    "id": "hjongc/openrouter-endpoint-watch",
+    "language": "Python",
+    "name": "hjongc/openrouter-endpoint-watch",
+    "stars": 0,
+    "updated_at": "2026-10-17T11:39:07Z",
+    "url": "https://github.com/hjongc/openrouter-endpoint-watch"
+  },
+  {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-10-17T11:40:03Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 593,
+    "updated_at": "2026-10-17T11:41:02Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-17T11:30:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Signed webhook/event delivery for Cycles \u2014 retries, HMAC, replay, audit, governance events",
     "id": "runcycles/cycles-server-events",
     "language": "Java",
@@ -7,24 +88,6 @@
     "stars": 1,
     "updated_at": "2026-10-17T11:30:12Z",
     "url": "https://github.com/runcycles/cycles-server-events"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 592,
-    "updated_at": "2026-10-17T11:28:41Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2995,
-    "updated_at": "2026-10-17T11:30:11Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -54,15 +117,6 @@
     "url": "https://github.com/runcycles/cycles-server"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-17T11:15:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Production-style multilingual RAG with tenant-safe retrieval, evidence provenance, deterministic validation, observabili",
     "id": "negativexq/knowledge-base-rag",
     "language": "Python",
@@ -86,7 +140,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61428,
-    "updated_at": "2026-10-17T11:05:48Z",
+    "updated_at": "2026-10-17T11:40:39Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -142,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-10-17T11:03:34Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
-  },
-  {
-    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-10-17T11:29:53Z",
-    "url": "https://github.com/veerarakesh56/warden"
   },
   {
     "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
@@ -320,7 +365,7 @@
     "language": "JavaScript",
     "name": "cubxxw/blog",
     "stars": 28,
-    "updated_at": "2026-10-17T10:28:31Z",
+    "updated_at": "2026-10-17T11:34:21Z",
     "url": "https://github.com/cubxxw/blog"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 26079,
     "updated_at": "2026-10-17T09:54:31Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Building reliable LLM Agents \u2014 Agent eval, evidence grounding, context engineering",
-    "id": "KBber/KBber",
-    "language": "\u2014",
-    "name": "KBber/KBber",
-    "stars": 0,
-    "updated_at": "2026-10-17T09:51:55Z",
-    "url": "https://github.com/KBber/KBber"
-  },
-  {
-    "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
-    "id": "lmonteiro07/ZizkaDB",
-    "language": "Python",
-    "name": "lmonteiro07/ZizkaDB",
-    "stars": 0,
-    "updated_at": "2026-10-17T09:50:45Z",
-    "url": "https://github.com/lmonteiro07/ZizkaDB"
-  },
-  {
-    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
-    "id": "aTorun3760/awesome-ai-gateway",
-    "language": "JavaScript",
-    "name": "aTorun3760/awesome-ai-gateway",
-    "stars": 0,
-    "updated_at": "2026-10-17T09:47:15Z",
-    "url": "https://github.com/aTorun3760/awesome-ai-gateway"
-  },
-  {
-    "description": "The execution control plane for AI agents. Govern every model request, MCP tool call, A2A delegation, and downstream act",
-    "id": "GetBusbar/busbar",
-    "language": "Rust",
-    "name": "GetBusbar/busbar",
-    "stars": 195,
-    "updated_at": "2026-10-17T09:44:53Z",
-    "url": "https://github.com/GetBusbar/busbar"
-  },
-  {
-    "description": "A MCP server allowing LLM agents to easily connect and retrieve data from any database",
-    "id": "PatriciaRyu65/turbular",
-    "language": "Python",
-    "name": "PatriciaRyu65/turbular",
-    "stars": 0,
-    "updated_at": "2026-10-17T09:44:50Z",
-    "url": "https://github.com/PatriciaRyu65/turbular"
   }
 ]
