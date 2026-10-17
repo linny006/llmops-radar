@@ -1,12 +1,75 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61445,
+    "updated_at": "2026-10-17T21:00:06Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "LocalPilot is a Python application that helps nontechnical users discover, install, run, monitor, update and remove loca",
+    "id": "fakhruldeen/LocalPilot",
+    "language": "Python",
+    "name": "fakhruldeen/LocalPilot",
+    "stars": 1,
+    "updated_at": "2026-10-17T20:55:37Z",
+    "url": "https://github.com/fakhruldeen/LocalPilot"
+  },
+  {
+    "description": "Self-hosted prompt library and template editor with an MCP server for ChatGPT. Save prompts as sections with {{variables",
+    "id": "chrysogonus/prompt-maker-studio",
+    "language": "Python",
+    "name": "chrysogonus/prompt-maker-studio",
+    "stars": 3,
+    "updated_at": "2026-10-17T20:58:17Z",
+    "url": "https://github.com/chrysogonus/prompt-maker-studio"
+  },
+  {
     "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
     "id": "a-novel/service-genai",
     "language": "Go",
     "name": "a-novel/service-genai",
     "stars": 1,
-    "updated_at": "2026-10-17T20:43:15Z",
+    "updated_at": "2026-10-17T21:00:10Z",
     "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 4,
+    "updated_at": "2026-10-17T20:47:27Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "\u4f01\u4e1a AI \u8d44\u6e90\u7ba1\u7406\u5e73\u53f0 \u2014\u2014 \u628a MCP \u670d\u52a1 / Skill / Agent / AI \u5e94\u7528 \u7edf\u4e00\u6210\u4e00\u5957\u53ef\u7ba1\u3001\u53ef\u7b97\u3001\u53ef\u5ba1\u7684\u8d44\u4ea7\u3002\u4e00\u5957\u8eab\u4efd\u3001\u4e00\u5957\u6743\u9650\u3001\u4e00\u5957\u8ba1\u91cf\u3001\u4e00\u5957\u5ba1\u8ba1\u3002\u81ea\u6258\u7ba1 \u00b7 MIT\u3002",
+    "id": "01men/ybkkasi",
+    "language": "TypeScript",
+    "name": "01men/ybkkasi",
+    "stars": 0,
+    "updated_at": "2026-10-17T20:46:44Z",
+    "url": "https://github.com/01men/ybkkasi"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-17T20:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "An open-source CLI plus GitHub Action that prevents unsafe prompt, model, retrieval, tool, or configuration changes from",
+    "id": "Chris0Jeky/llm-release-gate",
+    "language": "Python",
+    "name": "Chris0Jeky/llm-release-gate",
+    "stars": 1,
+    "updated_at": "2026-10-17T20:45:21Z",
+    "url": "https://github.com/Chris0Jeky/llm-release-gate"
   },
   {
     "description": "Mission SDK \u2014 the developer boundary over the ReDevOps Mission Runtime (author, validate, explain a governed MissionProg",
@@ -27,39 +90,12 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-17T20:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61444,
-    "updated_at": "2026-10-17T20:43:23Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "An open-source CLI plus GitHub Action that prevents unsafe prompt, model, retrieval, tool, or configuration changes from",
-    "id": "Chris0Jeky/llm-release-gate",
-    "language": "Python",
-    "name": "Chris0Jeky/llm-release-gate",
-    "stars": 1,
-    "updated_at": "2026-10-17T20:45:21Z",
-    "url": "https://github.com/Chris0Jeky/llm-release-gate"
-  },
-  {
     "description": "Self-hosted AI Agents Platform for AI Native companies. Claude Code, Codex, Gemini, OpenCode agents. Apache 2.0.  ",
     "id": "Abilityai/trinity",
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 664,
-    "updated_at": "2026-10-17T20:38:00Z",
+    "updated_at": "2026-10-17T21:00:11Z",
     "url": "https://github.com/Abilityai/trinity"
   },
   {
@@ -149,7 +185,7 @@
     "language": "Python",
     "name": "pom11/hscc",
     "stars": 7,
-    "updated_at": "2026-10-17T19:58:59Z",
+    "updated_at": "2026-10-17T20:56:37Z",
     "url": "https://github.com/pom11/hscc"
   },
   {
@@ -306,15 +342,6 @@
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
-    "description": "LocalPilot is a Python application that helps nontechnical users discover, install, run, monitor, update and remove loca",
-    "id": "fakhruldeen/LocalPilot",
-    "language": "Python",
-    "name": "fakhruldeen/LocalPilot",
-    "stars": 1,
-    "updated_at": "2026-10-17T18:23:35Z",
-    "url": "https://github.com/fakhruldeen/LocalPilot"
-  },
-  {
     "description": "Official O11y One SDKs for TypeScript, Python and Go, plus o11y-eval, the CI runner and PR-diff action that gate release",
     "id": "o11y-one/o11y-one-sdk",
     "language": "TypeScript",
@@ -421,32 +448,5 @@
     "stars": 32,
     "updated_at": "2026-10-17T16:51:02Z",
     "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 625,
-    "updated_at": "2026-10-17T16:49:59Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Self-hostable AI token pools \u2014 govern your org's AI usage with per-member keys, quotas, and leak detection; or deposit s",
-    "id": "Phat1911/Tributary",
-    "language": "Rust",
-    "name": "Phat1911/Tributary",
-    "stars": 0,
-    "updated_at": "2026-10-17T16:48:29Z",
-    "url": "https://github.com/Phat1911/Tributary"
-  },
-  {
-    "description": "Enterprise Scale AIFactory (esml) - on Azure",
-    "id": "jostrm/azure-enterprise-scale-ml",
-    "language": "Python",
-    "name": "jostrm/azure-enterprise-scale-ml",
-    "stars": 53,
-    "updated_at": "2026-10-17T16:48:01Z",
-    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
   }
 ]
