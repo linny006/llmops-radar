@@ -1,5 +1,50 @@
 [
   {
+    "description": "Enterprise AI Router and Governance System \u2014 the AI that governs all AIs",
+    "id": "kensterinvest/tidus",
+    "language": "HTML",
+    "name": "kensterinvest/tidus",
+    "stars": 1,
+    "updated_at": "2026-10-18T02:27:51Z",
+    "url": "https://github.com/kensterinvest/tidus"
+  },
+  {
+    "description": "Self-hostable AI token pools \u2014 govern your org's AI usage with per-member keys, quotas, and leak detection; or deposit s",
+    "id": "Phat1911/Tributary",
+    "language": "Rust",
+    "name": "Phat1911/Tributary",
+    "stars": 0,
+    "updated_at": "2026-10-18T02:25:11Z",
+    "url": "https://github.com/Phat1911/Tributary"
+  },
+  {
+    "description": "Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio",
+    "id": "naim-munshi/metriqen-llm-serving-optimization",
+    "language": "Python",
+    "name": "naim-munshi/metriqen-llm-serving-optimization",
+    "stars": 0,
+    "updated_at": "2026-10-18T02:22:20Z",
+    "url": "https://github.com/naim-munshi/metriqen-llm-serving-optimization"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61456,
+    "updated_at": "2026-10-18T02:28:46Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-18T02:15:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "A hands-on library for DevOps, Cloud, and AI engineers: real production scenarios for AWS, Kubernetes, Docker, and LLMOp",
     "id": "sandeepk24/learn-devops-playbook",
     "language": "Python",
@@ -18,15 +63,6 @@
     "url": "https://github.com/toxicwind/ranch"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61455,
-    "updated_at": "2026-10-18T02:07:44Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "\u4f01\u4e1a AI \u8d44\u6e90\u7ba1\u7406\u5e73\u53f0 \u2014\u2014 \u628a MCP \u670d\u52a1 / Skill / Agent / AI \u5e94\u7528 \u7edf\u4e00\u6210\u4e00\u5957\u53ef\u7ba1\u3001\u53ef\u7b97\u3001\u53ef\u5ba1\u7684\u8d44\u4ea7\u3002\u4e00\u5957\u8eab\u4efd\u3001\u4e00\u5957\u6743\u9650\u3001\u4e00\u5957\u8ba1\u91cf\u3001\u4e00\u5957\u5ba1\u8ba1\u3002\u81ea\u6258\u7ba1 \u00b7 MIT\u3002",
     "id": "01men/ybkkasi",
     "language": "TypeScript",
@@ -43,24 +79,6 @@
     "stars": 8905,
     "updated_at": "2026-10-18T02:07:59Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Enterprise AI Router and Governance System \u2014 the AI that governs all AIs",
-    "id": "kensterinvest/tidus",
-    "language": "HTML",
-    "name": "kensterinvest/tidus",
-    "stars": 1,
-    "updated_at": "2026-10-18T02:00:34Z",
-    "url": "https://github.com/kensterinvest/tidus"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-18T02:00:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Building reliable LLM Agents \u2014 Agent eval, evidence grounding, context engineering",
@@ -104,7 +122,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 198,
-    "updated_at": "2026-10-18T01:51:45Z",
+    "updated_at": "2026-10-18T02:28:11Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -139,7 +157,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 30615,
+    "stars": 30616,
     "updated_at": "2026-10-18T01:01:14Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -232,15 +250,6 @@
     "stars": 2,
     "updated_at": "2026-10-17T23:17:52Z",
     "url": "https://github.com/Mattbusel/llm-cost-dashboard"
-  },
-  {
-    "description": "Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio",
-    "id": "naim-munshi/metriqen-llm-serving-optimization",
-    "language": "Python",
-    "name": "naim-munshi/metriqen-llm-serving-optimization",
-    "stars": 0,
-    "updated_at": "2026-10-18T02:14:55Z",
-    "url": "https://github.com/naim-munshi/metriqen-llm-serving-optimization"
   },
   {
     "description": "Profile of Dr. Ravi Teja Thiriveedhi \u2014 clinician turned AI systems architect: multi-agent platforms, AI governance, LLM ",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-17T21:59:16Z",
     "url": "https://github.com/mYildirim22873/mcp-server-langfuse"
-  },
-  {
-    "description": "Model Context Protocol (MCP) Server for Langfuse Prompt Management. This server allows you to access and manage your Lan",
-    "id": "Mayah1015/mcp-server-langfuse",
-    "language": "TypeScript",
-    "name": "Mayah1015/mcp-server-langfuse",
-    "stars": 0,
-    "updated_at": "2026-10-17T21:59:07Z",
-    "url": "https://github.com/Mayah1015/mcp-server-langfuse"
   }
 ]
