@@ -1,12 +1,12 @@
 [
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
+    "id": "Amz34/awesome-agent-infrastructure",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61463,
-    "updated_at": "2026-10-18T08:14:32Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "Amz34/awesome-agent-infrastructure",
+    "stars": 1,
+    "updated_at": "2026-10-18T08:30:07Z",
+    "url": "https://github.com/Amz34/awesome-agent-infrastructure"
   },
   {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
@@ -14,8 +14,53 @@
     "language": "Rust",
     "name": "toxicwind/ranch",
     "stars": 0,
-    "updated_at": "2026-10-18T08:07:50Z",
+    "updated_at": "2026-10-18T08:28:45Z",
     "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61463,
+    "updated_at": "2026-10-18T08:29:38Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Multimodal RAG QA for cosmetics regulation: hybrid retrieval, two-stage reranking, evidence gating that refuses unsuppor",
+    "id": "Xander-Xai/Beauty-Industry-RAG-QA-System",
+    "language": "Python",
+    "name": "Xander-Xai/Beauty-Industry-RAG-QA-System",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:24:55Z",
+    "url": "https://github.com/Xander-Xai/Beauty-Industry-RAG-QA-System"
+  },
+  {
+    "description": "The evidence trail for agentic data pipelines: an LLM agent proposes Apache Iceberg changes; guardrails, branch dry-runs",
+    "id": "kushagrasoni/governed-iceberg-agent",
+    "language": "Python",
+    "name": "kushagrasoni/governed-iceberg-agent",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:18:09Z",
+    "url": "https://github.com/kushagrasoni/governed-iceberg-agent"
+  },
+  {
+    "description": "Self-hosted AI Agents Platform for AI Native companies. Claude Code, Codex, Gemini, OpenCode agents. Apache 2.0.  ",
+    "id": "Abilityai/trinity",
+    "language": "Python",
+    "name": "Abilityai/trinity",
+    "stars": 669,
+    "updated_at": "2026-10-18T08:17:29Z",
+    "url": "https://github.com/Abilityai/trinity"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-18T08:15:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
@@ -52,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T08:02:34Z",
     "url": "https://github.com/Phat1911/Tributary"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-18T08:00:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\u9876\u7ea7\u5ba1\u7f8e\u7684\u4e2a\u4eba\u535a\u5ba2\uff01\uff01\uff01\u5199\u4e00\u4e9b\u5173\u4e8e AI\u3001Agent\u3001\u6280\u672f\u3001\u4ea7\u54c1\u3001\u8425\u9500\u3001\u4e00\u4e9b\u751f\u6d3b\u601d\u8003\uff0c\u4e2a\u4eba\u6210\u957f\u7c7b\u7684\u7cbe\u6587",
@@ -387,15 +423,6 @@
     "url": "https://github.com/Jwrede/llmprobe"
   },
   {
-    "description": "Self-hosted AI Agents Platform for AI Native companies. Claude Code, Codex, Gemini, OpenCode agents. Apache 2.0.  ",
-    "id": "Abilityai/trinity",
-    "language": "Python",
-    "name": "Abilityai/trinity",
-    "stars": 667,
-    "updated_at": "2026-10-18T07:39:48Z",
-    "url": "https://github.com/Abilityai/trinity"
-  },
-  {
     "description": "\ud83e\udded Awesome Enterprise AI \u2014 the CAIO list. An adoption-first index of open-source AI for the enterprise (license \u00b7 maturit",
     "id": "caiohome/awesome-caio",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-18T05:59:02Z",
     "url": "https://github.com/a-novel/service-genai"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28431,
-    "updated_at": "2026-10-18T05:56:59Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Open-source LLM observability. See every prompt, completion, token, cost, latency and error as traces and sessions. Pyth",
-    "id": "dheerajkarwasra/spanlight",
-    "language": "Python",
-    "name": "dheerajkarwasra/spanlight",
-    "stars": 0,
-    "updated_at": "2026-10-18T05:54:36Z",
-    "url": "https://github.com/dheerajkarwasra/spanlight"
-  },
-  {
-    "description": "Does an OpenAI-compatible endpoint disclose model prices without an account or key? One unauthenticated GET, five verdic",
-    "id": "happy520ai/gateway-price-check",
-    "language": "JavaScript",
-    "name": "happy520ai/gateway-price-check",
-    "stars": 0,
-    "updated_at": "2026-10-18T05:50:53Z",
-    "url": "https://github.com/happy520ai/gateway-price-check"
   }
 ]
