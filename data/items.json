@@ -1,12 +1,48 @@
 [
   {
+    "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
+    "id": "maks3201/decision-model-operator",
+    "language": "Go",
+    "name": "maks3201/decision-model-operator",
+    "stars": 1,
+    "updated_at": "2026-10-18T15:26:51Z",
+    "url": "https://github.com/maks3201/decision-model-operator"
+  },
+  {
     "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
     "id": "SourceShift/mini-ork",
     "language": "Python",
     "name": "SourceShift/mini-ork",
     "stars": 32,
-    "updated_at": "2026-10-18T15:14:45Z",
+    "updated_at": "2026-10-18T15:23:17Z",
     "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 9313,
+    "updated_at": "2026-10-18T15:18:37Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28437,
+    "updated_at": "2026-10-18T15:18:36Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-18T15:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "A circuit breaker for your LLM API bill \u2014 hard budget caps + per-feature cost attribution for OpenAI & Anthropic.",
@@ -18,13 +54,13 @@
     "url": "https://github.com/kimbeomgyu/budget-guard"
   },
   {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
     "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 9312,
-    "updated_at": "2026-10-18T15:06:58Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
+    "name": "mozilla-ai/otari",
+    "stars": 646,
+    "updated_at": "2026-10-18T15:08:09Z",
+    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
@@ -36,15 +72,6 @@
     "url": "https://github.com/toxicwind/ranch"
   },
   {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 645,
-    "updated_at": "2026-10-18T15:08:09Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
     "description": "The platform for continuously improving AI agents.",
     "id": "overmind-core/overmind",
     "language": "Python",
@@ -52,15 +79,6 @@
     "stars": 665,
     "updated_at": "2026-10-18T15:00:44Z",
     "url": "https://github.com/overmind-core/overmind"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-18T15:00:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Keras based framework for neuro-symbolic LM systems",
@@ -90,15 +108,6 @@
     "url": "https://github.com/VKanee/opsmind-ai"
   },
   {
-    "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
-    "id": "maks3201/decision-model-operator",
-    "language": "Go",
-    "name": "maks3201/decision-model-operator",
-    "stars": 1,
-    "updated_at": "2026-10-18T15:11:15Z",
-    "url": "https://github.com/maks3201/decision-model-operator"
-  },
-  {
     "description": "Agent Memory Health Monitor \u2014 scan AI agent memory stores for rot, contradictions, and duplicates",
     "id": "yunaremaia/memwatch",
     "language": "Python",
@@ -113,7 +122,7 @@
     "language": "Python",
     "name": "digline/digline",
     "stars": 9,
-    "updated_at": "2026-10-18T15:07:04Z",
+    "updated_at": "2026-10-18T15:29:03Z",
     "url": "https://github.com/digline/digline"
   },
   {
@@ -176,7 +185,7 @@
     "language": "Go",
     "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "stars": 1,
-    "updated_at": "2026-10-18T15:06:52Z",
+    "updated_at": "2026-10-18T15:27:19Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
   },
   {
@@ -248,7 +257,7 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-18T14:51:56Z",
+    "updated_at": "2026-10-18T15:20:14Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -274,7 +283,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 61486,
+    "stars": 61487,
     "updated_at": "2026-10-18T14:01:04Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -421,15 +430,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T13:02:57Z",
     "url": "https://github.com/brunovicco/governed-llm-gateway"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28438,
-    "updated_at": "2026-10-18T14:53:15Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Genaryx: the browser control room over the TAIPANBOX agent-governance stack. Money, policy, identity, quality, crypto, m",
