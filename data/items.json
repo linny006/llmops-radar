@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "bdchang403/AI_Software_Foundations",
     "stars": 0,
-    "updated_at": "2026-10-18T03:15:00Z",
+    "updated_at": "2026-10-18T03:27:47Z",
     "url": "https://github.com/bdchang403/AI_Software_Foundations"
+  },
+  {
+    "description": "Behavioral regression testing for AI apps and agents: pytest plugin, behavior diff, CI gate, and document extraction met",
+    "id": "tap222/assay-evals",
+    "language": "Python",
+    "name": "tap222/assay-evals",
+    "stars": 16,
+    "updated_at": "2026-10-18T03:30:14Z",
+    "url": "https://github.com/tap222/assay-evals"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61455,
+    "updated_at": "2026-10-18T03:26:35Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-10-18T03:24:42Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2995,
+    "updated_at": "2026-10-18T03:18:55Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-18T03:15:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
@@ -63,15 +108,6 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-10-18T03:09:23Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
     "id": "toxicwind/ranch",
     "language": "Rust",
@@ -79,24 +115,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T03:07:11Z",
     "url": "https://github.com/toxicwind/ranch"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-18T03:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61455,
-    "updated_at": "2026-10-18T03:13:12Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "TypeScript SDK for Cycles \u2014 runtime budget and action authority for Node.js AI agents",
@@ -176,7 +194,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8905,
-    "updated_at": "2026-10-18T03:12:46Z",
+    "updated_at": "2026-10-18T03:20:07Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -212,7 +230,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 198,
-    "updated_at": "2026-10-18T03:14:36Z",
+    "updated_at": "2026-10-18T03:30:18Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-17T22:15:49Z",
     "url": "https://github.com/Mattbusel/llm-budget"
-  },
-  {
-    "description": "Cheaper and better Greptile alternative runs on your own github actions.",
-    "id": "Vanessa27531/juror",
-    "language": "TypeScript",
-    "name": "Vanessa27531/juror",
-    "stars": 0,
-    "updated_at": "2026-10-17T22:11:26Z",
-    "url": "https://github.com/Vanessa27531/juror"
-  },
-  {
-    "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
-    "id": "andrei17696/ZizkaDB",
-    "language": "Python",
-    "name": "andrei17696/ZizkaDB",
-    "stars": 0,
-    "updated_at": "2026-10-17T22:11:17Z",
-    "url": "https://github.com/andrei17696/ZizkaDB"
   }
 ]
