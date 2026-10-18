@@ -1,12 +1,39 @@
 [
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-18T18:00:13Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Multimodal RAG QA for cosmetics regulation: hybrid retrieval, two-stage reranking, evidence gating that refuses unsuppor",
+    "id": "Xander-Xai/Beauty-Industry-RAG-QA-System",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-18T17:45:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "Xander-Xai/Beauty-Industry-RAG-QA-System",
+    "stars": 0,
+    "updated_at": "2026-10-18T17:58:28Z",
+    "url": "https://github.com/Xander-Xai/Beauty-Industry-RAG-QA-System"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-10-18T18:00:15Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-18T17:55:24Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Structured GenAI study notes from prerequisites to frontier research \u2014 curriculum-ordered, career-mapped to 31 AI/ML rol",
@@ -14,7 +41,7 @@
     "language": "PowerShell",
     "name": "bhaskarjha-dev/genai-notes",
     "stars": 2,
-    "updated_at": "2026-10-18T17:44:02Z",
+    "updated_at": "2026-10-18T17:55:03Z",
     "url": "https://github.com/bhaskarjha-dev/genai-notes"
   },
   {
@@ -22,9 +49,45 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 9318,
-    "updated_at": "2026-10-18T17:43:54Z",
+    "stars": 9319,
+    "updated_at": "2026-10-18T17:50:52Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Prompt and RAG context compression with a fidelity evaluator \u2014 48% fewer tokens at 100% fact recall, where naive truncat",
+    "id": "darrshangovender/context-compress",
+    "language": "Python",
+    "name": "darrshangovender/context-compress",
+    "stars": 0,
+    "updated_at": "2026-10-18T17:50:43Z",
+    "url": "https://github.com/darrshangovender/context-compress"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-10-18T17:49:41Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61495,
+    "updated_at": "2026-10-18T17:49:04Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-18T17:46:35Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Janus Edge \u2014 self-hosted AI gateway to govern how your company uses ChatGPT, Claude, Copilot and local models: SSO, per-",
@@ -54,15 +117,6 @@
     "url": "https://github.com/venkathub/dosadash"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61494,
-    "updated_at": "2026-10-18T17:34:08Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -79,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T17:33:14Z",
     "url": "https://github.com/prasad-kavuri/prasad-portfolio"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-18T17:32:30Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Resource providers for pragma-os. Manage cloud infrastructure, AI agents, knowledge bases, pipelines, and workflows.",
@@ -115,6 +160,15 @@
     "stars": 0,
     "updated_at": "2026-10-18T17:24:54Z",
     "url": "https://github.com/hjongc/openrouter-endpoint-watch"
+  },
+  {
+    "description": "Ops layer for Claude agentic workflows: did each run happen, did it deliver, what did it cost. Paces 5-hour, weekly and ",
+    "id": "matthewprice/otto",
+    "language": "Python",
+    "name": "matthewprice/otto",
+    "stars": 0,
+    "updated_at": "2026-10-18T17:54:29Z",
+    "url": "https://github.com/matthewprice/otto"
   },
   {
     "description": "Open-source LLMOps platform with prompt management, an OpenAI-compatible AI gateway, OpenTelemetry tracing, a versioned ",
@@ -162,15 +216,6 @@
     "url": "https://github.com/TAIPANBOX/genaryx"
   },
   {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-10-18T16:49:46Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
     "description": "Run thousands of LLM calls concurrently from Python asyncio: shared rate-limit cooldowns, RPM/TPM limits, smart retries,",
     "id": "geoff-davis/async-batch-llm",
     "language": "Python",
@@ -205,6 +250,15 @@
     "stars": 1,
     "updated_at": "2026-10-18T16:34:58Z",
     "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8908,
+    "updated_at": "2026-10-18T16:31:37Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Model-agnostic Agent Skill: keep multiple hypotheses alive, test them against evidence, revive alternatives, collapse to",
@@ -283,7 +337,7 @@
     "id": "mozilla-ai/otari",
     "language": "Python",
     "name": "mozilla-ai/otari",
-    "stars": 650,
+    "stars": 651,
     "updated_at": "2026-10-18T15:56:13Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-18T15:42:22Z",
     "url": "https://github.com/Rend574/trubrics-python"
-  },
-  {
-    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
-    "id": "dTrinh65912/awesome-ai-gateway",
-    "language": "JavaScript",
-    "name": "dTrinh65912/awesome-ai-gateway",
-    "stars": 0,
-    "updated_at": "2026-10-18T15:36:10Z",
-    "url": "https://github.com/dTrinh65912/awesome-ai-gateway"
-  },
-  {
-    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
-    "id": "deryahernandez61719/awesome-ai-gateway",
-    "language": "JavaScript",
-    "name": "deryahernandez61719/awesome-ai-gateway",
-    "stars": 0,
-    "updated_at": "2026-10-18T15:35:40Z",
-    "url": "https://github.com/deryahernandez61719/awesome-ai-gateway"
-  },
-  {
-    "description": "Rust client for Cycles \u2014 runtime budget authority for AI agents",
-    "id": "runcycles/cycles-client-rust",
-    "language": "Rust",
-    "name": "runcycles/cycles-client-rust",
-    "stars": 1,
-    "updated_at": "2026-10-18T15:34:00Z",
-    "url": "https://github.com/runcycles/cycles-client-rust"
-  },
-  {
-    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
-    "id": "mehmetlombardo/llmaker",
-    "language": "Go",
-    "name": "mehmetlombardo/llmaker",
-    "stars": 0,
-    "updated_at": "2026-10-18T15:32:55Z",
-    "url": "https://github.com/mehmetlombardo/llmaker"
-  },
-  {
-    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
-    "id": "Donald693/llmaker",
-    "language": "Go",
-    "name": "Donald693/llmaker",
-    "stars": 0,
-    "updated_at": "2026-10-18T15:32:31Z",
-    "url": "https://github.com/Donald693/llmaker"
-  },
-  {
-    "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
-    "id": "maks3201/decision-model-operator",
-    "language": "Go",
-    "name": "maks3201/decision-model-operator",
-    "stars": 1,
-    "updated_at": "2026-10-18T15:26:51Z",
-    "url": "https://github.com/maks3201/decision-model-operator"
   }
 ]
