@@ -1,11 +1,83 @@
 [
   {
+    "description": "Regression tests for prompts: cases with deterministic checks, repeated runs, a baseline that fails the build when a pas",
+    "id": "ErenOzgu/prompt-regression",
+    "language": "Python",
+    "name": "ErenOzgu/prompt-regression",
+    "stars": 0,
+    "updated_at": "2026-10-18T13:14:13Z",
+    "url": "https://github.com/ErenOzgu/prompt-regression"
+  },
+  {
+    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 1,
+    "updated_at": "2026-10-18T13:11:27Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35990,
+    "updated_at": "2026-10-18T13:10:11Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "A reference architecture for AI features on governed data: 13 decisions with the measured results behind each, an evalua",
+    "id": "technobasant/ai-platform-architecture",
+    "language": "Python",
+    "name": "technobasant/ai-platform-architecture",
+    "stars": 0,
+    "updated_at": "2026-10-18T13:10:01Z",
+    "url": "https://github.com/technobasant/ai-platform-architecture"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-18T13:05:07Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Record, replay and regression-test AI agent runs: ingests OpenTelemetry GenAI traces into PostgreSQL, replays tool calls",
+    "id": "xeeshan16/agent-replay",
+    "language": "Python",
+    "name": "xeeshan16/agent-replay",
+    "stars": 0,
+    "updated_at": "2026-10-18T13:04:12Z",
+    "url": "https://github.com/xeeshan16/agent-replay"
+  },
+  {
+    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
+    "id": "brunovicco/governed-llm-gateway",
+    "language": "Python",
+    "name": "brunovicco/governed-llm-gateway",
+    "stars": 0,
+    "updated_at": "2026-10-18T13:02:57Z",
+    "url": "https://github.com/brunovicco/governed-llm-gateway"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-18T13:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
     "id": "maks3201/decision-model-operator",
     "language": "Go",
     "name": "maks3201/decision-model-operator",
     "stars": 1,
-    "updated_at": "2026-10-18T12:57:46Z",
+    "updated_at": "2026-10-18T13:13:15Z",
     "url": "https://github.com/maks3201/decision-model-operator"
   },
   {
@@ -14,7 +86,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61480,
-    "updated_at": "2026-10-18T12:59:10Z",
+    "updated_at": "2026-10-18T13:12:02Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -23,7 +95,7 @@
     "language": "Python",
     "name": "digline/digline",
     "stars": 9,
-    "updated_at": "2026-10-18T12:49:36Z",
+    "updated_at": "2026-10-18T13:10:54Z",
     "url": "https://github.com/digline/digline"
   },
   {
@@ -41,17 +113,8 @@
     "language": "Rust",
     "name": "TAIPANBOX/tokenfuse",
     "stars": 1,
-    "updated_at": "2026-10-18T12:47:10Z",
+    "updated_at": "2026-10-18T13:12:35Z",
     "url": "https://github.com/TAIPANBOX/tokenfuse"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-18T12:45:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Genaryx: the browser control room over the TAIPANBOX agent-governance stack. Money, policy, identity, quality, crypto, m",
@@ -108,15 +171,6 @@
     "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-18T12:07:58Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
     "description": "An industrial engineering curriculum for transitioning teams from stochastic prompting to deterministic, traceable AI-as",
     "id": "bdchang403/AI_Software_Foundations",
     "language": "Python",
@@ -157,7 +211,7 @@
     "id": "mozilla-ai/otari",
     "language": "Python",
     "name": "mozilla-ai/otari",
-    "stars": 638,
+    "stars": 640,
     "updated_at": "2026-10-18T11:54:30Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
@@ -167,7 +221,7 @@
     "language": "Python",
     "name": "Traigent/tvl",
     "stars": 0,
-    "updated_at": "2026-10-18T11:50:17Z",
+    "updated_at": "2026-10-18T13:14:47Z",
     "url": "https://github.com/Traigent/tvl"
   },
   {
@@ -338,7 +392,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22703,
-    "updated_at": "2026-10-18T12:39:49Z",
+    "updated_at": "2026-10-18T13:02:05Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -374,7 +428,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8908,
-    "updated_at": "2026-10-18T10:10:58Z",
+    "updated_at": "2026-10-18T13:12:13Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -392,61 +446,7 @@
     "language": "Python",
     "name": "jakbuczarnecki/intergrax",
     "stars": 4,
-    "updated_at": "2026-10-18T12:36:59Z",
+    "updated_at": "2026-10-18T13:07:36Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
-  },
-  {
-    "description": "Self-hosted AI Agents Platform for AI Native companies. Claude Code, Codex, Gemini, OpenCode agents. Apache 2.0.  ",
-    "id": "Abilityai/trinity",
-    "language": "Python",
-    "name": "Abilityai/trinity",
-    "stars": 670,
-    "updated_at": "2026-10-18T12:59:01Z",
-    "url": "https://github.com/Abilityai/trinity"
-  },
-  {
-    "description": "AI Agent hooks for LLM Observability.",
-    "id": "HikaruEgashira/otel-hooks",
-    "language": "Python",
-    "name": "HikaruEgashira/otel-hooks",
-    "stars": 9,
-    "updated_at": "2026-10-18T09:48:00Z",
-    "url": "https://github.com/HikaruEgashira/otel-hooks"
-  },
-  {
-    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
-    "id": "AndreLane44/awesome-ai-gateway",
-    "language": "HTML",
-    "name": "AndreLane44/awesome-ai-gateway",
-    "stars": 0,
-    "updated_at": "2026-10-18T09:45:16Z",
-    "url": "https://github.com/AndreLane44/awesome-ai-gateway"
-  },
-  {
-    "description": "Product analytics for AI Assistants",
-    "id": "yokoo524/trubrics-python",
-    "language": "Python",
-    "name": "yokoo524/trubrics-python",
-    "stars": 0,
-    "updated_at": "2026-10-18T09:44:19Z",
-    "url": "https://github.com/yokoo524/trubrics-python"
-  },
-  {
-    "description": "Model Context Protocol (MCP) Server for Langfuse Prompt Management. This server allows you to access and manage your Lan",
-    "id": "hsoto898/mcp-server-langfuse",
-    "language": "TypeScript",
-    "name": "hsoto898/mcp-server-langfuse",
-    "stars": 0,
-    "updated_at": "2026-10-18T09:44:11Z",
-    "url": "https://github.com/hsoto898/mcp-server-langfuse"
-  },
-  {
-    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
-    "id": "PloyRamos227/awesome-ai-gateway",
-    "language": "HTML",
-    "name": "PloyRamos227/awesome-ai-gateway",
-    "stars": 0,
-    "updated_at": "2026-10-18T09:43:20Z",
-    "url": "https://github.com/PloyRamos227/awesome-ai-gateway"
   }
 ]
