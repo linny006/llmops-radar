@@ -1,5 +1,59 @@
 [
   {
+    "description": "Raindrop \u2014 independent third-party profile of a public API surface, by API Evangelist. Raindrop is the monitoring and ob",
+    "id": "api-evangelist/raindrop",
+    "language": "\u2014",
+    "name": "api-evangelist/raindrop",
+    "stars": 0,
+    "updated_at": "2026-10-18T18:40:15Z",
+    "url": "https://github.com/api-evangelist/raindrop"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 111,
+    "updated_at": "2026-10-18T18:37:37Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Tuned Variables Language (TVL) by Traigent: typed specification language, validators, CLI tools, editor support, and doc",
+    "id": "Traigent/tvl",
+    "language": "Python",
+    "name": "Traigent/tvl",
+    "stars": 0,
+    "updated_at": "2026-10-18T18:37:50Z",
+    "url": "https://github.com/Traigent/tvl"
+  },
+  {
+    "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
+    "id": "prasad-kavuri/prasad-portfolio",
+    "language": "TypeScript",
+    "name": "prasad-kavuri/prasad-portfolio",
+    "stars": 0,
+    "updated_at": "2026-10-18T18:35:03Z",
+    "url": "https://github.com/prasad-kavuri/prasad-portfolio"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 9323,
+    "updated_at": "2026-10-18T18:35:02Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-18T18:30:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
@@ -27,15 +81,6 @@
     "url": "https://github.com/toxicwind/ranch"
   },
   {
-    "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
-    "id": "prasad-kavuri/prasad-portfolio",
-    "language": "TypeScript",
-    "name": "prasad-kavuri/prasad-portfolio",
-    "stars": 0,
-    "updated_at": "2026-10-18T18:18:08Z",
-    "url": "https://github.com/prasad-kavuri/prasad-portfolio"
-  },
-  {
     "description": "Resource providers for pragma-os. Manage cloud infrastructure, AI agents, knowledge bases, pipelines, and workflows.",
     "id": "pragmatiks/pragma-providers",
     "language": "Python",
@@ -54,15 +99,6 @@
     "url": "https://github.com/SourceShift/mini-ork"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-18T18:15:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
     "id": "sarkars/agent-failure-modes",
     "language": "Python",
@@ -79,15 +115,6 @@
     "stars": 41,
     "updated_at": "2026-10-18T18:13:14Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 9321,
-    "updated_at": "2026-10-18T18:08:58Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "Multimodal RAG QA for cosmetics regulation: hybrid retrieval, two-stage reranking, evidence gating that refuses unsuppor",
@@ -198,6 +225,15 @@
     "url": "https://github.com/hjongc/openrouter-endpoint-watch"
   },
   {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35999,
+    "updated_at": "2026-10-18T17:23:45Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "Ops layer for Claude agentic workflows: did each run happen, did it deliver, what did it cost. Paces 5-hour, weekly and ",
     "id": "matthewprice/otto",
     "language": "Python",
@@ -214,15 +250,6 @@
     "stars": 11,
     "updated_at": "2026-10-18T17:15:23Z",
     "url": "https://github.com/AcruxCore/AcruxCore"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35997,
-    "updated_at": "2026-10-18T17:23:45Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
@@ -257,7 +284,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-18T18:06:23Z",
+    "updated_at": "2026-10-18T18:42:04Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -284,7 +311,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8908,
-    "updated_at": "2026-10-18T16:31:37Z",
+    "updated_at": "2026-10-18T18:37:08Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -302,7 +329,7 @@
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 671,
-    "updated_at": "2026-10-18T18:20:48Z",
+    "updated_at": "2026-10-18T18:39:54Z",
     "url": "https://github.com/Abilityai/trinity"
   },
   {
@@ -356,7 +383,7 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-18T18:24:39Z",
+    "updated_at": "2026-10-18T18:39:58Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 9,
     "updated_at": "2026-10-18T15:48:54Z",
     "url": "https://github.com/digline/digline"
-  },
-  {
-    "description": "Cheaper and better Greptile alternative runs on your own github actions.",
-    "id": "IsabellaMiyazaki9270/juror",
-    "language": "Makefile",
-    "name": "IsabellaMiyazaki9270/juror",
-    "stars": 0,
-    "updated_at": "2026-10-18T15:47:11Z",
-    "url": "https://github.com/IsabellaMiyazaki9270/juror"
-  },
-  {
-    "description": "The platform for continuously improving AI agents.",
-    "id": "overmind-core/overmind",
-    "language": "Python",
-    "name": "overmind-core/overmind",
-    "stars": 667,
-    "updated_at": "2026-10-18T15:46:15Z",
-    "url": "https://github.com/overmind-core/overmind"
-  },
-  {
-    "description": "Token usage tracker for multi-agent AI sessions",
-    "id": "yunaremaia/agentcost",
-    "language": "Python",
-    "name": "yunaremaia/agentcost",
-    "stars": 2,
-    "updated_at": "2026-10-18T15:43:33Z",
-    "url": "https://github.com/yunaremaia/agentcost"
   }
 ]
