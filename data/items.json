@@ -1,11 +1,65 @@
 [
   {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 24,
+    "updated_at": "2026-10-18T10:43:47Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-18T10:43:10Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "language": "Go",
+    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-10-18T10:41:20Z",
+    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-10-18T10:31:19Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "The evidence trail for agentic data pipelines: an LLM agent proposes Apache Iceberg changes; guardrails, branch dry-runs",
+    "id": "kushagrasoni/governed-iceberg-agent",
+    "language": "Python",
+    "name": "kushagrasoni/governed-iceberg-agent",
+    "stars": 0,
+    "updated_at": "2026-10-18T10:30:36Z",
+    "url": "https://github.com/kushagrasoni/governed-iceberg-agent"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-18T10:30:21Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61471,
-    "updated_at": "2026-10-18T10:27:56Z",
+    "updated_at": "2026-10-18T10:39:05Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -59,26 +113,8 @@
     "language": "Python",
     "name": "Xander-Xai/Beauty-Industry-RAG-QA-System",
     "stars": 0,
-    "updated_at": "2026-10-18T10:20:33Z",
+    "updated_at": "2026-10-18T10:36:43Z",
     "url": "https://github.com/Xander-Xai/Beauty-Industry-RAG-QA-System"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-18T10:18:50Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-18T10:15:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Self-hosted coding assistant that routes each request to the cheapest model that can handle it",
@@ -113,7 +149,7 @@
     "language": "Python",
     "name": "jakbuczarnecki/intergrax",
     "stars": 4,
-    "updated_at": "2026-10-18T10:01:31Z",
+    "updated_at": "2026-10-18T10:41:07Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-18T09:05:30Z",
     "url": "https://github.com/darrshangovender/guardrail"
-  },
-  {
-    "description": "Prompt and RAG context compression with a fidelity evaluator \u2014 48% fewer tokens at 100% fact recall, where naive truncat",
-    "id": "darrshangovender/context-compress",
-    "language": "Python",
-    "name": "darrshangovender/context-compress",
-    "stars": 0,
-    "updated_at": "2026-10-18T09:04:54Z",
-    "url": "https://github.com/darrshangovender/context-compress"
-  },
-  {
-    "description": "Route each LLM call to the cheapest model that will get it right. Verifier-gated cascades with an offline threshold opti",
-    "id": "darrshangovender/cascade",
-    "language": "Python",
-    "name": "darrshangovender/cascade",
-    "stars": 0,
-    "updated_at": "2026-10-18T09:04:36Z",
-    "url": "https://github.com/darrshangovender/cascade"
-  },
-  {
-    "description": "Enterprise AI operations and incident intelligence platform with RAG, agent workflows, approvals, RBAC, audit trails, an",
-    "id": "VKanee/opsmind-ai",
-    "language": "Python",
-    "name": "VKanee/opsmind-ai",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:54:15Z",
-    "url": "https://github.com/VKanee/opsmind-ai"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22700,
-    "updated_at": "2026-10-18T10:24:56Z",
-    "url": "https://github.com/comet-ml/opik"
   }
 ]
