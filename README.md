@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-18 11:30 UTC
+> ⏰ Last updated: 2026-10-18 11:32 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,12 +42,12 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 28435 | Python | 2026-10-18 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
-| 2 | [maks3201/decision-model-operator](https://github.com/maks3201/decision-model-operator) | 1 | Go | 2026-10-18 | Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product |
-| 3 | [bdchang403/AI_Software_Foundations](https://github.com/bdchang403/AI_Software_Foundations) | 0 | Python | 2026-10-18 | An industrial engineering curriculum for transitioning teams from stochastic prompting to deterministic, traceable AI-as |
-| 4 | [overmind-core/overmind](https://github.com/overmind-core/overmind) | 664 | Python | 2026-10-18 | The platform for continuously improving AI agents. |
-| 5 | [optiware-ai/optimux](https://github.com/optiware-ai/optimux) | 1 | Python | 2026-10-18 | Self-hosted coding assistant that routes each request to the cheapest model that can handle it |
-| 6 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-18 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-18 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 28435 | Python | 2026-10-18 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
+| 3 | [maks3201/decision-model-operator](https://github.com/maks3201/decision-model-operator) | 1 | Go | 2026-10-18 | Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product |
+| 4 | [bdchang403/AI_Software_Foundations](https://github.com/bdchang403/AI_Software_Foundations) | 0 | Python | 2026-10-18 | An industrial engineering curriculum for transitioning teams from stochastic prompting to deterministic, traceable AI-as |
+| 5 | [overmind-core/overmind](https://github.com/overmind-core/overmind) | 664 | Python | 2026-10-18 | The platform for continuously improving AI agents. |
+| 6 | [optiware-ai/optimux](https://github.com/optiware-ai/optimux) | 1 | Python | 2026-10-18 | Self-hosted coding assistant that routes each request to the cheapest model that can handle it |
 | 7 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 61473 | Python | 2026-10-18 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
 | 8 | [01men/ybkkasi](https://github.com/01men/ybkkasi) | 0 | TypeScript | 2026-10-18 | 企业 AI 资源管理平台 —— 把 MCP 服务 / Skill / Agent / AI 应用 统一成一套可管、可算、可审的资产。一套身份、一套权限、一套计量、一套审计。自托管 · MIT。 |
 | 9 | [Xander-Xai/Beauty-Industry-RAG-QA-System](https://github.com/Xander-Xai/Beauty-Industry-RAG-QA-System) | 0 | Python | 2026-10-18 | Multimodal RAG QA for cosmetics regulation: hybrid retrieval, two-stage reranking, evidence gating that refuses unsuppor |
