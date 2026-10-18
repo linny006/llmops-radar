@@ -1,5 +1,68 @@
 [
   {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 9323,
+    "updated_at": "2026-10-18T18:56:08Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 9,
+    "updated_at": "2026-10-18T18:53:09Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
+    "stars": 1,
+    "updated_at": "2026-10-18T18:52:37Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
+    "description": "OpenAI-compatible LLM gateway that routes around provider outages: Redis-shared circuit breakers with half-open self-hea",
+    "id": "niravpatidar37/llmfailover",
+    "language": "Python",
+    "name": "niravpatidar37/llmfailover",
+    "stars": 0,
+    "updated_at": "2026-10-18T18:48:30Z",
+    "url": "https://github.com/niravpatidar37/llmfailover"
+  },
+  {
+    "description": "One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod",
+    "id": "valteresj2/agent-hangar",
+    "language": "Python",
+    "name": "valteresj2/agent-hangar",
+    "stars": 3,
+    "updated_at": "2026-10-18T18:47:05Z",
+    "url": "https://github.com/valteresj2/agent-hangar"
+  },
+  {
+    "description": "Tuned Variables Language (TVL) by Traigent: typed specification language, validators, CLI tools, editor support, and doc",
+    "id": "Traigent/tvl",
+    "language": "Python",
+    "name": "Traigent/tvl",
+    "stars": 0,
+    "updated_at": "2026-10-18T18:58:14Z",
+    "url": "https://github.com/Traigent/tvl"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-18T18:45:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Raindrop \u2014 independent third-party profile of a public API surface, by API Evangelist. Raindrop is the monitoring and ob",
     "id": "api-evangelist/raindrop",
     "language": "\u2014",
@@ -14,17 +77,8 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 111,
-    "updated_at": "2026-10-18T18:37:37Z",
+    "updated_at": "2026-10-18T18:52:25Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Tuned Variables Language (TVL) by Traigent: typed specification language, validators, CLI tools, editor support, and doc",
-    "id": "Traigent/tvl",
-    "language": "Python",
-    "name": "Traigent/tvl",
-    "stars": 0,
-    "updated_at": "2026-10-18T18:37:50Z",
-    "url": "https://github.com/Traigent/tvl"
   },
   {
     "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
@@ -36,29 +90,20 @@
     "url": "https://github.com/prasad-kavuri/prasad-portfolio"
   },
   {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 9323,
-    "updated_at": "2026-10-18T18:35:02Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-18T18:30:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4970,
+    "updated_at": "2026-10-18T18:49:47Z",
+    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 61497,
+    "stars": 61498,
     "updated_at": "2026-10-18T18:24:43Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -194,7 +239,7 @@
     "language": "Python",
     "name": "venkathub/dosadash",
     "stars": 0,
-    "updated_at": "2026-10-18T18:18:55Z",
+    "updated_at": "2026-10-18T18:55:09Z",
     "url": "https://github.com/venkathub/dosadash"
   },
   {
@@ -250,15 +295,6 @@
     "stars": 11,
     "updated_at": "2026-10-18T17:15:23Z",
     "url": "https://github.com/AcruxCore/AcruxCore"
-  },
-  {
-    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
-    "id": "TAIPANBOX/tokenfuse",
-    "language": "Rust",
-    "name": "TAIPANBOX/tokenfuse",
-    "stars": 1,
-    "updated_at": "2026-10-18T18:19:45Z",
-    "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
     "description": "Genaryx: the browser control room over the TAIPANBOX agent-governance stack. Money, policy, identity, quality, crypto, m",
@@ -329,7 +365,7 @@
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 671,
-    "updated_at": "2026-10-18T18:39:54Z",
+    "updated_at": "2026-10-18T18:50:15Z",
     "url": "https://github.com/Abilityai/trinity"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-18T15:52:37Z",
     "url": "https://github.com/kavya4960/mcp-server-langfuse"
-  },
-  {
-    "description": "Detect drift between LLM prompts and their evaluation tests \u2014 when prompts change but evals don't",
-    "id": "yunaremaia/prompt-drift",
-    "language": "Python",
-    "name": "yunaremaia/prompt-drift",
-    "stars": 0,
-    "updated_at": "2026-10-18T15:49:17Z",
-    "url": "https://github.com/yunaremaia/prompt-drift"
-  },
-  {
-    "description": "CLI output filter for AI agents \u2014 strip noise, keep signal, save tokens.",
-    "id": "yunaremaia/leanpipe",
-    "language": "Python",
-    "name": "yunaremaia/leanpipe",
-    "stars": 0,
-    "updated_at": "2026-10-18T15:49:14Z",
-    "url": "https://github.com/yunaremaia/leanpipe"
-  },
-  {
-    "description": "Analyze a coding session log and report repeated tool calls, loops that went nowhere, and turns that blew the token budg",
-    "id": "yunaremaia/agent-call-graph",
-    "language": "Python",
-    "name": "yunaremaia/agent-call-graph",
-    "stars": 0,
-    "updated_at": "2026-10-18T15:48:59Z",
-    "url": "https://github.com/yunaremaia/agent-call-graph"
-  },
-  {
-    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
-    "id": "digline/digline",
-    "language": "Python",
-    "name": "digline/digline",
-    "stars": 9,
-    "updated_at": "2026-10-18T15:48:54Z",
-    "url": "https://github.com/digline/digline"
   }
 ]
