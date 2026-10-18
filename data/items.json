@@ -1,5 +1,68 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61473,
+    "updated_at": "2026-10-18T10:57:26Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Quality evaluation and drift for AI agents: the quality plane of the agent-governance stack",
+    "id": "TAIPANBOX/verdryx",
+    "language": "Python",
+    "name": "TAIPANBOX/verdryx",
+    "stars": 1,
+    "updated_at": "2026-10-18T10:56:05Z",
+    "url": "https://github.com/TAIPANBOX/verdryx"
+  },
+  {
+    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
+    "id": "JoniMartin27/lookspan",
+    "language": "TypeScript",
+    "name": "JoniMartin27/lookspan",
+    "stars": 7,
+    "updated_at": "2026-10-18T10:55:33Z",
+    "url": "https://github.com/JoniMartin27/lookspan"
+  },
+  {
+    "description": "Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF\u2194Bedrock mapping (US regions) with a free st",
+    "id": "scttfrdmn/hf-bedrock-map",
+    "language": "Go",
+    "name": "scttfrdmn/hf-bedrock-map",
+    "stars": 1,
+    "updated_at": "2026-10-18T10:49:35Z",
+    "url": "https://github.com/scttfrdmn/hf-bedrock-map"
+  },
+  {
+    "description": "The open framework for governed AI development: EU AI Act compliance, PII redaction, MCP proxy, prompt-injection firewal",
+    "id": "admina-org/admina",
+    "language": "Python",
+    "name": "admina-org/admina",
+    "stars": 8,
+    "updated_at": "2026-10-18T10:49:20Z",
+    "url": "https://github.com/admina-org/admina"
+  },
+  {
+    "description": "Multimodal RAG QA for cosmetics regulation: hybrid retrieval, two-stage reranking, evidence gating that refuses unsuppor",
+    "id": "Xander-Xai/Beauty-Industry-RAG-QA-System",
+    "language": "Python",
+    "name": "Xander-Xai/Beauty-Industry-RAG-QA-System",
+    "stars": 0,
+    "updated_at": "2026-10-18T10:58:47Z",
+    "url": "https://github.com/Xander-Xai/Beauty-Industry-RAG-QA-System"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-18T10:45:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
     "id": "Cyrax321/CONTINUUM",
     "language": "Python",
@@ -32,7 +95,7 @@
     "language": "Rust",
     "name": "systempromptio/systemprompt-core",
     "stars": 8,
-    "updated_at": "2026-10-18T10:31:19Z",
+    "updated_at": "2026-10-18T11:00:08Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
@@ -43,24 +106,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T10:30:36Z",
     "url": "https://github.com/kushagrasoni/governed-iceberg-agent"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-18T10:30:21Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61471,
-    "updated_at": "2026-10-18T10:39:05Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
@@ -108,13 +153,13 @@
     "url": "https://github.com/cubxxw/blog"
   },
   {
-    "description": "Multimodal RAG QA for cosmetics regulation: hybrid retrieval, two-stage reranking, evidence gating that refuses unsuppor",
-    "id": "Xander-Xai/Beauty-Industry-RAG-QA-System",
-    "language": "Python",
-    "name": "Xander-Xai/Beauty-Industry-RAG-QA-System",
-    "stars": 0,
-    "updated_at": "2026-10-18T10:36:43Z",
-    "url": "https://github.com/Xander-Xai/Beauty-Industry-RAG-QA-System"
+    "description": "The execution control plane for AI agents. Govern every model request, MCP tool call, A2A delegation, and downstream act",
+    "id": "GetBusbar/busbar",
+    "language": "Rust",
+    "name": "GetBusbar/busbar",
+    "stars": 199,
+    "updated_at": "2026-10-18T10:10:33Z",
+    "url": "https://github.com/GetBusbar/busbar"
   },
   {
     "description": "Self-hosted coding assistant that routes each request to the cheapest model that can handle it",
@@ -149,7 +194,7 @@
     "language": "Python",
     "name": "jakbuczarnecki/intergrax",
     "stars": 4,
-    "updated_at": "2026-10-18T10:41:07Z",
+    "updated_at": "2026-10-18T10:51:38Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
   },
   {
@@ -158,7 +203,7 @@
     "language": "Python",
     "name": "overmind-core/overmind",
     "stars": 664,
-    "updated_at": "2026-10-18T10:04:20Z",
+    "updated_at": "2026-10-18T10:58:05Z",
     "url": "https://github.com/overmind-core/overmind"
   },
   {
@@ -167,7 +212,7 @@
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 670,
-    "updated_at": "2026-10-18T09:58:10Z",
+    "updated_at": "2026-10-18T10:59:31Z",
     "url": "https://github.com/Abilityai/trinity"
   },
   {
@@ -248,7 +293,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28433,
-    "updated_at": "2026-10-18T10:21:12Z",
+    "updated_at": "2026-10-18T10:59:26Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -338,7 +383,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 111,
-    "updated_at": "2026-10-18T09:34:36Z",
+    "updated_at": "2026-10-18T10:51:53Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-18T09:08:20Z",
     "url": "https://github.com/darrshangovender/prompt-versioner"
-  },
-  {
-    "description": "A/B test prompt versions on a dataset with paired-bootstrap p-values. Fails the build on a regression, so prompt changes",
-    "id": "darrshangovender/prompt-eval-toolkit",
-    "language": "Python",
-    "name": "darrshangovender/prompt-eval-toolkit",
-    "stars": 0,
-    "updated_at": "2026-10-18T09:07:59Z",
-    "url": "https://github.com/darrshangovender/prompt-eval-toolkit"
-  },
-  {
-    "description": "Production evals for RAG \u2014 faithfulness, recall@k, latency and cost \u2014 wired into CI so a prompt change can't merge on a ",
-    "id": "darrshangovender/rag-eval-harness",
-    "language": "Python",
-    "name": "darrshangovender/rag-eval-harness",
-    "stars": 0,
-    "updated_at": "2026-10-18T09:07:32Z",
-    "url": "https://github.com/darrshangovender/rag-eval-harness"
-  },
-  {
-    "description": "Multi-agent orchestration with typed Pydantic handoffs, shared workspace memory, and full trace observability. Structure",
-    "id": "darrshangovender/multi-agent-orchestrator",
-    "language": "Python",
-    "name": "darrshangovender/multi-agent-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-10-18T09:06:39Z",
-    "url": "https://github.com/darrshangovender/multi-agent-orchestrator"
-  },
-  {
-    "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
-    "id": "ZIZKA-AI-SL/ZizkaDB",
-    "language": "Python",
-    "name": "ZIZKA-AI-SL/ZizkaDB",
-    "stars": 144,
-    "updated_at": "2026-10-18T09:06:29Z",
-    "url": "https://github.com/ZIZKA-AI-SL/ZizkaDB"
-  },
-  {
-    "description": "Safety gateway for LLM inputs and outputs: prompt-injection detection, PII redaction, groundedness checks, schema repair",
-    "id": "darrshangovender/guardrail",
-    "language": "Python",
-    "name": "darrshangovender/guardrail",
-    "stars": 0,
-    "updated_at": "2026-10-18T09:05:30Z",
-    "url": "https://github.com/darrshangovender/guardrail"
   }
 ]
