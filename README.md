@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-18 03:30 UTC
+> ⏰ Last updated: 2026-10-18 03:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,28 +42,28 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [bdchang403/AI_Software_Foundations](https://github.com/bdchang403/AI_Software_Foundations) | 0 | Python | 2026-10-18 | An industrial engineering curriculum for transitioning teams from stochastic prompting to deterministic, traceable AI-as |
-| 2 | [tap222/assay-evals](https://github.com/tap222/assay-evals) | 16 | Python | 2026-10-18 | Behavioral regression testing for AI apps and agents: pytest plugin, behavior diff, CI gate, and document extraction met |
-| 3 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 61455 | Python | 2026-10-18 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 4 | [llmspendguard/llm-spendguard](https://github.com/llmspendguard/llm-spendguard) | 0 | Python | 2026-10-18 | Know what an LLM job will cost before you run it — and prove your ledger matches the provider's bill. Pre-submit estimat |
-| 5 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2995 | Python | 2026-10-18 | Community maintained hardware plugin for vLLM on Huawei Ascend |
-| 6 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-18 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 7 | [acornops/control-plane](https://github.com/acornops/control-plane) | 2 | TypeScript | 2026-10-18 | AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo |
-| 8 | [acornops/execution-engine](https://github.com/acornops/execution-engine) | 2 | Python | 2026-10-18 | Run execution service for AcornOps, responsible for worker lifecycle, streaming run events, and tool execution coordinat |
-| 9 | [acornops/management-console](https://github.com/acornops/management-console) | 2 | TypeScript | 2026-10-18 | Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations |
-| 10 | [acornops/acornops-deployment](https://github.com/acornops/acornops-deployment) | 2 | JavaScript | 2026-10-18 | Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper |
-| 11 | [acornops/llm-gateway](https://github.com/acornops/llm-gateway) | 2 | Python | 2026-10-18 | LLM and tool gateway for AcornOps, brokering model providers, MCP tools, policy enforcement, and runtime credentials. |
-| 12 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 41 | Go | 2026-10-18 | Agentic Runtime |
-| 13 | [toxicwind/ranch](https://github.com/toxicwind/ranch) | 0 | Rust | 2026-10-18 | The self-hosted LLM estate in one monorepo — local model serving, cloud provider routing, MCP gateway, build jobs. All O |
-| 14 | [runcycles/cycles-client-typescript](https://github.com/runcycles/cycles-client-typescript) | 0 | TypeScript | 2026-10-18 | TypeScript SDK for Cycles — runtime budget and action authority for Node.js AI agents |
-| 15 | [naim-munshi/metriqen-llm-serving-optimization](https://github.com/naim-munshi/metriqen-llm-serving-optimization) | 0 | Python | 2026-10-18 | Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio |
-| 16 | [thequantumfalcon/kry](https://github.com/thequantumfalcon/kry) | 1 | Python | 2026-10-18 | Tamper-evident, stranger-verifiable receipts for LLM cost-savings — anyone can recompute your caching/routing savings ma |
-| 17 | [AcruxCore/AcruxCore](https://github.com/AcruxCore/AcruxCore) | 11 | TypeScript | 2026-10-18 | Open-source LLMOps platform with prompt management, an OpenAI-compatible AI gateway, OpenTelemetry tracing, a versioned  |
-| 18 | [kensterinvest/tidus](https://github.com/kensterinvest/tidus) | 1 | HTML | 2026-10-18 | Enterprise AI Router and Governance System — the AI that governs all AIs |
-| 19 | [Phat1911/Tributary](https://github.com/Phat1911/Tributary) | 0 | Rust | 2026-10-18 | Self-hostable AI token pools — govern your org's AI usage with per-member keys, quotas, and leak detection; or deposit s |
-| 20 | [sandeepk24/learn-devops-playbook](https://github.com/sandeepk24/learn-devops-playbook) | 1 | Python | 2026-10-18 | A hands-on library for DevOps, Cloud, and AI engineers: real production scenarios for AWS, Kubernetes, Docker, and LLMOp |
-| 21 | [01men/ybkkasi](https://github.com/01men/ybkkasi) | 0 | TypeScript | 2026-10-18 | 企业 AI 资源管理平台 —— 把 MCP 服务 / Skill / Agent / AI 应用 统一成一套可管、可算、可审的资产。一套身份、一套权限、一套计量、一套审计。自托管 · MIT。 |
-| 22 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 8905 | Rust | 2026-10-18 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
+| 1 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 41 | Go | 2026-10-18 | Agentic Runtime |
+| 2 | [bdchang403/AI_Software_Foundations](https://github.com/bdchang403/AI_Software_Foundations) | 0 | Python | 2026-10-18 | An industrial engineering curriculum for transitioning teams from stochastic prompting to deterministic, traceable AI-as |
+| 3 | [toxicwind/ranch](https://github.com/toxicwind/ranch) | 0 | Rust | 2026-10-18 | The self-hosted LLM estate in one monorepo — local model serving, cloud provider routing, MCP gateway, build jobs. All O |
+| 4 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 61456 | Python | 2026-10-18 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 5 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-18 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 6 | [tap222/assay-evals](https://github.com/tap222/assay-evals) | 16 | Python | 2026-10-18 | Behavioral regression testing for AI apps and agents: pytest plugin, behavior diff, CI gate, and document extraction met |
+| 7 | [llmspendguard/llm-spendguard](https://github.com/llmspendguard/llm-spendguard) | 0 | Python | 2026-10-18 | Know what an LLM job will cost before you run it — and prove your ledger matches the provider's bill. Pre-submit estimat |
+| 8 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 8906 | Rust | 2026-10-18 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
+| 9 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2995 | Python | 2026-10-18 | Community maintained hardware plugin for vLLM on Huawei Ascend |
+| 10 | [acornops/control-plane](https://github.com/acornops/control-plane) | 2 | TypeScript | 2026-10-18 | AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo |
+| 11 | [acornops/execution-engine](https://github.com/acornops/execution-engine) | 2 | Python | 2026-10-18 | Run execution service for AcornOps, responsible for worker lifecycle, streaming run events, and tool execution coordinat |
+| 12 | [acornops/management-console](https://github.com/acornops/management-console) | 2 | TypeScript | 2026-10-18 | Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations |
+| 13 | [acornops/acornops-deployment](https://github.com/acornops/acornops-deployment) | 2 | JavaScript | 2026-10-18 | Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper |
+| 14 | [acornops/llm-gateway](https://github.com/acornops/llm-gateway) | 2 | Python | 2026-10-18 | LLM and tool gateway for AcornOps, brokering model providers, MCP tools, policy enforcement, and runtime credentials. |
+| 15 | [runcycles/cycles-client-typescript](https://github.com/runcycles/cycles-client-typescript) | 0 | TypeScript | 2026-10-18 | TypeScript SDK for Cycles — runtime budget and action authority for Node.js AI agents |
+| 16 | [naim-munshi/metriqen-llm-serving-optimization](https://github.com/naim-munshi/metriqen-llm-serving-optimization) | 0 | Python | 2026-10-18 | Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio |
+| 17 | [thequantumfalcon/kry](https://github.com/thequantumfalcon/kry) | 1 | Python | 2026-10-18 | Tamper-evident, stranger-verifiable receipts for LLM cost-savings — anyone can recompute your caching/routing savings ma |
+| 18 | [AcruxCore/AcruxCore](https://github.com/AcruxCore/AcruxCore) | 11 | TypeScript | 2026-10-18 | Open-source LLMOps platform with prompt management, an OpenAI-compatible AI gateway, OpenTelemetry tracing, a versioned  |
+| 19 | [kensterinvest/tidus](https://github.com/kensterinvest/tidus) | 1 | HTML | 2026-10-18 | Enterprise AI Router and Governance System — the AI that governs all AIs |
+| 20 | [Phat1911/Tributary](https://github.com/Phat1911/Tributary) | 0 | Rust | 2026-10-18 | Self-hostable AI token pools — govern your org's AI usage with per-member keys, quotas, and leak detection; or deposit s |
+| 21 | [sandeepk24/learn-devops-playbook](https://github.com/sandeepk24/learn-devops-playbook) | 1 | Python | 2026-10-18 | A hands-on library for DevOps, Cloud, and AI engineers: real production scenarios for AWS, Kubernetes, Docker, and LLMOp |
+| 22 | [01men/ybkkasi](https://github.com/01men/ybkkasi) | 0 | TypeScript | 2026-10-18 | 企业 AI 资源管理平台 —— 把 MCP 服务 / Skill / Agent / AI 应用 统一成一套可管、可算、可审的资产。一套身份、一套权限、一套计量、一套审计。自托管 · MIT。 |
 | 23 | [KBber/KBber](https://github.com/KBber/KBber) | 0 | — | 2026-10-18 | Building reliable LLM Agents — Agent eval, evidence grounding, context engineering |
 | 24 | [a-novel/service-genai](https://github.com/a-novel/service-genai) | 1 | Go | 2026-10-18 | Durable execution for AI provider calls: crash-safe, idempotent and pollable. |
 | 25 | [asadhanif3188/InferOps](https://github.com/asadhanif3188/InferOps) | 0 | Python | 2026-10-18 | AI platform reference architecture for LLM serving on Kubernetes, with reliability, observability, failure testing, and  |
@@ -73,7 +73,7 @@ expired items removed — so you can rely on what you see being current.
 | 29 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 30618 | TypeScript | 2026-10-18 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
 | 30 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-10-18 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
 | 31 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 1 | HTML | 2026-10-18 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
-| 32 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26093 | TypeScript | 2026-10-18 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 32 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26094 | TypeScript | 2026-10-18 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 33 | [valteresj2/agent-hangar](https://github.com/valteresj2/agent-hangar) | 3 | Python | 2026-10-18 | One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod |
 | 34 | [Peter-A-P/compliant-ai-gateway](https://github.com/Peter-A-P/compliant-ai-gateway) | 0 | Python | 2026-10-18 | Every model call through one library: raw-HTTP provider adapters, a cost ledger row and an OpenTelemetry span per call,  |
 | 35 | [hjongc/openrouter-endpoint-watch](https://github.com/hjongc/openrouter-endpoint-watch) | 0 | Python | 2026-10-18 | Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p |

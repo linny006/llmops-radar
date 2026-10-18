@@ -1,12 +1,48 @@
 [
   {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-18T03:42:45Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
     "description": "An industrial engineering curriculum for transitioning teams from stochastic prompting to deterministic, traceable AI-as",
     "id": "bdchang403/AI_Software_Foundations",
     "language": "Python",
     "name": "bdchang403/AI_Software_Foundations",
     "stars": 0,
-    "updated_at": "2026-10-18T03:27:47Z",
+    "updated_at": "2026-10-18T03:40:51Z",
     "url": "https://github.com/bdchang403/AI_Software_Foundations"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-18T03:39:29Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61456,
+    "updated_at": "2026-10-18T03:44:54Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-18T03:30:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Behavioral regression testing for AI apps and agents: pytest plugin, behavior diff, CI gate, and document extraction met",
@@ -18,15 +54,6 @@
     "url": "https://github.com/tap222/assay-evals"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61455,
-    "updated_at": "2026-10-18T03:26:35Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
     "id": "llmspendguard/llm-spendguard",
     "language": "Python",
@@ -36,6 +63,15 @@
     "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8906,
+    "updated_at": "2026-10-18T03:20:07Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "Python",
@@ -43,15 +79,6 @@
     "stars": 2995,
     "updated_at": "2026-10-18T03:18:55Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-18T03:15:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
@@ -97,24 +124,6 @@
     "stars": 2,
     "updated_at": "2026-10-18T03:10:32Z",
     "url": "https://github.com/acornops/llm-gateway"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-18T03:10:31Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-18T03:07:11Z",
-    "url": "https://github.com/toxicwind/ranch"
   },
   {
     "description": "TypeScript SDK for Cycles \u2014 runtime budget and action authority for Node.js AI agents",
@@ -189,15 +198,6 @@
     "url": "https://github.com/01men/ybkkasi"
   },
   {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8905,
-    "updated_at": "2026-10-18T03:20:07Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
     "description": "Building reliable LLM Agents \u2014 Agent eval, evidence grounding, context engineering",
     "id": "KBber/KBber",
     "language": "\u2014",
@@ -230,7 +230,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 198,
-    "updated_at": "2026-10-18T03:30:18Z",
+    "updated_at": "2026-10-18T03:41:36Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -283,7 +283,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26093,
+    "stars": 26094,
     "updated_at": "2026-10-18T00:33:33Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
