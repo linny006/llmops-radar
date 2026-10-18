@@ -1,21 +1,84 @@
 [
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
+    "description": "Resource providers for pragma-os. Manage cloud infrastructure, AI agents, knowledge bases, pipelines, and workflows.",
+    "id": "pragmatiks/pragma-providers",
+    "language": "Python",
+    "name": "pragmatiks/pragma-providers",
+    "stars": 0,
+    "updated_at": "2026-10-18T17:29:08Z",
+    "url": "https://github.com/pragmatiks/pragma-providers"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-10-18T17:25:32Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
+    "id": "hjongc/openrouter-endpoint-watch",
+    "language": "Python",
+    "name": "hjongc/openrouter-endpoint-watch",
+    "stars": 0,
+    "updated_at": "2026-10-18T17:24:54Z",
+    "url": "https://github.com/hjongc/openrouter-endpoint-watch"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-18T17:24:37Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Structured GenAI study notes from prerequisites to frontier research \u2014 curriculum-ordered, career-mapped to 31 AI/ML rol",
+    "id": "bhaskarjha-dev/genai-notes",
+    "language": "PowerShell",
+    "name": "bhaskarjha-dev/genai-notes",
+    "stars": 2,
+    "updated_at": "2026-10-18T17:24:25Z",
+    "url": "https://github.com/bhaskarjha-dev/genai-notes"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-18T17:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Open-source LLMOps platform with prompt management, an OpenAI-compatible AI gateway, OpenTelemetry tracing, a versioned ",
+    "id": "AcruxCore/AcruxCore",
     "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35997,
-    "updated_at": "2026-10-18T17:11:09Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "name": "AcruxCore/AcruxCore",
+    "stars": 11,
+    "updated_at": "2026-10-18T17:15:23Z",
+    "url": "https://github.com/AcruxCore/AcruxCore"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 61492,
+    "stars": 61493,
     "updated_at": "2026-10-18T17:12:55Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35997,
+    "updated_at": "2026-10-18T17:23:45Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
@@ -32,7 +95,7 @@
     "language": "Rust",
     "name": "TAIPANBOX/tokenfuse",
     "stars": 1,
-    "updated_at": "2026-10-18T17:01:38Z",
+    "updated_at": "2026-10-18T17:22:36Z",
     "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
@@ -43,24 +106,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T17:01:34Z",
     "url": "https://github.com/TAIPANBOX/genaryx"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-18T17:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-18T16:54:03Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -122,7 +167,7 @@
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 671,
-    "updated_at": "2026-10-18T16:53:44Z",
+    "updated_at": "2026-10-18T17:21:32Z",
     "url": "https://github.com/Abilityai/trinity"
   },
   {
@@ -140,7 +185,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28439,
-    "updated_at": "2026-10-18T16:09:04Z",
+    "updated_at": "2026-10-18T17:19:24Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 464,
     "updated_at": "2026-10-18T14:59:20Z",
     "url": "https://github.com/SynaLinks/synalinks"
-  },
-  {
-    "description": "Admin API for Cycles \u2014 tenants, budgets, API keys, webhooks, audit, and governance",
-    "id": "runcycles/cycles-server-admin",
-    "language": "Java",
-    "name": "runcycles/cycles-server-admin",
-    "stars": 1,
-    "updated_at": "2026-10-18T14:54:47Z",
-    "url": "https://github.com/runcycles/cycles-server-admin"
-  },
-  {
-    "description": "Enterprise AI operations and incident intelligence platform with RAG, agent workflows, approvals, RBAC, audit trails, an",
-    "id": "VKanee/opsmind-ai",
-    "language": "Python",
-    "name": "VKanee/opsmind-ai",
-    "stars": 0,
-    "updated_at": "2026-10-18T14:51:39Z",
-    "url": "https://github.com/VKanee/opsmind-ai"
-  },
-  {
-    "description": "Agent Memory Health Monitor \u2014 scan AI agent memory stores for rot, contradictions, and duplicates",
-    "id": "yunaremaia/memwatch",
-    "language": "Python",
-    "name": "yunaremaia/memwatch",
-    "stars": 1,
-    "updated_at": "2026-10-18T14:50:22Z",
-    "url": "https://github.com/yunaremaia/memwatch"
-  },
-  {
-    "description": "The missing manual for shipping AI agents you can trust. Evals, guardrails and observability for LLM agents and RAG, wit",
-    "id": "Sarangk90/awesome-agent-evals-and-guardrails",
-    "language": "JavaScript",
-    "name": "Sarangk90/awesome-agent-evals-and-guardrails",
-    "stars": 2,
-    "updated_at": "2026-10-18T14:37:11Z",
-    "url": "https://github.com/Sarangk90/awesome-agent-evals-and-guardrails"
-  },
-  {
-    "description": "Master project orchestrator featuring Dual Engine (Gentle-AI Integrated ODD vs Standalone), Article ARQ-01 Vertical Slic",
-    "id": "QuantumEdu/q-agent",
-    "language": "Python",
-    "name": "QuantumEdu/q-agent",
-    "stars": 0,
-    "updated_at": "2026-10-18T14:33:45Z",
-    "url": "https://github.com/QuantumEdu/q-agent"
   }
 ]
