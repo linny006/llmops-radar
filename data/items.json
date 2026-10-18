@@ -1,11 +1,56 @@
 [
   {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-18T03:58:34Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2995,
+    "updated_at": "2026-10-18T03:52:34Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Behavioral regression testing for AI apps and agents: pytest plugin, behavior diff, CI gate, and document extraction met",
+    "id": "tap222/assay-evals",
+    "language": "Python",
+    "name": "tap222/assay-evals",
+    "stars": 16,
+    "updated_at": "2026-10-18T03:52:02Z",
+    "url": "https://github.com/tap222/assay-evals"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8906,
+    "updated_at": "2026-10-18T03:53:32Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-18T03:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 41,
-    "updated_at": "2026-10-18T03:42:45Z",
+    "updated_at": "2026-10-18T03:48:12Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -18,40 +63,13 @@
     "url": "https://github.com/bdchang403/AI_Software_Foundations"
   },
   {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-18T03:39:29Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61456,
-    "updated_at": "2026-10-18T03:44:54Z",
+    "updated_at": "2026-10-18T03:50:02Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-18T03:30:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Behavioral regression testing for AI apps and agents: pytest plugin, behavior diff, CI gate, and document extraction met",
-    "id": "tap222/assay-evals",
-    "language": "Python",
-    "name": "tap222/assay-evals",
-    "stars": 16,
-    "updated_at": "2026-10-18T03:30:14Z",
-    "url": "https://github.com/tap222/assay-evals"
   },
   {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
@@ -59,26 +77,8 @@
     "language": "Python",
     "name": "llmspendguard/llm-spendguard",
     "stars": 0,
-    "updated_at": "2026-10-18T03:24:42Z",
+    "updated_at": "2026-10-18T03:55:16Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8906,
-    "updated_at": "2026-10-18T03:20:07Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2995,
-    "updated_at": "2026-10-18T03:18:55Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
@@ -140,7 +140,7 @@
     "language": "Python",
     "name": "naim-munshi/metriqen-llm-serving-optimization",
     "stars": 0,
-    "updated_at": "2026-10-18T02:54:16Z",
+    "updated_at": "2026-10-18T03:57:52Z",
     "url": "https://github.com/naim-munshi/metriqen-llm-serving-optimization"
   },
   {
@@ -212,7 +212,7 @@
     "language": "Go",
     "name": "a-novel/service-genai",
     "stars": 1,
-    "updated_at": "2026-10-18T01:57:59Z",
+    "updated_at": "2026-10-18T03:58:09Z",
     "url": "https://github.com/a-novel/service-genai"
   },
   {
@@ -230,7 +230,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 198,
-    "updated_at": "2026-10-18T03:41:36Z",
+    "updated_at": "2026-10-18T03:59:10Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -283,7 +283,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26094,
+    "stars": 26095,
     "updated_at": "2026-10-18T00:33:33Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
