@@ -1,5 +1,113 @@
 [
   {
+    "description": "Token usage tracker for multi-agent AI sessions",
+    "id": "yunaremaia/agentcost",
+    "language": "Python",
+    "name": "yunaremaia/agentcost",
+    "stars": 2,
+    "updated_at": "2026-10-18T15:43:33Z",
+    "url": "https://github.com/yunaremaia/agentcost"
+  },
+  {
+    "description": "A MCP server allowing LLM agents to easily connect and retrieve data from any database",
+    "id": "moniquekrylov3676/turbular",
+    "language": "Python",
+    "name": "moniquekrylov3676/turbular",
+    "stars": 0,
+    "updated_at": "2026-10-18T15:43:23Z",
+    "url": "https://github.com/moniquekrylov3676/turbular"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "language": "Go",
+    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-10-18T15:43:08Z",
+    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
+  },
+  {
+    "description": "Product analytics for AI Assistants",
+    "id": "Rend574/trubrics-python",
+    "language": "Python",
+    "name": "Rend574/trubrics-python",
+    "stars": 0,
+    "updated_at": "2026-10-18T15:42:22Z",
+    "url": "https://github.com/Rend574/trubrics-python"
+  },
+  {
+    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
+    "id": "dTrinh65912/awesome-ai-gateway",
+    "language": "JavaScript",
+    "name": "dTrinh65912/awesome-ai-gateway",
+    "stars": 0,
+    "updated_at": "2026-10-18T15:36:10Z",
+    "url": "https://github.com/dTrinh65912/awesome-ai-gateway"
+  },
+  {
+    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
+    "id": "deryahernandez61719/awesome-ai-gateway",
+    "language": "JavaScript",
+    "name": "deryahernandez61719/awesome-ai-gateway",
+    "stars": 0,
+    "updated_at": "2026-10-18T15:35:40Z",
+    "url": "https://github.com/deryahernandez61719/awesome-ai-gateway"
+  },
+  {
+    "description": "Rust client for Cycles \u2014 runtime budget authority for AI agents",
+    "id": "runcycles/cycles-client-rust",
+    "language": "Rust",
+    "name": "runcycles/cycles-client-rust",
+    "stars": 1,
+    "updated_at": "2026-10-18T15:34:00Z",
+    "url": "https://github.com/runcycles/cycles-client-rust"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61488,
+    "updated_at": "2026-10-18T15:33:16Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
+    "id": "mehmetlombardo/llmaker",
+    "language": "Go",
+    "name": "mehmetlombardo/llmaker",
+    "stars": 0,
+    "updated_at": "2026-10-18T15:32:55Z",
+    "url": "https://github.com/mehmetlombardo/llmaker"
+  },
+  {
+    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
+    "id": "Donald693/llmaker",
+    "language": "Go",
+    "name": "Donald693/llmaker",
+    "stars": 0,
+    "updated_at": "2026-10-18T15:32:31Z",
+    "url": "https://github.com/Donald693/llmaker"
+  },
+  {
+    "description": "The platform for continuously improving AI agents.",
+    "id": "overmind-core/overmind",
+    "language": "Python",
+    "name": "overmind-core/overmind",
+    "stars": 666,
+    "updated_at": "2026-10-18T15:30:52Z",
+    "url": "https://github.com/overmind-core/overmind"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-18T15:30:21Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
     "id": "maks3201/decision-model-operator",
     "language": "Go",
@@ -36,15 +144,6 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-18T15:15:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "A circuit breaker for your LLM API bill \u2014 hard budget caps + per-feature cost attribution for OpenAI & Anthropic.",
     "id": "kimbeomgyu/budget-guard",
     "language": "TypeScript",
@@ -59,7 +158,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 646,
-    "updated_at": "2026-10-18T15:08:09Z",
+    "updated_at": "2026-10-18T15:37:40Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -70,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T15:05:16Z",
     "url": "https://github.com/toxicwind/ranch"
-  },
-  {
-    "description": "The platform for continuously improving AI agents.",
-    "id": "overmind-core/overmind",
-    "language": "Python",
-    "name": "overmind-core/overmind",
-    "stars": 665,
-    "updated_at": "2026-10-18T15:00:44Z",
-    "url": "https://github.com/overmind-core/overmind"
   },
   {
     "description": "Keras based framework for neuro-symbolic LM systems",
@@ -122,7 +212,7 @@
     "language": "Python",
     "name": "digline/digline",
     "stars": 9,
-    "updated_at": "2026-10-18T15:29:03Z",
+    "updated_at": "2026-10-18T15:43:55Z",
     "url": "https://github.com/digline/digline"
   },
   {
@@ -178,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-10-18T14:27:54Z",
     "url": "https://github.com/a-novel/service-genai"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "language": "Go",
-    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "stars": 1,
-    "updated_at": "2026-10-18T15:27:19Z",
-    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -257,7 +338,7 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-18T15:20:14Z",
+    "updated_at": "2026-10-18T15:39:59Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -277,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T14:02:48Z",
     "url": "https://github.com/hjongc/openrouter-endpoint-watch"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61487,
-    "updated_at": "2026-10-18T14:01:04Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "The open framework for governed AI development: EU AI Act compliance, PII redaction, MCP proxy, prompt-injection firewal",
@@ -310,7 +382,7 @@
     "id": "justxor/awesome-ai-devtools-ru",
     "language": "\u2014",
     "name": "justxor/awesome-ai-devtools-ru",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-10-18T13:52:27Z",
     "url": "https://github.com/justxor/awesome-ai-devtools-ru"
   },
@@ -374,79 +446,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8909,
-    "updated_at": "2026-10-18T14:44:15Z",
+    "updated_at": "2026-10-18T15:36:52Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Tuned Variables Language (TVL) by Traigent: typed specification language, validators, CLI tools, editor support, and doc",
-    "id": "Traigent/tvl",
-    "language": "Python",
-    "name": "Traigent/tvl",
-    "stars": 0,
-    "updated_at": "2026-10-18T13:18:10Z",
-    "url": "https://github.com/Traigent/tvl"
-  },
-  {
-    "description": "Regression tests for prompts: cases with deterministic checks, repeated runs, a baseline that fails the build when a pas",
-    "id": "ErenOzgu/prompt-regression",
-    "language": "Python",
-    "name": "ErenOzgu/prompt-regression",
-    "stars": 0,
-    "updated_at": "2026-10-18T13:14:13Z",
-    "url": "https://github.com/ErenOzgu/prompt-regression"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35994,
-    "updated_at": "2026-10-18T13:10:11Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "A reference architecture for AI features on governed data: 13 decisions with the measured results behind each, an evalua",
-    "id": "technobasant/ai-platform-architecture",
-    "language": "Python",
-    "name": "technobasant/ai-platform-architecture",
-    "stars": 0,
-    "updated_at": "2026-10-18T13:10:01Z",
-    "url": "https://github.com/technobasant/ai-platform-architecture"
-  },
-  {
-    "description": "Record, replay and regression-test AI agent runs: ingests OpenTelemetry GenAI traces into PostgreSQL, replays tool calls",
-    "id": "xeeshan16/agent-replay",
-    "language": "Python",
-    "name": "xeeshan16/agent-replay",
-    "stars": 0,
-    "updated_at": "2026-10-18T13:04:12Z",
-    "url": "https://github.com/xeeshan16/agent-replay"
-  },
-  {
-    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
-    "id": "brunovicco/governed-llm-gateway",
-    "language": "Python",
-    "name": "brunovicco/governed-llm-gateway",
-    "stars": 0,
-    "updated_at": "2026-10-18T13:02:57Z",
-    "url": "https://github.com/brunovicco/governed-llm-gateway"
-  },
-  {
-    "description": "Genaryx: the browser control room over the TAIPANBOX agent-governance stack. Money, policy, identity, quality, crypto, m",
-    "id": "TAIPANBOX/genaryx",
-    "language": "Rust",
-    "name": "TAIPANBOX/genaryx",
-    "stars": 0,
-    "updated_at": "2026-10-18T14:54:02Z",
-    "url": "https://github.com/TAIPANBOX/genaryx"
-  },
-  {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
-    "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 1,
-    "updated_at": "2026-10-18T12:42:52Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
   }
 ]
