@@ -1,5 +1,41 @@
 [
   {
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
+    "stars": 1,
+    "updated_at": "2026-10-18T12:29:06Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
+    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-10-18T12:18:21Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
+    "description": "Genaryx: the browser control room over the TAIPANBOX agent-governance stack. Money, policy, identity, quality, crypto, m",
+    "id": "TAIPANBOX/genaryx",
+    "language": "Rust",
+    "name": "TAIPANBOX/genaryx",
+    "stars": 0,
+    "updated_at": "2026-10-18T12:20:14Z",
+    "url": "https://github.com/TAIPANBOX/genaryx"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-18T12:15:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
     "id": "maks3201/decision-model-operator",
     "language": "Go",
@@ -45,15 +81,6 @@
     "url": "https://github.com/Phat1911/Tributary"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-18T12:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
     "id": "digline/digline",
     "language": "Python",
@@ -76,7 +103,7 @@
     "id": "mozilla-ai/otari",
     "language": "Python",
     "name": "mozilla-ai/otari",
-    "stars": 637,
+    "stars": 638,
     "updated_at": "2026-10-18T11:54:30Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
@@ -94,7 +121,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 61478,
+    "stars": 61479,
     "updated_at": "2026-10-18T11:41:47Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -131,7 +158,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28436,
-    "updated_at": "2026-10-18T12:11:52Z",
+    "updated_at": "2026-10-18T12:21:04Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -171,15 +198,6 @@
     "url": "https://github.com/Amz34/awesome-agent-infrastructure"
   },
   {
-    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
-    "id": "TAIPANBOX/tokenfuse",
-    "language": "Rust",
-    "name": "TAIPANBOX/tokenfuse",
-    "stars": 1,
-    "updated_at": "2026-10-18T12:11:29Z",
-    "url": "https://github.com/TAIPANBOX/tokenfuse"
-  },
-  {
     "description": "Quality evaluation and drift for AI agents: the quality plane of the agent-governance stack",
     "id": "TAIPANBOX/verdryx",
     "language": "Python",
@@ -212,7 +230,7 @@
     "language": "Python",
     "name": "admina-org/admina",
     "stars": 8,
-    "updated_at": "2026-10-18T11:11:02Z",
+    "updated_at": "2026-10-18T12:19:30Z",
     "url": "https://github.com/admina-org/admina"
   },
   {
@@ -347,7 +365,7 @@
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 670,
-    "updated_at": "2026-10-18T11:57:53Z",
+    "updated_at": "2026-10-18T12:21:22Z",
     "url": "https://github.com/Abilityai/trinity"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-18T09:35:58Z",
     "url": "https://github.com/yfransson78300/mcp-server-langfuse"
-  },
-  {
-    "description": "A self-updating, auto-classified map of the GenAI engineering stack: agents, MCP, memory, RAG, evals, LLMOps, AI securit",
-    "id": "alebgl77/awesome-ai-architect",
-    "language": "Python",
-    "name": "alebgl77/awesome-ai-architect",
-    "stars": 0,
-    "updated_at": "2026-10-18T09:35:37Z",
-    "url": "https://github.com/alebgl77/awesome-ai-architect"
-  },
-  {
-    "description": "Product analytics for AI Assistants",
-    "id": "Daniels426/trubrics-python",
-    "language": "Python",
-    "name": "Daniels426/trubrics-python",
-    "stars": 0,
-    "updated_at": "2026-10-18T09:28:57Z",
-    "url": "https://github.com/Daniels426/trubrics-python"
   }
 ]
