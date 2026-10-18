@@ -1,12 +1,39 @@
 [
   {
-    "description": "The open standard AI gateway \u2014 PII protection, audit, reliability & cost control as composable interceptors. Same API in",
-    "id": "manojmallick/gavio",
-    "language": "Java",
-    "name": "manojmallick/gavio",
-    "stars": 6,
-    "updated_at": "2026-10-18T22:44:08Z",
-    "url": "https://github.com/manojmallick/gavio"
+    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
+    "id": "brunovicco/governed-llm-gateway",
+    "language": "Python",
+    "name": "brunovicco/governed-llm-gateway",
+    "stars": 0,
+    "updated_at": "2026-10-18T22:58:44Z",
+    "url": "https://github.com/brunovicco/governed-llm-gateway"
+  },
+  {
+    "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
+    "id": "prasad-kavuri/prasad-portfolio",
+    "language": "TypeScript",
+    "name": "prasad-kavuri/prasad-portfolio",
+    "stars": 0,
+    "updated_at": "2026-10-18T22:57:04Z",
+    "url": "https://github.com/prasad-kavuri/prasad-portfolio"
+  },
+  {
+    "description": "Event-driven runtime prototype for maintaining accurate shared context about software systems. Local control plane in-pr",
+    "id": "alinafe82/persistent-cognitive-infrastructure",
+    "language": "Python",
+    "name": "alinafe82/persistent-cognitive-infrastructure",
+    "stars": 1,
+    "updated_at": "2026-10-18T22:56:49Z",
+    "url": "https://github.com/alinafe82/persistent-cognitive-infrastructure"
+  },
+  {
+    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
+    "id": "srjn45/warden",
+    "language": "Go",
+    "name": "srjn45/warden",
+    "stars": 2,
+    "updated_at": "2026-10-18T22:57:17Z",
+    "url": "https://github.com/srjn45/warden"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -14,8 +41,17 @@
     "language": "HTML",
     "name": "ngu-gif/genai-role-playbook",
     "stars": 1,
-    "updated_at": "2026-10-18T22:43:38Z",
+    "updated_at": "2026-10-18T22:54:25Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "language": "Go",
+    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-10-18T22:54:24Z",
+    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
   },
   {
     "description": "LocalPilot is a Python application that helps nontechnical users discover, install, run, monitor, update and remove loca",
@@ -23,8 +59,26 @@
     "language": "Python",
     "name": "fakhruldeen/LocalPilot",
     "stars": 1,
-    "updated_at": "2026-10-18T22:43:34Z",
+    "updated_at": "2026-10-18T22:54:18Z",
     "url": "https://github.com/fakhruldeen/LocalPilot"
+  },
+  {
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
+    "stars": 1,
+    "updated_at": "2026-10-18T22:52:56Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
+    "description": "Evaluation-driven, privacy-aware self-optimizing production RAG platform",
+    "id": "Yash-Chindam/self-optimizing-production-rag-platform",
+    "language": "Python",
+    "name": "Yash-Chindam/self-optimizing-production-rag-platform",
+    "stars": 0,
+    "updated_at": "2026-10-18T22:52:03Z",
+    "url": "https://github.com/Yash-Chindam/self-optimizing-production-rag-platform"
   },
   {
     "description": "Production local-LLM inference gateway with policy-aware routing and delivery automation",
@@ -32,8 +86,35 @@
     "language": "Python",
     "name": "Yash-Chindam/Production-Local-LLM-Inference-Routing-Platform",
     "stars": 0,
-    "updated_at": "2026-10-18T22:37:34Z",
+    "updated_at": "2026-10-18T22:50:24Z",
     "url": "https://github.com/Yash-Chindam/Production-Local-LLM-Inference-Routing-Platform"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-10-18T22:46:03Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-18T22:45:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The open standard AI gateway \u2014 PII protection, audit, reliability & cost control as composable interceptors. Same API in",
+    "id": "manojmallick/gavio",
+    "language": "Java",
+    "name": "manojmallick/gavio",
+    "stars": 6,
+    "updated_at": "2026-10-18T22:51:37Z",
+    "url": "https://github.com/manojmallick/gavio"
   },
   {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
@@ -43,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-10-18T22:31:12Z",
     "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-18T22:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -68,7 +140,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61504,
-    "updated_at": "2026-10-18T22:38:38Z",
+    "updated_at": "2026-10-18T22:59:41Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -106,24 +178,6 @@
     "stars": 2,
     "updated_at": "2026-10-18T22:00:35Z",
     "url": "https://github.com/acornops/management-console"
-  },
-  {
-    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
-    "id": "TAIPANBOX/tokenfuse",
-    "language": "Rust",
-    "name": "TAIPANBOX/tokenfuse",
-    "stars": 1,
-    "updated_at": "2026-10-18T22:38:42Z",
-    "url": "https://github.com/TAIPANBOX/tokenfuse"
-  },
-  {
-    "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
-    "id": "prasad-kavuri/prasad-portfolio",
-    "language": "TypeScript",
-    "name": "prasad-kavuri/prasad-portfolio",
-    "stars": 0,
-    "updated_at": "2026-10-18T21:55:10Z",
-    "url": "https://github.com/prasad-kavuri/prasad-portfolio"
   },
   {
     "description": "\u4f01\u4e1a AI \u8d44\u6e90\u7ba1\u7406\u5e73\u53f0 \u2014\u2014 \u628a MCP \u670d\u52a1 / Skill / Agent / AI \u5e94\u7528 \u7edf\u4e00\u6210\u4e00\u5957\u53ef\u7ba1\u3001\u53ef\u7b97\u3001\u53ef\u5ba1\u7684\u8d44\u4ea7\u3002\u4e00\u5957\u8eab\u4efd\u3001\u4e00\u5957\u6743\u9650\u3001\u4e00\u5957\u8ba1\u91cf\u3001\u4e00\u5957\u5ba1\u8ba1\u3002\u81ea\u6258\u7ba1 \u00b7 MIT\u3002",
@@ -239,17 +293,8 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8910,
-    "updated_at": "2026-10-18T22:35:50Z",
+    "updated_at": "2026-10-18T22:56:37Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Event-driven runtime prototype for maintaining accurate shared context about software systems. Local control plane in-pr",
-    "id": "alinafe82/persistent-cognitive-infrastructure",
-    "language": "Python",
-    "name": "alinafe82/persistent-cognitive-infrastructure",
-    "stars": 1,
-    "updated_at": "2026-10-18T22:39:50Z",
-    "url": "https://github.com/alinafe82/persistent-cognitive-infrastructure"
   },
   {
     "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
@@ -259,15 +304,6 @@
     "stars": 4,
     "updated_at": "2026-10-18T22:11:35Z",
     "url": "https://github.com/burakdede/lorepack"
-  },
-  {
-    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
-    "id": "srjn45/warden",
-    "language": "Go",
-    "name": "srjn45/warden",
-    "stars": 2,
-    "updated_at": "2026-10-18T22:43:17Z",
-    "url": "https://github.com/srjn45/warden"
   },
   {
     "description": "AI coding skills, hooks, and plugins that keep developers thinking instead of autopiloting",
@@ -412,41 +448,5 @@
     "stars": 11,
     "updated_at": "2026-10-18T20:26:55Z",
     "url": "https://github.com/AcruxCore/AcruxCore"
-  },
-  {
-    "description": "Cheaper and better Greptile alternative runs on your own github actions.",
-    "id": "michalrichardson/juror",
-    "language": "TypeScript",
-    "name": "michalrichardson/juror",
-    "stars": 0,
-    "updated_at": "2026-10-18T20:26:35Z",
-    "url": "https://github.com/michalrichardson/juror"
-  },
-  {
-    "description": "Product analytics for AI Assistants",
-    "id": "Mulder78667/trubrics-python",
-    "language": "Python",
-    "name": "Mulder78667/trubrics-python",
-    "stars": 0,
-    "updated_at": "2026-10-18T20:25:52Z",
-    "url": "https://github.com/Mulder78667/trubrics-python"
-  },
-  {
-    "description": "Structured GenAI study notes from prerequisites to frontier research \u2014 curriculum-ordered, career-mapped to 31 AI/ML rol",
-    "id": "bhaskarjha-dev/genai-notes",
-    "language": "PowerShell",
-    "name": "bhaskarjha-dev/genai-notes",
-    "stars": 2,
-    "updated_at": "2026-10-18T20:18:41Z",
-    "url": "https://github.com/bhaskarjha-dev/genai-notes"
-  },
-  {
-    "description": "A MCP server allowing LLM agents to easily connect and retrieve data from any database",
-    "id": "Kose619/turbular",
-    "language": "Python",
-    "name": "Kose619/turbular",
-    "stars": 0,
-    "updated_at": "2026-10-18T20:09:05Z",
-    "url": "https://github.com/Kose619/turbular"
   }
 ]
