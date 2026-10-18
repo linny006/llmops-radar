@@ -1,12 +1,147 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61465,
+    "updated_at": "2026-10-18T09:15:11Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Self-hostable AI token pools \u2014 govern your org's AI usage with per-member keys, quotas, and leak detection; or deposit s",
+    "id": "Phat1911/Tributary",
+    "language": "Rust",
+    "name": "Phat1911/Tributary",
+    "stars": 0,
+    "updated_at": "2026-10-18T09:10:58Z",
+    "url": "https://github.com/Phat1911/Tributary"
+  },
+  {
     "description": "Open-source, self-hosted LLM observability built on OpenTelemetry",
     "id": "antonij-simonovski/tracium",
     "language": "TypeScript",
     "name": "antonij-simonovski/tracium",
     "stars": 3,
-    "updated_at": "2026-10-18T09:00:15Z",
+    "updated_at": "2026-10-18T09:12:22Z",
     "url": "https://github.com/antonij-simonovski/tracium"
+  },
+  {
+    "description": "Semantic cache for LLM responses using pgvector kNN \u2014 serves near-duplicate questions from cache instead of paying for t",
+    "id": "darrshangovender/semantic-cache",
+    "language": "Python",
+    "name": "darrshangovender/semantic-cache",
+    "stars": 1,
+    "updated_at": "2026-10-18T09:09:10Z",
+    "url": "https://github.com/darrshangovender/semantic-cache"
+  },
+  {
+    "description": "Per-call token, cost and latency attribution for LLM apps, keyed by feature and user. Catches spend leaks that aggregate",
+    "id": "darrshangovender/llm-cost-tracker",
+    "language": "Python",
+    "name": "darrshangovender/llm-cost-tracker",
+    "stars": 0,
+    "updated_at": "2026-10-18T09:08:44Z",
+    "url": "https://github.com/darrshangovender/llm-cost-tracker"
+  },
+  {
+    "description": "Git-style version control for prompts with hash-stable weighted A/B routing. Diff, roll back, and split traffic between ",
+    "id": "darrshangovender/prompt-versioner",
+    "language": "Python",
+    "name": "darrshangovender/prompt-versioner",
+    "stars": 0,
+    "updated_at": "2026-10-18T09:08:20Z",
+    "url": "https://github.com/darrshangovender/prompt-versioner"
+  },
+  {
+    "description": "A/B test prompt versions on a dataset with paired-bootstrap p-values. Fails the build on a regression, so prompt changes",
+    "id": "darrshangovender/prompt-eval-toolkit",
+    "language": "Python",
+    "name": "darrshangovender/prompt-eval-toolkit",
+    "stars": 0,
+    "updated_at": "2026-10-18T09:07:59Z",
+    "url": "https://github.com/darrshangovender/prompt-eval-toolkit"
+  },
+  {
+    "description": "Production evals for RAG \u2014 faithfulness, recall@k, latency and cost \u2014 wired into CI so a prompt change can't merge on a ",
+    "id": "darrshangovender/rag-eval-harness",
+    "language": "Python",
+    "name": "darrshangovender/rag-eval-harness",
+    "stars": 0,
+    "updated_at": "2026-10-18T09:07:32Z",
+    "url": "https://github.com/darrshangovender/rag-eval-harness"
+  },
+  {
+    "description": "Multi-agent orchestration with typed Pydantic handoffs, shared workspace memory, and full trace observability. Structure",
+    "id": "darrshangovender/multi-agent-orchestrator",
+    "language": "Python",
+    "name": "darrshangovender/multi-agent-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-10-18T09:06:39Z",
+    "url": "https://github.com/darrshangovender/multi-agent-orchestrator"
+  },
+  {
+    "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
+    "id": "ZIZKA-AI-SL/ZizkaDB",
+    "language": "Python",
+    "name": "ZIZKA-AI-SL/ZizkaDB",
+    "stars": 144,
+    "updated_at": "2026-10-18T09:06:29Z",
+    "url": "https://github.com/ZIZKA-AI-SL/ZizkaDB"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-18T09:05:31Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Safety gateway for LLM inputs and outputs: prompt-injection detection, PII redaction, groundedness checks, schema repair",
+    "id": "darrshangovender/guardrail",
+    "language": "Python",
+    "name": "darrshangovender/guardrail",
+    "stars": 0,
+    "updated_at": "2026-10-18T09:05:30Z",
+    "url": "https://github.com/darrshangovender/guardrail"
+  },
+  {
+    "description": "Prompt and RAG context compression with a fidelity evaluator \u2014 48% fewer tokens at 100% fact recall, where naive truncat",
+    "id": "darrshangovender/context-compress",
+    "language": "Python",
+    "name": "darrshangovender/context-compress",
+    "stars": 0,
+    "updated_at": "2026-10-18T09:04:54Z",
+    "url": "https://github.com/darrshangovender/context-compress"
+  },
+  {
+    "description": "Route each LLM call to the cheapest model that will get it right. Verifier-gated cascades with an offline threshold opti",
+    "id": "darrshangovender/cascade",
+    "language": "Python",
+    "name": "darrshangovender/cascade",
+    "stars": 0,
+    "updated_at": "2026-10-18T09:04:36Z",
+    "url": "https://github.com/darrshangovender/cascade"
+  },
+  {
+    "description": "Tamper-evident, stranger-verifiable receipts for LLM cost-savings \u2014 anyone can recompute your caching/routing savings ma",
+    "id": "thequantumfalcon/kry",
+    "language": "Python",
+    "name": "thequantumfalcon/kry",
+    "stars": 1,
+    "updated_at": "2026-10-18T09:03:20Z",
+    "url": "https://github.com/thequantumfalcon/kry"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-18T09:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
@@ -14,17 +149,8 @@
     "language": "Python",
     "name": "digline/digline",
     "stars": 9,
-    "updated_at": "2026-10-18T08:58:46Z",
+    "updated_at": "2026-10-18T09:02:15Z",
     "url": "https://github.com/digline/digline"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61464,
-    "updated_at": "2026-10-18T08:59:16Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Enterprise AI operations and incident intelligence platform with RAG, agent workflows, approvals, RBAC, audit trails, an",
@@ -36,21 +162,12 @@
     "url": "https://github.com/VKanee/opsmind-ai"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-18T08:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
     "id": "cloudrift-ai/emmy",
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 111,
-    "updated_at": "2026-10-18T08:51:14Z",
+    "updated_at": "2026-10-18T09:08:40Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -77,7 +194,7 @@
     "language": "Go",
     "name": "ferro-labs/ai-gateway",
     "stars": 271,
-    "updated_at": "2026-10-18T08:45:10Z",
+    "updated_at": "2026-10-18T09:06:05Z",
     "url": "https://github.com/ferro-labs/ai-gateway"
   },
   {
@@ -97,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-10-18T08:30:07Z",
     "url": "https://github.com/Amz34/awesome-agent-infrastructure"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:28:45Z",
-    "url": "https://github.com/toxicwind/ranch"
   },
   {
     "description": "Multimodal RAG QA for cosmetics regulation: hybrid retrieval, two-stage reranking, evidence gating that refuses unsuppor",
@@ -131,7 +239,7 @@
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 669,
-    "updated_at": "2026-10-18T08:47:04Z",
+    "updated_at": "2026-10-18T09:02:32Z",
     "url": "https://github.com/Abilityai/trinity"
   },
   {
@@ -160,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T08:05:18Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "Self-hostable AI token pools \u2014 govern your org's AI usage with per-member keys, quotas, and leak detection; or deposit s",
-    "id": "Phat1911/Tributary",
-    "language": "Rust",
-    "name": "Phat1911/Tributary",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:02:34Z",
-    "url": "https://github.com/Phat1911/Tributary"
   },
   {
     "description": "AI Radar\uff1a\u5177\u5907\u8bc1\u636e\u94fe\u3001\u4eba\u5de5\u5ba1\u6838\u3001\u77e5\u8bc6\u56fe\u8c31\u4e0e\u53ef\u4fe1 RAG \u7684 AI \u6280\u672f\u60c5\u62a5\u5e73\u53f0",
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-18T06:50:11Z",
     "url": "https://github.com/PanagiotisCattaneo/trubrics-python"
-  },
-  {
-    "description": "Production LLM call layer for AI agents and tools: keep OpenAI/Anthropic/AI SDK/LiteLLM, hot-swap models with MDA preset",
-    "id": "ludovica03132/llmix",
-    "language": "Python",
-    "name": "ludovica03132/llmix",
-    "stars": 0,
-    "updated_at": "2026-10-18T06:47:29Z",
-    "url": "https://github.com/ludovica03132/llmix"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2995,
-    "updated_at": "2026-10-18T07:58:10Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
-    "id": "tBos28159/ZizkaDB",
-    "language": "Python",
-    "name": "tBos28159/ZizkaDB",
-    "stars": 0,
-    "updated_at": "2026-10-18T06:46:01Z",
-    "url": "https://github.com/tBos28159/ZizkaDB"
-  },
-  {
-    "description": "AI / LLM / Agent \u5de5\u7a0b\u5e08\u4e2d\u6587\u9762\u8bd5\u9898\u4e0e\u53c2\u8003\u7b54\u6848\uff1aRAG\u3001Agent\u3001\u5fae\u8c03\u3001LLMOps\u3001\u7cfb\u7edf\u8bbe\u8ba1",
-    "id": "cluster1900/ai-engineering-interview-questions-CN",
-    "language": "Markdown",
-    "name": "cluster1900/ai-engineering-interview-questions-CN",
-    "stars": 0,
-    "updated_at": "2026-10-18T06:45:15Z",
-    "url": "https://github.com/cluster1900/ai-engineering-interview-questions-CN"
-  },
-  {
-    "description": "Diagnostician for batch AI workflows, not a tips list. 18 methods (TOC, Little's Law, Amdahl, WIP limit, circuit breaker",
-    "id": "kair789/agent-efficiency-diagnostics",
-    "language": "Python",
-    "name": "kair789/agent-efficiency-diagnostics",
-    "stars": 1,
-    "updated_at": "2026-10-18T06:44:56Z",
-    "url": "https://github.com/kair789/agent-efficiency-diagnostics"
-  },
-  {
-    "description": "Cheaper and better Greptile alternative runs on your own github actions.",
-    "id": "Bianchi9254/juror",
-    "language": "TypeScript",
-    "name": "Bianchi9254/juror",
-    "stars": 0,
-    "updated_at": "2026-10-18T06:43:20Z",
-    "url": "https://github.com/Bianchi9254/juror"
-  },
-  {
-    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
-    "id": "pauld47/llmaker",
-    "language": "Go",
-    "name": "pauld47/llmaker",
-    "stars": 0,
-    "updated_at": "2026-10-18T06:43:10Z",
-    "url": "https://github.com/pauld47/llmaker"
-  },
-  {
-    "description": "Product analytics for AI Assistants",
-    "id": "yadav1049/trubrics-python",
-    "language": "Python",
-    "name": "yadav1049/trubrics-python",
-    "stars": 0,
-    "updated_at": "2026-10-18T06:42:36Z",
-    "url": "https://github.com/yadav1049/trubrics-python"
-  },
-  {
-    "description": "Find and prove inference savings on your own GPUs: $/M tokens with 95% CIs, agent workloads, verified-savings statements",
-    "id": "KushagraKanaujia/throttle",
-    "language": "Python",
-    "name": "KushagraKanaujia/throttle",
-    "stars": 7,
-    "updated_at": "2026-10-18T06:41:09Z",
-    "url": "https://github.com/KushagraKanaujia/throttle"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 30621,
-    "updated_at": "2026-10-18T06:37:07Z",
-    "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22699,
-    "updated_at": "2026-10-18T08:46:40Z",
-    "url": "https://github.com/comet-ml/opik"
   }
 ]
