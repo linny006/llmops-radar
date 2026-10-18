@@ -1,5 +1,86 @@
 [
   {
+    "description": "Open-source LLMOps platform with prompt management, an OpenAI-compatible AI gateway, OpenTelemetry tracing, a versioned ",
+    "id": "AcruxCore/AcruxCore",
+    "language": "TypeScript",
+    "name": "AcruxCore/AcruxCore",
+    "stars": 11,
+    "updated_at": "2026-10-18T20:26:55Z",
+    "url": "https://github.com/AcruxCore/AcruxCore"
+  },
+  {
+    "description": "Cheaper and better Greptile alternative runs on your own github actions.",
+    "id": "michalrichardson/juror",
+    "language": "TypeScript",
+    "name": "michalrichardson/juror",
+    "stars": 0,
+    "updated_at": "2026-10-18T20:26:35Z",
+    "url": "https://github.com/michalrichardson/juror"
+  },
+  {
+    "description": "Product analytics for AI Assistants",
+    "id": "Mulder78667/trubrics-python",
+    "language": "Python",
+    "name": "Mulder78667/trubrics-python",
+    "stars": 0,
+    "updated_at": "2026-10-18T20:25:52Z",
+    "url": "https://github.com/Mulder78667/trubrics-python"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-18T20:24:47Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Structured GenAI study notes from prerequisites to frontier research \u2014 curriculum-ordered, career-mapped to 31 AI/ML rol",
+    "id": "bhaskarjha-dev/genai-notes",
+    "language": "PowerShell",
+    "name": "bhaskarjha-dev/genai-notes",
+    "stars": 2,
+    "updated_at": "2026-10-18T20:18:41Z",
+    "url": "https://github.com/bhaskarjha-dev/genai-notes"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-10-18T20:17:11Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 1,
+    "updated_at": "2026-10-18T20:16:39Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-18T20:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61502,
+    "updated_at": "2026-10-18T20:10:07Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "A MCP server allowing LLM agents to easily connect and retrieve data from any database",
     "id": "Kose619/turbular",
     "language": "Python",
@@ -16,15 +97,6 @@
     "stars": 32,
     "updated_at": "2026-10-18T20:08:02Z",
     "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 1,
-    "updated_at": "2026-10-18T20:07:41Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -61,24 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T20:04:22Z",
     "url": "https://github.com/shuji969/turbular"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-18T20:01:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-18T20:01:20Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
@@ -176,8 +230,17 @@
     "language": "TypeScript",
     "name": "burakdede/lorepack",
     "stars": 4,
-    "updated_at": "2026-10-18T19:48:57Z",
+    "updated_at": "2026-10-18T20:21:14Z",
     "url": "https://github.com/burakdede/lorepack"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28441,
+    "updated_at": "2026-10-18T19:46:20Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Product analytics for AI Assistants",
@@ -234,24 +297,6 @@
     "url": "https://github.com/RiccardoAdams/turbular"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61499,
-    "updated_at": "2026-10-18T20:10:07Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-10-18T19:34:21Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
     "description": "A MCP server allowing LLM agents to easily connect and retrieve data from any database",
     "id": "janverhoeven69/turbular",
     "language": "Python",
@@ -283,7 +328,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 9331,
+    "stars": 9333,
     "updated_at": "2026-10-18T19:31:49Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-18T19:02:08Z",
     "url": "https://github.com/fadenstack/fadenstack"
-  },
-  {
-    "description": "Self-hosted AI Agents Platform for AI Native companies. Claude Code, Codex, Gemini, OpenCode agents. Apache 2.0.  ",
-    "id": "Abilityai/trinity",
-    "language": "Python",
-    "name": "Abilityai/trinity",
-    "stars": 673,
-    "updated_at": "2026-10-18T20:09:29Z",
-    "url": "https://github.com/Abilityai/trinity"
-  },
-  {
-    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
-    "id": "lmnr-ai/lmnr",
-    "language": "TypeScript",
-    "name": "lmnr-ai/lmnr",
-    "stars": 3402,
-    "updated_at": "2026-10-18T19:48:46Z",
-    "url": "https://github.com/lmnr-ai/lmnr"
-  },
-  {
-    "description": "One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod",
-    "id": "valteresj2/agent-hangar",
-    "language": "Python",
-    "name": "valteresj2/agent-hangar",
-    "stars": 3,
-    "updated_at": "2026-10-18T18:47:05Z",
-    "url": "https://github.com/valteresj2/agent-hangar"
-  },
-  {
-    "description": "Raindrop \u2014 independent third-party profile of a public API surface, by API Evangelist. Raindrop is the monitoring and ob",
-    "id": "api-evangelist/raindrop",
-    "language": "\u2014",
-    "name": "api-evangelist/raindrop",
-    "stars": 0,
-    "updated_at": "2026-10-18T18:40:15Z",
-    "url": "https://github.com/api-evangelist/raindrop"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 111,
-    "updated_at": "2026-10-18T19:29:23Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
   }
 ]
