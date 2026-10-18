@@ -1,11 +1,65 @@
 [
   {
+    "description": "Genaryx: the browser control room over the TAIPANBOX agent-governance stack. Money, policy, identity, quality, crypto, m",
+    "id": "TAIPANBOX/genaryx",
+    "language": "Rust",
+    "name": "TAIPANBOX/genaryx",
+    "stars": 0,
+    "updated_at": "2026-10-18T16:44:58Z",
+    "url": "https://github.com/TAIPANBOX/genaryx"
+  },
+  {
+    "description": "Run thousands of LLM calls concurrently from Python asyncio: shared rate-limit cooldowns, RPM/TPM limits, smart retries,",
+    "id": "geoff-davis/async-batch-llm",
+    "language": "Python",
+    "name": "geoff-davis/async-batch-llm",
+    "stars": 1,
+    "updated_at": "2026-10-18T16:41:31Z",
+    "url": "https://github.com/geoff-davis/async-batch-llm"
+  },
+  {
+    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
+    "id": "korczis/prismatic-majordomus",
+    "language": "Rust",
+    "name": "korczis/prismatic-majordomus",
+    "stars": 0,
+    "updated_at": "2026-10-18T16:35:56Z",
+    "url": "https://github.com/korczis/prismatic-majordomus"
+  },
+  {
+    "description": "The gagarin CLI \u2014 deploy and operate applications on gagarin. Ships the agent skill inside the binary.",
+    "id": "gagarin-cloud/gg",
+    "language": "Go",
+    "name": "gagarin-cloud/gg",
+    "stars": 1,
+    "updated_at": "2026-10-18T16:35:39Z",
+    "url": "https://github.com/gagarin-cloud/gg"
+  },
+  {
+    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 1,
+    "updated_at": "2026-10-18T16:34:58Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-18T16:30:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 61489,
-    "updated_at": "2026-10-18T16:19:06Z",
+    "stars": 61490,
+    "updated_at": "2026-10-18T16:39:40Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -16,15 +70,6 @@
     "stars": 3,
     "updated_at": "2026-10-18T16:16:18Z",
     "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-18T16:15:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Self-hosted AI Agents Platform for AI Native companies. Claude Code, Codex, Gemini, OpenCode agents. Apache 2.0.  ",
@@ -104,7 +149,7 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-18T16:01:07Z",
+    "updated_at": "2026-10-18T16:44:41Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -112,7 +157,7 @@
     "id": "mozilla-ai/otari",
     "language": "Python",
     "name": "mozilla-ai/otari",
-    "stars": 647,
+    "stars": 648,
     "updated_at": "2026-10-18T15:56:13Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
@@ -202,7 +247,7 @@
     "id": "overmind-core/overmind",
     "language": "Python",
     "name": "overmind-core/overmind",
-    "stars": 666,
+    "stars": 667,
     "updated_at": "2026-10-18T15:46:15Z",
     "url": "https://github.com/overmind-core/overmind"
   },
@@ -328,7 +373,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 30627,
+    "stars": 30629,
     "updated_at": "2026-10-18T15:05:56Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -396,15 +441,6 @@
     "url": "https://github.com/Red1-Rahman/NiriZan"
   },
   {
-    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 1,
-    "updated_at": "2026-10-18T16:29:02Z",
-    "url": "https://github.com/a-novel/service-genai"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-18T14:23:38Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Self-hosted open-weight LLM serving on AWS EKS: Terraform, vLLM, KEDA scale-to-zero, an LLM gateway with fallback to the",
-    "id": "sugarhillconsultants/self-hosted-llm-platform",
-    "language": "\u2014",
-    "name": "sugarhillconsultants/self-hosted-llm-platform",
-    "stars": 0,
-    "updated_at": "2026-10-18T14:19:27Z",
-    "url": "https://github.com/sugarhillconsultants/self-hosted-llm-platform"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-10-18T14:18:02Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "\ud83c\udf89 An awesome & curated list of best LLMOps tools.",
-    "id": "InftyAI/Awesome-LLMOps",
-    "language": "Python",
-    "name": "InftyAI/Awesome-LLMOps",
-    "stars": 267,
-    "updated_at": "2026-10-18T14:15:11Z",
-    "url": "https://github.com/InftyAI/Awesome-LLMOps"
-  },
-  {
-    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
-    "id": "lmnr-ai/lmnr",
-    "language": "TypeScript",
-    "name": "lmnr-ai/lmnr",
-    "stars": 3401,
-    "updated_at": "2026-10-18T15:05:03Z",
-    "url": "https://github.com/lmnr-ai/lmnr"
   }
 ]
