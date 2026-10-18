@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-18 00:15 UTC
+> ⏰ Last updated: 2026-10-18 00:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,19 +42,19 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [toxicwind/ranch](https://github.com/toxicwind/ranch) | 0 | Rust | 2026-10-18 | The self-hosted LLM estate in one monorepo — local model serving, cloud provider routing, MCP gateway, build jobs. All O |
-| 2 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 61447 | Python | 2026-10-18 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 3 | [valteresj2/agent-hangar](https://github.com/valteresj2/agent-hangar) | 3 | Python | 2026-10-18 | One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod |
-| 4 | [Peter-A-P/compliant-ai-gateway](https://github.com/Peter-A-P/compliant-ai-gateway) | 0 | Python | 2026-10-18 | Every model call through one library: raw-HTTP provider adapters, a cost ledger row and an OpenTelemetry span per call,  |
-| 5 | [hjongc/openrouter-endpoint-watch](https://github.com/hjongc/openrouter-endpoint-watch) | 0 | Python | 2026-10-18 | Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p |
-| 6 | [thequantumfalcon/kry](https://github.com/thequantumfalcon/kry) | 1 | Python | 2026-10-18 | Tamper-evident, stranger-verifiable receipts for LLM cost-savings — anyone can recompute your caching/routing savings ma |
-| 7 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-18 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 61448 | Python | 2026-10-18 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-18 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 3 | [toxicwind/ranch](https://github.com/toxicwind/ranch) | 0 | Rust | 2026-10-18 | The self-hosted LLM estate in one monorepo — local model serving, cloud provider routing, MCP gateway, build jobs. All O |
+| 4 | [valteresj2/agent-hangar](https://github.com/valteresj2/agent-hangar) | 3 | Python | 2026-10-18 | One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod |
+| 5 | [Peter-A-P/compliant-ai-gateway](https://github.com/Peter-A-P/compliant-ai-gateway) | 0 | Python | 2026-10-18 | Every model call through one library: raw-HTTP provider adapters, a cost ledger row and an OpenTelemetry span per call,  |
+| 6 | [hjongc/openrouter-endpoint-watch](https://github.com/hjongc/openrouter-endpoint-watch) | 0 | Python | 2026-10-18 | Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p |
+| 7 | [thequantumfalcon/kry](https://github.com/thequantumfalcon/kry) | 1 | Python | 2026-10-18 | Tamper-evident, stranger-verifiable receipts for LLM cost-savings — anyone can recompute your caching/routing savings ma |
 | 8 | [a-novel/service-genai](https://github.com/a-novel/service-genai) | 1 | Go | 2026-10-17 | Durable execution for AI provider calls: crash-safe, idempotent and pollable. |
 | 9 | [bdchang403/AI_Software_Foundations](https://github.com/bdchang403/AI_Software_Foundations) | 0 | Python | 2026-10-17 | An industrial engineering curriculum for transitioning teams from stochastic prompting to deterministic, traceable AI-as |
 | 10 | [01men/ybkkasi](https://github.com/01men/ybkkasi) | 0 | TypeScript | 2026-10-17 | 企业 AI 资源管理平台 —— 把 MCP 服务 / Skill / Agent / AI 应用 统一成一套可管、可算、可审的资产。一套身份、一套权限、一套计量、一套审计。自托管 · MIT。 |
 | 11 | [Traigent/tvl](https://github.com/Traigent/tvl) | 0 | Python | 2026-10-17 | Tuned Variables Language (TVL) by Traigent: typed specification language, validators, CLI tools, editor support, and doc |
 | 12 | [geoff-davis/async-batch-llm](https://github.com/geoff-davis/async-batch-llm) | 1 | Python | 2026-10-17 | Run thousands of LLM calls concurrently from Python asyncio: shared rate-limit cooldowns, RPM/TPM limits, smart retries, |
-| 13 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 8904 | Rust | 2026-10-17 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
+| 13 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 8905 | Rust | 2026-10-17 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
 | 14 | [Mattbusel/llm-cost-dashboard](https://github.com/Mattbusel/llm-cost-dashboard) | 2 | Rust | 2026-10-17 | Price every LLM API call from your logs or the provider's response (104 models, prompt caching, Claude Code logs): termi |
 | 15 | [naim-munshi/metriqen-llm-serving-optimization](https://github.com/naim-munshi/metriqen-llm-serving-optimization) | 0 | Python | 2026-10-17 | Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio |
 | 16 | [Raviteja2k2k/Raviteja2k2k](https://github.com/Raviteja2k2k/Raviteja2k2k) | 0 | Python | 2026-10-17 | Profile of Dr. Ravi Teja Thiriveedhi — clinician turned AI systems architect: multi-agent platforms, AI governance, LLM  |
@@ -65,7 +65,7 @@ expired items removed — so you can rely on what you see being current.
 | 21 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 41 | Go | 2026-10-17 | Agentic Runtime |
 | 22 | [psyb0t/aigate](https://github.com/psyb0t/aigate) | 16 | Shell | 2026-10-17 | A self-hosted AI platform: inference, tool use, browser automation, image generation, speech synthesis, transcription, o |
 | 23 | [cosmonomic/pulsarlm](https://github.com/cosmonomic/pulsarlm) | 4 | C++ | 2026-10-17 | An LLM inference engine for persistent chat bots and agents. It allows models to forget old and unimportant tokens to ke |
-| 24 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26089 | TypeScript | 2026-10-17 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 24 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26090 | TypeScript | 2026-10-17 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 25 | [llmspendguard/llm-spendguard](https://github.com/llmspendguard/llm-spendguard) | 0 | Python | 2026-10-17 | Know what an LLM job will cost before you run it — and prove your ledger matches the provider's bill. Pre-submit estimat |
 | 26 | [chrysogonus/prompt-maker-studio](https://github.com/chrysogonus/prompt-maker-studio) | 3 | Python | 2026-10-17 | Self-hosted prompt library and template editor with an MCP server for ChatGPT. Save prompts as sections with {{variables |
 | 27 | [JavisBot-Service/javis-transparency](https://github.com/JavisBot-Service/javis-transparency) | 1 | Python | 2026-10-17 | Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay — open-source probe, runs on GitHub A |
