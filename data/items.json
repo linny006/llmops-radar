@@ -1,11 +1,29 @@
 [
   {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-18T14:45:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The platform for continuously improving AI agents.",
+    "id": "overmind-core/overmind",
+    "language": "Python",
+    "name": "overmind-core/overmind",
+    "stars": 665,
+    "updated_at": "2026-10-18T14:42:59Z",
+    "url": "https://github.com/overmind-core/overmind"
+  },
+  {
     "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
     "id": "digline/digline",
     "language": "Python",
     "name": "digline/digline",
     "stars": 9,
-    "updated_at": "2026-10-18T14:41:19Z",
+    "updated_at": "2026-10-18T14:49:06Z",
     "url": "https://github.com/digline/digline"
   },
   {
@@ -13,8 +31,8 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 9310,
-    "updated_at": "2026-10-18T14:39:54Z",
+    "stars": 9311,
+    "updated_at": "2026-10-18T14:48:50Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
@@ -50,7 +68,7 @@
     "language": "Rust",
     "name": "TAIPANBOX/tokenfuse",
     "stars": 1,
-    "updated_at": "2026-10-18T14:31:24Z",
+    "updated_at": "2026-10-18T14:45:53Z",
     "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
@@ -61,15 +79,6 @@
     "stars": 3,
     "updated_at": "2026-10-18T14:30:54Z",
     "url": "https://github.com/Red1-Rahman/NiriZan"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-18T14:30:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
@@ -86,7 +95,7 @@
     "language": "Go",
     "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "stars": 1,
-    "updated_at": "2026-10-18T14:26:36Z",
+    "updated_at": "2026-10-18T14:49:06Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
   },
   {
@@ -131,7 +140,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3401,
-    "updated_at": "2026-10-18T14:17:21Z",
+    "updated_at": "2026-10-18T14:45:26Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -184,7 +193,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 61482,
+    "stars": 61484,
     "updated_at": "2026-10-18T14:01:04Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-18T11:56:26Z",
     "url": "https://github.com/optiware-ai/optimux"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 644,
-    "updated_at": "2026-10-18T11:54:30Z",
-    "url": "https://github.com/mozilla-ai/otari"
   }
 ]
