@@ -1,5 +1,68 @@
 [
   {
+    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
+    "id": "digline/digline",
+    "language": "Python",
+    "name": "digline/digline",
+    "stars": 9,
+    "updated_at": "2026-10-18T12:44:38Z",
+    "url": "https://github.com/digline/digline"
+  },
+  {
+    "description": "Genaryx: the browser control room over the TAIPANBOX agent-governance stack. Money, policy, identity, quality, crypto, m",
+    "id": "TAIPANBOX/genaryx",
+    "language": "Rust",
+    "name": "TAIPANBOX/genaryx",
+    "stars": 0,
+    "updated_at": "2026-10-18T12:42:54Z",
+    "url": "https://github.com/TAIPANBOX/genaryx"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-10-18T12:42:52Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "Local evidence, diagnosis, and control loop for prompts, checkpoints, and AI agents.",
+    "id": "VeraPyuyi/prompt_control_lab",
+    "language": "Python",
+    "name": "VeraPyuyi/prompt_control_lab",
+    "stars": 7,
+    "updated_at": "2026-10-18T12:41:13Z",
+    "url": "https://github.com/VeraPyuyi/prompt_control_lab"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-10-18T12:36:48Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61480,
+    "updated_at": "2026-10-18T12:36:28Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-18T12:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
     "id": "TAIPANBOX/tokenfuse",
     "language": "Rust",
@@ -18,30 +81,12 @@
     "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
-    "description": "Genaryx: the browser control room over the TAIPANBOX agent-governance stack. Money, policy, identity, quality, crypto, m",
-    "id": "TAIPANBOX/genaryx",
-    "language": "Rust",
-    "name": "TAIPANBOX/genaryx",
-    "stars": 0,
-    "updated_at": "2026-10-18T12:20:14Z",
-    "url": "https://github.com/TAIPANBOX/genaryx"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-18T12:15:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
     "id": "maks3201/decision-model-operator",
     "language": "Go",
     "name": "maks3201/decision-model-operator",
     "stars": 1,
-    "updated_at": "2026-10-18T12:14:15Z",
+    "updated_at": "2026-10-18T12:44:34Z",
     "url": "https://github.com/maks3201/decision-model-operator"
   },
   {
@@ -81,15 +126,6 @@
     "url": "https://github.com/Phat1911/Tributary"
   },
   {
-    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
-    "id": "digline/digline",
-    "language": "Python",
-    "name": "digline/digline",
-    "stars": 9,
-    "updated_at": "2026-10-18T11:58:24Z",
-    "url": "https://github.com/digline/digline"
-  },
-  {
     "description": "Self-hosted coding assistant that routes each request to the cheapest model that can handle it",
     "id": "optiware-ai/optimux",
     "language": "Python",
@@ -115,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T11:50:17Z",
     "url": "https://github.com/Traigent/tvl"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61479,
-    "updated_at": "2026-10-18T11:41:47Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Open-source AI reseller panel with customer API keys, prepaid balances, usage limits, model pricing, and profit analytic",
@@ -158,7 +185,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28436,
-    "updated_at": "2026-10-18T12:21:04Z",
+    "updated_at": "2026-10-18T12:30:59Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -270,15 +297,6 @@
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
   },
   {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-10-18T11:19:41Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
     "description": "The evidence trail for agentic data pipelines: an LLM agent proposes Apache Iceberg changes; guardrails, branch dry-runs",
     "id": "kushagrasoni/governed-iceberg-agent",
     "language": "Python",
@@ -301,8 +319,8 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 22702,
-    "updated_at": "2026-10-18T10:24:56Z",
+    "stars": 22703,
+    "updated_at": "2026-10-18T12:39:49Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -333,6 +351,15 @@
     "url": "https://github.com/cubxxw/blog"
   },
   {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8908,
+    "updated_at": "2026-10-18T10:10:58Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
     "description": "The execution control plane for AI agents. Govern every model request, MCP tool call, A2A delegation, and downstream act",
     "id": "GetBusbar/busbar",
     "language": "Rust",
@@ -347,7 +374,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30624,
-    "updated_at": "2026-10-18T10:04:31Z",
+    "updated_at": "2026-10-18T12:33:15Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -356,7 +383,7 @@
     "language": "Python",
     "name": "jakbuczarnecki/intergrax",
     "stars": 4,
-    "updated_at": "2026-10-18T11:52:59Z",
+    "updated_at": "2026-10-18T12:36:59Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
   },
   {
@@ -365,7 +392,7 @@
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 670,
-    "updated_at": "2026-10-18T12:21:22Z",
+    "updated_at": "2026-10-18T12:32:59Z",
     "url": "https://github.com/Abilityai/trinity"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-18T09:40:02Z",
     "url": "https://github.com/hjongc/openrouter-endpoint-watch"
-  },
-  {
-    "description": "Cheaper and better Greptile alternative runs on your own github actions.",
-    "id": "megana31/juror",
-    "language": "TypeScript",
-    "name": "megana31/juror",
-    "stars": 0,
-    "updated_at": "2026-10-18T09:40:01Z",
-    "url": "https://github.com/megana31/juror"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2996,
-    "updated_at": "2026-10-18T10:24:15Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Model Context Protocol (MCP) Server for Langfuse Prompt Management. This server allows you to access and manage your Lan",
-    "id": "yfransson78300/mcp-server-langfuse",
-    "language": "TypeScript",
-    "name": "yfransson78300/mcp-server-langfuse",
-    "stars": 0,
-    "updated_at": "2026-10-18T09:35:58Z",
-    "url": "https://github.com/yfransson78300/mcp-server-langfuse"
   }
 ]
