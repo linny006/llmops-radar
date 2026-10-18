@@ -1,12 +1,138 @@
 [
   {
-    "description": "Self-hosted AI gateway & model router: one OpenAI/Anthropic-compatible API for all providers, with routing policies, API",
+    "description": "AI / LLM / Agent \u5de5\u7a0b\u5e08\u4e2d\u6587\u9762\u8bd5\u9898\u4e0e\u53c2\u8003\u7b54\u6848\uff1aRAG\u3001Agent\u3001\u5fae\u8c03\u3001LLMOps\u3001\u7cfb\u7edf\u8bbe\u8ba1",
+    "id": "cluster1900/ai-engineering-interview-questions-CN",
+    "language": "Markdown",
+    "name": "cluster1900/ai-engineering-interview-questions-CN",
+    "stars": 0,
+    "updated_at": "2026-10-18T06:45:15Z",
+    "url": "https://github.com/cluster1900/ai-engineering-interview-questions-CN"
+  },
+  {
+    "description": "Diagnostician for batch AI workflows, not a tips list. 18 methods (TOC, Little's Law, Amdahl, WIP limit, circuit breaker",
+    "id": "kair789/agent-efficiency-diagnostics",
+    "language": "Python",
+    "name": "kair789/agent-efficiency-diagnostics",
+    "stars": 0,
+    "updated_at": "2026-10-18T06:44:56Z",
+    "url": "https://github.com/kair789/agent-efficiency-diagnostics"
+  },
+  {
+    "description": "Self-hosted AI model gateway with routing, tenant isolation, per-member API keys and a model playground. Lightweight mac",
     "id": "chensl139-ok/switchboard-ai-router",
     "language": "JavaScript",
     "name": "chensl139-ok/switchboard-ai-router",
     "stars": 5,
-    "updated_at": "2026-10-18T06:29:11Z",
+    "updated_at": "2026-10-18T06:45:17Z",
     "url": "https://github.com/chensl139-ok/switchboard-ai-router"
+  },
+  {
+    "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
+    "id": "tBos28159/ZizkaDB",
+    "language": "Python",
+    "name": "tBos28159/ZizkaDB",
+    "stars": 0,
+    "updated_at": "2026-10-18T06:44:51Z",
+    "url": "https://github.com/tBos28159/ZizkaDB"
+  },
+  {
+    "description": "Cheaper and better Greptile alternative runs on your own github actions.",
+    "id": "Bianchi9254/juror",
+    "language": "TypeScript",
+    "name": "Bianchi9254/juror",
+    "stars": 0,
+    "updated_at": "2026-10-18T06:43:20Z",
+    "url": "https://github.com/Bianchi9254/juror"
+  },
+  {
+    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
+    "id": "pauld47/llmaker",
+    "language": "Go",
+    "name": "pauld47/llmaker",
+    "stars": 0,
+    "updated_at": "2026-10-18T06:43:10Z",
+    "url": "https://github.com/pauld47/llmaker"
+  },
+  {
+    "description": "Product analytics for AI Assistants",
+    "id": "yadav1049/trubrics-python",
+    "language": "Python",
+    "name": "yadav1049/trubrics-python",
+    "stars": 0,
+    "updated_at": "2026-10-18T06:42:36Z",
+    "url": "https://github.com/yadav1049/trubrics-python"
+  },
+  {
+    "description": "Find and prove inference savings on your own GPUs: $/M tokens with 95% CIs, agent workloads, verified-savings statements",
+    "id": "KushagraKanaujia/throttle",
+    "language": "Python",
+    "name": "KushagraKanaujia/throttle",
+    "stars": 7,
+    "updated_at": "2026-10-18T06:41:09Z",
+    "url": "https://github.com/KushagraKanaujia/throttle"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-18T06:37:58Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 30621,
+    "updated_at": "2026-10-18T06:37:07Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
+    "description": "Self-hostable AI token pools \u2014 govern your org's AI usage with per-member keys, quotas, and leak detection; or deposit s",
+    "id": "Phat1911/Tributary",
+    "language": "Rust",
+    "name": "Phat1911/Tributary",
+    "stars": 0,
+    "updated_at": "2026-10-18T06:36:15Z",
+    "url": "https://github.com/Phat1911/Tributary"
+  },
+  {
+    "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
+    "id": "runcycles/cycles-docs",
+    "language": "Vue",
+    "name": "runcycles/cycles-docs",
+    "stars": 4,
+    "updated_at": "2026-10-18T06:33:12Z",
+    "url": "https://github.com/runcycles/cycles-docs"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2995,
+    "updated_at": "2026-10-18T06:30:38Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-18T06:30:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61459,
+    "updated_at": "2026-10-18T06:42:57Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Tuned Variables Language (TVL) by Traigent: typed specification language, validators, CLI tools, editor support, and doc",
@@ -27,13 +153,13 @@
     "url": "https://github.com/Jwrede/llmprobe"
   },
   {
-    "description": "Diagnostician for batch AI workflows, not a tips list. 18 methods (TOC, Little's Law, Amdahl, WIP limit, circuit breaker",
-    "id": "kair789/agent-efficiency-diagnostics",
+    "description": "Self-hosted AI Agents Platform for AI Native companies. Claude Code, Codex, Gemini, OpenCode agents. Apache 2.0.  ",
+    "id": "Abilityai/trinity",
     "language": "Python",
-    "name": "kair789/agent-efficiency-diagnostics",
-    "stars": 0,
-    "updated_at": "2026-10-18T06:25:30Z",
-    "url": "https://github.com/kair789/agent-efficiency-diagnostics"
+    "name": "Abilityai/trinity",
+    "stars": 667,
+    "updated_at": "2026-10-18T06:42:09Z",
+    "url": "https://github.com/Abilityai/trinity"
   },
   {
     "description": "\u9876\u7ea7\u5ba1\u7f8e\u7684\u4e2a\u4eba\u535a\u5ba2\uff01\uff01\uff01\u5199\u4e00\u4e9b\u5173\u4e8e AI\u3001Agent\u3001\u6280\u672f\u3001\u4ea7\u54c1\u3001\u8425\u9500\u3001\u4e00\u4e9b\u751f\u6d3b\u601d\u8003\uff0c\u4e2a\u4eba\u6210\u957f\u7c7b\u7684\u7cbe\u6587",
@@ -52,15 +178,6 @@
     "stars": 9,
     "updated_at": "2026-10-18T06:21:35Z",
     "url": "https://github.com/HikaruEgashira/otel-hooks"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-18T06:18:37Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83e\udded Awesome Enterprise AI \u2014 the CAIO list. An adoption-first index of open-source AI for the enterprise (license \u00b7 maturit",
@@ -88,24 +205,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T06:09:04Z",
     "url": "https://github.com/toxicwind/ranch"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-18T06:08:56Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61459,
-    "updated_at": "2026-10-18T06:29:49Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
@@ -158,7 +257,7 @@
     "language": "Go",
     "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "stars": 1,
-    "updated_at": "2026-10-18T06:17:16Z",
+    "updated_at": "2026-10-18T06:36:48Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
   },
   {
@@ -187,15 +286,6 @@
     "stars": 16,
     "updated_at": "2026-10-18T05:39:39Z",
     "url": "https://github.com/tap222/assay-evals"
-  },
-  {
-    "description": "Find and prove inference savings on your own GPUs: $/M tokens with 95% CIs, agent workloads, verified-savings statements",
-    "id": "KushagraKanaujia/throttle",
-    "language": "Python",
-    "name": "KushagraKanaujia/throttle",
-    "stars": 7,
-    "updated_at": "2026-10-18T05:38:33Z",
-    "url": "https://github.com/KushagraKanaujia/throttle"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -275,7 +365,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8906,
-    "updated_at": "2026-10-18T06:09:37Z",
+    "updated_at": "2026-10-18T06:40:40Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-18T04:53:41Z",
     "url": "https://github.com/Makarov6827/awesome-ai-gateway"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 4,
-    "updated_at": "2026-10-18T04:53:33Z",
-    "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
-    "id": "hjongc/openrouter-endpoint-watch",
-    "language": "Python",
-    "name": "hjongc/openrouter-endpoint-watch",
-    "stars": 0,
-    "updated_at": "2026-10-18T04:39:00Z",
-    "url": "https://github.com/hjongc/openrouter-endpoint-watch"
-  },
-  {
-    "description": "Agent feedback flywheel: explicit and implicit signals, corrections mined into golden eval cases, regression gate on eve",
-    "id": "jagadishmazure-jpg/Jagadish-agent-feedback-loop",
-    "language": "Python",
-    "name": "jagadishmazure-jpg/Jagadish-agent-feedback-loop",
-    "stars": 0,
-    "updated_at": "2026-10-18T04:39:46Z",
-    "url": "https://github.com/jagadishmazure-jpg/Jagadish-agent-feedback-loop"
-  },
-  {
-    "description": "AegisRAG is a security-first, auditable enterprise RAG backend for teams that care more about access control,traceabilit",
-    "id": "chyinan/AegisRAG",
-    "language": "Python",
-    "name": "chyinan/AegisRAG",
-    "stars": 4,
-    "updated_at": "2026-10-18T04:34:16Z",
-    "url": "https://github.com/chyinan/AegisRAG"
-  },
-  {
-    "description": "Make AI useful. Make it yours. A practical learning path through Generative AI, LLM applications, RAG, AI agents, and AI",
-    "id": "CodesbyFebin/-AI-BOOTCAMP-2026",
-    "language": "Python",
-    "name": "CodesbyFebin/-AI-BOOTCAMP-2026",
-    "stars": 0,
-    "updated_at": "2026-10-18T04:30:09Z",
-    "url": "https://github.com/CodesbyFebin/-AI-BOOTCAMP-2026"
-  },
-  {
-    "description": "Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio",
-    "id": "naim-munshi/metriqen-llm-serving-optimization",
-    "language": "Python",
-    "name": "naim-munshi/metriqen-llm-serving-optimization",
-    "stars": 0,
-    "updated_at": "2026-10-18T04:19:57Z",
-    "url": "https://github.com/naim-munshi/metriqen-llm-serving-optimization"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35983,
-    "updated_at": "2026-10-18T04:18:22Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Unified AI Gateway for 30+ LLMs (OpenAI, Anthropic, Bedrock, Azure etc) with Caching, Guardrails, A/B test & cost contro",
-    "id": "ferro-labs/ai-gateway",
-    "language": "Go",
-    "name": "ferro-labs/ai-gateway",
-    "stars": 271,
-    "updated_at": "2026-10-18T04:17:27Z",
-    "url": "https://github.com/ferro-labs/ai-gateway"
-  },
-  {
-    "description": "\u9762\u5411\u732e\u8840\u573a\u666f\u7684\u53ef\u4fe1 AI Agent\uff1a\u624b\u5199 ReAct \u7f16\u6392\u3001\u8eab\u4efd\u6ce8\u5165\u9632\u8d8a\u6743\u3001HITL \u4eba\u5de5\u786e\u8ba4\u3001\u5f15\u7528\u6eaf\u6e90\u4e0e 48 \u6761\u786e\u5b9a\u6027\u8bc4\u6d4b",
-    "id": "hwt-huangwenting/blood-donation-agent",
-    "language": "Python",
-    "name": "hwt-huangwenting/blood-donation-agent",
-    "stars": 0,
-    "updated_at": "2026-10-18T04:07:36Z",
-    "url": "https://github.com/hwt-huangwenting/blood-donation-agent"
-  },
-  {
-    "description": "Self-hosted AI Agents Platform for AI Native companies. Claude Code, Codex, Gemini, OpenCode agents. Apache 2.0.  ",
-    "id": "Abilityai/trinity",
-    "language": "Python",
-    "name": "Abilityai/trinity",
-    "stars": 666,
-    "updated_at": "2026-10-18T06:26:54Z",
-    "url": "https://github.com/Abilityai/trinity"
   }
 ]
