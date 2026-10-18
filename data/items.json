@@ -1,11 +1,74 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61497,
+    "updated_at": "2026-10-18T18:24:43Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-10-18T18:24:28Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-18T18:20:31Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
+    "id": "prasad-kavuri/prasad-portfolio",
+    "language": "TypeScript",
+    "name": "prasad-kavuri/prasad-portfolio",
+    "stars": 0,
+    "updated_at": "2026-10-18T18:18:08Z",
+    "url": "https://github.com/prasad-kavuri/prasad-portfolio"
+  },
+  {
+    "description": "Resource providers for pragma-os. Manage cloud infrastructure, AI agents, knowledge bases, pipelines, and workflows.",
+    "id": "pragmatiks/pragma-providers",
+    "language": "Python",
+    "name": "pragmatiks/pragma-providers",
+    "stars": 0,
+    "updated_at": "2026-10-18T18:17:41Z",
+    "url": "https://github.com/pragmatiks/pragma-providers"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 32,
+    "updated_at": "2026-10-18T18:16:18Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-18T18:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
     "id": "sarkars/agent-failure-modes",
     "language": "Python",
     "name": "sarkars/agent-failure-modes",
     "stars": 1,
-    "updated_at": "2026-10-18T18:13:57Z",
+    "updated_at": "2026-10-18T18:20:18Z",
     "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
@@ -16,15 +79,6 @@
     "stars": 41,
     "updated_at": "2026-10-18T18:13:14Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-10-18T18:09:06Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
@@ -45,15 +99,6 @@
     "url": "https://github.com/Xander-Xai/Beauty-Industry-RAG-QA-System"
   },
   {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-18T18:06:09Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
     "description": "50+ curated LLM observability tools PLUS 26 Agent Skills (several with runnable, unit-tested scripts) to build, evaluate",
     "id": "ContextJet-ai/awesome-llm-observability",
     "language": "Python",
@@ -61,24 +106,6 @@
     "stars": 42,
     "updated_at": "2026-10-18T18:02:53Z",
     "url": "https://github.com/ContextJet-ai/awesome-llm-observability"
-  },
-  {
-    "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
-    "id": "prasad-kavuri/prasad-portfolio",
-    "language": "TypeScript",
-    "name": "prasad-kavuri/prasad-portfolio",
-    "stars": 0,
-    "updated_at": "2026-10-18T18:06:48Z",
-    "url": "https://github.com/prasad-kavuri/prasad-portfolio"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-18T18:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -117,15 +144,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61495,
-    "updated_at": "2026-10-18T17:49:04Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Janus Edge \u2014 self-hosted AI gateway to govern how your company uses ChatGPT, Claude, Copilot and local models: SSO, per-",
     "id": "Torvanis/janus",
     "language": "Go",
@@ -149,7 +167,7 @@
     "language": "Python",
     "name": "venkathub/dosadash",
     "stars": 0,
-    "updated_at": "2026-10-18T18:14:21Z",
+    "updated_at": "2026-10-18T18:18:55Z",
     "url": "https://github.com/venkathub/dosadash"
   },
   {
@@ -160,15 +178,6 @@
     "stars": 28440,
     "updated_at": "2026-10-18T17:33:34Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Resource providers for pragma-os. Manage cloud infrastructure, AI agents, knowledge bases, pipelines, and workflows.",
-    "id": "pragmatiks/pragma-providers",
-    "language": "Python",
-    "name": "pragmatiks/pragma-providers",
-    "stars": 0,
-    "updated_at": "2026-10-18T17:29:08Z",
-    "url": "https://github.com/pragmatiks/pragma-providers"
   },
   {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
@@ -221,7 +230,7 @@
     "language": "Rust",
     "name": "TAIPANBOX/tokenfuse",
     "stars": 1,
-    "updated_at": "2026-10-18T18:14:06Z",
+    "updated_at": "2026-10-18T18:19:45Z",
     "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
@@ -230,7 +239,7 @@
     "language": "Rust",
     "name": "TAIPANBOX/genaryx",
     "stars": 0,
-    "updated_at": "2026-10-18T17:01:34Z",
+    "updated_at": "2026-10-18T18:24:07Z",
     "url": "https://github.com/TAIPANBOX/genaryx"
   },
   {
@@ -293,7 +302,7 @@
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 671,
-    "updated_at": "2026-10-18T18:10:54Z",
+    "updated_at": "2026-10-18T18:20:48Z",
     "url": "https://github.com/Abilityai/trinity"
   },
   {
@@ -347,7 +356,7 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-18T16:44:41Z",
+    "updated_at": "2026-10-18T18:24:39Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-18T15:43:33Z",
     "url": "https://github.com/yunaremaia/agentcost"
-  },
-  {
-    "description": "A MCP server allowing LLM agents to easily connect and retrieve data from any database",
-    "id": "moniquekrylov3676/turbular",
-    "language": "Python",
-    "name": "moniquekrylov3676/turbular",
-    "stars": 0,
-    "updated_at": "2026-10-18T15:43:23Z",
-    "url": "https://github.com/moniquekrylov3676/turbular"
   }
 ]
