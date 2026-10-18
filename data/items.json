@@ -1,11 +1,29 @@
 [
   {
+    "description": "The open standard AI gateway \u2014 PII protection, audit, reliability & cost control as composable interceptors. Same API in",
+    "id": "manojmallick/gavio",
+    "language": "Java",
+    "name": "manojmallick/gavio",
+    "stars": 6,
+    "updated_at": "2026-10-18T22:28:11Z",
+    "url": "https://github.com/manojmallick/gavio"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61504,
+    "updated_at": "2026-10-18T22:29:41Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-10-18T22:15:24Z",
+    "updated_at": "2026-10-18T22:24:35Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -43,15 +61,6 @@
     "stars": 2,
     "updated_at": "2026-10-18T22:00:35Z",
     "url": "https://github.com/acornops/management-console"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61504,
-    "updated_at": "2026-10-18T22:21:22Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
@@ -149,7 +158,7 @@
     "language": "Rust",
     "name": "systempromptio/systemprompt-core",
     "stars": 8,
-    "updated_at": "2026-10-18T21:36:44Z",
+    "updated_at": "2026-10-18T22:30:17Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
@@ -194,7 +203,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8910,
-    "updated_at": "2026-10-18T22:16:33Z",
+    "updated_at": "2026-10-18T22:25:04Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -221,7 +230,7 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-18T22:22:28Z",
+    "updated_at": "2026-10-18T22:27:41Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-18T20:36:06Z",
     "url": "https://github.com/abdullahimohamed101/agent-black-box"
-  },
-  {
-    "description": "A MCP server allowing LLM agents to easily connect and retrieve data from any database",
-    "id": "shuji969/turbular",
-    "language": "Python",
-    "name": "shuji969/turbular",
-    "stars": 0,
-    "updated_at": "2026-10-18T20:04:22Z",
-    "url": "https://github.com/shuji969/turbular"
   }
 ]
