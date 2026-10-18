@@ -1,12 +1,48 @@
 [
   {
+    "description": "AI Radar\uff1a\u5177\u5907\u8bc1\u636e\u94fe\u3001\u4eba\u5de5\u5ba1\u6838\u3001\u77e5\u8bc6\u56fe\u8c31\u4e0e\u53ef\u4fe1 RAG \u7684 AI \u6280\u672f\u60c5\u62a5\u5e73\u53f0",
+    "id": "xuerp/ai-knowledge-explorer",
+    "language": "Python",
+    "name": "xuerp/ai-knowledge-explorer",
+    "stars": 0,
+    "updated_at": "2026-10-18T07:42:34Z",
+    "url": "https://github.com/xuerp/ai-knowledge-explorer"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 61459,
-    "updated_at": "2026-10-18T07:24:44Z",
+    "stars": 61460,
+    "updated_at": "2026-10-18T07:40:29Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Self-hostable AI token pools \u2014 govern your org's AI usage with per-member keys, quotas, and leak detection; or deposit s",
+    "id": "Phat1911/Tributary",
+    "language": "Rust",
+    "name": "Phat1911/Tributary",
+    "stars": 0,
+    "updated_at": "2026-10-18T07:39:20Z",
+    "url": "https://github.com/Phat1911/Tributary"
+  },
+  {
+    "description": "AI Agent hooks for LLM Observability.",
+    "id": "HikaruEgashira/otel-hooks",
+    "language": "Python",
+    "name": "HikaruEgashira/otel-hooks",
+    "stars": 9,
+    "updated_at": "2026-10-18T07:39:18Z",
+    "url": "https://github.com/HikaruEgashira/otel-hooks"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-10-18T07:38:30Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
     "description": "Multi-agent LinkedIn branding system with ReAct tool-calling, human-in-the-loop review, full agent traces, and a securit",
@@ -14,8 +50,26 @@
     "language": "Python",
     "name": "BurraRohan/PersonaAI",
     "stars": 0,
-    "updated_at": "2026-10-18T07:24:44Z",
+    "updated_at": "2026-10-18T07:34:45Z",
     "url": "https://github.com/BurraRohan/PersonaAI"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-18T07:31:14Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-18T07:30:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Agentic Runtime",
@@ -34,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-10-18T07:21:26Z",
     "url": "https://github.com/Chris0Jeky/llm-release-gate"
-  },
-  {
-    "description": "Self-hostable AI token pools \u2014 govern your org's AI usage with per-member keys, quotas, and leak detection; or deposit s",
-    "id": "Phat1911/Tributary",
-    "language": "Rust",
-    "name": "Phat1911/Tributary",
-    "stars": 0,
-    "updated_at": "2026-10-18T07:21:21Z",
-    "url": "https://github.com/Phat1911/Tributary"
   },
   {
     "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
@@ -72,13 +117,13 @@
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-18T07:15:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35985,
+    "updated_at": "2026-10-18T07:09:56Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "AI platform reference architecture for LLM serving on Kubernetes, with reliability, observability, failure testing, and ",
@@ -95,17 +140,8 @@
     "language": "Jupyter Notebook",
     "name": "Red1-Rahman/NiriZan",
     "stars": 3,
-    "updated_at": "2026-10-18T07:30:19Z",
+    "updated_at": "2026-10-18T07:31:23Z",
     "url": "https://github.com/Red1-Rahman/NiriZan"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-18T07:06:14Z",
-    "url": "https://github.com/toxicwind/ranch"
   },
   {
     "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
@@ -221,7 +257,7 @@
     "language": "Python",
     "name": "vllm-project/vllm-ascend",
     "stars": 2995,
-    "updated_at": "2026-10-18T07:02:16Z",
+    "updated_at": "2026-10-18T07:30:33Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -329,7 +365,7 @@
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 667,
-    "updated_at": "2026-10-18T06:46:11Z",
+    "updated_at": "2026-10-18T07:39:48Z",
     "url": "https://github.com/Abilityai/trinity"
   },
   {
@@ -340,15 +376,6 @@
     "stars": 29,
     "updated_at": "2026-10-18T06:22:57Z",
     "url": "https://github.com/cubxxw/blog"
-  },
-  {
-    "description": "AI Agent hooks for LLM Observability.",
-    "id": "HikaruEgashira/otel-hooks",
-    "language": "Python",
-    "name": "HikaruEgashira/otel-hooks",
-    "stars": 9,
-    "updated_at": "2026-10-18T06:21:35Z",
-    "url": "https://github.com/HikaruEgashira/otel-hooks"
   },
   {
     "description": "\ud83e\udded Awesome Enterprise AI \u2014 the CAIO list. An adoption-first index of open-source AI for the enterprise (license \u00b7 maturit",
@@ -396,15 +423,6 @@
     "url": "https://github.com/dheerajkarwasra/spanlight"
   },
   {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-10-18T07:18:38Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
     "description": "Does an OpenAI-compatible endpoint disclose model prices without an account or key? One unauthenticated GET, five verdic",
     "id": "happy520ai/gateway-price-check",
     "language": "JavaScript",
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-18T05:40:54Z",
     "url": "https://github.com/cbeyondcloud/TokenLean"
-  },
-  {
-    "description": "Behavioral regression testing for AI apps and agents: pytest plugin, behavior diff, CI gate, and document extraction met",
-    "id": "tap222/assay-evals",
-    "language": "Python",
-    "name": "tap222/assay-evals",
-    "stars": 16,
-    "updated_at": "2026-10-18T05:39:39Z",
-    "url": "https://github.com/tap222/assay-evals"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-18T05:36:27Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   }
 ]
