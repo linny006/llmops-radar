@@ -1,12 +1,57 @@
 [
   {
+    "description": "Open-source, self-hosted LLM observability built on OpenTelemetry",
+    "id": "antonij-simonovski/tracium",
+    "language": "TypeScript",
+    "name": "antonij-simonovski/tracium",
+    "stars": 3,
+    "updated_at": "2026-10-18T09:00:15Z",
+    "url": "https://github.com/antonij-simonovski/tracium"
+  },
+  {
+    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
+    "id": "digline/digline",
+    "language": "Python",
+    "name": "digline/digline",
+    "stars": 9,
+    "updated_at": "2026-10-18T08:58:46Z",
+    "url": "https://github.com/digline/digline"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61464,
-    "updated_at": "2026-10-18T08:42:45Z",
+    "updated_at": "2026-10-18T08:59:16Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Enterprise AI operations and incident intelligence platform with RAG, agent workflows, approvals, RBAC, audit trails, an",
+    "id": "VKanee/opsmind-ai",
+    "language": "Python",
+    "name": "VKanee/opsmind-ai",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:54:15Z",
+    "url": "https://github.com/VKanee/opsmind-ai"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-18T08:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 111,
+    "updated_at": "2026-10-18T08:51:14Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
     "description": "\u9876\u7ea7\u5ba1\u7f8e\u7684\u4e2a\u4eba\u535a\u5ba2\uff01\uff01\uff01\u5199\u4e00\u4e9b\u5173\u4e8e AI\u3001Agent\u3001\u6280\u672f\u3001\u4ea7\u54c1\u3001\u8425\u9500\u3001\u4e00\u4e9b\u751f\u6d3b\u601d\u8003\uff0c\u4e2a\u4eba\u6210\u957f\u7c7b\u7684\u7cbe\u6587",
@@ -43,15 +88,6 @@
     "stars": 9,
     "updated_at": "2026-10-18T08:31:35Z",
     "url": "https://github.com/HikaruEgashira/otel-hooks"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-18T08:30:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
@@ -95,7 +131,7 @@
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 669,
-    "updated_at": "2026-10-18T08:33:32Z",
+    "updated_at": "2026-10-18T08:47:04Z",
     "url": "https://github.com/Abilityai/trinity"
   },
   {
@@ -400,7 +436,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 30623,
+    "stars": 30621,
     "updated_at": "2026-10-18T06:37:07Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -410,43 +446,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22699,
-    "updated_at": "2026-10-18T06:34:27Z",
+    "updated_at": "2026-10-18T08:46:40Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
-    "id": "runcycles/cycles-docs",
-    "language": "Vue",
-    "name": "runcycles/cycles-docs",
-    "stars": 4,
-    "updated_at": "2026-10-18T06:33:12Z",
-    "url": "https://github.com/runcycles/cycles-docs"
-  },
-  {
-    "description": "Tuned Variables Language (TVL) by Traigent: typed specification language, validators, CLI tools, editor support, and doc",
-    "id": "Traigent/tvl",
-    "language": "Python",
-    "name": "Traigent/tvl",
-    "stars": 0,
-    "updated_at": "2026-10-18T06:29:00Z",
-    "url": "https://github.com/Traigent/tvl"
-  },
-  {
-    "description": "Synthetic monitoring and CI smoke tests for LLM inference endpoints.",
-    "id": "Jwrede/llmprobe",
-    "language": "Go",
-    "name": "Jwrede/llmprobe",
-    "stars": 7,
-    "updated_at": "2026-10-18T06:27:02Z",
-    "url": "https://github.com/Jwrede/llmprobe"
-  },
-  {
-    "description": "\ud83e\udded Awesome Enterprise AI \u2014 the CAIO list. An adoption-first index of open-source AI for the enterprise (license \u00b7 maturit",
-    "id": "caiohome/awesome-caio",
-    "language": "Python",
-    "name": "caiohome/awesome-caio",
-    "stars": 0,
-    "updated_at": "2026-10-18T06:16:56Z",
-    "url": "https://github.com/caiohome/awesome-caio"
   }
 ]
