@@ -1,5 +1,41 @@
 [
   {
+    "description": "Diagnostician for batch AI workflows, not a tips list. 18 methods (TOC, Little's Law, Amdahl, WIP limit, circuit breaker",
+    "id": "kair789/agent-efficiency-diagnostics",
+    "language": "Python",
+    "name": "kair789/agent-efficiency-diagnostics",
+    "stars": 0,
+    "updated_at": "2026-10-18T06:14:37Z",
+    "url": "https://github.com/kair789/agent-efficiency-diagnostics"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-18T06:09:04Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-18T06:08:56Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-18T06:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
     "id": "a-novel/service-genai",
     "language": "Go",
@@ -9,15 +45,6 @@
     "url": "https://github.com/a-novel/service-genai"
   },
   {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-18T05:57:29Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -25,15 +52,6 @@
     "stars": 28431,
     "updated_at": "2026-10-18T05:56:59Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Diagnostician for batch AI workflows, not a tips list. 18 methods (TOC, Little's Law, Amdahl, WIP limit, circuit breaker",
-    "id": "kair789/agent-efficiency-diagnostics",
-    "language": "Python",
-    "name": "kair789/agent-efficiency-diagnostics",
-    "stars": 0,
-    "updated_at": "2026-10-18T05:54:57Z",
-    "url": "https://github.com/kair789/agent-efficiency-diagnostics"
   },
   {
     "description": "Open-source LLM observability. See every prompt, completion, token, cost, latency and error as traces and sessions. Pyth",
@@ -68,17 +86,8 @@
     "language": "Go",
     "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "stars": 1,
-    "updated_at": "2026-10-18T05:53:09Z",
+    "updated_at": "2026-10-18T06:06:15Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-18T05:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Maps: curated list of agent observability tools, standards and platforms (OTel GenAI, tracing, evals, guardrails, MCP)",
@@ -133,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-10-18T05:36:27Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-18T05:35:09Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
@@ -203,7 +203,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61458,
-    "updated_at": "2026-10-18T05:53:27Z",
+    "updated_at": "2026-10-18T06:03:37Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -221,7 +221,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8906,
-    "updated_at": "2026-10-18T05:24:20Z",
+    "updated_at": "2026-10-18T06:09:37Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
