@@ -5,8 +5,71 @@
     "language": "Rust",
     "name": "Phat1911/Tributary",
     "stars": 0,
-    "updated_at": "2026-10-18T07:00:15Z",
+    "updated_at": "2026-10-18T07:14:01Z",
     "url": "https://github.com/Phat1911/Tributary"
+  },
+  {
+    "description": "AI platform reference architecture for LLM serving on Kubernetes, with reliability, observability, failure testing, and ",
+    "id": "asadhanif3188/InferOps",
+    "language": "Python",
+    "name": "asadhanif3188/InferOps",
+    "stars": 0,
+    "updated_at": "2026-10-18T07:09:36Z",
+    "url": "https://github.com/asadhanif3188/InferOps"
+  },
+  {
+    "description": "Continuous Evaluation Infrastructure for Production AI",
+    "id": "Red1-Rahman/NiriZan",
+    "language": "Jupyter Notebook",
+    "name": "Red1-Rahman/NiriZan",
+    "stars": 3,
+    "updated_at": "2026-10-18T07:13:29Z",
+    "url": "https://github.com/Red1-Rahman/NiriZan"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-18T07:06:14Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
+    "id": "Thijsm92940/ZizkaDB",
+    "language": "Python",
+    "name": "Thijsm92940/ZizkaDB",
+    "stars": 0,
+    "updated_at": "2026-10-18T07:03:41Z",
+    "url": "https://github.com/Thijsm92940/ZizkaDB"
+  },
+  {
+    "description": "Lossless context compression for LLM agents \u2014 fold it down, fold it back. Compresses tool outputs/logs before the model,",
+    "id": "SUDARSHANCHAUDHARI/FoldBackAI",
+    "language": "Python",
+    "name": "SUDARSHANCHAUDHARI/FoldBackAI",
+    "stars": 1,
+    "updated_at": "2026-10-18T07:02:45Z",
+    "url": "https://github.com/SUDARSHANCHAUDHARI/FoldBackAI"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61460,
+    "updated_at": "2026-10-18T07:00:35Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-18T07:00:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Cheaper and better Greptile alternative runs on your own github actions.",
@@ -104,7 +167,7 @@
     "language": "Python",
     "name": "vllm-project/vllm-ascend",
     "stars": 2995,
-    "updated_at": "2026-10-18T06:52:54Z",
+    "updated_at": "2026-10-18T07:02:16Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -115,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T06:46:01Z",
     "url": "https://github.com/tBos28159/ZizkaDB"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-18T06:45:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI / LLM / Agent \u5de5\u7a0b\u5e08\u4e2d\u6587\u9762\u8bd5\u9898\u4e0e\u53c2\u8003\u7b54\u6848\uff1aRAG\u3001Agent\u3001\u5fae\u8c03\u3001LLMOps\u3001\u7cfb\u7edf\u8bbe\u8ba1",
@@ -139,7 +193,7 @@
     "id": "kair789/agent-efficiency-diagnostics",
     "language": "Python",
     "name": "kair789/agent-efficiency-diagnostics",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-10-18T06:44:56Z",
     "url": "https://github.com/kair789/agent-efficiency-diagnostics"
   },
@@ -207,15 +261,6 @@
     "url": "https://github.com/runcycles/cycles-docs"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61459,
-    "updated_at": "2026-10-18T06:56:59Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Tuned Variables Language (TVL) by Traigent: typed specification language, validators, CLI tools, editor support, and doc",
     "id": "Traigent/tvl",
     "language": "Python",
@@ -277,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T06:17:37Z",
     "url": "https://github.com/runcycles/cycles-dashboard"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-18T06:09:04Z",
-    "url": "https://github.com/toxicwind/ranch"
   },
   {
     "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
@@ -412,41 +448,5 @@
     "stars": 10,
     "updated_at": "2026-10-18T05:26:07Z",
     "url": "https://github.com/hwdsl2/gatewaycrate"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-10-18T05:25:49Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Client packages for AER: the flight recorder for AI agents",
-    "id": "Ad-Astra-Computing/aer",
-    "language": "TypeScript",
-    "name": "Ad-Astra-Computing/aer",
-    "stars": 0,
-    "updated_at": "2026-10-18T05:22:38Z",
-    "url": "https://github.com/Ad-Astra-Computing/aer"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8906,
-    "updated_at": "2026-10-18T06:57:05Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Model Context Protocol (MCP) Server for Langfuse Prompt Management. This server allows you to access and manage your Lan",
-    "id": "natalie15495/mcp-server-langfuse",
-    "language": "TypeScript",
-    "name": "natalie15495/mcp-server-langfuse",
-    "stars": 0,
-    "updated_at": "2026-10-18T05:13:19Z",
-    "url": "https://github.com/natalie15495/mcp-server-langfuse"
   }
 ]
