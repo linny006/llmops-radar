@@ -1,21 +1,21 @@
 [
   {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-18T18:13:57Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 41,
-    "updated_at": "2026-10-18T18:00:13Z",
+    "updated_at": "2026-10-18T18:13:14Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Multimodal RAG QA for cosmetics regulation: hybrid retrieval, two-stage reranking, evidence gating that refuses unsuppor",
-    "id": "Xander-Xai/Beauty-Industry-RAG-QA-System",
-    "language": "Python",
-    "name": "Xander-Xai/Beauty-Industry-RAG-QA-System",
-    "stars": 0,
-    "updated_at": "2026-10-18T17:58:28Z",
-    "url": "https://github.com/Xander-Xai/Beauty-Industry-RAG-QA-System"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -23,8 +23,62 @@
     "language": "Rust",
     "name": "systempromptio/systemprompt-core",
     "stars": 8,
-    "updated_at": "2026-10-18T18:00:15Z",
+    "updated_at": "2026-10-18T18:09:06Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 9321,
+    "updated_at": "2026-10-18T18:08:58Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Multimodal RAG QA for cosmetics regulation: hybrid retrieval, two-stage reranking, evidence gating that refuses unsuppor",
+    "id": "Xander-Xai/Beauty-Industry-RAG-QA-System",
+    "language": "Python",
+    "name": "Xander-Xai/Beauty-Industry-RAG-QA-System",
+    "stars": 0,
+    "updated_at": "2026-10-18T18:06:53Z",
+    "url": "https://github.com/Xander-Xai/Beauty-Industry-RAG-QA-System"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-18T18:06:09Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "50+ curated LLM observability tools PLUS 26 Agent Skills (several with runnable, unit-tested scripts) to build, evaluate",
+    "id": "ContextJet-ai/awesome-llm-observability",
+    "language": "Python",
+    "name": "ContextJet-ai/awesome-llm-observability",
+    "stars": 42,
+    "updated_at": "2026-10-18T18:02:53Z",
+    "url": "https://github.com/ContextJet-ai/awesome-llm-observability"
+  },
+  {
+    "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
+    "id": "prasad-kavuri/prasad-portfolio",
+    "language": "TypeScript",
+    "name": "prasad-kavuri/prasad-portfolio",
+    "stars": 0,
+    "updated_at": "2026-10-18T18:06:48Z",
+    "url": "https://github.com/prasad-kavuri/prasad-portfolio"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-18T18:00:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -43,15 +97,6 @@
     "stars": 2,
     "updated_at": "2026-10-18T17:55:03Z",
     "url": "https://github.com/bhaskarjha-dev/genai-notes"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 9319,
-    "updated_at": "2026-10-18T17:50:52Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "Prompt and RAG context compression with a fidelity evaluator \u2014 48% fewer tokens at 100% fact recall, where naive truncat",
@@ -81,15 +126,6 @@
     "url": "https://github.com/BerriAI/litellm"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-18T17:46:35Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Janus Edge \u2014 self-hosted AI gateway to govern how your company uses ChatGPT, Claude, Copilot and local models: SSO, per-",
     "id": "Torvanis/janus",
     "language": "Go",
@@ -113,7 +149,7 @@
     "language": "Python",
     "name": "venkathub/dosadash",
     "stars": 0,
-    "updated_at": "2026-10-18T17:35:42Z",
+    "updated_at": "2026-10-18T18:14:21Z",
     "url": "https://github.com/venkathub/dosadash"
   },
   {
@@ -124,15 +160,6 @@
     "stars": 28440,
     "updated_at": "2026-10-18T17:33:34Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
-    "id": "prasad-kavuri/prasad-portfolio",
-    "language": "TypeScript",
-    "name": "prasad-kavuri/prasad-portfolio",
-    "stars": 0,
-    "updated_at": "2026-10-18T17:33:14Z",
-    "url": "https://github.com/prasad-kavuri/prasad-portfolio"
   },
   {
     "description": "Resource providers for pragma-os. Manage cloud infrastructure, AI agents, knowledge bases, pipelines, and workflows.",
@@ -189,21 +216,12 @@
     "url": "https://github.com/langfuse/langfuse"
   },
   {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-18T17:04:27Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
     "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
     "id": "TAIPANBOX/tokenfuse",
     "language": "Rust",
     "name": "TAIPANBOX/tokenfuse",
     "stars": 1,
-    "updated_at": "2026-10-18T17:22:36Z",
+    "updated_at": "2026-10-18T18:14:06Z",
     "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
@@ -230,7 +248,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-18T17:34:15Z",
+    "updated_at": "2026-10-18T18:06:23Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -275,7 +293,7 @@
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 671,
-    "updated_at": "2026-10-18T17:21:32Z",
+    "updated_at": "2026-10-18T18:10:54Z",
     "url": "https://github.com/Abilityai/trinity"
   },
   {
@@ -337,7 +355,7 @@
     "id": "mozilla-ai/otari",
     "language": "Python",
     "name": "mozilla-ai/otari",
-    "stars": 651,
+    "stars": 653,
     "updated_at": "2026-10-18T15:56:13Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-18T15:43:23Z",
     "url": "https://github.com/moniquekrylov3676/turbular"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "language": "Go",
-    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "stars": 1,
-    "updated_at": "2026-10-18T15:43:08Z",
-    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
-  },
-  {
-    "description": "Product analytics for AI Assistants",
-    "id": "Rend574/trubrics-python",
-    "language": "Python",
-    "name": "Rend574/trubrics-python",
-    "stars": 0,
-    "updated_at": "2026-10-18T15:42:22Z",
-    "url": "https://github.com/Rend574/trubrics-python"
   }
 ]
