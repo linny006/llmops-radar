@@ -1,5 +1,68 @@
 [
   {
+    "description": "The open framework for governed AI development: EU AI Act compliance, PII redaction, MCP proxy, prompt-injection firewal",
+    "id": "admina-org/admina",
+    "language": "Python",
+    "name": "admina-org/admina",
+    "stars": 8,
+    "updated_at": "2026-10-18T16:11:38Z",
+    "url": "https://github.com/admina-org/admina"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28438,
+    "updated_at": "2026-10-18T16:09:04Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-18T16:05:45Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Local, self-hosted agent infrastructure \u2014 one endpoint for every AI client (Claude Code, Codex CLI, Gemini CLI, OpenCode",
+    "id": "Stravia-AI/StraviaPlatform",
+    "language": "Rust",
+    "name": "Stravia-AI/StraviaPlatform",
+    "stars": 3,
+    "updated_at": "2026-10-18T16:02:36Z",
+    "url": "https://github.com/Stravia-AI/StraviaPlatform"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 4,
+    "updated_at": "2026-10-18T16:02:07Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-18T16:00:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Mide y frena el gasto de tokens de tu flota de agentes (Claude Code, Codex, OpenCode): panel, app de barra de menus y re",
+    "id": "yosnap/codeia-cost-guard",
+    "language": "Python",
+    "name": "yosnap/codeia-cost-guard",
+    "stars": 4,
+    "updated_at": "2026-10-18T16:00:22Z",
+    "url": "https://github.com/yosnap/codeia-cost-guard"
+  },
+  {
     "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
     "id": "miyeonjeong/llmaker",
     "language": "Go",
@@ -14,7 +77,7 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-18T15:59:51Z",
+    "updated_at": "2026-10-18T16:01:07Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -32,7 +95,7 @@
     "language": "Python",
     "name": "holetz/quenching",
     "stars": 1,
-    "updated_at": "2026-10-18T15:54:14Z",
+    "updated_at": "2026-10-18T16:10:26Z",
     "url": "https://github.com/holetz/quenching"
   },
   {
@@ -108,15 +171,6 @@
     "url": "https://github.com/overmind-core/overmind"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-18T15:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Token usage tracker for multi-agent AI sessions",
     "id": "yunaremaia/agentcost",
     "language": "Python",
@@ -184,7 +238,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 61488,
+    "stars": 61489,
     "updated_at": "2026-10-18T15:33:16Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -234,15 +288,6 @@
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28438,
-    "updated_at": "2026-10-18T15:18:36Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "A circuit breaker for your LLM API bill \u2014 hard budget caps + per-feature cost attribution for OpenAI & Anthropic.",
     "id": "kimbeomgyu/budget-guard",
     "language": "TypeScript",
@@ -268,15 +313,6 @@
     "stars": 30627,
     "updated_at": "2026-10-18T15:05:56Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-18T15:05:16Z",
-    "url": "https://github.com/toxicwind/ranch"
   },
   {
     "description": "Keras based framework for neuro-symbolic LM systems",
@@ -396,15 +432,6 @@
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
-    "description": "Mide y frena el gasto de tokens de tu flota de agentes (Claude Code, Codex, OpenCode): panel, app de barra de menus y re",
-    "id": "yosnap/codeia-cost-guard",
-    "language": "Python",
-    "name": "yosnap/codeia-cost-guard",
-    "stars": 4,
-    "updated_at": "2026-10-18T16:00:22Z",
-    "url": "https://github.com/yosnap/codeia-cost-guard"
-  },
-  {
     "description": "Open-source, self-hosted AI platform for teams. Run private AI chat, manage Ray/vLLM GPU clusters, and connect apps and ",
     "id": "fadenstack/fadenstack",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-18T14:02:48Z",
     "url": "https://github.com/hjongc/openrouter-endpoint-watch"
-  },
-  {
-    "description": "The open framework for governed AI development: EU AI Act compliance, PII redaction, MCP proxy, prompt-injection firewal",
-    "id": "admina-org/admina",
-    "language": "Python",
-    "name": "admina-org/admina",
-    "stars": 8,
-    "updated_at": "2026-10-18T14:26:22Z",
-    "url": "https://github.com/admina-org/admina"
-  },
-  {
-    "description": "Agent feedback flywheel: explicit and implicit signals, corrections mined into golden eval cases, regression gate on eve",
-    "id": "jagadishmazure-jpg/Jagadish-agent-feedback-loop",
-    "language": "Python",
-    "name": "jagadishmazure-jpg/Jagadish-agent-feedback-loop",
-    "stars": 0,
-    "updated_at": "2026-10-18T13:54:26Z",
-    "url": "https://github.com/jagadishmazure-jpg/Jagadish-agent-feedback-loop"
-  },
-  {
-    "description": "\ud83e\udd16 \u041a\u0430\u0442\u0430\u043b\u043e\u0433 \u0418\u0418-\u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u043e\u0432 \u0434\u043b\u044f \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a\u043e\u0432 \u043d\u0430 \u0440\u0443\u0441\u0441\u043a\u043e\u043c (2026): AI-IDE, Cursor, Copilot, Claude Code, Codex, \u0430\u0433\u0435\u043d\u0442\u044b, MCP,",
-    "id": "justxor/awesome-ai-devtools-ru",
-    "language": "\u2014",
-    "name": "justxor/awesome-ai-devtools-ru",
-    "stars": 1,
-    "updated_at": "2026-10-18T13:52:27Z",
-    "url": "https://github.com/justxor/awesome-ai-devtools-ru"
   }
 ]
