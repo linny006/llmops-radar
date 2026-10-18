@@ -1,12 +1,84 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61504,
+    "updated_at": "2026-10-18T21:57:05Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
+    "stars": 1,
+    "updated_at": "2026-10-18T21:56:20Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
     "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
     "id": "prasad-kavuri/prasad-portfolio",
     "language": "TypeScript",
     "name": "prasad-kavuri/prasad-portfolio",
     "stars": 0,
-    "updated_at": "2026-10-18T21:44:39Z",
+    "updated_at": "2026-10-18T21:55:10Z",
     "url": "https://github.com/prasad-kavuri/prasad-portfolio"
+  },
+  {
+    "description": "\u4f01\u4e1a AI \u8d44\u6e90\u7ba1\u7406\u5e73\u53f0 \u2014\u2014 \u628a MCP \u670d\u52a1 / Skill / Agent / AI \u5e94\u7528 \u7edf\u4e00\u6210\u4e00\u5957\u53ef\u7ba1\u3001\u53ef\u7b97\u3001\u53ef\u5ba1\u7684\u8d44\u4ea7\u3002\u4e00\u5957\u8eab\u4efd\u3001\u4e00\u5957\u6743\u9650\u3001\u4e00\u5957\u8ba1\u91cf\u3001\u4e00\u5957\u5ba1\u8ba1\u3002\u81ea\u6258\u7ba1 \u00b7 MIT\u3002",
+    "id": "01men/ybkkasi",
+    "language": "TypeScript",
+    "name": "01men/ybkkasi",
+    "stars": 0,
+    "updated_at": "2026-10-18T21:51:31Z",
+    "url": "https://github.com/01men/ybkkasi"
+  },
+  {
+    "description": "A hands-on library for DevOps, Cloud, and AI engineers: real production scenarios for AWS, Kubernetes, Docker, and LLMOp",
+    "id": "sandeepk24/learn-devops-playbook",
+    "language": "Python",
+    "name": "sandeepk24/learn-devops-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-18T21:51:18Z",
+    "url": "https://github.com/sandeepk24/learn-devops-playbook"
+  },
+  {
+    "description": "TensorZero \u2014 independent third-party profile of a public API surface, by API Evangelist. TensorZero is an open-source, s",
+    "id": "api-evangelist/tensorzero",
+    "language": "\u2014",
+    "name": "api-evangelist/tensorzero",
+    "stars": 0,
+    "updated_at": "2026-10-18T21:51:00Z",
+    "url": "https://github.com/api-evangelist/tensorzero"
+  },
+  {
+    "description": "Policy-aware security gateway for LLM and agent workflows",
+    "id": "Yash-Chindam/llm-security-agent-guardrail-gateway",
+    "language": "Python",
+    "name": "Yash-Chindam/llm-security-agent-guardrail-gateway",
+    "stars": 0,
+    "updated_at": "2026-10-18T21:50:16Z",
+    "url": "https://github.com/Yash-Chindam/llm-security-agent-guardrail-gateway"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 32,
+    "updated_at": "2026-10-18T21:49:02Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-18T21:45:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Personal agentic AI assistant: LangGraph orchestration, CrewAI specialist crews, MCP tools, Obsidian memory, human-in-th",
@@ -54,13 +126,13 @@
     "url": "https://github.com/devproof/devproofai"
   },
   {
-    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
-    "id": "TAIPANBOX/tokenfuse",
-    "language": "Rust",
-    "name": "TAIPANBOX/tokenfuse",
-    "stars": 1,
-    "updated_at": "2026-10-18T21:33:12Z",
-    "url": "https://github.com/TAIPANBOX/tokenfuse"
+    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4974,
+    "updated_at": "2026-10-18T21:49:04Z",
+    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Self-hosted AI Agents Platform for AI Native companies. Claude Code, Codex, Gemini, OpenCode agents. Apache 2.0.  ",
@@ -81,21 +153,12 @@
     "url": "https://github.com/api-evangelist/qwak"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-18T21:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8910,
-    "updated_at": "2026-10-18T21:40:55Z",
+    "updated_at": "2026-10-18T21:52:21Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -122,7 +185,7 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-18T21:35:14Z",
+    "updated_at": "2026-10-18T21:59:35Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -221,7 +284,7 @@
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 1,
-    "updated_at": "2026-10-18T20:46:28Z",
+    "updated_at": "2026-10-18T21:57:11Z",
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
@@ -333,15 +396,6 @@
     "url": "https://github.com/bhaskarjha-dev/genai-notes"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61503,
-    "updated_at": "2026-10-18T21:30:50Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "A MCP server allowing LLM agents to easily connect and retrieve data from any database",
     "id": "Kose619/turbular",
     "language": "Python",
@@ -349,15 +403,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T20:09:05Z",
     "url": "https://github.com/Kose619/turbular"
-  },
-  {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 32,
-    "updated_at": "2026-10-18T20:08:02Z",
-    "url": "https://github.com/SourceShift/mini-ork"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-18T19:54:31Z",
     "url": "https://github.com/Blake6373/llmix"
-  },
-  {
-    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
-    "id": "dflores7327/llmaker",
-    "language": "Go",
-    "name": "dflores7327/llmaker",
-    "stars": 0,
-    "updated_at": "2026-10-18T19:52:54Z",
-    "url": "https://github.com/dflores7327/llmaker"
-  },
-  {
-    "description": "Distill a frontier-model task (gpt-oss-120b, banking77 intents) into a 1.5B QLoRA student served on vLLM, with a confide",
-    "id": "niravpatidar37/distillroi",
-    "language": "Python",
-    "name": "niravpatidar37/distillroi",
-    "stars": 0,
-    "updated_at": "2026-10-18T19:51:57Z",
-    "url": "https://github.com/niravpatidar37/distillroi"
-  },
-  {
-    "description": "OpenAI-compatible LLM gateway that routes around provider outages: Redis-shared circuit breakers with half-open self-hea",
-    "id": "niravpatidar37/llmfailover",
-    "language": "Python",
-    "name": "niravpatidar37/llmfailover",
-    "stars": 0,
-    "updated_at": "2026-10-18T19:51:55Z",
-    "url": "https://github.com/niravpatidar37/llmfailover"
-  },
-  {
-    "description": "Crash-safe deep-research agent service: LangGraph supervisor + planner/researcher/writer with Redis-durable state (resum",
-    "id": "niravpatidar37/tracedresearch",
-    "language": "Python",
-    "name": "niravpatidar37/tracedresearch",
-    "stars": 0,
-    "updated_at": "2026-10-18T19:51:53Z",
-    "url": "https://github.com/niravpatidar37/tracedresearch"
-  },
-  {
-    "description": "Multi-hop graph + vector RAG over SEC 10-K/20-F filings. Neo4j knowledge graph + pgvector joined on chunk ids; the LLM n",
-    "id": "niravpatidar37/hopcite",
-    "language": "Python",
-    "name": "niravpatidar37/hopcite",
-    "stars": 0,
-    "updated_at": "2026-10-18T19:51:50Z",
-    "url": "https://github.com/niravpatidar37/hopcite"
   }
 ]
