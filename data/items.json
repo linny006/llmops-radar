@@ -1,5 +1,50 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61467,
+    "updated_at": "2026-10-18T09:58:07Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "AI Agent hooks for LLM Observability.",
+    "id": "HikaruEgashira/otel-hooks",
+    "language": "Python",
+    "name": "HikaruEgashira/otel-hooks",
+    "stars": 9,
+    "updated_at": "2026-10-18T09:48:00Z",
+    "url": "https://github.com/HikaruEgashira/otel-hooks"
+  },
+  {
+    "description": "Self-hosted coding assistant that routes each request to the cheapest model that can handle it",
+    "id": "optiware-ai/optimux",
+    "language": "Python",
+    "name": "optiware-ai/optimux",
+    "stars": 1,
+    "updated_at": "2026-10-18T09:46:41Z",
+    "url": "https://github.com/optiware-ai/optimux"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-18T09:45:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
+    "id": "AndreLane44/awesome-ai-gateway",
+    "language": "HTML",
+    "name": "AndreLane44/awesome-ai-gateway",
+    "stars": 0,
+    "updated_at": "2026-10-18T09:45:16Z",
+    "url": "https://github.com/AndreLane44/awesome-ai-gateway"
+  },
+  {
     "description": "Product analytics for AI Assistants",
     "id": "yokoo524/trubrics-python",
     "language": "Python",
@@ -16,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T09:44:11Z",
     "url": "https://github.com/hsoto898/mcp-server-langfuse"
-  },
-  {
-    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
-    "id": "AndreLane44/awesome-ai-gateway",
-    "language": "HTML",
-    "name": "AndreLane44/awesome-ai-gateway",
-    "stars": 0,
-    "updated_at": "2026-10-18T09:45:16Z",
-    "url": "https://github.com/AndreLane44/awesome-ai-gateway"
   },
   {
     "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
@@ -58,9 +94,18 @@
     "id": "vllm-project/vllm-ascend",
     "language": "Python",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2995,
+    "stars": 2996,
     "updated_at": "2026-10-18T09:39:31Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28432,
+    "updated_at": "2026-10-18T09:36:59Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Model Context Protocol (MCP) Server for Langfuse Prompt Management. This server allows you to access and manage your Lan",
@@ -79,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T09:35:37Z",
     "url": "https://github.com/alebgl77/awesome-ai-architect"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-18T09:30:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Product analytics for AI Assistants",
@@ -117,12 +153,21 @@
     "url": "https://github.com/Matteo3829/trubrics-python"
   },
   {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8907,
+    "updated_at": "2026-10-18T09:27:33Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
     "description": "Tamper-evident, stranger-verifiable receipts for LLM cost-savings \u2014 anyone can recompute your caching/routing savings ma",
     "id": "thequantumfalcon/kry",
     "language": "Python",
     "name": "thequantumfalcon/kry",
     "stars": 1,
-    "updated_at": "2026-10-18T09:26:21Z",
+    "updated_at": "2026-10-18T09:59:42Z",
     "url": "https://github.com/thequantumfalcon/kry"
   },
   {
@@ -133,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-10-18T09:26:01Z",
     "url": "https://github.com/rustrak/llmtrack"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8906,
-    "updated_at": "2026-10-18T09:27:33Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Product analytics for AI Assistants",
@@ -178,24 +214,6 @@
     "stars": 272,
     "updated_at": "2026-10-18T09:19:03Z",
     "url": "https://github.com/ferro-labs/ai-gateway"
-  },
-  {
-    "description": "AI Agent hooks for LLM Observability.",
-    "id": "HikaruEgashira/otel-hooks",
-    "language": "Python",
-    "name": "HikaruEgashira/otel-hooks",
-    "stars": 9,
-    "updated_at": "2026-10-18T09:30:16Z",
-    "url": "https://github.com/HikaruEgashira/otel-hooks"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61465,
-    "updated_at": "2026-10-18T09:42:38Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Self-hostable AI token pools \u2014 govern your org's AI usage with per-member keys, quotas, and leak detection; or deposit s",
@@ -320,7 +338,7 @@
     "language": "Python",
     "name": "digline/digline",
     "stars": 9,
-    "updated_at": "2026-10-18T09:20:10Z",
+    "updated_at": "2026-10-18T09:54:00Z",
     "url": "https://github.com/digline/digline"
   },
   {
@@ -360,6 +378,15 @@
     "url": "https://github.com/valteresj2/agent-hangar"
   },
   {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 35986,
+    "updated_at": "2026-10-18T08:34:26Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
     "id": "Amz34/awesome-agent-infrastructure",
     "language": "Python",
@@ -392,17 +419,8 @@
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 669,
-    "updated_at": "2026-10-18T09:35:15Z",
+    "updated_at": "2026-10-18T09:58:10Z",
     "url": "https://github.com/Abilityai/trinity"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 35985,
-    "updated_at": "2026-10-18T08:34:26Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Daily CI-refreshed history of LLM API pricing \u2014 snapshot + append-only change log for ~2,500 chat models (CSV, CC BY 4.0",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-18T07:42:34Z",
     "url": "https://github.com/xuerp/ai-knowledge-explorer"
-  },
-  {
-    "description": "Multi-agent LinkedIn branding system with ReAct tool-calling, human-in-the-loop review, full agent traces, and a securit",
-    "id": "BurraRohan/PersonaAI",
-    "language": "Python",
-    "name": "BurraRohan/PersonaAI",
-    "stars": 0,
-    "updated_at": "2026-10-18T07:34:45Z",
-    "url": "https://github.com/BurraRohan/PersonaAI"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 41,
-    "updated_at": "2026-10-18T07:24:07Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   }
 ]
