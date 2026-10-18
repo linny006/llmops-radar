@@ -1,5 +1,86 @@
 [
   {
+    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 1,
+    "updated_at": "2026-10-18T05:59:02Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-18T05:57:29Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28431,
+    "updated_at": "2026-10-18T05:56:59Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Diagnostician for batch AI workflows, not a tips list. 18 methods (TOC, Little's Law, Amdahl, WIP limit, circuit breaker",
+    "id": "kair789/agent-efficiency-diagnostics",
+    "language": "Python",
+    "name": "kair789/agent-efficiency-diagnostics",
+    "stars": 0,
+    "updated_at": "2026-10-18T05:54:57Z",
+    "url": "https://github.com/kair789/agent-efficiency-diagnostics"
+  },
+  {
+    "description": "Open-source LLM observability. See every prompt, completion, token, cost, latency and error as traces and sessions. Pyth",
+    "id": "dheerajkarwasra/spanlight",
+    "language": "Python",
+    "name": "dheerajkarwasra/spanlight",
+    "stars": 0,
+    "updated_at": "2026-10-18T05:54:36Z",
+    "url": "https://github.com/dheerajkarwasra/spanlight"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-10-18T05:51:13Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "Does an OpenAI-compatible endpoint disclose model prices without an account or key? One unauthenticated GET, five verdic",
+    "id": "happy520ai/gateway-price-check",
+    "language": "JavaScript",
+    "name": "happy520ai/gateway-price-check",
+    "stars": 0,
+    "updated_at": "2026-10-18T05:50:53Z",
+    "url": "https://github.com/happy520ai/gateway-price-check"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "language": "Go",
+    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-10-18T05:53:09Z",
+    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-18T05:45:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Maps: curated list of agent observability tools, standards and platforms (OTel GenAI, tracing, evals, guardrails, MCP)",
     "id": "anhermon/awesome-agent-observability",
     "language": "Python",
@@ -7,15 +88,6 @@
     "stars": 52,
     "updated_at": "2026-10-18T05:44:40Z",
     "url": "https://github.com/anhermon/awesome-agent-observability"
-  },
-  {
-    "description": "\u6279\u91cf AI \u5de5\u4f5c\u6d41\u7684\u6548\u7387\u8bca\u65ad\u624b\u518c\uff5c18 methods for batch AI workflow efficiency: TOC, Little's Law, Amdahl, WIP limit, circuit breaker, tok",
-    "id": "kair789/efficiency-18",
-    "language": "\u2014",
-    "name": "kair789/efficiency-18",
-    "stars": 0,
-    "updated_at": "2026-10-18T05:43:26Z",
-    "url": "https://github.com/kair789/efficiency-18"
   },
   {
     "description": "\u9876\u7ea7\u5ba1\u7f8e\u7684\u4e2a\u4eba\u535a\u5ba2\uff01\uff01\uff01\u5199\u4e00\u4e9b\u5173\u4e8e AI\u3001Agent\u3001\u6280\u672f\u3001\u4ea7\u54c1\u3001\u8425\u9500\u3001\u4e00\u4e9b\u751f\u6d3b\u601d\u8003\uff0c\u4e2a\u4eba\u6210\u957f\u7c7b\u7684\u7cbe\u6587",
@@ -54,15 +126,6 @@
     "url": "https://github.com/KushagraKanaujia/throttle"
   },
   {
-    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 1,
-    "updated_at": "2026-10-18T05:45:13Z",
-    "url": "https://github.com/a-novel/service-genai"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -88,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-10-18T05:43:42Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-18T05:30:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Master project orchestrator featuring Dual Engine (Gentle-AI Integrated ODD vs Standalone), Article ARQ-01 Vertical Slic",
@@ -149,7 +203,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61458,
-    "updated_at": "2026-10-18T05:22:19Z",
+    "updated_at": "2026-10-18T05:53:27Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -205,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T05:08:34Z",
     "url": "https://github.com/brooks564/juror"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-18T05:05:30Z",
-    "url": "https://github.com/toxicwind/ranch"
   },
   {
     "description": "MCP budget and risk authority for Cycles \u2014 runtime governance for Claude, Cursor, and Windsurf",
@@ -315,15 +360,6 @@
     "url": "https://github.com/CodesbyFebin/-AI-BOOTCAMP-2026"
   },
   {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "language": "Go",
-    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "stars": 1,
-    "updated_at": "2026-10-18T05:42:12Z",
-    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
-  },
-  {
     "description": "Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio",
     "id": "naim-munshi/metriqen-llm-serving-optimization",
     "language": "Python",
@@ -337,7 +373,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 35982,
+    "stars": 35983,
     "updated_at": "2026-10-18T04:18:22Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -387,15 +423,6 @@
     "url": "https://github.com/bdchang403/AI_Software_Foundations"
   },
   {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-10-18T05:06:47Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
     "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
     "id": "acornops/control-plane",
     "language": "TypeScript",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-18T03:10:33Z",
     "url": "https://github.com/acornops/management-console"
-  },
-  {
-    "description": "Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper",
-    "id": "acornops/acornops-deployment",
-    "language": "JavaScript",
-    "name": "acornops/acornops-deployment",
-    "stars": 2,
-    "updated_at": "2026-10-18T03:10:33Z",
-    "url": "https://github.com/acornops/acornops-deployment"
-  },
-  {
-    "description": "LLM and tool gateway for AcornOps, brokering model providers, MCP tools, policy enforcement, and runtime credentials.",
-    "id": "acornops/llm-gateway",
-    "language": "Python",
-    "name": "acornops/llm-gateway",
-    "stars": 2,
-    "updated_at": "2026-10-18T03:10:32Z",
-    "url": "https://github.com/acornops/llm-gateway"
-  },
-  {
-    "description": "TypeScript SDK for Cycles \u2014 runtime budget and action authority for Node.js AI agents",
-    "id": "runcycles/cycles-client-typescript",
-    "language": "TypeScript",
-    "name": "runcycles/cycles-client-typescript",
-    "stars": 0,
-    "updated_at": "2026-10-18T02:54:26Z",
-    "url": "https://github.com/runcycles/cycles-client-typescript"
   }
 ]
