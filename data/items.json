@@ -1,6 +1,96 @@
 [
   {
     "description": "Product analytics for AI Assistants",
+    "id": "yokoo524/trubrics-python",
+    "language": "Python",
+    "name": "yokoo524/trubrics-python",
+    "stars": 0,
+    "updated_at": "2026-10-18T09:44:19Z",
+    "url": "https://github.com/yokoo524/trubrics-python"
+  },
+  {
+    "description": "Model Context Protocol (MCP) Server for Langfuse Prompt Management. This server allows you to access and manage your Lan",
+    "id": "hsoto898/mcp-server-langfuse",
+    "language": "TypeScript",
+    "name": "hsoto898/mcp-server-langfuse",
+    "stars": 0,
+    "updated_at": "2026-10-18T09:44:11Z",
+    "url": "https://github.com/hsoto898/mcp-server-langfuse"
+  },
+  {
+    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
+    "id": "AndreLane44/awesome-ai-gateway",
+    "language": "HTML",
+    "name": "AndreLane44/awesome-ai-gateway",
+    "stars": 0,
+    "updated_at": "2026-10-18T09:45:16Z",
+    "url": "https://github.com/AndreLane44/awesome-ai-gateway"
+  },
+  {
+    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
+    "id": "PloyRamos227/awesome-ai-gateway",
+    "language": "HTML",
+    "name": "PloyRamos227/awesome-ai-gateway",
+    "stars": 0,
+    "updated_at": "2026-10-18T09:43:20Z",
+    "url": "https://github.com/PloyRamos227/awesome-ai-gateway"
+  },
+  {
+    "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
+    "id": "hjongc/openrouter-endpoint-watch",
+    "language": "Python",
+    "name": "hjongc/openrouter-endpoint-watch",
+    "stars": 0,
+    "updated_at": "2026-10-18T09:40:02Z",
+    "url": "https://github.com/hjongc/openrouter-endpoint-watch"
+  },
+  {
+    "description": "Cheaper and better Greptile alternative runs on your own github actions.",
+    "id": "megana31/juror",
+    "language": "TypeScript",
+    "name": "megana31/juror",
+    "stars": 0,
+    "updated_at": "2026-10-18T09:40:01Z",
+    "url": "https://github.com/megana31/juror"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2995,
+    "updated_at": "2026-10-18T09:39:31Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Model Context Protocol (MCP) Server for Langfuse Prompt Management. This server allows you to access and manage your Lan",
+    "id": "yfransson78300/mcp-server-langfuse",
+    "language": "TypeScript",
+    "name": "yfransson78300/mcp-server-langfuse",
+    "stars": 0,
+    "updated_at": "2026-10-18T09:35:58Z",
+    "url": "https://github.com/yfransson78300/mcp-server-langfuse"
+  },
+  {
+    "description": "A self-updating, auto-classified map of the GenAI engineering stack: agents, MCP, memory, RAG, evals, LLMOps, AI securit",
+    "id": "alebgl77/awesome-ai-architect",
+    "language": "Python",
+    "name": "alebgl77/awesome-ai-architect",
+    "stars": 0,
+    "updated_at": "2026-10-18T09:35:37Z",
+    "url": "https://github.com/alebgl77/awesome-ai-architect"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-18T09:30:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Product analytics for AI Assistants",
     "id": "Daniels426/trubrics-python",
     "language": "Python",
     "name": "Daniels426/trubrics-python",
@@ -68,7 +158,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 111,
-    "updated_at": "2026-10-18T09:22:18Z",
+    "updated_at": "2026-10-18T09:34:36Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -81,6 +171,15 @@
     "url": "https://github.com/merkel617/llmix"
   },
   {
+    "description": "Unified AI Gateway for 30+ LLMs (OpenAI, Anthropic, Bedrock, Azure etc) with Caching, Guardrails, A/B test & cost contro",
+    "id": "ferro-labs/ai-gateway",
+    "language": "Go",
+    "name": "ferro-labs/ai-gateway",
+    "stars": 272,
+    "updated_at": "2026-10-18T09:19:03Z",
+    "url": "https://github.com/ferro-labs/ai-gateway"
+  },
+  {
     "description": "AI Agent hooks for LLM Observability.",
     "id": "HikaruEgashira/otel-hooks",
     "language": "Python",
@@ -90,21 +189,12 @@
     "url": "https://github.com/HikaruEgashira/otel-hooks"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-18T09:15:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61465,
-    "updated_at": "2026-10-18T09:29:12Z",
+    "updated_at": "2026-10-18T09:42:38Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -270,15 +360,6 @@
     "url": "https://github.com/valteresj2/agent-hangar"
   },
   {
-    "description": "Unified AI Gateway for 30+ LLMs (OpenAI, Anthropic, Bedrock, Azure etc) with Caching, Guardrails, A/B test & cost contro",
-    "id": "ferro-labs/ai-gateway",
-    "language": "Go",
-    "name": "ferro-labs/ai-gateway",
-    "stars": 271,
-    "updated_at": "2026-10-18T09:19:03Z",
-    "url": "https://github.com/ferro-labs/ai-gateway"
-  },
-  {
     "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
     "id": "Amz34/awesome-agent-infrastructure",
     "language": "Python",
@@ -311,7 +392,7 @@
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 669,
-    "updated_at": "2026-10-18T09:02:32Z",
+    "updated_at": "2026-10-18T09:35:15Z",
     "url": "https://github.com/Abilityai/trinity"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 41,
     "updated_at": "2026-10-18T07:24:07Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "An open-source CLI plus GitHub Action that prevents unsafe prompt, model, retrieval, tool, or configuration changes from",
-    "id": "Chris0Jeky/llm-release-gate",
-    "language": "Python",
-    "name": "Chris0Jeky/llm-release-gate",
-    "stars": 1,
-    "updated_at": "2026-10-18T07:21:26Z",
-    "url": "https://github.com/Chris0Jeky/llm-release-gate"
-  },
-  {
-    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
-    "id": "cuihuan/awesome-ai-gateway",
-    "language": "HTML",
-    "name": "cuihuan/awesome-ai-gateway",
-    "stars": 130,
-    "updated_at": "2026-10-18T07:18:59Z",
-    "url": "https://github.com/cuihuan/awesome-ai-gateway"
-  },
-  {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
-    "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 1,
-    "updated_at": "2026-10-18T07:18:57Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 1,
-    "updated_at": "2026-10-18T07:17:51Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "AI platform reference architecture for LLM serving on Kubernetes, with reliability, observability, failure testing, and ",
-    "id": "asadhanif3188/InferOps",
-    "language": "Python",
-    "name": "asadhanif3188/InferOps",
-    "stars": 0,
-    "updated_at": "2026-10-18T07:09:36Z",
-    "url": "https://github.com/asadhanif3188/InferOps"
-  },
-  {
-    "description": "Continuous Evaluation Infrastructure for Production AI",
-    "id": "Red1-Rahman/NiriZan",
-    "language": "Jupyter Notebook",
-    "name": "Red1-Rahman/NiriZan",
-    "stars": 3,
-    "updated_at": "2026-10-18T08:11:19Z",
-    "url": "https://github.com/Red1-Rahman/NiriZan"
-  },
-  {
-    "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
-    "id": "Thijsm92940/ZizkaDB",
-    "language": "Python",
-    "name": "Thijsm92940/ZizkaDB",
-    "stars": 0,
-    "updated_at": "2026-10-18T07:03:41Z",
-    "url": "https://github.com/Thijsm92940/ZizkaDB"
-  },
-  {
-    "description": "Lossless context compression for LLM agents \u2014 fold it down, fold it back. Compresses tool outputs/logs before the model,",
-    "id": "SUDARSHANCHAUDHARI/FoldBackAI",
-    "language": "Python",
-    "name": "SUDARSHANCHAUDHARI/FoldBackAI",
-    "stars": 1,
-    "updated_at": "2026-10-18T07:02:45Z",
-    "url": "https://github.com/SUDARSHANCHAUDHARI/FoldBackAI"
-  },
-  {
-    "description": "Cheaper and better Greptile alternative runs on your own github actions.",
-    "id": "willemwalsh930/juror",
-    "language": "TypeScript",
-    "name": "willemwalsh930/juror",
-    "stars": 0,
-    "updated_at": "2026-10-18T06:59:41Z",
-    "url": "https://github.com/willemwalsh930/juror"
   }
 ]
