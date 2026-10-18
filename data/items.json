@@ -1,11 +1,56 @@
 [
   {
+    "description": "Every model call through one library: raw-HTTP provider adapters, a cost ledger row and an OpenTelemetry span per call, ",
+    "id": "Peter-A-P/compliant-ai-gateway",
+    "language": "Python",
+    "name": "Peter-A-P/compliant-ai-gateway",
+    "stars": 0,
+    "updated_at": "2026-10-18T23:39:39Z",
+    "url": "https://github.com/Peter-A-P/compliant-ai-gateway"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36005,
+    "updated_at": "2026-10-18T23:38:42Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Simple yet modular retrieval-augmented generation engine.",
+    "id": "alicedrd/RAGdoll",
+    "language": "Python",
+    "name": "alicedrd/RAGdoll",
+    "stars": 0,
+    "updated_at": "2026-10-18T23:34:16Z",
+    "url": "https://github.com/alicedrd/RAGdoll"
+  },
+  {
+    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
+    "id": "brunovicco/governed-llm-gateway",
+    "language": "Python",
+    "name": "brunovicco/governed-llm-gateway",
+    "stars": 0,
+    "updated_at": "2026-10-18T23:33:30Z",
+    "url": "https://github.com/brunovicco/governed-llm-gateway"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-18T23:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
     "id": "srjn45/warden",
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-18T23:29:35Z",
+    "updated_at": "2026-10-18T23:34:56Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -14,7 +59,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-18T23:28:21Z",
+    "updated_at": "2026-10-18T23:41:35Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -25,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T23:27:57Z",
     "url": "https://github.com/dheerajkarwasra/spanlight"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36004,
-    "updated_at": "2026-10-18T23:27:09Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "An industrial engineering curriculum for transitioning teams from stochastic prompting to deterministic, traceable AI-as",
@@ -59,7 +95,7 @@
     "language": "TypeScript",
     "name": "prasad-kavuri/prasad-portfolio",
     "stars": 0,
-    "updated_at": "2026-10-18T23:17:18Z",
+    "updated_at": "2026-10-18T23:43:18Z",
     "url": "https://github.com/prasad-kavuri/prasad-portfolio"
   },
   {
@@ -70,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T23:16:56Z",
     "url": "https://github.com/hjongc/openrouter-endpoint-watch"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-18T23:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Client packages for AER: the flight recorder for AI agents",
@@ -104,7 +131,7 @@
     "language": "Python",
     "name": "Raviteja2k2k/Raviteja2k2k",
     "stars": 0,
-    "updated_at": "2026-10-18T23:09:49Z",
+    "updated_at": "2026-10-18T23:33:13Z",
     "url": "https://github.com/Raviteja2k2k/Raviteja2k2k"
   },
   {
@@ -148,18 +175,9 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 61505,
-    "updated_at": "2026-10-18T22:59:41Z",
+    "stars": 61506,
+    "updated_at": "2026-10-18T23:40:51Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
-    "id": "brunovicco/governed-llm-gateway",
-    "language": "Python",
-    "name": "brunovicco/governed-llm-gateway",
-    "stars": 0,
-    "updated_at": "2026-10-18T22:58:44Z",
-    "url": "https://github.com/brunovicco/governed-llm-gateway"
   },
   {
     "description": "Event-driven runtime prototype for maintaining accurate shared context about software systems. Local control plane in-pr",
@@ -430,23 +448,5 @@
     "stars": 124,
     "updated_at": "2026-10-18T20:51:30Z",
     "url": "https://github.com/OrlojHQ/orloj"
-  },
-  {
-    "description": "Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio",
-    "id": "naim-munshi/metriqen-llm-serving-optimization",
-    "language": "Python",
-    "name": "naim-munshi/metriqen-llm-serving-optimization",
-    "stars": 0,
-    "updated_at": "2026-10-18T20:49:42Z",
-    "url": "https://github.com/naim-munshi/metriqen-llm-serving-optimization"
-  },
-  {
-    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
-    "id": "ElenaSingh13080/awesome-ai-gateway",
-    "language": "JavaScript",
-    "name": "ElenaSingh13080/awesome-ai-gateway",
-    "stars": 0,
-    "updated_at": "2026-10-18T20:45:24Z",
-    "url": "https://github.com/ElenaSingh13080/awesome-ai-gateway"
   }
 ]
