@@ -1,21 +1,102 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61573,
+    "updated_at": "2026-10-19T16:59:06Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Regression gate for LLM applications in CI: a GitHub Action that fails a pull request when it scores worse than the comm",
+    "id": "digline/digline-action",
+    "language": "Shell",
+    "name": "digline/digline-action",
+    "stars": 0,
+    "updated_at": "2026-10-19T16:57:18Z",
+    "url": "https://github.com/digline/digline-action"
+  },
+  {
+    "description": "Multi-agent system for US drug prices and shortages on Azure: Databricks pipeline, MCP tool server, Ask agent and a week",
+    "id": "sujithnsn2026-crypto/drug-pricing-agent",
+    "language": "Python",
+    "name": "sujithnsn2026-crypto/drug-pricing-agent",
+    "stars": 0,
+    "updated_at": "2026-10-19T16:56:56Z",
+    "url": "https://github.com/sujithnsn2026-crypto/drug-pricing-agent"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 96,
+    "updated_at": "2026-10-19T16:55:58Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 398,
+    "updated_at": "2026-10-19T16:52:36Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
+    "id": "AixleHQ/flow",
+    "language": "Ruby",
+    "name": "AixleHQ/flow",
+    "stars": 24,
+    "updated_at": "2026-10-19T16:55:31Z",
+    "url": "https://github.com/AixleHQ/flow"
+  },
+  {
+    "description": "Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio",
+    "id": "naim-munshi/metriqen-llm-serving-optimization",
+    "language": "Python",
+    "name": "naim-munshi/metriqen-llm-serving-optimization",
+    "stars": 0,
+    "updated_at": "2026-10-19T16:47:26Z",
+    "url": "https://github.com/naim-munshi/metriqen-llm-serving-optimization"
+  },
+  {
+    "description": "APM for AI agents: flow maps, workflow process mining, cost & reliability metrics, and process review for LangGraph, Ope",
+    "id": "Aditya31398/agentdynamics",
+    "language": "Python",
+    "name": "Aditya31398/agentdynamics",
+    "stars": 0,
+    "updated_at": "2026-10-19T16:52:37Z",
+    "url": "https://github.com/Aditya31398/agentdynamics"
+  },
+  {
+    "description": "A control layer that decides how an LLM should speak before it speaks",
+    "id": "Furox-Art/eq-layer",
+    "language": "Python",
+    "name": "Furox-Art/eq-layer",
+    "stars": 0,
+    "updated_at": "2026-10-19T16:45:59Z",
+    "url": "https://github.com/Furox-Art/eq-layer"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-19T16:45:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 36030,
-    "updated_at": "2026-10-19T16:43:22Z",
+    "updated_at": "2026-10-19T16:56:13Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61572,
-    "updated_at": "2026-10-19T16:42:34Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Enterprise Scale AIFactory (esml) - on Azure",
@@ -32,7 +113,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11911,
-    "updated_at": "2026-10-19T16:43:57Z",
+    "updated_at": "2026-10-19T16:48:16Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -54,15 +135,6 @@
     "url": "https://github.com/Ad-Astra-Computing/aer"
   },
   {
-    "description": "Multi-agent system for US drug prices and shortages on Azure: Databricks pipeline, MCP tool server, Ask agent and a week",
-    "id": "sujithnsn2026-crypto/drug-pricing-agent",
-    "language": "Python",
-    "name": "sujithnsn2026-crypto/drug-pricing-agent",
-    "stars": 0,
-    "updated_at": "2026-10-19T16:45:19Z",
-    "url": "https://github.com/sujithnsn2026-crypto/drug-pricing-agent"
-  },
-  {
     "description": "Multimodal RAG QA for cosmetics regulation: hybrid retrieval, two-stage reranking, evidence gating that refuses unsuppor",
     "id": "Xander-Xai/Beauty-Industry-RAG-QA-System",
     "language": "Python",
@@ -70,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-10-19T16:40:47Z",
     "url": "https://github.com/Xander-Xai/Beauty-Industry-RAG-QA-System"
-  },
-  {
-    "description": "APM for AI agents: flow maps, workflow process mining, cost & reliability metrics, and process review for LangGraph, Ope",
-    "id": "Aditya31398/agentdynamics",
-    "language": "Python",
-    "name": "Aditya31398/agentdynamics",
-    "stars": 0,
-    "updated_at": "2026-10-19T16:40:18Z",
-    "url": "https://github.com/Aditya31398/agentdynamics"
   },
   {
     "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
@@ -108,38 +171,11 @@
     "url": "https://github.com/francordel/myrtia"
   },
   {
-    "description": "Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio",
-    "id": "naim-munshi/metriqen-llm-serving-optimization",
-    "language": "Python",
-    "name": "naim-munshi/metriqen-llm-serving-optimization",
-    "stars": 0,
-    "updated_at": "2026-10-19T16:44:16Z",
-    "url": "https://github.com/naim-munshi/metriqen-llm-serving-optimization"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-19T16:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 96,
-    "updated_at": "2026-10-19T16:29:12Z",
-    "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 9413,
+    "stars": 9414,
     "updated_at": "2026-10-19T16:28:07Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -189,15 +225,6 @@
     "url": "https://github.com/jakbuczarnecki/intergrax"
   },
   {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 398,
-    "updated_at": "2026-10-19T16:44:29Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
     "id": "mozilla-ai/otari",
     "language": "Python",
@@ -221,7 +248,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22742,
-    "updated_at": "2026-10-19T16:40:09Z",
+    "updated_at": "2026-10-19T16:58:52Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -239,7 +266,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28450,
-    "updated_at": "2026-10-19T16:00:04Z",
+    "updated_at": "2026-10-19T17:00:25Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -266,7 +293,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 111,
-    "updated_at": "2026-10-19T16:34:00Z",
+    "updated_at": "2026-10-19T16:51:13Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -284,7 +311,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4983,
-    "updated_at": "2026-10-19T16:34:20Z",
+    "updated_at": "2026-10-19T16:56:13Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-19T15:04:41Z",
     "url": "https://github.com/alexanderp51/turbular"
-  },
-  {
-    "description": "AI investigator for healthcare data pipeline incidents: read-only tools, mechanically verified evidence, calibrated abst",
-    "id": "KilgoreC1024/healthcare-data-reliability-copilot",
-    "language": "Python",
-    "name": "KilgoreC1024/healthcare-data-reliability-copilot",
-    "stars": 1,
-    "updated_at": "2026-10-19T15:04:33Z",
-    "url": "https://github.com/KilgoreC1024/healthcare-data-reliability-copilot"
-  },
-  {
-    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
-    "id": "niklassenturk2778/awesome-ai-gateway",
-    "language": "HTML",
-    "name": "niklassenturk2778/awesome-ai-gateway",
-    "stars": 0,
-    "updated_at": "2026-10-19T15:02:43Z",
-    "url": "https://github.com/niklassenturk2778/awesome-ai-gateway"
-  },
-  {
-    "description": "Production LLM call layer for AI agents and tools: keep OpenAI/Anthropic/AI SDK/LiteLLM, hot-swap models with MDA preset",
-    "id": "brooks09/llmix",
-    "language": "Python",
-    "name": "brooks09/llmix",
-    "stars": 0,
-    "updated_at": "2026-10-19T15:02:37Z",
-    "url": "https://github.com/brooks09/llmix"
   }
 ]
