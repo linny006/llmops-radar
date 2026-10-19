@@ -1,12 +1,66 @@
 [
   {
+    "description": "Self-hostable AI token pools \u2014 govern your org's AI usage with per-member keys, quotas, and leak detection; or deposit s",
+    "id": "Phat1911/Tributary",
+    "language": "Rust",
+    "name": "Phat1911/Tributary",
+    "stars": 0,
+    "updated_at": "2026-10-19T03:58:40Z",
+    "url": "https://github.com/Phat1911/Tributary"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61521,
+    "updated_at": "2026-10-19T03:52:43Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Verify the LLM endpoint you're actually using: model authenticity, billing inflation, relay provenance, performance and ",
+    "id": "asale-ai/llm-verify",
+    "language": "Rust",
+    "name": "asale-ai/llm-verify",
+    "stars": 4,
+    "updated_at": "2026-10-19T03:51:54Z",
+    "url": "https://github.com/asale-ai/llm-verify"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 7,
+    "updated_at": "2026-10-19T03:51:36Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
     "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
     "id": "TAIPANBOX/tokenfuse",
     "language": "Rust",
     "name": "TAIPANBOX/tokenfuse",
     "stars": 1,
-    "updated_at": "2026-10-19T03:41:22Z",
+    "updated_at": "2026-10-19T03:50:37Z",
     "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-19T03:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28443,
+    "updated_at": "2026-10-19T03:59:50Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "AI Agent hooks for LLM Observability.",
@@ -22,7 +76,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 36008,
+    "stars": 36009,
     "updated_at": "2026-10-19T03:40:10Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -36,15 +90,6 @@
     "url": "https://github.com/01men/ybkkasi"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-19T03:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
     "id": "prasad-kavuri/prasad-portfolio",
     "language": "TypeScript",
@@ -52,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-10-19T03:27:05Z",
     "url": "https://github.com/prasad-kavuri/prasad-portfolio"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28442,
-    "updated_at": "2026-10-19T03:43:15Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
@@ -77,7 +113,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1362,
-    "updated_at": "2026-10-19T03:40:28Z",
+    "updated_at": "2026-10-19T03:58:40Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -88,15 +124,6 @@
     "stars": 200,
     "updated_at": "2026-10-19T03:16:32Z",
     "url": "https://github.com/api7/aisix"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61521,
-    "updated_at": "2026-10-19T03:37:10Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
@@ -175,7 +202,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26121,
+    "stars": 26122,
     "updated_at": "2026-10-19T02:36:10Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -193,7 +220,7 @@
     "id": "mozilla-ai/otari",
     "language": "Python",
     "name": "mozilla-ai/otari",
-    "stars": 665,
+    "stars": 666,
     "updated_at": "2026-10-19T02:25:36Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
@@ -257,7 +284,7 @@
     "language": "Python",
     "name": "overmind-core/overmind",
     "stars": 668,
-    "updated_at": "2026-10-19T03:01:24Z",
+    "updated_at": "2026-10-19T03:52:50Z",
     "url": "https://github.com/overmind-core/overmind"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 10,
     "updated_at": "2026-10-19T03:28:58Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "Governed, provider-neutral LLM gateway for deterministic model authorization, explainable routing, safe fallback, proven",
-    "id": "brunovicco/governed-llm-gateway",
-    "language": "Python",
-    "name": "brunovicco/governed-llm-gateway",
-    "stars": 0,
-    "updated_at": "2026-10-18T23:58:22Z",
-    "url": "https://github.com/brunovicco/governed-llm-gateway"
-  },
-  {
-    "description": "Every model call through one library: raw-HTTP provider adapters, a cost ledger row and an OpenTelemetry span per call, ",
-    "id": "Peter-A-P/compliant-ai-gateway",
-    "language": "Python",
-    "name": "Peter-A-P/compliant-ai-gateway",
-    "stars": 0,
-    "updated_at": "2026-10-18T23:39:39Z",
-    "url": "https://github.com/Peter-A-P/compliant-ai-gateway"
-  },
-  {
-    "description": "Simple yet modular retrieval-augmented generation engine.",
-    "id": "alicedrd/RAGdoll",
-    "language": "Python",
-    "name": "alicedrd/RAGdoll",
-    "stars": 0,
-    "updated_at": "2026-10-18T23:34:16Z",
-    "url": "https://github.com/alicedrd/RAGdoll"
   }
 ]
