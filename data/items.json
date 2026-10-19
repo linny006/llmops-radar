@@ -1,12 +1,84 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26131,
+    "updated_at": "2026-10-19T08:14:27Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36011,
+    "updated_at": "2026-10-19T08:13:47Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-19T08:12:11Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61538,
+    "updated_at": "2026-10-19T08:10:53Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-10-19T08:10:07Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 200,
+    "updated_at": "2026-10-19T08:07:00Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
+    "stars": 1,
+    "updated_at": "2026-10-19T08:05:39Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
     "description": "Open-source LLM observability. See every prompt, completion, token, cost, latency and error as traces and sessions. Pyth",
     "id": "dheerajkarwasra/spanlight",
     "language": "Python",
     "name": "dheerajkarwasra/spanlight",
     "stars": 0,
-    "updated_at": "2026-10-19T07:57:48Z",
+    "updated_at": "2026-10-19T08:02:24Z",
     "url": "https://github.com/dheerajkarwasra/spanlight"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-19T08:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -14,7 +86,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22733,
-    "updated_at": "2026-10-19T07:57:34Z",
+    "updated_at": "2026-10-19T08:05:58Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -25,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-10-19T07:56:26Z",
     "url": "https://github.com/tonyweckstrom1987/agentti-pohja"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36010,
-    "updated_at": "2026-10-19T07:59:10Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
@@ -49,7 +112,7 @@
     "id": "mozilla-ai/otari",
     "language": "Python",
     "name": "mozilla-ai/otari",
-    "stars": 676,
+    "stars": 677,
     "updated_at": "2026-10-19T07:55:30Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
@@ -61,15 +124,6 @@
     "stars": 72,
     "updated_at": "2026-10-19T07:55:05Z",
     "url": "https://github.com/genieincodebottle/aiml-companion"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26131,
-    "updated_at": "2026-10-19T07:56:55Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
@@ -126,24 +180,6 @@
     "url": "https://github.com/prosaugat/llm-portal"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-19T07:45:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61536,
-    "updated_at": "2026-10-19T07:56:12Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
     "id": "digline/digline",
     "language": "Python",
@@ -176,7 +212,7 @@
     "language": "Python",
     "name": "dynamiq-ai/dynamiq",
     "stars": 1071,
-    "updated_at": "2026-10-19T07:37:59Z",
+    "updated_at": "2026-10-19T08:00:31Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
@@ -203,7 +239,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28443,
-    "updated_at": "2026-10-19T07:31:44Z",
+    "updated_at": "2026-10-19T08:02:25Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -220,7 +256,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 9378,
+    "stars": 9379,
     "updated_at": "2026-10-19T07:29:27Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -248,7 +284,7 @@
     "language": "TypeScript",
     "name": "burakdede/lorepack",
     "stars": 4,
-    "updated_at": "2026-10-19T07:50:50Z",
+    "updated_at": "2026-10-19T08:12:29Z",
     "url": "https://github.com/burakdede/lorepack"
   },
   {
@@ -270,15 +306,6 @@
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-19T07:23:19Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
     "id": "pom11/hscc",
     "language": "Python",
@@ -288,21 +315,12 @@
     "url": "https://github.com/pom11/hscc"
   },
   {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-10-19T07:20:50Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
     "description": "Radicalbit AI Gateway",
     "id": "radicalbit/radicalbit-ai-gateway",
     "language": "Python",
     "name": "radicalbit/radicalbit-ai-gateway",
     "stars": 71,
-    "updated_at": "2026-10-19T07:26:00Z",
+    "updated_at": "2026-10-19T08:09:16Z",
     "url": "https://github.com/radicalbit/radicalbit-ai-gateway"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-19T06:52:54Z",
     "url": "https://github.com/niravpatidar37/llmfailover"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8912,
-    "updated_at": "2026-10-19T07:50:35Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
-    "id": "TAIPANBOX/tokenfuse",
-    "language": "Rust",
-    "name": "TAIPANBOX/tokenfuse",
-    "stars": 1,
-    "updated_at": "2026-10-19T07:48:23Z",
-    "url": "https://github.com/TAIPANBOX/tokenfuse"
   }
 ]
