@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-19 03:00 UTC
+> ⏰ Last updated: 2026-10-19 03:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,24 +42,24 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [kushagrasoni/governed-iceberg-agent](https://github.com/kushagrasoni/governed-iceberg-agent) | 0 | Python | 2026-10-19 | The evidence trail for agentic data pipelines: an LLM agent proposes Apache Iceberg changes; guardrails, branch dry-runs |
-| 2 | [abdullahimohamed101/agent-black-box](https://github.com/abdullahimohamed101/agent-black-box) | 0 | Python | 2026-10-19 | Flight recorder & observability for AI agents: trace every model call, tool call, file edit and shell command live, with |
-| 3 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 8910 | Rust | 2026-10-19 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
-| 4 | [fakhruldeen/LocalPilot](https://github.com/fakhruldeen/LocalPilot) | 1 | Python | 2026-10-19 | LocalPilot is a Python application that helps nontechnical users discover, install, run, monitor, update and remove loca |
-| 5 | [Furkiozknn/prompt-template-manager](https://github.com/Furkiozknn/prompt-template-manager) | 0 | Python | 2026-10-19 | Python CLI and library (ptm) for prompt templates as plain YAML in git, rendered through sandboxed, strict Jinja so a ty |
-| 6 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 61518 | Python | 2026-10-19 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 7 | [prasad-kavuri/prasad-portfolio](https://github.com/prasad-kavuri/prasad-portfolio) | 0 | TypeScript | 2026-10-19 | VP / Head of AI Engineering portfolio — 14 production AI demos, governance-first architecture. prasadkavuri.com |
-| 8 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-19 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 9 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2999 | Python | 2026-10-19 | Community maintained hardware plugin for vLLM on Huawei Ascend |
-| 10 | [KilgoreC1024/healthcare-data-reliability-copilot](https://github.com/KilgoreC1024/healthcare-data-reliability-copilot) | 0 | Python | 2026-10-19 | AI investigator for healthcare data pipeline incidents: read-only tools, mechanically verified evidence, calibrated abst |
-| 11 | [technobasant/ai-platform-architecture](https://github.com/technobasant/ai-platform-architecture) | 0 | Python | 2026-10-19 | A reference architecture for AI features on governed data: 13 decisions with the measured results behind each, an evalua |
-| 12 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26121 | TypeScript | 2026-10-19 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 13 | [truera/trulens](https://github.com/truera/trulens) | 3601 | Python | 2026-10-19 | Evaluation and Tracking for LLM Experiments and AI Agents |
-| 14 | [mozilla-ai/otari](https://github.com/mozilla-ai/otari) | 662 | Python | 2026-10-19 | Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, |
-| 15 | [llmspendguard/llm-spendguard](https://github.com/llmspendguard/llm-spendguard) | 0 | Python | 2026-10-19 | Know what an LLM job will cost before you run it — and prove your ledger matches the provider's bill. Pre-submit estimat |
-| 16 | [MongLong0214/jev-gate](https://github.com/MongLong0214/jev-gate) | 3 | TypeScript | 2026-10-19 | Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code — V3 prototype runs  |
-| 17 | [KBber/KBber](https://github.com/KBber/KBber) | 0 | — | 2026-10-19 | Building reliable LLM Agents — Agent eval, evidence grounding, context engineering |
-| 18 | [toxicwind/ranch](https://github.com/toxicwind/ranch) | 0 | Rust | 2026-10-19 | The self-hosted LLM estate in one monorepo — local model serving, cloud provider routing, MCP gateway, build jobs. All O |
+| 1 | [prasad-kavuri/prasad-portfolio](https://github.com/prasad-kavuri/prasad-portfolio) | 0 | TypeScript | 2026-10-19 | VP / Head of AI Engineering portfolio — 14 production AI demos, governance-first architecture. prasadkavuri.com |
+| 2 | [toxicwind/ranch](https://github.com/toxicwind/ranch) | 0 | Rust | 2026-10-19 | The self-hosted LLM estate in one monorepo — local model serving, cloud provider routing, MCP gateway, build jobs. All O |
+| 3 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 61520 | Python | 2026-10-19 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-19 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 5 | [kushagrasoni/governed-iceberg-agent](https://github.com/kushagrasoni/governed-iceberg-agent) | 0 | Python | 2026-10-19 | The evidence trail for agentic data pipelines: an LLM agent proposes Apache Iceberg changes; guardrails, branch dry-runs |
+| 6 | [abdullahimohamed101/agent-black-box](https://github.com/abdullahimohamed101/agent-black-box) | 0 | Python | 2026-10-19 | Flight recorder & observability for AI agents: trace every model call, tool call, file edit and shell command live, with |
+| 7 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 8910 | Rust | 2026-10-19 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
+| 8 | [fakhruldeen/LocalPilot](https://github.com/fakhruldeen/LocalPilot) | 1 | Python | 2026-10-19 | LocalPilot is a Python application that helps nontechnical users discover, install, run, monitor, update and remove loca |
+| 9 | [Furkiozknn/prompt-template-manager](https://github.com/Furkiozknn/prompt-template-manager) | 0 | Python | 2026-10-19 | Python CLI and library (ptm) for prompt templates as plain YAML in git, rendered through sandboxed, strict Jinja so a ty |
+| 10 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 2999 | Python | 2026-10-19 | Community maintained hardware plugin for vLLM on Huawei Ascend |
+| 11 | [KilgoreC1024/healthcare-data-reliability-copilot](https://github.com/KilgoreC1024/healthcare-data-reliability-copilot) | 0 | Python | 2026-10-19 | AI investigator for healthcare data pipeline incidents: read-only tools, mechanically verified evidence, calibrated abst |
+| 12 | [technobasant/ai-platform-architecture](https://github.com/technobasant/ai-platform-architecture) | 0 | Python | 2026-10-19 | A reference architecture for AI features on governed data: 13 decisions with the measured results behind each, an evalua |
+| 13 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26121 | TypeScript | 2026-10-19 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 14 | [truera/trulens](https://github.com/truera/trulens) | 3601 | Python | 2026-10-19 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 15 | [mozilla-ai/otari](https://github.com/mozilla-ai/otari) | 664 | Python | 2026-10-19 | Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, |
+| 16 | [llmspendguard/llm-spendguard](https://github.com/llmspendguard/llm-spendguard) | 0 | Python | 2026-10-19 | Know what an LLM job will cost before you run it — and prove your ledger matches the provider's bill. Pre-submit estimat |
+| 17 | [MongLong0214/jev-gate](https://github.com/MongLong0214/jev-gate) | 3 | TypeScript | 2026-10-19 | Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code — V3 prototype runs  |
+| 18 | [KBber/KBber](https://github.com/KBber/KBber) | 0 | — | 2026-10-19 | Building reliable LLM Agents — Agent eval, evidence grounding, context engineering |
 | 19 | [dheerajkarwasra/spanlight](https://github.com/dheerajkarwasra/spanlight) | 0 | Python | 2026-10-19 | Open-source LLM observability. See every prompt, completion, token, cost, latency and error as traces and sessions. Pyth |
 | 20 | [alibaba/rtp-llm](https://github.com/alibaba/rtp-llm) | 1363 | Python | 2026-10-19 | RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications. |
 | 21 | [coffeehc/xagent-docs](https://github.com/coffeehc/xagent-docs) | 1 | TypeScript | 2026-10-19 |  |
@@ -71,7 +71,7 @@ expired items removed — so you can rely on what you see being current.
 | 27 | [hjongc/openrouter-endpoint-watch](https://github.com/hjongc/openrouter-endpoint-watch) | 0 | Python | 2026-10-19 | Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p |
 | 28 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 28442 | Python | 2026-10-19 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
 | 29 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5910 | Python | 2026-10-19 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
-| 30 | [comet-ml/opik](https://github.com/comet-ml/opik) | 22725 | Python | 2026-10-19 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
+| 30 | [comet-ml/opik](https://github.com/comet-ml/opik) | 22726 | Python | 2026-10-19 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
 | 31 | [liaosiliangCodeLife/harness-mate-plat](https://github.com/liaosiliangCodeLife/harness-mate-plat) | 23 | Python | 2026-10-19 | 端到端智能体平台：把本机的 AI Agent 变成人人可用的 Web 产品（Vue 3 + Flask + Go WS 网关 + Docker 部署） |
 | 32 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 30635 | TypeScript | 2026-10-19 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
 | 33 | [a-novel/service-genai](https://github.com/a-novel/service-genai) | 1 | Go | 2026-10-19 | Durable execution for AI provider calls: crash-safe, idempotent and pollable. |

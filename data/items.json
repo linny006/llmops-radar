@@ -1,5 +1,41 @@
 [
   {
+    "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
+    "id": "prasad-kavuri/prasad-portfolio",
+    "language": "TypeScript",
+    "name": "prasad-kavuri/prasad-portfolio",
+    "stars": 0,
+    "updated_at": "2026-10-19T03:14:20Z",
+    "url": "https://github.com/prasad-kavuri/prasad-portfolio"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-19T03:07:50Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61520,
+    "updated_at": "2026-10-19T03:15:11Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-19T03:00:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The evidence trail for agentic data pipelines: an LLM agent proposes Apache Iceberg changes; guardrails, branch dry-runs",
     "id": "kushagrasoni/governed-iceberg-agent",
     "language": "Python",
@@ -23,7 +59,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8910,
-    "updated_at": "2026-10-19T02:49:32Z",
+    "updated_at": "2026-10-19T03:08:53Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -43,33 +79,6 @@
     "stars": 0,
     "updated_at": "2026-10-19T02:48:01Z",
     "url": "https://github.com/Furkiozknn/prompt-template-manager"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61518,
-    "updated_at": "2026-10-19T02:52:15Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
-    "id": "prasad-kavuri/prasad-portfolio",
-    "language": "TypeScript",
-    "name": "prasad-kavuri/prasad-portfolio",
-    "stars": 0,
-    "updated_at": "2026-10-19T02:46:14Z",
-    "url": "https://github.com/prasad-kavuri/prasad-portfolio"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-19T02:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
@@ -121,7 +130,7 @@
     "id": "mozilla-ai/otari",
     "language": "Python",
     "name": "mozilla-ai/otari",
-    "stars": 662,
+    "stars": 664,
     "updated_at": "2026-10-19T02:25:36Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
@@ -153,15 +162,6 @@
     "url": "https://github.com/KBber/KBber"
   },
   {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-19T02:11:10Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
     "description": "Open-source LLM observability. See every prompt, completion, token, cost, latency and error as traces and sessions. Pyth",
     "id": "dheerajkarwasra/spanlight",
     "language": "Python",
@@ -176,7 +176,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1363,
-    "updated_at": "2026-10-19T02:56:33Z",
+    "updated_at": "2026-10-19T03:14:41Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -194,7 +194,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 12060,
-    "updated_at": "2026-10-19T02:55:09Z",
+    "updated_at": "2026-10-19T03:13:06Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -203,7 +203,7 @@
     "language": "Python",
     "name": "overmind-core/overmind",
     "stars": 668,
-    "updated_at": "2026-10-19T02:47:32Z",
+    "updated_at": "2026-10-19T03:01:24Z",
     "url": "https://github.com/overmind-core/overmind"
   },
   {
@@ -257,7 +257,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5910,
-    "updated_at": "2026-10-19T02:54:34Z",
+    "updated_at": "2026-10-19T03:14:24Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -265,7 +265,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 22725,
+    "stars": 22726,
     "updated_at": "2026-10-19T01:11:37Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -347,7 +347,7 @@
     "language": "Python",
     "name": "orq-ai/orq-arena",
     "stars": 23,
-    "updated_at": "2026-10-19T02:38:22Z",
+    "updated_at": "2026-10-19T03:01:33Z",
     "url": "https://github.com/orq-ai/orq-arena"
   },
   {
@@ -419,7 +419,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-19T01:23:50Z",
+    "updated_at": "2026-10-19T03:04:46Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
