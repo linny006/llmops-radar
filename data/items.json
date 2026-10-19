@@ -1,12 +1,12 @@
 [
   {
-    "description": "HSAAI is an independent, sovereign, self-hosted enterprise AI platform developed by Haithim Nasher using an AI engineeri",
-    "id": "HSA-AI/HSAAI",
-    "language": "Python",
-    "name": "HSA-AI/HSAAI",
-    "stars": 1,
-    "updated_at": "2026-10-19T22:59:04Z",
-    "url": "https://github.com/HSA-AI/HSAAI"
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-19T23:05:27Z",
+    "url": "https://github.com/toxicwind/ranch"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -14,17 +14,35 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61584,
-    "updated_at": "2026-10-19T22:58:37Z",
+    "updated_at": "2026-10-19T23:15:32Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-19T22:57:52Z",
-    "url": "https://github.com/toxicwind/ranch"
+    "description": "The open standard AI gateway \u2014 PII protection, audit, reliability & cost control as composable interceptors. Same API in",
+    "id": "manojmallick/gavio",
+    "language": "Java",
+    "name": "manojmallick/gavio",
+    "stars": 6,
+    "updated_at": "2026-10-19T23:02:53Z",
+    "url": "https://github.com/manojmallick/gavio"
+  },
+  {
+    "description": "HSAAI is an independent, sovereign, self-hosted enterprise AI platform developed by Haithim Nasher using an AI engineeri",
+    "id": "HSA-AI/HSAAI",
+    "language": "Python",
+    "name": "HSA-AI/HSAAI",
+    "stars": 1,
+    "updated_at": "2026-10-19T23:01:13Z",
+    "url": "https://github.com/HSA-AI/HSAAI"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-19T23:00:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
@@ -68,17 +86,8 @@
     "language": "Python",
     "name": "WillIsback/litellm-vllm-observability",
     "stars": 0,
-    "updated_at": "2026-10-19T22:46:20Z",
+    "updated_at": "2026-10-19T23:05:23Z",
     "url": "https://github.com/WillIsback/litellm-vllm-observability"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-19T22:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
@@ -113,7 +122,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 26154,
-    "updated_at": "2026-10-19T22:41:23Z",
+    "updated_at": "2026-10-19T23:14:54Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -131,7 +140,7 @@
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 111,
-    "updated_at": "2026-10-19T23:00:12Z",
+    "updated_at": "2026-10-19T23:11:24Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -176,7 +185,7 @@
     "language": "Go",
     "name": "rknightion/genai-otel-bridge",
     "stars": 1,
-    "updated_at": "2026-10-19T22:28:52Z",
+    "updated_at": "2026-10-19T23:15:31Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
@@ -203,7 +212,7 @@
     "language": "Python",
     "name": "abdullahimohamed101/agent-black-box",
     "stars": 0,
-    "updated_at": "2026-10-19T22:35:46Z",
+    "updated_at": "2026-10-19T23:04:05Z",
     "url": "https://github.com/abdullahimohamed101/agent-black-box"
   },
   {
@@ -223,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-10-19T22:31:46Z",
     "url": "https://github.com/TAIPANBOX/tokenfuse"
-  },
-  {
-    "description": "The open standard AI gateway \u2014 PII protection, audit, reliability & cost control as composable interceptors. Same API in",
-    "id": "manojmallick/gavio",
-    "language": "Java",
-    "name": "manojmallick/gavio",
-    "stars": 6,
-    "updated_at": "2026-10-19T22:41:43Z",
-    "url": "https://github.com/manojmallick/gavio"
   },
   {
     "description": "LocalPilot is a Python application that helps nontechnical users discover, install, run, monitor, update and remove loca",
