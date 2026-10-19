@@ -1,5 +1,167 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61577,
+    "updated_at": "2026-10-19T18:59:02Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "357 Claude agent roles across 6 business layers. Portable Memvid memory, enforced cost caps, bash policy gate, durable c",
+    "id": "TechTideOhio/swarm-357",
+    "language": "Python",
+    "name": "TechTideOhio/swarm-357",
+    "stars": 2,
+    "updated_at": "2026-10-19T18:58:33Z",
+    "url": "https://github.com/TechTideOhio/swarm-357"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 695,
+    "updated_at": "2026-10-19T18:57:31Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Observabilit\u00e9 LiteLLM + vLLM : Prometheus, Grafana (3 dashboards) et rapport mensuel HTML/CSV",
+    "id": "WillIsback/litellm-vllm-observability",
+    "language": "Python",
+    "name": "WillIsback/litellm-vllm-observability",
+    "stars": 0,
+    "updated_at": "2026-10-19T19:00:12Z",
+    "url": "https://github.com/WillIsback/litellm-vllm-observability"
+  },
+  {
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
+    "language": "Python",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 53,
+    "updated_at": "2026-10-19T18:56:52Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 2,
+    "updated_at": "2026-10-19T18:54:24Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "Managed agents on Kubernetes + Self-hosted LLM serving. Own your scalable AI. ",
+    "id": "devproof/devproofai",
+    "language": "TypeScript",
+    "name": "devproof/devproofai",
+    "stars": 2,
+    "updated_at": "2026-10-19T18:54:00Z",
+    "url": "https://github.com/devproof/devproofai"
+  },
+  {
+    "description": "Model-agnostic Agent Skill: keep multiple hypotheses alive, test them against evidence, revive alternatives, collapse to",
+    "id": "Furox-Art/quantum-reasoning-skill",
+    "language": "Python",
+    "name": "Furox-Art/quantum-reasoning-skill",
+    "stars": 3,
+    "updated_at": "2026-10-19T18:53:40Z",
+    "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36034,
+    "updated_at": "2026-10-19T18:56:12Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-19T18:52:04Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
+    "id": "AixleHQ/flow",
+    "language": "Ruby",
+    "name": "AixleHQ/flow",
+    "stars": 24,
+    "updated_at": "2026-10-19T18:56:18Z",
+    "url": "https://github.com/AixleHQ/flow"
+  },
+  {
+    "description": "AI reliability engineering for production AI agents and LLM applications. Open-source tools and research that find silen",
+    "id": "hermes-labs-ai/.github",
+    "language": "Python",
+    "name": "hermes-labs-ai/.github",
+    "stars": 0,
+    "updated_at": "2026-10-19T18:49:53Z",
+    "url": "https://github.com/hermes-labs-ai/.github"
+  },
+  {
+    "description": "Continuous LLM governance monitoring for regulated environments - EU AI Act, GDPR, ANSSI. Self-hosted, profile-driven, n",
+    "id": "JehanneDussert/govllm",
+    "language": "Python",
+    "name": "JehanneDussert/govllm",
+    "stars": 31,
+    "updated_at": "2026-10-19T18:50:25Z",
+    "url": "https://github.com/JehanneDussert/govllm"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28450,
+    "updated_at": "2026-10-19T18:48:36Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 4,
+    "updated_at": "2026-10-19T18:46:27Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 7,
+    "updated_at": "2026-10-19T18:53:15Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-19T18:45:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 9419,
+    "updated_at": "2026-10-19T18:56:47Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
     "description": "Multi-agent system for US drug prices and shortages on Azure: Databricks pipeline, MCP tool server, Ask agent and a week",
     "id": "sujithnsn2026-crypto/drug-pricing-agent",
     "language": "Python",
@@ -9,33 +171,6 @@
     "url": "https://github.com/sujithnsn2026-crypto/drug-pricing-agent"
   },
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36034,
-    "updated_at": "2026-10-19T18:43:56Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Enterprise Scale AIFactory (esml) - on Azure",
-    "id": "jostrm/azure-enterprise-scale-ml",
-    "language": "Python",
-    "name": "jostrm/azure-enterprise-scale-ml",
-    "stars": 53,
-    "updated_at": "2026-10-19T18:44:12Z",
-    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61577,
-    "updated_at": "2026-10-19T18:44:33Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -43,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-10-19T18:40:21Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 694,
-    "updated_at": "2026-10-19T18:39:47Z",
-    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "\ud83e\uddca Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 \ud83c\udf53",
@@ -99,24 +225,6 @@
     "url": "https://github.com/justrunme/ai-runtime-platform"
   },
   {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 7,
-    "updated_at": "2026-10-19T18:42:27Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-19T18:30:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Open-source LLM migration and regression testing for AI agents. Compare models, detect tool-call regressions, and gate m",
     "id": "evalshift/evalshift-cli",
     "language": "Python",
@@ -124,15 +232,6 @@
     "stars": 5,
     "updated_at": "2026-10-19T18:28:05Z",
     "url": "https://github.com/evalshift/evalshift-cli"
-  },
-  {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-19T18:22:33Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
     "description": "A tool-agnostic correctness suite for Google ADK cost-tracking plugins: unknown models, cached tokens, thinking tokens, ",
@@ -167,7 +266,7 @@
     "language": "Python",
     "name": "dynamiq-ai/dynamiq",
     "stars": 1071,
-    "updated_at": "2026-10-19T18:35:56Z",
+    "updated_at": "2026-10-19T18:51:19Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
@@ -185,17 +284,8 @@
     "language": "Python",
     "name": "abdullahimohamed101/agent-black-box",
     "stars": 0,
-    "updated_at": "2026-10-19T18:12:11Z",
+    "updated_at": "2026-10-19T18:47:08Z",
     "url": "https://github.com/abdullahimohamed101/agent-black-box"
-  },
-  {
-    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
-    "id": "AixleHQ/flow",
-    "language": "Ruby",
-    "name": "AixleHQ/flow",
-    "stars": 24,
-    "updated_at": "2026-10-19T18:39:54Z",
-    "url": "https://github.com/AixleHQ/flow"
   },
   {
     "description": "An LLM inference engine for persistent chat bots and agents. It allows models to forget old and unimportant tokens to ke",
@@ -342,15 +432,6 @@
     "url": "https://github.com/sugarhillconsultants/self-hosted-llm-platform"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28450,
-    "updated_at": "2026-10-19T18:45:27Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "Regression gate for LLM applications in CI: a GitHub Action that fails a pull request when it scores worse than the comm",
     "id": "digline/digline-action",
     "language": "Shell",
@@ -365,88 +446,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 96,
-    "updated_at": "2026-10-19T16:55:58Z",
+    "updated_at": "2026-10-19T18:54:50Z",
     "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 398,
-    "updated_at": "2026-10-19T16:52:36Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "APM for AI agents: flow maps, workflow process mining, cost & reliability metrics, and process review for LangGraph, Ope",
-    "id": "Aditya31398/agentdynamics",
-    "language": "Python",
-    "name": "Aditya31398/agentdynamics",
-    "stars": 0,
-    "updated_at": "2026-10-19T16:52:37Z",
-    "url": "https://github.com/Aditya31398/agentdynamics"
-  },
-  {
-    "description": "A control layer that decides how an LLM should speak before it speaks",
-    "id": "Furox-Art/eq-layer",
-    "language": "Python",
-    "name": "Furox-Art/eq-layer",
-    "stars": 0,
-    "updated_at": "2026-10-19T16:45:59Z",
-    "url": "https://github.com/Furox-Art/eq-layer"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 42,
-    "updated_at": "2026-10-19T16:41:55Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Client packages for AER: the flight recorder for AI agents",
-    "id": "Ad-Astra-Computing/aer",
-    "language": "TypeScript",
-    "name": "Ad-Astra-Computing/aer",
-    "stars": 0,
-    "updated_at": "2026-10-19T16:43:10Z",
-    "url": "https://github.com/Ad-Astra-Computing/aer"
-  },
-  {
-    "description": "Multimodal RAG QA for cosmetics regulation: hybrid retrieval, two-stage reranking, evidence gating that refuses unsuppor",
-    "id": "Xander-Xai/Beauty-Industry-RAG-QA-System",
-    "language": "Python",
-    "name": "Xander-Xai/Beauty-Industry-RAG-QA-System",
-    "stars": 0,
-    "updated_at": "2026-10-19T16:40:47Z",
-    "url": "https://github.com/Xander-Xai/Beauty-Industry-RAG-QA-System"
-  },
-  {
-    "description": "",
-    "id": "coffeehc/xagent-docs",
-    "language": "TypeScript",
-    "name": "coffeehc/xagent-docs",
-    "stars": 1,
-    "updated_at": "2026-10-19T16:35:15Z",
-    "url": "https://github.com/coffeehc/xagent-docs"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 9419,
-    "updated_at": "2026-10-19T18:45:20Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "A harness for testing AI trade ideas without fooling yourself: point-in-time retrieval, a leak audit backed by tests, fl",
-    "id": "Alpha-W0lf/alphaguard",
-    "language": "Python",
-    "name": "Alpha-W0lf/alphaguard",
-    "stars": 1,
-    "updated_at": "2026-10-19T16:26:08Z",
-    "url": "https://github.com/Alpha-W0lf/alphaguard"
   }
 ]
