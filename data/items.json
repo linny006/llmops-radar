@@ -1,11 +1,137 @@
 [
   {
+    "description": "Build applications that make decisions (chatbots, agents, simulations, etc...). Monitor, trace, persist, and execute on ",
+    "id": "apache/burr",
+    "language": "Python",
+    "name": "apache/burr",
+    "stars": 2573,
+    "updated_at": "2026-10-19T09:28:35Z",
+    "url": "https://github.com/apache/burr"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 680,
+    "updated_at": "2026-10-19T09:28:12Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 111,
+    "updated_at": "2026-10-19T09:27:50Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "The open standard AI gateway \u2014 PII protection, audit, reliability & cost control as composable interceptors. Same API in",
+    "id": "manojmallick/gavio",
+    "language": "Java",
+    "name": "manojmallick/gavio",
+    "stars": 6,
+    "updated_at": "2026-10-19T09:26:31Z",
+    "url": "https://github.com/manojmallick/gavio"
+  },
+  {
+    "description": "Self-hostable AI token pools \u2014 govern your org's AI usage with per-member keys, quotas, and leak detection; or deposit s",
+    "id": "Phat1911/Tributary",
+    "language": "Rust",
+    "name": "Phat1911/Tributary",
+    "stars": 0,
+    "updated_at": "2026-10-19T09:25:53Z",
+    "url": "https://github.com/Phat1911/Tributary"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26131,
+    "updated_at": "2026-10-19T09:30:11Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "The open-source agentic framework to build, orchestrate, and operate production AI agents.",
+    "id": "apowerb/apowerb",
+    "language": "Python",
+    "name": "apowerb/apowerb",
+    "stars": 148,
+    "updated_at": "2026-10-19T09:23:08Z",
+    "url": "https://github.com/apowerb/apowerb"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36013,
+    "updated_at": "2026-10-19T09:29:34Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
+    "id": "digline/digline",
+    "language": "Python",
+    "name": "digline/digline",
+    "stars": 9,
+    "updated_at": "2026-10-19T09:22:38Z",
+    "url": "https://github.com/digline/digline"
+  },
+  {
+    "description": "Measure how much of your LLM bill is re-writing documents you already generated. Local, zero network calls, single file,",
+    "id": "linklbee/scan",
+    "language": "Python",
+    "name": "linklbee/scan",
+    "stars": 0,
+    "updated_at": "2026-10-19T09:22:33Z",
+    "url": "https://github.com/linklbee/scan"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-19T09:23:29Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61546,
+    "updated_at": "2026-10-19T09:28:49Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open-source LLM observability. See every prompt, completion, token, cost, latency and error as traces and sessions. Pyth",
+    "id": "dheerajkarwasra/spanlight",
+    "language": "Python",
+    "name": "dheerajkarwasra/spanlight",
+    "stars": 0,
+    "updated_at": "2026-10-19T09:18:04Z",
+    "url": "https://github.com/dheerajkarwasra/spanlight"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-19T09:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28443,
-    "updated_at": "2026-10-19T09:14:52Z",
+    "updated_at": "2026-10-19T09:21:01Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -27,15 +153,6 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36013,
-    "updated_at": "2026-10-19T09:11:19Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
     "id": "toxicwind/ranch",
     "language": "Rust",
@@ -43,24 +160,6 @@
     "stars": 0,
     "updated_at": "2026-10-19T09:10:56Z",
     "url": "https://github.com/toxicwind/ranch"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 679,
-    "updated_at": "2026-10-19T09:12:23Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61545,
-    "updated_at": "2026-10-19T09:13:59Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
@@ -79,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-10-19T09:08:40Z",
     "url": "https://github.com/technobasant/ai-platform-architecture"
-  },
-  {
-    "description": "Build applications that make decisions (chatbots, agents, simulations, etc...). Monitor, trace, persist, and execute on ",
-    "id": "apache/burr",
-    "language": "Python",
-    "name": "apache/burr",
-    "stars": 2573,
-    "updated_at": "2026-10-19T09:05:57Z",
-    "url": "https://github.com/apache/burr"
   },
   {
     "description": "Observability for Claude Code: HTTP hooks record sessions, sub-agents and tool calls to Postgres, so agent work can be i",
@@ -126,13 +216,13 @@
     "url": "https://github.com/SourceShift/mini-ork"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-19T09:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "future-agi/future-agi",
+    "stars": 2176,
+    "updated_at": "2026-10-19T09:20:20Z",
+    "url": "https://github.com/future-agi/future-agi"
   },
   {
     "description": "AI Agent hooks for LLM Observability.",
@@ -149,17 +239,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22734,
-    "updated_at": "2026-10-19T08:58:27Z",
+    "updated_at": "2026-10-19T09:27:27Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26131,
-    "updated_at": "2026-10-19T09:02:30Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Daily CI-refreshed history of LLM API pricing \u2014 snapshot + append-only change log for ~2,500 chat models (CSV, CC BY 4.0",
@@ -171,22 +252,13 @@
     "url": "https://github.com/sophie-nguyenthuthuy/llm-pricing-history"
   },
   {
-    "description": "Self-hostable AI token pools \u2014 govern your org's AI usage with per-member keys, quotas, and leak detection; or deposit s",
-    "id": "Phat1911/Tributary",
-    "language": "Rust",
-    "name": "Phat1911/Tributary",
-    "stars": 0,
-    "updated_at": "2026-10-19T08:57:58Z",
-    "url": "https://github.com/Phat1911/Tributary"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
+    "description": "Debug LLM calls: detect why a call failed (9 failure types) and get a fix verified by re-running it. Works with OpenAI, ",
+    "id": "KANSADWALA/CounterFix",
     "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 111,
-    "updated_at": "2026-10-19T08:56:53Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
+    "name": "KANSADWALA/CounterFix",
+    "stars": 1,
+    "updated_at": "2026-10-19T08:57:38Z",
+    "url": "https://github.com/KANSADWALA/CounterFix"
   },
   {
     "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
@@ -203,7 +275,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 96,
-    "updated_at": "2026-10-19T08:51:43Z",
+    "updated_at": "2026-10-19T09:26:41Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -212,7 +284,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4978,
-    "updated_at": "2026-10-19T09:00:04Z",
+    "updated_at": "2026-10-19T09:29:44Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -230,7 +302,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8912,
-    "updated_at": "2026-10-19T09:06:55Z",
+    "updated_at": "2026-10-19T09:26:41Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -288,15 +360,6 @@
     "url": "https://github.com/tap222/assay-evals"
   },
   {
-    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
-    "id": "digline/digline",
-    "language": "Python",
-    "name": "digline/digline",
-    "stars": 9,
-    "updated_at": "2026-10-19T09:11:05Z",
-    "url": "https://github.com/digline/digline"
-  },
-  {
     "description": "Declarative AI agent orchestration with runtime guarantees: YAML blueprints compiled to LangGraph, with lint, determinis",
     "id": "ahmetatar/agent-blueprint",
     "language": "Python",
@@ -313,24 +376,6 @@
     "stars": 7,
     "updated_at": "2026-10-19T08:24:54Z",
     "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-19T08:25:10Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
-    "description": "Open-source LLM observability. See every prompt, completion, token, cost, latency and error as traces and sessions. Pyth",
-    "id": "dheerajkarwasra/spanlight",
-    "language": "Python",
-    "name": "dheerajkarwasra/spanlight",
-    "stars": 0,
-    "updated_at": "2026-10-19T08:39:17Z",
-    "url": "https://github.com/dheerajkarwasra/spanlight"
   },
   {
     "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
@@ -403,50 +448,5 @@
     "stars": 72,
     "updated_at": "2026-10-19T07:55:05Z",
     "url": "https://github.com/genieincodebottle/aiml-companion"
-  },
-  {
-    "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
-    "id": "hjongc/openrouter-endpoint-watch",
-    "language": "Python",
-    "name": "hjongc/openrouter-endpoint-watch",
-    "stars": 0,
-    "updated_at": "2026-10-19T07:51:02Z",
-    "url": "https://github.com/hjongc/openrouter-endpoint-watch"
-  },
-  {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
-    "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 1,
-    "updated_at": "2026-10-19T07:49:05Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "Self-hosted web portal for managing users, API keys, and access to LLM inference servers \u2014 works with llama.cpp, Ollama,",
-    "id": "prosaugat/llm-portal",
-    "language": "Python",
-    "name": "prosaugat/llm-portal",
-    "stars": 1,
-    "updated_at": "2026-10-19T07:48:19Z",
-    "url": "https://github.com/prosaugat/llm-portal"
-  },
-  {
-    "description": "A runtime learning loop for coding agents. Turns Claude Code, Codex, Cursor, Antigravity and model-router runs into huma",
-    "id": "kkrlstrm/runtune",
-    "language": "Python",
-    "name": "kkrlstrm/runtune",
-    "stars": 9,
-    "updated_at": "2026-10-19T07:40:01Z",
-    "url": "https://github.com/kkrlstrm/runtune"
-  },
-  {
-    "description": "\u4f01\u4e1a AI \u8d44\u6e90\u7ba1\u7406\u5e73\u53f0 \u2014\u2014 \u628a MCP \u670d\u52a1 / Skill / Agent / AI \u5e94\u7528 \u7edf\u4e00\u6210\u4e00\u5957\u53ef\u7ba1\u3001\u53ef\u7b97\u3001\u53ef\u5ba1\u7684\u8d44\u4ea7\u3002\u4e00\u5957\u8eab\u4efd\u3001\u4e00\u5957\u6743\u9650\u3001\u4e00\u5957\u8ba1\u91cf\u3001\u4e00\u5957\u5ba1\u8ba1\u3002\u81ea\u6258\u7ba1 \u00b7 MIT\u3002",
-    "id": "01men/ybkkasi",
-    "language": "TypeScript",
-    "name": "01men/ybkkasi",
-    "stars": 0,
-    "updated_at": "2026-10-19T07:33:40Z",
-    "url": "https://github.com/01men/ybkkasi"
   }
 ]
