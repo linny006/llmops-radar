@@ -1,12 +1,147 @@
 [
   {
+    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
+    "id": "digline/digline",
+    "language": "Python",
+    "name": "digline/digline",
+    "stars": 9,
+    "updated_at": "2026-10-19T14:30:03Z",
+    "url": "https://github.com/digline/digline"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-19T14:29:15Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
+    "id": "AixleHQ/flow",
+    "language": "Ruby",
+    "name": "AixleHQ/flow",
+    "stars": 24,
+    "updated_at": "2026-10-19T14:27:09Z",
+    "url": "https://github.com/AixleHQ/flow"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 7,
+    "updated_at": "2026-10-19T14:26:11Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "The platform for continuously improving AI agents.",
+    "id": "overmind-core/overmind",
+    "language": "Python",
+    "name": "overmind-core/overmind",
+    "stars": 669,
+    "updated_at": "2026-10-19T14:25:40Z",
+    "url": "https://github.com/overmind-core/overmind"
+  },
+  {
+    "description": "How much KV cache can you throw away before the model forgets? Found the H2O-style policy was freezing the cache after i",
+    "id": "ahmeddoghri/kvsqueeze",
+    "language": "Python",
+    "name": "ahmeddoghri/kvsqueeze",
+    "stars": 0,
+    "updated_at": "2026-10-19T14:24:36Z",
+    "url": "https://github.com/ahmeddoghri/kvsqueeze"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36026,
+    "updated_at": "2026-10-19T14:28:04Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Model what speculative decoding actually buys you, no GPU required. Found the i.i.d.-agreement assumption was hiding a r",
+    "id": "ahmeddoghri/speculabench",
+    "language": "Python",
+    "name": "ahmeddoghri/speculabench",
+    "stars": 0,
+    "updated_at": "2026-10-19T14:23:08Z",
+    "url": "https://github.com/ahmeddoghri/speculabench"
+  },
+  {
+    "description": "Self-hostable AI token pools \u2014 govern your org's AI usage with per-member keys, quotas, and leak detection; or deposit s",
+    "id": "Phat1911/Tributary",
+    "language": "Rust",
+    "name": "Phat1911/Tributary",
+    "stars": 0,
+    "updated_at": "2026-10-19T14:22:42Z",
+    "url": "https://github.com/Phat1911/Tributary"
+  },
+  {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "Python",
     "name": "vllm-project/vllm-ascend",
     "stars": 3000,
-    "updated_at": "2026-10-19T14:14:49Z",
+    "updated_at": "2026-10-19T14:21:39Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Evaluation, regression gating and observability for LLM agents: YAML suites, scorers, LLM-as-judge, CI gate and dashboar",
+    "id": "naveendas96/agent-eval-harness",
+    "language": "Python",
+    "name": "naveendas96/agent-eval-harness",
+    "stars": 0,
+    "updated_at": "2026-10-19T14:19:32Z",
+    "url": "https://github.com/naveendas96/agent-eval-harness"
+  },
+  {
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
+    "language": "Python",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 53,
+    "updated_at": "2026-10-19T14:19:36Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61564,
+    "updated_at": "2026-10-19T14:18:39Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 32,
+    "updated_at": "2026-10-19T14:15:52Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-19T14:15:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22740,
+    "updated_at": "2026-10-19T14:29:28Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Catches PII leaks and ungrounded claims in one pass. Now measured against the hard half: hallucinations that reuse the s",
@@ -18,21 +153,12 @@
     "url": "https://github.com/ahmeddoghri/guardrail-gate"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61564,
-    "updated_at": "2026-10-19T14:12:50Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
     "id": "mloda-ai/mloda",
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 96,
-    "updated_at": "2026-10-19T14:11:26Z",
+    "updated_at": "2026-10-19T14:24:23Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -54,20 +180,11 @@
     "url": "https://github.com/Muditkumar123/agentic-document-intelligence-platform"
   },
   {
-    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
-    "id": "digline/digline",
-    "language": "Python",
-    "name": "digline/digline",
-    "stars": 9,
-    "updated_at": "2026-10-19T14:11:03Z",
-    "url": "https://github.com/digline/digline"
-  },
-  {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 9401,
+    "stars": 9402,
     "updated_at": "2026-10-19T14:08:54Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -99,31 +216,13 @@
     "url": "https://github.com/floatsmyboat/inferwatch"
   },
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36026,
-    "updated_at": "2026-10-19T14:09:59Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
     "id": "srjn45/warden",
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-19T14:05:12Z",
+    "updated_at": "2026-10-19T14:18:02Z",
     "url": "https://github.com/srjn45/warden"
-  },
-  {
-    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
-    "id": "AixleHQ/flow",
-    "language": "Ruby",
-    "name": "AixleHQ/flow",
-    "stars": 24,
-    "updated_at": "2026-10-19T14:09:55Z",
-    "url": "https://github.com/AixleHQ/flow"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -135,13 +234,13 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "Self-hosted AI Agents Platform for AI Native companies. Claude Code, Codex, Gemini, OpenCode agents. Apache 2.0.  ",
+    "id": "Abilityai/trinity",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-19T14:00:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "Abilityai/trinity",
+    "stars": 675,
+    "updated_at": "2026-10-19T14:21:02Z",
+    "url": "https://github.com/Abilityai/trinity"
   },
   {
     "description": "Measure how much of your LLM bill is re-writing documents you already generated. Local, zero network calls, single file,",
@@ -151,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-10-19T13:54:19Z",
     "url": "https://github.com/linklbee/scan"
-  },
-  {
-    "description": "Enterprise Scale AIFactory (esml) - on Azure",
-    "id": "jostrm/azure-enterprise-scale-ml",
-    "language": "Python",
-    "name": "jostrm/azure-enterprise-scale-ml",
-    "stars": 53,
-    "updated_at": "2026-10-19T13:52:32Z",
-    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -189,15 +279,6 @@
     "url": "https://github.com/chenhz01/memory-expiry-gate"
   },
   {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 32,
-    "updated_at": "2026-10-19T13:42:17Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
     "description": "Score how much more your agent can do than it should.",
     "id": "chenhz01/permission-gate",
     "language": "Python",
@@ -221,7 +302,7 @@
     "language": "Rust",
     "name": "TAIPANBOX/tokenfuse",
     "stars": 1,
-    "updated_at": "2026-10-19T13:38:32Z",
+    "updated_at": "2026-10-19T14:20:03Z",
     "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
@@ -230,7 +311,7 @@
     "language": "Python",
     "name": "jakbuczarnecki/intergrax",
     "stars": 4,
-    "updated_at": "2026-10-19T13:38:21Z",
+    "updated_at": "2026-10-19T14:27:43Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
   },
   {
@@ -239,7 +320,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 690,
-    "updated_at": "2026-10-19T13:36:43Z",
+    "updated_at": "2026-10-19T14:27:07Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -250,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-10-19T13:34:32Z",
     "url": "https://github.com/brutal-45/Nexus-LLM"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22738,
-    "updated_at": "2026-10-19T14:14:19Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
@@ -324,15 +396,6 @@
     "url": "https://github.com/Amz34/awesome-agent-infrastructure"
   },
   {
-    "description": "The platform for continuously improving AI agents.",
-    "id": "overmind-core/overmind",
-    "language": "Python",
-    "name": "overmind-core/overmind",
-    "stars": 669,
-    "updated_at": "2026-10-19T14:02:28Z",
-    "url": "https://github.com/overmind-core/overmind"
-  },
-  {
     "description": "\ud83e\udd16 \u041a\u0430\u0442\u0430\u043b\u043e\u0433 \u0418\u0418-\u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u043e\u0432 \u0434\u043b\u044f \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a\u043e\u0432 \u043d\u0430 \u0440\u0443\u0441\u0441\u043a\u043e\u043c (2026): AI-IDE, Cursor, Copilot, Claude Code, Codex, \u0430\u0433\u0435\u043d\u0442\u044b, MCP,",
     "id": "justxor/awesome-ai-devtools-ru",
     "language": "\u2014",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-19T12:53:53Z",
     "url": "https://github.com/chenhz01/agent-gates"
-  },
-  {
-    "description": "Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF\u2194Bedrock mapping (US regions) with a free st",
-    "id": "scttfrdmn/hf-bedrock-map",
-    "language": "Go",
-    "name": "scttfrdmn/hf-bedrock-map",
-    "stars": 1,
-    "updated_at": "2026-10-19T12:50:28Z",
-    "url": "https://github.com/scttfrdmn/hf-bedrock-map"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 23,
-    "updated_at": "2026-10-19T12:49:02Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "Analyze a coding session log and report repeated tool calls, loops that went nowhere, and turns that blew the token budg",
-    "id": "yunaremaia/agent-call-graph",
-    "language": "Python",
-    "name": "yunaremaia/agent-call-graph",
-    "stars": 0,
-    "updated_at": "2026-10-19T12:46:35Z",
-    "url": "https://github.com/yunaremaia/agent-call-graph"
-  },
-  {
-    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
-    "id": "burakdede/lorepack",
-    "language": "TypeScript",
-    "name": "burakdede/lorepack",
-    "stars": 4,
-    "updated_at": "2026-10-19T14:04:01Z",
-    "url": "https://github.com/burakdede/lorepack"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 2175,
-    "updated_at": "2026-10-19T13:42:46Z",
-    "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "Multimodal RAG QA for cosmetics regulation: hybrid retrieval, two-stage reranking, evidence gating that refuses unsuppor",
-    "id": "Xander-Xai/Beauty-Industry-RAG-QA-System",
-    "language": "Python",
-    "name": "Xander-Xai/Beauty-Industry-RAG-QA-System",
-    "stars": 0,
-    "updated_at": "2026-10-19T12:45:01Z",
-    "url": "https://github.com/Xander-Xai/Beauty-Industry-RAG-QA-System"
-  },
-  {
-    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
-    "id": "iblai/os",
-    "language": "TypeScript",
-    "name": "iblai/os",
-    "stars": 821,
-    "updated_at": "2026-10-19T12:54:29Z",
-    "url": "https://github.com/iblai/os"
   }
 ]
