@@ -1,11 +1,101 @@
 [
   {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 9390,
+    "updated_at": "2026-10-19T10:54:08Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Declarative AI agent orchestration with runtime guarantees: YAML blueprints compiled to LangGraph, with lint, determinis",
+    "id": "ahmetatar/agent-blueprint",
+    "language": "Python",
+    "name": "ahmetatar/agent-blueprint",
+    "stars": 4,
+    "updated_at": "2026-10-19T10:54:51Z",
+    "url": "https://github.com/ahmetatar/agent-blueprint"
+  },
+  {
+    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
+    "id": "iblai/os",
+    "language": "TypeScript",
+    "name": "iblai/os",
+    "stars": 821,
+    "updated_at": "2026-10-19T10:52:19Z",
+    "url": "https://github.com/iblai/os"
+  },
+  {
+    "description": "Layered evaluation suite for LLM/RAG apps: component, end-to-end, quality & red-team safety evals with LLM-as-a-judge (D",
+    "id": "avinashmyerolkar/llm-evaluation-suite",
+    "language": "Python",
+    "name": "avinashmyerolkar/llm-evaluation-suite",
+    "stars": 0,
+    "updated_at": "2026-10-19T10:51:30Z",
+    "url": "https://github.com/avinashmyerolkar/llm-evaluation-suite"
+  },
+  {
+    "description": "Open-source observability for your GenAI or LLM application, based on OpenTelemetry",
+    "id": "traceloop/openllmetry",
+    "language": "Python",
+    "name": "traceloop/openllmetry",
+    "stars": 7501,
+    "updated_at": "2026-10-19T10:49:59Z",
+    "url": "https://github.com/traceloop/openllmetry"
+  },
+  {
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
+    "stars": 1,
+    "updated_at": "2026-10-19T10:57:04Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
+    "description": "Model gateway policy for agents: a cheaper model may take a task only after an eval on real task data clears that task, ",
+    "id": "kkrlstrm/model-eval-gate",
+    "language": "Python",
+    "name": "kkrlstrm/model-eval-gate",
+    "stars": 2,
+    "updated_at": "2026-10-19T10:49:06Z",
+    "url": "https://github.com/kkrlstrm/model-eval-gate"
+  },
+  {
+    "description": "The open-source agentic framework to build, orchestrate, and operate production AI agents.",
+    "id": "apowerb/apowerb",
+    "language": "Python",
+    "name": "apowerb/apowerb",
+    "stars": 148,
+    "updated_at": "2026-10-19T10:49:04Z",
+    "url": "https://github.com/apowerb/apowerb"
+  },
+  {
+    "description": "A runtime learning loop for coding agents. Turns Claude Code, Codex, Cursor, Antigravity and model-router runs into huma",
+    "id": "kkrlstrm/runtune",
+    "language": "Python",
+    "name": "kkrlstrm/runtune",
+    "stars": 9,
+    "updated_at": "2026-10-19T10:48:38Z",
+    "url": "https://github.com/kkrlstrm/runtune"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22733,
+    "updated_at": "2026-10-19T10:53:53Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-10-19T10:44:31Z",
+    "updated_at": "2026-10-19T10:45:26Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -36,15 +126,6 @@
     "url": "https://github.com/rustrak/llmtrack"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22733,
-    "updated_at": "2026-10-19T10:38:10Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
@@ -59,7 +140,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 681,
-    "updated_at": "2026-10-19T10:45:10Z",
+    "updated_at": "2026-10-19T10:58:54Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -104,7 +185,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28446,
-    "updated_at": "2026-10-19T10:22:26Z",
+    "updated_at": "2026-10-19T10:58:14Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -176,7 +257,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4981,
-    "updated_at": "2026-10-19T10:40:05Z",
+    "updated_at": "2026-10-19T10:57:50Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -194,7 +275,7 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-19T10:34:52Z",
+    "updated_at": "2026-10-19T10:52:57Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -239,17 +320,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 36015,
-    "updated_at": "2026-10-19T09:55:06Z",
+    "updated_at": "2026-10-19T10:55:27Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Layered evaluation suite for LLM/RAG apps: component, end-to-end, quality & red-team safety evals with LLM-as-a-judge (D",
-    "id": "avinashmyerolkar/llm-evaluation-suite",
-    "language": "Python",
-    "name": "avinashmyerolkar/llm-evaluation-suite",
-    "stars": 0,
-    "updated_at": "2026-10-19T09:53:52Z",
-    "url": "https://github.com/avinashmyerolkar/llm-evaluation-suite"
   },
   {
     "description": "Document Q&A with cited answers: an agentic retrieval loop, neural retrieval (bge-m3, Qwen3-Embedding, bge reranker, Qdr",
@@ -257,17 +329,8 @@
     "language": "Python",
     "name": "Muditkumar123/agentic-document-intelligence-platform",
     "stars": 0,
-    "updated_at": "2026-10-19T09:46:35Z",
+    "updated_at": "2026-10-19T10:53:08Z",
     "url": "https://github.com/Muditkumar123/agentic-document-intelligence-platform"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 9388,
-    "updated_at": "2026-10-19T10:14:40Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
@@ -284,7 +347,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 12059,
-    "updated_at": "2026-10-19T10:41:31Z",
+    "updated_at": "2026-10-19T10:51:10Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -322,15 +385,6 @@
     "stars": 0,
     "updated_at": "2026-10-19T09:25:53Z",
     "url": "https://github.com/Phat1911/Tributary"
-  },
-  {
-    "description": "The open-source agentic framework to build, orchestrate, and operate production AI agents.",
-    "id": "apowerb/apowerb",
-    "language": "Python",
-    "name": "apowerb/apowerb",
-    "stars": 148,
-    "updated_at": "2026-10-19T10:08:13Z",
-    "url": "https://github.com/apowerb/apowerb"
   },
   {
     "description": "Measure how much of your LLM bill is re-writing documents you already generated. Local, zero network calls, single file,",
@@ -394,59 +448,5 @@
     "stars": 2176,
     "updated_at": "2026-10-19T10:31:45Z",
     "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "AI Agent hooks for LLM Observability.",
-    "id": "HikaruEgashira/otel-hooks",
-    "language": "Python",
-    "name": "HikaruEgashira/otel-hooks",
-    "stars": 9,
-    "updated_at": "2026-10-19T08:59:49Z",
-    "url": "https://github.com/HikaruEgashira/otel-hooks"
-  },
-  {
-    "description": "Daily CI-refreshed history of LLM API pricing \u2014 snapshot + append-only change log for ~2,500 chat models (CSV, CC BY 4.0",
-    "id": "sophie-nguyenthuthuy/llm-pricing-history",
-    "language": "Python",
-    "name": "sophie-nguyenthuthuy/llm-pricing-history",
-    "stars": 1,
-    "updated_at": "2026-10-19T08:57:58Z",
-    "url": "https://github.com/sophie-nguyenthuthuy/llm-pricing-history"
-  },
-  {
-    "description": "Debug LLM calls: detect why a call failed (9 failure types) and get a fix verified by re-running it. Works with OpenAI, ",
-    "id": "KANSADWALA/CounterFix",
-    "language": "Python",
-    "name": "KANSADWALA/CounterFix",
-    "stars": 1,
-    "updated_at": "2026-10-19T08:57:38Z",
-    "url": "https://github.com/KANSADWALA/CounterFix"
-  },
-  {
-    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
-    "id": "burakdede/lorepack",
-    "language": "TypeScript",
-    "name": "burakdede/lorepack",
-    "stars": 4,
-    "updated_at": "2026-10-19T10:36:26Z",
-    "url": "https://github.com/burakdede/lorepack"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 96,
-    "updated_at": "2026-10-19T10:43:18Z",
-    "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
-    "id": "dynamiq-ai/dynamiq",
-    "language": "Python",
-    "name": "dynamiq-ai/dynamiq",
-    "stars": 1071,
-    "updated_at": "2026-10-19T08:52:47Z",
-    "url": "https://github.com/dynamiq-ai/dynamiq"
   }
 ]
