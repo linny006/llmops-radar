@@ -1,11 +1,56 @@
 [
   {
+    "description": "Building reliable LLM Agents \u2014 Agent eval, evidence grounding, context engineering",
+    "id": "KBber/KBber",
+    "language": "\u2014",
+    "name": "KBber/KBber",
+    "stars": 0,
+    "updated_at": "2026-10-19T02:15:10Z",
+    "url": "https://github.com/KBber/KBber"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-19T02:11:10Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26119,
+    "updated_at": "2026-10-19T02:10:14Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2997,
+    "updated_at": "2026-10-19T02:00:59Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-19T02:00:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Open-source LLM observability. See every prompt, completion, token, cost, latency and error as traces and sessions. Pyth",
     "id": "dheerajkarwasra/spanlight",
     "language": "Python",
     "name": "dheerajkarwasra/spanlight",
     "stars": 0,
-    "updated_at": "2026-10-19T01:59:15Z",
+    "updated_at": "2026-10-19T02:11:06Z",
     "url": "https://github.com/dheerajkarwasra/spanlight"
   },
   {
@@ -18,21 +63,21 @@
     "url": "https://github.com/KilgoreC1024/healthcare-data-reliability-copilot"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
     "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2997,
-    "updated_at": "2026-10-19T01:53:21Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
+    "name": "alibaba/rtp-llm",
+    "stars": 1363,
+    "updated_at": "2026-10-19T02:12:22Z",
+    "url": "https://github.com/alibaba/rtp-llm"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 61512,
-    "updated_at": "2026-10-19T01:47:46Z",
+    "stars": 61514,
+    "updated_at": "2026-10-19T02:10:14Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -45,13 +90,13 @@
     "url": "https://github.com/coffeehc/xagent-docs"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-19T01:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "dataelement/bisheng",
+    "stars": 12060,
+    "updated_at": "2026-10-19T01:46:56Z",
+    "url": "https://github.com/dataelement/bisheng"
   },
   {
     "description": "The platform for continuously improving AI agents.",
@@ -104,7 +149,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8910,
-    "updated_at": "2026-10-19T01:43:29Z",
+    "updated_at": "2026-10-19T02:13:00Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -117,20 +162,11 @@
     "url": "https://github.com/hjongc/openrouter-endpoint-watch"
   },
   {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-19T01:21:39Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 28440,
+    "stars": 28441,
     "updated_at": "2026-10-19T01:20:19Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -142,6 +178,15 @@
     "stars": 5910,
     "updated_at": "2026-10-19T01:18:06Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22726,
+    "updated_at": "2026-10-19T01:11:37Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "\u7aef\u5230\u7aef\u667a\u80fd\u4f53\u5e73\u53f0\uff1a\u628a\u672c\u673a\u7684 AI Agent \u53d8\u6210\u4eba\u4eba\u53ef\u7528\u7684 Web \u4ea7\u54c1\uff08Vue 3 + Flask + Go WS \u7f51\u5173 + Docker \u90e8\u7f72\uff09",
@@ -230,7 +275,7 @@
     "language": "TypeScript",
     "name": "MongLong0214/jev-gate",
     "stars": 3,
-    "updated_at": "2026-10-19T01:44:12Z",
+    "updated_at": "2026-10-19T02:08:31Z",
     "url": "https://github.com/MongLong0214/jev-gate"
   },
   {
@@ -252,21 +297,12 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22725,
-    "updated_at": "2026-10-19T01:11:37Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
     "id": "srjn45/warden",
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-19T01:59:48Z",
+    "updated_at": "2026-10-19T02:00:52Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -383,7 +419,7 @@
     "language": "Python",
     "name": "alinafe82/persistent-cognitive-infrastructure",
     "stars": 1,
-    "updated_at": "2026-10-18T22:56:49Z",
+    "updated_at": "2026-10-19T02:14:45Z",
     "url": "https://github.com/alinafe82/persistent-cognitive-infrastructure"
   },
   {
@@ -401,7 +437,7 @@
     "language": "Rust",
     "name": "TAIPANBOX/tokenfuse",
     "stars": 1,
-    "updated_at": "2026-10-19T01:50:09Z",
+    "updated_at": "2026-10-19T02:10:50Z",
     "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-18T22:52:03Z",
     "url": "https://github.com/Yash-Chindam/self-optimizing-production-rag-platform"
-  },
-  {
-    "description": "Production local-LLM inference gateway with policy-aware routing and delivery automation",
-    "id": "Yash-Chindam/Production-Local-LLM-Inference-Routing-Platform",
-    "language": "Python",
-    "name": "Yash-Chindam/Production-Local-LLM-Inference-Routing-Platform",
-    "stars": 0,
-    "updated_at": "2026-10-18T22:50:24Z",
-    "url": "https://github.com/Yash-Chindam/Production-Local-LLM-Inference-Routing-Platform"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11903,
-    "updated_at": "2026-10-18T22:36:41Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
-    "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 1,
-    "updated_at": "2026-10-18T22:31:12Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-10-18T22:30:17Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   }
 ]
