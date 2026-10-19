@@ -1,12 +1,84 @@
 [
   {
+    "description": "\ud83e\udea2 Langfuse JS/TS SDK",
+    "id": "langfuse/langfuse-js",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse-js",
+    "stars": 175,
+    "updated_at": "2026-10-19T07:10:55Z",
+    "url": "https://github.com/langfuse/langfuse-js"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 32,
+    "updated_at": "2026-10-19T07:07:38Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Tuned Variables Language (TVL) by Traigent: typed specification language, validators, CLI tools, editor support, and doc",
+    "id": "Traigent/tvl",
+    "language": "Python",
+    "name": "Traigent/tvl",
+    "stars": 0,
+    "updated_at": "2026-10-19T07:04:57Z",
+    "url": "https://github.com/Traigent/tvl"
+  },
+  {
     "description": "Distill a frontier-model task (gpt-oss-120b, banking77 intents) into a 1.5B QLoRA student served on vLLM, with a confide",
     "id": "niravpatidar37/distillroi",
     "language": "Python",
     "name": "niravpatidar37/distillroi",
     "stars": 0,
-    "updated_at": "2026-10-19T07:00:11Z",
+    "updated_at": "2026-10-19T07:06:50Z",
     "url": "https://github.com/niravpatidar37/distillroi"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 2,
+    "updated_at": "2026-10-19T07:12:23Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "A local flight recorder for AI coding agents and LLM runtimes. Passes OpenAI-compatible traffic through (e.g. OpenCode o",
+    "id": "murillojndem/agent-splice",
+    "language": "C#",
+    "name": "murillojndem/agent-splice",
+    "stars": 0,
+    "updated_at": "2026-10-19T07:07:50Z",
+    "url": "https://github.com/murillojndem/agent-splice"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-10-19T07:03:03Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "AI gateway as a framework. For full control over models, routing & lifecycle. OpenAI /chat/completions, OpenResponses /r",
+    "id": "8monkey-ai/hebo-gateway",
+    "language": "TypeScript",
+    "name": "8monkey-ai/hebo-gateway",
+    "stars": 26,
+    "updated_at": "2026-10-19T07:02:31Z",
+    "url": "https://github.com/8monkey-ai/hebo-gateway"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-19T07:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Multi-hop graph + vector RAG over SEC 10-K/20-F filings. Neo4j knowledge graph + pgvector joined on chunk ids; the LLM n",
@@ -14,7 +86,7 @@
     "language": "Python",
     "name": "niravpatidar37/hopcite",
     "stars": 0,
-    "updated_at": "2026-10-19T06:58:45Z",
+    "updated_at": "2026-10-19T07:01:08Z",
     "url": "https://github.com/niravpatidar37/hopcite"
   },
   {
@@ -86,7 +158,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5910,
-    "updated_at": "2026-10-19T06:50:36Z",
+    "updated_at": "2026-10-19T07:10:53Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -94,18 +166,9 @@
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
-    "stars": 8911,
-    "updated_at": "2026-10-19T06:49:11Z",
+    "stars": 8912,
+    "updated_at": "2026-10-19T07:07:03Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-19T06:45:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
@@ -117,13 +180,13 @@
     "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
     "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 32,
-    "updated_at": "2026-10-19T06:36:24Z",
-    "url": "https://github.com/SourceShift/mini-ork"
+    "name": "comet-ml/opik",
+    "stars": 22732,
+    "updated_at": "2026-10-19T07:14:30Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -131,7 +194,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28443,
-    "updated_at": "2026-10-19T07:00:22Z",
+    "updated_at": "2026-10-19T07:00:33Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -139,7 +202,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 9371,
+    "stars": 9372,
     "updated_at": "2026-10-19T06:34:22Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -158,7 +221,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 202,
-    "updated_at": "2026-10-19T06:58:38Z",
+    "updated_at": "2026-10-19T07:13:12Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -194,17 +257,8 @@
     "language": "Python",
     "name": "Xander-Xai/Beauty-Industry-RAG-QA-System",
     "stars": 0,
-    "updated_at": "2026-10-19T06:27:13Z",
+    "updated_at": "2026-10-19T07:12:18Z",
     "url": "https://github.com/Xander-Xai/Beauty-Industry-RAG-QA-System"
-  },
-  {
-    "description": "Tuned Variables Language (TVL) by Traigent: typed specification language, validators, CLI tools, editor support, and doc",
-    "id": "Traigent/tvl",
-    "language": "Python",
-    "name": "Traigent/tvl",
-    "stars": 0,
-    "updated_at": "2026-10-19T06:59:18Z",
-    "url": "https://github.com/Traigent/tvl"
   },
   {
     "description": "The missing manual for shipping AI agents you can trust. Evals, guardrails and observability for LLM agents and RAG, wit",
@@ -221,7 +275,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 36010,
-    "updated_at": "2026-10-19T06:44:35Z",
+    "updated_at": "2026-10-19T07:10:06Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -275,7 +329,7 @@
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 676,
-    "updated_at": "2026-10-19T06:56:17Z",
+    "updated_at": "2026-10-19T07:06:12Z",
     "url": "https://github.com/Abilityai/trinity"
   },
   {
@@ -329,7 +383,7 @@
     "language": "Python",
     "name": "jakbuczarnecki/intergrax",
     "stars": 4,
-    "updated_at": "2026-10-19T06:50:58Z",
+    "updated_at": "2026-10-19T07:04:57Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-19T05:54:44Z",
     "url": "https://github.com/AmandaLeclerc361/turbular"
-  },
-  {
-    "description": "Production LLM call layer for AI agents and tools: keep OpenAI/Anthropic/AI SDK/LiteLLM, hot-swap models with MDA preset",
-    "id": "Ferrari2748/llmix",
-    "language": "Python",
-    "name": "Ferrari2748/llmix",
-    "stars": 0,
-    "updated_at": "2026-10-19T05:52:54Z",
-    "url": "https://github.com/Ferrari2748/llmix"
-  },
-  {
-    "description": "The evidence trail for agentic data pipelines: an LLM agent proposes Apache Iceberg changes; guardrails, branch dry-runs",
-    "id": "kushagrasoni/governed-iceberg-agent",
-    "language": "Python",
-    "name": "kushagrasoni/governed-iceberg-agent",
-    "stars": 0,
-    "updated_at": "2026-10-19T05:52:42Z",
-    "url": "https://github.com/kushagrasoni/governed-iceberg-agent"
-  },
-  {
-    "description": "Measure how much of your LLM bill is re-writing documents you already generated. Local, zero network calls, single file,",
-    "id": "linklbee/scan",
-    "language": "Python",
-    "name": "linklbee/scan",
-    "stars": 0,
-    "updated_at": "2026-10-19T05:59:47Z",
-    "url": "https://github.com/linklbee/scan"
-  },
-  {
-    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
-    "id": "Elizabetha44495/llmaker",
-    "language": "Go",
-    "name": "Elizabetha44495/llmaker",
-    "stars": 0,
-    "updated_at": "2026-10-19T05:49:57Z",
-    "url": "https://github.com/Elizabetha44495/llmaker"
-  },
-  {
-    "description": "Model Context Protocol (MCP) Server for Langfuse Prompt Management. This server allows you to access and manage your Lan",
-    "id": "Maas88849/mcp-server-langfuse",
-    "language": "TypeScript",
-    "name": "Maas88849/mcp-server-langfuse",
-    "stars": 0,
-    "updated_at": "2026-10-19T05:49:35Z",
-    "url": "https://github.com/Maas88849/mcp-server-langfuse"
-  },
-  {
-    "description": "Model Context Protocol (MCP) Server for Langfuse Prompt Management. This server allows you to access and manage your Lan",
-    "id": "MichelleCastillo67417/mcp-server-langfuse",
-    "language": "TypeScript",
-    "name": "MichelleCastillo67417/mcp-server-langfuse",
-    "stars": 0,
-    "updated_at": "2026-10-19T05:49:01Z",
-    "url": "https://github.com/MichelleCastillo67417/mcp-server-langfuse"
   }
 ]
