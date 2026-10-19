@@ -1,12 +1,12 @@
 [
   {
-    "description": "The platform for continuously improving AI agents.",
-    "id": "overmind-core/overmind",
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
     "language": "Python",
-    "name": "overmind-core/overmind",
-    "stars": 668,
-    "updated_at": "2026-10-19T04:44:55Z",
-    "url": "https://github.com/overmind-core/overmind"
+    "name": "BerriAI/litellm",
+    "stars": 61524,
+    "updated_at": "2026-10-19T04:59:03Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "The open framework for governed AI development: EU AI Act compliance, PII redaction, MCP proxy, prompt-injection firewal",
@@ -14,7 +14,7 @@
     "language": "Python",
     "name": "admina-org/admina",
     "stars": 8,
-    "updated_at": "2026-10-19T04:42:36Z",
+    "updated_at": "2026-10-19T04:55:09Z",
     "url": "https://github.com/admina-org/admina"
   },
   {
@@ -23,8 +23,35 @@
     "language": "Python",
     "name": "decimal-labs/decimalai-python",
     "stars": 1,
-    "updated_at": "2026-10-19T04:38:29Z",
+    "updated_at": "2026-10-19T04:57:58Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
+    "description": "Self-hosted web portal for managing users, API keys, and access to LLM inference servers \u2014 works with llama.cpp, Ollama,",
+    "id": "prosaugat/llm-portal",
+    "language": "Python",
+    "name": "prosaugat/llm-portal",
+    "stars": 1,
+    "updated_at": "2026-10-19T04:46:21Z",
+    "url": "https://github.com/prosaugat/llm-portal"
+  },
+  {
+    "description": "The platform for continuously improving AI agents.",
+    "id": "overmind-core/overmind",
+    "language": "Python",
+    "name": "overmind-core/overmind",
+    "stars": 668,
+    "updated_at": "2026-10-19T04:45:28Z",
+    "url": "https://github.com/overmind-core/overmind"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-19T04:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "LLM spend tracking and budgets for Rails \u2014 by user, feature, or any tag, in your own database, no proxy.",
@@ -34,24 +61,6 @@
     "stars": 46,
     "updated_at": "2026-10-19T04:37:32Z",
     "url": "https://github.com/sergey-homenko/llm_cost_tracker"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-19T04:30:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61524,
-    "updated_at": "2026-10-19T04:40:00Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
@@ -95,7 +104,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8910,
-    "updated_at": "2026-10-19T04:13:43Z",
+    "updated_at": "2026-10-19T04:48:22Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -113,7 +122,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1363,
-    "updated_at": "2026-10-19T04:41:48Z",
+    "updated_at": "2026-10-19T05:00:05Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -292,7 +301,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26124,
+    "stars": 26125,
     "updated_at": "2026-10-19T02:36:10Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -301,7 +310,7 @@
     "id": "mozilla-ai/otari",
     "language": "Python",
     "name": "mozilla-ai/otari",
-    "stars": 668,
+    "stars": 669,
     "updated_at": "2026-10-19T02:25:36Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
@@ -329,7 +338,7 @@
     "language": "Python",
     "name": "dheerajkarwasra/spanlight",
     "stars": 0,
-    "updated_at": "2026-10-19T02:42:47Z",
+    "updated_at": "2026-10-19T04:48:23Z",
     "url": "https://github.com/dheerajkarwasra/spanlight"
   },
   {
@@ -392,7 +401,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5910,
-    "updated_at": "2026-10-19T04:40:07Z",
+    "updated_at": "2026-10-19T04:54:54Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-19T01:01:36Z",
     "url": "https://github.com/a-novel/service-genai"
-  },
-  {
-    "description": "The execution control plane for AI agents. Govern every model request, MCP tool call, A2A delegation, and downstream act",
-    "id": "GetBusbar/busbar",
-    "language": "Rust",
-    "name": "GetBusbar/busbar",
-    "stars": 200,
-    "updated_at": "2026-10-19T03:00:08Z",
-    "url": "https://github.com/GetBusbar/busbar"
   }
 ]
