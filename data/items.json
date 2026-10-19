@@ -1,11 +1,56 @@
 [
   {
+    "description": "The platform for continuously improving AI agents.",
+    "id": "overmind-core/overmind",
+    "language": "Python",
+    "name": "overmind-core/overmind",
+    "stars": 668,
+    "updated_at": "2026-10-19T04:44:55Z",
+    "url": "https://github.com/overmind-core/overmind"
+  },
+  {
+    "description": "The open framework for governed AI development: EU AI Act compliance, PII redaction, MCP proxy, prompt-injection firewal",
+    "id": "admina-org/admina",
+    "language": "Python",
+    "name": "admina-org/admina",
+    "stars": 8,
+    "updated_at": "2026-10-19T04:42:36Z",
+    "url": "https://github.com/admina-org/admina"
+  },
+  {
+    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-10-19T04:38:29Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
+    "description": "LLM spend tracking and budgets for Rails \u2014 by user, feature, or any tag, in your own database, no proxy.",
+    "id": "sergey-homenko/llm_cost_tracker",
+    "language": "Ruby",
+    "name": "sergey-homenko/llm_cost_tracker",
+    "stars": 46,
+    "updated_at": "2026-10-19T04:37:32Z",
+    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-19T04:30:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61524,
-    "updated_at": "2026-10-19T04:28:37Z",
+    "updated_at": "2026-10-19T04:40:00Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -16,15 +61,6 @@
     "stars": 7,
     "updated_at": "2026-10-19T04:27:23Z",
     "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "The open framework for governed AI development: EU AI Act compliance, PII redaction, MCP proxy, prompt-injection firewal",
-    "id": "admina-org/admina",
-    "language": "Python",
-    "name": "admina-org/admina",
-    "stars": 8,
-    "updated_at": "2026-10-19T04:28:50Z",
-    "url": "https://github.com/admina-org/admina"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -43,15 +79,6 @@
     "stars": 3,
     "updated_at": "2026-10-19T04:23:40Z",
     "url": "https://github.com/MongLong0214/jev-gate"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-19T04:15:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
@@ -86,7 +113,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1363,
-    "updated_at": "2026-10-19T04:08:53Z",
+    "updated_at": "2026-10-19T04:41:48Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -157,7 +184,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 36009,
+    "stars": 36010,
     "updated_at": "2026-10-19T03:40:10Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -252,6 +279,15 @@
     "url": "https://github.com/technobasant/ai-platform-architecture"
   },
   {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3602,
+    "updated_at": "2026-10-19T02:38:14Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -259,15 +295,6 @@
     "stars": 26124,
     "updated_at": "2026-10-19T02:36:10Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3601,
-    "updated_at": "2026-10-19T02:38:14Z",
-    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
@@ -324,15 +351,6 @@
     "url": "https://github.com/dataelement/bisheng"
   },
   {
-    "description": "The platform for continuously improving AI agents.",
-    "id": "overmind-core/overmind",
-    "language": "Python",
-    "name": "overmind-core/overmind",
-    "stars": 668,
-    "updated_at": "2026-10-19T04:27:16Z",
-    "url": "https://github.com/overmind-core/overmind"
-  },
-  {
     "description": "\u6821\u56ed\u653f\u7b56\u95ee\u7b54 RAG \u670d\u52a1\uff1a\u7b54\u6848\u5e26\u53ef\u70b9\u6761\u6b3e\u51fa\u5904\uff0c\u77e5\u8bc6\u5e93\u91cc\u6ca1\u6709\u5c31\u5f53\u573a\u62d2\u7b54\"\u6211\u4e0d\u7f16\"\uff08FastAPI + bge-small-zh + BM25/RRF \u6df7\u5408\u53ec\u56de + DeepSeek \u7cbe\u6392/\u751f\u6210\uff09\u3002",
     "id": "inwardzyx/campus-policy-rag",
     "language": "Python",
@@ -374,7 +392,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5910,
-    "updated_at": "2026-10-19T04:02:39Z",
+    "updated_at": "2026-10-19T04:40:07Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 200,
     "updated_at": "2026-10-19T03:00:08Z",
     "url": "https://github.com/GetBusbar/busbar"
-  },
-  {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 32,
-    "updated_at": "2026-10-19T01:00:47Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-19T00:58:44Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   }
 ]
