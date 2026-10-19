@@ -1,21 +1,39 @@
 [
   {
-    "description": "OpenAI-compatible LLM gateway: routes requests to self-hosted models (vLLM) with fallback to cloud providers, per-key ac",
-    "id": "lukasgebhard/tiny-llm-gateway",
-    "language": "Python",
-    "name": "lukasgebhard/tiny-llm-gateway",
-    "stars": 0,
-    "updated_at": "2026-10-19T19:45:13Z",
-    "url": "https://github.com/lukasgebhard/tiny-llm-gateway"
-  },
-  {
     "description": "Observabilit\u00e9 LiteLLM + vLLM : Prometheus, Grafana (3 dashboards) et rapport mensuel HTML/CSV",
     "id": "WillIsback/litellm-vllm-observability",
     "language": "Python",
     "name": "WillIsback/litellm-vllm-observability",
     "stars": 0,
-    "updated_at": "2026-10-19T19:43:51Z",
+    "updated_at": "2026-10-19T19:58:50Z",
     "url": "https://github.com/WillIsback/litellm-vllm-observability"
+  },
+  {
+    "description": "A control layer that decides how an LLM should speak before it speaks",
+    "id": "Furox-Art/eq-layer",
+    "language": "Python",
+    "name": "Furox-Art/eq-layer",
+    "stars": 0,
+    "updated_at": "2026-10-19T19:58:38Z",
+    "url": "https://github.com/Furox-Art/eq-layer"
+  },
+  {
+    "description": "Model-agnostic Agent Skill: keep multiple hypotheses alive, test them against evidence, revive alternatives, collapse to",
+    "id": "Furox-Art/quantum-reasoning-skill",
+    "language": "Python",
+    "name": "Furox-Art/quantum-reasoning-skill",
+    "stars": 3,
+    "updated_at": "2026-10-19T19:58:23Z",
+    "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
+  },
+  {
+    "description": "MLOps system for daily gold price prediction \u2014 five competing models, automatic Data/Concept Drift detection, retraining",
+    "id": "vv0vv3r/ModelJoust",
+    "language": "Python",
+    "name": "vv0vv3r/ModelJoust",
+    "stars": 1,
+    "updated_at": "2026-10-19T19:55:03Z",
+    "url": "https://github.com/vv0vv3r/ModelJoust"
   },
   {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
@@ -23,8 +41,35 @@
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
     "stars": 9421,
-    "updated_at": "2026-10-19T19:38:37Z",
+    "updated_at": "2026-10-19T19:55:22Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Genaryx: the browser control room over the TAIPANBOX agent-governance stack. Money, policy, identity, quality, crypto, m",
+    "id": "TAIPANBOX/genaryx",
+    "language": "Rust",
+    "name": "TAIPANBOX/genaryx",
+    "stars": 0,
+    "updated_at": "2026-10-19T19:52:59Z",
+    "url": "https://github.com/TAIPANBOX/genaryx"
+  },
+  {
+    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
+    "id": "NVIDIA-NeMo/nemo-helix",
+    "language": "Python",
+    "name": "NVIDIA-NeMo/nemo-helix",
+    "stars": 110,
+    "updated_at": "2026-10-19T19:56:33Z",
+    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
+  },
+  {
+    "description": "The safety layer for the AGI era. Runtime guardrails for autonomous AI agents.",
+    "id": "vijaym2k6/SteerPlane",
+    "language": "Python",
+    "name": "vijaym2k6/SteerPlane",
+    "stars": 4,
+    "updated_at": "2026-10-19T19:49:49Z",
+    "url": "https://github.com/vijaym2k6/SteerPlane"
   },
   {
     "description": "357 Claude agent roles across 6 business layers. Portable Memvid memory, enforced cost caps, bash policy gate, durable c",
@@ -32,8 +77,53 @@
     "language": "Python",
     "name": "TechTideOhio/swarm-357",
     "stars": 2,
-    "updated_at": "2026-10-19T19:44:04Z",
+    "updated_at": "2026-10-19T19:49:28Z",
     "url": "https://github.com/TechTideOhio/swarm-357"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36035,
+    "updated_at": "2026-10-19T19:53:59Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "OpenAI-compatible LLM gateway: routes requests to self-hosted models (vLLM) with fallback to cloud providers, per-key ac",
+    "id": "lukasgebhard/tiny-llm-gateway",
+    "language": "Python",
+    "name": "lukasgebhard/tiny-llm-gateway",
+    "stars": 0,
+    "updated_at": "2026-10-19T19:48:13Z",
+    "url": "https://github.com/lukasgebhard/tiny-llm-gateway"
+  },
+  {
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
+    "language": "Python",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 53,
+    "updated_at": "2026-10-19T19:48:03Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
+    "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
+    "id": "ZIZKA-AI-SL/ZizkaDB",
+    "language": "Python",
+    "name": "ZIZKA-AI-SL/ZizkaDB",
+    "stars": 143,
+    "updated_at": "2026-10-19T19:45:36Z",
+    "url": "https://github.com/ZIZKA-AI-SL/ZizkaDB"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-19T19:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -41,7 +131,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61578,
-    "updated_at": "2026-10-19T19:44:24Z",
+    "updated_at": "2026-10-19T19:58:53Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -54,15 +144,6 @@
     "url": "https://github.com/TAIPANBOX/verdryx"
   },
   {
-    "description": "Enterprise Scale AIFactory (esml) - on Azure",
-    "id": "jostrm/azure-enterprise-scale-ml",
-    "language": "Python",
-    "name": "jostrm/azure-enterprise-scale-ml",
-    "stars": 53,
-    "updated_at": "2026-10-19T19:38:19Z",
-    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
-  },
-  {
     "description": "LiteLLM proxy + Open WebUI with Docker Compose: a self-hosted LLM gateway for companies. Per-user budgets and rate limit",
     "id": "pexon-consulting/litellm-open-webui",
     "language": "Python",
@@ -72,31 +153,13 @@
     "url": "https://github.com/pexon-consulting/litellm-open-webui"
   },
   {
-    "description": "The safety layer for the AGI era. Runtime guardrails for autonomous AI agents.",
-    "id": "vijaym2k6/SteerPlane",
-    "language": "Python",
-    "name": "vijaym2k6/SteerPlane",
-    "stars": 4,
-    "updated_at": "2026-10-19T19:36:47Z",
-    "url": "https://github.com/vijaym2k6/SteerPlane"
-  },
-  {
-    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
-    "id": "NVIDIA-NeMo/nemo-helix",
-    "language": "Python",
-    "name": "NVIDIA-NeMo/nemo-helix",
-    "stars": 110,
-    "updated_at": "2026-10-19T19:43:51Z",
-    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-19T19:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
+    "id": "lmnr-ai/lmnr",
+    "language": "TypeScript",
+    "name": "lmnr-ai/lmnr",
+    "stars": 3412,
+    "updated_at": "2026-10-19T19:30:42Z",
+    "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
     "description": "Open, reproducible benchmark for LLM routing efficiency: verify routing-savings claims yourself. On a fresh split the mo",
@@ -153,21 +216,12 @@
     "url": "https://github.com/Fortitude-Group/OmnisRouter"
   },
   {
-    "description": "MLOps system for daily gold price prediction \u2014 five competing models, automatic Data/Concept Drift detection, retraining",
-    "id": "vv0vv3r/ModelJoust",
-    "language": "Python",
-    "name": "vv0vv3r/ModelJoust",
-    "stars": 1,
-    "updated_at": "2026-10-19T19:15:00Z",
-    "url": "https://github.com/vv0vv3r/ModelJoust"
-  },
-  {
     "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
     "id": "srjn45/warden",
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-19T19:44:16Z",
+    "updated_at": "2026-10-19T19:48:55Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -178,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-10-19T19:12:31Z",
     "url": "https://github.com/avinashmyerolkar/llm-evaluation-suite"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36035,
-    "updated_at": "2026-10-19T19:43:46Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "AI coding skills, hooks, and plugins that keep developers thinking instead of autopiloting",
@@ -234,15 +279,6 @@
     "url": "https://github.com/toxicwind/ranch"
   },
   {
-    "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
-    "id": "ZIZKA-AI-SL/ZizkaDB",
-    "language": "Python",
-    "name": "ZIZKA-AI-SL/ZizkaDB",
-    "stars": 143,
-    "updated_at": "2026-10-19T19:43:47Z",
-    "url": "https://github.com/ZIZKA-AI-SL/ZizkaDB"
-  },
-  {
     "description": "Synthetic-replica control + observability spine across 16 AI vendors \u2014 policy-as-code, cost drill-down, drift, normalize",
     "id": "jchigg2000-git/air-traffic",
     "language": "Go",
@@ -266,7 +302,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 695,
-    "updated_at": "2026-10-19T19:28:20Z",
+    "updated_at": "2026-10-19T19:53:47Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -295,15 +331,6 @@
     "stars": 2,
     "updated_at": "2026-10-19T18:54:00Z",
     "url": "https://github.com/devproof/devproofai"
-  },
-  {
-    "description": "Model-agnostic Agent Skill: keep multiple hypotheses alive, test them against evidence, revive alternatives, collapse to",
-    "id": "Furox-Art/quantum-reasoning-skill",
-    "language": "Python",
-    "name": "Furox-Art/quantum-reasoning-skill",
-    "stars": 3,
-    "updated_at": "2026-10-19T19:41:29Z",
-    "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
   },
   {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
@@ -421,32 +448,5 @@
     "stars": 302,
     "updated_at": "2026-10-19T18:34:20Z",
     "url": "https://github.com/runtm-ai/runtm"
-  },
-  {
-    "description": "OpenAI-compatible AI execution plane on Kubernetes with MCP, vLLM, and policy.",
-    "id": "justrunme/ai-runtime-platform",
-    "language": "Python",
-    "name": "justrunme/ai-runtime-platform",
-    "stars": 2,
-    "updated_at": "2026-10-19T18:33:24Z",
-    "url": "https://github.com/justrunme/ai-runtime-platform"
-  },
-  {
-    "description": "Open-source LLM migration and regression testing for AI agents. Compare models, detect tool-call regressions, and gate m",
-    "id": "evalshift/evalshift-cli",
-    "language": "Python",
-    "name": "evalshift/evalshift-cli",
-    "stars": 5,
-    "updated_at": "2026-10-19T18:28:05Z",
-    "url": "https://github.com/evalshift/evalshift-cli"
-  },
-  {
-    "description": "A tool-agnostic correctness suite for Google ADK cost-tracking plugins: unknown models, cached tokens, thinking tokens, ",
-    "id": "gaurav-gandhi-2411/adk-cost-correctness",
-    "language": "Python",
-    "name": "gaurav-gandhi-2411/adk-cost-correctness",
-    "stars": 0,
-    "updated_at": "2026-10-19T18:21:38Z",
-    "url": "https://github.com/gaurav-gandhi-2411/adk-cost-correctness"
   }
 ]
