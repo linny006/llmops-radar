@@ -1,5 +1,104 @@
 [
   {
+    "description": "OpenAI-compatible LLM gateway: routes requests to self-hosted models (vLLM) with fallback to cloud providers, per-key ac",
+    "id": "lukasgebhard/tiny-llm-gateway",
+    "language": "Python",
+    "name": "lukasgebhard/tiny-llm-gateway",
+    "stars": 0,
+    "updated_at": "2026-10-19T19:45:13Z",
+    "url": "https://github.com/lukasgebhard/tiny-llm-gateway"
+  },
+  {
+    "description": "Observabilit\u00e9 LiteLLM + vLLM : Prometheus, Grafana (3 dashboards) et rapport mensuel HTML/CSV",
+    "id": "WillIsback/litellm-vllm-observability",
+    "language": "Python",
+    "name": "WillIsback/litellm-vllm-observability",
+    "stars": 0,
+    "updated_at": "2026-10-19T19:43:51Z",
+    "url": "https://github.com/WillIsback/litellm-vllm-observability"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 9421,
+    "updated_at": "2026-10-19T19:38:37Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "357 Claude agent roles across 6 business layers. Portable Memvid memory, enforced cost caps, bash policy gate, durable c",
+    "id": "TechTideOhio/swarm-357",
+    "language": "Python",
+    "name": "TechTideOhio/swarm-357",
+    "stars": 2,
+    "updated_at": "2026-10-19T19:44:04Z",
+    "url": "https://github.com/TechTideOhio/swarm-357"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61578,
+    "updated_at": "2026-10-19T19:44:24Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Quality evaluation and drift for AI agents: the quality plane of the agent-governance stack",
+    "id": "TAIPANBOX/verdryx",
+    "language": "Python",
+    "name": "TAIPANBOX/verdryx",
+    "stars": 1,
+    "updated_at": "2026-10-19T19:37:53Z",
+    "url": "https://github.com/TAIPANBOX/verdryx"
+  },
+  {
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
+    "language": "Python",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 53,
+    "updated_at": "2026-10-19T19:38:19Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
+    "description": "LiteLLM proxy + Open WebUI with Docker Compose: a self-hosted LLM gateway for companies. Per-user budgets and rate limit",
+    "id": "pexon-consulting/litellm-open-webui",
+    "language": "Python",
+    "name": "pexon-consulting/litellm-open-webui",
+    "stars": 0,
+    "updated_at": "2026-10-19T19:37:12Z",
+    "url": "https://github.com/pexon-consulting/litellm-open-webui"
+  },
+  {
+    "description": "The safety layer for the AGI era. Runtime guardrails for autonomous AI agents.",
+    "id": "vijaym2k6/SteerPlane",
+    "language": "Python",
+    "name": "vijaym2k6/SteerPlane",
+    "stars": 4,
+    "updated_at": "2026-10-19T19:36:47Z",
+    "url": "https://github.com/vijaym2k6/SteerPlane"
+  },
+  {
+    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
+    "id": "NVIDIA-NeMo/nemo-helix",
+    "language": "Python",
+    "name": "NVIDIA-NeMo/nemo-helix",
+    "stars": 110,
+    "updated_at": "2026-10-19T19:43:51Z",
+    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-19T19:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Open, reproducible benchmark for LLM routing efficiency: verify routing-savings claims yourself. On a fresh split the mo",
     "id": "Fortitude-Group/OmnisBench",
     "language": "Python",
@@ -36,33 +135,6 @@
     "url": "https://github.com/karmendra8386/agentic-ai-token-economics"
   },
   {
-    "description": "Enterprise Scale AIFactory (esml) - on Azure",
-    "id": "jostrm/azure-enterprise-scale-ml",
-    "language": "Python",
-    "name": "jostrm/azure-enterprise-scale-ml",
-    "stars": 53,
-    "updated_at": "2026-10-19T19:25:25Z",
-    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 9421,
-    "updated_at": "2026-10-19T19:22:12Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61578,
-    "updated_at": "2026-10-19T19:27:56Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Argus: the security layer for all AI models \u2014 OpenAI-compatible AI gateway with threat detectors, policy enforcement, au",
     "id": "karmendra8386/argus",
     "language": "Python",
@@ -81,15 +153,6 @@
     "url": "https://github.com/Fortitude-Group/OmnisRouter"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-19T19:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "MLOps system for daily gold price prediction \u2014 five competing models, automatic Data/Concept Drift detection, retraining",
     "id": "vv0vv3r/ModelJoust",
     "language": "Python",
@@ -104,17 +167,8 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-19T19:24:39Z",
+    "updated_at": "2026-10-19T19:44:16Z",
     "url": "https://github.com/srjn45/warden"
-  },
-  {
-    "description": "LiteLLM proxy + Open WebUI with Docker Compose: a self-hosted LLM gateway for companies. Per-user budgets and rate limit",
-    "id": "pexon-consulting/litellm-open-webui",
-    "language": "Python",
-    "name": "pexon-consulting/litellm-open-webui",
-    "stars": 0,
-    "updated_at": "2026-10-19T19:13:45Z",
-    "url": "https://github.com/pexon-consulting/litellm-open-webui"
   },
   {
     "description": "Layered evaluation suite for LLM/RAG apps: component, end-to-end, quality & red-team safety evals with LLM-as-a-judge (D",
@@ -131,7 +185,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 36035,
-    "updated_at": "2026-10-19T19:23:59Z",
+    "updated_at": "2026-10-19T19:43:46Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -162,15 +216,6 @@
     "url": "https://github.com/Abhimanyu9539/complaint-management-system"
   },
   {
-    "description": "Observabilit\u00e9 LiteLLM + vLLM : Prometheus, Grafana (3 dashboards) et rapport mensuel HTML/CSV",
-    "id": "WillIsback/litellm-vllm-observability",
-    "language": "Python",
-    "name": "WillIsback/litellm-vllm-observability",
-    "stars": 0,
-    "updated_at": "2026-10-19T19:07:51Z",
-    "url": "https://github.com/WillIsback/litellm-vllm-observability"
-  },
-  {
     "description": "\ud83e\uddca Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 \ud83c\udf53",
     "id": "Helicone/helicone",
     "language": "TypeScript",
@@ -194,7 +239,7 @@
     "language": "Python",
     "name": "ZIZKA-AI-SL/ZizkaDB",
     "stars": 143,
-    "updated_at": "2026-10-19T19:03:44Z",
+    "updated_at": "2026-10-19T19:43:47Z",
     "url": "https://github.com/ZIZKA-AI-SL/ZizkaDB"
   },
   {
@@ -214,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-10-19T19:00:25Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "357 Claude agent roles across 6 business layers. Portable Memvid memory, enforced cost caps, bash policy gate, durable c",
-    "id": "TechTideOhio/swarm-357",
-    "language": "Python",
-    "name": "TechTideOhio/swarm-357",
-    "stars": 2,
-    "updated_at": "2026-10-19T18:58:33Z",
-    "url": "https://github.com/TechTideOhio/swarm-357"
   },
   {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
@@ -248,7 +284,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 2,
-    "updated_at": "2026-10-19T18:54:24Z",
+    "updated_at": "2026-10-19T19:43:45Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -266,7 +302,7 @@
     "language": "Python",
     "name": "Furox-Art/quantum-reasoning-skill",
     "stars": 3,
-    "updated_at": "2026-10-19T18:53:40Z",
+    "updated_at": "2026-10-19T19:41:29Z",
     "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
   },
   {
@@ -275,7 +311,7 @@
     "language": "Python",
     "name": "sarkars/agent-failure-modes",
     "stars": 1,
-    "updated_at": "2026-10-19T19:30:22Z",
+    "updated_at": "2026-10-19T19:44:40Z",
     "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
@@ -293,7 +329,7 @@
     "language": "Python",
     "name": "JehanneDussert/govllm",
     "stars": 31,
-    "updated_at": "2026-10-19T18:50:25Z",
+    "updated_at": "2026-10-19T19:39:59Z",
     "url": "https://github.com/JehanneDussert/govllm"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-19T18:21:38Z",
     "url": "https://github.com/gaurav-gandhi-2411/adk-cost-correctness"
-  },
-  {
-    "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
-    "id": "prasad-kavuri/prasad-portfolio",
-    "language": "TypeScript",
-    "name": "prasad-kavuri/prasad-portfolio",
-    "stars": 0,
-    "updated_at": "2026-10-19T18:21:02Z",
-    "url": "https://github.com/prasad-kavuri/prasad-portfolio"
-  },
-  {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 11,
-    "updated_at": "2026-10-19T18:20:50Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
-    "id": "dynamiq-ai/dynamiq",
-    "language": "Python",
-    "name": "dynamiq-ai/dynamiq",
-    "stars": 1071,
-    "updated_at": "2026-10-19T18:51:19Z",
-    "url": "https://github.com/dynamiq-ai/dynamiq"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22748,
-    "updated_at": "2026-10-19T18:19:25Z",
-    "url": "https://github.com/comet-ml/opik"
   }
 ]
