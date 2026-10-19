@@ -1,5 +1,59 @@
 [
   {
+    "description": "Open-source LLM observability. See every prompt, completion, token, cost, latency and error as traces and sessions. Pyth",
+    "id": "dheerajkarwasra/spanlight",
+    "language": "Python",
+    "name": "dheerajkarwasra/spanlight",
+    "stars": 0,
+    "updated_at": "2026-10-19T01:59:15Z",
+    "url": "https://github.com/dheerajkarwasra/spanlight"
+  },
+  {
+    "description": "AI investigator for healthcare data pipeline incidents: read-only tools, mechanically verified evidence, calibrated abst",
+    "id": "KilgoreC1024/healthcare-data-reliability-copilot",
+    "language": "Python",
+    "name": "KilgoreC1024/healthcare-data-reliability-copilot",
+    "stars": 0,
+    "updated_at": "2026-10-19T01:58:15Z",
+    "url": "https://github.com/KilgoreC1024/healthcare-data-reliability-copilot"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2997,
+    "updated_at": "2026-10-19T01:53:21Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61512,
+    "updated_at": "2026-10-19T01:47:46Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "",
+    "id": "coffeehc/xagent-docs",
+    "language": "TypeScript",
+    "name": "coffeehc/xagent-docs",
+    "stars": 1,
+    "updated_at": "2026-10-19T01:47:11Z",
+    "url": "https://github.com/coffeehc/xagent-docs"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-19T01:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The platform for continuously improving AI agents.",
     "id": "overmind-core/overmind",
     "language": "Python",
@@ -16,6 +70,15 @@
     "stars": 1,
     "updated_at": "2026-10-19T01:37:12Z",
     "url": "https://github.com/inwardzyx/campus-policy-rag"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3601,
+    "updated_at": "2026-10-19T01:35:17Z",
+    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "An industrial engineering curriculum for transitioning teams from stochastic prompting to deterministic, traceable AI-as",
@@ -36,15 +99,6 @@
     "url": "https://github.com/burakdede/lorepack"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-19T01:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
@@ -54,15 +108,6 @@
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
-    "description": "Open-source LLM observability. See every prompt, completion, token, cost, latency and error as traces and sessions. Pyth",
-    "id": "dheerajkarwasra/spanlight",
-    "language": "Python",
-    "name": "dheerajkarwasra/spanlight",
-    "stars": 0,
-    "updated_at": "2026-10-19T01:25:58Z",
-    "url": "https://github.com/dheerajkarwasra/spanlight"
-  },
-  {
     "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
     "id": "hjongc/openrouter-endpoint-watch",
     "language": "Python",
@@ -70,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-10-19T01:23:21Z",
     "url": "https://github.com/hjongc/openrouter-endpoint-watch"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2996,
-    "updated_at": "2026-10-19T01:23:03Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
@@ -97,6 +133,15 @@
     "stars": 28440,
     "updated_at": "2026-10-19T01:20:19Z",
     "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5910,
+    "updated_at": "2026-10-19T01:18:06Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "\u7aef\u5230\u7aef\u667a\u80fd\u4f53\u5e73\u53f0\uff1a\u628a\u672c\u673a\u7684 AI Agent \u53d8\u6210\u4eba\u4eba\u53ef\u7528\u7684 Web \u4ea7\u54c1\uff08Vue 3 + Flask + Go WS \u7f51\u5173 + Docker \u90e8\u7f72\uff09",
@@ -151,15 +196,6 @@
     "stars": 32,
     "updated_at": "2026-10-19T01:00:47Z",
     "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "AI investigator for healthcare data pipeline incidents: read-only tools, mechanically verified evidence, calibrated abst",
-    "id": "KilgoreC1024/healthcare-data-reliability-copilot",
-    "language": "Python",
-    "name": "KilgoreC1024/healthcare-data-reliability-copilot",
-    "stars": 0,
-    "updated_at": "2026-10-19T00:59:37Z",
-    "url": "https://github.com/KilgoreC1024/healthcare-data-reliability-copilot"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -230,7 +266,7 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-19T01:34:54Z",
+    "updated_at": "2026-10-19T01:59:48Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -261,15 +297,6 @@
     "url": "https://github.com/prasad-kavuri/prasad-portfolio"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61511,
-    "updated_at": "2026-10-19T01:36:36Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "LocalPilot is a Python application that helps nontechnical users discover, install, run, monitor, update and remove loca",
     "id": "fakhruldeen/LocalPilot",
     "language": "Python",
@@ -292,7 +319,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 36006,
+    "stars": 36007,
     "updated_at": "2026-10-18T23:38:42Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -374,7 +401,7 @@
     "language": "Rust",
     "name": "TAIPANBOX/tokenfuse",
     "stars": 1,
-    "updated_at": "2026-10-18T22:52:56Z",
+    "updated_at": "2026-10-19T01:50:09Z",
     "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 8,
     "updated_at": "2026-10-18T22:30:17Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 1,
-    "updated_at": "2026-10-18T22:13:33Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper",
-    "id": "acornops/acornops-deployment",
-    "language": "JavaScript",
-    "name": "acornops/acornops-deployment",
-    "stars": 2,
-    "updated_at": "2026-10-18T22:00:48Z",
-    "url": "https://github.com/acornops/acornops-deployment"
-  },
-  {
-    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
-    "id": "acornops/management-console",
-    "language": "TypeScript",
-    "name": "acornops/management-console",
-    "stars": 2,
-    "updated_at": "2026-10-18T22:00:35Z",
-    "url": "https://github.com/acornops/management-console"
   }
 ]
