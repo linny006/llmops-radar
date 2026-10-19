@@ -1,5 +1,113 @@
 [
   {
+    "description": "Template repository for plugin creation for mloda.ai ",
+    "id": "mloda-ai/mloda-plugin-template",
+    "language": "Python",
+    "name": "mloda-ai/mloda-plugin-template",
+    "stars": 1,
+    "updated_at": "2026-10-19T11:28:23Z",
+    "url": "https://github.com/mloda-ai/mloda-plugin-template"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-19T11:29:10Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 3000,
+    "updated_at": "2026-10-19T11:27:14Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Open-source LLM observability. See every prompt, completion, token, cost, latency and error as traces and sessions. Pyth",
+    "id": "dheerajkarwasra/spanlight",
+    "language": "Python",
+    "name": "dheerajkarwasra/spanlight",
+    "stars": 0,
+    "updated_at": "2026-10-19T11:27:12Z",
+    "url": "https://github.com/dheerajkarwasra/spanlight"
+  },
+  {
+    "description": "50+ curated LLM observability tools PLUS 26 Agent Skills (several with runnable, unit-tested scripts) to build, evaluate",
+    "id": "ContextJet-ai/awesome-llm-observability",
+    "language": "Python",
+    "name": "ContextJet-ai/awesome-llm-observability",
+    "stars": 42,
+    "updated_at": "2026-10-19T11:26:55Z",
+    "url": "https://github.com/ContextJet-ai/awesome-llm-observability"
+  },
+  {
+    "description": "Curated list of open-source LLMOps tools: tracing, evals, AI gateways, guardrails and prompt management. Sorted by stars",
+    "id": "talhaanwarch/awesome-llmops-platforms",
+    "language": "Python",
+    "name": "talhaanwarch/awesome-llmops-platforms",
+    "stars": 38,
+    "updated_at": "2026-10-19T11:25:34Z",
+    "url": "https://github.com/talhaanwarch/awesome-llmops-platforms"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22734,
+    "updated_at": "2026-10-19T11:23:00Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61554,
+    "updated_at": "2026-10-19T11:20:57Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
+    "stars": 1,
+    "updated_at": "2026-10-19T11:20:52Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36016,
+    "updated_at": "2026-10-19T11:30:04Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28447,
+    "updated_at": "2026-10-19T11:15:29Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-19T11:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Dify \u2014 independent third-party profile of a public API surface, by API Evangelist. Dify is an open-source platform for b",
     "id": "api-evangelist/dify",
     "language": "\u2014",
@@ -67,8 +175,8 @@
     "id": "mozilla-ai/otari",
     "language": "Python",
     "name": "mozilla-ai/otari",
-    "stars": 682,
-    "updated_at": "2026-10-19T11:03:50Z",
+    "stars": 683,
+    "updated_at": "2026-10-19T11:22:01Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -79,15 +187,6 @@
     "stars": 200,
     "updated_at": "2026-10-19T11:02:14Z",
     "url": "https://github.com/api7/aisix"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-19T11:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
@@ -117,15 +216,6 @@
     "url": "https://github.com/traceloop/openllmetry"
   },
   {
-    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
-    "id": "TAIPANBOX/tokenfuse",
-    "language": "Rust",
-    "name": "TAIPANBOX/tokenfuse",
-    "stars": 1,
-    "updated_at": "2026-10-19T11:09:20Z",
-    "url": "https://github.com/TAIPANBOX/tokenfuse"
-  },
-  {
     "description": "Model gateway policy for agents: a cheaper model may take a task only after an eval on real task data clears that task, ",
     "id": "kkrlstrm/model-eval-gate",
     "language": "Python",
@@ -153,15 +243,6 @@
     "url": "https://github.com/kkrlstrm/runtune"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22733,
-    "updated_at": "2026-10-19T11:15:19Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "A self-updating, auto-classified map of the GenAI engineering stack: agents, MCP, memory, RAG, evals, LLMOps, AI securit",
     "id": "alebgl77/awesome-ai-architect",
     "language": "Python",
@@ -175,7 +256,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26135,
+    "stars": 26136,
     "updated_at": "2026-10-19T10:44:07Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -187,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-10-19T10:39:12Z",
     "url": "https://github.com/rustrak/llmtrack"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61553,
-    "updated_at": "2026-10-19T10:36:12Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "The platform for continuously improving AI agents.",
@@ -232,24 +304,6 @@
     "stars": 11,
     "updated_at": "2026-10-19T10:25:43Z",
     "url": "https://github.com/AcruxCore/AcruxCore"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28446,
-    "updated_at": "2026-10-19T11:10:17Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-19T10:23:54Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
     "description": "LLM gateway with guardrails, cost-aware routing (rules \u00b7 Jev \u00b7 open-source SLMs \u00b7 frontier APIs), and automated evaluati",
@@ -302,7 +356,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4981,
-    "updated_at": "2026-10-19T11:11:37Z",
+    "updated_at": "2026-10-19T11:28:11Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -347,17 +401,8 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8912,
-    "updated_at": "2026-10-19T10:38:21Z",
+    "updated_at": "2026-10-19T11:24:27Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36015,
-    "updated_at": "2026-10-19T11:10:23Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Document Q&A with cited answers: an agentic retrieval loop, neural retrieval (bge-m3, Qwen3-Embedding, bge reranker, Qdr",
@@ -365,17 +410,8 @@
     "language": "Python",
     "name": "Muditkumar123/agentic-document-intelligence-platform",
     "stars": 0,
-    "updated_at": "2026-10-19T10:53:08Z",
+    "updated_at": "2026-10-19T11:19:51Z",
     "url": "https://github.com/Muditkumar123/agentic-document-intelligence-platform"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 3000,
-    "updated_at": "2026-10-19T09:37:07Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
@@ -392,7 +428,7 @@
     "language": "Python",
     "name": "apache/burr",
     "stars": 2573,
-    "updated_at": "2026-10-19T09:28:35Z",
+    "updated_at": "2026-10-19T11:29:44Z",
     "url": "https://github.com/apache/burr"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 6,
     "updated_at": "2026-10-19T10:22:10Z",
     "url": "https://github.com/manojmallick/gavio"
-  },
-  {
-    "description": "Self-hostable AI token pools \u2014 govern your org's AI usage with per-member keys, quotas, and leak detection; or deposit s",
-    "id": "Phat1911/Tributary",
-    "language": "Rust",
-    "name": "Phat1911/Tributary",
-    "stars": 0,
-    "updated_at": "2026-10-19T09:25:53Z",
-    "url": "https://github.com/Phat1911/Tributary"
-  },
-  {
-    "description": "Measure how much of your LLM bill is re-writing documents you already generated. Local, zero network calls, single file,",
-    "id": "linklbee/scan",
-    "language": "Python",
-    "name": "linklbee/scan",
-    "stars": 0,
-    "updated_at": "2026-10-19T09:22:33Z",
-    "url": "https://github.com/linklbee/scan"
-  },
-  {
-    "description": "Open-source LLM observability. See every prompt, completion, token, cost, latency and error as traces and sessions. Pyth",
-    "id": "dheerajkarwasra/spanlight",
-    "language": "Python",
-    "name": "dheerajkarwasra/spanlight",
-    "stars": 0,
-    "updated_at": "2026-10-19T11:05:33Z",
-    "url": "https://github.com/dheerajkarwasra/spanlight"
-  },
-  {
-    "description": "\ud83e\udea2 Langfuse JS/TS SDK",
-    "id": "langfuse/langfuse-js",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse-js",
-    "stars": 175,
-    "updated_at": "2026-10-19T09:14:42Z",
-    "url": "https://github.com/langfuse/langfuse-js"
   }
 ]
