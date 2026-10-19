@@ -1,12 +1,75 @@
 [
   {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
     "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 2176,
-    "updated_at": "2026-10-19T17:11:26Z",
-    "url": "https://github.com/future-agi/future-agi"
+    "name": "comet-ml/opik",
+    "stars": 22743,
+    "updated_at": "2026-10-19T17:29:38Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11911,
+    "updated_at": "2026-10-19T17:27:38Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61577,
+    "updated_at": "2026-10-19T17:25:39Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36032,
+    "updated_at": "2026-10-19T17:30:13Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-19T17:23:39Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
+    "id": "lmnr-ai/lmnr",
+    "language": "TypeScript",
+    "name": "lmnr-ai/lmnr",
+    "stars": 3408,
+    "updated_at": "2026-10-19T17:20:50Z",
+    "url": "https://github.com/lmnr-ai/lmnr"
+  },
+  {
+    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
+    "id": "dynamiq-ai/dynamiq",
+    "language": "Python",
+    "name": "dynamiq-ai/dynamiq",
+    "stars": 1071,
+    "updated_at": "2026-10-19T17:24:51Z",
+    "url": "https://github.com/dynamiq-ai/dynamiq"
+  },
+  {
+    "description": "Myrtia \u2014 agent-native red teaming for LLMs and AI agents: a deliberating council of attacker models (propose, cross-crit",
+    "id": "francordel/myrtia",
+    "language": "Python",
+    "name": "francordel/myrtia",
+    "stars": 27,
+    "updated_at": "2026-10-19T17:16:10Z",
+    "url": "https://github.com/francordel/myrtia"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -14,8 +77,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-10-19T17:11:19Z",
+    "updated_at": "2026-10-19T17:15:28Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 2176,
+    "updated_at": "2026-10-19T17:17:34Z",
+    "url": "https://github.com/future-agi/future-agi"
   },
   {
     "description": "Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio",
@@ -34,15 +106,6 @@
     "stars": 111,
     "updated_at": "2026-10-19T17:10:09Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11911,
-    "updated_at": "2026-10-19T17:09:35Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
@@ -99,30 +162,12 @@
     "url": "https://github.com/sugarhillconsultants/self-hosted-llm-platform"
   },
   {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-19T17:03:22Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61573,
-    "updated_at": "2026-10-19T17:12:21Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Multi-agent system for US drug prices and shortages on Azure: Databricks pipeline, MCP tool server, Ask agent and a week",
     "id": "sujithnsn2026-crypto/drug-pricing-agent",
     "language": "Python",
     "name": "sujithnsn2026-crypto/drug-pricing-agent",
     "stars": 0,
-    "updated_at": "2026-10-19T17:02:23Z",
+    "updated_at": "2026-10-19T17:28:18Z",
     "url": "https://github.com/sujithnsn2026-crypto/drug-pricing-agent"
   },
   {
@@ -160,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-10-19T16:57:18Z",
     "url": "https://github.com/digline/digline-action"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36032,
-    "updated_at": "2026-10-19T17:15:01Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
@@ -243,15 +279,6 @@
     "url": "https://github.com/Xander-Xai/Beauty-Industry-RAG-QA-System"
   },
   {
-    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
-    "id": "lmnr-ai/lmnr",
-    "language": "TypeScript",
-    "name": "lmnr-ai/lmnr",
-    "stars": 3407,
-    "updated_at": "2026-10-19T17:00:29Z",
-    "url": "https://github.com/lmnr-ai/lmnr"
-  },
-  {
     "description": "",
     "id": "coffeehc/xagent-docs",
     "language": "TypeScript",
@@ -259,15 +286,6 @@
     "stars": 1,
     "updated_at": "2026-10-19T16:35:15Z",
     "url": "https://github.com/coffeehc/xagent-docs"
-  },
-  {
-    "description": "Myrtia \u2014 agent-native red teaming for LLMs and AI agents: a deliberating council of attacker models (propose, cross-crit",
-    "id": "francordel/myrtia",
-    "language": "Python",
-    "name": "francordel/myrtia",
-    "stars": 27,
-    "updated_at": "2026-10-19T16:32:56Z",
-    "url": "https://github.com/francordel/myrtia"
   },
   {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
@@ -283,7 +301,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 9414,
+    "stars": 9415,
     "updated_at": "2026-10-19T16:28:07Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -293,7 +311,7 @@
     "language": "Python",
     "name": "pom11/hscc",
     "stars": 7,
-    "updated_at": "2026-10-19T16:27:25Z",
+    "updated_at": "2026-10-19T17:18:31Z",
     "url": "https://github.com/pom11/hscc"
   },
   {
@@ -311,7 +329,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 204,
-    "updated_at": "2026-10-19T17:14:08Z",
+    "updated_at": "2026-10-19T17:17:49Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -331,15 +349,6 @@
     "stars": 1,
     "updated_at": "2026-10-19T16:14:25Z",
     "url": "https://github.com/andypalmi/amicu"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22742,
-    "updated_at": "2026-10-19T16:58:52Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "OpenLIT is the open-source agent harness engineering platform: trace, evaluate, guard, and improve everything around the",
@@ -365,7 +374,7 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-19T17:06:30Z",
+    "updated_at": "2026-10-19T17:22:41Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -374,7 +383,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4983,
-    "updated_at": "2026-10-19T17:14:54Z",
+    "updated_at": "2026-10-19T17:29:33Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 13,
     "updated_at": "2026-10-19T15:31:44Z",
     "url": "https://github.com/evilstar2016/skill-doctor"
-  },
-  {
-    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
-    "id": "digline/digline",
-    "language": "Python",
-    "name": "digline/digline",
-    "stars": 9,
-    "updated_at": "2026-10-19T15:23:12Z",
-    "url": "https://github.com/digline/digline"
   }
 ]
