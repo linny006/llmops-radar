@@ -1,12 +1,93 @@
 [
   {
+    "description": "Open, reproducible benchmark for LLM routing efficiency: verify routing-savings claims yourself. On a fresh split the mo",
+    "id": "Fortitude-Group/OmnisBench",
+    "language": "Python",
+    "name": "Fortitude-Group/OmnisBench",
+    "stars": 1,
+    "updated_at": "2026-10-19T21:44:20Z",
+    "url": "https://github.com/Fortitude-Group/OmnisBench"
+  },
+  {
+    "description": "Platform-neutral templates for testing AI agents and RAG systems: golden test set, review rubric, release test plan.",
+    "id": "yml-blog/agent-evaluation-templates",
+    "language": "\u2014",
+    "name": "yml-blog/agent-evaluation-templates",
+    "stars": 0,
+    "updated_at": "2026-10-19T21:44:15Z",
+    "url": "https://github.com/yml-blog/agent-evaluation-templates"
+  },
+  {
+    "description": "Open, self-hosted LLM routing proxy: routes each request to the cheapest capable model across Anthropic, OpenAI and Gemi",
+    "id": "Fortitude-Group/OmnisRouter",
+    "language": "C#",
+    "name": "Fortitude-Group/OmnisRouter",
+    "stars": 4,
+    "updated_at": "2026-10-19T21:43:55Z",
+    "url": "https://github.com/Fortitude-Group/OmnisRouter"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-19T21:43:20Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 30645,
+    "updated_at": "2026-10-19T21:41:29Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
     "id": "mloda-ai/mloda",
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 96,
-    "updated_at": "2026-10-19T21:30:35Z",
+    "updated_at": "2026-10-19T21:40:49Z",
     "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61580,
+    "updated_at": "2026-10-19T21:45:17Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "A control layer that decides how an LLM should speak before it speaks",
+    "id": "Furox-Art/eq-layer",
+    "language": "Python",
+    "name": "Furox-Art/eq-layer",
+    "stars": 0,
+    "updated_at": "2026-10-19T21:38:47Z",
+    "url": "https://github.com/Furox-Art/eq-layer"
+  },
+  {
+    "description": "LocalPilot is a Python application that helps nontechnical users discover, install, run, monitor, update and remove loca",
+    "id": "fakhruldeen/LocalPilot",
+    "language": "Python",
+    "name": "fakhruldeen/LocalPilot",
+    "stars": 1,
+    "updated_at": "2026-10-19T21:37:17Z",
+    "url": "https://github.com/fakhruldeen/LocalPilot"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-19T21:31:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -18,21 +99,12 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-19T21:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
     "id": "NVIDIA-NeMo/nemo-helix",
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 111,
-    "updated_at": "2026-10-19T21:29:48Z",
+    "updated_at": "2026-10-19T21:36:30Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -45,15 +117,6 @@
     "url": "https://github.com/AcruxCore/AcruxCore"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61580,
-    "updated_at": "2026-10-19T21:30:27Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Open-source LLM migration and regression testing for AI agents. Compare models, detect tool-call regressions, and gate m",
     "id": "evalshift/evalshift-cli",
     "language": "Python",
@@ -61,15 +124,6 @@
     "stars": 5,
     "updated_at": "2026-10-19T21:25:45Z",
     "url": "https://github.com/evalshift/evalshift-cli"
-  },
-  {
-    "description": "LocalPilot is a Python application that helps nontechnical users discover, install, run, monitor, update and remove loca",
-    "id": "fakhruldeen/LocalPilot",
-    "language": "Python",
-    "name": "fakhruldeen/LocalPilot",
-    "stars": 1,
-    "updated_at": "2026-10-19T21:23:30Z",
-    "url": "https://github.com/fakhruldeen/LocalPilot"
   },
   {
     "description": "Enterprise Scale AIFactory (esml) - on Azure",
@@ -86,7 +140,7 @@
     "language": "Go",
     "name": "rknightion/genai-otel-bridge",
     "stars": 1,
-    "updated_at": "2026-10-19T21:25:19Z",
+    "updated_at": "2026-10-19T21:33:15Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
@@ -95,7 +149,7 @@
     "language": "Rust",
     "name": "TAIPANBOX/tokenfuse",
     "stars": 1,
-    "updated_at": "2026-10-19T21:26:45Z",
+    "updated_at": "2026-10-19T21:34:00Z",
     "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
@@ -140,7 +194,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 26153,
-    "updated_at": "2026-10-19T21:31:16Z",
+    "updated_at": "2026-10-19T21:34:43Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -169,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-10-19T21:10:23Z",
     "url": "https://github.com/Thao3698/llmaker"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-19T21:10:21Z",
-    "url": "https://github.com/toxicwind/ranch"
   },
   {
     "description": "Cheaper and better Greptile alternative runs on your own github actions.",
@@ -248,7 +293,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 36038,
-    "updated_at": "2026-10-19T21:16:46Z",
+    "updated_at": "2026-10-19T21:44:39Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -284,7 +329,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 398,
-    "updated_at": "2026-10-19T21:10:32Z",
+    "updated_at": "2026-10-19T21:42:18Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -365,7 +410,7 @@
     "language": "Java",
     "name": "manojmallick/gavio",
     "stars": 6,
-    "updated_at": "2026-10-19T20:52:14Z",
+    "updated_at": "2026-10-19T21:37:46Z",
     "url": "https://github.com/manojmallick/gavio"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-19T20:38:49Z",
     "url": "https://github.com/RitikPatill/llm-evals-cli"
-  },
-  {
-    "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
-    "id": "SebasVasiliev08832/ZizkaDB",
-    "language": "Python",
-    "name": "SebasVasiliev08832/ZizkaDB",
-    "stars": 0,
-    "updated_at": "2026-10-19T20:37:08Z",
-    "url": "https://github.com/SebasVasiliev08832/ZizkaDB"
-  },
-  {
-    "description": "Stop personal data leaking through your RAG pipeline. Detects and redacts PII at ingestion, audits every generated answe",
-    "id": "adel-saoud/guardian-rag",
-    "language": "Python",
-    "name": "adel-saoud/guardian-rag",
-    "stars": 0,
-    "updated_at": "2026-10-19T20:37:05Z",
-    "url": "https://github.com/adel-saoud/guardian-rag"
-  },
-  {
-    "description": "CI quality gate for LLM apps: runs a golden dataset on every PR, scores with LLM-as-Judge, diffs with Wilson 95% confide",
-    "id": "adel-saoud/llm-regression-detector",
-    "language": "Python",
-    "name": "adel-saoud/llm-regression-detector",
-    "stars": 0,
-    "updated_at": "2026-10-19T20:36:59Z",
-    "url": "https://github.com/adel-saoud/llm-regression-detector"
-  },
-  {
-    "description": "OpenAI-compatible LLM gateway that attributes spend per RAG pipeline stage (retrieval, reranking, generation, evaluation",
-    "id": "adel-saoud/llm-gateway",
-    "language": "Python",
-    "name": "adel-saoud/llm-gateway",
-    "stars": 0,
-    "updated_at": "2026-10-19T20:36:53Z",
-    "url": "https://github.com/adel-saoud/llm-gateway"
-  },
-  {
-    "description": "Two-stage LLM request router: classifies complexity with embedding similarity + DeBERTa zero-shot, routes to the cheapes",
-    "id": "adel-saoud/llm-cost-autopilot",
-    "language": "Python",
-    "name": "adel-saoud/llm-cost-autopilot",
-    "stars": 0,
-    "updated_at": "2026-10-19T20:36:37Z",
-    "url": "https://github.com/adel-saoud/llm-cost-autopilot"
   }
 ]
