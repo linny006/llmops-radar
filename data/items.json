@@ -1,12 +1,147 @@
 [
   {
+    "description": "Open-source LLM observability. See every prompt, completion, token, cost, latency and error as traces and sessions. Pyth",
+    "id": "dheerajkarwasra/spanlight",
+    "language": "Python",
+    "name": "dheerajkarwasra/spanlight",
+    "stars": 0,
+    "updated_at": "2026-10-19T07:57:48Z",
+    "url": "https://github.com/dheerajkarwasra/spanlight"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22733,
+    "updated_at": "2026-10-19T07:57:34Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Template for small, safe AI agents in pure Python: cost caps in code, tool-less LLM client, \"I don't know\" as a valid re",
+    "id": "tonyweckstrom1987/agentti-pohja",
+    "language": "Python",
+    "name": "tonyweckstrom1987/agentti-pohja",
+    "stars": 0,
+    "updated_at": "2026-10-19T07:56:26Z",
+    "url": "https://github.com/tonyweckstrom1987/agentti-pohja"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36010,
+    "updated_at": "2026-10-19T07:59:10Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
+    "id": "cuihuan/awesome-ai-gateway",
+    "language": "HTML",
+    "name": "cuihuan/awesome-ai-gateway",
+    "stars": 130,
+    "updated_at": "2026-10-19T07:55:38Z",
+    "url": "https://github.com/cuihuan/awesome-ai-gateway"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 676,
+    "updated_at": "2026-10-19T07:55:30Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "AI-ML Companion: an interactive platform to learn AI & ML by watching it work - 28 tracks, 400+ modules, live visualizat",
+    "id": "genieincodebottle/aiml-companion",
+    "language": "Jupyter Notebook",
+    "name": "genieincodebottle/aiml-companion",
+    "stars": 72,
+    "updated_at": "2026-10-19T07:55:05Z",
+    "url": "https://github.com/genieincodebottle/aiml-companion"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26131,
+    "updated_at": "2026-10-19T07:56:55Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
     "id": "mloda-ai/mloda",
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 96,
-    "updated_at": "2026-10-19T07:44:17Z",
+    "updated_at": "2026-10-19T07:53:45Z",
     "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 1,
+    "updated_at": "2026-10-19T07:53:09Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
+    "id": "hjongc/openrouter-endpoint-watch",
+    "language": "Python",
+    "name": "hjongc/openrouter-endpoint-watch",
+    "stars": 0,
+    "updated_at": "2026-10-19T07:51:02Z",
+    "url": "https://github.com/hjongc/openrouter-endpoint-watch"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 32,
+    "updated_at": "2026-10-19T07:49:57Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-10-19T07:49:05Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "Self-hosted web portal for managing users, API keys, and access to LLM inference servers \u2014 works with llama.cpp, Ollama,",
+    "id": "prosaugat/llm-portal",
+    "language": "Python",
+    "name": "prosaugat/llm-portal",
+    "stars": 1,
+    "updated_at": "2026-10-19T07:48:19Z",
+    "url": "https://github.com/prosaugat/llm-portal"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-19T07:45:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61536,
+    "updated_at": "2026-10-19T07:56:12Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
@@ -14,7 +149,7 @@
     "language": "Python",
     "name": "digline/digline",
     "stars": 9,
-    "updated_at": "2026-10-19T07:42:43Z",
+    "updated_at": "2026-10-19T07:50:52Z",
     "url": "https://github.com/digline/digline"
   },
   {
@@ -27,15 +162,6 @@
     "url": "https://github.com/kkrlstrm/runtune"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 1,
-    "updated_at": "2026-10-19T07:39:38Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": "Keras based framework for neuro-symbolic LM systems",
     "id": "SynaLinks/synalinks",
     "language": "Python",
@@ -43,15 +169,6 @@
     "stars": 464,
     "updated_at": "2026-10-19T07:39:17Z",
     "url": "https://github.com/SynaLinks/synalinks"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26131,
-    "updated_at": "2026-10-19T07:37:27Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
@@ -99,20 +216,11 @@
     "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-19T07:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 9375,
+    "stars": 9378,
     "updated_at": "2026-10-19T07:29:27Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -124,15 +232,6 @@
     "stars": 216,
     "updated_at": "2026-10-19T07:29:11Z",
     "url": "https://github.com/Rodiun/frugon"
-  },
-  {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 32,
-    "updated_at": "2026-10-19T07:29:01Z",
-    "url": "https://github.com/SourceShift/mini-ork"
   },
   {
     "description": "A reference architecture for AI features on governed data: 13 decisions with the measured results behind each, an evalua",
@@ -149,7 +248,7 @@
     "language": "TypeScript",
     "name": "burakdede/lorepack",
     "stars": 4,
-    "updated_at": "2026-10-19T07:25:46Z",
+    "updated_at": "2026-10-19T07:50:50Z",
     "url": "https://github.com/burakdede/lorepack"
   },
   {
@@ -185,17 +284,8 @@
     "language": "Python",
     "name": "pom11/hscc",
     "stars": 7,
-    "updated_at": "2026-10-19T07:22:44Z",
+    "updated_at": "2026-10-19T07:58:52Z",
     "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36010,
-    "updated_at": "2026-10-19T07:43:32Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -223,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-10-19T07:18:43Z",
     "url": "https://github.com/Phat1911/Tributary"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22733,
-    "updated_at": "2026-10-19T07:38:17Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "\ud83e\udea2 Langfuse JS/TS SDK",
@@ -356,7 +437,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8912,
-    "updated_at": "2026-10-19T07:38:19Z",
+    "updated_at": "2026-10-19T07:50:35Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -365,88 +446,7 @@
     "language": "Rust",
     "name": "TAIPANBOX/tokenfuse",
     "stars": 1,
-    "updated_at": "2026-10-19T06:55:07Z",
+    "updated_at": "2026-10-19T07:48:23Z",
     "url": "https://github.com/TAIPANBOX/tokenfuse"
-  },
-  {
-    "description": "Product analytics for AI Assistants",
-    "id": "lindakarabacak/trubrics-python",
-    "language": "Python",
-    "name": "lindakarabacak/trubrics-python",
-    "stars": 0,
-    "updated_at": "2026-10-19T06:33:25Z",
-    "url": "https://github.com/lindakarabacak/trubrics-python"
-  },
-  {
-    "description": "The execution control plane for AI agents. Govern every model request, MCP tool call, A2A delegation, and downstream act",
-    "id": "GetBusbar/busbar",
-    "language": "Rust",
-    "name": "GetBusbar/busbar",
-    "stars": 202,
-    "updated_at": "2026-10-19T07:43:41Z",
-    "url": "https://github.com/GetBusbar/busbar"
-  },
-  {
-    "description": "Self-hosted web portal for managing users, API keys, and access to LLM inference servers \u2014 works with llama.cpp, Ollama,",
-    "id": "prosaugat/llm-portal",
-    "language": "Python",
-    "name": "prosaugat/llm-portal",
-    "stars": 1,
-    "updated_at": "2026-10-19T06:30:39Z",
-    "url": "https://github.com/prosaugat/llm-portal"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 3000,
-    "updated_at": "2026-10-19T06:30:20Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Multimodal RAG QA for cosmetics regulation: hybrid retrieval, two-stage reranking, evidence gating that refuses unsuppor",
-    "id": "Xander-Xai/Beauty-Industry-RAG-QA-System",
-    "language": "Python",
-    "name": "Xander-Xai/Beauty-Industry-RAG-QA-System",
-    "stars": 0,
-    "updated_at": "2026-10-19T07:12:18Z",
-    "url": "https://github.com/Xander-Xai/Beauty-Industry-RAG-QA-System"
-  },
-  {
-    "description": "The missing manual for shipping AI agents you can trust. Evals, guardrails and observability for LLM agents and RAG, wit",
-    "id": "Sarangk90/awesome-agent-evals-and-guardrails",
-    "language": "JavaScript",
-    "name": "Sarangk90/awesome-agent-evals-and-guardrails",
-    "stars": 2,
-    "updated_at": "2026-10-19T06:25:41Z",
-    "url": "https://github.com/Sarangk90/awesome-agent-evals-and-guardrails"
-  },
-  {
-    "description": "Product analytics for AI Assistants",
-    "id": "arjun50243/trubrics-python",
-    "language": "Python",
-    "name": "arjun50243/trubrics-python",
-    "stars": 0,
-    "updated_at": "2026-10-19T06:21:19Z",
-    "url": "https://github.com/arjun50243/trubrics-python"
-  },
-  {
-    "description": "Cheaper and better Greptile alternative runs on your own github actions.",
-    "id": "sPandey8540/juror",
-    "language": "TypeScript",
-    "name": "sPandey8540/juror",
-    "stars": 0,
-    "updated_at": "2026-10-19T06:20:26Z",
-    "url": "https://github.com/sPandey8540/juror"
-  },
-  {
-    "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
-    "id": "OmarYoshida/ZizkaDB",
-    "language": "Python",
-    "name": "OmarYoshida/ZizkaDB",
-    "stars": 0,
-    "updated_at": "2026-10-19T06:19:24Z",
-    "url": "https://github.com/OmarYoshida/ZizkaDB"
   }
 ]
