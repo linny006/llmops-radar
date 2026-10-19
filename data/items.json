@@ -1,12 +1,66 @@
 [
   {
-    "description": "Document Q&A with cited answers: an agentic retrieval loop, neural retrieval (bge-m3, Qwen3-Embedding, bge reranker, Qdr",
-    "id": "Muditkumar123/agentic-document-intelligence-platform",
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
     "language": "Python",
-    "name": "Muditkumar123/agentic-document-intelligence-platform",
+    "name": "comet-ml/opik",
+    "stars": 22732,
+    "updated_at": "2026-10-19T09:59:53Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8912,
+    "updated_at": "2026-10-19T09:58:35Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-10-19T09:58:10Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
+    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4980,
+    "updated_at": "2026-10-19T09:58:08Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "LLM gateway with guardrails, cost-aware routing (rules \u00b7 Jev \u00b7 open-source SLMs \u00b7 frontier APIs), and automated evaluati",
+    "id": "rspstat/LLMOps",
+    "language": "Python",
+    "name": "rspstat/LLMOps",
     "stars": 0,
-    "updated_at": "2026-10-19T09:44:07Z",
-    "url": "https://github.com/Muditkumar123/agentic-document-intelligence-platform"
+    "updated_at": "2026-10-19T09:56:44Z",
+    "url": "https://github.com/rspstat/LLMOps"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26134,
+    "updated_at": "2026-10-19T09:56:43Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36014,
+    "updated_at": "2026-10-19T09:55:06Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Layered evaluation suite for LLM/RAG apps: component, end-to-end, quality & red-team safety evals with LLM-as-a-judge (D",
@@ -14,25 +68,70 @@
     "language": "Python",
     "name": "avinashmyerolkar/llm-evaluation-suite",
     "stars": 0,
-    "updated_at": "2026-10-19T09:43:52Z",
+    "updated_at": "2026-10-19T09:53:52Z",
     "url": "https://github.com/avinashmyerolkar/llm-evaluation-suite"
+  },
+  {
+    "description": "The platform for continuously improving AI agents.",
+    "id": "overmind-core/overmind",
+    "language": "Python",
+    "name": "overmind-core/overmind",
+    "stars": 668,
+    "updated_at": "2026-10-19T09:48:17Z",
+    "url": "https://github.com/overmind-core/overmind"
+  },
+  {
+    "description": "Multi-agent LinkedIn branding system with ReAct tool-calling, human-in-the-loop approval and full agent traces. Built fo",
+    "id": "BurraRohan/PersonaAI",
+    "language": "Python",
+    "name": "BurraRohan/PersonaAI",
+    "stars": 0,
+    "updated_at": "2026-10-19T09:48:15Z",
+    "url": "https://github.com/BurraRohan/PersonaAI"
+  },
+  {
+    "description": "Document Q&A with cited answers: an agentic retrieval loop, neural retrieval (bge-m3, Qwen3-Embedding, bge reranker, Qdr",
+    "id": "Muditkumar123/agentic-document-intelligence-platform",
+    "language": "Python",
+    "name": "Muditkumar123/agentic-document-intelligence-platform",
+    "stars": 0,
+    "updated_at": "2026-10-19T09:46:35Z",
+    "url": "https://github.com/Muditkumar123/agentic-document-intelligence-platform"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 681,
+    "updated_at": "2026-10-19T09:45:55Z",
+    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 9386,
-    "updated_at": "2026-10-19T09:43:26Z",
+    "stars": 9388,
+    "updated_at": "2026-10-19T09:45:38Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-19T09:45:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 61548,
-    "updated_at": "2026-10-19T09:40:14Z",
+    "stars": 61550,
+    "updated_at": "2026-10-19T09:51:48Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -43,51 +142,6 @@
     "stars": 3000,
     "updated_at": "2026-10-19T09:37:07Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36013,
-    "updated_at": "2026-10-19T09:41:27Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26133,
-    "updated_at": "2026-10-19T09:34:47Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "The platform for continuously improving AI agents.",
-    "id": "overmind-core/overmind",
-    "language": "Python",
-    "name": "overmind-core/overmind",
-    "stars": 668,
-    "updated_at": "2026-10-19T09:34:23Z",
-    "url": "https://github.com/overmind-core/overmind"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22733,
-    "updated_at": "2026-10-19T09:42:03Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-19T09:30:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
@@ -106,15 +160,6 @@
     "stars": 2573,
     "updated_at": "2026-10-19T09:28:35Z",
     "url": "https://github.com/apache/burr"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 680,
-    "updated_at": "2026-10-19T09:40:44Z",
-    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
@@ -158,7 +203,7 @@
     "language": "Python",
     "name": "digline/digline",
     "stars": 9,
-    "updated_at": "2026-10-19T09:22:38Z",
+    "updated_at": "2026-10-19T09:59:45Z",
     "url": "https://github.com/digline/digline"
   },
   {
@@ -185,7 +230,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28445,
-    "updated_at": "2026-10-19T09:21:01Z",
+    "updated_at": "2026-10-19T09:53:11Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -221,7 +266,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 200,
-    "updated_at": "2026-10-19T09:43:30Z",
+    "updated_at": "2026-10-19T09:54:42Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -266,7 +311,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 2176,
-    "updated_at": "2026-10-19T09:35:31Z",
+    "updated_at": "2026-10-19T09:47:19Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -311,17 +356,8 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 96,
-    "updated_at": "2026-10-19T09:36:44Z",
+    "updated_at": "2026-10-19T09:57:59Z",
     "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4978,
-    "updated_at": "2026-10-19T09:43:29Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
@@ -331,15 +367,6 @@
     "stars": 1071,
     "updated_at": "2026-10-19T08:52:47Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8912,
-    "updated_at": "2026-10-19T09:39:48Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Applied AI engineer in Singapore building production ML, RAG, agent workflows, evals, vision pipelines, and full-stack A",
@@ -419,34 +446,7 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-19T09:12:54Z",
+    "updated_at": "2026-10-19T09:57:16Z",
     "url": "https://github.com/srjn45/warden"
-  },
-  {
-    "description": "Deprecated historical repo. Superlinked now develops SIE, a self-hosted inference engine for embeddings, reranking, OCR,",
-    "id": "superlinked/VectorHub",
-    "language": "Jupyter Notebook",
-    "name": "superlinked/VectorHub",
-    "stars": 532,
-    "updated_at": "2026-10-19T08:16:24Z",
-    "url": "https://github.com/superlinked/VectorHub"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-10-19T08:10:07Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
-    "id": "TAIPANBOX/tokenfuse",
-    "language": "Rust",
-    "name": "TAIPANBOX/tokenfuse",
-    "stars": 1,
-    "updated_at": "2026-10-19T08:05:39Z",
-    "url": "https://github.com/TAIPANBOX/tokenfuse"
   }
 ]
