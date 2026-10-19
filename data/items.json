@@ -1,12 +1,21 @@
 [
   {
-    "description": "Observabilit\u00e9 LiteLLM + vLLM : Prometheus, Grafana (3 dashboards) et rapport mensuel HTML/CSV",
-    "id": "WillIsback/litellm-vllm-observability",
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
     "language": "Python",
-    "name": "WillIsback/litellm-vllm-observability",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 53,
+    "updated_at": "2026-10-19T20:14:51Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
     "stars": 0,
-    "updated_at": "2026-10-19T19:58:50Z",
-    "url": "https://github.com/WillIsback/litellm-vllm-observability"
+    "updated_at": "2026-10-19T20:12:21Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
     "description": "A control layer that decides how an LLM should speak before it speaks",
@@ -14,8 +23,80 @@
     "language": "Python",
     "name": "Furox-Art/eq-layer",
     "stars": 0,
-    "updated_at": "2026-10-19T19:58:38Z",
+    "updated_at": "2026-10-19T20:10:50Z",
     "url": "https://github.com/Furox-Art/eq-layer"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-10-19T20:08:23Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 9422,
+    "updated_at": "2026-10-19T20:07:30Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-19T20:06:27Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61579,
+    "updated_at": "2026-10-19T20:14:50Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The open standard AI gateway \u2014 PII protection, audit, reliability & cost control as composable interceptors. Same API in",
+    "id": "manojmallick/gavio",
+    "language": "Java",
+    "name": "manojmallick/gavio",
+    "stars": 6,
+    "updated_at": "2026-10-19T20:04:53Z",
+    "url": "https://github.com/manojmallick/gavio"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-19T20:11:13Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-19T20:00:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Observabilit\u00e9 LiteLLM + vLLM : Prometheus, Grafana (3 dashboards) et rapport mensuel HTML/CSV",
+    "id": "WillIsback/litellm-vllm-observability",
+    "language": "Python",
+    "name": "WillIsback/litellm-vllm-observability",
+    "stars": 0,
+    "updated_at": "2026-10-19T19:58:50Z",
+    "url": "https://github.com/WillIsback/litellm-vllm-observability"
   },
   {
     "description": "Model-agnostic Agent Skill: keep multiple hypotheses alive, test them against evidence, revive alternatives, collapse to",
@@ -36,15 +117,6 @@
     "url": "https://github.com/vv0vv3r/ModelJoust"
   },
   {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 9421,
-    "updated_at": "2026-10-19T19:55:22Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
     "description": "Genaryx: the browser control room over the TAIPANBOX agent-governance stack. Money, policy, identity, quality, crypto, m",
     "id": "TAIPANBOX/genaryx",
     "language": "Rust",
@@ -59,7 +131,7 @@
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 110,
-    "updated_at": "2026-10-19T19:56:33Z",
+    "updated_at": "2026-10-19T20:14:35Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -86,7 +158,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 36035,
-    "updated_at": "2026-10-19T19:53:59Z",
+    "updated_at": "2026-10-19T20:14:27Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -99,15 +171,6 @@
     "url": "https://github.com/lukasgebhard/tiny-llm-gateway"
   },
   {
-    "description": "Enterprise Scale AIFactory (esml) - on Azure",
-    "id": "jostrm/azure-enterprise-scale-ml",
-    "language": "Python",
-    "name": "jostrm/azure-enterprise-scale-ml",
-    "stars": 53,
-    "updated_at": "2026-10-19T19:48:03Z",
-    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
-  },
-  {
     "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
     "id": "ZIZKA-AI-SL/ZizkaDB",
     "language": "Python",
@@ -115,24 +178,6 @@
     "stars": 143,
     "updated_at": "2026-10-19T19:45:36Z",
     "url": "https://github.com/ZIZKA-AI-SL/ZizkaDB"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-19T19:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61578,
-    "updated_at": "2026-10-19T19:58:53Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Quality evaluation and drift for AI agents: the quality plane of the agent-governance stack",
@@ -221,7 +266,7 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-19T19:48:55Z",
+    "updated_at": "2026-10-19T20:12:21Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -270,15 +315,6 @@
     "url": "https://github.com/Helicone/helicone"
   },
   {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-19T19:04:50Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
     "description": "Synthetic-replica control + observability spine across 16 AI vendors \u2014 policy-as-code, cost drill-down, drift, normalize",
     "id": "jchigg2000-git/air-traffic",
     "language": "Go",
@@ -302,7 +338,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 695,
-    "updated_at": "2026-10-19T19:53:47Z",
+    "updated_at": "2026-10-19T20:11:11Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -331,15 +367,6 @@
     "stars": 2,
     "updated_at": "2026-10-19T18:54:00Z",
     "url": "https://github.com/devproof/devproofai"
-  },
-  {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-19T19:44:40Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
     "description": "AI reliability engineering for production AI agents and LLM applications. Open-source tools and research that find silen",
@@ -383,7 +410,7 @@
     "language": "Python",
     "name": "pom11/hscc",
     "stars": 7,
-    "updated_at": "2026-10-19T18:53:15Z",
+    "updated_at": "2026-10-19T20:05:31Z",
     "url": "https://github.com/pom11/hscc"
   },
   {
@@ -409,7 +436,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26150,
+    "stars": 26151,
     "updated_at": "2026-10-19T18:41:02Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-19T18:40:21Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "See what your Google ADK agent costs (per-invocation USD from token usage) and fail CI when it gets more expensive.",
-    "id": "gaurav-gandhi-2411/adk-tracegauge",
-    "language": "Python",
-    "name": "gaurav-gandhi-2411/adk-tracegauge",
-    "stars": 0,
-    "updated_at": "2026-10-19T18:37:35Z",
-    "url": "https://github.com/gaurav-gandhi-2411/adk-tracegauge"
-  },
-  {
-    "description": "Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio",
-    "id": "naim-munshi/metriqen-llm-serving-optimization",
-    "language": "Python",
-    "name": "naim-munshi/metriqen-llm-serving-optimization",
-    "stars": 0,
-    "updated_at": "2026-10-19T18:36:48Z",
-    "url": "https://github.com/naim-munshi/metriqen-llm-serving-optimization"
-  },
-  {
-    "description": "Open-source sandboxes where coding agents build and deploy. Spin up isolated environments where Claude Code, Cursor, and",
-    "id": "runtm-ai/runtm",
-    "language": "Python",
-    "name": "runtm-ai/runtm",
-    "stars": 302,
-    "updated_at": "2026-10-19T18:34:20Z",
-    "url": "https://github.com/runtm-ai/runtm"
   }
 ]
