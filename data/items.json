@@ -1,12 +1,12 @@
 [
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36021,
-    "updated_at": "2026-10-19T13:00:01Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22736,
+    "updated_at": "2026-10-19T13:14:59Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "A unified .NET abstraction layer for multiple Large Language Model (LLM) providers. Nexus-LLM simplifies integration wit",
@@ -14,17 +14,107 @@
     "language": "Python",
     "name": "brutal-45/Nexus-LLM",
     "stars": 0,
-    "updated_at": "2026-10-19T12:59:24Z",
+    "updated_at": "2026-10-19T13:14:27Z",
     "url": "https://github.com/brutal-45/Nexus-LLM"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
+    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
+    "id": "digline/digline",
     "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22735,
-    "updated_at": "2026-10-19T12:58:47Z",
-    "url": "https://github.com/comet-ml/opik"
+    "name": "digline/digline",
+    "stars": 9,
+    "updated_at": "2026-10-19T13:14:15Z",
+    "url": "https://github.com/digline/digline"
+  },
+  {
+    "description": "\ud83e\udd16 \u041a\u0430\u0442\u0430\u043b\u043e\u0433 \u0418\u0418-\u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u043e\u0432 \u0434\u043b\u044f \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a\u043e\u0432 \u043d\u0430 \u0440\u0443\u0441\u0441\u043a\u043e\u043c (2026): AI-IDE, Cursor, Copilot, Claude Code, Codex, \u0430\u0433\u0435\u043d\u0442\u044b, MCP,",
+    "id": "justxor/awesome-ai-devtools-ru",
+    "language": "\u2014",
+    "name": "justxor/awesome-ai-devtools-ru",
+    "stars": 2,
+    "updated_at": "2026-10-19T13:13:14Z",
+    "url": "https://github.com/justxor/awesome-ai-devtools-ru"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 96,
+    "updated_at": "2026-10-19T13:14:29Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "Painel para operar agentes de IA em produ\u00e7\u00e3o: prompt versionado com rollback, troca de modelo sem reescrever instru\u00e7\u00f5es ",
+    "id": "WellCod/automata",
+    "language": "Python",
+    "name": "WellCod/automata",
+    "stars": 1,
+    "updated_at": "2026-10-19T13:11:18Z",
+    "url": "https://github.com/WellCod/automata"
+  },
+  {
+    "description": "Record, replay and regression-test AI agent runs: ingests OpenTelemetry GenAI traces into PostgreSQL, replays tool calls",
+    "id": "xeeshan16/agent-replay",
+    "language": "Python",
+    "name": "xeeshan16/agent-replay",
+    "stars": 0,
+    "updated_at": "2026-10-19T13:11:02Z",
+    "url": "https://github.com/xeeshan16/agent-replay"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-19T13:09:00Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
+    "id": "prasad-kavuri/prasad-portfolio",
+    "language": "TypeScript",
+    "name": "prasad-kavuri/prasad-portfolio",
+    "stars": 0,
+    "updated_at": "2026-10-19T13:09:53Z",
+    "url": "https://github.com/prasad-kavuri/prasad-portfolio"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 9398,
+    "updated_at": "2026-10-19T13:06:14Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28449,
+    "updated_at": "2026-10-19T13:11:48Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-19T13:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36021,
+    "updated_at": "2026-10-19T13:08:03Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
@@ -144,31 +234,13 @@
     "url": "https://github.com/burakdede/lorepack"
   },
   {
-    "description": "Painel para operar agentes de IA em produ\u00e7\u00e3o: prompt versionado com rollback, troca de modelo sem reescrever instru\u00e7\u00f5es ",
-    "id": "WellCod/automata",
-    "language": "Python",
-    "name": "WellCod/automata",
-    "stars": 1,
-    "updated_at": "2026-10-19T12:55:24Z",
-    "url": "https://github.com/WellCod/automata"
-  },
-  {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
     "id": "future-agi/future-agi",
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 2175,
-    "updated_at": "2026-10-19T12:53:02Z",
+    "updated_at": "2026-10-19T13:14:18Z",
     "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-19T12:45:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Multimodal RAG QA for cosmetics regulation: hybrid retrieval, two-stage reranking, evidence gating that refuses unsuppor",
@@ -216,21 +288,12 @@
     "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28448,
-    "updated_at": "2026-10-19T13:00:16Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4982,
-    "updated_at": "2026-10-19T12:52:46Z",
+    "updated_at": "2026-10-19T13:11:39Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -250,15 +313,6 @@
     "stars": 61561,
     "updated_at": "2026-10-19T12:26:33Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
-    "id": "digline/digline",
-    "language": "Python",
-    "name": "digline/digline",
-    "stars": 9,
-    "updated_at": "2026-10-19T12:26:24Z",
-    "url": "https://github.com/digline/digline"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -306,15 +360,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-19T12:09:34Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
     "description": "ClearML Agent - MLOps/LLMOps made easy. MLOps/LLMOps scheduler & orchestration solution",
     "id": "clearml/clearml-agent",
     "language": "Python",
@@ -331,15 +376,6 @@
     "stars": 22,
     "updated_at": "2026-10-19T12:08:02Z",
     "url": "https://github.com/dyronrh/awesome-agentops-landscape"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 9397,
-    "updated_at": "2026-10-19T12:54:51Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "Local codebase assistant with hybrid retrieval, grounded answers, evaluation, and tracing.",
@@ -392,7 +428,7 @@
     "language": "Python",
     "name": "pom11/hscc",
     "stars": 7,
-    "updated_at": "2026-10-19T11:51:01Z",
+    "updated_at": "2026-10-19T13:01:33Z",
     "url": "https://github.com/pom11/hscc"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-19T11:49:09Z",
     "url": "https://github.com/api-evangelist/tensorzero"
-  },
-  {
-    "description": "LLM observability and evals. Trace every call, score results, and manage prompts and datasets. Live demo and details on ",
-    "id": "Muhammad-Adil-code/Tracelight",
-    "language": "TypeScript",
-    "name": "Muhammad-Adil-code/Tracelight",
-    "stars": 0,
-    "updated_at": "2026-10-19T11:43:54Z",
-    "url": "https://github.com/Muhammad-Adil-code/Tracelight"
-  },
-  {
-    "description": "Qwak \u2014 independent third-party profile of a public API surface, by API Evangelist. Qwak is an end-to-end production mach",
-    "id": "api-evangelist/qwak",
-    "language": "\u2014",
-    "name": "api-evangelist/qwak",
-    "stars": 0,
-    "updated_at": "2026-10-19T11:39:29Z",
-    "url": "https://github.com/api-evangelist/qwak"
-  },
-  {
-    "description": "Raindrop \u2014 independent third-party profile of a public API surface, by API Evangelist. Raindrop is the monitoring and ob",
-    "id": "api-evangelist/raindrop",
-    "language": "\u2014",
-    "name": "api-evangelist/raindrop",
-    "stars": 0,
-    "updated_at": "2026-10-19T11:39:25Z",
-    "url": "https://github.com/api-evangelist/raindrop"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 96,
-    "updated_at": "2026-10-19T12:41:40Z",
-    "url": "https://github.com/mloda-ai/mloda"
   }
 ]
