@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-19 10:44 UTC
+> ⏰ Last updated: 2026-10-19 10:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,15 +42,15 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [alebgl77/awesome-ai-architect](https://github.com/alebgl77/awesome-ai-architect) | 0 | Python | 2026-10-19 | A self-updating, auto-classified map of the GenAI engineering stack: agents, MCP, memory, RAG, evals, LLMOps, AI securit |
-| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26135 | TypeScript | 2026-10-19 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 3 | [rustrak/llmtrack](https://github.com/rustrak/llmtrack) | 1 | Rust | 2026-10-19 | Self-hosted LLM gateway in Rust: one OpenAI-compatible API for OpenAI, Anthropic, Gemini, Azure, Ollama and more, with v |
-| 4 | [comet-ml/opik](https://github.com/comet-ml/opik) | 22733 | Python | 2026-10-19 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
-| 5 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 61552 | Python | 2026-10-19 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 6 | [mozilla-ai/otari](https://github.com/mozilla-ai/otari) | 681 | Python | 2026-10-19 | Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, |
-| 7 | [overmind-core/overmind](https://github.com/overmind-core/overmind) | 668 | Python | 2026-10-19 | The platform for continuously improving AI agents. |
-| 8 | [GeiserX/LynxPrompt](https://github.com/GeiserX/LynxPrompt) | 53 | TypeScript | 2026-10-19 | Self-hosted & federated platform for AI IDE/Tools Rules and Commands via WebUI & CLI - Generate, browse, store, share AG |
-| 9 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-19 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-19 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [alebgl77/awesome-ai-architect](https://github.com/alebgl77/awesome-ai-architect) | 0 | Python | 2026-10-19 | A self-updating, auto-classified map of the GenAI engineering stack: agents, MCP, memory, RAG, evals, LLMOps, AI securit |
+| 3 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26135 | TypeScript | 2026-10-19 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 4 | [rustrak/llmtrack](https://github.com/rustrak/llmtrack) | 1 | Rust | 2026-10-19 | Self-hosted LLM gateway in Rust: one OpenAI-compatible API for OpenAI, Anthropic, Gemini, Azure, Ollama and more, with v |
+| 5 | [comet-ml/opik](https://github.com/comet-ml/opik) | 22733 | Python | 2026-10-19 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
+| 6 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 61552 | Python | 2026-10-19 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 7 | [mozilla-ai/otari](https://github.com/mozilla-ai/otari) | 681 | Python | 2026-10-19 | Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, |
+| 8 | [overmind-core/overmind](https://github.com/overmind-core/overmind) | 668 | Python | 2026-10-19 | The platform for continuously improving AI agents. |
+| 9 | [GeiserX/LynxPrompt](https://github.com/GeiserX/LynxPrompt) | 53 | TypeScript | 2026-10-19 | Self-hosted & federated platform for AI IDE/Tools Rules and Commands via WebUI & CLI - Generate, browse, store, share AG |
 | 10 | [digline/digline-action](https://github.com/digline/digline-action) | 0 | Shell | 2026-10-19 | Regression gate for LLM applications in CI: a GitHub Action that fails a pull request when it scores worse than the comm |
 | 11 | [AcruxCore/AcruxCore](https://github.com/AcruxCore/AcruxCore) | 11 | TypeScript | 2026-10-19 | Open-source LLMOps platform with prompt management, an OpenAI-compatible AI gateway, OpenTelemetry tracing, a versioned  |
 | 12 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 28446 | Python | 2026-10-19 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
