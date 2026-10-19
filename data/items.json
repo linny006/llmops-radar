@@ -1,5 +1,176 @@
 [
   {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36021,
+    "updated_at": "2026-10-19T13:00:01Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "A unified .NET abstraction layer for multiple Large Language Model (LLM) providers. Nexus-LLM simplifies integration wit",
+    "id": "brutal-45/Nexus-LLM",
+    "language": "Python",
+    "name": "brutal-45/Nexus-LLM",
+    "stars": 0,
+    "updated_at": "2026-10-19T12:59:24Z",
+    "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22735,
+    "updated_at": "2026-10-19T12:58:47Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
+    "id": "JoniMartin27/lookspan",
+    "language": "TypeScript",
+    "name": "JoniMartin27/lookspan",
+    "stars": 7,
+    "updated_at": "2026-10-19T12:58:14Z",
+    "url": "https://github.com/JoniMartin27/lookspan"
+  },
+  {
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
+    "language": "Python",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 53,
+    "updated_at": "2026-10-19T12:58:17Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
+    "description": "Private document assistant for teams: answers only from your own Drive documents, every claim cited and verified, or an ",
+    "id": "TayebKahia/grounded-docs",
+    "language": "\u2014",
+    "name": "TayebKahia/grounded-docs",
+    "stars": 0,
+    "updated_at": "2026-10-19T12:56:31Z",
+    "url": "https://github.com/TayebKahia/grounded-docs"
+  },
+  {
+    "description": "14 zero-dependency gates that stop AI-agent failures before they ship.",
+    "id": "chenhz01/agent-gates",
+    "language": "Python",
+    "name": "chenhz01/agent-gates",
+    "stars": 0,
+    "updated_at": "2026-10-19T12:53:53Z",
+    "url": "https://github.com/chenhz01/agent-gates"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 32,
+    "updated_at": "2026-10-19T12:51:30Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Your cost model is only as good as the price table under it.",
+    "id": "chenhz01/price-gate",
+    "language": "Python",
+    "name": "chenhz01/price-gate",
+    "stars": 0,
+    "updated_at": "2026-10-19T12:50:55Z",
+    "url": "https://github.com/chenhz01/price-gate"
+  },
+  {
+    "description": "Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF\u2194Bedrock mapping (US regions) with a free st",
+    "id": "scttfrdmn/hf-bedrock-map",
+    "language": "Go",
+    "name": "scttfrdmn/hf-bedrock-map",
+    "stars": 1,
+    "updated_at": "2026-10-19T12:50:28Z",
+    "url": "https://github.com/scttfrdmn/hf-bedrock-map"
+  },
+  {
+    "description": "Give every memory a TTL, then prove the expiry semantics actually hold.",
+    "id": "chenhz01/memory-expiry-gate",
+    "language": "Python",
+    "name": "chenhz01/memory-expiry-gate",
+    "stars": 0,
+    "updated_at": "2026-10-19T12:50:04Z",
+    "url": "https://github.com/chenhz01/memory-expiry-gate"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 23,
+    "updated_at": "2026-10-19T12:49:02Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "Score how much more your agent can do than it should.",
+    "id": "chenhz01/permission-gate",
+    "language": "Python",
+    "name": "chenhz01/permission-gate",
+    "stars": 0,
+    "updated_at": "2026-10-19T12:49:01Z",
+    "url": "https://github.com/chenhz01/permission-gate"
+  },
+  {
+    "description": "Find where your agent looped, before it burns another run.",
+    "id": "chenhz01/loop-gate",
+    "language": "Python",
+    "name": "chenhz01/loop-gate",
+    "stars": 0,
+    "updated_at": "2026-10-19T12:48:47Z",
+    "url": "https://github.com/chenhz01/loop-gate"
+  },
+  {
+    "description": "Analyze a coding session log and report repeated tool calls, loops that went nowhere, and turns that blew the token budg",
+    "id": "yunaremaia/agent-call-graph",
+    "language": "Python",
+    "name": "yunaremaia/agent-call-graph",
+    "stars": 0,
+    "updated_at": "2026-10-19T12:46:35Z",
+    "url": "https://github.com/yunaremaia/agent-call-graph"
+  },
+  {
+    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
+    "id": "burakdede/lorepack",
+    "language": "TypeScript",
+    "name": "burakdede/lorepack",
+    "stars": 4,
+    "updated_at": "2026-10-19T12:46:10Z",
+    "url": "https://github.com/burakdede/lorepack"
+  },
+  {
+    "description": "Painel para operar agentes de IA em produ\u00e7\u00e3o: prompt versionado com rollback, troca de modelo sem reescrever instru\u00e7\u00f5es ",
+    "id": "WellCod/automata",
+    "language": "Python",
+    "name": "WellCod/automata",
+    "stars": 1,
+    "updated_at": "2026-10-19T12:55:24Z",
+    "url": "https://github.com/WellCod/automata"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 2175,
+    "updated_at": "2026-10-19T12:53:02Z",
+    "url": "https://github.com/future-agi/future-agi"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-19T12:45:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Multimodal RAG QA for cosmetics regulation: hybrid retrieval, two-stage reranking, evidence gating that refuses unsuppor",
     "id": "Xander-Xai/Beauty-Industry-RAG-QA-System",
     "language": "Python",
@@ -14,7 +185,7 @@
     "language": "TypeScript",
     "name": "iblai/os",
     "stars": 821,
-    "updated_at": "2026-10-19T12:44:42Z",
+    "updated_at": "2026-10-19T12:54:29Z",
     "url": "https://github.com/iblai/os"
   },
   {
@@ -31,8 +202,8 @@
     "id": "mozilla-ai/otari",
     "language": "Python",
     "name": "mozilla-ai/otari",
-    "stars": 688,
-    "updated_at": "2026-10-19T12:39:21Z",
+    "stars": 689,
+    "updated_at": "2026-10-19T12:51:40Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -45,76 +216,22 @@
     "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36021,
-    "updated_at": "2026-10-19T12:45:24Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Your cost model is only as good as the price table under it.",
-    "id": "chenhz01/price-gate",
-    "language": "Python",
-    "name": "chenhz01/price-gate",
-    "stars": 0,
-    "updated_at": "2026-10-19T12:37:48Z",
-    "url": "https://github.com/chenhz01/price-gate"
-  },
-  {
-    "description": "Give every memory a TTL, then prove the expiry semantics actually hold.",
-    "id": "chenhz01/memory-expiry-gate",
-    "language": "Python",
-    "name": "chenhz01/memory-expiry-gate",
-    "stars": 0,
-    "updated_at": "2026-10-19T12:37:21Z",
-    "url": "https://github.com/chenhz01/memory-expiry-gate"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 28447,
-    "updated_at": "2026-10-19T12:36:54Z",
+    "stars": 28448,
+    "updated_at": "2026-10-19T13:00:16Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Score how much more your agent can do than it should.",
-    "id": "chenhz01/permission-gate",
-    "language": "Python",
-    "name": "chenhz01/permission-gate",
-    "stars": 0,
-    "updated_at": "2026-10-19T12:36:24Z",
-    "url": "https://github.com/chenhz01/permission-gate"
-  },
-  {
-    "description": "Find where your agent looped, before it burns another run.",
-    "id": "chenhz01/loop-gate",
-    "language": "Python",
-    "name": "chenhz01/loop-gate",
-    "stars": 0,
-    "updated_at": "2026-10-19T12:36:10Z",
-    "url": "https://github.com/chenhz01/loop-gate"
-  },
-  {
-    "description": "14 zero-dependency gates that stop AI-agent failures before they ship.",
-    "id": "chenhz01/agent-gates",
-    "language": "Python",
-    "name": "chenhz01/agent-gates",
-    "stars": 0,
-    "updated_at": "2026-10-19T12:35:55Z",
-    "url": "https://github.com/chenhz01/agent-gates"
-  },
-  {
-    "description": "Enterprise Scale AIFactory (esml) - on Azure",
-    "id": "jostrm/azure-enterprise-scale-ml",
-    "language": "Python",
-    "name": "jostrm/azure-enterprise-scale-ml",
-    "stars": 53,
-    "updated_at": "2026-10-19T12:31:50Z",
-    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4982,
+    "updated_at": "2026-10-19T12:52:46Z",
+    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
@@ -124,15 +241,6 @@
     "stars": 3000,
     "updated_at": "2026-10-19T12:31:09Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-19T12:30:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -153,13 +261,13 @@
     "url": "https://github.com/digline/digline"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
     "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22734,
-    "updated_at": "2026-10-19T12:44:08Z",
-    "url": "https://github.com/comet-ml/opik"
+    "name": "Arize-ai/phoenix",
+    "stars": 11910,
+    "updated_at": "2026-10-19T12:19:35Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "The open-source agentic framework to build, orchestrate, and operate production AI agents.",
@@ -225,21 +333,12 @@
     "url": "https://github.com/dyronrh/awesome-agentops-landscape"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11909,
-    "updated_at": "2026-10-19T12:19:35Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 9396,
-    "updated_at": "2026-10-19T12:02:36Z",
+    "stars": 9397,
+    "updated_at": "2026-10-19T12:54:51Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
@@ -324,15 +423,6 @@
     "url": "https://github.com/Muhammad-Adil-code/Tracelight"
   },
   {
-    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4981,
-    "updated_at": "2026-10-19T12:35:28Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "Qwak \u2014 independent third-party profile of a public API surface, by API Evangelist. Qwak is an end-to-end production mach",
     "id": "api-evangelist/qwak",
     "language": "\u2014",
@@ -358,95 +448,5 @@
     "stars": 96,
     "updated_at": "2026-10-19T12:41:40Z",
     "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "Template repository for plugin creation for mloda.ai ",
-    "id": "mloda-ai/mloda-plugin-template",
-    "language": "Python",
-    "name": "mloda-ai/mloda-plugin-template",
-    "stars": 1,
-    "updated_at": "2026-10-19T11:28:23Z",
-    "url": "https://github.com/mloda-ai/mloda-plugin-template"
-  },
-  {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-19T12:16:57Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
-    "description": "Open-source LLM observability. See every prompt, completion, token, cost, latency and error as traces and sessions. Pyth",
-    "id": "dheerajkarwasra/spanlight",
-    "language": "Python",
-    "name": "dheerajkarwasra/spanlight",
-    "stars": 0,
-    "updated_at": "2026-10-19T11:52:18Z",
-    "url": "https://github.com/dheerajkarwasra/spanlight"
-  },
-  {
-    "description": "50+ curated LLM observability tools PLUS 26 Agent Skills (several with runnable, unit-tested scripts) to build, evaluate",
-    "id": "ContextJet-ai/awesome-llm-observability",
-    "language": "Python",
-    "name": "ContextJet-ai/awesome-llm-observability",
-    "stars": 42,
-    "updated_at": "2026-10-19T11:26:55Z",
-    "url": "https://github.com/ContextJet-ai/awesome-llm-observability"
-  },
-  {
-    "description": "Curated list of open-source LLMOps tools: tracing, evals, AI gateways, guardrails and prompt management. Sorted by stars",
-    "id": "talhaanwarch/awesome-llmops-platforms",
-    "language": "Python",
-    "name": "talhaanwarch/awesome-llmops-platforms",
-    "stars": 38,
-    "updated_at": "2026-10-19T11:25:34Z",
-    "url": "https://github.com/talhaanwarch/awesome-llmops-platforms"
-  },
-  {
-    "description": "Dify \u2014 independent third-party profile of a public API surface, by API Evangelist. Dify is an open-source platform for b",
-    "id": "api-evangelist/dify",
-    "language": "\u2014",
-    "name": "api-evangelist/dify",
-    "stars": 0,
-    "updated_at": "2026-10-19T11:15:07Z",
-    "url": "https://github.com/api-evangelist/dify"
-  },
-  {
-    "description": "AI platform reference architecture for LLM serving on Kubernetes, with reliability, observability, failure testing, and ",
-    "id": "asadhanif3188/InferOps",
-    "language": "Python",
-    "name": "asadhanif3188/InferOps",
-    "stars": 0,
-    "updated_at": "2026-10-19T11:14:10Z",
-    "url": "https://github.com/asadhanif3188/InferOps"
-  },
-  {
-    "description": "Comet \u2014 independent third-party profile of a public API surface, by API Evangelist. Comet is an enterprise AI/ML develop",
-    "id": "api-evangelist/comet",
-    "language": "\u2014",
-    "name": "api-evangelist/comet",
-    "stars": 0,
-    "updated_at": "2026-10-19T11:11:35Z",
-    "url": "https://github.com/api-evangelist/comet"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-10-19T11:09:56Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 200,
-    "updated_at": "2026-10-19T11:02:14Z",
-    "url": "https://github.com/api7/aisix"
   }
 ]
