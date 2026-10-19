@@ -1,5 +1,41 @@
 [
   {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 9366,
+    "updated_at": "2026-10-19T05:29:19Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code \u2014 V3 prototype runs ",
+    "id": "MongLong0214/jev-gate",
+    "language": "TypeScript",
+    "name": "MongLong0214/jev-gate",
+    "stars": 3,
+    "updated_at": "2026-10-19T05:28:26Z",
+    "url": "https://github.com/MongLong0214/jev-gate"
+  },
+  {
+    "description": "AI platform reference architecture for LLM serving on Kubernetes, with reliability, observability, failure testing, and ",
+    "id": "asadhanif3188/InferOps",
+    "language": "Python",
+    "name": "asadhanif3188/InferOps",
+    "stars": 0,
+    "updated_at": "2026-10-19T05:20:00Z",
+    "url": "https://github.com/asadhanif3188/InferOps"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-19T05:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "pytest plugin that runs your LLM app under controlled chaos (timeouts, brownouts, rate limits, MCP errors, composed fail",
     "id": "golikovichev/pytest-resilience-agent",
     "language": "Python",
@@ -9,21 +45,12 @@
     "url": "https://github.com/golikovichev/pytest-resilience-agent"
   },
   {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 9366,
-    "updated_at": "2026-10-19T05:12:57Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
     "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4977,
-    "updated_at": "2026-10-19T05:13:11Z",
+    "updated_at": "2026-10-19T05:16:08Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -45,15 +72,6 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-19T05:02:44Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
     "id": "vivek-541/vivek-541",
     "language": "HTML",
@@ -67,7 +85,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 61524,
+    "stars": 61525,
     "updated_at": "2026-10-19T04:59:03Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -104,7 +122,7 @@
     "language": "Python",
     "name": "overmind-core/overmind",
     "stars": 668,
-    "updated_at": "2026-10-19T05:09:54Z",
+    "updated_at": "2026-10-19T05:26:37Z",
     "url": "https://github.com/overmind-core/overmind"
   },
   {
@@ -126,15 +144,6 @@
     "url": "https://github.com/pom11/hscc"
   },
   {
-    "description": "Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code \u2014 V3 prototype runs ",
-    "id": "MongLong0214/jev-gate",
-    "language": "TypeScript",
-    "name": "MongLong0214/jev-gate",
-    "stars": 3,
-    "updated_at": "2026-10-19T05:08:44Z",
-    "url": "https://github.com/MongLong0214/jev-gate"
-  },
-  {
     "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
     "id": "coze-dev/coze-loop",
     "language": "Go",
@@ -149,7 +158,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8910,
-    "updated_at": "2026-10-19T04:48:22Z",
+    "updated_at": "2026-10-19T05:19:49Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -167,7 +176,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1363,
-    "updated_at": "2026-10-19T05:00:05Z",
+    "updated_at": "2026-10-19T05:23:10Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -266,7 +275,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 200,
-    "updated_at": "2026-10-19T03:16:32Z",
+    "updated_at": "2026-10-19T05:27:24Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -346,7 +355,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26125,
+    "stars": 26126,
     "updated_at": "2026-10-19T02:36:10Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -355,7 +364,7 @@
     "id": "mozilla-ai/otari",
     "language": "Python",
     "name": "mozilla-ai/otari",
-    "stars": 669,
+    "stars": 670,
     "updated_at": "2026-10-19T02:25:36Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-19T01:23:21Z",
     "url": "https://github.com/hjongc/openrouter-endpoint-watch"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5910,
-    "updated_at": "2026-10-19T04:54:54Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   }
 ]
