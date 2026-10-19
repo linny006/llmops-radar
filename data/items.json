@@ -1,12 +1,84 @@
 [
   {
+    "description": "HSAAI is an independent, sovereign, self-hosted enterprise AI platform developed by Haithim Nasher using an AI engineeri",
+    "id": "HSA-AI/HSAAI",
+    "language": "Python",
+    "name": "HSA-AI/HSAAI",
+    "stars": 1,
+    "updated_at": "2026-10-19T22:59:04Z",
+    "url": "https://github.com/HSA-AI/HSAAI"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61584,
+    "updated_at": "2026-10-19T22:58:37Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-19T22:57:52Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
     "id": "llmspendguard/llm-spendguard",
     "language": "Python",
     "name": "llmspendguard/llm-spendguard",
     "stars": 0,
-    "updated_at": "2026-10-19T22:43:50Z",
+    "updated_at": "2026-10-19T22:57:31Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-19T22:58:48Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "",
+    "id": "ainsel-project/ainsel",
+    "language": "Go",
+    "name": "ainsel-project/ainsel",
+    "stars": 2,
+    "updated_at": "2026-10-19T22:52:32Z",
+    "url": "https://github.com/ainsel-project/ainsel"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-19T22:47:20Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Observabilit\u00e9 LiteLLM + vLLM : Prometheus, Grafana (3 dashboards) et rapport mensuel HTML/CSV",
+    "id": "WillIsback/litellm-vllm-observability",
+    "language": "Python",
+    "name": "WillIsback/litellm-vllm-observability",
+    "stars": 0,
+    "updated_at": "2026-10-19T22:46:20Z",
+    "url": "https://github.com/WillIsback/litellm-vllm-observability"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-19T22:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
@@ -18,15 +90,6 @@
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-19T22:39:22Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
     "description": "A local flight recorder for AI coding agents and LLM runtimes. Passes OpenAI-compatible traffic through (e.g. OpenCode o",
     "id": "murillojndem/agent-splice",
     "language": "C#",
@@ -34,24 +97,6 @@
     "stars": 0,
     "updated_at": "2026-10-19T22:41:40Z",
     "url": "https://github.com/murillojndem/agent-splice"
-  },
-  {
-    "description": "HSAAI is an independent, sovereign, self-hosted enterprise AI platform developed by Haithim Nasher using an AI engineeri",
-    "id": "HSA-AI/HSAAI",
-    "language": "Python",
-    "name": "HSA-AI/HSAAI",
-    "stars": 1,
-    "updated_at": "2026-10-19T22:36:55Z",
-    "url": "https://github.com/HSA-AI/HSAAI"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61584,
-    "updated_at": "2026-10-19T22:44:21Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
@@ -81,21 +126,12 @@
     "url": "https://github.com/vivek-541/vivek-541"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-19T22:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
     "id": "NVIDIA-NeMo/nemo-helix",
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 111,
-    "updated_at": "2026-10-19T22:40:59Z",
+    "updated_at": "2026-10-19T23:00:12Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -106,6 +142,33 @@
     "stars": 53,
     "updated_at": "2026-10-19T22:31:01Z",
     "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36040,
+    "updated_at": "2026-10-19T22:26:24Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 697,
+    "updated_at": "2026-10-19T22:58:35Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
+    "id": "lmnr-ai/lmnr",
+    "language": "TypeScript",
+    "name": "lmnr-ai/lmnr",
+    "stars": 3413,
+    "updated_at": "2026-10-19T22:21:34Z",
+    "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
     "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
@@ -171,24 +234,6 @@
     "url": "https://github.com/manojmallick/gavio"
   },
   {
-    "description": "",
-    "id": "ainsel-project/ainsel",
-    "language": "Go",
-    "name": "ainsel-project/ainsel",
-    "stars": 2,
-    "updated_at": "2026-10-19T22:45:03Z",
-    "url": "https://github.com/ainsel-project/ainsel"
-  },
-  {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-19T22:01:33Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
     "description": "LocalPilot is a Python application that helps nontechnical users discover, install, run, monitor, update and remove loca",
     "id": "fakhruldeen/LocalPilot",
     "language": "Python",
@@ -205,15 +250,6 @@
     "stars": 111,
     "updated_at": "2026-10-19T22:28:47Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36039,
-    "updated_at": "2026-10-19T22:26:24Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Open, reproducible benchmark for LLM routing efficiency: verify routing-savings claims yourself. On a fresh split the mo",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-19T21:04:13Z",
     "url": "https://github.com/Pamela88457/ZizkaDB"
-  },
-  {
-    "description": "Product analytics for AI Assistants",
-    "id": "supachaimills/trubrics-python",
-    "language": "Python",
-    "name": "supachaimills/trubrics-python",
-    "stars": 0,
-    "updated_at": "2026-10-19T21:00:24Z",
-    "url": "https://github.com/supachaimills/trubrics-python"
-  },
-  {
-    "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
-    "id": "ursula815/ZizkaDB",
-    "language": "Python",
-    "name": "ursula815/ZizkaDB",
-    "stars": 0,
-    "updated_at": "2026-10-19T21:00:12Z",
-    "url": "https://github.com/ursula815/ZizkaDB"
-  },
-  {
-    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
-    "id": "laylahayashi/awesome-ai-gateway",
-    "language": "CSS",
-    "name": "laylahayashi/awesome-ai-gateway",
-    "stars": 0,
-    "updated_at": "2026-10-19T20:59:50Z",
-    "url": "https://github.com/laylahayashi/awesome-ai-gateway"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 696,
-    "updated_at": "2026-10-19T22:25:22Z",
-    "url": "https://github.com/mozilla-ai/otari"
   }
 ]
