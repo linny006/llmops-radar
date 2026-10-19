@@ -1,5 +1,77 @@
 [
   {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8910,
+    "updated_at": "2026-10-19T01:28:57Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "Open-source LLM observability. See every prompt, completion, token, cost, latency and error as traces and sessions. Pyth",
+    "id": "dheerajkarwasra/spanlight",
+    "language": "Python",
+    "name": "dheerajkarwasra/spanlight",
+    "stars": 0,
+    "updated_at": "2026-10-19T01:25:58Z",
+    "url": "https://github.com/dheerajkarwasra/spanlight"
+  },
+  {
+    "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
+    "id": "hjongc/openrouter-endpoint-watch",
+    "language": "Python",
+    "name": "hjongc/openrouter-endpoint-watch",
+    "stars": 0,
+    "updated_at": "2026-10-19T01:23:21Z",
+    "url": "https://github.com/hjongc/openrouter-endpoint-watch"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2996,
+    "updated_at": "2026-10-19T01:23:03Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "An industrial engineering curriculum for transitioning teams from stochastic prompting to deterministic, traceable AI-as",
+    "id": "bdchang403/AI_Software_Foundations",
+    "language": "Python",
+    "name": "bdchang403/AI_Software_Foundations",
+    "stars": 0,
+    "updated_at": "2026-10-19T01:22:10Z",
+    "url": "https://github.com/bdchang403/AI_Software_Foundations"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-19T01:21:39Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28439,
+    "updated_at": "2026-10-19T01:20:19Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-19T01:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\u7aef\u5230\u7aef\u667a\u80fd\u4f53\u5e73\u53f0\uff1a\u628a\u672c\u673a\u7684 AI Agent \u53d8\u6210\u4eba\u4eba\u53ef\u7528\u7684 Web \u4ea7\u54c1\uff08Vue 3 + Flask + Go WS \u7f51\u5173 + Docker \u90e8\u7f72\uff09",
     "id": "liaosiliangCodeLife/harness-mate-plat",
     "language": "Python",
@@ -14,8 +86,17 @@
     "language": "Python",
     "name": "abdullahimohamed101/agent-black-box",
     "stars": 0,
-    "updated_at": "2026-10-19T01:13:37Z",
+    "updated_at": "2026-10-19T01:16:44Z",
     "url": "https://github.com/abdullahimohamed101/agent-black-box"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 30635,
+    "updated_at": "2026-10-19T01:01:44Z",
+    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
@@ -34,15 +115,6 @@
     "stars": 32,
     "updated_at": "2026-10-19T01:00:47Z",
     "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-19T01:00:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI investigator for healthcare data pipeline incidents: read-only tools, mechanically verified evidence, calibrated abst",
@@ -95,7 +167,7 @@
     "language": "Python",
     "name": "orq-ai/orq-arena",
     "stars": 23,
-    "updated_at": "2026-10-19T00:47:20Z",
+    "updated_at": "2026-10-19T01:21:45Z",
     "url": "https://github.com/orq-ai/orq-arena"
   },
   {
@@ -106,24 +178,6 @@
     "stars": 4,
     "updated_at": "2026-10-19T00:46:50Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8910,
-    "updated_at": "2026-10-19T01:09:09Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28439,
-    "updated_at": "2026-10-19T01:03:19Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
@@ -142,15 +196,6 @@
     "stars": 22725,
     "updated_at": "2026-10-19T01:11:37Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-19T00:15:24Z",
-    "url": "https://github.com/toxicwind/ranch"
   },
   {
     "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
@@ -178,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T23:58:22Z",
     "url": "https://github.com/brunovicco/governed-llm-gateway"
-  },
-  {
-    "description": "Open-source LLM observability. See every prompt, completion, token, cost, latency and error as traces and sessions. Pyth",
-    "id": "dheerajkarwasra/spanlight",
-    "language": "Python",
-    "name": "dheerajkarwasra/spanlight",
-    "stars": 0,
-    "updated_at": "2026-10-18T23:54:58Z",
-    "url": "https://github.com/dheerajkarwasra/spanlight"
   },
   {
     "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
@@ -248,17 +284,8 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-19T01:15:20Z",
+    "updated_at": "2026-10-19T01:23:50Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
-    "description": "An industrial engineering curriculum for transitioning teams from stochastic prompting to deterministic, traceable AI-as",
-    "id": "bdchang403/AI_Software_Foundations",
-    "language": "Python",
-    "name": "bdchang403/AI_Software_Foundations",
-    "stars": 0,
-    "updated_at": "2026-10-18T23:26:19Z",
-    "url": "https://github.com/bdchang403/AI_Software_Foundations"
   },
   {
     "description": "The open standard AI gateway \u2014 PII protection, audit, reliability & cost control as composable interceptors. Same API in",
@@ -268,15 +295,6 @@
     "stars": 6,
     "updated_at": "2026-10-18T23:17:58Z",
     "url": "https://github.com/manojmallick/gavio"
-  },
-  {
-    "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
-    "id": "hjongc/openrouter-endpoint-watch",
-    "language": "Python",
-    "name": "hjongc/openrouter-endpoint-watch",
-    "stars": 0,
-    "updated_at": "2026-10-18T23:16:56Z",
-    "url": "https://github.com/hjongc/openrouter-endpoint-watch"
   },
   {
     "description": "Client packages for AER: the flight recorder for AI agents",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-18T21:50:16Z",
     "url": "https://github.com/Yash-Chindam/llm-security-agent-guardrail-gateway"
-  },
-  {
-    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4975,
-    "updated_at": "2026-10-18T21:49:04Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Personal agentic AI assistant: LangGraph orchestration, CrewAI specialist crews, MCP tools, Obsidian memory, human-in-th",
-    "id": "Siddhu-6/Synapse",
-    "language": "Python",
-    "name": "Siddhu-6/Synapse",
-    "stars": 1,
-    "updated_at": "2026-10-18T21:42:38Z",
-    "url": "https://github.com/Siddhu-6/Synapse"
   }
 ]
