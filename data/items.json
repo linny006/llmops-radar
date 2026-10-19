@@ -1,5 +1,95 @@
 [
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22734,
+    "updated_at": "2026-10-19T11:44:21Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "LLM observability and evals. Trace every call, score results, and manage prompts and datasets. Live demo and details on ",
+    "id": "Muhammad-Adil-code/Tracelight",
+    "language": "TypeScript",
+    "name": "Muhammad-Adil-code/Tracelight",
+    "stars": 0,
+    "updated_at": "2026-10-19T11:43:54Z",
+    "url": "https://github.com/Muhammad-Adil-code/Tracelight"
+  },
+  {
+    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4981,
+    "updated_at": "2026-10-19T11:43:51Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Qwak \u2014 independent third-party profile of a public API surface, by API Evangelist. Qwak is an end-to-end production mach",
+    "id": "api-evangelist/qwak",
+    "language": "\u2014",
+    "name": "api-evangelist/qwak",
+    "stars": 0,
+    "updated_at": "2026-10-19T11:39:29Z",
+    "url": "https://github.com/api-evangelist/qwak"
+  },
+  {
+    "description": "Raindrop \u2014 independent third-party profile of a public API surface, by API Evangelist. Raindrop is the monitoring and ob",
+    "id": "api-evangelist/raindrop",
+    "language": "\u2014",
+    "name": "api-evangelist/raindrop",
+    "stars": 0,
+    "updated_at": "2026-10-19T11:39:25Z",
+    "url": "https://github.com/api-evangelist/raindrop"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 9393,
+    "updated_at": "2026-10-19T11:38:29Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 683,
+    "updated_at": "2026-10-19T11:42:02Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36017,
+    "updated_at": "2026-10-19T11:34:51Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 96,
+    "updated_at": "2026-10-19T11:35:58Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-19T11:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Template repository for plugin creation for mloda.ai ",
     "id": "mloda-ai/mloda-plugin-template",
     "language": "Python",
@@ -23,7 +113,7 @@
     "language": "Python",
     "name": "vllm-project/vllm-ascend",
     "stars": 3000,
-    "updated_at": "2026-10-19T11:27:14Z",
+    "updated_at": "2026-10-19T11:38:40Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -54,20 +144,11 @@
     "url": "https://github.com/talhaanwarch/awesome-llmops-platforms"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22734,
-    "updated_at": "2026-10-19T11:23:00Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 61554,
+    "stars": 61556,
     "updated_at": "2026-10-19T11:20:57Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -77,17 +158,8 @@
     "language": "Rust",
     "name": "TAIPANBOX/tokenfuse",
     "stars": 1,
-    "updated_at": "2026-10-19T11:20:52Z",
+    "updated_at": "2026-10-19T11:32:13Z",
     "url": "https://github.com/TAIPANBOX/tokenfuse"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36016,
-    "updated_at": "2026-10-19T11:30:04Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -97,15 +169,6 @@
     "stars": 28447,
     "updated_at": "2026-10-19T11:15:29Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-19T11:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Dify \u2014 independent third-party profile of a public API surface, by API Evangelist. Dify is an open-source platform for b",
@@ -122,7 +185,7 @@
     "language": "Python",
     "name": "ahmetatar/agent-blueprint",
     "stars": 4,
-    "updated_at": "2026-10-19T11:14:51Z",
+    "updated_at": "2026-10-19T11:38:33Z",
     "url": "https://github.com/ahmetatar/agent-blueprint"
   },
   {
@@ -160,24 +223,6 @@
     "stars": 0,
     "updated_at": "2026-10-19T11:05:44Z",
     "url": "https://github.com/toxicwind/ranch"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 9392,
-    "updated_at": "2026-10-19T11:05:00Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 683,
-    "updated_at": "2026-10-19T11:22:01Z",
-    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
@@ -230,7 +275,7 @@
     "language": "Python",
     "name": "apowerb/apowerb",
     "stars": 148,
-    "updated_at": "2026-10-19T11:15:08Z",
+    "updated_at": "2026-10-19T11:44:12Z",
     "url": "https://github.com/apowerb/apowerb"
   },
   {
@@ -256,7 +301,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26136,
+    "stars": 26138,
     "updated_at": "2026-10-19T10:44:07Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -315,15 +360,6 @@
     "url": "https://github.com/rspstat/LLMOps"
   },
   {
-    "description": "LLM observability and evals. Trace every call, score results, and manage prompts and datasets.",
-    "id": "Muhammad-Adil-code/Tracelight",
-    "language": "TypeScript",
-    "name": "Muhammad-Adil-code/Tracelight",
-    "stars": 0,
-    "updated_at": "2026-10-19T10:17:46Z",
-    "url": "https://github.com/Muhammad-Adil-code/Tracelight"
-  },
-  {
     "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
     "id": "SourceShift/mini-ork",
     "language": "Python",
@@ -351,15 +387,6 @@
     "url": "https://github.com/a-novel/service-genai"
   },
   {
-    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4981,
-    "updated_at": "2026-10-19T11:28:11Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "Private document assistant for teams: answers only from your own Drive documents, every claim cited and verified, or an ",
     "id": "TayebKahia/grounded-docs",
     "language": "\u2014",
@@ -374,7 +401,7 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-19T10:52:57Z",
+    "updated_at": "2026-10-19T11:40:37Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -419,34 +446,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 12059,
-    "updated_at": "2026-10-19T11:08:26Z",
+    "updated_at": "2026-10-19T11:38:18Z",
     "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "Build applications that make decisions (chatbots, agents, simulations, etc...). Monitor, trace, persist, and execute on ",
-    "id": "apache/burr",
-    "language": "Python",
-    "name": "apache/burr",
-    "stars": 2573,
-    "updated_at": "2026-10-19T11:29:44Z",
-    "url": "https://github.com/apache/burr"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 111,
-    "updated_at": "2026-10-19T09:27:50Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "The open standard AI gateway \u2014 PII protection, audit, reliability & cost control as composable interceptors. Same API in",
-    "id": "manojmallick/gavio",
-    "language": "Java",
-    "name": "manojmallick/gavio",
-    "stars": 6,
-    "updated_at": "2026-10-19T10:22:10Z",
-    "url": "https://github.com/manojmallick/gavio"
   }
 ]
