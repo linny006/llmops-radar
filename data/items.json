@@ -1,30 +1,12 @@
 [
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61577,
-    "updated_at": "2026-10-19T17:59:59Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio",
     "id": "naim-munshi/metriqen-llm-serving-optimization",
     "language": "Python",
     "name": "naim-munshi/metriqen-llm-serving-optimization",
     "stars": 0,
-    "updated_at": "2026-10-19T17:58:50Z",
+    "updated_at": "2026-10-19T18:14:57Z",
     "url": "https://github.com/naim-munshi/metriqen-llm-serving-optimization"
-  },
-  {
-    "description": "Self-hosted prompt library and template editor with an MCP server for ChatGPT. Save prompts as sections with {{variables",
-    "id": "chrysogonus/prompt-maker-studio",
-    "language": "Python",
-    "name": "chrysogonus/prompt-maker-studio",
-    "stars": 3,
-    "updated_at": "2026-10-19T17:58:03Z",
-    "url": "https://github.com/chrysogonus/prompt-maker-studio"
   },
   {
     "description": "Multi-agent system for US drug prices and shortages on Azure: Databricks pipeline, MCP tool server, Ask agent and a week",
@@ -32,17 +14,8 @@
     "language": "Python",
     "name": "sujithnsn2026-crypto/drug-pricing-agent",
     "stars": 0,
-    "updated_at": "2026-10-19T17:57:32Z",
+    "updated_at": "2026-10-19T18:14:16Z",
     "url": "https://github.com/sujithnsn2026-crypto/drug-pricing-agent"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36033,
-    "updated_at": "2026-10-19T17:59:23Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Flight recorder & observability for AI agents: trace every model call, tool call, file edit and shell command live, with",
@@ -50,8 +23,89 @@
     "language": "Python",
     "name": "abdullahimohamed101/agent-black-box",
     "stars": 0,
-    "updated_at": "2026-10-19T17:59:27Z",
+    "updated_at": "2026-10-19T18:12:11Z",
     "url": "https://github.com/abdullahimohamed101/agent-black-box"
+  },
+  {
+    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
+    "id": "AixleHQ/flow",
+    "language": "Ruby",
+    "name": "AixleHQ/flow",
+    "stars": 24,
+    "updated_at": "2026-10-19T18:09:47Z",
+    "url": "https://github.com/AixleHQ/flow"
+  },
+  {
+    "description": "An LLM inference engine for persistent chat bots and agents. It allows models to forget old and unimportant tokens to ke",
+    "id": "cosmonomic/pulsarlm",
+    "language": "C++",
+    "name": "cosmonomic/pulsarlm",
+    "stars": 4,
+    "updated_at": "2026-10-19T18:09:08Z",
+    "url": "https://github.com/cosmonomic/pulsarlm"
+  },
+  {
+    "description": "See what your Google ADK agent costs (per-invocation USD from token usage) and fail CI when it gets more expensive.",
+    "id": "gaurav-gandhi-2411/adk-tracegauge",
+    "language": "Python",
+    "name": "gaurav-gandhi-2411/adk-tracegauge",
+    "stars": 0,
+    "updated_at": "2026-10-19T18:11:05Z",
+    "url": "https://github.com/gaurav-gandhi-2411/adk-tracegauge"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-19T18:07:43Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-19T18:00:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61578,
+    "updated_at": "2026-10-19T18:12:03Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36034,
+    "updated_at": "2026-10-19T18:08:12Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Self-hosted prompt library and template editor with an MCP server for ChatGPT. Save prompts as sections with {{variables",
+    "id": "chrysogonus/prompt-maker-studio",
+    "language": "Python",
+    "name": "chrysogonus/prompt-maker-studio",
+    "stars": 3,
+    "updated_at": "2026-10-19T18:01:03Z",
+    "url": "https://github.com/chrysogonus/prompt-maker-studio"
+  },
+  {
+    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
+    "id": "lmnr-ai/lmnr",
+    "language": "TypeScript",
+    "name": "lmnr-ai/lmnr",
+    "stars": 3411,
+    "updated_at": "2026-10-19T17:55:11Z",
+    "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -68,7 +122,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22747,
-    "updated_at": "2026-10-19T17:46:33Z",
+    "updated_at": "2026-10-19T18:11:03Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -81,24 +135,6 @@
     "url": "https://github.com/pom11/hscc"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-19T17:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-19T17:45:40Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
     "description": "Terraform for your own LLMs: an open-source CLI that deploys vLLM and llama.cpp to your own machine or to GPU cloud prov",
     "id": "andypalmi/amicu",
     "language": "Rust",
@@ -106,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-10-19T17:42:22Z",
     "url": "https://github.com/andypalmi/amicu"
-  },
-  {
-    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
-    "id": "AixleHQ/flow",
-    "language": "Ruby",
-    "name": "AixleHQ/flow",
-    "stars": 24,
-    "updated_at": "2026-10-19T17:45:29Z",
-    "url": "https://github.com/AixleHQ/flow"
   },
   {
     "description": "Enterprise Scale AIFactory (esml) - on Azure",
@@ -130,8 +157,8 @@
     "id": "jwuthri-cloud/Tracely-ai",
     "language": "Python",
     "name": "jwuthri-cloud/Tracely-ai",
-    "stars": 1080,
-    "updated_at": "2026-10-19T17:38:51Z",
+    "stars": 1081,
+    "updated_at": "2026-10-19T18:08:39Z",
     "url": "https://github.com/jwuthri-cloud/Tracely-ai"
   },
   {
@@ -140,7 +167,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 26149,
-    "updated_at": "2026-10-19T17:33:52Z",
+    "updated_at": "2026-10-19T18:12:14Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -160,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-10-19T17:23:39Z",
     "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
-    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
-    "id": "lmnr-ai/lmnr",
-    "language": "TypeScript",
-    "name": "lmnr-ai/lmnr",
-    "stars": 3410,
-    "updated_at": "2026-10-19T17:55:11Z",
-    "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
     "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
@@ -194,7 +212,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 2176,
-    "updated_at": "2026-10-19T17:36:06Z",
+    "updated_at": "2026-10-19T18:06:46Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -203,7 +221,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 111,
-    "updated_at": "2026-10-19T17:10:09Z",
+    "updated_at": "2026-10-19T18:06:38Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -212,7 +230,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8917,
-    "updated_at": "2026-10-19T17:47:53Z",
+    "updated_at": "2026-10-19T18:07:42Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -239,7 +257,7 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 11,
-    "updated_at": "2026-10-19T17:04:36Z",
+    "updated_at": "2026-10-19T18:13:29Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
@@ -355,7 +373,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 9415,
+    "stars": 9417,
     "updated_at": "2026-10-19T16:28:07Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -410,7 +428,7 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-19T17:52:41Z",
+    "updated_at": "2026-10-19T18:15:02Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -419,7 +437,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4983,
-    "updated_at": "2026-10-19T17:57:25Z",
+    "updated_at": "2026-10-19T18:11:34Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-19T15:42:58Z",
     "url": "https://github.com/TAIPANBOX/tokenfuse"
-  },
-  {
-    "description": "Painel para operar agentes de IA em produ\u00e7\u00e3o: prompt versionado com rollback, troca de modelo sem reescrever instru\u00e7\u00f5es ",
-    "id": "WellCod/automata",
-    "language": "Python",
-    "name": "WellCod/automata",
-    "stars": 1,
-    "updated_at": "2026-10-19T15:42:48Z",
-    "url": "https://github.com/WellCod/automata"
-  },
-  {
-    "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
-    "id": "hjongc/openrouter-endpoint-watch",
-    "language": "Python",
-    "name": "hjongc/openrouter-endpoint-watch",
-    "stars": 0,
-    "updated_at": "2026-10-19T15:40:29Z",
-    "url": "https://github.com/hjongc/openrouter-endpoint-watch"
   }
 ]
