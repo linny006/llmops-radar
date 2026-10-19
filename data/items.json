@@ -1,11 +1,56 @@
 [
   {
+    "description": "The platform for continuously improving AI agents.",
+    "id": "overmind-core/overmind",
+    "language": "Python",
+    "name": "overmind-core/overmind",
+    "stars": 668,
+    "updated_at": "2026-10-19T01:37:25Z",
+    "url": "https://github.com/overmind-core/overmind"
+  },
+  {
+    "description": "\u6821\u56ed\u653f\u7b56\u95ee\u7b54 RAG \u670d\u52a1\uff1a\u7b54\u6848\u5e26\u53ef\u70b9\u6761\u6b3e\u51fa\u5904\uff0c\u77e5\u8bc6\u5e93\u91cc\u6ca1\u6709\u5c31\u5f53\u573a\u62d2\u7b54\"\u6211\u4e0d\u7f16\"\uff08FastAPI + bge-small-zh + BM25/RRF \u6df7\u5408\u53ec\u56de + DeepSeek \u7cbe\u6392/\u751f\u6210\uff09\u3002",
+    "id": "inwardzyx/campus-policy-rag",
+    "language": "Python",
+    "name": "inwardzyx/campus-policy-rag",
+    "stars": 1,
+    "updated_at": "2026-10-19T01:37:12Z",
+    "url": "https://github.com/inwardzyx/campus-policy-rag"
+  },
+  {
+    "description": "An industrial engineering curriculum for transitioning teams from stochastic prompting to deterministic, traceable AI-as",
+    "id": "bdchang403/AI_Software_Foundations",
+    "language": "Python",
+    "name": "bdchang403/AI_Software_Foundations",
+    "stars": 0,
+    "updated_at": "2026-10-19T01:33:32Z",
+    "url": "https://github.com/bdchang403/AI_Software_Foundations"
+  },
+  {
+    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
+    "id": "burakdede/lorepack",
+    "language": "TypeScript",
+    "name": "burakdede/lorepack",
+    "stars": 4,
+    "updated_at": "2026-10-19T01:42:51Z",
+    "url": "https://github.com/burakdede/lorepack"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-19T01:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8910,
-    "updated_at": "2026-10-19T01:28:57Z",
+    "updated_at": "2026-10-19T01:43:29Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -36,15 +81,6 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "An industrial engineering curriculum for transitioning teams from stochastic prompting to deterministic, traceable AI-as",
-    "id": "bdchang403/AI_Software_Foundations",
-    "language": "Python",
-    "name": "bdchang403/AI_Software_Foundations",
-    "stars": 0,
-    "updated_at": "2026-10-19T01:22:10Z",
-    "url": "https://github.com/bdchang403/AI_Software_Foundations"
-  },
-  {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
     "id": "toxicwind/ranch",
     "language": "Rust",
@@ -58,18 +94,9 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 28439,
+    "stars": 28440,
     "updated_at": "2026-10-19T01:20:19Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-19T01:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\u7aef\u5230\u7aef\u667a\u80fd\u4f53\u5e73\u53f0\uff1a\u628a\u672c\u673a\u7684 AI Agent \u53d8\u6210\u4eba\u4eba\u53ef\u7528\u7684 Web \u4ea7\u54c1\uff08Vue 3 + Flask + Go WS \u7f51\u5173 + Docker \u90e8\u7f72\uff09",
@@ -106,6 +133,15 @@
     "stars": 1,
     "updated_at": "2026-10-19T01:01:36Z",
     "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "The execution control plane for AI agents. Govern every model request, MCP tool call, A2A delegation, and downstream act",
+    "id": "GetBusbar/busbar",
+    "language": "Rust",
+    "name": "GetBusbar/busbar",
+    "stars": 200,
+    "updated_at": "2026-10-19T01:45:00Z",
+    "url": "https://github.com/GetBusbar/busbar"
   },
   {
     "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
@@ -158,7 +194,7 @@
     "language": "TypeScript",
     "name": "MongLong0214/jev-gate",
     "stars": 3,
-    "updated_at": "2026-10-19T01:11:43Z",
+    "updated_at": "2026-10-19T01:44:12Z",
     "url": "https://github.com/MongLong0214/jev-gate"
   },
   {
@@ -180,15 +216,6 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
-    "id": "burakdede/lorepack",
-    "language": "TypeScript",
-    "name": "burakdede/lorepack",
-    "stars": 4,
-    "updated_at": "2026-10-19T00:26:58Z",
-    "url": "https://github.com/burakdede/lorepack"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
@@ -203,7 +230,7 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-19T01:01:51Z",
+    "updated_at": "2026-10-19T01:34:54Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -239,7 +266,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61511,
-    "updated_at": "2026-10-18T23:48:48Z",
+    "updated_at": "2026-10-19T01:36:36Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-18T22:00:35Z",
     "url": "https://github.com/acornops/management-console"
-  },
-  {
-    "description": "A hands-on library for DevOps, Cloud, and AI engineers: real production scenarios for AWS, Kubernetes, Docker, and LLMOp",
-    "id": "sandeepk24/learn-devops-playbook",
-    "language": "Python",
-    "name": "sandeepk24/learn-devops-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-18T21:51:18Z",
-    "url": "https://github.com/sandeepk24/learn-devops-playbook"
-  },
-  {
-    "description": "TensorZero \u2014 independent third-party profile of a public API surface, by API Evangelist. TensorZero is an open-source, s",
-    "id": "api-evangelist/tensorzero",
-    "language": "\u2014",
-    "name": "api-evangelist/tensorzero",
-    "stars": 0,
-    "updated_at": "2026-10-18T21:51:00Z",
-    "url": "https://github.com/api-evangelist/tensorzero"
-  },
-  {
-    "description": "Policy-aware security gateway for LLM and agent workflows",
-    "id": "Yash-Chindam/llm-security-agent-guardrail-gateway",
-    "language": "Python",
-    "name": "Yash-Chindam/llm-security-agent-guardrail-gateway",
-    "stars": 0,
-    "updated_at": "2026-10-18T21:50:16Z",
-    "url": "https://github.com/Yash-Chindam/llm-security-agent-guardrail-gateway"
   }
 ]
