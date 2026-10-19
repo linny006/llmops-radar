@@ -1,30 +1,48 @@
 [
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11910,
-    "updated_at": "2026-10-19T15:29:16Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61567,
-    "updated_at": "2026-10-19T15:27:06Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
     "stars": 1,
-    "updated_at": "2026-10-19T15:26:51Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
+    "updated_at": "2026-10-19T15:42:58Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 41,
+    "updated_at": "2026-10-19T15:42:41Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Painel para operar agentes de IA em produ\u00e7\u00e3o: prompt versionado com rollback, troca de modelo sem reescrever instru\u00e7\u00f5es ",
+    "id": "WellCod/automata",
+    "language": "Python",
+    "name": "WellCod/automata",
+    "stars": 1,
+    "updated_at": "2026-10-19T15:42:48Z",
+    "url": "https://github.com/WellCod/automata"
+  },
+  {
+    "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
+    "id": "hjongc/openrouter-endpoint-watch",
+    "language": "Python",
+    "name": "hjongc/openrouter-endpoint-watch",
+    "stars": 0,
+    "updated_at": "2026-10-19T15:40:29Z",
+    "url": "https://github.com/hjongc/openrouter-endpoint-watch"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-10-19T15:40:16Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
   },
   {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
@@ -32,8 +50,98 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 36028,
-    "updated_at": "2026-10-19T15:29:28Z",
+    "updated_at": "2026-10-19T15:41:15Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "AI platform reference architecture for LLM serving on Kubernetes, with reliability, observability, failure testing, and ",
+    "id": "asadhanif3188/InferOps",
+    "language": "Python",
+    "name": "asadhanif3188/InferOps",
+    "stars": 0,
+    "updated_at": "2026-10-19T15:39:01Z",
+    "url": "https://github.com/asadhanif3188/InferOps"
+  },
+  {
+    "description": "APM for AI agents: flow maps, workflow process mining, cost & reliability metrics, and process review for LangGraph, Ope",
+    "id": "Aditya31398/agentdynamics",
+    "language": "Python",
+    "name": "Aditya31398/agentdynamics",
+    "stars": 0,
+    "updated_at": "2026-10-19T15:36:49Z",
+    "url": "https://github.com/Aditya31398/agentdynamics"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61567,
+    "updated_at": "2026-10-19T15:44:36Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Measure how much of your LLM bill is re-writing documents you already generated. Local, zero network calls, single file,",
+    "id": "linklbee/scan",
+    "language": "Python",
+    "name": "linklbee/scan",
+    "stars": 0,
+    "updated_at": "2026-10-19T15:34:18Z",
+    "url": "https://github.com/linklbee/scan"
+  },
+  {
+    "description": "Terraform for your own LLMs: an open-source CLI that deploys vLLM and llama.cpp to your own machine or to GPU cloud prov",
+    "id": "andypalmi/amicu",
+    "language": "Rust",
+    "name": "andypalmi/amicu",
+    "stars": 1,
+    "updated_at": "2026-10-19T15:35:18Z",
+    "url": "https://github.com/andypalmi/amicu"
+  },
+  {
+    "description": "Local CLI for auditing AI agent skills, conflicts, duplicates, safety risks, and context cost across coding agents.",
+    "id": "evilstar2016/skill-doctor",
+    "language": "TypeScript",
+    "name": "evilstar2016/skill-doctor",
+    "stars": 13,
+    "updated_at": "2026-10-19T15:31:44Z",
+    "url": "https://github.com/evilstar2016/skill-doctor"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 691,
+    "updated_at": "2026-10-19T15:35:10Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-19T15:30:49Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11910,
+    "updated_at": "2026-10-19T15:38:51Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-10-19T15:32:08Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
     "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
@@ -49,18 +157,9 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 9408,
+    "stars": 9409,
     "updated_at": "2026-10-19T15:18:50Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 691,
-    "updated_at": "2026-10-19T15:25:38Z",
-    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
@@ -68,17 +167,8 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 11,
-    "updated_at": "2026-10-19T15:15:42Z",
+    "updated_at": "2026-10-19T15:33:25Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-19T15:15:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
@@ -194,7 +284,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 26148,
-    "updated_at": "2026-10-19T15:00:11Z",
+    "updated_at": "2026-10-19T15:40:37Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -230,7 +320,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22741,
-    "updated_at": "2026-10-19T15:01:00Z",
+    "updated_at": "2026-10-19T15:43:50Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -257,7 +347,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 96,
-    "updated_at": "2026-10-19T15:25:24Z",
+    "updated_at": "2026-10-19T15:34:22Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -268,24 +358,6 @@
     "stars": 0,
     "updated_at": "2026-10-19T14:46:16Z",
     "url": "https://github.com/Xander-Xai/Beauty-Industry-RAG-QA-System"
-  },
-  {
-    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
-    "id": "TAIPANBOX/tokenfuse",
-    "language": "Rust",
-    "name": "TAIPANBOX/tokenfuse",
-    "stars": 1,
-    "updated_at": "2026-10-19T15:09:39Z",
-    "url": "https://github.com/TAIPANBOX/tokenfuse"
-  },
-  {
-    "description": "Terraform for your own LLMs: an open-source CLI that deploys vLLM and llama.cpp to your own machine or to GPU cloud prov",
-    "id": "andypalmi/amicu",
-    "language": "Rust",
-    "name": "andypalmi/amicu",
-    "stars": 1,
-    "updated_at": "2026-10-19T15:17:06Z",
-    "url": "https://github.com/andypalmi/amicu"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -311,7 +383,7 @@
     "language": "Python",
     "name": "pom11/hscc",
     "stars": 7,
-    "updated_at": "2026-10-19T15:25:46Z",
+    "updated_at": "2026-10-19T15:31:28Z",
     "url": "https://github.com/pom11/hscc"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 53,
     "updated_at": "2026-10-19T14:19:36Z",
     "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
-  },
-  {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 32,
-    "updated_at": "2026-10-19T14:15:52Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Catches PII leaks and ungrounded claims in one pass. Now measured against the hard half: hallucinations that reuse the s",
-    "id": "ahmeddoghri/guardrail-gate",
-    "language": "Python",
-    "name": "ahmeddoghri/guardrail-gate",
-    "stars": 0,
-    "updated_at": "2026-10-19T14:13:21Z",
-    "url": "https://github.com/ahmeddoghri/guardrail-gate"
-  },
-  {
-    "description": "Routes, caches, and batches LLM requests: 73% cheaper. Now also measures whether the routing is correct, which the keywo",
-    "id": "ahmeddoghri/vllm-cost-router",
-    "language": "Python",
-    "name": "ahmeddoghri/vllm-cost-router",
-    "stars": 0,
-    "updated_at": "2026-10-19T14:11:05Z",
-    "url": "https://github.com/ahmeddoghri/vllm-cost-router"
-  },
-  {
-    "description": "Document Q&A with cited answers: an agentic retrieval loop, neural retrieval (bge-m3, Qwen3-Embedding, bge reranker, Qdr",
-    "id": "Muditkumar123/agentic-document-intelligence-platform",
-    "language": "Python",
-    "name": "Muditkumar123/agentic-document-intelligence-platform",
-    "stars": 0,
-    "updated_at": "2026-10-19T14:10:50Z",
-    "url": "https://github.com/Muditkumar123/agentic-document-intelligence-platform"
-  },
-  {
-    "description": "AI-RECON is a specialized reconnaissance tool designed to identify, fingerprint, and enumerate AI/ML infrastructure. It ",
-    "id": "giriaryan694-a11y/ai-recon",
-    "language": "Python",
-    "name": "giriaryan694-a11y/ai-recon",
-    "stars": 4,
-    "updated_at": "2026-10-19T14:08:51Z",
-    "url": "https://github.com/giriaryan694-a11y/ai-recon"
-  },
-  {
-    "description": "Real-time and historical metrics for locally served LLMs (Ollama and vLLM) \u2014 dashboard, HTTP API and MCP server. One pro",
-    "id": "floatsmyboat/inferwatch",
-    "language": "Python",
-    "name": "floatsmyboat/inferwatch",
-    "stars": 1,
-    "updated_at": "2026-10-19T14:05:43Z",
-    "url": "https://github.com/floatsmyboat/inferwatch"
-  },
-  {
-    "description": "Self-hosted AI Agents Platform for AI Native companies. Claude Code, Codex, Gemini, OpenCode agents. Apache 2.0.  ",
-    "id": "Abilityai/trinity",
-    "language": "Python",
-    "name": "Abilityai/trinity",
-    "stars": 675,
-    "updated_at": "2026-10-19T15:10:42Z",
-    "url": "https://github.com/Abilityai/trinity"
-  },
-  {
-    "description": "Measure how much of your LLM bill is re-writing documents you already generated. Local, zero network calls, single file,",
-    "id": "linklbee/scan",
-    "language": "Python",
-    "name": "linklbee/scan",
-    "stars": 0,
-    "updated_at": "2026-10-19T13:54:19Z",
-    "url": "https://github.com/linklbee/scan"
   }
 ]
