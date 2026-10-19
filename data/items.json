@@ -1,5 +1,176 @@
 [
   {
+    "description": "Model Context Protocol (MCP) Server for Langfuse Prompt Management. This server allows you to access and manage your Lan",
+    "id": "tamkoc286/mcp-server-langfuse",
+    "language": "TypeScript",
+    "name": "tamkoc286/mcp-server-langfuse",
+    "stars": 0,
+    "updated_at": "2026-10-19T05:59:18Z",
+    "url": "https://github.com/tamkoc286/mcp-server-langfuse"
+  },
+  {
+    "description": "Self-hosted web portal for managing users, API keys, and access to LLM inference servers \u2014 works with llama.cpp, Ollama,",
+    "id": "prosaugat/llm-portal",
+    "language": "Python",
+    "name": "prosaugat/llm-portal",
+    "stars": 1,
+    "updated_at": "2026-10-19T05:57:57Z",
+    "url": "https://github.com/prosaugat/llm-portal"
+  },
+  {
+    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
+    "id": "nLiu169/awesome-ai-gateway",
+    "language": "JavaScript",
+    "name": "nLiu169/awesome-ai-gateway",
+    "stars": 0,
+    "updated_at": "2026-10-19T05:56:46Z",
+    "url": "https://github.com/nLiu169/awesome-ai-gateway"
+  },
+  {
+    "description": "Token usage tracker for multi-agent AI sessions",
+    "id": "yunaremaia/agentcost",
+    "language": "Python",
+    "name": "yunaremaia/agentcost",
+    "stars": 2,
+    "updated_at": "2026-10-19T05:56:32Z",
+    "url": "https://github.com/yunaremaia/agentcost"
+  },
+  {
+    "description": "A MCP server allowing LLM agents to easily connect and retrieve data from any database",
+    "id": "AmandaLeclerc361/turbular",
+    "language": "Python",
+    "name": "AmandaLeclerc361/turbular",
+    "stars": 0,
+    "updated_at": "2026-10-19T05:54:44Z",
+    "url": "https://github.com/AmandaLeclerc361/turbular"
+  },
+  {
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
+    "stars": 1,
+    "updated_at": "2026-10-19T05:54:39Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
+    "description": "Production LLM call layer for AI agents and tools: keep OpenAI/Anthropic/AI SDK/LiteLLM, hot-swap models with MDA preset",
+    "id": "Ferrari2748/llmix",
+    "language": "Python",
+    "name": "Ferrari2748/llmix",
+    "stars": 0,
+    "updated_at": "2026-10-19T05:52:54Z",
+    "url": "https://github.com/Ferrari2748/llmix"
+  },
+  {
+    "description": "The evidence trail for agentic data pipelines: an LLM agent proposes Apache Iceberg changes; guardrails, branch dry-runs",
+    "id": "kushagrasoni/governed-iceberg-agent",
+    "language": "Python",
+    "name": "kushagrasoni/governed-iceberg-agent",
+    "stars": 0,
+    "updated_at": "2026-10-19T05:52:42Z",
+    "url": "https://github.com/kushagrasoni/governed-iceberg-agent"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 32,
+    "updated_at": "2026-10-19T05:52:17Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28443,
+    "updated_at": "2026-10-19T05:54:31Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Measure how much of your LLM bill is re-writing documents you already generated. Local, zero network calls, single file,",
+    "id": "linklbee/scan",
+    "language": "Python",
+    "name": "linklbee/scan",
+    "stars": 0,
+    "updated_at": "2026-10-19T05:59:47Z",
+    "url": "https://github.com/linklbee/scan"
+  },
+  {
+    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
+    "id": "Elizabetha44495/llmaker",
+    "language": "Go",
+    "name": "Elizabetha44495/llmaker",
+    "stars": 0,
+    "updated_at": "2026-10-19T05:49:57Z",
+    "url": "https://github.com/Elizabetha44495/llmaker"
+  },
+  {
+    "description": "Model Context Protocol (MCP) Server for Langfuse Prompt Management. This server allows you to access and manage your Lan",
+    "id": "Maas88849/mcp-server-langfuse",
+    "language": "TypeScript",
+    "name": "Maas88849/mcp-server-langfuse",
+    "stars": 0,
+    "updated_at": "2026-10-19T05:49:35Z",
+    "url": "https://github.com/Maas88849/mcp-server-langfuse"
+  },
+  {
+    "description": "Model Context Protocol (MCP) Server for Langfuse Prompt Management. This server allows you to access and manage your Lan",
+    "id": "MichelleCastillo67417/mcp-server-langfuse",
+    "language": "TypeScript",
+    "name": "MichelleCastillo67417/mcp-server-langfuse",
+    "stars": 0,
+    "updated_at": "2026-10-19T05:49:01Z",
+    "url": "https://github.com/MichelleCastillo67417/mcp-server-langfuse"
+  },
+  {
+    "description": "Model Context Protocol (MCP) Server for Langfuse Prompt Management. This server allows you to access and manage your Lan",
+    "id": "giulior73524/mcp-server-langfuse",
+    "language": "TypeScript",
+    "name": "giulior73524/mcp-server-langfuse",
+    "stars": 0,
+    "updated_at": "2026-10-19T05:47:43Z",
+    "url": "https://github.com/giulior73524/mcp-server-langfuse"
+  },
+  {
+    "description": "Model Context Protocol (MCP) Server for Langfuse Prompt Management. This server allows you to access and manage your Lan",
+    "id": "AlessioLefebvre14/mcp-server-langfuse",
+    "language": "TypeScript",
+    "name": "AlessioLefebvre14/mcp-server-langfuse",
+    "stars": 0,
+    "updated_at": "2026-10-19T05:47:39Z",
+    "url": "https://github.com/AlessioLefebvre14/mcp-server-langfuse"
+  },
+  {
+    "description": "Production LLM call layer for AI agents and tools: keep OpenAI/Anthropic/AI SDK/LiteLLM, hot-swap models with MDA preset",
+    "id": "emrepatel01507/llmix",
+    "language": "Python",
+    "name": "emrepatel01507/llmix",
+    "stars": 0,
+    "updated_at": "2026-10-19T05:47:14Z",
+    "url": "https://github.com/emrepatel01507/llmix"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-19T05:47:01Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-19T05:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -7,6 +178,15 @@
     "stars": 1,
     "updated_at": "2026-10-19T05:43:40Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 9370,
+    "updated_at": "2026-10-19T05:42:14Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
@@ -25,24 +205,6 @@
     "stars": 1,
     "updated_at": "2026-10-19T05:39:51Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-19T05:30:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 9367,
-    "updated_at": "2026-10-19T05:42:14Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code \u2014 V3 prototype runs ",
@@ -77,7 +239,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4977,
-    "updated_at": "2026-10-19T05:16:08Z",
+    "updated_at": "2026-10-19T05:54:39Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -88,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-10-19T05:06:28Z",
     "url": "https://github.com/toxicwind/ranch"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28443,
-    "updated_at": "2026-10-19T05:04:50Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -112,7 +265,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 61526,
+    "stars": 61527,
     "updated_at": "2026-10-19T04:59:03Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -122,7 +275,7 @@
     "language": "Python",
     "name": "admina-org/admina",
     "stars": 8,
-    "updated_at": "2026-10-19T04:55:09Z",
+    "updated_at": "2026-10-19T05:55:29Z",
     "url": "https://github.com/admina-org/admina"
   },
   {
@@ -135,21 +288,12 @@
     "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
-    "description": "Self-hosted web portal for managing users, API keys, and access to LLM inference servers \u2014 works with llama.cpp, Ollama,",
-    "id": "prosaugat/llm-portal",
-    "language": "Python",
-    "name": "prosaugat/llm-portal",
-    "stars": 1,
-    "updated_at": "2026-10-19T04:46:21Z",
-    "url": "https://github.com/prosaugat/llm-portal"
-  },
-  {
     "description": "The platform for continuously improving AI agents.",
     "id": "overmind-core/overmind",
     "language": "Python",
     "name": "overmind-core/overmind",
     "stars": 668,
-    "updated_at": "2026-10-19T05:40:46Z",
+    "updated_at": "2026-10-19T05:54:11Z",
     "url": "https://github.com/overmind-core/overmind"
   },
   {
@@ -167,7 +311,7 @@
     "language": "Python",
     "name": "pom11/hscc",
     "stars": 7,
-    "updated_at": "2026-10-19T05:44:12Z",
+    "updated_at": "2026-10-19T05:49:20Z",
     "url": "https://github.com/pom11/hscc"
   },
   {
@@ -203,7 +347,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1363,
-    "updated_at": "2026-10-19T05:23:10Z",
+    "updated_at": "2026-10-19T05:56:27Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -252,15 +396,6 @@
     "url": "https://github.com/asale-ai/llm-verify"
   },
   {
-    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
-    "id": "TAIPANBOX/tokenfuse",
-    "language": "Rust",
-    "name": "TAIPANBOX/tokenfuse",
-    "stars": 1,
-    "updated_at": "2026-10-19T05:36:03Z",
-    "url": "https://github.com/TAIPANBOX/tokenfuse"
-  },
-  {
     "description": "AI Agent hooks for LLM Observability.",
     "id": "HikaruEgashira/otel-hooks",
     "language": "Python",
@@ -306,15 +441,6 @@
     "url": "https://github.com/api7/aisix"
   },
   {
-    "description": "The evidence trail for agentic data pipelines: an LLM agent proposes Apache Iceberg changes; guardrails, branch dry-runs",
-    "id": "kushagrasoni/governed-iceberg-agent",
-    "language": "Python",
-    "name": "kushagrasoni/governed-iceberg-agent",
-    "stars": 0,
-    "updated_at": "2026-10-19T02:59:07Z",
-    "url": "https://github.com/kushagrasoni/governed-iceberg-agent"
-  },
-  {
     "description": "Flight recorder & observability for AI agents: trace every model call, tool call, file edit and shell command live, with",
     "id": "abdullahimohamed101/agent-black-box",
     "language": "Python",
@@ -322,131 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-19T02:55:01Z",
     "url": "https://github.com/abdullahimohamed101/agent-black-box"
-  },
-  {
-    "description": "LocalPilot is a Python application that helps nontechnical users discover, install, run, monitor, update and remove loca",
-    "id": "fakhruldeen/LocalPilot",
-    "language": "Python",
-    "name": "fakhruldeen/LocalPilot",
-    "stars": 1,
-    "updated_at": "2026-10-19T02:48:56Z",
-    "url": "https://github.com/fakhruldeen/LocalPilot"
-  },
-  {
-    "description": "Python CLI and library (ptm) for prompt templates as plain YAML in git, rendered through sandboxed, strict Jinja so a ty",
-    "id": "Furkiozknn/prompt-template-manager",
-    "language": "Python",
-    "name": "Furkiozknn/prompt-template-manager",
-    "stars": 0,
-    "updated_at": "2026-10-19T02:48:01Z",
-    "url": "https://github.com/Furkiozknn/prompt-template-manager"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 3000,
-    "updated_at": "2026-10-19T02:43:49Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "AI investigator for healthcare data pipeline incidents: read-only tools, mechanically verified evidence, calibrated abst",
-    "id": "KilgoreC1024/healthcare-data-reliability-copilot",
-    "language": "Python",
-    "name": "KilgoreC1024/healthcare-data-reliability-copilot",
-    "stars": 0,
-    "updated_at": "2026-10-19T02:41:36Z",
-    "url": "https://github.com/KilgoreC1024/healthcare-data-reliability-copilot"
-  },
-  {
-    "description": "A reference architecture for AI features on governed data: 13 decisions with the measured results behind each, an evalua",
-    "id": "technobasant/ai-platform-architecture",
-    "language": "Python",
-    "name": "technobasant/ai-platform-architecture",
-    "stars": 0,
-    "updated_at": "2026-10-19T02:40:09Z",
-    "url": "https://github.com/technobasant/ai-platform-architecture"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3602,
-    "updated_at": "2026-10-19T02:38:14Z",
-    "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26127,
-    "updated_at": "2026-10-19T02:36:10Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 672,
-    "updated_at": "2026-10-19T02:25:36Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-10-19T04:16:10Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "Building reliable LLM Agents \u2014 Agent eval, evidence grounding, context engineering",
-    "id": "KBber/KBber",
-    "language": "\u2014",
-    "name": "KBber/KBber",
-    "stars": 0,
-    "updated_at": "2026-10-19T02:15:10Z",
-    "url": "https://github.com/KBber/KBber"
-  },
-  {
-    "description": "Open-source LLM observability. See every prompt, completion, token, cost, latency and error as traces and sessions. Pyth",
-    "id": "dheerajkarwasra/spanlight",
-    "language": "Python",
-    "name": "dheerajkarwasra/spanlight",
-    "stars": 0,
-    "updated_at": "2026-10-19T04:48:23Z",
-    "url": "https://github.com/dheerajkarwasra/spanlight"
-  },
-  {
-    "description": "",
-    "id": "coffeehc/xagent-docs",
-    "language": "TypeScript",
-    "name": "coffeehc/xagent-docs",
-    "stars": 1,
-    "updated_at": "2026-10-19T01:47:11Z",
-    "url": "https://github.com/coffeehc/xagent-docs"
-  },
-  {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "Python",
-    "name": "dataelement/bisheng",
-    "stars": 12060,
-    "updated_at": "2026-10-19T04:09:00Z",
-    "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "\u6821\u56ed\u653f\u7b56\u95ee\u7b54 RAG \u670d\u52a1\uff1a\u7b54\u6848\u5e26\u53ef\u70b9\u6761\u6b3e\u51fa\u5904\uff0c\u77e5\u8bc6\u5e93\u91cc\u6ca1\u6709\u5c31\u5f53\u573a\u62d2\u7b54\"\u6211\u4e0d\u7f16\"\uff08FastAPI + bge-small-zh + BM25/RRF \u6df7\u5408\u53ec\u56de + DeepSeek \u7cbe\u6392/\u751f\u6210\uff09\u3002",
-    "id": "inwardzyx/campus-policy-rag",
-    "language": "Python",
-    "name": "inwardzyx/campus-policy-rag",
-    "stars": 1,
-    "updated_at": "2026-10-19T01:37:12Z",
-    "url": "https://github.com/inwardzyx/campus-policy-rag"
   }
 ]
