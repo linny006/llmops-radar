@@ -1,12 +1,57 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61600,
+    "updated_at": "2026-10-20T02:59:13Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-20T02:57:58Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
     "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4983,
-    "updated_at": "2026-10-20T02:45:09Z",
+    "updated_at": "2026-10-20T02:57:39Z",
     "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28454,
+    "updated_at": "2026-10-20T02:53:08Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36046,
+    "updated_at": "2026-10-20T02:45:28Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-20T02:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Turn your knowledge and standards into a tested, reliable AI \u2014 by interview, not by prompting.",
@@ -36,15 +81,6 @@
     "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61599,
-    "updated_at": "2026-10-20T02:42:37Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
     "id": "pom11/hscc",
     "language": "Python",
@@ -61,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T02:42:20Z",
     "url": "https://github.com/abdullahimohamed101/agent-black-box"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28453,
-    "updated_at": "2026-10-20T02:42:51Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
@@ -99,15 +126,6 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-20T02:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Building reliable LLM Agents \u2014 Agent eval, evidence grounding, context engineering",
     "id": "KBber/KBber",
     "language": "\u2014",
@@ -122,7 +140,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 205,
-    "updated_at": "2026-10-20T02:41:04Z",
+    "updated_at": "2026-10-20T03:00:04Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -158,7 +176,7 @@
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 111,
-    "updated_at": "2026-10-20T02:32:15Z",
+    "updated_at": "2026-10-20T02:59:52Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -180,15 +198,6 @@
     "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-20T02:01:07Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
     "id": "llmspendguard/llm-spendguard",
     "language": "Python",
@@ -198,12 +207,21 @@
     "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26159,
+    "updated_at": "2026-10-20T01:45:18Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
     "id": "alibaba/rtp-llm",
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1364,
-    "updated_at": "2026-10-20T02:40:22Z",
+    "updated_at": "2026-10-20T02:58:19Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -220,7 +238,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11910,
+    "stars": 11909,
     "updated_at": "2026-10-20T01:43:01Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -239,7 +257,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22755,
-    "updated_at": "2026-10-20T01:42:06Z",
+    "updated_at": "2026-10-20T02:47:23Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -288,15 +306,6 @@
     "url": "https://github.com/dheerajkarwasra/spanlight"
   },
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36043,
-    "updated_at": "2026-10-20T01:35:08Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "50+ curated LLM observability tools PLUS 26 Agent Skills (several with runnable, unit-tested scripts) to build, evaluate",
     "id": "ContextJet-ai/awesome-llm-observability",
     "language": "Python",
@@ -340,6 +349,15 @@
     "stars": 30645,
     "updated_at": "2026-10-20T01:18:30Z",
     "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
+    "description": "insideLLMs is a Python library and CLI for comparing LLM behaviour across models using shared probes and datasets. The h",
+    "id": "dr-gareth-roberts/insideLLMs",
+    "language": "Python",
+    "name": "dr-gareth-roberts/insideLLMs",
+    "stars": 2,
+    "updated_at": "2026-10-20T01:17:17Z",
+    "url": "https://github.com/dr-gareth-roberts/insideLLMs"
   },
   {
     "description": "Top LLM Observability (Opensource)  Star if you like it! ",
@@ -405,13 +423,13 @@
     "url": "https://github.com/Abilityai/trinity"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26158,
-    "updated_at": "2026-10-20T01:45:18Z",
-    "url": "https://github.com/promptfoo/promptfoo"
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 111,
+    "updated_at": "2026-10-20T01:03:35Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
     "description": "A local flight recorder for AI coding agents and LLM runtimes. Passes OpenAI-compatible traffic through (e.g. OpenCode o",
@@ -430,23 +448,5 @@
     "stars": 9,
     "updated_at": "2026-10-20T00:24:38Z",
     "url": "https://github.com/HikaruEgashira/otel-hooks"
-  },
-  {
-    "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
-    "id": "hjongc/openrouter-endpoint-watch",
-    "language": "Python",
-    "name": "hjongc/openrouter-endpoint-watch",
-    "stars": 0,
-    "updated_at": "2026-10-20T00:24:00Z",
-    "url": "https://github.com/hjongc/openrouter-endpoint-watch"
-  },
-  {
-    "description": "Profile of Dr. Ravi Teja Thiriveedhi \u2014 clinician turned AI systems architect: multi-agent platforms, AI governance, LLM ",
-    "id": "Raviteja2k2k/Raviteja2k2k",
-    "language": "Python",
-    "name": "Raviteja2k2k/Raviteja2k2k",
-    "stars": 0,
-    "updated_at": "2026-10-20T00:32:46Z",
-    "url": "https://github.com/Raviteja2k2k/Raviteja2k2k"
   }
 ]
