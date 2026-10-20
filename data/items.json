@@ -1,5 +1,104 @@
 [
   {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5911,
+    "updated_at": "2026-10-20T06:15:18Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61615,
+    "updated_at": "2026-10-20T06:13:56Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Agent skill that gives anyone the judgment of a senior AI product manager: turn 'we want an agent' into a verified probl",
+    "id": "ChanMeng666/ai-product-manager-skill",
+    "language": "JavaScript",
+    "name": "ChanMeng666/ai-product-manager-skill",
+    "stars": 0,
+    "updated_at": "2026-10-20T06:13:37Z",
+    "url": "https://github.com/ChanMeng666/ai-product-manager-skill"
+  },
+  {
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
+    "language": "Python",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 53,
+    "updated_at": "2026-10-20T06:13:26Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
+    "description": "Portable Agent Skills for building, operating, evaluating, and governing LLM-Wiki knowledge systems.",
+    "id": "po4yka/llm-wiki-skills",
+    "language": "JavaScript",
+    "name": "po4yka/llm-wiki-skills",
+    "stars": 4,
+    "updated_at": "2026-10-20T06:11:04Z",
+    "url": "https://github.com/po4yka/llm-wiki-skills"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 2179,
+    "updated_at": "2026-10-20T06:10:39Z",
+    "url": "https://github.com/future-agi/future-agi"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 3004,
+    "updated_at": "2026-10-20T06:05:58Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
+    "id": "hjongc/openrouter-endpoint-watch",
+    "language": "Python",
+    "name": "hjongc/openrouter-endpoint-watch",
+    "stars": 0,
+    "updated_at": "2026-10-20T06:04:51Z",
+    "url": "https://github.com/hjongc/openrouter-endpoint-watch"
+  },
+  {
+    "description": "\ud83e\uddca Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 \ud83c\udf53",
+    "id": "Helicone/helicone",
+    "language": "TypeScript",
+    "name": "Helicone/helicone",
+    "stars": 6227,
+    "updated_at": "2026-10-20T06:02:39Z",
+    "url": "https://github.com/Helicone/helicone"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-20T06:03:48Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-20T06:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "A local-first smoke test for OpenAI-compatible LLM endpoints.",
     "id": "LydiaTools/llm-endpoint-doctor",
     "language": "Python",
@@ -32,7 +131,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 36056,
-    "updated_at": "2026-10-20T05:59:32Z",
+    "updated_at": "2026-10-20T06:13:12Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -43,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T05:51:43Z",
     "url": "https://github.com/UtkuWisniewski1658/ZizkaDB"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61614,
-    "updated_at": "2026-10-20T05:58:25Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -90,15 +180,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-20T05:45:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
     "id": "chiarasato81604/ZizkaDB",
     "language": "Python",
@@ -113,7 +194,7 @@
     "language": "Python",
     "name": "llmspendguard/llm-spendguard",
     "stars": 0,
-    "updated_at": "2026-10-20T05:54:00Z",
+    "updated_at": "2026-10-20T06:04:23Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
@@ -135,12 +216,21 @@
     "url": "https://github.com/tahircengiz/LLMScale"
   },
   {
+    "description": "Self-hosted AI Agents Platform for AI Native companies. Claude Code, Codex, Gemini, OpenCode agents. Apache 2.0.  ",
+    "id": "Abilityai/trinity",
+    "language": "Python",
+    "name": "Abilityai/trinity",
+    "stars": 681,
+    "updated_at": "2026-10-20T05:41:41Z",
+    "url": "https://github.com/Abilityai/trinity"
+  },
+  {
     "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4983,
-    "updated_at": "2026-10-20T06:00:06Z",
+    "updated_at": "2026-10-20T06:14:34Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -167,7 +257,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 200,
-    "updated_at": "2026-10-20T06:00:12Z",
+    "updated_at": "2026-10-20T06:03:49Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -187,6 +277,15 @@
     "stars": 0,
     "updated_at": "2026-10-20T05:34:56Z",
     "url": "https://github.com/YenButt991/mcp-server-langfuse"
+  },
+  {
+    "description": "OpenLIT is the open-source agent harness engineering platform: trace, evaluate, guard, and improve everything around the",
+    "id": "openlit/openlit",
+    "language": "TypeScript",
+    "name": "openlit/openlit",
+    "stars": 2862,
+    "updated_at": "2026-10-20T05:31:51Z",
+    "url": "https://github.com/openlit/openlit"
   },
   {
     "description": "Audit any agent decision across its past, present, and future, on one typed graph.",
@@ -214,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T05:25:51Z",
     "url": "https://github.com/Phat1911/Tributary"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 3004,
-    "updated_at": "2026-10-20T05:25:09Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Cheaper and better Greptile alternative runs on your own github actions.",
@@ -268,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T05:16:42Z",
     "url": "https://github.com/rinaronto45906/ZizkaDB"
-  },
-  {
-    "description": "Enterprise Scale AIFactory (esml) - on Azure",
-    "id": "jostrm/azure-enterprise-scale-ml",
-    "language": "Python",
-    "name": "jostrm/azure-enterprise-scale-ml",
-    "stars": 53,
-    "updated_at": "2026-10-20T05:16:32Z",
-    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
   },
   {
     "description": "Product analytics for AI Assistants",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-20T04:59:00Z",
     "url": "https://github.com/carmen8468/juror"
-  },
-  {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-20T05:00:32Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
-    "description": "Production LLM call layer for AI agents and tools: keep OpenAI/Anthropic/AI SDK/LiteLLM, hot-swap models with MDA preset",
-    "id": "michellebryant153/llmix",
-    "language": "Python",
-    "name": "michellebryant153/llmix",
-    "stars": 0,
-    "updated_at": "2026-10-20T04:56:11Z",
-    "url": "https://github.com/michellebryant153/llmix"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 7,
-    "updated_at": "2026-10-20T05:38:47Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "Product analytics for AI Assistants",
-    "id": "ElizabethJuncker40643/trubrics-python",
-    "language": "Python",
-    "name": "ElizabethJuncker40643/trubrics-python",
-    "stars": 0,
-    "updated_at": "2026-10-20T04:52:52Z",
-    "url": "https://github.com/ElizabethJuncker40643/trubrics-python"
-  },
-  {
-    "description": "See what your Google ADK agent costs (per-invocation USD from token usage) and fail CI when it gets more expensive.",
-    "id": "gaurav-gandhi-2411/adk-tracegauge",
-    "language": "Python",
-    "name": "gaurav-gandhi-2411/adk-tracegauge",
-    "stars": 0,
-    "updated_at": "2026-10-20T04:45:50Z",
-    "url": "https://github.com/gaurav-gandhi-2411/adk-tracegauge"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5911,
-    "updated_at": "2026-10-20T05:58:16Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "Continuous Evaluation Infrastructure for Production AI",
-    "id": "Red1-Rahman/NiriZan",
-    "language": "Jupyter Notebook",
-    "name": "Red1-Rahman/NiriZan",
-    "stars": 3,
-    "updated_at": "2026-10-20T04:37:00Z",
-    "url": "https://github.com/Red1-Rahman/NiriZan"
-  },
-  {
-    "description": "Self-hosted AI Agents Platform for AI Native companies. Claude Code, Codex, Gemini, OpenCode agents. Apache 2.0.  ",
-    "id": "Abilityai/trinity",
-    "language": "Python",
-    "name": "Abilityai/trinity",
-    "stars": 680,
-    "updated_at": "2026-10-20T05:41:41Z",
-    "url": "https://github.com/Abilityai/trinity"
-  },
-  {
-    "description": "ClearML - Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data Management, Pipeline, Orchestra",
-    "id": "clearml/clearml",
-    "language": "Python",
-    "name": "clearml/clearml",
-    "stars": 6910,
-    "updated_at": "2026-10-20T04:19:25Z",
-    "url": "https://github.com/clearml/clearml"
   }
 ]
