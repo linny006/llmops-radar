@@ -1,30 +1,84 @@
 [
   {
+    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
+    "id": "luetzey/who2be",
+    "language": "Python",
+    "name": "luetzey/who2be",
+    "stars": 0,
+    "updated_at": "2026-10-20T19:13:52Z",
+    "url": "https://github.com/luetzey/who2be"
+  },
+  {
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
+    "language": "Python",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 53,
+    "updated_at": "2026-10-20T19:12:26Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
     "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
     "id": "rrahimi-uci/caliber-suite",
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 2,
-    "updated_at": "2026-10-20T18:59:59Z",
+    "updated_at": "2026-10-20T19:11:28Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28467,
-    "updated_at": "2026-10-20T18:59:30Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 61665,
-    "updated_at": "2026-10-20T18:59:31Z",
+    "stars": 61666,
+    "updated_at": "2026-10-20T19:15:15Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
+    "id": "burakdede/lorepack",
+    "language": "TypeScript",
+    "name": "burakdede/lorepack",
+    "stars": 4,
+    "updated_at": "2026-10-20T19:10:44Z",
+    "url": "https://github.com/burakdede/lorepack"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 9470,
+    "updated_at": "2026-10-20T19:09:52Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22781,
+    "updated_at": "2026-10-20T19:13:45Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-20T19:08:12Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-20T19:06:14Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
     "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
@@ -32,8 +86,35 @@
     "language": "Python",
     "name": "SourceShift/mini-ork",
     "stars": 32,
-    "updated_at": "2026-10-20T18:56:01Z",
+    "updated_at": "2026-10-20T19:05:03Z",
     "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Open Source Ai by CodesbyFebin \u2013 all open-source AI agent & LLM stacks in one repo: LLM gateways, free LLM APIs, chat UI",
+    "id": "CodesbyFebin/Open-Source-Ai",
+    "language": "Python",
+    "name": "CodesbyFebin/Open-Source-Ai",
+    "stars": 1,
+    "updated_at": "2026-10-20T19:00:49Z",
+    "url": "https://github.com/CodesbyFebin/Open-Source-Ai"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-20T19:00:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28467,
+    "updated_at": "2026-10-20T19:00:42Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -45,30 +126,12 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "Enterprise Scale AIFactory (esml) - on Azure",
-    "id": "jostrm/azure-enterprise-scale-ml",
-    "language": "Python",
-    "name": "jostrm/azure-enterprise-scale-ml",
-    "stars": 53,
-    "updated_at": "2026-10-20T18:54:40Z",
-    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 9469,
-    "updated_at": "2026-10-20T18:53:29Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
     "id": "vocion/vocion-core",
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-20T18:56:14Z",
+    "updated_at": "2026-10-20T19:07:01Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -77,17 +140,8 @@
     "language": "Python",
     "name": "fadenstack/fadenstack",
     "stars": 2,
-    "updated_at": "2026-10-20T18:57:23Z",
+    "updated_at": "2026-10-20T19:04:19Z",
     "url": "https://github.com/fadenstack/fadenstack"
-  },
-  {
-    "description": "Open Source Ai by CodesbyFebin \u2013 all open-source AI agent & LLM stacks in one repo: LLM gateways, free LLM APIs, chat UI",
-    "id": "CodesbyFebin/Open-Source-Ai",
-    "language": "Python",
-    "name": "CodesbyFebin/Open-Source-Ai",
-    "stars": 1,
-    "updated_at": "2026-10-20T18:53:11Z",
-    "url": "https://github.com/CodesbyFebin/Open-Source-Ai"
   },
   {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
@@ -95,7 +149,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 707,
-    "updated_at": "2026-10-20T18:51:40Z",
+    "updated_at": "2026-10-20T19:05:29Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -108,21 +162,12 @@
     "url": "https://github.com/RobinaMirbahar/cloudguard-gemma-agent"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-20T18:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11926,
-    "updated_at": "2026-10-20T18:59:38Z",
+    "updated_at": "2026-10-20T19:12:08Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -149,7 +194,7 @@
     "language": "Python",
     "name": "digline/digline",
     "stars": 9,
-    "updated_at": "2026-10-20T18:40:39Z",
+    "updated_at": "2026-10-20T19:10:59Z",
     "url": "https://github.com/digline/digline"
   },
   {
@@ -207,15 +252,6 @@
     "url": "https://github.com/langfuse/langfuse"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22781,
-    "updated_at": "2026-10-20T18:56:28Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Official O11y One SDKs for TypeScript, Python and Go, plus o11y-eval, the CI runner and PR-diff action that gate release",
     "id": "o11y-one/o11y-one-sdk",
     "language": "TypeScript",
@@ -234,21 +270,12 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-20T18:17:41Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
     "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
     "id": "NVIDIA-NeMo/nemo-helix",
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 113,
-    "updated_at": "2026-10-20T18:55:44Z",
+    "updated_at": "2026-10-20T19:14:25Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -279,21 +306,12 @@
     "url": "https://github.com/prasad-kavuri/prasad-portfolio"
   },
   {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-20T19:00:05Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
     "id": "decimal-labs/decimalai-python",
     "language": "Python",
     "name": "decimal-labs/decimalai-python",
     "stars": 1,
-    "updated_at": "2026-10-20T18:24:08Z",
+    "updated_at": "2026-10-20T19:04:13Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
@@ -302,7 +320,7 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-20T18:59:29Z",
+    "updated_at": "2026-10-20T19:09:15Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -337,7 +355,7 @@
     "id": "respanai/respan-gateway",
     "language": "Rust",
     "name": "respanai/respan-gateway",
-    "stars": 23,
+    "stars": 24,
     "updated_at": "2026-10-20T17:37:59Z",
     "url": "https://github.com/respanai/respan-gateway"
   },
@@ -356,17 +374,8 @@
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 684,
-    "updated_at": "2026-10-20T18:53:35Z",
+    "updated_at": "2026-10-20T19:00:39Z",
     "url": "https://github.com/Abilityai/trinity"
-  },
-  {
-    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
-    "id": "luetzey/who2be",
-    "language": "Python",
-    "name": "luetzey/who2be",
-    "stars": 0,
-    "updated_at": "2026-10-20T18:45:45Z",
-    "url": "https://github.com/luetzey/who2be"
   },
   {
     "description": "Nagizaaz Shaik \u2014 ML & AI Systems Engineer",
@@ -439,14 +448,5 @@
     "stars": 65,
     "updated_at": "2026-10-20T17:08:00Z",
     "url": "https://github.com/Arize-ai/arize-skills"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26191,
-    "updated_at": "2026-10-20T17:04:08Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   }
 ]
