@@ -4,27 +4,36 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 61610,
-    "updated_at": "2026-10-20T04:29:21Z",
+    "stars": 61611,
+    "updated_at": "2026-10-20T04:43:35Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
     "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1272,
-    "updated_at": "2026-10-20T04:29:26Z",
-    "url": "https://github.com/Arize-ai/openinference"
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5911,
+    "updated_at": "2026-10-20T04:42:40Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
-    "description": "14 zero-dependency gates that stop AI-agent failures before they ship.",
-    "id": "chenhz01/agent-gates",
+    "description": "Continuous Evaluation Infrastructure for Production AI",
+    "id": "Red1-Rahman/NiriZan",
+    "language": "Jupyter Notebook",
+    "name": "Red1-Rahman/NiriZan",
+    "stars": 3,
+    "updated_at": "2026-10-20T04:37:00Z",
+    "url": "https://github.com/Red1-Rahman/NiriZan"
+  },
+  {
+    "description": "Self-hosted AI Agents Platform for AI Native companies. Claude Code, Codex, Gemini, OpenCode agents. Apache 2.0.  ",
+    "id": "Abilityai/trinity",
     "language": "Python",
-    "name": "chenhz01/agent-gates",
-    "stars": 0,
-    "updated_at": "2026-10-20T04:27:51Z",
-    "url": "https://github.com/chenhz01/agent-gates"
+    "name": "Abilityai/trinity",
+    "stars": 680,
+    "updated_at": "2026-10-20T04:36:00Z",
+    "url": "https://github.com/Abilityai/trinity"
   },
   {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
@@ -32,8 +41,44 @@
     "language": "Python",
     "name": "llmspendguard/llm-spendguard",
     "stars": 0,
-    "updated_at": "2026-10-20T04:20:19Z",
+    "updated_at": "2026-10-20T04:35:37Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "See what your Google ADK agent costs (per-invocation USD from token usage) and fail CI when it gets more expensive.",
+    "id": "gaurav-gandhi-2411/adk-tracegauge",
+    "language": "Python",
+    "name": "gaurav-gandhi-2411/adk-tracegauge",
+    "stars": 0,
+    "updated_at": "2026-10-20T04:36:26Z",
+    "url": "https://github.com/gaurav-gandhi-2411/adk-tracegauge"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-20T04:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1272,
+    "updated_at": "2026-10-20T04:30:26Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "AI agent gates: 14 zero-dependency CI checks for agent failure modes \u2014 loop, permission, context, memory, drift, leak.",
+    "id": "chenhz01/agent-gates",
+    "language": "Python",
+    "name": "chenhz01/agent-gates",
+    "stars": 0,
+    "updated_at": "2026-10-20T04:27:51Z",
+    "url": "https://github.com/chenhz01/agent-gates"
   },
   {
     "description": "ClearML - Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data Management, Pipeline, Orchestra",
@@ -54,15 +99,6 @@
     "url": "https://github.com/toxicwind/ranch"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-20T04:15:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
     "id": "sauravbhattacharya001/prompt",
     "language": "C#",
@@ -76,7 +112,7 @@
     "id": "vllm-project/vllm-ascend",
     "language": "Python",
     "name": "vllm-project/vllm-ascend",
-    "stars": 3004,
+    "stars": 3005,
     "updated_at": "2026-10-20T04:08:57Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
@@ -135,15 +171,6 @@
     "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
-    "description": "Self-hosted AI Agents Platform for AI Native companies. Claude Code, Codex, Gemini, OpenCode agents. Apache 2.0.  ",
-    "id": "Abilityai/trinity",
-    "language": "Python",
-    "name": "Abilityai/trinity",
-    "stars": 679,
-    "updated_at": "2026-10-20T04:24:23Z",
-    "url": "https://github.com/Abilityai/trinity"
-  },
-  {
     "description": "The AI architecture for a SaaS usage assistant: text-to-SQL accuracy, tenant isolation and cost measured on three models",
     "id": "technobasant/ai-platform-architecture",
     "language": "Python",
@@ -167,7 +194,7 @@
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 25,
-    "updated_at": "2026-10-20T04:01:05Z",
+    "updated_at": "2026-10-20T04:45:00Z",
     "url": "https://github.com/AixleHQ/flow"
   },
   {
@@ -185,7 +212,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4983,
-    "updated_at": "2026-10-20T04:23:31Z",
+    "updated_at": "2026-10-20T04:44:24Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -230,7 +257,7 @@
     "language": "Python",
     "name": "abdullahimohamed101/agent-black-box",
     "stars": 0,
-    "updated_at": "2026-10-20T03:22:56Z",
+    "updated_at": "2026-10-20T04:35:37Z",
     "url": "https://github.com/abdullahimohamed101/agent-black-box"
   },
   {
@@ -356,7 +383,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1364,
-    "updated_at": "2026-10-20T04:21:21Z",
+    "updated_at": "2026-10-20T04:36:47Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-20T01:35:21Z",
     "url": "https://github.com/dheerajkarwasra/spanlight"
-  },
-  {
-    "description": "50+ curated LLM observability tools PLUS 26 Agent Skills (several with runnable, unit-tested scripts) to build, evaluate",
-    "id": "ContextJet-ai/awesome-llm-observability",
-    "language": "Python",
-    "name": "ContextJet-ai/awesome-llm-observability",
-    "stars": 42,
-    "updated_at": "2026-10-20T01:34:59Z",
-    "url": "https://github.com/ContextJet-ai/awesome-llm-observability"
-  },
-  {
-    "description": "Production Qwen3.8-27B on one RTX 3090: lossless MTP speculative decoding (2x), KLD-validated quantization, key gateway,",
-    "id": "FlorianMartins/qwen-selfhosted-serving",
-    "language": "Python",
-    "name": "FlorianMartins/qwen-selfhosted-serving",
-    "stars": 0,
-    "updated_at": "2026-10-20T01:35:39Z",
-    "url": "https://github.com/FlorianMartins/qwen-selfhosted-serving"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-20T01:31:16Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   }
 ]
