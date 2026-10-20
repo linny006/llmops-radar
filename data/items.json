@@ -1,5 +1,113 @@
 [
   {
+    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4983,
+    "updated_at": "2026-10-20T02:45:09Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Turn your knowledge and standards into a tested, reliable AI \u2014 by interview, not by prompting.",
+    "id": "tanveerkanala-cmd/ai-calibrator",
+    "language": "Python",
+    "name": "tanveerkanala-cmd/ai-calibrator",
+    "stars": 0,
+    "updated_at": "2026-10-20T02:44:58Z",
+    "url": "https://github.com/tanveerkanala-cmd/ai-calibrator"
+  },
+  {
+    "description": "A hands-on library for DevOps, Cloud, and AI engineers: real production scenarios for AWS, Kubernetes, Docker, and LLMOp",
+    "id": "sandeepk24/learn-devops-playbook",
+    "language": "Python",
+    "name": "sandeepk24/learn-devops-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-20T02:44:28Z",
+    "url": "https://github.com/sandeepk24/learn-devops-playbook"
+  },
+  {
+    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-10-20T02:43:46Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61599,
+    "updated_at": "2026-10-20T02:42:37Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 7,
+    "updated_at": "2026-10-20T02:41:23Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Flight recorder & observability for AI agents: trace every model call, tool call, file edit and shell command live, with",
+    "id": "abdullahimohamed101/agent-black-box",
+    "language": "Python",
+    "name": "abdullahimohamed101/agent-black-box",
+    "stars": 0,
+    "updated_at": "2026-10-20T02:42:20Z",
+    "url": "https://github.com/abdullahimohamed101/agent-black-box"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28453,
+    "updated_at": "2026-10-20T02:42:51Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 1,
+    "updated_at": "2026-10-20T02:40:34Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1271,
+    "updated_at": "2026-10-20T02:33:29Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 3003,
+    "updated_at": "2026-10-20T02:31:23Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-20T02:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Building reliable LLM Agents \u2014 Agent eval, evidence grounding, context engineering",
     "id": "KBber/KBber",
     "language": "\u2014",
@@ -9,12 +117,21 @@
     "url": "https://github.com/KBber/KBber"
   },
   {
+    "description": "The execution control plane for AI agents. Govern every model request, MCP tool call, A2A delegation, and downstream act",
+    "id": "GetBusbar/busbar",
+    "language": "Rust",
+    "name": "GetBusbar/busbar",
+    "stars": 205,
+    "updated_at": "2026-10-20T02:41:04Z",
+    "url": "https://github.com/GetBusbar/busbar"
+  },
+  {
     "description": "AI agent execution governance: pre-effect authorization, single-use permissions, policy enforcement, and verifiable reco",
     "id": "veritasfuji-japan/veritas_os",
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 42,
-    "updated_at": "2026-10-20T02:29:46Z",
+    "updated_at": "2026-10-20T02:36:07Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
@@ -27,24 +144,6 @@
     "url": "https://github.com/pragmatiks/pragma-providers"
   },
   {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 7,
-    "updated_at": "2026-10-20T02:21:33Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61597,
-    "updated_at": "2026-10-20T02:29:45Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
     "id": "toxicwind/ranch",
     "language": "Rust",
@@ -54,57 +153,12 @@
     "url": "https://github.com/toxicwind/ranch"
   },
   {
-    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-10-20T02:17:01Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-20T02:15:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 1,
-    "updated_at": "2026-10-20T02:15:20Z",
-    "url": "https://github.com/a-novel/service-genai"
-  },
-  {
-    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4983,
-    "updated_at": "2026-10-20T02:29:19Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 3002,
-    "updated_at": "2026-10-20T02:02:48Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
     "id": "NVIDIA-NeMo/nemo-helix",
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 111,
-    "updated_at": "2026-10-20T02:28:45Z",
+    "updated_at": "2026-10-20T02:32:15Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -140,7 +194,7 @@
     "language": "Python",
     "name": "llmspendguard/llm-spendguard",
     "stars": 0,
-    "updated_at": "2026-10-20T02:25:15Z",
+    "updated_at": "2026-10-20T02:38:01Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
@@ -149,7 +203,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1364,
-    "updated_at": "2026-10-20T02:29:09Z",
+    "updated_at": "2026-10-20T02:40:22Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -214,15 +268,6 @@
     "stars": 4,
     "updated_at": "2026-10-20T01:51:55Z",
     "url": "https://github.com/vijaym2k6/SteerPlane"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28453,
-    "updated_at": "2026-10-20T01:36:07Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-20T00:32:46Z",
     "url": "https://github.com/Raviteja2k2k/Raviteja2k2k"
-  },
-  {
-    "description": "Personal agentic AI assistant: LangGraph orchestration, CrewAI specialist crews, MCP tools, Obsidian memory, human-in-th",
-    "id": "Siddhu-6/Synapse",
-    "language": "Python",
-    "name": "Siddhu-6/Synapse",
-    "stars": 1,
-    "updated_at": "2026-10-20T00:08:18Z",
-    "url": "https://github.com/Siddhu-6/Synapse"
-  },
-  {
-    "description": "One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod",
-    "id": "valteresj2/agent-hangar",
-    "language": "Python",
-    "name": "valteresj2/agent-hangar",
-    "stars": 3,
-    "updated_at": "2026-10-20T00:05:43Z",
-    "url": "https://github.com/valteresj2/agent-hangar"
-  },
-  {
-    "description": "Multi-tenant, permissions-aware knowledge assistant. A portfolio project about the operational layer around an LLM app: ",
-    "id": "alexvervloet/knowledge-desk",
-    "language": "Python",
-    "name": "alexvervloet/knowledge-desk",
-    "stars": 1,
-    "updated_at": "2026-10-19T23:58:25Z",
-    "url": "https://github.com/alexvervloet/knowledge-desk"
-  },
-  {
-    "description": "HSAAI is an independent, sovereign, self-hosted enterprise AI platform developed by Haithim Nasher using an AI engineeri",
-    "id": "HSA-AI/HSAAI",
-    "language": "Python",
-    "name": "HSA-AI/HSAAI",
-    "stars": 1,
-    "updated_at": "2026-10-19T23:42:58Z",
-    "url": "https://github.com/HSA-AI/HSAAI"
-  },
-  {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
-    "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 1,
-    "updated_at": "2026-10-19T23:42:04Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
   }
 ]
