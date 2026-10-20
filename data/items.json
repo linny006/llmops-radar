@@ -1,30 +1,48 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61592,
+    "updated_at": "2026-10-20T01:28:38Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "ThakiCloud Tech Blog",
     "id": "ThakiCloud/thakicloud.github.io",
     "language": "JavaScript",
     "name": "ThakiCloud/thakicloud.github.io",
     "stars": 4,
-    "updated_at": "2026-10-20T01:10:53Z",
+    "updated_at": "2026-10-20T01:27:03Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "Open-source LLM observability. See every prompt, completion, token, cost, latency and error as traces and sessions. Pyth",
-    "id": "dheerajkarwasra/spanlight",
+    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
     "language": "Python",
-    "name": "dheerajkarwasra/spanlight",
-    "stars": 0,
-    "updated_at": "2026-10-20T01:09:17Z",
-    "url": "https://github.com/dheerajkarwasra/spanlight"
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-10-20T01:26:43Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-20T01:26:17Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "The platform for continuously improving AI agents.",
+    "id": "overmind-core/overmind",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61590,
-    "updated_at": "2026-10-20T01:13:58Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "overmind-core/overmind",
+    "stars": 669,
+    "updated_at": "2026-10-20T01:25:27Z",
+    "url": "https://github.com/overmind-core/overmind"
   },
   {
     "description": "The safety layer for the AGI era. Runtime guardrails for autonomous AI agents.",
@@ -32,8 +50,80 @@
     "language": "Python",
     "name": "vijaym2k6/SteerPlane",
     "stars": 4,
-    "updated_at": "2026-10-20T01:03:08Z",
+    "updated_at": "2026-10-20T01:22:15Z",
     "url": "https://github.com/vijaym2k6/SteerPlane"
+  },
+  {
+    "description": "Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code \u2014 V3 prototype runs ",
+    "id": "MongLong0214/jev-gate",
+    "language": "TypeScript",
+    "name": "MongLong0214/jev-gate",
+    "stars": 3,
+    "updated_at": "2026-10-20T01:19:28Z",
+    "url": "https://github.com/MongLong0214/jev-gate"
+  },
+  {
+    "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
+    "id": "mesedi-ai/mesedi",
+    "language": "Go",
+    "name": "mesedi-ai/mesedi",
+    "stars": 1,
+    "updated_at": "2026-10-20T01:17:33Z",
+    "url": "https://github.com/mesedi-ai/mesedi"
+  },
+  {
+    "description": "Top LLM Observability (Opensource)  Star if you like it! ",
+    "id": "ishandutta2007/Awesome-LLM-Observability",
+    "language": "\u2014",
+    "name": "ishandutta2007/Awesome-LLM-Observability",
+    "stars": 0,
+    "updated_at": "2026-10-20T01:17:13Z",
+    "url": "https://github.com/ishandutta2007/Awesome-LLM-Observability"
+  },
+  {
+    "description": "A local-first smoke test for OpenAI-compatible LLM endpoints.",
+    "id": "LydiaTools/llm-endpoint-doctor",
+    "language": "Python",
+    "name": "LydiaTools/llm-endpoint-doctor",
+    "stars": 0,
+    "updated_at": "2026-10-20T01:16:55Z",
+    "url": "https://github.com/LydiaTools/llm-endpoint-doctor"
+  },
+  {
+    "description": "A small fine-tuned model that matches frontier APIs on SEC filing extraction at a tenth of the per-call cost: QLoRA fine",
+    "id": "Peter-A-P/fraction-of-the-bill",
+    "language": "Python",
+    "name": "Peter-A-P/fraction-of-the-bill",
+    "stars": 0,
+    "updated_at": "2026-10-20T01:16:26Z",
+    "url": "https://github.com/Peter-A-P/fraction-of-the-bill"
+  },
+  {
+    "description": "Every model call through one library: raw-HTTP provider adapters, a cost ledger row and an OpenTelemetry span per call, ",
+    "id": "Peter-A-P/compliant-ai-gateway",
+    "language": "Python",
+    "name": "Peter-A-P/compliant-ai-gateway",
+    "stars": 0,
+    "updated_at": "2026-10-20T01:16:15Z",
+    "url": "https://github.com/Peter-A-P/compliant-ai-gateway"
+  },
+  {
+    "description": "No prompt or model change ships unless proven not to have regressed: calibrated judges, confidence intervals, CI gating,",
+    "id": "Peter-A-P/ai-release-gate",
+    "language": "Python",
+    "name": "Peter-A-P/ai-release-gate",
+    "stars": 0,
+    "updated_at": "2026-10-20T01:16:10Z",
+    "url": "https://github.com/Peter-A-P/ai-release-gate"
+  },
+  {
+    "description": "Which AI model to use, and did the new version get worse, answered with statistical confidence at a tenth of the evaluat",
+    "id": "Peter-A-P/model-selection-tenth-cost",
+    "language": "Python",
+    "name": "Peter-A-P/model-selection-tenth-cost",
+    "stars": 0,
+    "updated_at": "2026-10-20T01:16:07Z",
+    "url": "https://github.com/Peter-A-P/model-selection-tenth-cost"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -41,8 +131,26 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-10-20T01:00:26Z",
+    "updated_at": "2026-10-20T01:15:25Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Open-source LLM observability. See every prompt, completion, token, cost, latency and error as traces and sessions. Pyth",
+    "id": "dheerajkarwasra/spanlight",
+    "language": "Python",
+    "name": "dheerajkarwasra/spanlight",
+    "stars": 0,
+    "updated_at": "2026-10-20T01:27:48Z",
+    "url": "https://github.com/dheerajkarwasra/spanlight"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22753,
+    "updated_at": "2026-10-20T01:06:34Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
@@ -54,29 +162,11 @@
     "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-20T00:56:11Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
-    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-10-20T00:50:21Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26157,
+    "stars": 26158,
     "updated_at": "2026-10-20T00:44:29Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -90,30 +180,12 @@
     "url": "https://github.com/murillojndem/agent-splice"
   },
   {
-    "description": "Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code \u2014 V3 prototype runs ",
-    "id": "MongLong0214/jev-gate",
-    "language": "TypeScript",
-    "name": "MongLong0214/jev-gate",
-    "stars": 3,
-    "updated_at": "2026-10-20T01:11:06Z",
-    "url": "https://github.com/MongLong0214/jev-gate"
-  },
-  {
-    "description": "Top LLM Observability (Opensource)  Star if you like it! ",
-    "id": "ishandutta2007/Awesome-LLM-Observability",
-    "language": "\u2014",
-    "name": "ishandutta2007/Awesome-LLM-Observability",
-    "stars": 0,
-    "updated_at": "2026-10-20T00:35:05Z",
-    "url": "https://github.com/ishandutta2007/Awesome-LLM-Observability"
-  },
-  {
     "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
     "id": "NVIDIA-NeMo/nemo-helix",
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 111,
-    "updated_at": "2026-10-20T00:25:29Z",
+    "updated_at": "2026-10-20T01:27:07Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -124,15 +196,6 @@
     "stars": 9,
     "updated_at": "2026-10-20T00:24:38Z",
     "url": "https://github.com/HikaruEgashira/otel-hooks"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22752,
-    "updated_at": "2026-10-20T01:06:34Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
@@ -311,7 +374,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 698,
-    "updated_at": "2026-10-20T01:08:19Z",
+    "updated_at": "2026-10-20T01:28:27Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -383,70 +446,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 2178,
-    "updated_at": "2026-10-20T00:48:23Z",
+    "updated_at": "2026-10-20T01:28:56Z",
     "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
-    "id": "rknightion/genai-otel-bridge",
-    "language": "Go",
-    "name": "rknightion/genai-otel-bridge",
-    "stars": 1,
-    "updated_at": "2026-10-20T00:15:00Z",
-    "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
-    "description": "Agenta \u2014 independent third-party profile of a public API surface, by API Evangelist. Agenta is an open-source LLMOps pla",
-    "id": "api-evangelist/agenta",
-    "language": "\u2014",
-    "name": "api-evangelist/agenta",
-    "stars": 0,
-    "updated_at": "2026-10-19T23:22:35Z",
-    "url": "https://github.com/api-evangelist/agenta"
-  },
-  {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1271,
-    "updated_at": "2026-10-19T23:21:36Z",
-    "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-10-19T23:17:55Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "The open standard AI gateway \u2014 PII protection, audit, reliability & cost control as composable interceptors. Same API in",
-    "id": "manojmallick/gavio",
-    "language": "Java",
-    "name": "manojmallick/gavio",
-    "stars": 6,
-    "updated_at": "2026-10-19T23:02:53Z",
-    "url": "https://github.com/manojmallick/gavio"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-10-20T01:14:45Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "",
-    "id": "ainsel-project/ainsel",
-    "language": "Go",
-    "name": "ainsel-project/ainsel",
-    "stars": 2,
-    "updated_at": "2026-10-19T22:52:32Z",
-    "url": "https://github.com/ainsel-project/ainsel"
   }
 ]
