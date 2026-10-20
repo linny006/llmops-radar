@@ -4,9 +4,27 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 61616,
-    "updated_at": "2026-10-20T06:41:42Z",
+    "stars": 61620,
+    "updated_at": "2026-10-20T07:00:07Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-20T06:57:37Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "Self-hostable observability SDK for continuous grounding-risk and drift monitoring in multi-agent LLM systems",
+    "id": "Soum-Code/agentpulse",
+    "language": "Python",
+    "name": "Soum-Code/agentpulse",
+    "stars": 0,
+    "updated_at": "2026-10-20T06:48:27Z",
+    "url": "https://github.com/Soum-Code/agentpulse"
   },
   {
     "description": "Self-hostable AI token pools \u2014 govern your org's AI usage with per-member keys, quotas, and leak detection; or deposit s",
@@ -14,16 +32,61 @@
     "language": "Rust",
     "name": "Phat1911/Tributary",
     "stars": 0,
-    "updated_at": "2026-10-20T06:40:02Z",
+    "updated_at": "2026-10-20T06:48:24Z",
     "url": "https://github.com/Phat1911/Tributary"
+  },
+  {
+    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
+    "id": "coze-dev/coze-loop",
+    "language": "Go",
+    "name": "coze-dev/coze-loop",
+    "stars": 5778,
+    "updated_at": "2026-10-20T06:46:50Z",
+    "url": "https://github.com/coze-dev/coze-loop"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 7,
+    "updated_at": "2026-10-20T06:46:13Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Tuned Variables Language (TVL) by Traigent: typed specification language, validators, CLI tools, editor support, and doc",
+    "id": "Traigent/tvl",
+    "language": "Python",
+    "name": "Traigent/tvl",
+    "stars": 0,
+    "updated_at": "2026-10-20T06:46:11Z",
+    "url": "https://github.com/Traigent/tvl"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-20T06:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28456,
+    "updated_at": "2026-10-20T06:51:30Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 36058,
-    "updated_at": "2026-10-20T06:38:36Z",
+    "stars": 36059,
+    "updated_at": "2026-10-20T06:53:51Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -45,21 +108,12 @@
     "url": "https://github.com/tonyweckstrom1987/agentti-pohja"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-20T06:30:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
     "id": "llmspendguard/llm-spendguard",
     "language": "Python",
     "name": "llmspendguard/llm-spendguard",
     "stars": 0,
-    "updated_at": "2026-10-20T06:28:36Z",
+    "updated_at": "2026-10-20T06:45:31Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
@@ -86,7 +140,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1365,
-    "updated_at": "2026-10-20T06:43:55Z",
+    "updated_at": "2026-10-20T06:57:16Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -122,7 +176,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5912,
-    "updated_at": "2026-10-20T06:29:13Z",
+    "updated_at": "2026-10-20T06:54:47Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -140,7 +194,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 2180,
-    "updated_at": "2026-10-20T06:18:35Z",
+    "updated_at": "2026-10-20T06:47:54Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -198,15 +252,6 @@
     "url": "https://github.com/Helicone/helicone"
   },
   {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-20T06:03:48Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
     "description": "A local-first smoke test for OpenAI-compatible LLM endpoints.",
     "id": "LydiaTools/llm-endpoint-doctor",
     "language": "Python",
@@ -232,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T05:51:43Z",
     "url": "https://github.com/UtkuWisniewski1658/ZizkaDB"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28455,
-    "updated_at": "2026-10-20T06:39:59Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Cheaper and better Greptile alternative runs on your own github actions.",
@@ -311,7 +347,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4983,
-    "updated_at": "2026-10-20T06:40:28Z",
+    "updated_at": "2026-10-20T06:51:45Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -356,7 +392,7 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 42,
-    "updated_at": "2026-10-20T05:29:44Z",
+    "updated_at": "2026-10-20T06:49:58Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 30644,
     "updated_at": "2026-10-20T06:40:30Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Product analytics for AI Assistants",
-    "id": "michalr812/trubrics-python",
-    "language": "Python",
-    "name": "michalr812/trubrics-python",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:15:33Z",
-    "url": "https://github.com/michalr812/trubrics-python"
-  },
-  {
-    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
-    "id": "luetzey/who2be",
-    "language": "Python",
-    "name": "luetzey/who2be",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:52:43Z",
-    "url": "https://github.com/luetzey/who2be"
-  },
-  {
-    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
-    "id": "Cheryl2249/llmaker",
-    "language": "Go",
-    "name": "Cheryl2249/llmaker",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:09:53Z",
-    "url": "https://github.com/Cheryl2249/llmaker"
-  },
-  {
-    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
-    "id": "judithyilmaz/llmaker",
-    "language": "Go",
-    "name": "judithyilmaz/llmaker",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:06:56Z",
-    "url": "https://github.com/judithyilmaz/llmaker"
   }
 ]
