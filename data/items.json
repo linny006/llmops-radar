@@ -1,5 +1,131 @@
 [
   {
+    "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
+    "id": "chiarasato81604/ZizkaDB",
+    "language": "Python",
+    "name": "chiarasato81604/ZizkaDB",
+    "stars": 0,
+    "updated_at": "2026-10-20T05:45:19Z",
+    "url": "https://github.com/chiarasato81604/ZizkaDB"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-10-20T05:44:51Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 1,
+    "updated_at": "2026-10-20T05:44:44Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61613,
+    "updated_at": "2026-10-20T05:44:06Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Estimate LLM VRAM \u2014 model weights, KV cache, context window & concurrent users \u2014 and find the right GPU. Live Hugging Fa",
+    "id": "tahircengiz/LLMScale",
+    "language": "TypeScript",
+    "name": "tahircengiz/LLMScale",
+    "stars": 0,
+    "updated_at": "2026-10-20T05:42:50Z",
+    "url": "https://github.com/tahircengiz/LLMScale"
+  },
+  {
+    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4983,
+    "updated_at": "2026-10-20T05:44:55Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1272,
+    "updated_at": "2026-10-20T05:40:56Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-20T05:38:11Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 200,
+    "updated_at": "2026-10-20T05:37:51Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "A local-first smoke test for OpenAI-compatible LLM endpoints.",
+    "id": "LydiaTools/llm-endpoint-doctor",
+    "language": "Python",
+    "name": "LydiaTools/llm-endpoint-doctor",
+    "stars": 0,
+    "updated_at": "2026-10-20T05:36:35Z",
+    "url": "https://github.com/LydiaTools/llm-endpoint-doctor"
+  },
+  {
+    "description": "A MCP server allowing LLM agents to easily connect and retrieve data from any database",
+    "id": "pelletier8324/turbular",
+    "language": "Python",
+    "name": "pelletier8324/turbular",
+    "stars": 0,
+    "updated_at": "2026-10-20T05:36:08Z",
+    "url": "https://github.com/pelletier8324/turbular"
+  },
+  {
+    "description": "Model Context Protocol (MCP) Server for Langfuse Prompt Management. This server allows you to access and manage your Lan",
+    "id": "YenButt991/mcp-server-langfuse",
+    "language": "TypeScript",
+    "name": "YenButt991/mcp-server-langfuse",
+    "stars": 0,
+    "updated_at": "2026-10-20T05:34:56Z",
+    "url": "https://github.com/YenButt991/mcp-server-langfuse"
+  },
+  {
+    "description": "Audit any agent decision across its past, present, and future, on one typed graph.",
+    "id": "yzhao062/auditable",
+    "language": "Python",
+    "name": "yzhao062/auditable",
+    "stars": 28,
+    "updated_at": "2026-10-20T05:31:06Z",
+    "url": "https://github.com/yzhao062/auditable"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-20T05:30:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI agent execution governance: pre-effect authorization, single-use permissions, policy enforcement, and verifiable reco",
     "id": "veritasfuji-japan/veritas_os",
     "language": "Python",
@@ -13,7 +139,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 36052,
+    "stars": 36055,
     "updated_at": "2026-10-20T05:27:12Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -25,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T05:25:51Z",
     "url": "https://github.com/Phat1911/Tributary"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:26:07Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
@@ -81,24 +198,6 @@
     "url": "https://github.com/somchailiu/juror"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61613,
-    "updated_at": "2026-10-20T05:29:54Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-20T05:18:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
     "id": "rinaronto45906/ZizkaDB",
     "language": "Python",
@@ -135,15 +234,6 @@
     "url": "https://github.com/luetzey/who2be"
   },
   {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:14:50Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
     "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
     "id": "Cheryl2249/llmaker",
     "language": "Go",
@@ -178,15 +268,6 @@
     "stars": 4,
     "updated_at": "2026-10-20T05:04:53Z",
     "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Audit any agent decision across its past, present, and future, on one typed graph.",
-    "id": "yzhao062/auditable",
-    "language": "Python",
-    "name": "yzhao062/auditable",
-    "stars": 28,
-    "updated_at": "2026-10-20T05:02:59Z",
-    "url": "https://github.com/yzhao062/auditable"
   },
   {
     "description": "Product analytics for AI Assistants",
@@ -234,15 +315,6 @@
     "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1272,
-    "updated_at": "2026-10-20T05:28:31Z",
-    "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
     "description": "Production LLM call layer for AI agents and tools: keep OpenAI/Anthropic/AI SDK/LiteLLM, hot-swap models with MDA preset",
     "id": "michellebryant153/llmix",
     "language": "Python",
@@ -257,7 +329,7 @@
     "language": "Python",
     "name": "pom11/hscc",
     "stars": 7,
-    "updated_at": "2026-10-20T05:29:25Z",
+    "updated_at": "2026-10-20T05:38:47Z",
     "url": "https://github.com/pom11/hscc"
   },
   {
@@ -302,7 +374,7 @@
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 680,
-    "updated_at": "2026-10-20T05:18:59Z",
+    "updated_at": "2026-10-20T05:41:41Z",
     "url": "https://github.com/Abilityai/trinity"
   },
   {
@@ -347,7 +419,7 @@
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 111,
-    "updated_at": "2026-10-20T05:28:36Z",
+    "updated_at": "2026-10-20T05:44:53Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -355,7 +427,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26164,
+    "stars": 26166,
     "updated_at": "2026-10-20T03:54:47Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-20T03:52:01Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
-    "description": "The AI architecture for a SaaS usage assistant: text-to-SQL accuracy, tenant isolation and cost measured on three models",
-    "id": "technobasant/ai-platform-architecture",
-    "language": "Python",
-    "name": "technobasant/ai-platform-architecture",
-    "stars": 0,
-    "updated_at": "2026-10-20T03:47:04Z",
-    "url": "https://github.com/technobasant/ai-platform-architecture"
-  },
-  {
-    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 1,
-    "updated_at": "2026-10-20T04:54:47Z",
-    "url": "https://github.com/a-novel/service-genai"
-  },
-  {
-    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
-    "id": "AixleHQ/flow",
-    "language": "Ruby",
-    "name": "AixleHQ/flow",
-    "stars": 25,
-    "updated_at": "2026-10-20T05:08:26Z",
-    "url": "https://github.com/AixleHQ/flow"
-  },
-  {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 11,
-    "updated_at": "2026-10-20T03:34:46Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4983,
-    "updated_at": "2026-10-20T05:27:35Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
-    "id": "Masterplanner25/aindy-runtime",
-    "language": "Python",
-    "name": "Masterplanner25/aindy-runtime",
-    "stars": 1,
-    "updated_at": "2026-10-20T03:32:38Z",
-    "url": "https://github.com/Masterplanner25/aindy-runtime"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-10-20T03:27:59Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Flight recorder & observability for AI agents: trace every model call, tool call, file edit and shell command live, with",
-    "id": "abdullahimohamed101/agent-black-box",
-    "language": "Python",
-    "name": "abdullahimohamed101/agent-black-box",
-    "stars": 0,
-    "updated_at": "2026-10-20T04:35:37Z",
-    "url": "https://github.com/abdullahimohamed101/agent-black-box"
   }
 ]
