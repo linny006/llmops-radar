@@ -1,11 +1,20 @@
 [
   {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 32,
+    "updated_at": "2026-10-20T21:27:16Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61669,
-    "updated_at": "2026-10-20T21:14:21Z",
+    "updated_at": "2026-10-20T21:29:27Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -14,8 +23,53 @@
     "language": "Rust",
     "name": "respanai/respan-gateway",
     "stars": 37,
-    "updated_at": "2026-10-20T21:13:11Z",
+    "updated_at": "2026-10-20T21:25:34Z",
     "url": "https://github.com/respanai/respan-gateway"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 42,
+    "updated_at": "2026-10-20T21:25:24Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Out-Of-Tree Llama Stack Eval Provider for Red Teaming LLM Systems with Garak",
+    "id": "trustyai-explainability/llama-stack-provider-trustyai-garak",
+    "language": "Python",
+    "name": "trustyai-explainability/llama-stack-provider-trustyai-garak",
+    "stars": 3,
+    "updated_at": "2026-10-20T21:24:23Z",
+    "url": "https://github.com/trustyai-explainability/llama-stack-provider-trustyai-garak"
+  },
+  {
+    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
+    "id": "luetzey/who2be",
+    "language": "Python",
+    "name": "luetzey/who2be",
+    "stars": 0,
+    "updated_at": "2026-10-20T21:30:20Z",
+    "url": "https://github.com/luetzey/who2be"
+  },
+  {
+    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
+    "id": "NVIDIA-NeMo/nemo-helix",
+    "language": "Python",
+    "name": "NVIDIA-NeMo/nemo-helix",
+    "stars": 115,
+    "updated_at": "2026-10-20T21:25:05Z",
+    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-20T21:15:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
@@ -32,7 +86,7 @@
     "language": "Python",
     "name": "decimal-labs/decimalai-python",
     "stars": 1,
-    "updated_at": "2026-10-20T21:07:53Z",
+    "updated_at": "2026-10-20T21:24:09Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
@@ -50,7 +104,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 708,
-    "updated_at": "2026-10-20T21:05:57Z",
+    "updated_at": "2026-10-20T21:21:03Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -63,24 +117,6 @@
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-20T21:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 32,
-    "updated_at": "2026-10-20T21:00:24Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
     "id": "sarkars/agent-failure-modes",
     "language": "Python",
@@ -88,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-10-20T20:58:24Z",
     "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 42,
-    "updated_at": "2026-10-20T20:52:16Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
@@ -112,7 +139,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 9475,
+    "stars": 9477,
     "updated_at": "2026-10-20T20:50:00Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -160,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-10-20T20:49:38Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
-  },
-  {
-    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
-    "id": "NVIDIA-NeMo/nemo-helix",
-    "language": "Python",
-    "name": "NVIDIA-NeMo/nemo-helix",
-    "stars": 115,
-    "updated_at": "2026-10-20T21:14:33Z",
-    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
@@ -248,7 +266,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30653,
-    "updated_at": "2026-10-20T20:31:15Z",
+    "updated_at": "2026-10-20T21:16:57Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -311,7 +329,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-20T20:16:48Z",
+    "updated_at": "2026-10-20T21:29:31Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -338,7 +356,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11927,
-    "updated_at": "2026-10-20T20:47:32Z",
+    "updated_at": "2026-10-20T21:27:33Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -383,7 +401,7 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-20T19:52:29Z",
+    "updated_at": "2026-10-20T21:27:30Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -403,15 +421,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T19:25:30Z",
     "url": "https://github.com/pexon-consulting/litellm-open-webui"
-  },
-  {
-    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
-    "id": "luetzey/who2be",
-    "language": "Python",
-    "name": "luetzey/who2be",
-    "stars": 0,
-    "updated_at": "2026-10-20T19:26:35Z",
-    "url": "https://github.com/luetzey/who2be"
   },
   {
     "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
@@ -439,14 +448,5 @@
     "stars": 28469,
     "updated_at": "2026-10-20T19:00:42Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-10-20T18:54:07Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   }
 ]
