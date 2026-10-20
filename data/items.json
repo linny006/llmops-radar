@@ -1,12 +1,12 @@
 [
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "Every model call through one library: raw-HTTP provider adapters, a cost ledger row and an OpenTelemetry span per call, ",
+    "id": "Peter-A-P/compliant-ai-gateway",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61670,
-    "updated_at": "2026-10-20T23:00:03Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "Peter-A-P/compliant-ai-gateway",
+    "stars": 0,
+    "updated_at": "2026-10-20T23:13:56Z",
+    "url": "https://github.com/Peter-A-P/compliant-ai-gateway"
   },
   {
     "description": "LLM gateway with guardrails, cost-aware routing (rules \u00b7 Jev \u00b7 open-source SLMs \u00b7 frontier APIs), and automated evaluati",
@@ -14,8 +14,71 @@
     "language": "Python",
     "name": "rspstat/LLMOps",
     "stars": 0,
-    "updated_at": "2026-10-20T22:59:41Z",
+    "updated_at": "2026-10-20T23:12:35Z",
     "url": "https://github.com/rspstat/LLMOps"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61670,
+    "updated_at": "2026-10-20T23:14:14Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8927,
+    "updated_at": "2026-10-20T23:08:29Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-20T23:07:48Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 96,
+    "updated_at": "2026-10-20T23:06:21Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "Understand which functions and agents drive LLM spend. Self-hosted monitoring and an open model pricing catalog.",
+    "id": "metergraph/metergraph",
+    "language": "Python",
+    "name": "metergraph/metergraph",
+    "stars": 4,
+    "updated_at": "2026-10-20T23:02:26Z",
+    "url": "https://github.com/metergraph/metergraph"
+  },
+  {
+    "description": "AI reliability engineering for production AI agents and LLM applications. Open-source tools and research that find silen",
+    "id": "hermes-labs-ai/.github",
+    "language": "Python",
+    "name": "hermes-labs-ai/.github",
+    "stars": 0,
+    "updated_at": "2026-10-20T23:02:00Z",
+    "url": "https://github.com/hermes-labs-ai/.github"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-20T23:00:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "One control plane for every AI asset \u2014 MCP servers, skills, agents, AI apps. Self-hosted ledger with lifecycle state mac",
@@ -41,17 +104,8 @@
     "language": "TypeScript",
     "name": "GeiserX/LynxPrompt",
     "stars": 53,
-    "updated_at": "2026-10-20T22:59:18Z",
+    "updated_at": "2026-10-20T23:10:45Z",
     "url": "https://github.com/GeiserX/LynxPrompt"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 96,
-    "updated_at": "2026-10-20T22:56:21Z",
-    "url": "https://github.com/mloda-ai/mloda"
   },
   {
     "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
@@ -59,7 +113,7 @@
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 115,
-    "updated_at": "2026-10-20T22:55:46Z",
+    "updated_at": "2026-10-20T23:11:46Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -68,26 +122,8 @@
     "language": "Go",
     "name": "RedRobotKK/Replay",
     "stars": 3,
-    "updated_at": "2026-10-20T22:55:40Z",
+    "updated_at": "2026-10-20T23:05:14Z",
     "url": "https://github.com/RedRobotKK/Replay"
-  },
-  {
-    "description": "Every model call through one library: raw-HTTP provider adapters, a cost ledger row and an OpenTelemetry span per call, ",
-    "id": "Peter-A-P/compliant-ai-gateway",
-    "language": "Python",
-    "name": "Peter-A-P/compliant-ai-gateway",
-    "stars": 0,
-    "updated_at": "2026-10-20T22:50:49Z",
-    "url": "https://github.com/Peter-A-P/compliant-ai-gateway"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-20T22:45:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "357 Claude agent roles across 6 business layers. Portable Memvid memory, enforced cost caps, bash policy gate, durable c",
@@ -99,12 +135,21 @@
     "url": "https://github.com/TechTideOhio/swarm-357"
   },
   {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36097,
+    "updated_at": "2026-10-20T22:36:38Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4983,
-    "updated_at": "2026-10-20T22:54:48Z",
+    "updated_at": "2026-10-20T23:07:28Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -176,7 +221,7 @@
     "language": "Go",
     "name": "rknightion/genai-otel-bridge",
     "stars": 1,
-    "updated_at": "2026-10-20T22:27:42Z",
+    "updated_at": "2026-10-20T23:10:20Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
@@ -223,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T22:10:07Z",
     "url": "https://github.com/api-evangelist/dify"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-20T22:08:30Z",
-    "url": "https://github.com/toxicwind/ranch"
   },
   {
     "description": "Enterprise Scale AIFactory (esml) - on Azure",
@@ -283,7 +319,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26199,
+    "stars": 26200,
     "updated_at": "2026-10-20T22:00:03Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -311,7 +347,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-20T22:53:14Z",
+    "updated_at": "2026-10-20T23:02:28Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-20T21:24:09Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
-    "description": "A deterministic linter for agent runs \u2014 reads the execution trace and flags structural bugs (ignored errors, schema viol",
-    "id": "AshwinUgale/tracelint",
-    "language": "Python",
-    "name": "AshwinUgale/tracelint",
-    "stars": 12,
-    "updated_at": "2026-10-20T21:51:49Z",
-    "url": "https://github.com/AshwinUgale/tracelint"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 708,
-    "updated_at": "2026-10-20T22:17:57Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 2,
-    "updated_at": "2026-10-20T22:58:26Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
-    "id": "crewhaus/factory",
-    "language": "TypeScript",
-    "name": "crewhaus/factory",
-    "stars": 3,
-    "updated_at": "2026-10-20T20:52:15Z",
-    "url": "https://github.com/crewhaus/factory"
   }
 ]
