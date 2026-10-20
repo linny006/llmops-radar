@@ -1,5 +1,104 @@
 [
   {
+    "description": "A local-first smoke test for OpenAI-compatible LLM endpoints.",
+    "id": "LydiaTools/llm-endpoint-doctor",
+    "language": "Python",
+    "name": "LydiaTools/llm-endpoint-doctor",
+    "stars": 0,
+    "updated_at": "2026-10-20T06:00:08Z",
+    "url": "https://github.com/LydiaTools/llm-endpoint-doctor"
+  },
+  {
+    "description": "Does an OpenAI-compatible endpoint disclose model prices without an account or key? One unauthenticated GET, five verdic",
+    "id": "happy520ai/gateway-price-check",
+    "language": "JavaScript",
+    "name": "happy520ai/gateway-price-check",
+    "stars": 0,
+    "updated_at": "2026-10-20T05:58:55Z",
+    "url": "https://github.com/happy520ai/gateway-price-check"
+  },
+  {
+    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-10-20T05:57:47Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36056,
+    "updated_at": "2026-10-20T05:59:32Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
+    "id": "UtkuWisniewski1658/ZizkaDB",
+    "language": "Python",
+    "name": "UtkuWisniewski1658/ZizkaDB",
+    "stars": 0,
+    "updated_at": "2026-10-20T05:51:43Z",
+    "url": "https://github.com/UtkuWisniewski1658/ZizkaDB"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61614,
+    "updated_at": "2026-10-20T05:58:25Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28455,
+    "updated_at": "2026-10-20T05:56:49Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Cheaper and better Greptile alternative runs on your own github actions.",
+    "id": "Reyes5412/juror",
+    "language": "TypeScript",
+    "name": "Reyes5412/juror",
+    "stars": 0,
+    "updated_at": "2026-10-20T05:47:38Z",
+    "url": "https://github.com/Reyes5412/juror"
+  },
+  {
+    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
+    "id": "ginevra84816/llmaker",
+    "language": "Go",
+    "name": "ginevra84816/llmaker",
+    "stars": 0,
+    "updated_at": "2026-10-20T05:47:17Z",
+    "url": "https://github.com/ginevra84816/llmaker"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-20T05:46:19Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-20T05:45:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
     "id": "chiarasato81604/ZizkaDB",
     "language": "Python",
@@ -14,7 +113,7 @@
     "language": "Python",
     "name": "llmspendguard/llm-spendguard",
     "stars": 0,
-    "updated_at": "2026-10-20T05:44:51Z",
+    "updated_at": "2026-10-20T05:54:00Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
@@ -25,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-10-20T05:44:44Z",
     "url": "https://github.com/a-novel/service-genai"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61613,
-    "updated_at": "2026-10-20T05:44:06Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Estimate LLM VRAM \u2014 model weights, KV cache, context window & concurrent users \u2014 and find the right GPU. Live Hugging Fa",
@@ -50,7 +140,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4983,
-    "updated_at": "2026-10-20T05:44:55Z",
+    "updated_at": "2026-10-20T06:00:06Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -77,17 +167,8 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 200,
-    "updated_at": "2026-10-20T05:37:51Z",
+    "updated_at": "2026-10-20T06:00:12Z",
     "url": "https://github.com/api7/aisix"
-  },
-  {
-    "description": "A local-first smoke test for OpenAI-compatible LLM endpoints.",
-    "id": "LydiaTools/llm-endpoint-doctor",
-    "language": "Python",
-    "name": "LydiaTools/llm-endpoint-doctor",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:36:35Z",
-    "url": "https://github.com/LydiaTools/llm-endpoint-doctor"
   },
   {
     "description": "A MCP server allowing LLM agents to easily connect and retrieve data from any database",
@@ -117,15 +198,6 @@
     "url": "https://github.com/yzhao062/auditable"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-20T05:30:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "AI agent execution governance: pre-effect authorization, single-use permissions, policy enforcement, and verifiable reco",
     "id": "veritasfuji-japan/veritas_os",
     "language": "Python",
@@ -133,15 +205,6 @@
     "stars": 42,
     "updated_at": "2026-10-20T05:29:44Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36055,
-    "updated_at": "2026-10-20T05:27:12Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Self-hostable AI token pools \u2014 govern your org's AI usage with per-member keys, quotas, and leak detection; or deposit s",
@@ -157,7 +220,7 @@
     "id": "vllm-project/vllm-ascend",
     "language": "Python",
     "name": "vllm-project/vllm-ascend",
-    "stars": 3005,
+    "stars": 3004,
     "updated_at": "2026-10-20T05:25:09Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
@@ -230,7 +293,7 @@
     "language": "Python",
     "name": "luetzey/who2be",
     "stars": 0,
-    "updated_at": "2026-10-20T05:15:09Z",
+    "updated_at": "2026-10-20T05:52:43Z",
     "url": "https://github.com/luetzey/who2be"
   },
   {
@@ -284,7 +347,7 @@
     "language": "Python",
     "name": "chenhz01/agent-gates",
     "stars": 0,
-    "updated_at": "2026-10-20T05:18:51Z",
+    "updated_at": "2026-10-20T05:50:11Z",
     "url": "https://github.com/chenhz01/agent-gates"
   },
   {
@@ -356,7 +419,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5911,
-    "updated_at": "2026-10-20T04:42:40Z",
+    "updated_at": "2026-10-20T05:58:16Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 6910,
     "updated_at": "2026-10-20T04:19:25Z",
     "url": "https://github.com/clearml/clearml"
-  },
-  {
-    "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
-    "id": "sauravbhattacharya001/prompt",
-    "language": "C#",
-    "name": "sauravbhattacharya001/prompt",
-    "stars": 1,
-    "updated_at": "2026-10-20T04:09:36Z",
-    "url": "https://github.com/sauravbhattacharya001/prompt"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8923,
-    "updated_at": "2026-10-20T04:00:53Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Cut your LLM bill 60-80%. Drop-in proxy with semantic cache, prompt compression and model routing. You pay only on prove",
-    "id": "contentforge-press/tokensave",
-    "language": "Python",
-    "name": "contentforge-press/tokensave",
-    "stars": 0,
-    "updated_at": "2026-10-20T04:00:18Z",
-    "url": "https://github.com/contentforge-press/tokensave"
-  },
-  {
-    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
-    "id": "NVIDIA-NeMo/nemo-helix",
-    "language": "Python",
-    "name": "NVIDIA-NeMo/nemo-helix",
-    "stars": 111,
-    "updated_at": "2026-10-20T05:44:53Z",
-    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26166,
-    "updated_at": "2026-10-20T03:54:47Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
-    "id": "coze-dev/coze-loop",
-    "language": "Go",
-    "name": "coze-dev/coze-loop",
-    "stars": 5776,
-    "updated_at": "2026-10-20T03:54:20Z",
-    "url": "https://github.com/coze-dev/coze-loop"
-  },
-  {
-    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-10-20T03:52:01Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
   }
 ]
