@@ -1,11 +1,119 @@
 [
   {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-20T20:58:24Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 32,
+    "updated_at": "2026-10-20T20:57:10Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 42,
+    "updated_at": "2026-10-20T20:52:16Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
+    "id": "crewhaus/factory",
+    "language": "TypeScript",
+    "name": "crewhaus/factory",
+    "stars": 3,
+    "updated_at": "2026-10-20T20:52:15Z",
+    "url": "https://github.com/crewhaus/factory"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 9473,
+    "updated_at": "2026-10-20T20:50:00Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "The evidence trail for agentic data pipelines: an LLM agent proposes Apache Iceberg changes; guardrails, branch dry-runs",
+    "id": "kushagrasoni/governed-iceberg-agent",
+    "language": "Python",
+    "name": "kushagrasoni/governed-iceberg-agent",
+    "stars": 0,
+    "updated_at": "2026-10-20T20:49:28Z",
+    "url": "https://github.com/kushagrasoni/governed-iceberg-agent"
+  },
+  {
+    "description": "Open-source LLM observability. See every prompt, completion, token, cost, latency and error as traces and sessions. Pyth",
+    "id": "dheerajkarwasra/spanlight",
+    "language": "Python",
+    "name": "dheerajkarwasra/spanlight",
+    "stars": 0,
+    "updated_at": "2026-10-20T20:48:46Z",
+    "url": "https://github.com/dheerajkarwasra/spanlight"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61668,
+    "updated_at": "2026-10-20T20:59:50Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "",
+    "id": "ainsel-project/ainsel",
+    "language": "Go",
+    "name": "ainsel-project/ainsel",
+    "stars": 2,
+    "updated_at": "2026-10-20T20:48:31Z",
+    "url": "https://github.com/ainsel-project/ainsel"
+  },
+  {
+    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
+    "id": "digline/digline",
+    "language": "Python",
+    "name": "digline/digline",
+    "stars": 9,
+    "updated_at": "2026-10-20T20:47:40Z",
+    "url": "https://github.com/digline/digline"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "language": "Go",
+    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-10-20T20:49:38Z",
+    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-20T20:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
     "id": "NVIDIA-NeMo/nemo-helix",
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 115,
-    "updated_at": "2026-10-20T20:45:12Z",
+    "updated_at": "2026-10-20T21:00:08Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -14,7 +122,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 111,
-    "updated_at": "2026-10-20T20:43:33Z",
+    "updated_at": "2026-10-20T20:53:23Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -27,13 +135,13 @@
     "url": "https://github.com/holetz/quenching"
   },
   {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
     "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 32,
-    "updated_at": "2026-10-20T20:42:05Z",
-    "url": "https://github.com/SourceShift/mini-ork"
+    "name": "comet-ml/opik",
+    "stars": 22783,
+    "updated_at": "2026-10-20T20:41:15Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
@@ -72,24 +180,6 @@
     "url": "https://github.com/BhagyashriT/llm-vcr"
   },
   {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "language": "Go",
-    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "stars": 1,
-    "updated_at": "2026-10-20T20:40:19Z",
-    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61668,
-    "updated_at": "2026-10-20T20:45:21Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
     "id": "decimal-labs/decimalai-python",
     "language": "Python",
@@ -99,24 +189,6 @@
     "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22782,
-    "updated_at": "2026-10-20T20:41:15Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 9472,
-    "updated_at": "2026-10-20T20:38:15Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
     "description": "Qwak \u2014 independent third-party profile of a public API surface, by API Evangelist. Qwak is an end-to-end production mach",
     "id": "api-evangelist/qwak",
     "language": "\u2014",
@@ -124,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T20:32:51Z",
     "url": "https://github.com/api-evangelist/qwak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-20T20:30:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
@@ -216,15 +279,6 @@
     "url": "https://github.com/toxicwind/ranch"
   },
   {
-    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
-    "id": "digline/digline",
-    "language": "Python",
-    "name": "digline/digline",
-    "stars": 9,
-    "updated_at": "2026-10-20T20:42:48Z",
-    "url": "https://github.com/digline/digline"
-  },
-  {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
     "id": "vocion/vocion-core",
     "language": "TypeScript",
@@ -252,21 +306,12 @@
     "url": "https://github.com/alinafe82/cognitive-deadlift"
   },
   {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-20T19:58:43Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11927,
-    "updated_at": "2026-10-20T19:56:28Z",
+    "updated_at": "2026-10-20T20:47:32Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -274,7 +319,7 @@
     "id": "respanai/respan-gateway",
     "language": "Rust",
     "name": "respanai/respan-gateway",
-    "stars": 34,
+    "stars": 36,
     "updated_at": "2026-10-20T19:49:25Z",
     "url": "https://github.com/respanai/respan-gateway"
   },
@@ -329,7 +374,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 708,
-    "updated_at": "2026-10-20T20:26:17Z",
+    "updated_at": "2026-10-20T20:51:37Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -338,7 +383,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 36096,
-    "updated_at": "2026-10-20T19:29:47Z",
+    "updated_at": "2026-10-20T20:46:26Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -365,7 +410,7 @@
     "language": "TypeScript",
     "name": "burakdede/lorepack",
     "stars": 4,
-    "updated_at": "2026-10-20T19:57:19Z",
+    "updated_at": "2026-10-20T20:46:08Z",
     "url": "https://github.com/burakdede/lorepack"
   },
   {
@@ -382,7 +427,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 28468,
+    "stars": 28469,
     "updated_at": "2026-10-20T19:00:42Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-20T19:04:19Z",
     "url": "https://github.com/fadenstack/fadenstack"
-  },
-  {
-    "description": "CloudGuard \u2014 6-Part Production Gemma Enterprise Agent Platform (Google ADK, Cloud Run L4 GPU, vLLM, Firestore, Model Arm",
-    "id": "RobinaMirbahar/cloudguard-gemma-agent",
-    "language": "Python",
-    "name": "RobinaMirbahar/cloudguard-gemma-agent",
-    "stars": 0,
-    "updated_at": "2026-10-20T18:46:47Z",
-    "url": "https://github.com/RobinaMirbahar/cloudguard-gemma-agent"
-  },
-  {
-    "description": "Vendor-neutral enterprise AI/ML architecture and governance knowledge base: reference architectures, MLOps/LLMOps lifecy",
-    "id": "MrKyaw/Enterprise-AI-Reference-Architecture",
-    "language": "Python",
-    "name": "MrKyaw/Enterprise-AI-Reference-Architecture",
-    "stars": 0,
-    "updated_at": "2026-10-20T18:42:35Z",
-    "url": "https://github.com/MrKyaw/Enterprise-AI-Reference-Architecture"
-  },
-  {
-    "description": "Tuned Variables Language (TVL) by Traigent: typed specification language, validators, CLI tools, editor support, and doc",
-    "id": "Traigent/tvl",
-    "language": "Python",
-    "name": "Traigent/tvl",
-    "stars": 0,
-    "updated_at": "2026-10-20T18:41:53Z",
-    "url": "https://github.com/Traigent/tvl"
-  },
-  {
-    "description": "HSAAI is an independent, sovereign, self-hosted enterprise AI platform developed by Haithim Nasher using an AI engineeri",
-    "id": "HSA-AI/HSAAI",
-    "language": "Python",
-    "name": "HSA-AI/HSAAI",
-    "stars": 1,
-    "updated_at": "2026-10-20T18:39:33Z",
-    "url": "https://github.com/HSA-AI/HSAAI"
-  },
-  {
-    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-10-20T18:58:43Z",
-    "url": "https://github.com/veerarakesh56/warden"
   }
 ]
