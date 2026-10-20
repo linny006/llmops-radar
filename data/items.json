@@ -1,12 +1,48 @@
 [
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4983,
+    "updated_at": "2026-10-20T07:44:31Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Seldon \u2014 independent third-party profile of a public API surface, by API Evangelist. Seldon is a Kubernetes-native MLOps",
+    "id": "api-evangelist/seldon",
+    "language": "\u2014",
+    "name": "api-evangelist/seldon",
+    "stars": 0,
+    "updated_at": "2026-10-20T07:44:27Z",
+    "url": "https://github.com/api-evangelist/seldon"
+  },
+  {
+    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
+    "id": "cuihuan/awesome-ai-gateway",
+    "language": "HTML",
+    "name": "cuihuan/awesome-ai-gateway",
+    "stars": 131,
+    "updated_at": "2026-10-20T07:44:19Z",
+    "url": "https://github.com/cuihuan/awesome-ai-gateway"
+  },
+  {
+    "description": "The open-source agentic framework to build, orchestrate, and operate production AI agents.",
+    "id": "apowerb/apowerb",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61625,
-    "updated_at": "2026-10-20T07:27:28Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "apowerb/apowerb",
+    "stars": 149,
+    "updated_at": "2026-10-20T07:43:42Z",
+    "url": "https://github.com/apowerb/apowerb"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 96,
+    "updated_at": "2026-10-20T07:40:29Z",
+    "url": "https://github.com/mloda-ai/mloda"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -14,8 +50,71 @@
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 1,
-    "updated_at": "2026-10-20T07:27:27Z",
+    "updated_at": "2026-10-20T07:39:08Z",
     "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22759,
+    "updated_at": "2026-10-20T07:43:49Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Self-hostable observability SDK for continuous grounding-risk and drift monitoring in multi-agent LLM systems",
+    "id": "Soum-Code/agentpulse",
+    "language": "Python",
+    "name": "Soum-Code/agentpulse",
+    "stars": 0,
+    "updated_at": "2026-10-20T07:37:27Z",
+    "url": "https://github.com/Soum-Code/agentpulse"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 3005,
+    "updated_at": "2026-10-20T07:35:34Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-10-20T07:34:49Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "Template for small, safe AI agents in pure Python: cost caps in code, tool-less LLM client, \"I don't know\" as a valid re",
+    "id": "tonyweckstrom1987/agentti-pohja",
+    "language": "Python",
+    "name": "tonyweckstrom1987/agentti-pohja",
+    "stars": 0,
+    "updated_at": "2026-10-20T07:30:36Z",
+    "url": "https://github.com/tonyweckstrom1987/agentti-pohja"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-20T07:30:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61625,
+    "updated_at": "2026-10-20T07:39:55Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -32,7 +131,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 36061,
-    "updated_at": "2026-10-20T07:25:07Z",
+    "updated_at": "2026-10-20T07:35:47Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -41,17 +140,8 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 200,
-    "updated_at": "2026-10-20T07:30:22Z",
+    "updated_at": "2026-10-20T07:33:00Z",
     "url": "https://github.com/api7/aisix"
-  },
-  {
-    "description": "The open-source agentic framework to build, orchestrate, and operate production AI agents.",
-    "id": "apowerb/apowerb",
-    "language": "Python",
-    "name": "apowerb/apowerb",
-    "stars": 149,
-    "updated_at": "2026-10-20T07:25:21Z",
-    "url": "https://github.com/apowerb/apowerb"
   },
   {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
@@ -59,17 +149,8 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 12057,
-    "updated_at": "2026-10-20T07:22:07Z",
+    "updated_at": "2026-10-20T07:41:21Z",
     "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 3005,
-    "updated_at": "2026-10-20T07:26:18Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
@@ -81,15 +162,6 @@
     "url": "https://github.com/toxicwind/ranch"
   },
   {
-    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4983,
-    "updated_at": "2026-10-20T07:28:19Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
     "description": "AI agent execution governance: pre-effect authorization, single-use permissions, policy enforcement, and verifiable reco",
     "id": "veritasfuji-japan/veritas_os",
     "language": "Python",
@@ -99,15 +171,6 @@
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-20T07:15:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Dify \u2014 independent third-party profile of a public API surface, by API Evangelist. Dify is an open-source platform for b",
     "id": "api-evangelist/dify",
     "language": "\u2014",
@@ -115,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T07:15:11Z",
     "url": "https://github.com/api-evangelist/dify"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22759,
-    "updated_at": "2026-10-20T07:12:46Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
@@ -167,7 +221,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28456,
-    "updated_at": "2026-10-20T07:29:31Z",
+    "updated_at": "2026-10-20T07:43:18Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -196,15 +250,6 @@
     "stars": 1680,
     "updated_at": "2026-10-20T06:49:55Z",
     "url": "https://github.com/intentee/paddler"
-  },
-  {
-    "description": "Self-hostable observability SDK for continuous grounding-risk and drift monitoring in multi-agent LLM systems",
-    "id": "Soum-Code/agentpulse",
-    "language": "Python",
-    "name": "Soum-Code/agentpulse",
-    "stars": 0,
-    "updated_at": "2026-10-20T07:24:38Z",
-    "url": "https://github.com/Soum-Code/agentpulse"
   },
   {
     "description": "Self-hostable AI token pools \u2014 govern your org's AI usage with per-member keys, quotas, and leak detection; or deposit s",
@@ -252,15 +297,6 @@
     "url": "https://github.com/openlit/openlit"
   },
   {
-    "description": "Template for small, safe AI agents in pure Python: cost caps in code, tool-less LLM client, \"I don't know\" as a valid re",
-    "id": "tonyweckstrom1987/agentti-pohja",
-    "language": "Python",
-    "name": "tonyweckstrom1987/agentti-pohja",
-    "stars": 0,
-    "updated_at": "2026-10-20T07:29:18Z",
-    "url": "https://github.com/tonyweckstrom1987/agentti-pohja"
-  },
-  {
     "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
     "id": "AixleHQ/flow",
     "language": "Ruby",
@@ -293,7 +329,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5912,
-    "updated_at": "2026-10-20T07:03:09Z",
+    "updated_at": "2026-10-20T07:38:28Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -311,7 +347,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 2180,
-    "updated_at": "2026-10-20T06:47:54Z",
+    "updated_at": "2026-10-20T07:41:25Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-20T05:45:19Z",
     "url": "https://github.com/chiarasato81604/ZizkaDB"
-  },
-  {
-    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 1,
-    "updated_at": "2026-10-20T05:44:44Z",
-    "url": "https://github.com/a-novel/service-genai"
-  },
-  {
-    "description": "Estimate LLM VRAM \u2014 model weights, KV cache, context window & concurrent users \u2014 and find the right GPU. Live Hugging Fa",
-    "id": "tahircengiz/LLMScale",
-    "language": "TypeScript",
-    "name": "tahircengiz/LLMScale",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:42:50Z",
-    "url": "https://github.com/tahircengiz/LLMScale"
-  },
-  {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1272,
-    "updated_at": "2026-10-20T05:40:56Z",
-    "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
-    "description": "A MCP server allowing LLM agents to easily connect and retrieve data from any database",
-    "id": "pelletier8324/turbular",
-    "language": "Python",
-    "name": "pelletier8324/turbular",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:36:08Z",
-    "url": "https://github.com/pelletier8324/turbular"
   }
 ]
