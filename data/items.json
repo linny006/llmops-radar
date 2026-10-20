@@ -1,12 +1,111 @@
 [
   {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-20T09:59:49Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "AI gateway as a framework. For full control over models, routing & lifecycle. OpenAI /chat/completions, OpenResponses /r",
+    "id": "8monkey-ai/hebo-gateway",
+    "language": "TypeScript",
+    "name": "8monkey-ai/hebo-gateway",
+    "stars": 26,
+    "updated_at": "2026-10-20T09:58:45Z",
+    "url": "https://github.com/8monkey-ai/hebo-gateway"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28462,
+    "updated_at": "2026-10-20T09:58:36Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 699,
+    "updated_at": "2026-10-20T10:00:05Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
+    "id": "dynamiq-ai/dynamiq",
+    "language": "Python",
+    "name": "dynamiq-ai/dynamiq",
+    "stars": 1071,
+    "updated_at": "2026-10-20T10:00:18Z",
+    "url": "https://github.com/dynamiq-ai/dynamiq"
+  },
+  {
+    "description": "Self-hosted LLM gateway in Rust: one OpenAI-compatible API for OpenAI, Anthropic, Gemini, Azure, Ollama and more, with v",
+    "id": "rustrak/llmtrack",
+    "language": "Rust",
+    "name": "rustrak/llmtrack",
+    "stars": 2,
+    "updated_at": "2026-10-20T09:55:37Z",
+    "url": "https://github.com/rustrak/llmtrack"
+  },
+  {
+    "description": "The open-source agentic framework to build, orchestrate, and operate production AI agents.",
+    "id": "apowerb/apowerb",
+    "language": "Python",
+    "name": "apowerb/apowerb",
+    "stars": 149,
+    "updated_at": "2026-10-20T09:54:46Z",
+    "url": "https://github.com/apowerb/apowerb"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 61635,
-    "updated_at": "2026-10-20T09:41:45Z",
+    "stars": 61638,
+    "updated_at": "2026-10-20T09:54:24Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36073,
+    "updated_at": "2026-10-20T09:59:29Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Twenty runnable apps that trace, evaluate, and debug LLM code with Opik \u2014 Python and TypeScript examples across OpenAI, ",
+    "id": "andriidudar/andriidudar-opik-hands-on",
+    "language": "Python",
+    "name": "andriidudar/andriidudar-opik-hands-on",
+    "stars": 0,
+    "updated_at": "2026-10-20T09:46:35Z",
+    "url": "https://github.com/andriidudar/andriidudar-opik-hands-on"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 3005,
+    "updated_at": "2026-10-20T09:46:04Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-20T09:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -14,17 +113,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22765,
-    "updated_at": "2026-10-20T09:44:01Z",
+    "updated_at": "2026-10-20T09:58:25Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36072,
-    "updated_at": "2026-10-20T09:41:39Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Personal portfolio website for Abdulaziz Balu: AI, full-stack, LLMOps, DevOps, and digital media strategy.",
@@ -63,15 +153,6 @@
     "url": "https://github.com/alinafe82/persistent-cognitive-infrastructure"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-20T09:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Production LLM call layer for AI agents and tools: keep OpenAI/Anthropic/AI SDK/LiteLLM, hot-swap models with MDA preset",
     "id": "lan655/llmix",
     "language": "Python",
@@ -86,7 +167,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 398,
-    "updated_at": "2026-10-20T09:20:54Z",
+    "updated_at": "2026-10-20T09:55:16Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -117,15 +198,6 @@
     "url": "https://github.com/tonydzi/awesome-verified-agents"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 3005,
-    "updated_at": "2026-10-20T09:19:18Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
     "id": "toxicwind/ranch",
     "language": "Rust",
@@ -142,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-10-20T09:17:24Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28461,
-    "updated_at": "2026-10-20T09:30:18Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "A MCP server allowing LLM agents to easily connect and retrieve data from any database",
@@ -178,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T09:09:17Z",
     "url": "https://github.com/giuliob384/mcp-server-langfuse"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 699,
-    "updated_at": "2026-10-20T09:38:02Z",
-    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -270,21 +324,12 @@
     "url": "https://github.com/jHendriks5045/mcp-server-langfuse"
   },
   {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-20T09:03:46Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
     "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4982,
-    "updated_at": "2026-10-20T09:33:53Z",
+    "updated_at": "2026-10-20T09:59:50Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -331,24 +376,6 @@
     "stars": 1,
     "updated_at": "2026-10-20T09:01:19Z",
     "url": "https://github.com/thequantumfalcon/kry"
-  },
-  {
-    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
-    "id": "dynamiq-ai/dynamiq",
-    "language": "Python",
-    "name": "dynamiq-ai/dynamiq",
-    "stars": 1071,
-    "updated_at": "2026-10-20T08:55:32Z",
-    "url": "https://github.com/dynamiq-ai/dynamiq"
-  },
-  {
-    "description": "The open-source agentic framework to build, orchestrate, and operate production AI agents.",
-    "id": "apowerb/apowerb",
-    "language": "Python",
-    "name": "apowerb/apowerb",
-    "stars": 149,
-    "updated_at": "2026-10-20T09:42:07Z",
-    "url": "https://github.com/apowerb/apowerb"
   },
   {
     "description": "AI reliability engineering for production AI agents and LLM applications. Open-source tools and research that find silen",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-20T08:30:05Z",
     "url": "https://github.com/Amz34/awesome-agent-infrastructure"
-  },
-  {
-    "description": "AI agent execution governance: pre-effect authorization, single-use permissions, policy enforcement, and verifiable reco",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 42,
-    "updated_at": "2026-10-20T08:28:41Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11916,
-    "updated_at": "2026-10-20T08:28:33Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "The execution control plane for AI agents. Govern every model request, MCP tool call, A2A delegation, and downstream act",
-    "id": "GetBusbar/busbar",
-    "language": "Rust",
-    "name": "GetBusbar/busbar",
-    "stars": 206,
-    "updated_at": "2026-10-20T08:25:23Z",
-    "url": "https://github.com/GetBusbar/busbar"
   }
 ]
