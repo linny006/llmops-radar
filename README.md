@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-20 09:00 UTC
+> ⏰ Last updated: 2026-10-20 09:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [thusingh12/awesome-ai-gateway](https://github.com/thusingh12/awesome-ai-gateway) | 0 | CSS | 2026-10-20 | ⚡ Awesome AI Gateway — pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c |
-| 2 | [sarkars/agent-failure-modes](https://github.com/sarkars/agent-failure-modes) | 1 | Python | 2026-10-20 | Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a |
-| 3 | [marie49939/ZizkaDB](https://github.com/marie49939/ZizkaDB) | 0 | Python | 2026-10-20 | Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de |
-| 4 | [chevalier52/mcp-server-langfuse](https://github.com/chevalier52/mcp-server-langfuse) | 0 | TypeScript | 2026-10-20 | Model Context Protocol (MCP) Server for Langfuse Prompt Management. This server allows you to access and manage your Lan |
-| 5 | [laylaf0069/awesome-ai-gateway](https://github.com/laylaf0069/awesome-ai-gateway) | 0 | CSS | 2026-10-20 | ⚡ Awesome AI Gateway — pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c |
-| 6 | [gerald96164/llmix](https://github.com/gerald96164/llmix) | 0 | Python | 2026-10-20 | Production LLM call layer for AI agents and tools: keep OpenAI/Anthropic/AI SDK/LiteLLM, hot-swap models with MDA preset |
-| 7 | [thequantumfalcon/kry](https://github.com/thequantumfalcon/kry) | 1 | Python | 2026-10-20 | Tamper-evident, stranger-verifiable receipts for LLM cost-savings — anyone can recompute your caching/routing savings ma |
-| 8 | [comet-ml/opik](https://github.com/comet-ml/opik) | 22762 | Python | 2026-10-20 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
-| 9 | [dynamiq-ai/dynamiq](https://github.com/dynamiq-ai/dynamiq) | 1071 | Python | 2026-10-20 | Dynamiq is an orchestration framework for agentic AI and LLM applications |
-| 10 | [jostrm/azure-enterprise-scale-ml](https://github.com/jostrm/azure-enterprise-scale-ml) | 53 | Python | 2026-10-20 | Enterprise Scale AIFactory (esml) - on Azure |
-| 11 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 61633 | Python | 2026-10-20 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 12 | [apowerb/apowerb](https://github.com/apowerb/apowerb) | 149 | Python | 2026-10-20 | The open-source agentic framework to build, orchestrate, and operate production AI agents. |
-| 13 | [hermes-labs-ai/.github](https://github.com/hermes-labs-ai/.github) | 0 | Python | 2026-10-20 | AI reliability engineering for production AI agents and LLM applications. Open-source tools and research that find silen |
-| 14 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 3005 | Python | 2026-10-20 | Community maintained hardware plugin for vLLM on Huawei Ascend |
-| 15 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 28459 | Python | 2026-10-20 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
-| 16 | [torsten3237/turbular](https://github.com/torsten3237/turbular) | 0 | Python | 2026-10-20 | A MCP server allowing LLM agents to easily connect and retrieve data from any database |
-| 17 | [tonyweckstrom1987/agentti-pohja](https://github.com/tonyweckstrom1987/agentti-pohja) | 0 | Python | 2026-10-20 | Template for small, safe AI agents in pure Python: cost caps in code, tool-less LLM client, "I don't know" as a valid re |
+| 1 | [jasmijnnascimento/turbular](https://github.com/jasmijnnascimento/turbular) | 0 | Python | 2026-10-20 | A MCP server allowing LLM agents to easily connect and retrieve data from any database |
+| 2 | [rrahimi-uci/caliber-suite](https://github.com/rrahimi-uci/caliber-suite) | 2 | Python | 2026-10-20 | Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases, |
+| 3 | [abdulazizbalu/balu-portfolio](https://github.com/abdulazizbalu/balu-portfolio) | 0 | HTML | 2026-10-20 | Personal portfolio website for Abdulaziz Balu: AI, full-stack, LLMOps, DevOps, and digital media strategy. |
+| 4 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 61634 | Python | 2026-10-20 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 5 | [giuliob384/mcp-server-langfuse](https://github.com/giuliob384/mcp-server-langfuse) | 0 | TypeScript | 2026-10-20 | Model Context Protocol (MCP) Server for Langfuse Prompt Management. This server allows you to access and manage your Lan |
+| 6 | [mozilla-ai/otari](https://github.com/mozilla-ai/otari) | 699 | Python | 2026-10-20 | Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, |
+| 7 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 1 | HTML | 2026-10-20 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
+| 8 | [Eileenes/MemoryRot](https://github.com/Eileenes/MemoryRot) | 0 | Go | 2026-10-20 | Audit your AI agent’s long-term memory — find stale claims, contradictions, injected instructions, secrets and duplicate |
+| 9 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 28461 | Python | 2026-10-20 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
+| 10 | [thusingh12/awesome-ai-gateway](https://github.com/thusingh12/awesome-ai-gateway) | 0 | CSS | 2026-10-20 | ⚡ Awesome AI Gateway — pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c |
+| 11 | [jostrm/azure-enterprise-scale-ml](https://github.com/jostrm/azure-enterprise-scale-ml) | 53 | Python | 2026-10-20 | Enterprise Scale AIFactory (esml) - on Azure |
+| 12 | [esposito093/llmix](https://github.com/esposito093/llmix) | 0 | Python | 2026-10-20 | Production LLM call layer for AI agents and tools: keep OpenAI/Anthropic/AI SDK/LiteLLM, hot-swap models with MDA preset |
+| 13 | [azielinski994/mcp-server-langfuse](https://github.com/azielinski994/mcp-server-langfuse) | 0 | TypeScript | 2026-10-20 | Model Context Protocol (MCP) Server for Langfuse Prompt Management. This server allows you to access and manage your Lan |
+| 14 | [kMercier7551/turbular](https://github.com/kMercier7551/turbular) | 0 | Python | 2026-10-20 | A MCP server allowing LLM agents to easily connect and retrieve data from any database |
+| 15 | [radicalbit/radicalbit-ai-gateway](https://github.com/radicalbit/radicalbit-ai-gateway) | 71 | Python | 2026-10-20 | Radicalbit AI Gateway |
+| 16 | [jHendriks5045/mcp-server-langfuse](https://github.com/jHendriks5045/mcp-server-langfuse) | 0 | TypeScript | 2026-10-20 | Model Context Protocol (MCP) Server for Langfuse Prompt Management. This server allows you to access and manage your Lan |
+| 17 | [toxicwind/ranch](https://github.com/toxicwind/ranch) | 0 | Rust | 2026-10-20 | The self-hosted LLM estate in one monorepo — local model serving, cloud provider routing, MCP gateway, build jobs. All O |
 | 18 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-20 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 19 | [vv0vv3r/ModelJoust](https://github.com/vv0vv3r/ModelJoust) | 1 | Python | 2026-10-20 | MLOps system for daily gold price prediction — five competing models, automatic Data/Concept Drift detection, retraining |
-| 20 | [stephenf771/llmix](https://github.com/stephenf771/llmix) | 0 | Python | 2026-10-20 | Production LLM call layer for AI agents and tools: keep OpenAI/Anthropic/AI SDK/LiteLLM, hot-swap models with MDA preset |
-| 21 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 36070 | TypeScript | 2026-10-20 | 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform. |
-| 22 | [iJeong13053/llmix](https://github.com/iJeong13053/llmix) | 0 | Python | 2026-10-20 | Production LLM call layer for AI agents and tools: keep OpenAI/Anthropic/AI SDK/LiteLLM, hot-swap models with MDA preset |
-| 23 | [sophie-nguyenthuthuy/llm-pricing-history](https://github.com/sophie-nguyenthuthuy/llm-pricing-history) | 1 | Python | 2026-10-20 | Daily CI-refreshed history of LLM API pricing — snapshot + append-only change log for ~2,500 chat models (CSV, CC BY 4.0 |
-| 24 | [respanai/respan-gateway](https://github.com/respanai/respan-gateway) | 3 | Rust | 2026-10-20 | One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary. |
-| 25 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 4983 | TypeScript | 2026-10-20 | Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist |
-| 26 | [Nikit117/kynex-harness](https://github.com/Nikit117/kynex-harness) | 0 | Python | 2026-10-20 | KYNEX - a local, tool-using AI agent that extracts structured data from documents. 92.65 unified value F1 on ExtractBenc |
-| 27 | [Amz34/awesome-agent-infrastructure](https://github.com/Amz34/awesome-agent-infrastructure) | 1 | Python | 2026-10-20 | A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads. |
-| 28 | [mozilla-ai/otari](https://github.com/mozilla-ai/otari) | 699 | Python | 2026-10-20 | Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, |
-| 29 | [veritasfuji-japan/veritas_os](https://github.com/veritasfuji-japan/veritas_os) | 42 | Python | 2026-10-20 | AI agent execution governance: pre-effect authorization, single-use permissions, policy enforcement, and verifiable reco |
-| 30 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11915 | Python | 2026-10-20 | AI Observability & Evaluation |
-| 31 | [GetBusbar/busbar](https://github.com/GetBusbar/busbar) | 206 | Rust | 2026-10-20 | The execution control plane for AI agents. Govern every model request, MCP tool call, A2A delegation, and downstream act |
-| 32 | [radicalbit/radicalbit-ai-gateway](https://github.com/radicalbit/radicalbit-ai-gateway) | 71 | Python | 2026-10-20 | Radicalbit AI Gateway |
-| 33 | [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) | 175 | TypeScript | 2026-10-20 | 🪢 Langfuse JS/TS SDK |
-| 34 | [naim-munshi/metriqen-llm-serving-optimization](https://github.com/naim-munshi/metriqen-llm-serving-optimization) | 0 | Python | 2026-10-20 | Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio |
-| 35 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-10-20 | Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
-| 36 | [korczis/prismatic-majordomus](https://github.com/korczis/prismatic-majordomus) | 0 | Rust | 2026-10-20 | A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura |
-| 37 | [toxicwind/ranch](https://github.com/toxicwind/ranch) | 0 | Rust | 2026-10-20 | The self-hosted LLM estate in one monorepo — local model serving, cloud provider routing, MCP gateway, build jobs. All O |
-| 38 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 1 | JavaScript | 2026-10-20 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
-| 39 | [api7/aisix](https://github.com/api7/aisix) | 200 | Rust | 2026-10-20 | Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed |
-| 40 | [rhesis-ai/rhesis](https://github.com/rhesis-ai/rhesis) | 398 | Python | 2026-10-20 | The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro |
-| 41 | [dataelement/bisheng](https://github.com/dataelement/bisheng) | 12058 | Python | 2026-10-20 | BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur |
-| 42 | [api-evangelist/zenml](https://github.com/api-evangelist/zenml) | 0 | — | 2026-10-20 | ZenML — independent third-party profile of a public API surface, by API Evangelist. ZenML is an open-source MLOps and LL |
-| 43 | [Arize-ai/openinference](https://github.com/Arize-ai/openinference) | 1272 | Python | 2026-10-20 | OpenTelemetry Instrumentation for AI Observability |
-| 44 | [api-evangelist/seldon](https://github.com/api-evangelist/seldon) | 0 | — | 2026-10-20 | Seldon — independent third-party profile of a public API surface, by API Evangelist. Seldon is a Kubernetes-native MLOps |
-| 45 | [cuihuan/awesome-ai-gateway](https://github.com/cuihuan/awesome-ai-gateway) | 131 | HTML | 2026-10-20 | ⚡ Awesome AI Gateway — pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c |
-| 46 | [mloda-ai/mloda](https://github.com/mloda-ai/mloda) | 96 | Python | 2026-10-20 | mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic. |
-| 47 | [Soum-Code/agentpulse](https://github.com/Soum-Code/agentpulse) | 0 | Python | 2026-10-20 | Self-hostable observability SDK for continuous grounding-risk and drift monitoring in multi-agent LLM systems |
-| 48 | [JavisBot-Service/javis-transparency](https://github.com/JavisBot-Service/javis-transparency) | 1 | Python | 2026-10-20 | Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay — open-source probe, runs on GitHub A |
-| 49 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-10-20 | ThakiCloud Tech Blog |
-| 50 | [api-evangelist/dify](https://github.com/api-evangelist/dify) | 0 | — | 2026-10-20 | Dify — independent third-party profile of a public API surface, by API Evangelist. Dify is an open-source platform for b |
+| 19 | [sarkars/agent-failure-modes](https://github.com/sarkars/agent-failure-modes) | 1 | Python | 2026-10-20 | Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a |
+| 20 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 4982 | TypeScript | 2026-10-20 | Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist |
+| 21 | [comet-ml/opik](https://github.com/comet-ml/opik) | 22763 | Python | 2026-10-20 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
+| 22 | [marie49939/ZizkaDB](https://github.com/marie49939/ZizkaDB) | 0 | Python | 2026-10-20 | Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de |
+| 23 | [chevalier52/mcp-server-langfuse](https://github.com/chevalier52/mcp-server-langfuse) | 0 | TypeScript | 2026-10-20 | Model Context Protocol (MCP) Server for Langfuse Prompt Management. This server allows you to access and manage your Lan |
+| 24 | [laylaf0069/awesome-ai-gateway](https://github.com/laylaf0069/awesome-ai-gateway) | 0 | CSS | 2026-10-20 | ⚡ Awesome AI Gateway — pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c |
+| 25 | [gerald96164/llmix](https://github.com/gerald96164/llmix) | 0 | Python | 2026-10-20 | Production LLM call layer for AI agents and tools: keep OpenAI/Anthropic/AI SDK/LiteLLM, hot-swap models with MDA preset |
+| 26 | [thequantumfalcon/kry](https://github.com/thequantumfalcon/kry) | 1 | Python | 2026-10-20 | Tamper-evident, stranger-verifiable receipts for LLM cost-savings — anyone can recompute your caching/routing savings ma |
+| 27 | [dynamiq-ai/dynamiq](https://github.com/dynamiq-ai/dynamiq) | 1071 | Python | 2026-10-20 | Dynamiq is an orchestration framework for agentic AI and LLM applications |
+| 28 | [apowerb/apowerb](https://github.com/apowerb/apowerb) | 149 | Python | 2026-10-20 | The open-source agentic framework to build, orchestrate, and operate production AI agents. |
+| 29 | [hermes-labs-ai/.github](https://github.com/hermes-labs-ai/.github) | 0 | Python | 2026-10-20 | AI reliability engineering for production AI agents and LLM applications. Open-source tools and research that find silen |
+| 30 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5913 | Python | 2026-10-20 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 31 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 3005 | Python | 2026-10-20 | Community maintained hardware plugin for vLLM on Huawei Ascend |
+| 32 | [torsten3237/turbular](https://github.com/torsten3237/turbular) | 0 | Python | 2026-10-20 | A MCP server allowing LLM agents to easily connect and retrieve data from any database |
+| 33 | [tonyweckstrom1987/agentti-pohja](https://github.com/tonyweckstrom1987/agentti-pohja) | 0 | Python | 2026-10-20 | Template for small, safe AI agents in pure Python: cost caps in code, tool-less LLM client, "I don't know" as a valid re |
+| 34 | [vv0vv3r/ModelJoust](https://github.com/vv0vv3r/ModelJoust) | 1 | Python | 2026-10-20 | MLOps system for daily gold price prediction — five competing models, automatic Data/Concept Drift detection, retraining |
+| 35 | [stephenf771/llmix](https://github.com/stephenf771/llmix) | 0 | Python | 2026-10-20 | Production LLM call layer for AI agents and tools: keep OpenAI/Anthropic/AI SDK/LiteLLM, hot-swap models with MDA preset |
+| 36 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 36070 | TypeScript | 2026-10-20 | 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform. |
+| 37 | [iJeong13053/llmix](https://github.com/iJeong13053/llmix) | 0 | Python | 2026-10-20 | Production LLM call layer for AI agents and tools: keep OpenAI/Anthropic/AI SDK/LiteLLM, hot-swap models with MDA preset |
+| 38 | [sophie-nguyenthuthuy/llm-pricing-history](https://github.com/sophie-nguyenthuthuy/llm-pricing-history) | 1 | Python | 2026-10-20 | Daily CI-refreshed history of LLM API pricing — snapshot + append-only change log for ~2,500 chat models (CSV, CC BY 4.0 |
+| 39 | [respanai/respan-gateway](https://github.com/respanai/respan-gateway) | 3 | Rust | 2026-10-20 | One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary. |
+| 40 | [Nikit117/kynex-harness](https://github.com/Nikit117/kynex-harness) | 0 | Python | 2026-10-20 | KYNEX - a local, tool-using AI agent that extracts structured data from documents. 92.65 unified value F1 on ExtractBenc |
+| 41 | [Amz34/awesome-agent-infrastructure](https://github.com/Amz34/awesome-agent-infrastructure) | 1 | Python | 2026-10-20 | A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads. |
+| 42 | [veritasfuji-japan/veritas_os](https://github.com/veritasfuji-japan/veritas_os) | 42 | Python | 2026-10-20 | AI agent execution governance: pre-effect authorization, single-use permissions, policy enforcement, and verifiable reco |
+| 43 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11916 | Python | 2026-10-20 | AI Observability & Evaluation |
+| 44 | [GetBusbar/busbar](https://github.com/GetBusbar/busbar) | 206 | Rust | 2026-10-20 | The execution control plane for AI agents. Govern every model request, MCP tool call, A2A delegation, and downstream act |
+| 45 | [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) | 175 | TypeScript | 2026-10-20 | 🪢 Langfuse JS/TS SDK |
+| 46 | [naim-munshi/metriqen-llm-serving-optimization](https://github.com/naim-munshi/metriqen-llm-serving-optimization) | 0 | Python | 2026-10-20 | Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio |
+| 47 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-10-20 | Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
+| 48 | [korczis/prismatic-majordomus](https://github.com/korczis/prismatic-majordomus) | 0 | Rust | 2026-10-20 | A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura |
+| 49 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 1 | JavaScript | 2026-10-20 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
+| 50 | [api7/aisix](https://github.com/api7/aisix) | 200 | Rust | 2026-10-20 | Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed |
 <!-- TRACKER_TABLE_END -->
 
 ---
