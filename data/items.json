@@ -1,12 +1,102 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61671,
+    "updated_at": "2026-10-20T21:59:36Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
+    "id": "digline/digline",
+    "language": "Python",
+    "name": "digline/digline",
+    "stars": 9,
+    "updated_at": "2026-10-20T21:59:20Z",
+    "url": "https://github.com/digline/digline"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28470,
+    "updated_at": "2026-10-20T21:57:55Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
+    "id": "NVIDIA-NeMo/nemo-helix",
+    "language": "Python",
+    "name": "NVIDIA-NeMo/nemo-helix",
+    "stars": 115,
+    "updated_at": "2026-10-20T21:59:55Z",
+    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
+  },
+  {
+    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
+    "id": "korczis/prismatic-majordomus",
+    "language": "Rust",
+    "name": "korczis/prismatic-majordomus",
+    "stars": 0,
+    "updated_at": "2026-10-20T21:57:20Z",
+    "url": "https://github.com/korczis/prismatic-majordomus"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 96,
+    "updated_at": "2026-10-20T21:55:53Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
     "description": "Open-source LLM observability. See every prompt, completion, token, cost, latency and error as traces and sessions. Pyth",
     "id": "dheerajkarwasra/spanlight",
     "language": "Python",
     "name": "dheerajkarwasra/spanlight",
     "stars": 0,
-    "updated_at": "2026-10-20T21:45:02Z",
+    "updated_at": "2026-10-20T21:53:54Z",
     "url": "https://github.com/dheerajkarwasra/spanlight"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-20T21:53:32Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "One control plane for every AI asset \u2014 MCP servers, skills, agents, AI apps. Self-hosted ledger with lifecycle state mac",
+    "id": "01men/ybkkasi",
+    "language": "TypeScript",
+    "name": "01men/ybkkasi",
+    "stars": 0,
+    "updated_at": "2026-10-20T21:48:02Z",
+    "url": "https://github.com/01men/ybkkasi"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 4,
+    "updated_at": "2026-10-20T21:46:28Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-20T21:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "If the agent bill went up and nothing errored, a prompt cache broke. Replay Doctor names the turn it broke on, the cause",
@@ -23,7 +113,7 @@
     "language": "Python",
     "name": "evalshift/evalshift-sdk",
     "stars": 0,
-    "updated_at": "2026-10-20T21:37:02Z",
+    "updated_at": "2026-10-20T21:51:40Z",
     "url": "https://github.com/evalshift/evalshift-sdk"
   },
   {
@@ -32,7 +122,7 @@
     "language": "Python",
     "name": "evalshift/evalshift-cli",
     "stars": 5,
-    "updated_at": "2026-10-20T21:36:33Z",
+    "updated_at": "2026-10-20T21:51:36Z",
     "url": "https://github.com/evalshift/evalshift-cli"
   },
   {
@@ -43,24 +133,6 @@
     "stars": 38,
     "updated_at": "2026-10-20T21:35:50Z",
     "url": "https://github.com/respanai/respan-gateway"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61670,
-    "updated_at": "2026-10-20T21:44:45Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-20T21:30:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
@@ -99,15 +171,6 @@
     "url": "https://github.com/luetzey/who2be"
   },
   {
-    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
-    "id": "NVIDIA-NeMo/nemo-helix",
-    "language": "Python",
-    "name": "NVIDIA-NeMo/nemo-helix",
-    "stars": 115,
-    "updated_at": "2026-10-20T21:45:12Z",
-    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
-  },
-  {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
     "id": "toxicwind/ranch",
     "language": "Rust",
@@ -131,7 +194,7 @@
     "language": "Python",
     "name": "AshwinUgale/tracelint",
     "stars": 12,
-    "updated_at": "2026-10-20T21:07:51Z",
+    "updated_at": "2026-10-20T21:51:49Z",
     "url": "https://github.com/AshwinUgale/tracelint"
   },
   {
@@ -140,7 +203,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 708,
-    "updated_at": "2026-10-20T21:21:03Z",
+    "updated_at": "2026-10-20T21:57:20Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -198,15 +261,6 @@
     "url": "https://github.com/ainsel-project/ainsel"
   },
   {
-    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
-    "id": "digline/digline",
-    "language": "Python",
-    "name": "digline/digline",
-    "stars": 9,
-    "updated_at": "2026-10-20T21:33:27Z",
-    "url": "https://github.com/digline/digline"
-  },
-  {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
     "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "language": "Go",
@@ -221,7 +275,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 111,
-    "updated_at": "2026-10-20T21:10:20Z",
+    "updated_at": "2026-10-20T21:47:06Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -238,7 +292,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 22783,
+    "stars": 22784,
     "updated_at": "2026-10-20T20:41:15Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -248,7 +302,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 200,
-    "updated_at": "2026-10-20T20:40:03Z",
+    "updated_at": "2026-10-20T21:58:19Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -342,15 +396,6 @@
     "url": "https://github.com/heyvaldemar/dify-traefik-letsencrypt-docker-compose"
   },
   {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-20T21:43:47Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
     "description": "Self-hosted AI Agents Platform for AI Native companies. Claude Code, Codex, Gemini, OpenCode agents. Apache 2.0.  ",
     "id": "Abilityai/trinity",
     "language": "Python",
@@ -374,7 +419,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11927,
-    "updated_at": "2026-10-20T21:40:36Z",
+    "updated_at": "2026-10-20T21:50:06Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -396,15 +441,6 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
-    "id": "korczis/prismatic-majordomus",
-    "language": "Rust",
-    "name": "korczis/prismatic-majordomus",
-    "stars": 0,
-    "updated_at": "2026-10-20T20:18:02Z",
-    "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
     "description": "AI platform reference architecture for LLM serving on Kubernetes, with reliability, observability, failure testing, and ",
     "id": "asadhanif3188/InferOps",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-20T19:40:10Z",
     "url": "https://github.com/asadhanif3188/InferOps"
-  },
-  {
-    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
-    "id": "srjn45/warden",
-    "language": "Go",
-    "name": "srjn45/warden",
-    "stars": 2,
-    "updated_at": "2026-10-20T21:32:43Z",
-    "url": "https://github.com/srjn45/warden"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36096,
-    "updated_at": "2026-10-20T21:41:53Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "LiteLLM proxy + Open WebUI with Docker Compose: a self-hosted LLM gateway for companies. Per-user budgets and rate limit",
-    "id": "pexon-consulting/litellm-open-webui",
-    "language": "Python",
-    "name": "pexon-consulting/litellm-open-webui",
-    "stars": 0,
-    "updated_at": "2026-10-20T19:25:30Z",
-    "url": "https://github.com/pexon-consulting/litellm-open-webui"
-  },
-  {
-    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
-    "id": "burakdede/lorepack",
-    "language": "TypeScript",
-    "name": "burakdede/lorepack",
-    "stars": 4,
-    "updated_at": "2026-10-20T20:46:08Z",
-    "url": "https://github.com/burakdede/lorepack"
   }
 ]
