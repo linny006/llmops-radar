@@ -1,11 +1,74 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61588,
+    "updated_at": "2026-10-20T00:59:56Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-20T00:57:39Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-20T00:56:11Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Open-source LLM observability. See every prompt, completion, token, cost, latency and error as traces and sessions. Pyth",
+    "id": "dheerajkarwasra/spanlight",
+    "language": "Python",
+    "name": "dheerajkarwasra/spanlight",
+    "stars": 0,
+    "updated_at": "2026-10-20T00:53:29Z",
+    "url": "https://github.com/dheerajkarwasra/spanlight"
+  },
+  {
+    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-10-20T00:50:21Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-20T00:45:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26157,
+    "updated_at": "2026-10-20T00:44:29Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "A local flight recorder for AI coding agents and LLM runtimes. Passes OpenAI-compatible traffic through (e.g. OpenCode o",
     "id": "murillojndem/agent-splice",
     "language": "C#",
     "name": "murillojndem/agent-splice",
     "stars": 0,
-    "updated_at": "2026-10-20T00:43:08Z",
+    "updated_at": "2026-10-20T00:46:25Z",
     "url": "https://github.com/murillojndem/agent-splice"
   },
   {
@@ -18,33 +81,6 @@
     "url": "https://github.com/MongLong0214/jev-gate"
   },
   {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-20T00:42:05Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-20T00:39:38Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61588,
-    "updated_at": "2026-10-20T00:44:42Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Top LLM Observability (Opensource)  Star if you like it! ",
     "id": "ishandutta2007/Awesome-LLM-Observability",
     "language": "\u2014",
@@ -52,24 +88,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T00:35:05Z",
     "url": "https://github.com/ishandutta2007/Awesome-LLM-Observability"
-  },
-  {
-    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-10-20T00:34:41Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
-    "description": "Open-source LLM observability. See every prompt, completion, token, cost, latency and error as traces and sessions. Pyth",
-    "id": "dheerajkarwasra/spanlight",
-    "language": "Python",
-    "name": "dheerajkarwasra/spanlight",
-    "stars": 0,
-    "updated_at": "2026-10-20T00:26:46Z",
-    "url": "https://github.com/dheerajkarwasra/spanlight"
   },
   {
     "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
@@ -122,7 +140,7 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 42,
-    "updated_at": "2026-10-20T00:14:04Z",
+    "updated_at": "2026-10-20T00:56:47Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
@@ -153,15 +171,6 @@
     "url": "https://github.com/valteresj2/agent-hangar"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26156,
-    "updated_at": "2026-10-20T00:44:29Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Multi-tenant, permissions-aware knowledge assistant. A portfolio project about the operational layer around an LLM app: ",
     "id": "alexvervloet/knowledge-desk",
     "language": "Python",
@@ -169,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-10-19T23:58:25Z",
     "url": "https://github.com/alexvervloet/knowledge-desk"
-  },
-  {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-19T23:59:10Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -302,7 +302,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 698,
-    "updated_at": "2026-10-20T00:28:44Z",
+    "updated_at": "2026-10-20T00:55:33Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -374,7 +374,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 2178,
-    "updated_at": "2026-10-20T00:20:23Z",
+    "updated_at": "2026-10-20T00:48:23Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
