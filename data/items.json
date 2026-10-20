@@ -1,12 +1,84 @@
 [
   {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-20T03:15:04Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Cut your LLM bill 60-80%. Drop-in proxy with semantic cache, prompt compression and model routing. You pay only on prove",
+    "id": "contentforge-press/tokensave",
+    "language": "Python",
+    "name": "contentforge-press/tokensave",
+    "stars": 0,
+    "updated_at": "2026-10-20T03:14:21Z",
+    "url": "https://github.com/contentforge-press/tokensave"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11909,
+    "updated_at": "2026-10-20T03:10:48Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 3003,
+    "updated_at": "2026-10-20T03:08:37Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Top LLM Observability (Opensource)  Star if you like it! ",
+    "id": "ishandutta2007/Awesome-LLM-Observability",
+    "language": "\u2014",
+    "name": "ishandutta2007/Awesome-LLM-Observability",
+    "stars": 0,
+    "updated_at": "2026-10-20T03:07:46Z",
+    "url": "https://github.com/ishandutta2007/Awesome-LLM-Observability"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 61600,
-    "updated_at": "2026-10-20T02:59:13Z",
+    "stars": 61601,
+    "updated_at": "2026-10-20T03:13:49Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-10-20T03:05:31Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 7,
+    "updated_at": "2026-10-20T03:13:31Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-20T03:00:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
@@ -23,7 +95,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4983,
-    "updated_at": "2026-10-20T02:57:39Z",
+    "updated_at": "2026-10-20T03:15:22Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -40,18 +112,9 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 36046,
+    "stars": 36049,
     "updated_at": "2026-10-20T02:45:28Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-20T02:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Turn your knowledge and standards into a tested, reliable AI \u2014 by interview, not by prompting.",
@@ -72,30 +135,12 @@
     "url": "https://github.com/sandeepk24/learn-devops-playbook"
   },
   {
-    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-10-20T02:43:46Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 7,
-    "updated_at": "2026-10-20T02:41:23Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
     "description": "Flight recorder & observability for AI agents: trace every model call, tool call, file edit and shell command live, with",
     "id": "abdullahimohamed101/agent-black-box",
     "language": "Python",
     "name": "abdullahimohamed101/agent-black-box",
     "stars": 0,
-    "updated_at": "2026-10-20T02:42:20Z",
+    "updated_at": "2026-10-20T03:08:32Z",
     "url": "https://github.com/abdullahimohamed101/agent-black-box"
   },
   {
@@ -117,15 +162,6 @@
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 3003,
-    "updated_at": "2026-10-20T02:31:23Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "Building reliable LLM Agents \u2014 Agent eval, evidence grounding, context engineering",
     "id": "KBber/KBber",
     "language": "\u2014",
@@ -140,7 +176,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 205,
-    "updated_at": "2026-10-20T03:00:04Z",
+    "updated_at": "2026-10-20T03:14:42Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -162,21 +198,12 @@
     "url": "https://github.com/pragmatiks/pragma-providers"
   },
   {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-20T02:19:04Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
     "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
     "id": "NVIDIA-NeMo/nemo-helix",
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 111,
-    "updated_at": "2026-10-20T02:59:52Z",
+    "updated_at": "2026-10-20T03:13:34Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -203,7 +230,7 @@
     "language": "Python",
     "name": "llmspendguard/llm-spendguard",
     "stars": 0,
-    "updated_at": "2026-10-20T02:38:01Z",
+    "updated_at": "2026-10-20T03:08:36Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
@@ -211,7 +238,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26159,
+    "stars": 26160,
     "updated_at": "2026-10-20T01:45:18Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -221,7 +248,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1364,
-    "updated_at": "2026-10-20T02:58:19Z",
+    "updated_at": "2026-10-20T03:10:10Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -232,15 +259,6 @@
     "stars": 4,
     "updated_at": "2026-10-20T01:43:14Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11909,
-    "updated_at": "2026-10-20T01:43:01Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, a",
@@ -360,15 +378,6 @@
     "url": "https://github.com/dr-gareth-roberts/insideLLMs"
   },
   {
-    "description": "Top LLM Observability (Opensource)  Star if you like it! ",
-    "id": "ishandutta2007/Awesome-LLM-Observability",
-    "language": "\u2014",
-    "name": "ishandutta2007/Awesome-LLM-Observability",
-    "stars": 0,
-    "updated_at": "2026-10-20T01:17:13Z",
-    "url": "https://github.com/ishandutta2007/Awesome-LLM-Observability"
-  },
-  {
     "description": "A local-first smoke test for OpenAI-compatible LLM endpoints.",
     "id": "LydiaTools/llm-endpoint-doctor",
     "language": "Python",
@@ -419,7 +428,7 @@
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 678,
-    "updated_at": "2026-10-20T01:05:53Z",
+    "updated_at": "2026-10-20T03:14:01Z",
     "url": "https://github.com/Abilityai/trinity"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-20T00:46:25Z",
     "url": "https://github.com/murillojndem/agent-splice"
-  },
-  {
-    "description": "AI Agent hooks for LLM Observability.",
-    "id": "HikaruEgashira/otel-hooks",
-    "language": "Python",
-    "name": "HikaruEgashira/otel-hooks",
-    "stars": 9,
-    "updated_at": "2026-10-20T00:24:38Z",
-    "url": "https://github.com/HikaruEgashira/otel-hooks"
   }
 ]
