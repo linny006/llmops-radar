@@ -1,21 +1,57 @@
 [
   {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1272,
-    "updated_at": "2026-10-20T16:12:41Z",
-    "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
     "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
     "id": "sauravbhattacharya001/prompt",
     "language": "C#",
     "name": "sauravbhattacharya001/prompt",
     "stars": 1,
-    "updated_at": "2026-10-20T16:11:56Z",
+    "updated_at": "2026-10-20T16:28:04Z",
     "url": "https://github.com/sauravbhattacharya001/prompt"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61658,
+    "updated_at": "2026-10-20T16:26:41Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 9462,
+    "updated_at": "2026-10-20T16:27:03Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1272,
+    "updated_at": "2026-10-20T16:22:52Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "Source-available operating layer for governed AI applications \u2014 reuse policy, authority, evidence, execution, and recove",
+    "id": "jakbuczarnecki/intergrax",
+    "language": "Python",
+    "name": "jakbuczarnecki/intergrax",
+    "stars": 4,
+    "updated_at": "2026-10-20T16:17:50Z",
+    "url": "https://github.com/jakbuczarnecki/intergrax"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-20T16:16:38Z",
+    "url": "https://github.com/toxicwind/ranch"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -23,17 +59,17 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22777,
-    "updated_at": "2026-10-20T16:14:10Z",
+    "updated_at": "2026-10-20T16:27:57Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61659,
-    "updated_at": "2026-10-20T16:11:04Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-20T16:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Companion code for the book LLM Observability & Production AI Reliability: an OpenTelemetry-instrumented LLM application",
@@ -52,15 +88,6 @@
     "stars": 27,
     "updated_at": "2026-10-20T16:08:13Z",
     "url": "https://github.com/francordel/myrtia"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 9462,
-    "updated_at": "2026-10-20T16:06:14Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "\u9876\u7ea7\u5ba1\u7f8e\u7684\u4e2a\u4eba\u535a\u5ba2\uff01\uff01\uff01\u5199\u4e00\u4e9b\u5173\u4e8e AI\u3001Agent\u3001\u6280\u672f\u3001\u4ea7\u54c1\u3001\u8425\u9500\u3001\u4e00\u4e9b\u751f\u6d3b\u601d\u8003\uff0c\u4e2a\u4eba\u6210\u957f\u7c7b\u7684\u7cbe\u6587",
@@ -86,8 +113,17 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 36091,
-    "updated_at": "2026-10-20T16:12:36Z",
+    "updated_at": "2026-10-20T16:29:56Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 705,
+    "updated_at": "2026-10-20T16:05:03Z",
+    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "Production LLMOps Platform on Microsoft Azure (Azure OpenAI, PostgreSQL Flexible with pgvector, Container Apps, Terrafor",
@@ -126,21 +162,12 @@
     "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-20T16:00:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4982,
-    "updated_at": "2026-10-20T16:13:55Z",
+    "updated_at": "2026-10-20T16:17:07Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -158,7 +185,7 @@
     "language": "Python",
     "name": "decimal-labs/decimalai-python",
     "stars": 1,
-    "updated_at": "2026-10-20T15:50:26Z",
+    "updated_at": "2026-10-20T16:23:07Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
@@ -194,7 +221,7 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-20T16:06:30Z",
+    "updated_at": "2026-10-20T16:27:31Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -203,7 +230,7 @@
     "language": "Python",
     "name": "llmspendguard/llm-spendguard",
     "stars": 0,
-    "updated_at": "2026-10-20T15:43:03Z",
+    "updated_at": "2026-10-20T16:30:25Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
@@ -270,15 +297,6 @@
     "url": "https://github.com/karmendra8386/agentic-ai-token-economics"
   },
   {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 704,
-    "updated_at": "2026-10-20T16:05:03Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
     "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
     "id": "mesedi-ai/mesedi",
     "language": "Go",
@@ -306,15 +324,6 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-20T15:20:46Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
     "description": "Control plane for company AI use cases \u2014 one self-hosted operating layer for shared budgets, policies, reliability, and ",
     "id": "dativo-io/talon",
     "language": "Go",
@@ -338,7 +347,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11922,
-    "updated_at": "2026-10-20T16:09:05Z",
+    "updated_at": "2026-10-20T16:23:16Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -392,7 +401,7 @@
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 113,
-    "updated_at": "2026-10-20T16:14:50Z",
+    "updated_at": "2026-10-20T16:27:13Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 31,
     "updated_at": "2026-10-20T14:28:43Z",
     "url": "https://github.com/JehanneDussert/govllm"
-  },
-  {
-    "description": "Every model call through one library: raw-HTTP provider adapters, a cost ledger row and an OpenTelemetry span per call, ",
-    "id": "Peter-A-P/compliant-ai-gateway",
-    "language": "Python",
-    "name": "Peter-A-P/compliant-ai-gateway",
-    "stars": 0,
-    "updated_at": "2026-10-20T14:27:45Z",
-    "url": "https://github.com/Peter-A-P/compliant-ai-gateway"
   }
 ]
