@@ -1,29 +1,11 @@
 [
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61663,
-    "updated_at": "2026-10-20T17:57:00Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 707,
-    "updated_at": "2026-10-20T17:59:30Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
     "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
     "id": "NVIDIA-NeMo/nemo-helix",
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 113,
-    "updated_at": "2026-10-20T17:54:40Z",
+    "updated_at": "2026-10-20T18:14:57Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -32,8 +14,80 @@
     "language": "Rust",
     "name": "toxicwind/ranch",
     "stars": 0,
-    "updated_at": "2026-10-20T17:52:42Z",
+    "updated_at": "2026-10-20T18:11:33Z",
     "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61664,
+    "updated_at": "2026-10-20T18:14:46Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open Source Ai by CodesbyFebin \u2013 all open-source AI agent & LLM stacks in one repo: LLM gateways, free LLM APIs, chat UI",
+    "id": "CodesbyFebin/Open-Source-Ai",
+    "language": "Python",
+    "name": "CodesbyFebin/Open-Source-Ai",
+    "stars": 1,
+    "updated_at": "2026-10-20T18:07:48Z",
+    "url": "https://github.com/CodesbyFebin/Open-Source-Ai"
+  },
+  {
+    "description": "If the agent bill went up and nothing errored, a prompt cache broke. Replay Doctor names the turn it broke on, the cause",
+    "id": "RedRobotKK/Replay",
+    "language": "Go",
+    "name": "RedRobotKK/Replay",
+    "stars": 3,
+    "updated_at": "2026-10-20T18:09:36Z",
+    "url": "https://github.com/RedRobotKK/Replay"
+  },
+  {
+    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
+    "id": "iblai/os",
+    "language": "TypeScript",
+    "name": "iblai/os",
+    "stars": 821,
+    "updated_at": "2026-10-20T18:10:40Z",
+    "url": "https://github.com/iblai/os"
+  },
+  {
+    "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
+    "id": "prasad-kavuri/prasad-portfolio",
+    "language": "TypeScript",
+    "name": "prasad-kavuri/prasad-portfolio",
+    "stars": 0,
+    "updated_at": "2026-10-20T18:03:37Z",
+    "url": "https://github.com/prasad-kavuri/prasad-portfolio"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-20T18:11:48Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-20T18:00:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 707,
+    "updated_at": "2026-10-20T18:06:59Z",
+    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
@@ -50,7 +104,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11924,
-    "updated_at": "2026-10-20T17:54:23Z",
+    "updated_at": "2026-10-20T18:10:21Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -68,7 +122,7 @@
     "language": "Python",
     "name": "decimal-labs/decimalai-python",
     "stars": 1,
-    "updated_at": "2026-10-20T17:49:56Z",
+    "updated_at": "2026-10-20T18:05:00Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
@@ -77,17 +131,8 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-20T17:59:44Z",
+    "updated_at": "2026-10-20T18:08:10Z",
     "url": "https://github.com/srjn45/warden"
-  },
-  {
-    "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
-    "id": "prasad-kavuri/prasad-portfolio",
-    "language": "TypeScript",
-    "name": "prasad-kavuri/prasad-portfolio",
-    "stars": 0,
-    "updated_at": "2026-10-20T17:49:29Z",
-    "url": "https://github.com/prasad-kavuri/prasad-portfolio"
   },
   {
     "description": "AI agent execution governance: pre-effect authorization, single-use permissions, policy enforcement, and verifiable reco",
@@ -106,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T17:46:32Z",
     "url": "https://github.com/dheerajkarwasra/spanlight"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-20T17:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
@@ -157,8 +193,8 @@
     "id": "Abilityai/trinity",
     "language": "Python",
     "name": "Abilityai/trinity",
-    "stars": 683,
-    "updated_at": "2026-10-20T17:33:45Z",
+    "stars": 684,
+    "updated_at": "2026-10-20T18:11:03Z",
     "url": "https://github.com/Abilityai/trinity"
   },
   {
@@ -176,7 +212,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 200,
-    "updated_at": "2026-10-20T17:57:10Z",
+    "updated_at": "2026-10-20T18:13:28Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -230,7 +266,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22781,
-    "updated_at": "2026-10-20T17:44:03Z",
+    "updated_at": "2026-10-20T18:13:35Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -238,7 +274,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 9467,
+    "stars": 9468,
     "updated_at": "2026-10-20T17:17:04Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -286,24 +322,6 @@
     "stars": 26191,
     "updated_at": "2026-10-20T17:04:08Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Open Source Ai by CodesbyFebin \u2013 all open-source AI agent & LLM stacks in one repo: LLM gateways, free LLM APIs, chat UI",
-    "id": "CodesbyFebin/Open-Source-Ai",
-    "language": "HTML",
-    "name": "CodesbyFebin/Open-Source-Ai",
-    "stars": 1,
-    "updated_at": "2026-10-20T17:03:01Z",
-    "url": "https://github.com/CodesbyFebin/Open-Source-Ai"
-  },
-  {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-20T18:00:25Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -365,7 +383,7 @@
     "language": "Python",
     "name": "Arize-ai/openinference",
     "stars": 1272,
-    "updated_at": "2026-10-20T17:51:44Z",
+    "updated_at": "2026-10-20T18:06:45Z",
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
@@ -419,7 +437,7 @@
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 25,
-    "updated_at": "2026-10-20T16:06:40Z",
+    "updated_at": "2026-10-20T18:15:23Z",
     "url": "https://github.com/AixleHQ/flow"
   },
   {
@@ -428,25 +446,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4982,
-    "updated_at": "2026-10-20T17:33:54Z",
+    "updated_at": "2026-10-20T18:05:16Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Hard USD spend limits for LLM agents in Rust: per-agent and fleet-wide caps, kill switches, and automatic model downgrad",
-    "id": "Mattbusel/llm-budget",
-    "language": "Rust",
-    "name": "Mattbusel/llm-budget",
-    "stars": 3,
-    "updated_at": "2026-10-20T15:56:56Z",
-    "url": "https://github.com/Mattbusel/llm-budget"
-  },
-  {
-    "description": "Argus: the security layer for all AI models \u2014 OpenAI-compatible AI gateway with threat detectors, policy enforcement, au",
-    "id": "karmendra8386/argus",
-    "language": "Python",
-    "name": "karmendra8386/argus",
-    "stars": 0,
-    "updated_at": "2026-10-20T15:47:55Z",
-    "url": "https://github.com/karmendra8386/argus"
   }
 ]
