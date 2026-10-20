@@ -1,12 +1,129 @@
 [
   {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-10-20T06:28:36Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 200,
+    "updated_at": "2026-10-20T06:28:02Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
+    "id": "AixleHQ/flow",
+    "language": "Ruby",
+    "name": "AixleHQ/flow",
+    "stars": 25,
+    "updated_at": "2026-10-20T06:26:53Z",
+    "url": "https://github.com/AixleHQ/flow"
+  },
+  {
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Python",
+    "name": "alibaba/rtp-llm",
+    "stars": 1365,
+    "updated_at": "2026-10-20T06:26:13Z",
+    "url": "https://github.com/alibaba/rtp-llm"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 3005,
+    "updated_at": "2026-10-20T06:22:31Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-20T06:20:23Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
+    "id": "rknightion/genai-otel-bridge",
+    "language": "Go",
+    "name": "rknightion/genai-otel-bridge",
+    "stars": 1,
+    "updated_at": "2026-10-20T06:28:20Z",
+    "url": "https://github.com/rknightion/genai-otel-bridge"
+  },
+  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5911,
-    "updated_at": "2026-10-20T06:15:18Z",
+    "stars": 5912,
+    "updated_at": "2026-10-20T06:29:13Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
+    "language": "Python",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 53,
+    "updated_at": "2026-10-20T06:19:39Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 2180,
+    "updated_at": "2026-10-20T06:18:35Z",
+    "url": "https://github.com/future-agi/future-agi"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36058,
+    "updated_at": "2026-10-20T06:18:02Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-10-20T06:17:18Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
+    "description": "AI-RECON is a specialized reconnaissance tool designed to identify, fingerprint, and enumerate AI/ML infrastructure. It ",
+    "id": "giriaryan694-a11y/ai-recon",
+    "language": "Python",
+    "name": "giriaryan694-a11y/ai-recon",
+    "stars": 4,
+    "updated_at": "2026-10-20T06:16:13Z",
+    "url": "https://github.com/giriaryan694-a11y/ai-recon"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-20T06:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -14,7 +131,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61615,
-    "updated_at": "2026-10-20T06:13:56Z",
+    "updated_at": "2026-10-20T06:28:47Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -27,15 +144,6 @@
     "url": "https://github.com/ChanMeng666/ai-product-manager-skill"
   },
   {
-    "description": "Enterprise Scale AIFactory (esml) - on Azure",
-    "id": "jostrm/azure-enterprise-scale-ml",
-    "language": "Python",
-    "name": "jostrm/azure-enterprise-scale-ml",
-    "stars": 53,
-    "updated_at": "2026-10-20T06:13:26Z",
-    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
-  },
-  {
     "description": "Portable Agent Skills for building, operating, evaluating, and governing LLM-Wiki knowledge systems.",
     "id": "po4yka/llm-wiki-skills",
     "language": "JavaScript",
@@ -43,24 +151,6 @@
     "stars": 4,
     "updated_at": "2026-10-20T06:11:04Z",
     "url": "https://github.com/po4yka/llm-wiki-skills"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 2179,
-    "updated_at": "2026-10-20T06:10:39Z",
-    "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 3004,
-    "updated_at": "2026-10-20T06:05:58Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
@@ -90,15 +180,6 @@
     "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-20T06:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "A local-first smoke test for OpenAI-compatible LLM endpoints.",
     "id": "LydiaTools/llm-endpoint-doctor",
     "language": "Python",
@@ -117,24 +198,6 @@
     "url": "https://github.com/happy520ai/gateway-price-check"
   },
   {
-    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-10-20T05:57:47Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36056,
-    "updated_at": "2026-10-20T06:13:12Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
     "id": "UtkuWisniewski1658/ZizkaDB",
     "language": "Python",
@@ -149,7 +212,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28455,
-    "updated_at": "2026-10-20T05:56:49Z",
+    "updated_at": "2026-10-20T06:21:03Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -189,15 +252,6 @@
     "url": "https://github.com/chiarasato81604/ZizkaDB"
   },
   {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-10-20T06:04:23Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
     "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
     "id": "a-novel/service-genai",
     "language": "Go",
@@ -230,7 +284,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4983,
-    "updated_at": "2026-10-20T06:14:34Z",
+    "updated_at": "2026-10-20T06:24:35Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -241,24 +295,6 @@
     "stars": 1272,
     "updated_at": "2026-10-20T05:40:56Z",
     "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:38:11Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 200,
-    "updated_at": "2026-10-20T06:03:49Z",
-    "url": "https://github.com/api7/aisix"
   },
   {
     "description": "A MCP server allowing LLM agents to easily connect and retrieve data from any database",
@@ -360,6 +396,15 @@
     "url": "https://github.com/rinaronto45906/ZizkaDB"
   },
   {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 30645,
+    "updated_at": "2026-10-20T05:15:54Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
     "description": "Product analytics for AI Assistants",
     "id": "michalr812/trubrics-python",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-20T05:04:57Z",
     "url": "https://github.com/BrahimIshii834/llmaker"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 4,
-    "updated_at": "2026-10-20T05:04:53Z",
-    "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Product analytics for AI Assistants",
-    "id": "Patel5817/trubrics-python",
-    "language": "Python",
-    "name": "Patel5817/trubrics-python",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:02:31Z",
-    "url": "https://github.com/Patel5817/trubrics-python"
-  },
-  {
-    "description": "AI agent gates: 14 zero-dependency CI checks for agent failure modes \u2014 loop, permission, context, memory, drift, leak.",
-    "id": "chenhz01/agent-gates",
-    "language": "Python",
-    "name": "chenhz01/agent-gates",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:50:11Z",
-    "url": "https://github.com/chenhz01/agent-gates"
-  },
-  {
-    "description": "Product analytics for AI Assistants",
-    "id": "nancyp71223/trubrics-python",
-    "language": "Python",
-    "name": "nancyp71223/trubrics-python",
-    "stars": 0,
-    "updated_at": "2026-10-20T04:59:13Z",
-    "url": "https://github.com/nancyp71223/trubrics-python"
-  },
-  {
-    "description": "Cheaper and better Greptile alternative runs on your own github actions.",
-    "id": "carmen8468/juror",
-    "language": "TypeScript",
-    "name": "carmen8468/juror",
-    "stars": 0,
-    "updated_at": "2026-10-20T04:59:00Z",
-    "url": "https://github.com/carmen8468/juror"
   }
 ]
