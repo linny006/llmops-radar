@@ -1,12 +1,102 @@
 [
   {
+    "description": "AI agent gates: 14 zero-dependency CI checks for agent failure modes \u2014 loop, permission, context, memory, drift, leak.",
+    "id": "chenhz01/agent-gates",
+    "language": "Python",
+    "name": "chenhz01/agent-gates",
+    "stars": 0,
+    "updated_at": "2026-10-20T04:59:55Z",
+    "url": "https://github.com/chenhz01/agent-gates"
+  },
+  {
+    "description": "Product analytics for AI Assistants",
+    "id": "nancyp71223/trubrics-python",
+    "language": "Python",
+    "name": "nancyp71223/trubrics-python",
+    "stars": 0,
+    "updated_at": "2026-10-20T04:59:13Z",
+    "url": "https://github.com/nancyp71223/trubrics-python"
+  },
+  {
+    "description": "Cheaper and better Greptile alternative runs on your own github actions.",
+    "id": "carmen8468/juror",
+    "language": "TypeScript",
+    "name": "carmen8468/juror",
+    "stars": 0,
+    "updated_at": "2026-10-20T04:59:00Z",
+    "url": "https://github.com/carmen8468/juror"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-20T04:58:38Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1272,
+    "updated_at": "2026-10-20T04:58:22Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "Production LLM call layer for AI agents and tools: keep OpenAI/Anthropic/AI SDK/LiteLLM, hot-swap models with MDA preset",
+    "id": "michellebryant153/llmix",
+    "language": "Python",
+    "name": "michellebryant153/llmix",
+    "stars": 0,
+    "updated_at": "2026-10-20T04:56:11Z",
+    "url": "https://github.com/michellebryant153/llmix"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 61611,
-    "updated_at": "2026-10-20T04:43:35Z",
+    "stars": 61612,
+    "updated_at": "2026-10-20T04:57:19Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 7,
+    "updated_at": "2026-10-20T04:54:35Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Product analytics for AI Assistants",
+    "id": "ElizabethJuncker40643/trubrics-python",
+    "language": "Python",
+    "name": "ElizabethJuncker40643/trubrics-python",
+    "stars": 0,
+    "updated_at": "2026-10-20T04:52:52Z",
+    "url": "https://github.com/ElizabethJuncker40643/trubrics-python"
+  },
+  {
+    "description": "See what your Google ADK agent costs (per-invocation USD from token usage) and fail CI when it gets more expensive.",
+    "id": "gaurav-gandhi-2411/adk-tracegauge",
+    "language": "Python",
+    "name": "gaurav-gandhi-2411/adk-tracegauge",
+    "stars": 0,
+    "updated_at": "2026-10-20T04:45:50Z",
+    "url": "https://github.com/gaurav-gandhi-2411/adk-tracegauge"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-20T04:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
@@ -32,7 +122,7 @@
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 680,
-    "updated_at": "2026-10-20T04:36:00Z",
+    "updated_at": "2026-10-20T04:56:02Z",
     "url": "https://github.com/Abilityai/trinity"
   },
   {
@@ -41,44 +131,8 @@
     "language": "Python",
     "name": "llmspendguard/llm-spendguard",
     "stars": 0,
-    "updated_at": "2026-10-20T04:35:37Z",
+    "updated_at": "2026-10-20T04:56:35Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "See what your Google ADK agent costs (per-invocation USD from token usage) and fail CI when it gets more expensive.",
-    "id": "gaurav-gandhi-2411/adk-tracegauge",
-    "language": "Python",
-    "name": "gaurav-gandhi-2411/adk-tracegauge",
-    "stars": 0,
-    "updated_at": "2026-10-20T04:36:26Z",
-    "url": "https://github.com/gaurav-gandhi-2411/adk-tracegauge"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-20T04:30:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1272,
-    "updated_at": "2026-10-20T04:30:26Z",
-    "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
-    "description": "AI agent gates: 14 zero-dependency CI checks for agent failure modes \u2014 loop, permission, context, memory, drift, leak.",
-    "id": "chenhz01/agent-gates",
-    "language": "Python",
-    "name": "chenhz01/agent-gates",
-    "stars": 0,
-    "updated_at": "2026-10-20T04:27:51Z",
-    "url": "https://github.com/chenhz01/agent-gates"
   },
   {
     "description": "ClearML - Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data Management, Pipeline, Orchestra",
@@ -135,15 +189,6 @@
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-20T04:01:14Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -185,7 +230,7 @@
     "language": "Go",
     "name": "a-novel/service-genai",
     "stars": 1,
-    "updated_at": "2026-10-20T03:43:36Z",
+    "updated_at": "2026-10-20T04:54:47Z",
     "url": "https://github.com/a-novel/service-genai"
   },
   {
@@ -212,7 +257,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4983,
-    "updated_at": "2026-10-20T04:44:24Z",
+    "updated_at": "2026-10-20T04:46:54Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -241,15 +286,6 @@
     "stars": 1,
     "updated_at": "2026-10-20T03:27:59Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 7,
-    "updated_at": "2026-10-20T04:22:36Z",
-    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "Flight recorder & observability for AI agents: trace every model call, tool call, file edit and shell command live, with",
@@ -412,41 +448,5 @@
     "stars": 12560,
     "updated_at": "2026-10-20T01:41:36Z",
     "url": "https://github.com/bentoml/OpenLLM"
-  },
-  {
-    "description": "Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code \u2014 V3 prototype runs ",
-    "id": "MongLong0214/jev-gate",
-    "language": "TypeScript",
-    "name": "MongLong0214/jev-gate",
-    "stars": 3,
-    "updated_at": "2026-10-20T03:18:34Z",
-    "url": "https://github.com/MongLong0214/jev-gate"
-  },
-  {
-    "description": "The safety layer for the AGI era. Runtime guardrails for autonomous AI agents.",
-    "id": "vijaym2k6/SteerPlane",
-    "language": "Python",
-    "name": "vijaym2k6/SteerPlane",
-    "stars": 4,
-    "updated_at": "2026-10-20T01:51:55Z",
-    "url": "https://github.com/vijaym2k6/SteerPlane"
-  },
-  {
-    "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
-    "id": "mesedi-ai/mesedi",
-    "language": "Go",
-    "name": "mesedi-ai/mesedi",
-    "stars": 1,
-    "updated_at": "2026-10-20T01:46:07Z",
-    "url": "https://github.com/mesedi-ai/mesedi"
-  },
-  {
-    "description": "Open-source LLM observability. See every prompt, completion, token, cost, latency and error as traces and sessions. Pyth",
-    "id": "dheerajkarwasra/spanlight",
-    "language": "Python",
-    "name": "dheerajkarwasra/spanlight",
-    "stars": 0,
-    "updated_at": "2026-10-20T01:35:21Z",
-    "url": "https://github.com/dheerajkarwasra/spanlight"
   }
 ]
