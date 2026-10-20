@@ -1,21 +1,138 @@
 [
   {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 702,
+    "updated_at": "2026-10-20T10:59:22Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61640,
+    "updated_at": "2026-10-20T10:58:46Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-20T11:00:12Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28461,
+    "updated_at": "2026-10-20T10:58:08Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22765,
-    "updated_at": "2026-10-20T10:45:09Z",
+    "updated_at": "2026-10-20T10:58:05Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
+    "description": "\u9876\u7ea7\u5ba1\u7f8e\u7684\u4e2a\u4eba\u535a\u5ba2\uff01\uff01\uff01\u5199\u4e00\u4e9b\u5173\u4e8e AI\u3001Agent\u3001\u6280\u672f\u3001\u4ea7\u54c1\u3001\u8425\u9500\u3001\u4e00\u4e9b\u751f\u6d3b\u601d\u8003\uff0c\u4e2a\u4eba\u6210\u957f\u7c7b\u7684\u7cbe\u6587",
+    "id": "cubxxw/blog",
+    "language": "JavaScript",
+    "name": "cubxxw/blog",
+    "stars": 29,
+    "updated_at": "2026-10-20T10:57:24Z",
+    "url": "https://github.com/cubxxw/blog"
+  },
+  {
+    "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
+    "id": "dyronrh/awesome-agentops-landscape",
     "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 701,
-    "updated_at": "2026-10-20T10:44:56Z",
-    "url": "https://github.com/mozilla-ai/otari"
+    "name": "dyronrh/awesome-agentops-landscape",
+    "stars": 22,
+    "updated_at": "2026-10-20T10:55:54Z",
+    "url": "https://github.com/dyronrh/awesome-agentops-landscape"
+  },
+  {
+    "description": "Personal portfolio website for Abdulaziz Balu: AI, full-stack, LLMOps, DevOps, and digital media strategy.",
+    "id": "abdulazizbalu/balu-portfolio",
+    "language": "HTML",
+    "name": "abdulazizbalu/balu-portfolio",
+    "stars": 0,
+    "updated_at": "2026-10-20T10:53:50Z",
+    "url": "https://github.com/abdulazizbalu/balu-portfolio"
+  },
+  {
+    "description": "Template for small, safe AI agents in pure Python: cost caps in code, tool-less LLM client, \"I don't know\" as a valid re",
+    "id": "tonyweckstrom1987/agentti-pohja",
+    "language": "Python",
+    "name": "tonyweckstrom1987/agentti-pohja",
+    "stars": 0,
+    "updated_at": "2026-10-20T10:57:48Z",
+    "url": "https://github.com/tonyweckstrom1987/agentti-pohja"
+  },
+  {
+    "description": "Production LLMOps Platform on Microsoft Azure (Azure OpenAI, PostgreSQL Flexible with pgvector, Container Apps, Terrafor",
+    "id": "Math-ieu/rag-llmops-azure",
+    "language": "Python",
+    "name": "Math-ieu/rag-llmops-azure",
+    "stars": 0,
+    "updated_at": "2026-10-20T10:50:53Z",
+    "url": "https://github.com/Math-ieu/rag-llmops-azure"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36076,
+    "updated_at": "2026-10-20T10:57:09Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Python",
+    "name": "alibaba/rtp-llm",
+    "stars": 1365,
+    "updated_at": "2026-10-20T10:58:14Z",
+    "url": "https://github.com/alibaba/rtp-llm"
+  },
+  {
+    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
+    "id": "dynamiq-ai/dynamiq",
+    "language": "Python",
+    "name": "dynamiq-ai/dynamiq",
+    "stars": 1071,
+    "updated_at": "2026-10-20T10:51:24Z",
+    "url": "https://github.com/dynamiq-ai/dynamiq"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-20T10:46:55Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-20T10:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Radicalbit AI Gateway",
@@ -23,7 +140,7 @@
     "language": "Python",
     "name": "radicalbit/radicalbit-ai-gateway",
     "stars": 71,
-    "updated_at": "2026-10-20T10:44:17Z",
+    "updated_at": "2026-10-20T10:45:41Z",
     "url": "https://github.com/radicalbit/radicalbit-ai-gateway"
   },
   {
@@ -32,35 +149,8 @@
     "language": "Python",
     "name": "decimal-labs/decimalai-python",
     "stars": 1,
-    "updated_at": "2026-10-20T10:44:22Z",
+    "updated_at": "2026-10-20T10:51:42Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61641,
-    "updated_at": "2026-10-20T10:44:14Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Template for small, safe AI agents in pure Python: cost caps in code, tool-less LLM client, \"I don't know\" as a valid re",
-    "id": "tonyweckstrom1987/agentti-pohja",
-    "language": "Python",
-    "name": "tonyweckstrom1987/agentti-pohja",
-    "stars": 0,
-    "updated_at": "2026-10-20T10:42:40Z",
-    "url": "https://github.com/tonyweckstrom1987/agentti-pohja"
-  },
-  {
-    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
-    "id": "dynamiq-ai/dynamiq",
-    "language": "Python",
-    "name": "dynamiq-ai/dynamiq",
-    "stars": 1071,
-    "updated_at": "2026-10-20T10:42:07Z",
-    "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
     "description": "\ud83c\udf89 An awesome & curated list of best LLMOps tools.",
@@ -72,21 +162,12 @@
     "url": "https://github.com/InftyAI/Awesome-LLMOps"
   },
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36075,
-    "updated_at": "2026-10-20T10:38:00Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
     "id": "rhesis-ai/rhesis",
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 398,
-    "updated_at": "2026-10-20T10:34:14Z",
+    "updated_at": "2026-10-20T10:58:43Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -95,7 +176,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 200,
-    "updated_at": "2026-10-20T10:33:31Z",
+    "updated_at": "2026-10-20T10:50:12Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -106,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-10-20T10:33:26Z",
     "url": "https://github.com/runcycles/cycles-server-admin"
-  },
-  {
-    "description": "Personal portfolio website for Abdulaziz Balu: AI, full-stack, LLMOps, DevOps, and digital media strategy.",
-    "id": "abdulazizbalu/balu-portfolio",
-    "language": "HTML",
-    "name": "abdulazizbalu/balu-portfolio",
-    "stars": 0,
-    "updated_at": "2026-10-20T10:33:20Z",
-    "url": "https://github.com/abdulazizbalu/balu-portfolio"
   },
   {
     "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
@@ -133,15 +205,6 @@
     "stars": 111,
     "updated_at": "2026-10-20T10:34:59Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-20T10:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "OpenLIT is the open-source agent harness engineering platform: trace, evaluate, guard, and improve everything around the",
@@ -171,15 +234,6 @@
     "url": "https://github.com/chenhz01/agent-gates"
   },
   {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-20T10:44:04Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
     "description": "A self-updating, auto-classified map of the GenAI engineering stack: agents, MCP, memory, RAG, evals, LLMOps, AI securit",
     "id": "alebgl77/awesome-ai-architect",
     "language": "Python",
@@ -189,15 +243,6 @@
     "url": "https://github.com/alebgl77/awesome-ai-architect"
   },
   {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-20T10:02:23Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
     "description": "AI gateway as a framework. For full control over models, routing & lifecycle. OpenAI /chat/completions, OpenResponses /r",
     "id": "8monkey-ai/hebo-gateway",
     "language": "TypeScript",
@@ -205,15 +250,6 @@
     "stars": 26,
     "updated_at": "2026-10-20T09:58:45Z",
     "url": "https://github.com/8monkey-ai/hebo-gateway"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28462,
-    "updated_at": "2026-10-20T10:08:18Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Self-hosted LLM gateway in Rust: one OpenAI-compatible API for OpenAI, Anthropic, Gemini, Azure, Ollama and more, with v",
@@ -410,43 +446,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4982,
-    "updated_at": "2026-10-20T10:39:08Z",
+    "updated_at": "2026-10-20T10:54:42Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
-    "id": "marie49939/ZizkaDB",
-    "language": "Python",
-    "name": "marie49939/ZizkaDB",
-    "stars": 0,
-    "updated_at": "2026-10-20T08:56:35Z",
-    "url": "https://github.com/marie49939/ZizkaDB"
-  },
-  {
-    "description": "Model Context Protocol (MCP) Server for Langfuse Prompt Management. This server allows you to access and manage your Lan",
-    "id": "chevalier52/mcp-server-langfuse",
-    "language": "TypeScript",
-    "name": "chevalier52/mcp-server-langfuse",
-    "stars": 0,
-    "updated_at": "2026-10-20T08:55:53Z",
-    "url": "https://github.com/chevalier52/mcp-server-langfuse"
-  },
-  {
-    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
-    "id": "laylaf0069/awesome-ai-gateway",
-    "language": "CSS",
-    "name": "laylaf0069/awesome-ai-gateway",
-    "stars": 0,
-    "updated_at": "2026-10-20T08:55:43Z",
-    "url": "https://github.com/laylaf0069/awesome-ai-gateway"
-  },
-  {
-    "description": "Production LLM call layer for AI agents and tools: keep OpenAI/Anthropic/AI SDK/LiteLLM, hot-swap models with MDA preset",
-    "id": "gerald96164/llmix",
-    "language": "Python",
-    "name": "gerald96164/llmix",
-    "stars": 0,
-    "updated_at": "2026-10-20T08:55:41Z",
-    "url": "https://github.com/gerald96164/llmix"
   }
 ]
