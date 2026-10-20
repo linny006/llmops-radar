@@ -1,5 +1,77 @@
 [
   {
+    "description": "Building reliable LLM Agents \u2014 Agent eval, evidence grounding, context engineering",
+    "id": "KBber/KBber",
+    "language": "\u2014",
+    "name": "KBber/KBber",
+    "stars": 0,
+    "updated_at": "2026-10-20T02:29:40Z",
+    "url": "https://github.com/KBber/KBber"
+  },
+  {
+    "description": "AI agent execution governance: pre-effect authorization, single-use permissions, policy enforcement, and verifiable reco",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 42,
+    "updated_at": "2026-10-20T02:29:46Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "Resource providers for pragma-os. Manage cloud infrastructure, AI agents, knowledge bases, pipelines, and workflows.",
+    "id": "pragmatiks/pragma-providers",
+    "language": "Python",
+    "name": "pragmatiks/pragma-providers",
+    "stars": 0,
+    "updated_at": "2026-10-20T02:21:57Z",
+    "url": "https://github.com/pragmatiks/pragma-providers"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 7,
+    "updated_at": "2026-10-20T02:21:33Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61597,
+    "updated_at": "2026-10-20T02:29:45Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-20T02:19:04Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-10-20T02:17:01Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-20T02:15:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
     "id": "a-novel/service-genai",
     "language": "Go",
@@ -14,26 +86,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4983,
-    "updated_at": "2026-10-20T02:13:15Z",
+    "updated_at": "2026-10-20T02:29:19Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61594,
-    "updated_at": "2026-10-20T02:14:46Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 7,
-    "updated_at": "2026-10-20T02:07:06Z",
-    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
@@ -45,21 +99,12 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-20T02:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
     "id": "NVIDIA-NeMo/nemo-helix",
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 111,
-    "updated_at": "2026-10-20T01:59:07Z",
+    "updated_at": "2026-10-20T02:28:45Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -95,7 +140,7 @@
     "language": "Python",
     "name": "llmspendguard/llm-spendguard",
     "stars": 0,
-    "updated_at": "2026-10-20T01:59:43Z",
+    "updated_at": "2026-10-20T02:25:15Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
@@ -104,7 +149,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1364,
-    "updated_at": "2026-10-20T02:13:28Z",
+    "updated_at": "2026-10-20T02:29:09Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -115,6 +160,15 @@
     "stars": 4,
     "updated_at": "2026-10-20T01:43:14Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11910,
+    "updated_at": "2026-10-20T01:43:01Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, a",
@@ -160,6 +214,15 @@
     "stars": 4,
     "updated_at": "2026-10-20T01:51:55Z",
     "url": "https://github.com/vijaym2k6/SteerPlane"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28453,
+    "updated_at": "2026-10-20T01:36:07Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
@@ -214,24 +277,6 @@
     "stars": 1,
     "updated_at": "2026-10-20T01:31:16Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-10-20T01:44:40Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-20T01:26:17Z",
-    "url": "https://github.com/toxicwind/ranch"
   },
   {
     "description": "The platform for continuously improving AI agents.",
@@ -306,6 +351,15 @@
     "url": "https://github.com/Peter-A-P/model-selection-tenth-cost"
   },
   {
+    "description": "Self-hosted AI Agents Platform for AI Native companies. Claude Code, Codex, Gemini, OpenCode agents. Apache 2.0.  ",
+    "id": "Abilityai/trinity",
+    "language": "Python",
+    "name": "Abilityai/trinity",
+    "stars": 678,
+    "updated_at": "2026-10-20T01:05:53Z",
+    "url": "https://github.com/Abilityai/trinity"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -351,15 +405,6 @@
     "url": "https://github.com/Raviteja2k2k/Raviteja2k2k"
   },
   {
-    "description": "AI agent execution governance: pre-effect authorization, single-use permissions, policy enforcement, and verifiable reco",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 42,
-    "updated_at": "2026-10-20T01:45:43Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
     "description": "Personal agentic AI assistant: LangGraph orchestration, CrewAI specialist crews, MCP tools, Obsidian memory, human-in-th",
     "id": "Siddhu-6/Synapse",
     "language": "Python",
@@ -387,15 +432,6 @@
     "url": "https://github.com/alexvervloet/knowledge-desk"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28452,
-    "updated_at": "2026-10-20T01:36:07Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "HSAAI is an independent, sovereign, self-hosted enterprise AI platform developed by Haithim Nasher using an AI engineeri",
     "id": "HSA-AI/HSAAI",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-19T23:42:04Z",
     "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "Rust client for Cycles \u2014 runtime budget authority for AI agents",
-    "id": "runcycles/cycles-client-rust",
-    "language": "Rust",
-    "name": "runcycles/cycles-client-rust",
-    "stars": 1,
-    "updated_at": "2026-10-19T23:41:26Z",
-    "url": "https://github.com/runcycles/cycles-client-rust"
-  },
-  {
-    "description": "Cycles budget and action guard for OpenClaw agents",
-    "id": "runcycles/cycles-openclaw-budget-guard",
-    "language": "TypeScript",
-    "name": "runcycles/cycles-openclaw-budget-guard",
-    "stars": 7,
-    "updated_at": "2026-10-19T23:35:15Z",
-    "url": "https://github.com/runcycles/cycles-openclaw-budget-guard"
-  },
-  {
-    "description": "LangChain agent middleware for Cycles \u2014 pre-tool-call authorization and per-tenant budget enforcement for Python agents ",
-    "id": "runcycles/langchain-runcycles",
-    "language": "Python",
-    "name": "runcycles/langchain-runcycles",
-    "stars": 0,
-    "updated_at": "2026-10-19T23:35:11Z",
-    "url": "https://github.com/runcycles/langchain-runcycles"
-  },
-  {
-    "description": "Signed webhook/event delivery for Cycles \u2014 retries, HMAC, replay, audit, governance events",
-    "id": "runcycles/cycles-server-events",
-    "language": "Java",
-    "name": "runcycles/cycles-server-events",
-    "stars": 1,
-    "updated_at": "2026-10-19T23:35:08Z",
-    "url": "https://github.com/runcycles/cycles-server-events"
   }
 ]
