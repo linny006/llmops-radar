@@ -1,21 +1,30 @@
 [
   {
-    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
-    "id": "NVIDIA-NeMo/nemo-helix",
-    "language": "Python",
-    "name": "NVIDIA-NeMo/nemo-helix",
-    "stars": 113,
-    "updated_at": "2026-10-20T18:14:57Z",
-    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-20T18:30:00Z",
+    "url": "https://github.com/vocion/vocion-core"
   },
   {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-20T18:11:33Z",
-    "url": "https://github.com/toxicwind/ranch"
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 32,
+    "updated_at": "2026-10-20T18:28:27Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22781,
+    "updated_at": "2026-10-20T18:29:06Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -23,8 +32,62 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61664,
-    "updated_at": "2026-10-20T18:14:46Z",
+    "updated_at": "2026-10-20T18:30:03Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Official O11y One SDKs for TypeScript, Python and Go, plus o11y-eval, the CI runner and PR-diff action that gate release",
+    "id": "o11y-one/o11y-one-sdk",
+    "language": "TypeScript",
+    "name": "o11y-one/o11y-one-sdk",
+    "stars": 0,
+    "updated_at": "2026-10-20T18:20:54Z",
+    "url": "https://github.com/o11y-one/o11y-one-sdk"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 9468,
+    "updated_at": "2026-10-20T18:19:30Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-20T18:17:43Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-20T18:17:41Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-20T18:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
+    "id": "NVIDIA-NeMo/nemo-helix",
+    "language": "Python",
+    "name": "NVIDIA-NeMo/nemo-helix",
+    "stars": 113,
+    "updated_at": "2026-10-20T18:27:26Z",
+    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
     "description": "Open Source Ai by CodesbyFebin \u2013 all open-source AI agent & LLM stacks in one repo: LLM gateways, free LLM APIs, chat UI",
@@ -68,17 +131,8 @@
     "language": "Python",
     "name": "sarkars/agent-failure-modes",
     "stars": 1,
-    "updated_at": "2026-10-20T18:11:48Z",
+    "updated_at": "2026-10-20T18:29:25Z",
     "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-20T18:00:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
@@ -88,15 +142,6 @@
     "stars": 707,
     "updated_at": "2026-10-20T18:06:59Z",
     "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 32,
-    "updated_at": "2026-10-20T17:52:41Z",
-    "url": "https://github.com/SourceShift/mini-ork"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -112,8 +157,8 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 36092,
-    "updated_at": "2026-10-20T17:50:34Z",
+    "stars": 36093,
+    "updated_at": "2026-10-20T18:26:49Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -122,7 +167,7 @@
     "language": "Python",
     "name": "decimal-labs/decimalai-python",
     "stars": 1,
-    "updated_at": "2026-10-20T18:05:00Z",
+    "updated_at": "2026-10-20T18:24:08Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
@@ -131,7 +176,7 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-20T18:08:10Z",
+    "updated_at": "2026-10-20T18:27:07Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -167,7 +212,7 @@
     "language": "Python",
     "name": "digline/digline",
     "stars": 9,
-    "updated_at": "2026-10-20T17:42:10Z",
+    "updated_at": "2026-10-20T18:29:55Z",
     "url": "https://github.com/digline/digline"
   },
   {
@@ -175,7 +220,7 @@
     "id": "respanai/respan-gateway",
     "language": "Rust",
     "name": "respanai/respan-gateway",
-    "stars": 21,
+    "stars": 22,
     "updated_at": "2026-10-20T17:37:59Z",
     "url": "https://github.com/respanai/respan-gateway"
   },
@@ -194,7 +239,7 @@
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 684,
-    "updated_at": "2026-10-20T18:11:03Z",
+    "updated_at": "2026-10-20T18:18:44Z",
     "url": "https://github.com/Abilityai/trinity"
   },
   {
@@ -212,7 +257,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 200,
-    "updated_at": "2026-10-20T18:13:28Z",
+    "updated_at": "2026-10-20T18:20:30Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -261,24 +306,6 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22781,
-    "updated_at": "2026-10-20T18:13:35Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 9468,
-    "updated_at": "2026-10-20T17:17:04Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
     "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
     "id": "hjongc/openrouter-endpoint-watch",
     "language": "Python",
@@ -304,15 +331,6 @@
     "stars": 65,
     "updated_at": "2026-10-20T17:08:00Z",
     "url": "https://github.com/Arize-ai/arize-skills"
-  },
-  {
-    "description": "Official O11y One SDKs for TypeScript, Python and Go, plus o11y-eval, the CI runner and PR-diff action that gate release",
-    "id": "o11y-one/o11y-one-sdk",
-    "language": "TypeScript",
-    "name": "o11y-one/o11y-one-sdk",
-    "stars": 0,
-    "updated_at": "2026-10-20T17:56:34Z",
-    "url": "https://github.com/o11y-one/o11y-one-sdk"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -369,21 +387,12 @@
     "url": "https://github.com/Math-ieu/rag-llmops-azure"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-20T16:38:06Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "OpenTelemetry Instrumentation for AI Observability",
     "id": "Arize-ai/openinference",
     "language": "Python",
     "name": "Arize-ai/openinference",
     "stars": 1272,
-    "updated_at": "2026-10-20T18:06:45Z",
+    "updated_at": "2026-10-20T18:27:28Z",
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 25,
     "updated_at": "2026-10-20T18:15:23Z",
     "url": "https://github.com/AixleHQ/flow"
-  },
-  {
-    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4982,
-    "updated_at": "2026-10-20T18:05:16Z",
-    "url": "https://github.com/langwatch/langwatch"
   }
 ]
