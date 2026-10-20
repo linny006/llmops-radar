@@ -1,10 +1,118 @@
 [
   {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 32,
+    "updated_at": "2026-10-20T16:59:41Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-20T16:58:49Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22779,
+    "updated_at": "2026-10-20T16:54:08Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61659,
+    "updated_at": "2026-10-20T17:00:09Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36091,
+    "updated_at": "2026-10-20T16:52:38Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28465,
+    "updated_at": "2026-10-20T16:50:25Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
+    "id": "dynamiq-ai/dynamiq",
+    "language": "Python",
+    "name": "dynamiq-ai/dynamiq",
+    "stars": 1071,
+    "updated_at": "2026-10-20T16:56:08Z",
+    "url": "https://github.com/dynamiq-ai/dynamiq"
+  },
+  {
+    "description": "Official O11y One SDKs for TypeScript, Python and Go, plus o11y-eval, the CI runner and PR-diff action that gate release",
+    "id": "o11y-one/o11y-one-sdk",
+    "language": "TypeScript",
+    "name": "o11y-one/o11y-one-sdk",
+    "stars": 0,
+    "updated_at": "2026-10-20T16:51:14Z",
+    "url": "https://github.com/o11y-one/o11y-one-sdk"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 200,
+    "updated_at": "2026-10-20T16:53:37Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-20T16:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The platform for continuously improving AI agents.",
+    "id": "overmind-core/overmind",
+    "language": "Python",
+    "name": "overmind-core/overmind",
+    "stars": 669,
+    "updated_at": "2026-10-20T16:44:33Z",
+    "url": "https://github.com/overmind-core/overmind"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11924,
+    "updated_at": "2026-10-20T16:43:37Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 9462,
+    "stars": 9464,
     "updated_at": "2026-10-20T16:42:50Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -16,33 +124,6 @@
     "stars": 3,
     "updated_at": "2026-10-20T16:42:47Z",
     "url": "https://github.com/Phantom-VK/NoRefund"
-  },
-  {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 32,
-    "updated_at": "2026-10-20T16:42:14Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22778,
-    "updated_at": "2026-10-20T16:41:35Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61659,
-    "updated_at": "2026-10-20T16:43:14Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Production LLMOps Platform on Microsoft Azure (Azure OpenAI, PostgreSQL Flexible with pgvector, Container Apps, Terrafor",
@@ -68,17 +149,8 @@
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 113,
-    "updated_at": "2026-10-20T16:43:03Z",
+    "updated_at": "2026-10-20T16:55:43Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-20T16:30:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
@@ -88,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-10-20T16:28:04Z",
     "url": "https://github.com/sauravbhattacharya001/prompt"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11924,
-    "updated_at": "2026-10-20T16:43:37Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "OpenTelemetry Instrumentation for AI Observability",
@@ -113,7 +176,7 @@
     "language": "Python",
     "name": "jakbuczarnecki/intergrax",
     "stars": 4,
-    "updated_at": "2026-10-20T16:17:50Z",
+    "updated_at": "2026-10-20T16:47:27Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
   },
   {
@@ -124,6 +187,15 @@
     "stars": 0,
     "updated_at": "2026-10-20T16:16:38Z",
     "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
+    "id": "ZIZKA-AI-SL/ZizkaDB",
+    "language": "Python",
+    "name": "ZIZKA-AI-SL/ZizkaDB",
+    "stars": 142,
+    "updated_at": "2026-10-20T16:13:29Z",
+    "url": "https://github.com/ZIZKA-AI-SL/ZizkaDB"
   },
   {
     "description": "Companion code for the book LLM Observability & Production AI Reliability: an OpenTelemetry-instrumented LLM application",
@@ -153,30 +225,12 @@
     "url": "https://github.com/cubxxw/blog"
   },
   {
-    "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
-    "id": "ZIZKA-AI-SL/ZizkaDB",
-    "language": "Python",
-    "name": "ZIZKA-AI-SL/ZizkaDB",
-    "stars": 143,
-    "updated_at": "2026-10-20T16:13:29Z",
-    "url": "https://github.com/ZIZKA-AI-SL/ZizkaDB"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36091,
-    "updated_at": "2026-10-20T16:44:29Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
     "id": "mozilla-ai/otari",
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 705,
-    "updated_at": "2026-10-20T16:05:03Z",
+    "updated_at": "2026-10-20T16:53:59Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -185,7 +239,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30652,
-    "updated_at": "2026-10-20T16:13:20Z",
+    "updated_at": "2026-10-20T16:58:37Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -198,21 +252,12 @@
     "url": "https://github.com/AixleHQ/flow"
   },
   {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-20T16:03:36Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
     "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4982,
-    "updated_at": "2026-10-20T16:40:34Z",
+    "updated_at": "2026-10-20T16:48:40Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -256,7 +301,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26193,
+    "stars": 26192,
     "updated_at": "2026-10-20T15:46:21Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -351,15 +396,6 @@
     "url": "https://github.com/shizheng-rlfresh/skim"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28464,
-    "updated_at": "2026-10-20T16:04:43Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "Control plane for company AI use cases \u2014 one self-hosted operating layer for shared budgets, policies, reliability, and ",
     "id": "dativo-io/talon",
     "language": "Go",
@@ -412,41 +448,5 @@
     "stars": 11,
     "updated_at": "2026-10-20T15:04:07Z",
     "url": "https://github.com/atulkapoor/fde-framework"
-  },
-  {
-    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
-    "id": "dynamiq-ai/dynamiq",
-    "language": "Python",
-    "name": "dynamiq-ai/dynamiq",
-    "stars": 1071,
-    "updated_at": "2026-10-20T14:48:55Z",
-    "url": "https://github.com/dynamiq-ai/dynamiq"
-  },
-  {
-    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
-    "id": "burakdede/lorepack",
-    "language": "TypeScript",
-    "name": "burakdede/lorepack",
-    "stars": 4,
-    "updated_at": "2026-10-20T15:43:02Z",
-    "url": "https://github.com/burakdede/lorepack"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-10-20T14:39:52Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "Python",
-    "name": "dataelement/bisheng",
-    "stars": 12059,
-    "updated_at": "2026-10-20T15:25:25Z",
-    "url": "https://github.com/dataelement/bisheng"
   }
 ]
