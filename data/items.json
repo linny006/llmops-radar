@@ -1,5 +1,104 @@
 [
   {
+    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
+    "id": "luetzey/who2be",
+    "language": "Python",
+    "name": "luetzey/who2be",
+    "stars": 0,
+    "updated_at": "2026-10-20T05:15:09Z",
+    "url": "https://github.com/luetzey/who2be"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-20T05:14:50Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61612,
+    "updated_at": "2026-10-20T05:15:16Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
+    "id": "Cheryl2249/llmaker",
+    "language": "Go",
+    "name": "Cheryl2249/llmaker",
+    "stars": 0,
+    "updated_at": "2026-10-20T05:09:53Z",
+    "url": "https://github.com/Cheryl2249/llmaker"
+  },
+  {
+    "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
+    "id": "rinaronto45906/ZizkaDB",
+    "language": "Python",
+    "name": "rinaronto45906/ZizkaDB",
+    "stars": 0,
+    "updated_at": "2026-10-20T05:08:02Z",
+    "url": "https://github.com/rinaronto45906/ZizkaDB"
+  },
+  {
+    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
+    "id": "judithyilmaz/llmaker",
+    "language": "Go",
+    "name": "judithyilmaz/llmaker",
+    "stars": 0,
+    "updated_at": "2026-10-20T05:06:56Z",
+    "url": "https://github.com/judithyilmaz/llmaker"
+  },
+  {
+    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
+    "id": "BrahimIshii834/llmaker",
+    "language": "Go",
+    "name": "BrahimIshii834/llmaker",
+    "stars": 0,
+    "updated_at": "2026-10-20T05:04:57Z",
+    "url": "https://github.com/BrahimIshii834/llmaker"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 4,
+    "updated_at": "2026-10-20T05:04:53Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "Audit any agent decision across its past, present, and future, on one typed graph.",
+    "id": "yzhao062/auditable",
+    "language": "Python",
+    "name": "yzhao062/auditable",
+    "stars": 28,
+    "updated_at": "2026-10-20T05:02:59Z",
+    "url": "https://github.com/yzhao062/auditable"
+  },
+  {
+    "description": "Product analytics for AI Assistants",
+    "id": "Patel5817/trubrics-python",
+    "language": "Python",
+    "name": "Patel5817/trubrics-python",
+    "stars": 0,
+    "updated_at": "2026-10-20T05:02:31Z",
+    "url": "https://github.com/Patel5817/trubrics-python"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-20T05:00:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI agent gates: 14 zero-dependency CI checks for agent failure modes \u2014 loop, permission, context, memory, drift, leak.",
     "id": "chenhz01/agent-gates",
     "language": "Python",
@@ -32,7 +131,7 @@
     "language": "Python",
     "name": "sarkars/agent-failure-modes",
     "stars": 1,
-    "updated_at": "2026-10-20T04:58:38Z",
+    "updated_at": "2026-10-20T05:00:32Z",
     "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
@@ -52,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T04:56:11Z",
     "url": "https://github.com/michellebryant153/llmix"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61612,
-    "updated_at": "2026-10-20T04:57:19Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
@@ -88,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T04:45:50Z",
     "url": "https://github.com/gaurav-gandhi-2411/adk-tracegauge"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-20T04:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
@@ -131,7 +212,7 @@
     "language": "Python",
     "name": "llmspendguard/llm-spendguard",
     "stars": 0,
-    "updated_at": "2026-10-20T04:56:35Z",
+    "updated_at": "2026-10-20T05:04:04Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
@@ -142,15 +223,6 @@
     "stars": 6910,
     "updated_at": "2026-10-20T04:19:25Z",
     "url": "https://github.com/clearml/clearml"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-20T04:18:12Z",
-    "url": "https://github.com/toxicwind/ranch"
   },
   {
     "description": ".NET 8 prompt engineering toolkit \u2014 Azure OpenAI client, template engine, prompt chaining, injection detection, bias det",
@@ -239,7 +311,7 @@
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 25,
-    "updated_at": "2026-10-20T04:45:00Z",
+    "updated_at": "2026-10-20T05:08:26Z",
     "url": "https://github.com/AixleHQ/flow"
   },
   {
@@ -257,7 +329,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4983,
-    "updated_at": "2026-10-20T04:46:54Z",
+    "updated_at": "2026-10-20T05:14:36Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 205,
     "updated_at": "2026-10-20T04:28:21Z",
     "url": "https://github.com/GetBusbar/busbar"
-  },
-  {
-    "description": "AI agent execution governance: pre-effect authorization, single-use permissions, policy enforcement, and verifiable reco",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 42,
-    "updated_at": "2026-10-20T04:09:35Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "Resource providers for pragma-os. Manage cloud infrastructure, AI agents, knowledge bases, pipelines, and workflows.",
-    "id": "pragmatiks/pragma-providers",
-    "language": "Python",
-    "name": "pragmatiks/pragma-providers",
-    "stars": 0,
-    "updated_at": "2026-10-20T02:21:57Z",
-    "url": "https://github.com/pragmatiks/pragma-providers"
-  },
-  {
-    "description": "Declarative Intent Driven Platform Orchestrator for Internal Developer Platform (IDP).",
-    "id": "KusionStack/kusion",
-    "language": "Go",
-    "name": "KusionStack/kusion",
-    "stars": 1323,
-    "updated_at": "2026-10-20T01:58:49Z",
-    "url": "https://github.com/KusionStack/kusion"
-  },
-  {
-    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
-    "id": "TAIPANBOX/tokenfuse",
-    "language": "Rust",
-    "name": "TAIPANBOX/tokenfuse",
-    "stars": 1,
-    "updated_at": "2026-10-20T01:57:51Z",
-    "url": "https://github.com/TAIPANBOX/tokenfuse"
-  },
-  {
-    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
-    "id": "alibaba/rtp-llm",
-    "language": "Python",
-    "name": "alibaba/rtp-llm",
-    "stars": 1364,
-    "updated_at": "2026-10-20T04:36:47Z",
-    "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-10-20T01:43:14Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, a",
-    "id": "bentoml/BentoML",
-    "language": "Python",
-    "name": "bentoml/BentoML",
-    "stars": 8909,
-    "updated_at": "2026-10-20T01:42:40Z",
-    "url": "https://github.com/bentoml/BentoML"
-  },
-  {
-    "description": "Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud.",
-    "id": "bentoml/OpenLLM",
-    "language": "Python",
-    "name": "bentoml/OpenLLM",
-    "stars": 12560,
-    "updated_at": "2026-10-20T01:41:36Z",
-    "url": "https://github.com/bentoml/OpenLLM"
   }
 ]
