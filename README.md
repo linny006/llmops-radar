@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-20 22:30 UTC
+> ⏰ Last updated: 2026-10-20 22:31 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,20 +42,20 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [respanai/respan-gateway](https://github.com/respanai/respan-gateway) | 39 | Rust | 2026-10-20 | One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary. |
-| 2 | [api7/aisix](https://github.com/api7/aisix) | 200 | Rust | 2026-10-20 | Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed |
-| 3 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 61671 | Python | 2026-10-20 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 4 | [api-evangelist/zenml](https://github.com/api-evangelist/zenml) | 0 | — | 2026-10-20 | ZenML — independent third-party profile of a public API surface, by API Evangelist. ZenML is an open-source MLOps and LL |
-| 5 | [api-evangelist/tensorzero](https://github.com/api-evangelist/tensorzero) | 0 | — | 2026-10-20 | TensorZero — independent third-party profile of a public API surface, by API Evangelist. TensorZero is an open-source, s |
-| 6 | [NVIDIA-NeMo/nemo-helix](https://github.com/NVIDIA-NeMo/nemo-helix) | 115 | Python | 2026-10-20 | NeMo Helix: Make the agents you ship faster, more accurate, and safer. |
-| 7 | [api-evangelist/raindrop](https://github.com/api-evangelist/raindrop) | 0 | — | 2026-10-20 | Raindrop — independent third-party profile of a public API surface, by API Evangelist. Raindrop is the monitoring and ob |
-| 8 | [cubxxw/blog](https://github.com/cubxxw/blog) | 30 | JavaScript | 2026-10-20 | 顶级审美的个人博客！！！写一些关于 AI、Agent、技术、产品、营销、一些生活思考，个人成长类的精文 |
-| 9 | [cloudrift-ai/emmy](https://github.com/cloudrift-ai/emmy) | 111 | Python | 2026-10-20 | Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel  |
-| 10 | [rknightion/genai-otel-bridge](https://github.com/rknightion/genai-otel-bridge) | 1 | Go | 2026-10-20 | Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any  |
-| 11 | [vocion/vocion-core](https://github.com/vocion/vocion-core) | 2 | TypeScript | 2026-10-20 | Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review,  |
-| 12 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 9 | Go | 2026-10-20 | Open Source software factory. |
-| 13 | [a-novel/service-genai](https://github.com/a-novel/service-genai) | 1 | Go | 2026-10-20 | Durable execution for AI provider calls: crash-safe, idempotent and pollable. |
-| 14 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-20 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-20 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [respanai/respan-gateway](https://github.com/respanai/respan-gateway) | 39 | Rust | 2026-10-20 | One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary. |
+| 3 | [api7/aisix](https://github.com/api7/aisix) | 200 | Rust | 2026-10-20 | Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed |
+| 4 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 61671 | Python | 2026-10-20 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 5 | [api-evangelist/zenml](https://github.com/api-evangelist/zenml) | 0 | — | 2026-10-20 | ZenML — independent third-party profile of a public API surface, by API Evangelist. ZenML is an open-source MLOps and LL |
+| 6 | [api-evangelist/tensorzero](https://github.com/api-evangelist/tensorzero) | 0 | — | 2026-10-20 | TensorZero — independent third-party profile of a public API surface, by API Evangelist. TensorZero is an open-source, s |
+| 7 | [NVIDIA-NeMo/nemo-helix](https://github.com/NVIDIA-NeMo/nemo-helix) | 115 | Python | 2026-10-20 | NeMo Helix: Make the agents you ship faster, more accurate, and safer. |
+| 8 | [api-evangelist/raindrop](https://github.com/api-evangelist/raindrop) | 0 | — | 2026-10-20 | Raindrop — independent third-party profile of a public API surface, by API Evangelist. Raindrop is the monitoring and ob |
+| 9 | [cubxxw/blog](https://github.com/cubxxw/blog) | 30 | JavaScript | 2026-10-20 | 顶级审美的个人博客！！！写一些关于 AI、Agent、技术、产品、营销、一些生活思考，个人成长类的精文 |
+| 10 | [cloudrift-ai/emmy](https://github.com/cloudrift-ai/emmy) | 111 | Python | 2026-10-20 | Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel  |
+| 11 | [rknightion/genai-otel-bridge](https://github.com/rknightion/genai-otel-bridge) | 1 | Go | 2026-10-20 | Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any  |
+| 12 | [vocion/vocion-core](https://github.com/vocion/vocion-core) | 2 | TypeScript | 2026-10-20 | Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review,  |
+| 13 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 9 | Go | 2026-10-20 | Open Source software factory. |
+| 14 | [a-novel/service-genai](https://github.com/a-novel/service-genai) | 1 | Go | 2026-10-20 | Durable execution for AI provider calls: crash-safe, idempotent and pollable. |
 | 15 | [LydiaTools/llm-endpoint-doctor](https://github.com/LydiaTools/llm-endpoint-doctor) | 0 | Python | 2026-10-20 | A local-first smoke test for OpenAI-compatible LLM endpoints. |
 | 16 | [api-evangelist/dify](https://github.com/api-evangelist/dify) | 0 | — | 2026-10-20 | Dify — independent third-party profile of a public API surface, by API Evangelist. Dify is an open-source platform for b |
 | 17 | [sarkars/agent-failure-modes](https://github.com/sarkars/agent-failure-modes) | 1 | Python | 2026-10-20 | Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a |
