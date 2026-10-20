@@ -1,5 +1,95 @@
 [
   {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-20T19:58:43Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 9471,
+    "updated_at": "2026-10-20T19:58:15Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11927,
+    "updated_at": "2026-10-20T19:56:28Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 32,
+    "updated_at": "2026-10-20T20:00:22Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
+    "language": "Python",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 53,
+    "updated_at": "2026-10-20T19:53:15Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
+    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
+    "id": "NVIDIA-NeMo/nemo-helix",
+    "language": "Python",
+    "name": "NVIDIA-NeMo/nemo-helix",
+    "stars": 115,
+    "updated_at": "2026-10-20T19:58:02Z",
+    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61667,
+    "updated_at": "2026-10-20T19:56:41Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary.",
+    "id": "respanai/respan-gateway",
+    "language": "Rust",
+    "name": "respanai/respan-gateway",
+    "stars": 30,
+    "updated_at": "2026-10-20T19:49:25Z",
+    "url": "https://github.com/respanai/respan-gateway"
+  },
+  {
+    "description": "A local flight recorder for AI coding agents and LLM runtimes. Passes OpenAI-compatible traffic through (e.g. OpenCode o",
+    "id": "murillojndem/agent-splice",
+    "language": "C#",
+    "name": "murillojndem/agent-splice",
+    "stars": 0,
+    "updated_at": "2026-10-20T19:47:35Z",
+    "url": "https://github.com/murillojndem/agent-splice"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-20T19:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "ThakiCloud Tech Blog",
     "id": "ThakiCloud/thakicloud.github.io",
     "language": "JavaScript",
@@ -23,7 +113,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-20T19:43:26Z",
+    "updated_at": "2026-10-20T19:55:06Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -32,17 +122,8 @@
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 684,
-    "updated_at": "2026-10-20T19:45:23Z",
+    "updated_at": "2026-10-20T19:56:14Z",
     "url": "https://github.com/Abilityai/trinity"
-  },
-  {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 32,
-    "updated_at": "2026-10-20T19:42:30Z",
-    "url": "https://github.com/SourceShift/mini-ork"
   },
   {
     "description": "A local-first smoke test for OpenAI-compatible LLM endpoints.",
@@ -52,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T19:42:03Z",
     "url": "https://github.com/LydiaTools/llm-endpoint-doctor"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 9470,
-    "updated_at": "2026-10-20T19:41:49Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "AI platform reference architecture for LLM serving on Kubernetes, with reliability, observability, failure testing, and ",
@@ -77,7 +149,7 @@
     "language": "Python",
     "name": "digline/digline",
     "stars": 9,
-    "updated_at": "2026-10-20T19:37:20Z",
+    "updated_at": "2026-10-20T19:57:17Z",
     "url": "https://github.com/digline/digline"
   },
   {
@@ -86,7 +158,7 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-20T19:36:15Z",
+    "updated_at": "2026-10-20T19:52:29Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -97,33 +169,6 @@
     "stars": 708,
     "updated_at": "2026-10-20T19:43:43Z",
     "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
-    "id": "NVIDIA-NeMo/nemo-helix",
-    "language": "Python",
-    "name": "NVIDIA-NeMo/nemo-helix",
-    "stars": 114,
-    "updated_at": "2026-10-20T19:33:54Z",
-    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61667,
-    "updated_at": "2026-10-20T19:44:10Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-20T19:30:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
@@ -139,7 +184,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 36094,
+    "stars": 36095,
     "updated_at": "2026-10-20T19:29:47Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -167,7 +212,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-20T19:38:09Z",
+    "updated_at": "2026-10-20T19:57:53Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -180,24 +225,6 @@
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11926,
-    "updated_at": "2026-10-20T19:23:40Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary.",
-    "id": "respanai/respan-gateway",
-    "language": "Rust",
-    "name": "respanai/respan-gateway",
-    "stars": 27,
-    "updated_at": "2026-10-20T19:21:51Z",
-    "url": "https://github.com/respanai/respan-gateway"
-  },
-  {
     "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
     "id": "luetzey/who2be",
     "language": "Python",
@@ -207,21 +234,12 @@
     "url": "https://github.com/luetzey/who2be"
   },
   {
-    "description": "Enterprise Scale AIFactory (esml) - on Azure",
-    "id": "jostrm/azure-enterprise-scale-ml",
-    "language": "Python",
-    "name": "jostrm/azure-enterprise-scale-ml",
-    "stars": 53,
-    "updated_at": "2026-10-20T19:12:26Z",
-    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
-  },
-  {
     "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
     "id": "burakdede/lorepack",
     "language": "TypeScript",
     "name": "burakdede/lorepack",
     "stars": 4,
-    "updated_at": "2026-10-20T19:10:44Z",
+    "updated_at": "2026-10-20T19:57:19Z",
     "url": "https://github.com/burakdede/lorepack"
   },
   {
@@ -232,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T19:08:12Z",
     "url": "https://github.com/toxicwind/ranch"
-  },
-  {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-20T19:06:14Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
     "description": "Open Source Ai by CodesbyFebin \u2013 all open-source AI agent & LLM stacks in one repo: LLM gateways, free LLM APIs, chat UI",
@@ -256,7 +265,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 28467,
+    "stars": 28468,
     "updated_at": "2026-10-20T19:00:42Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -313,15 +322,6 @@
     "stars": 1,
     "updated_at": "2026-10-20T18:39:33Z",
     "url": "https://github.com/HSA-AI/HSAAI"
-  },
-  {
-    "description": "A local flight recorder for AI coding agents and LLM runtimes. Passes OpenAI-compatible traffic through (e.g. OpenCode o",
-    "id": "murillojndem/agent-splice",
-    "language": "C#",
-    "name": "murillojndem/agent-splice",
-    "stars": 0,
-    "updated_at": "2026-10-20T18:38:12Z",
-    "url": "https://github.com/murillojndem/agent-splice"
   },
   {
     "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
