@@ -1,11 +1,47 @@
 [
   {
+    "description": "A local flight recorder for AI coding agents and LLM runtimes. Passes OpenAI-compatible traffic through (e.g. OpenCode o",
+    "id": "murillojndem/agent-splice",
+    "language": "C#",
+    "name": "murillojndem/agent-splice",
+    "stars": 0,
+    "updated_at": "2026-10-20T00:43:08Z",
+    "url": "https://github.com/murillojndem/agent-splice"
+  },
+  {
+    "description": "Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code \u2014 V3 prototype runs ",
+    "id": "MongLong0214/jev-gate",
+    "language": "TypeScript",
+    "name": "MongLong0214/jev-gate",
+    "stars": 3,
+    "updated_at": "2026-10-20T00:42:21Z",
+    "url": "https://github.com/MongLong0214/jev-gate"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-20T00:42:05Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-20T00:39:38Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61588,
-    "updated_at": "2026-10-20T00:38:54Z",
+    "updated_at": "2026-10-20T00:44:42Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -25,15 +61,6 @@
     "stars": 1,
     "updated_at": "2026-10-20T00:34:41Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-20T00:30:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source LLM observability. See every prompt, completion, token, cost, latency and error as traces and sessions. Pyth",
@@ -81,15 +108,6 @@
     "url": "https://github.com/hjongc/openrouter-endpoint-watch"
   },
   {
-    "description": "A local flight recorder for AI coding agents and LLM runtimes. Passes OpenAI-compatible traffic through (e.g. OpenCode o",
-    "id": "murillojndem/agent-splice",
-    "language": "C#",
-    "name": "murillojndem/agent-splice",
-    "stars": 0,
-    "updated_at": "2026-10-20T00:19:53Z",
-    "url": "https://github.com/murillojndem/agent-splice"
-  },
-  {
     "description": "Profile of Dr. Ravi Teja Thiriveedhi \u2014 clinician turned AI systems architect: multi-agent platforms, AI governance, LLM ",
     "id": "Raviteja2k2k/Raviteja2k2k",
     "language": "Python",
@@ -135,13 +153,13 @@
     "url": "https://github.com/valteresj2/agent-hangar"
   },
   {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-20T00:00:55Z",
-    "url": "https://github.com/toxicwind/ranch"
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26156,
+    "updated_at": "2026-10-20T00:44:29Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Multi-tenant, permissions-aware knowledge assistant. A portfolio project about the operational layer around an LLM app: ",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-19T23:05:23Z",
     "url": "https://github.com/WillIsback/litellm-vllm-observability"
-  },
-  {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 2,
-    "updated_at": "2026-10-19T23:35:51Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 1,
-    "updated_at": "2026-10-19T22:34:38Z",
-    "url": "https://github.com/a-novel/service-genai"
   }
 ]
