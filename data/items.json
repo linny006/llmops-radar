@@ -1,12 +1,57 @@
 [
   {
+    "description": "Multi-tenant, permissions-aware knowledge assistant. A portfolio project about the operational layer around an LLM app: ",
+    "id": "alexvervloet/knowledge-desk",
+    "language": "Python",
+    "name": "alexvervloet/knowledge-desk",
+    "stars": 1,
+    "updated_at": "2026-10-19T23:58:25Z",
+    "url": "https://github.com/alexvervloet/knowledge-desk"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-19T23:59:10Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61585,
+    "updated_at": "2026-10-19T23:59:47Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28452,
+    "updated_at": "2026-10-19T23:48:35Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
     "description": "Open-source LLM observability. See every prompt, completion, token, cost, latency and error as traces and sessions. Pyth",
     "id": "dheerajkarwasra/spanlight",
     "language": "Python",
     "name": "dheerajkarwasra/spanlight",
     "stars": 0,
-    "updated_at": "2026-10-19T23:44:52Z",
+    "updated_at": "2026-10-19T23:56:05Z",
     "url": "https://github.com/dheerajkarwasra/spanlight"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-19T23:45:49Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "HSAAI is an independent, sovereign, self-hosted enterprise AI platform developed by Haithim Nasher using an AI engineeri",
@@ -189,31 +234,13 @@
     "url": "https://github.com/runcycles/.github"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-19T23:30:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
     "id": "NVIDIA-NeMo/nemo-helix",
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 111,
-    "updated_at": "2026-10-19T23:38:45Z",
+    "updated_at": "2026-10-19T23:59:12Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61584,
-    "updated_at": "2026-10-19T23:44:30Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Top LLM Observability (Opensource)  Star if you like it! ",
@@ -232,6 +259,15 @@
     "stars": 16,
     "updated_at": "2026-10-19T23:25:09Z",
     "url": "https://github.com/psyb0t/aigate"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 2178,
+    "updated_at": "2026-10-19T23:55:28Z",
+    "url": "https://github.com/future-agi/future-agi"
   },
   {
     "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
@@ -286,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-10-19T22:57:31Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-19T22:58:48Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
     "description": "",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-19T23:30:20Z",
     "url": "https://github.com/abdullahimohamed101/agent-black-box"
-  },
-  {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 398,
-    "updated_at": "2026-10-19T22:05:42Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
-    "id": "TAIPANBOX/tokenfuse",
-    "language": "Rust",
-    "name": "TAIPANBOX/tokenfuse",
-    "stars": 1,
-    "updated_at": "2026-10-19T22:31:46Z",
-    "url": "https://github.com/TAIPANBOX/tokenfuse"
-  },
-  {
-    "description": "LocalPilot is a Python application that helps nontechnical users discover, install, run, monitor, update and remove loca",
-    "id": "fakhruldeen/LocalPilot",
-    "language": "Python",
-    "name": "fakhruldeen/LocalPilot",
-    "stars": 1,
-    "updated_at": "2026-10-19T21:56:32Z",
-    "url": "https://github.com/fakhruldeen/LocalPilot"
   }
 ]
