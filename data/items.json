@@ -4,9 +4,18 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 61592,
-    "updated_at": "2026-10-20T01:28:38Z",
+    "stars": 61594,
+    "updated_at": "2026-10-20T01:44:55Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Python",
+    "name": "alibaba/rtp-llm",
+    "stars": 1364,
+    "updated_at": "2026-10-20T01:44:14Z",
+    "url": "https://github.com/alibaba/rtp-llm"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -14,8 +23,116 @@
     "language": "JavaScript",
     "name": "ThakiCloud/thakicloud.github.io",
     "stars": 4,
-    "updated_at": "2026-10-20T01:27:03Z",
+    "updated_at": "2026-10-20T01:43:14Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, a",
+    "id": "bentoml/BentoML",
+    "language": "Python",
+    "name": "bentoml/BentoML",
+    "stars": 8909,
+    "updated_at": "2026-10-20T01:42:40Z",
+    "url": "https://github.com/bentoml/BentoML"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22754,
+    "updated_at": "2026-10-20T01:42:06Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud.",
+    "id": "bentoml/OpenLLM",
+    "language": "Python",
+    "name": "bentoml/OpenLLM",
+    "stars": 12560,
+    "updated_at": "2026-10-20T01:41:36Z",
+    "url": "https://github.com/bentoml/OpenLLM"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 3001,
+    "updated_at": "2026-10-20T01:39:59Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code \u2014 V3 prototype runs ",
+    "id": "MongLong0214/jev-gate",
+    "language": "TypeScript",
+    "name": "MongLong0214/jev-gate",
+    "stars": 3,
+    "updated_at": "2026-10-20T01:39:01Z",
+    "url": "https://github.com/MongLong0214/jev-gate"
+  },
+  {
+    "description": "The safety layer for the AGI era. Runtime guardrails for autonomous AI agents.",
+    "id": "vijaym2k6/SteerPlane",
+    "language": "Python",
+    "name": "vijaym2k6/SteerPlane",
+    "stars": 4,
+    "updated_at": "2026-10-20T01:36:29Z",
+    "url": "https://github.com/vijaym2k6/SteerPlane"
+  },
+  {
+    "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
+    "id": "mesedi-ai/mesedi",
+    "language": "Go",
+    "name": "mesedi-ai/mesedi",
+    "stars": 1,
+    "updated_at": "2026-10-20T01:45:01Z",
+    "url": "https://github.com/mesedi-ai/mesedi"
+  },
+  {
+    "description": "Open-source LLM observability. See every prompt, completion, token, cost, latency and error as traces and sessions. Pyth",
+    "id": "dheerajkarwasra/spanlight",
+    "language": "Python",
+    "name": "dheerajkarwasra/spanlight",
+    "stars": 0,
+    "updated_at": "2026-10-20T01:35:21Z",
+    "url": "https://github.com/dheerajkarwasra/spanlight"
+  },
+  {
+    "description": "50+ curated LLM observability tools PLUS 26 Agent Skills (several with runnable, unit-tested scripts) to build, evaluate",
+    "id": "ContextJet-ai/awesome-llm-observability",
+    "language": "Python",
+    "name": "ContextJet-ai/awesome-llm-observability",
+    "stars": 42,
+    "updated_at": "2026-10-20T01:34:59Z",
+    "url": "https://github.com/ContextJet-ai/awesome-llm-observability"
+  },
+  {
+    "description": "Production Qwen3.8-27B on one RTX 3090: lossless MTP speculative decoding (2x), KLD-validated quantization, key gateway,",
+    "id": "FlorianMartins/qwen-selfhosted-serving",
+    "language": "Python",
+    "name": "FlorianMartins/qwen-selfhosted-serving",
+    "stars": 0,
+    "updated_at": "2026-10-20T01:35:39Z",
+    "url": "https://github.com/FlorianMartins/qwen-selfhosted-serving"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-20T01:31:16Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-20T01:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
@@ -23,7 +140,7 @@
     "language": "Python",
     "name": "decimal-labs/decimalai-python",
     "stars": 1,
-    "updated_at": "2026-10-20T01:26:43Z",
+    "updated_at": "2026-10-20T01:44:40Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
@@ -43,33 +160,6 @@
     "stars": 669,
     "updated_at": "2026-10-20T01:25:27Z",
     "url": "https://github.com/overmind-core/overmind"
-  },
-  {
-    "description": "The safety layer for the AGI era. Runtime guardrails for autonomous AI agents.",
-    "id": "vijaym2k6/SteerPlane",
-    "language": "Python",
-    "name": "vijaym2k6/SteerPlane",
-    "stars": 4,
-    "updated_at": "2026-10-20T01:22:15Z",
-    "url": "https://github.com/vijaym2k6/SteerPlane"
-  },
-  {
-    "description": "Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code \u2014 V3 prototype runs ",
-    "id": "MongLong0214/jev-gate",
-    "language": "TypeScript",
-    "name": "MongLong0214/jev-gate",
-    "stars": 3,
-    "updated_at": "2026-10-20T01:19:28Z",
-    "url": "https://github.com/MongLong0214/jev-gate"
-  },
-  {
-    "description": "Drop-in observability + guardrails for autonomous AI agents. One-line SDK wrap catches 20+ named failure classes \u2014 loops",
-    "id": "mesedi-ai/mesedi",
-    "language": "Go",
-    "name": "mesedi-ai/mesedi",
-    "stars": 1,
-    "updated_at": "2026-10-20T01:17:33Z",
-    "url": "https://github.com/mesedi-ai/mesedi"
   },
   {
     "description": "Top LLM Observability (Opensource)  Star if you like it! ",
@@ -126,33 +216,6 @@
     "url": "https://github.com/Peter-A-P/model-selection-tenth-cost"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-20T01:15:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Open-source LLM observability. See every prompt, completion, token, cost, latency and error as traces and sessions. Pyth",
-    "id": "dheerajkarwasra/spanlight",
-    "language": "Python",
-    "name": "dheerajkarwasra/spanlight",
-    "stars": 0,
-    "updated_at": "2026-10-20T01:27:48Z",
-    "url": "https://github.com/dheerajkarwasra/spanlight"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22753,
-    "updated_at": "2026-10-20T01:06:34Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
     "id": "sarkars/agent-failure-modes",
     "language": "Python",
@@ -167,7 +230,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 26158,
-    "updated_at": "2026-10-20T00:44:29Z",
+    "updated_at": "2026-10-20T01:45:18Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -185,7 +248,7 @@
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 111,
-    "updated_at": "2026-10-20T01:27:07Z",
+    "updated_at": "2026-10-20T01:41:16Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -221,17 +284,8 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 42,
-    "updated_at": "2026-10-20T00:56:47Z",
+    "updated_at": "2026-10-20T01:44:52Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-20T00:09:57Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Personal agentic AI assistant: LangGraph orchestration, CrewAI specialist crews, MCP tools, Obsidian memory, human-in-th",
@@ -266,7 +320,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28452,
-    "updated_at": "2026-10-20T00:27:31Z",
+    "updated_at": "2026-10-20T01:36:07Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-19T23:33:11Z",
     "url": "https://github.com/runcycles/cycles-dashboard"
-  },
-  {
-    "description": "Open protocol for runtime budget and action authority over AI agents",
-    "id": "runcycles/cycles-protocol",
-    "language": "Python",
-    "name": "runcycles/cycles-protocol",
-    "stars": 4,
-    "updated_at": "2026-10-19T23:32:11Z",
-    "url": "https://github.com/runcycles/cycles-protocol"
-  },
-  {
-    "description": "Python SDK for Cycles \u2014 reserve, commit, release budget and risk for AI agents",
-    "id": "runcycles/cycles-client-python",
-    "language": "Python",
-    "name": "runcycles/cycles-client-python",
-    "stars": 0,
-    "updated_at": "2026-10-19T23:31:16Z",
-    "url": "https://github.com/runcycles/cycles-client-python"
-  },
-  {
-    "description": "Hard budget enforcement for Claude Code tool calls \u2014 PreToolUse gating, AI-agent cost control, Cycles usage metering, an",
-    "id": "runcycles/cycles-claude-plugin",
-    "language": "JavaScript",
-    "name": "runcycles/cycles-claude-plugin",
-    "stars": 0,
-    "updated_at": "2026-10-19T23:31:11Z",
-    "url": "https://github.com/runcycles/cycles-claude-plugin"
-  },
-  {
-    "description": "GitHub org config, CI workflows, and community health files for Cycles",
-    "id": "runcycles/.github",
-    "language": "Shell",
-    "name": "runcycles/.github",
-    "stars": 0,
-    "updated_at": "2026-10-19T23:31:09Z",
-    "url": "https://github.com/runcycles/.github"
-  },
-  {
-    "description": "A self-hosted AI platform: inference, tool use, browser automation, image generation, speech synthesis, transcription, o",
-    "id": "psyb0t/aigate",
-    "language": "Shell",
-    "name": "psyb0t/aigate",
-    "stars": 16,
-    "updated_at": "2026-10-19T23:25:09Z",
-    "url": "https://github.com/psyb0t/aigate"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 2178,
-    "updated_at": "2026-10-20T01:28:56Z",
-    "url": "https://github.com/future-agi/future-agi"
   }
 ]
