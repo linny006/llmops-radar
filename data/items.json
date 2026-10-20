@@ -1,12 +1,21 @@
 [
   {
-    "description": "A local-first smoke test for OpenAI-compatible LLM endpoints.",
-    "id": "LydiaTools/llm-endpoint-doctor",
-    "language": "Python",
-    "name": "LydiaTools/llm-endpoint-doctor",
-    "stars": 0,
-    "updated_at": "2026-10-20T22:14:46Z",
-    "url": "https://github.com/LydiaTools/llm-endpoint-doctor"
+    "description": "One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary.",
+    "id": "respanai/respan-gateway",
+    "language": "Rust",
+    "name": "respanai/respan-gateway",
+    "stars": 39,
+    "updated_at": "2026-10-20T22:29:01Z",
+    "url": "https://github.com/respanai/respan-gateway"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 200,
+    "updated_at": "2026-10-20T22:28:43Z",
+    "url": "https://github.com/api7/aisix"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -14,8 +23,116 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61671,
-    "updated_at": "2026-10-20T22:15:13Z",
+    "updated_at": "2026-10-20T22:29:22Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "ZenML \u2014 independent third-party profile of a public API surface, by API Evangelist. ZenML is an open-source MLOps and LL",
+    "id": "api-evangelist/zenml",
+    "language": "\u2014",
+    "name": "api-evangelist/zenml",
+    "stars": 0,
+    "updated_at": "2026-10-20T22:28:18Z",
+    "url": "https://github.com/api-evangelist/zenml"
+  },
+  {
+    "description": "TensorZero \u2014 independent third-party profile of a public API surface, by API Evangelist. TensorZero is an open-source, s",
+    "id": "api-evangelist/tensorzero",
+    "language": "\u2014",
+    "name": "api-evangelist/tensorzero",
+    "stars": 0,
+    "updated_at": "2026-10-20T22:25:17Z",
+    "url": "https://github.com/api-evangelist/tensorzero"
+  },
+  {
+    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
+    "id": "NVIDIA-NeMo/nemo-helix",
+    "language": "Python",
+    "name": "NVIDIA-NeMo/nemo-helix",
+    "stars": 115,
+    "updated_at": "2026-10-20T22:28:00Z",
+    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
+  },
+  {
+    "description": "Raindrop \u2014 independent third-party profile of a public API surface, by API Evangelist. Raindrop is the monitoring and ob",
+    "id": "api-evangelist/raindrop",
+    "language": "\u2014",
+    "name": "api-evangelist/raindrop",
+    "stars": 0,
+    "updated_at": "2026-10-20T22:21:32Z",
+    "url": "https://github.com/api-evangelist/raindrop"
+  },
+  {
+    "description": "\u9876\u7ea7\u5ba1\u7f8e\u7684\u4e2a\u4eba\u535a\u5ba2\uff01\uff01\uff01\u5199\u4e00\u4e9b\u5173\u4e8e AI\u3001Agent\u3001\u6280\u672f\u3001\u4ea7\u54c1\u3001\u8425\u9500\u3001\u4e00\u4e9b\u751f\u6d3b\u601d\u8003\uff0c\u4e2a\u4eba\u6210\u957f\u7c7b\u7684\u7cbe\u6587",
+    "id": "cubxxw/blog",
+    "language": "JavaScript",
+    "name": "cubxxw/blog",
+    "stars": 30,
+    "updated_at": "2026-10-20T22:23:59Z",
+    "url": "https://github.com/cubxxw/blog"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 111,
+    "updated_at": "2026-10-20T22:28:49Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
+    "id": "rknightion/genai-otel-bridge",
+    "language": "Go",
+    "name": "rknightion/genai-otel-bridge",
+    "stars": 1,
+    "updated_at": "2026-10-20T22:27:42Z",
+    "url": "https://github.com/rknightion/genai-otel-bridge"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-20T22:29:40Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Open Source software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-10-20T22:18:08Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 1,
+    "updated_at": "2026-10-20T22:22:14Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-20T22:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "A local-first smoke test for OpenAI-compatible LLM endpoints.",
+    "id": "LydiaTools/llm-endpoint-doctor",
+    "language": "Python",
+    "name": "LydiaTools/llm-endpoint-doctor",
+    "stars": 0,
+    "updated_at": "2026-10-20T22:14:46Z",
+    "url": "https://github.com/LydiaTools/llm-endpoint-doctor"
   },
   {
     "description": "Dify \u2014 independent third-party profile of a public API surface, by API Evangelist. Dify is an open-source platform for b",
@@ -43,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T22:08:30Z",
     "url": "https://github.com/toxicwind/ranch"
-  },
-  {
-    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
-    "id": "NVIDIA-NeMo/nemo-helix",
-    "language": "Python",
-    "name": "NVIDIA-NeMo/nemo-helix",
-    "stars": 115,
-    "updated_at": "2026-10-20T22:12:12Z",
-    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
     "description": "Enterprise Scale AIFactory (esml) - on Azure",
@@ -99,13 +207,22 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-20T22:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4983,
+    "updated_at": "2026-10-20T22:24:45Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26199,
+    "updated_at": "2026-10-20T22:00:03Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
@@ -131,7 +248,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-20T22:11:28Z",
+    "updated_at": "2026-10-20T22:29:09Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -151,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T21:53:54Z",
     "url": "https://github.com/dheerajkarwasra/spanlight"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-20T22:08:59Z",
-    "url": "https://github.com/vocion/vocion-core"
   },
   {
     "description": "One control plane for every AI asset \u2014 MCP servers, skills, agents, AI apps. Self-hosted ledger with lifecycle state mac",
@@ -205,15 +313,6 @@
     "stars": 5,
     "updated_at": "2026-10-20T21:51:36Z",
     "url": "https://github.com/evalshift/evalshift-cli"
-  },
-  {
-    "description": "One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary.",
-    "id": "respanai/respan-gateway",
-    "language": "Rust",
-    "name": "respanai/respan-gateway",
-    "stars": 38,
-    "updated_at": "2026-10-20T21:35:50Z",
-    "url": "https://github.com/respanai/respan-gateway"
   },
   {
     "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
@@ -284,7 +383,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 708,
-    "updated_at": "2026-10-20T22:14:02Z",
+    "updated_at": "2026-10-20T22:17:57Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -329,7 +428,7 @@
     "language": "Go",
     "name": "ainsel-project/ainsel",
     "stars": 2,
-    "updated_at": "2026-10-20T20:48:31Z",
+    "updated_at": "2026-10-20T22:18:46Z",
     "url": "https://github.com/ainsel-project/ainsel"
   },
   {
@@ -342,15 +441,6 @@
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
   },
   {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 111,
-    "updated_at": "2026-10-20T22:10:49Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
     "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
     "id": "holetz/quenching",
     "language": "Python",
@@ -358,95 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-20T20:42:43Z",
     "url": "https://github.com/holetz/quenching"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22785,
-    "updated_at": "2026-10-20T20:41:15Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 200,
-    "updated_at": "2026-10-20T22:08:37Z",
-    "url": "https://github.com/api7/aisix"
-  },
-  {
-    "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
-    "id": "hjongc/openrouter-endpoint-watch",
-    "language": "Python",
-    "name": "hjongc/openrouter-endpoint-watch",
-    "stars": 0,
-    "updated_at": "2026-10-20T20:39:23Z",
-    "url": "https://github.com/hjongc/openrouter-endpoint-watch"
-  },
-  {
-    "description": "VCR-style recorder + deterministic replay regression harness for LLM apps: record chat-completion traffic as PII-scrubbe",
-    "id": "BhagyashriT/llm-vcr",
-    "language": "Python",
-    "name": "BhagyashriT/llm-vcr",
-    "stars": 0,
-    "updated_at": "2026-10-20T20:38:47Z",
-    "url": "https://github.com/BhagyashriT/llm-vcr"
-  },
-  {
-    "description": "Qwak \u2014 independent third-party profile of a public API surface, by API Evangelist. Qwak is an end-to-end production mach",
-    "id": "api-evangelist/qwak",
-    "language": "\u2014",
-    "name": "api-evangelist/qwak",
-    "stars": 0,
-    "updated_at": "2026-10-20T20:32:51Z",
-    "url": "https://github.com/api-evangelist/qwak"
-  },
-  {
-    "description": "Self-hosted prompt library and template editor with an MCP server for ChatGPT. Save prompts as sections with {{variables",
-    "id": "chrysogonus/prompt-maker-studio",
-    "language": "Python",
-    "name": "chrysogonus/prompt-maker-studio",
-    "stars": 3,
-    "updated_at": "2026-10-20T21:34:40Z",
-    "url": "https://github.com/chrysogonus/prompt-maker-studio"
-  },
-  {
-    "description": "Production LLMOps Platform on Microsoft Azure (Azure OpenAI, PostgreSQL Flexible with pgvector, Container Apps, Terrafor",
-    "id": "Math-ieu/rag-llmops-azure",
-    "language": "Python",
-    "name": "Math-ieu/rag-llmops-azure",
-    "stars": 0,
-    "updated_at": "2026-10-20T20:24:22Z",
-    "url": "https://github.com/Math-ieu/rag-llmops-azure"
-  },
-  {
-    "description": "Dify with Let's Encrypt Using Docker Compose",
-    "id": "heyvaldemar/dify-traefik-letsencrypt-docker-compose",
-    "language": "Shell",
-    "name": "heyvaldemar/dify-traefik-letsencrypt-docker-compose",
-    "stars": 0,
-    "updated_at": "2026-10-20T20:12:58Z",
-    "url": "https://github.com/heyvaldemar/dify-traefik-letsencrypt-docker-compose"
-  },
-  {
-    "description": "Self-hosted AI Agents Platform for AI Native companies. Claude Code, Codex, Gemini, OpenCode agents. Apache 2.0.  ",
-    "id": "Abilityai/trinity",
-    "language": "Python",
-    "name": "Abilityai/trinity",
-    "stars": 685,
-    "updated_at": "2026-10-20T22:00:53Z",
-    "url": "https://github.com/Abilityai/trinity"
-  },
-  {
-    "description": "AI coding skills, hooks, and plugins that keep developers thinking instead of autopiloting",
-    "id": "alinafe82/cognitive-deadlift",
-    "language": "Python",
-    "name": "alinafe82/cognitive-deadlift",
-    "stars": 0,
-    "updated_at": "2026-10-20T20:00:53Z",
-    "url": "https://github.com/alinafe82/cognitive-deadlift"
   }
 ]
