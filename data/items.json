@@ -1,20 +1,83 @@
 [
   {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 200,
+    "updated_at": "2026-10-20T08:14:03Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "Python",
     "name": "vllm-project/vllm-ascend",
     "stars": 3005,
-    "updated_at": "2026-10-20T07:59:39Z",
+    "updated_at": "2026-10-20T08:14:04Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
+    "id": "dynamiq-ai/dynamiq",
+    "language": "Python",
+    "name": "dynamiq-ai/dynamiq",
+    "stars": 1071,
+    "updated_at": "2026-10-20T08:13:34Z",
+    "url": "https://github.com/dynamiq-ai/dynamiq"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 398,
+    "updated_at": "2026-10-20T08:13:20Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 699,
+    "updated_at": "2026-10-20T08:13:18Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61628,
+    "updated_at": "2026-10-20T08:14:47Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio",
+    "id": "naim-munshi/metriqen-llm-serving-optimization",
+    "language": "Python",
+    "name": "naim-munshi/metriqen-llm-serving-optimization",
+    "stars": 0,
+    "updated_at": "2026-10-20T08:14:38Z",
+    "url": "https://github.com/naim-munshi/metriqen-llm-serving-optimization"
+  },
+  {
+    "description": "Radicalbit AI Gateway",
+    "id": "radicalbit/radicalbit-ai-gateway",
+    "language": "Python",
+    "name": "radicalbit/radicalbit-ai-gateway",
+    "stars": 71,
+    "updated_at": "2026-10-20T08:12:26Z",
+    "url": "https://github.com/radicalbit/radicalbit-ai-gateway"
   },
   {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 36064,
-    "updated_at": "2026-10-20T07:59:18Z",
+    "stars": 36065,
+    "updated_at": "2026-10-20T08:14:14Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -23,8 +86,26 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4983,
-    "updated_at": "2026-10-20T07:59:01Z",
+    "updated_at": "2026-10-20T08:12:50Z",
     "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-20T08:09:12Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-20T08:00:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "ZenML \u2014 independent third-party profile of a public API surface, by API Evangelist. ZenML is an open-source MLOps and LL",
@@ -45,24 +126,6 @@
     "url": "https://github.com/apowerb/apowerb"
   },
   {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 200,
-    "updated_at": "2026-10-20T07:54:26Z",
-    "url": "https://github.com/api7/aisix"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61627,
-    "updated_at": "2026-10-20T07:58:07Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "OpenTelemetry Instrumentation for AI Observability",
     "id": "Arize-ai/openinference",
     "language": "Python",
@@ -70,15 +133,6 @@
     "stars": 1272,
     "updated_at": "2026-10-20T07:48:32Z",
     "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-20T07:45:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Seldon \u2014 independent third-party profile of a public API surface, by API Evangelist. Seldon is a Kubernetes-native MLOps",
@@ -103,7 +157,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 28457,
+    "stars": 28458,
     "updated_at": "2026-10-20T07:43:18Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -113,7 +167,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 96,
-    "updated_at": "2026-10-20T07:40:29Z",
+    "updated_at": "2026-10-20T08:07:00Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -122,7 +176,7 @@
     "language": "JavaScript",
     "name": "gabrielk83/AntCV",
     "stars": 1,
-    "updated_at": "2026-10-20T07:39:08Z",
+    "updated_at": "2026-10-20T08:15:15Z",
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
@@ -131,7 +185,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22759,
-    "updated_at": "2026-10-20T07:43:49Z",
+    "updated_at": "2026-10-20T08:13:04Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -176,7 +230,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 12057,
-    "updated_at": "2026-10-20T07:57:59Z",
+    "updated_at": "2026-10-20T08:09:55Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -252,15 +306,6 @@
     "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-20T07:01:06Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
     "description": "Open-source LLM/VLM load balancer and serving platform for self-hosting LLMs (and VLMs) at scale \ud83c\udfd3\ud83e\udd99 Alternative to proje",
     "id": "intentee/paddler",
     "language": "Rust",
@@ -329,7 +374,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1365,
-    "updated_at": "2026-10-20T07:55:56Z",
+    "updated_at": "2026-10-20T08:09:07Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-20T06:04:51Z",
     "url": "https://github.com/hjongc/openrouter-endpoint-watch"
-  },
-  {
-    "description": "\ud83e\uddca Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 \ud83c\udf53",
-    "id": "Helicone/helicone",
-    "language": "TypeScript",
-    "name": "Helicone/helicone",
-    "stars": 6227,
-    "updated_at": "2026-10-20T06:02:39Z",
-    "url": "https://github.com/Helicone/helicone"
-  },
-  {
-    "description": "A local-first smoke test for OpenAI-compatible LLM endpoints.",
-    "id": "LydiaTools/llm-endpoint-doctor",
-    "language": "Python",
-    "name": "LydiaTools/llm-endpoint-doctor",
-    "stars": 0,
-    "updated_at": "2026-10-20T06:00:08Z",
-    "url": "https://github.com/LydiaTools/llm-endpoint-doctor"
-  },
-  {
-    "description": "Does an OpenAI-compatible endpoint disclose model prices without an account or key? One unauthenticated GET, five verdic",
-    "id": "happy520ai/gateway-price-check",
-    "language": "JavaScript",
-    "name": "happy520ai/gateway-price-check",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:58:55Z",
-    "url": "https://github.com/happy520ai/gateway-price-check"
-  },
-  {
-    "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
-    "id": "UtkuWisniewski1658/ZizkaDB",
-    "language": "Python",
-    "name": "UtkuWisniewski1658/ZizkaDB",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:51:43Z",
-    "url": "https://github.com/UtkuWisniewski1658/ZizkaDB"
-  },
-  {
-    "description": "Cheaper and better Greptile alternative runs on your own github actions.",
-    "id": "Reyes5412/juror",
-    "language": "TypeScript",
-    "name": "Reyes5412/juror",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:47:38Z",
-    "url": "https://github.com/Reyes5412/juror"
   }
 ]
