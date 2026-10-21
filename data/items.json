@@ -1,5 +1,149 @@
 [
   {
+    "description": "Understand which functions and agents drive LLM spend. Self-hosted monitoring and an open model pricing catalog.",
+    "id": "metergraph/metergraph",
+    "language": "Python",
+    "name": "metergraph/metergraph",
+    "stars": 4,
+    "updated_at": "2026-10-21T18:30:17Z",
+    "url": "https://github.com/metergraph/metergraph"
+  },
+  {
+    "description": "Shared agent harness (tools, permissions, evals, guardrails) for redevops.io Agentic Business OS modules. AGPL-3.0.",
+    "id": "redevops-io/agent-harness",
+    "language": "Python",
+    "name": "redevops-io/agent-harness",
+    "stars": 0,
+    "updated_at": "2026-10-21T18:28:46Z",
+    "url": "https://github.com/redevops-io/agent-harness"
+  },
+  {
+    "description": "LiteLLM plugin that downgrades selected routes to cheaper models as a team's budget runs out",
+    "id": "amirimi/litellm-brownout",
+    "language": "Python",
+    "name": "amirimi/litellm-brownout",
+    "stars": 0,
+    "updated_at": "2026-10-21T18:27:40Z",
+    "url": "https://github.com/amirimi/litellm-brownout"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-10-21T18:25:23Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "Token usage tracker for multi-agent AI sessions",
+    "id": "yunaremaia/agentcost",
+    "language": "Python",
+    "name": "yunaremaia/agentcost",
+    "stars": 2,
+    "updated_at": "2026-10-21T18:25:21Z",
+    "url": "https://github.com/yunaremaia/agentcost"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-21T18:23:48Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Context Runtime \u2014 a database query planner for LLM context. Decides what a model sees before it answers; plans it, runs ",
+    "id": "redevops-io/context-runtime",
+    "language": "Python",
+    "name": "redevops-io/context-runtime",
+    "stars": 12,
+    "updated_at": "2026-10-21T18:23:08Z",
+    "url": "https://github.com/redevops-io/context-runtime"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-10-21T18:22:30Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "HSAAI is an independent, sovereign, self-hosted enterprise AI platform developed by Haithim Nasher using an AI engineeri",
+    "id": "HSA-AI/HSAAI",
+    "language": "Python",
+    "name": "HSA-AI/HSAAI",
+    "stars": 1,
+    "updated_at": "2026-10-21T18:21:54Z",
+    "url": "https://github.com/HSA-AI/HSAAI"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 9524,
+    "updated_at": "2026-10-21T18:20:44Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "The open-source agentic framework to build, orchestrate, and operate production AI agents.",
+    "id": "apowerb/apowerb",
+    "language": "Python",
+    "name": "apowerb/apowerb",
+    "stars": 149,
+    "updated_at": "2026-10-21T18:21:57Z",
+    "url": "https://github.com/apowerb/apowerb"
+  },
+  {
+    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4986,
+    "updated_at": "2026-10-21T18:30:13Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 42,
+    "updated_at": "2026-10-21T18:16:57Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Self-hosted coding assistant that routes each request to the cheapest model that can handle it",
+    "id": "optiware-ai/optimux",
+    "language": "Python",
+    "name": "optiware-ai/optimux",
+    "stars": 1,
+    "updated_at": "2026-10-21T18:16:44Z",
+    "url": "https://github.com/optiware-ai/optimux"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-21T18:15:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22805,
+    "updated_at": "2026-10-21T18:27:13Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
     "id": "toxicwind/ranch",
     "language": "Rust",
@@ -9,21 +153,12 @@
     "url": "https://github.com/toxicwind/ranch"
   },
   {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 9524,
-    "updated_at": "2026-10-21T18:11:47Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11939,
-    "updated_at": "2026-10-21T18:13:57Z",
+    "updated_at": "2026-10-21T18:16:08Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -36,15 +171,6 @@
     "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
-    "description": "Token usage tracker for multi-agent AI sessions",
-    "id": "yunaremaia/agentcost",
-    "language": "Python",
-    "name": "yunaremaia/agentcost",
-    "stars": 2,
-    "updated_at": "2026-10-21T18:05:48Z",
-    "url": "https://github.com/yunaremaia/agentcost"
-  },
-  {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
     "id": "rhesis-ai/rhesis",
     "language": "Python",
@@ -54,15 +180,6 @@
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
-    "description": "Understand which functions and agents drive LLM spend. Self-hosted monitoring and an open model pricing catalog.",
-    "id": "metergraph/metergraph",
-    "language": "Python",
-    "name": "metergraph/metergraph",
-    "stars": 4,
-    "updated_at": "2026-10-21T18:12:23Z",
-    "url": "https://github.com/metergraph/metergraph"
-  },
-  {
     "description": "A self-hosted AI platform: inference, tool use, browser automation, image generation, speech synthesis, transcription, o",
     "id": "psyb0t/aigate",
     "language": "Shell",
@@ -70,33 +187,6 @@
     "stars": 16,
     "updated_at": "2026-10-21T18:01:34Z",
     "url": "https://github.com/psyb0t/aigate"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-21T18:00:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Self-hosted coding assistant that routes each request to the cheapest model that can handle it",
-    "id": "optiware-ai/optimux",
-    "language": "Python",
-    "name": "optiware-ai/optimux",
-    "stars": 1,
-    "updated_at": "2026-10-21T17:59:48Z",
-    "url": "https://github.com/optiware-ai/optimux"
-  },
-  {
-    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4986,
-    "updated_at": "2026-10-21T18:13:40Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
@@ -113,7 +203,7 @@
     "language": "Python",
     "name": "WellCod/automata",
     "stars": 3,
-    "updated_at": "2026-10-21T18:10:18Z",
+    "updated_at": "2026-10-21T18:29:10Z",
     "url": "https://github.com/WellCod/automata"
   },
   {
@@ -153,15 +243,6 @@
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22804,
-    "updated_at": "2026-10-21T18:14:13Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Model-agnostic Agent Skill: keep multiple hypotheses alive, test them against evidence, revive alternatives, collapse to",
     "id": "Furox-Art/quantum-reasoning-skill",
     "language": "Python",
@@ -178,24 +259,6 @@
     "stars": 30667,
     "updated_at": "2026-10-21T17:45:59Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-21T18:13:50Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 42,
-    "updated_at": "2026-10-21T17:45:20Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Open Source software factory.",
@@ -266,7 +329,7 @@
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 116,
-    "updated_at": "2026-10-21T18:15:18Z",
+    "updated_at": "2026-10-21T18:30:22Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -293,7 +356,7 @@
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 26,
-    "updated_at": "2026-10-21T18:05:46Z",
+    "updated_at": "2026-10-21T18:30:04Z",
     "url": "https://github.com/AixleHQ/flow"
   },
   {
@@ -302,7 +365,7 @@
     "language": "Python",
     "name": "luetzey/who2be",
     "stars": 0,
-    "updated_at": "2026-10-21T17:54:46Z",
+    "updated_at": "2026-10-21T18:16:07Z",
     "url": "https://github.com/luetzey/who2be"
   },
   {
@@ -383,70 +446,7 @@
     "language": "Go",
     "name": "a-novel/service-genai",
     "stars": 2,
-    "updated_at": "2026-10-21T17:07:22Z",
+    "updated_at": "2026-10-21T18:29:13Z",
     "url": "https://github.com/a-novel/service-genai"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2994,
-    "updated_at": "2026-10-21T17:05:02Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
-    "id": "prasad-kavuri/prasad-portfolio",
-    "language": "TypeScript",
-    "name": "prasad-kavuri/prasad-portfolio",
-    "stars": 0,
-    "updated_at": "2026-10-21T18:00:15Z",
-    "url": "https://github.com/prasad-kavuri/prasad-portfolio"
-  },
-  {
-    "description": "The gagarin CLI \u2014 deploy and operate applications on gagarin. Ships the agent skill inside the binary.",
-    "id": "gagarin-cloud/gg",
-    "language": "Go",
-    "name": "gagarin-cloud/gg",
-    "stars": 1,
-    "updated_at": "2026-10-21T16:57:49Z",
-    "url": "https://github.com/gagarin-cloud/gg"
-  },
-  {
-    "description": "The open-source agentic framework to build, orchestrate, and operate production AI agents.",
-    "id": "apowerb/apowerb",
-    "language": "Python",
-    "name": "apowerb/apowerb",
-    "stars": 149,
-    "updated_at": "2026-10-21T16:51:57Z",
-    "url": "https://github.com/apowerb/apowerb"
-  },
-  {
-    "description": "Top Enterprise AI Toolkits (Opensource)  Star if you like it! ",
-    "id": "ishandutta2007/Awesome-Enterprise-AI-Toolkits",
-    "language": "\u2014",
-    "name": "ishandutta2007/Awesome-Enterprise-AI-Toolkits",
-    "stars": 0,
-    "updated_at": "2026-10-21T16:50:15Z",
-    "url": "https://github.com/ishandutta2007/Awesome-Enterprise-AI-Toolkits"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 716,
-    "updated_at": "2026-10-21T18:08:55Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Open-source AI on-call engineer for AWS. An alarm comes in, WARDEN reads the evidence, the AI proposes one fix from a cl",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-10-21T18:12:53Z",
-    "url": "https://github.com/veerarakesh56/warden"
   }
 ]
