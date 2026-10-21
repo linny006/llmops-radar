@@ -1,12 +1,57 @@
 [
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "Does an OpenAI-compatible endpoint disclose model prices without an account or key? One unauthenticated GET, five verdic",
+    "id": "happy520ai/gateway-price-check",
+    "language": "JavaScript",
+    "name": "happy520ai/gateway-price-check",
+    "stars": 0,
+    "updated_at": "2026-10-21T05:59:03Z",
+    "url": "https://github.com/happy520ai/gateway-price-check"
+  },
+  {
+    "description": "Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude ",
+    "id": "Fast-Editor/Lynkr",
+    "language": "JavaScript",
+    "name": "Fast-Editor/Lynkr",
+    "stars": 635,
+    "updated_at": "2026-10-21T05:58:43Z",
+    "url": "https://github.com/Fast-Editor/Lynkr"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-21T05:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-21T05:58:13Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "Open-source, self-hosted AI platform for teams. Run private AI chat, manage Ray/vLLM GPU clusters, and connect apps and ",
+    "id": "fadenstack/fadenstack",
+    "language": "Python",
+    "name": "fadenstack/fadenstack",
+    "stars": 2,
+    "updated_at": "2026-10-21T05:56:19Z",
+    "url": "https://github.com/fadenstack/fadenstack"
+  },
+  {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "Python",
+    "name": "dataelement/bisheng",
+    "stars": 12063,
+    "updated_at": "2026-10-21T05:53:07Z",
+    "url": "https://github.com/dataelement/bisheng"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26217,
+    "updated_at": "2026-10-21T05:56:15Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -14,8 +59,35 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61692,
-    "updated_at": "2026-10-21T05:45:18Z",
+    "updated_at": "2026-10-21T05:55:57Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Drop-in LLM proxy that cuts AI API costs 30-40% with semantic caching, cost-aware routing and multi-provider failover.",
+    "id": "Prathamg042004/tokensave",
+    "language": "TypeScript",
+    "name": "Prathamg042004/tokensave",
+    "stars": 1,
+    "updated_at": "2026-10-21T05:48:19Z",
+    "url": "https://github.com/Prathamg042004/tokensave"
+  },
+  {
+    "description": "ZenML \u2014 independent third-party profile of a public API surface, by API Evangelist. ZenML is an open-source MLOps and LL",
+    "id": "api-evangelist/zenml",
+    "language": "\u2014",
+    "name": "api-evangelist/zenml",
+    "stars": 0,
+    "updated_at": "2026-10-21T05:48:17Z",
+    "url": "https://github.com/api-evangelist/zenml"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-21T05:47:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
@@ -23,7 +95,7 @@
     "language": "Python",
     "name": "digline/digline",
     "stars": 9,
-    "updated_at": "2026-10-21T05:43:29Z",
+    "updated_at": "2026-10-21T05:52:31Z",
     "url": "https://github.com/digline/digline"
   },
   {
@@ -68,17 +140,8 @@
     "language": "Python",
     "name": "jakbuczarnecki/intergrax",
     "stars": 4,
-    "updated_at": "2026-10-21T05:43:36Z",
+    "updated_at": "2026-10-21T05:47:34Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26217,
-    "updated_at": "2026-10-21T05:34:16Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
@@ -108,15 +171,6 @@
     "url": "https://github.com/MongLong0214/jev-gate"
   },
   {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "Python",
-    "name": "dataelement/bisheng",
-    "stars": 12062,
-    "updated_at": "2026-10-21T05:26:59Z",
-    "url": "https://github.com/dataelement/bisheng"
-  },
-  {
     "description": "Argus: the security layer for all AI models \u2014 OpenAI-compatible AI gateway with threat detectors, policy enforcement, au",
     "id": "karmendra8386/argus",
     "language": "Python",
@@ -131,7 +185,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 112,
-    "updated_at": "2026-10-21T05:39:47Z",
+    "updated_at": "2026-10-21T05:53:57Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -216,15 +270,6 @@
     "url": "https://github.com/techgopal/ultrafast-ai-gateway"
   },
   {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-21T04:58:34Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
     "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
     "id": "hjongc/openrouter-endpoint-watch",
     "language": "Python",
@@ -247,7 +292,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 36114,
+    "stars": 36115,
     "updated_at": "2026-10-21T04:50:05Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -295,15 +340,6 @@
     "stars": 30,
     "updated_at": "2026-10-21T04:36:28Z",
     "url": "https://github.com/cubxxw/blog"
-  },
-  {
-    "description": "Open-source, self-hosted AI platform for teams. Run private AI chat, manage Ray/vLLM GPU clusters, and connect apps and ",
-    "id": "fadenstack/fadenstack",
-    "language": "Python",
-    "name": "fadenstack/fadenstack",
-    "stars": 2,
-    "updated_at": "2026-10-21T04:38:28Z",
-    "url": "https://github.com/fadenstack/fadenstack"
   },
   {
     "description": "Self-hostable AI token pools \u2014 govern your org's AI usage with per-member keys, quotas, and leak detection; or deposit s",
@@ -374,7 +410,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 201,
-    "updated_at": "2026-10-21T05:46:46Z",
+    "updated_at": "2026-10-21T05:56:31Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -396,15 +432,6 @@
     "url": "https://github.com/bdchang403/AI_Software_Foundations"
   },
   {
-    "description": "ZenML \u2014 independent third-party profile of a public API surface, by API Evangelist. ZenML is an open-source MLOps and LL",
-    "id": "api-evangelist/zenml",
-    "language": "\u2014",
-    "name": "api-evangelist/zenml",
-    "stars": 0,
-    "updated_at": "2026-10-21T03:42:49Z",
-    "url": "https://github.com/api-evangelist/zenml"
-  },
-  {
     "description": "Opik \u2014 independent third-party profile of a public API surface, by API Evangelist. Opik is an open-source LLM evaluation",
     "id": "api-evangelist/opik",
     "language": "\u2014",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-21T03:38:23Z",
     "url": "https://github.com/f8fvwgzc/agent-sidecar"
-  },
-  {
-    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
-    "id": "alibaba/rtp-llm",
-    "language": "Python",
-    "name": "alibaba/rtp-llm",
-    "stars": 1366,
-    "updated_at": "2026-10-21T05:35:45Z",
-    "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "Drop-in LLM proxy that cuts input tokens 30\u201370% (54.1% measured, quality-gated) across 27 transparent optimisations \u2014 ca",
-    "id": "cbeyondcloud/TokenLean",
-    "language": "Python",
-    "name": "cbeyondcloud/TokenLean",
-    "stars": 3,
-    "updated_at": "2026-10-21T03:31:14Z",
-    "url": "https://github.com/cbeyondcloud/TokenLean"
-  },
-  {
-    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4984,
-    "updated_at": "2026-10-21T04:12:55Z",
-    "url": "https://github.com/langwatch/langwatch"
   }
 ]
