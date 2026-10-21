@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-21 00:57 UTC
+> ⏰ Last updated: 2026-10-21 01:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,25 +42,25 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 9 | Go | 2026-10-21 | Open Source software factory. |
-| 2 | [valteresj2/agent-hangar](https://github.com/valteresj2/agent-hangar) | 3 | Python | 2026-10-21 | One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod |
-| 3 | [holetz/quenching](https://github.com/holetz/quenching) | 1 | Python | 2026-10-21 | Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape |
-| 4 | [juanjtov/adlc-pipeline](https://github.com/juanjtov/adlc-pipeline) | 0 | Shell | 2026-10-21 | Portable agentic SDLC pipeline as a Claude Code plugin: 4 role agents, 2 human gates, unit-tested guardrails, self-impro |
-| 5 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 61673 | Python | 2026-10-21 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 6 | [orq-ai/orq-arena](https://github.com/orq-ai/orq-arena) | 23 | Python | 2026-10-21 | Benchmark LLMs head-to-head on your own prompts.  |
-| 7 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-21 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 8 | [cristianodabc/aludel](https://github.com/cristianodabc/aludel) | 41 | Elixir | 2026-10-21 | Phoenix-native LLM evaluation, prompt testing, model comparison, red teaming, and observability for Elixir |
-| 9 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26203 | TypeScript | 2026-10-21 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 10 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11927 | Python | 2026-10-21 | AI Observability & Evaluation |
-| 11 | [NVIDIA-NeMo/nemo-helix](https://github.com/NVIDIA-NeMo/nemo-helix) | 115 | Python | 2026-10-21 | NeMo Helix: Make the agents you ship faster, more accurate, and safer. |
-| 12 | [comet-ml/opik](https://github.com/comet-ml/opik) | 22787 | Python | 2026-10-21 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
-| 13 | [toxicwind/ranch](https://github.com/toxicwind/ranch) | 0 | Rust | 2026-10-21 | The self-hosted LLM estate in one monorepo — local model serving, cloud provider routing, MCP gateway, build jobs. All O |
-| 14 | [DiamondEdge1/llm-eval-ci](https://github.com/DiamondEdge1/llm-eval-ci) | 0 | Python | 2026-10-21 | Eval harness for LLM applications: graded YAML suites, cost and latency tracking, and CI regression gating. |
-| 15 | [01men/ybkkasi](https://github.com/01men/ybkkasi) | 0 | JavaScript | 2026-10-21 | One control plane for every AI asset — MCP servers, skills, agents, AI apps. Self-hosted ledger with lifecycle state mac |
-| 16 | [DuqueOM/ml-platform](https://github.com/DuqueOM/ml-platform) | 2 | Python | 2026-10-21 | Multi-project ML platform monorepo: shared substrate across tabular, deep learning, LLM and agent projects. Multi-cloud  |
-| 17 | [Analytical-Tradecraft-Technologies/llm-temporal-worker](https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker) | 1 | Go | 2026-10-21 | Temporal workers and clients for wrapping access to different LLMs |
-| 18 | [luetzey/who2be](https://github.com/luetzey/who2be) | 0 | Python | 2026-10-21 | Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se |
-| 19 | [sarkars/agent-failure-modes](https://github.com/sarkars/agent-failure-modes) | 1 | Python | 2026-10-21 | Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a |
+| 1 | [juanjtov/adlc-pipeline](https://github.com/juanjtov/adlc-pipeline) | 0 | Shell | 2026-10-21 | Portable agentic SDLC pipeline as a Claude Code plugin: 4 role agents, 2 human gates, unit-tested guardrails, self-impro |
+| 2 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 61673 | Python | 2026-10-21 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 3 | [sarkars/agent-failure-modes](https://github.com/sarkars/agent-failure-modes) | 1 | Python | 2026-10-21 | Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a |
+| 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-21 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 5 | [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk) | 9 | Go | 2026-10-21 | Open Source software factory. |
+| 6 | [valteresj2/agent-hangar](https://github.com/valteresj2/agent-hangar) | 3 | Python | 2026-10-21 | One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod |
+| 7 | [holetz/quenching](https://github.com/holetz/quenching) | 1 | Python | 2026-10-21 | Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape |
+| 8 | [orq-ai/orq-arena](https://github.com/orq-ai/orq-arena) | 23 | Python | 2026-10-21 | Benchmark LLMs head-to-head on your own prompts.  |
+| 9 | [cristianodabc/aludel](https://github.com/cristianodabc/aludel) | 41 | Elixir | 2026-10-21 | Phoenix-native LLM evaluation, prompt testing, model comparison, red teaming, and observability for Elixir |
+| 10 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26203 | TypeScript | 2026-10-21 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 11 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11927 | Python | 2026-10-21 | AI Observability & Evaluation |
+| 12 | [NVIDIA-NeMo/nemo-helix](https://github.com/NVIDIA-NeMo/nemo-helix) | 115 | Python | 2026-10-21 | NeMo Helix: Make the agents you ship faster, more accurate, and safer. |
+| 13 | [comet-ml/opik](https://github.com/comet-ml/opik) | 22787 | Python | 2026-10-21 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
+| 14 | [toxicwind/ranch](https://github.com/toxicwind/ranch) | 0 | Rust | 2026-10-21 | The self-hosted LLM estate in one monorepo — local model serving, cloud provider routing, MCP gateway, build jobs. All O |
+| 15 | [DiamondEdge1/llm-eval-ci](https://github.com/DiamondEdge1/llm-eval-ci) | 0 | Python | 2026-10-21 | Eval harness for LLM applications: graded YAML suites, cost and latency tracking, and CI regression gating. |
+| 16 | [01men/ybkkasi](https://github.com/01men/ybkkasi) | 0 | JavaScript | 2026-10-21 | One control plane for every AI asset — MCP servers, skills, agents, AI apps. Self-hosted ledger with lifecycle state mac |
+| 17 | [DuqueOM/ml-platform](https://github.com/DuqueOM/ml-platform) | 2 | Python | 2026-10-21 | Multi-project ML platform monorepo: shared substrate across tabular, deep learning, LLM and agent projects. Multi-cloud  |
+| 18 | [Analytical-Tradecraft-Technologies/llm-temporal-worker](https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker) | 1 | Go | 2026-10-21 | Temporal workers and clients for wrapping access to different LLMs |
+| 19 | [luetzey/who2be](https://github.com/luetzey/who2be) | 0 | Python | 2026-10-21 | Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se |
 | 20 | [hjongc/openrouter-endpoint-watch](https://github.com/hjongc/openrouter-endpoint-watch) | 0 | Python | 2026-10-20 | Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p |
 | 21 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 4983 | TypeScript | 2026-10-21 | Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist |
 | 22 | [CodesbyFebin/Open-Source-Ai-Full-Stack](https://github.com/CodesbyFebin/Open-Source-Ai-Full-Stack) | 1 | Python | 2026-10-20 | 🛠Open Source Ai Ecosystem by CodesbyFebin – all open-source AI agent & LLM stacks in one repo: LLM gateways, free LLM AP |
