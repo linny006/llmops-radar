@@ -1,5 +1,77 @@
 [
   {
+    "description": "Portable agentic SDLC pipeline as a Claude Code plugin: 4 role agents, 2 human gates, unit-tested guardrails, self-impro",
+    "id": "juanjtov/adlc-pipeline",
+    "language": "Shell",
+    "name": "juanjtov/adlc-pipeline",
+    "stars": 0,
+    "updated_at": "2026-10-21T00:28:57Z",
+    "url": "https://github.com/juanjtov/adlc-pipeline"
+  },
+  {
+    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
+    "id": "NVIDIA-NeMo/nemo-helix",
+    "language": "Python",
+    "name": "NVIDIA-NeMo/nemo-helix",
+    "stars": 115,
+    "updated_at": "2026-10-21T00:23:30Z",
+    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-21T00:21:43Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Eval harness for LLM applications: graded YAML suites, cost and latency tracking, and CI regression gating.",
+    "id": "DiamondEdge1/llm-eval-ci",
+    "language": "Python",
+    "name": "DiamondEdge1/llm-eval-ci",
+    "stars": 0,
+    "updated_at": "2026-10-21T00:18:32Z",
+    "url": "https://github.com/DiamondEdge1/llm-eval-ci"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26202,
+    "updated_at": "2026-10-21T00:18:26Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61673,
+    "updated_at": "2026-10-21T00:29:51Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "One control plane for every AI asset \u2014 MCP servers, skills, agents, AI apps. Self-hosted ledger with lifecycle state mac",
+    "id": "01men/ybkkasi",
+    "language": "JavaScript",
+    "name": "01men/ybkkasi",
+    "stars": 0,
+    "updated_at": "2026-10-21T00:17:24Z",
+    "url": "https://github.com/01men/ybkkasi"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-21T00:15:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Phoenix-native LLM evaluation, prompt testing, model comparison, red teaming, and observability for Elixir",
     "id": "cristianodabc/aludel",
     "language": "Elixir",
@@ -14,26 +86,8 @@
     "language": "Python",
     "name": "orq-ai/orq-arena",
     "stars": 23,
-    "updated_at": "2026-10-21T00:14:57Z",
+    "updated_at": "2026-10-21T00:30:21Z",
     "url": "https://github.com/orq-ai/orq-arena"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61672,
-    "updated_at": "2026-10-21T00:14:59Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
-    "id": "NVIDIA-NeMo/nemo-helix",
-    "language": "Python",
-    "name": "NVIDIA-NeMo/nemo-helix",
-    "stars": 115,
-    "updated_at": "2026-10-21T00:10:32Z",
-    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -41,7 +95,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22786,
-    "updated_at": "2026-10-21T00:14:17Z",
+    "updated_at": "2026-10-21T00:22:59Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -50,17 +104,8 @@
     "language": "Python",
     "name": "DuqueOM/ml-platform",
     "stars": 2,
-    "updated_at": "2026-10-21T00:13:29Z",
+    "updated_at": "2026-10-21T00:16:45Z",
     "url": "https://github.com/DuqueOM/ml-platform"
-  },
-  {
-    "description": "One control plane for every AI asset \u2014 MCP servers, skills, agents, AI apps. Self-hosted ledger with lifecycle state mac",
-    "id": "01men/ybkkasi",
-    "language": "TypeScript",
-    "name": "01men/ybkkasi",
-    "stars": 0,
-    "updated_at": "2026-10-21T00:02:35Z",
-    "url": "https://github.com/01men/ybkkasi"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -86,17 +131,8 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-10-21T00:14:01Z",
+    "updated_at": "2026-10-21T00:29:22Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-21T00:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
@@ -122,7 +158,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4983,
-    "updated_at": "2026-10-21T00:14:57Z",
+    "updated_at": "2026-10-21T00:18:16Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -142,15 +178,6 @@
     "stars": 2,
     "updated_at": "2026-10-21T00:04:57Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "Portable agentic SDLC pipeline as a Claude Code plugin: 4 role agents, 2 human gates, unit-tested guardrails, self-impro",
-    "id": "juanjtov/adlc-pipeline",
-    "language": "Shell",
-    "name": "juanjtov/adlc-pipeline",
-    "stars": 0,
-    "updated_at": "2026-10-21T00:03:44Z",
-    "url": "https://github.com/juanjtov/adlc-pipeline"
   },
   {
     "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
@@ -230,7 +257,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 96,
-    "updated_at": "2026-10-20T23:15:47Z",
+    "updated_at": "2026-10-21T00:28:19Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -259,15 +286,6 @@
     "stars": 8927,
     "updated_at": "2026-10-20T23:47:37Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-20T23:07:48Z",
-    "url": "https://github.com/toxicwind/ranch"
   },
   {
     "description": "AI reliability engineering for production AI agents and LLM applications. Open-source tools and research that find silen",
@@ -319,7 +337,7 @@
     "id": "respanai/respan-gateway",
     "language": "Rust",
     "name": "respanai/respan-gateway",
-    "stars": 49,
+    "stars": 52,
     "updated_at": "2026-10-20T22:29:01Z",
     "url": "https://github.com/respanai/respan-gateway"
   },
@@ -430,23 +448,5 @@
     "stars": 53,
     "updated_at": "2026-10-20T22:06:51Z",
     "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-10-20T22:06:11Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11927,
-    "updated_at": "2026-10-20T22:05:48Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   }
 ]
