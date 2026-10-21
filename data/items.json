@@ -1,12 +1,120 @@
 [
   {
+    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4986,
+    "updated_at": "2026-10-21T21:15:00Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 42,
+    "updated_at": "2026-10-21T21:14:22Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11939,
-    "updated_at": "2026-10-21T21:00:21Z",
+    "updated_at": "2026-10-21T21:14:18Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36145,
+    "updated_at": "2026-10-21T21:12:49Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 398,
+    "updated_at": "2026-10-21T21:12:34Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-21T21:11:45Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
+    "id": "NVIDIA-NeMo/nemo-helix",
+    "language": "Python",
+    "name": "NVIDIA-NeMo/nemo-helix",
+    "stars": 117,
+    "updated_at": "2026-10-21T21:10:39Z",
+    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-21T21:08:17Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Master project orchestrator featuring Dual Engine (Gentle-AI Integrated ODD vs Standalone), Article ARQ-01 Vertical Slic",
+    "id": "QuantumEdu/q-agent",
+    "language": "Python",
+    "name": "QuantumEdu/q-agent",
+    "stars": 0,
+    "updated_at": "2026-10-21T21:08:02Z",
+    "url": "https://github.com/QuantumEdu/q-agent"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f Pseudonymization guardrail for the LiteLLM proxy. Masks real people & company names before the LLM and restores them ",
+    "id": "PalenaAI/palena-litellm-pseudonymizer",
+    "language": "Go",
+    "name": "PalenaAI/palena-litellm-pseudonymizer",
+    "stars": 1,
+    "updated_at": "2026-10-21T21:07:37Z",
+    "url": "https://github.com/PalenaAI/palena-litellm-pseudonymizer"
+  },
+  {
+    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 2,
+    "updated_at": "2026-10-21T21:06:33Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "Top Prompt Repositories (Opensource)  Star if you like it! ",
+    "id": "ishandutta2007/Awesome-Prompt-Repositories",
+    "language": "\u2014",
+    "name": "ishandutta2007/Awesome-Prompt-Repositories",
+    "stars": 0,
+    "updated_at": "2026-10-21T21:00:30Z",
+    "url": "https://github.com/ishandutta2007/Awesome-Prompt-Repositories"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-21T21:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Local-first checks for OpenAI-compatible chat, tool calling, streaming, JSON, vision input, and image generation.",
@@ -23,7 +131,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 26245,
-    "updated_at": "2026-10-21T20:57:29Z",
+    "updated_at": "2026-10-21T21:14:52Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -72,42 +180,6 @@
     "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
-    "description": "\ud83d\udee1\ufe0f Pseudonymization guardrail for the LiteLLM proxy. Masks real people & company names before the LLM and restores them ",
-    "id": "PalenaAI/palena-litellm-pseudonymizer",
-    "language": "Go",
-    "name": "PalenaAI/palena-litellm-pseudonymizer",
-    "stars": 1,
-    "updated_at": "2026-10-21T20:49:56Z",
-    "url": "https://github.com/PalenaAI/palena-litellm-pseudonymizer"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36145,
-    "updated_at": "2026-10-21T21:00:16Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 2,
-    "updated_at": "2026-10-21T20:58:09Z",
-    "url": "https://github.com/a-novel/service-genai"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-21T20:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
@@ -124,15 +196,6 @@
     "stars": 3,
     "updated_at": "2026-10-21T20:42:37Z",
     "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 42,
-    "updated_at": "2026-10-21T20:38:42Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Open Source software factory.",
@@ -158,7 +221,7 @@
     "language": "Python",
     "name": "redevops-io/agentic-os",
     "stars": 2,
-    "updated_at": "2026-10-21T20:37:13Z",
+    "updated_at": "2026-10-21T21:01:08Z",
     "url": "https://github.com/redevops-io/agentic-os"
   },
   {
@@ -189,15 +252,6 @@
     "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
-    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
-    "id": "NVIDIA-NeMo/nemo-helix",
-    "language": "Python",
-    "name": "NVIDIA-NeMo/nemo-helix",
-    "stars": 117,
-    "updated_at": "2026-10-21T20:59:23Z",
-    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
-  },
-  {
     "description": "Self-hosted coding assistant that routes each request to the cheapest model that can handle it",
     "id": "optiware-ai/optimux",
     "language": "Python",
@@ -212,7 +266,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 2,
-    "updated_at": "2026-10-21T20:21:52Z",
+    "updated_at": "2026-10-21T21:04:53Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -261,15 +315,6 @@
     "url": "https://github.com/hjongc/openrouter-endpoint-watch"
   },
   {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-21T20:09:10Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
@@ -304,15 +349,6 @@
     "stars": 4,
     "updated_at": "2026-10-21T19:56:43Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4986,
-    "updated_at": "2026-10-21T20:46:43Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "CLI output filter for AI agents \u2014 strip noise, keep signal, save tokens.",
@@ -405,48 +441,12 @@
     "url": "https://github.com/burakdede/lorepack"
   },
   {
-    "description": "The execution control plane for AI agents. Govern every model request, MCP tool call, A2A delegation, and downstream act",
-    "id": "GetBusbar/busbar",
-    "language": "Rust",
-    "name": "GetBusbar/busbar",
-    "stars": 211,
-    "updated_at": "2026-10-21T19:22:37Z",
-    "url": "https://github.com/GetBusbar/busbar"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-21T19:14:15Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Lightweight reverse proxy that logs per-request inference metrics (tokens, tokens/sec, time to first token, duration) fo",
-    "id": "juusolatva/metrics_proxy",
-    "language": "Go",
-    "name": "juusolatva/metrics_proxy",
-    "stars": 0,
-    "updated_at": "2026-10-21T19:04:20Z",
-    "url": "https://github.com/juusolatva/metrics_proxy"
-  },
-  {
-    "description": "Earshot \u2014 the open-source Voice Observability SDK for evidence-first telemetry, latency analysis, and portable incident ",
-    "id": "Kkartik14/Earshot",
+    "description": "Self-healing AI gateway & multi-agent DAG orchestration engine. Decomposes prompts into parallel workstreams, multiplexe",
+    "id": "ajayraj30002/wrap",
     "language": "Python",
-    "name": "Kkartik14/Earshot",
-    "stars": 2,
-    "updated_at": "2026-10-21T20:48:09Z",
-    "url": "https://github.com/Kkartik14/Earshot"
-  },
-  {
-    "description": "Master project orchestrator featuring Dual Engine (Gentle-AI Integrated ODD vs Standalone), Article ARQ-01 Vertical Slic",
-    "id": "QuantumEdu/q-agent",
-    "language": "Python",
-    "name": "QuantumEdu/q-agent",
+    "name": "ajayraj30002/wrap",
     "stars": 0,
-    "updated_at": "2026-10-21T19:01:04Z",
-    "url": "https://github.com/QuantumEdu/q-agent"
+    "updated_at": "2026-10-21T19:23:10Z",
+    "url": "https://github.com/ajayraj30002/wrap"
   }
 ]
