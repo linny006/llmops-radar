@@ -1,11 +1,110 @@
 [
   {
+    "description": "A streaming action runtime for AI agents, model serving, and multimodal APIs",
+    "id": "hpnkv/a11",
+    "language": "C++",
+    "name": "hpnkv/a11",
+    "stars": 11,
+    "updated_at": "2026-10-21T20:14:47Z",
+    "url": "https://github.com/hpnkv/a11"
+  },
+  {
+    "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
+    "id": "hjongc/openrouter-endpoint-watch",
+    "language": "Python",
+    "name": "hjongc/openrouter-endpoint-watch",
+    "stars": 0,
+    "updated_at": "2026-10-21T20:12:37Z",
+    "url": "https://github.com/hjongc/openrouter-endpoint-watch"
+  },
+  {
+    "description": "KYNEX - a local, tool-using AI agent that extracts structured data from documents. 92.65 unified value F1 measured on Ex",
+    "id": "Nikit117/kynex-harness",
+    "language": "Python",
+    "name": "Nikit117/kynex-harness",
+    "stars": 1,
+    "updated_at": "2026-10-21T20:12:32Z",
+    "url": "https://github.com/Nikit117/kynex-harness"
+  },
+  {
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
+    "language": "Python",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 53,
+    "updated_at": "2026-10-21T20:11:27Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
+    "description": "Self-hosted coding assistant that routes each request to the cheapest model that can handle it",
+    "id": "optiware-ai/optimux",
+    "language": "Python",
+    "name": "optiware-ai/optimux",
+    "stars": 1,
+    "updated_at": "2026-10-21T20:09:21Z",
+    "url": "https://github.com/optiware-ai/optimux"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-21T20:09:10Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-10-21T20:03:49Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Understand which functions and agents drive LLM spend. Self-hosted monitoring and an open model pricing catalog.",
+    "id": "metergraph/metergraph",
+    "language": "Python",
+    "name": "metergraph/metergraph",
+    "stars": 4,
+    "updated_at": "2026-10-21T20:01:46Z",
+    "url": "https://github.com/metergraph/metergraph"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 9527,
+    "updated_at": "2026-10-21T20:00:43Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61745,
+    "updated_at": "2026-10-21T20:08:30Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-21T20:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Plataforma para operar agentes de IA em produ\u00e7\u00e3o: agentes, times multi-agente e workflows versionados com rollback, RAG ",
     "id": "WellCod/automata",
     "language": "Python",
     "name": "WellCod/automata",
     "stars": 3,
-    "updated_at": "2026-10-21T19:57:58Z",
+    "updated_at": "2026-10-21T20:10:20Z",
     "url": "https://github.com/WellCod/automata"
   },
   {
@@ -23,17 +122,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4986,
-    "updated_at": "2026-10-21T20:00:05Z",
+    "updated_at": "2026-10-21T20:04:15Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-21T19:55:45Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "CLI output filter for AI agents \u2014 strip noise, keep signal, save tokens.",
@@ -50,7 +140,7 @@
     "language": "Go",
     "name": "a-novel/service-genai",
     "stars": 2,
-    "updated_at": "2026-10-21T19:53:14Z",
+    "updated_at": "2026-10-21T20:14:23Z",
     "url": "https://github.com/a-novel/service-genai"
   },
   {
@@ -59,8 +149,17 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11939,
-    "updated_at": "2026-10-21T19:53:52Z",
+    "updated_at": "2026-10-21T20:06:02Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22808,
+    "updated_at": "2026-10-21T19:52:11Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
@@ -68,17 +167,8 @@
     "language": "Python",
     "name": "sarkars/agent-failure-modes",
     "stars": 1,
-    "updated_at": "2026-10-21T19:51:17Z",
+    "updated_at": "2026-10-21T20:08:47Z",
     "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
-    "description": "A streaming action runtime for AI agents, model serving, and multimodal APIs",
-    "id": "hpnkv/a11",
-    "language": "C++",
-    "name": "hpnkv/a11",
-    "stars": 11,
-    "updated_at": "2026-10-21T19:50:06Z",
-    "url": "https://github.com/hpnkv/a11"
   },
   {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
@@ -90,15 +180,6 @@
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
-    "description": "KYNEX - a local, tool-using AI agent that extracts structured data from documents. 92.65 unified value F1 measured on Ex",
-    "id": "Nikit117/kynex-harness",
-    "language": "Python",
-    "name": "Nikit117/kynex-harness",
-    "stars": 1,
-    "updated_at": "2026-10-21T19:49:27Z",
-    "url": "https://github.com/Nikit117/kynex-harness"
-  },
-  {
     "description": "Autonomous two-tier stock-monitoring daemon \u2014 zero-cost hourly technical scanner + scheduled multi-agent LLM analysis, w",
     "id": "quentincong/watchy",
     "language": "Python",
@@ -106,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-10-21T19:49:21Z",
     "url": "https://github.com/quentincong/watchy"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61744,
-    "updated_at": "2026-10-21T19:49:04Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Open-source AI on-call engineer for AWS. An alarm comes in, WARDEN reads the evidence, the AI proposes one fix from a cl",
@@ -131,7 +203,7 @@
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 117,
-    "updated_at": "2026-10-21T20:00:06Z",
+    "updated_at": "2026-10-21T20:09:25Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -162,15 +234,6 @@
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-10-21T19:38:33Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
     "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
     "id": "AixleHQ/flow",
     "language": "Ruby",
@@ -178,24 +241,6 @@
     "stars": 27,
     "updated_at": "2026-10-21T19:33:36Z",
     "url": "https://github.com/AixleHQ/flow"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 9527,
-    "updated_at": "2026-10-21T20:00:21Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Enterprise Scale AIFactory (esml) - on Azure",
-    "id": "jostrm/azure-enterprise-scale-ml",
-    "language": "Python",
-    "name": "jostrm/azure-enterprise-scale-ml",
-    "stars": 53,
-    "updated_at": "2026-10-21T19:27:51Z",
-    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
   },
   {
     "description": "\ud83c\udf89 An awesome & curated list of best LLMOps tools.",
@@ -212,7 +257,7 @@
     "language": "TypeScript",
     "name": "burakdede/lorepack",
     "stars": 4,
-    "updated_at": "2026-10-21T19:26:22Z",
+    "updated_at": "2026-10-21T20:11:18Z",
     "url": "https://github.com/burakdede/lorepack"
   },
   {
@@ -252,24 +297,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-21T19:07:44Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22807,
-    "updated_at": "2026-10-21T19:52:11Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Lightweight reverse proxy that logs per-request inference metrics (tokens, tokens/sec, time to first token, duration) fo",
     "id": "juusolatva/metrics_proxy",
     "language": "Go",
@@ -284,7 +311,7 @@
     "language": "Python",
     "name": "Furox-Art/quantum-reasoning-skill",
     "stars": 3,
-    "updated_at": "2026-10-21T19:03:23Z",
+    "updated_at": "2026-10-21T20:07:31Z",
     "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
   },
   {
@@ -349,15 +376,6 @@
     "stars": 1,
     "updated_at": "2026-10-21T18:41:23Z",
     "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "Understand which functions and agents drive LLM spend. Self-hosted monitoring and an open model pricing catalog.",
-    "id": "metergraph/metergraph",
-    "language": "Python",
-    "name": "metergraph/metergraph",
-    "stars": 4,
-    "updated_at": "2026-10-21T18:44:29Z",
-    "url": "https://github.com/metergraph/metergraph"
   },
   {
     "description": "Shared agent harness (tools, permissions, evals, guardrails) for redevops.io Agentic Business OS modules. AGPL-3.0.",
@@ -430,23 +448,5 @@
     "stars": 149,
     "updated_at": "2026-10-21T18:21:57Z",
     "url": "https://github.com/apowerb/apowerb"
-  },
-  {
-    "description": "Self-hosted coding assistant that routes each request to the cheapest model that can handle it",
-    "id": "optiware-ai/optimux",
-    "language": "Python",
-    "name": "optiware-ai/optimux",
-    "stars": 1,
-    "updated_at": "2026-10-21T18:16:44Z",
-    "url": "https://github.com/optiware-ai/optimux"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 719,
-    "updated_at": "2026-10-21T18:08:55Z",
-    "url": "https://github.com/mozilla-ai/otari"
   }
 ]
