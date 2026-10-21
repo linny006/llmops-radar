@@ -1,5 +1,113 @@
 [
   {
+    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-10-21T08:00:10Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36121,
+    "updated_at": "2026-10-21T07:57:42Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Image-to-product search with GPT-4o and Azure AI Search, plus guardrails, MLflow tracing and evals",
+    "id": "kovacova/visual-search-rag-genaiops",
+    "language": "Python",
+    "name": "kovacova/visual-search-rag-genaiops",
+    "stars": 0,
+    "updated_at": "2026-10-21T07:56:03Z",
+    "url": "https://github.com/kovacova/visual-search-rag-genaiops"
+  },
+  {
+    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
+    "id": "korczis/prismatic-majordomus",
+    "language": "Rust",
+    "name": "korczis/prismatic-majordomus",
+    "stars": 0,
+    "updated_at": "2026-10-21T07:54:19Z",
+    "url": "https://github.com/korczis/prismatic-majordomus"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 9492,
+    "updated_at": "2026-10-21T07:52:47Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Case study + playbook: an AI agent fleet cut heartbeat tokens 12.0M to 1.0M a day (-91%). 18 methods across 5 groups, wi",
+    "id": "sterilefield/llm-token-economics",
+    "language": "Python",
+    "name": "sterilefield/llm-token-economics",
+    "stars": 0,
+    "updated_at": "2026-10-21T07:49:56Z",
+    "url": "https://github.com/sterilefield/llm-token-economics"
+  },
+  {
+    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
+    "id": "cuihuan/awesome-ai-gateway",
+    "language": "HTML",
+    "name": "cuihuan/awesome-ai-gateway",
+    "stars": 131,
+    "updated_at": "2026-10-21T07:48:56Z",
+    "url": "https://github.com/cuihuan/awesome-ai-gateway"
+  },
+  {
+    "description": "The platform for continuously improving AI agents.",
+    "id": "overmind-core/overmind",
+    "language": "Python",
+    "name": "overmind-core/overmind",
+    "stars": 670,
+    "updated_at": "2026-10-21T07:51:30Z",
+    "url": "https://github.com/overmind-core/overmind"
+  },
+  {
+    "description": "Open-source, self-hosted AI platform for teams. Run private AI chat, manage Ray/vLLM GPU clusters, and connect apps and ",
+    "id": "fadenstack/fadenstack",
+    "language": "Python",
+    "name": "fadenstack/fadenstack",
+    "stars": 2,
+    "updated_at": "2026-10-21T07:48:30Z",
+    "url": "https://github.com/fadenstack/fadenstack"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26223,
+    "updated_at": "2026-10-21T07:48:03Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "System 0 for your LLM: learns the fixed-choice answers your LLM gives (intents, routing, moderation) and serves the repe",
+    "id": "2796gaurav/shad0w",
+    "language": "Python",
+    "name": "2796gaurav/shad0w",
+    "stars": 0,
+    "updated_at": "2026-10-21T07:55:56Z",
+    "url": "https://github.com/2796gaurav/shad0w"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-21T07:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "Python",
@@ -14,17 +122,8 @@
     "language": "Python",
     "name": "dshakes/distil",
     "stars": 20,
-    "updated_at": "2026-10-21T07:44:49Z",
+    "updated_at": "2026-10-21T07:59:07Z",
     "url": "https://github.com/dshakes/distil"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36120,
-    "updated_at": "2026-10-21T07:44:26Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -59,7 +158,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 201,
-    "updated_at": "2026-10-21T07:40:54Z",
+    "updated_at": "2026-10-21T07:57:25Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -72,11 +171,20 @@
     "url": "https://github.com/digline/digline"
   },
   {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "Python",
+    "name": "dataelement/bisheng",
+    "stars": 12067,
+    "updated_at": "2026-10-21T07:40:13Z",
+    "url": "https://github.com/dataelement/bisheng"
+  },
+  {
     "description": "One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary.",
     "id": "respanai/respan-gateway",
     "language": "Rust",
     "name": "respanai/respan-gateway",
-    "stars": 87,
+    "stars": 88,
     "updated_at": "2026-10-21T07:38:34Z",
     "url": "https://github.com/respanai/respan-gateway"
   },
@@ -97,24 +205,6 @@
     "stars": 4,
     "updated_at": "2026-10-21T07:37:51Z",
     "url": "https://github.com/burakdede/lorepack"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 9492,
-    "updated_at": "2026-10-21T07:44:15Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-10-21T07:45:04Z",
-    "url": "https://github.com/veerarakesh56/warden"
   },
   {
     "description": "Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code \u2014 V3 prototype runs ",
@@ -144,21 +234,12 @@
     "url": "https://github.com/Xander-Xai/Beauty-Industry-RAG-QA-System"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-21T07:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22790,
-    "updated_at": "2026-10-21T07:37:26Z",
+    "updated_at": "2026-10-21T07:47:11Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -167,7 +248,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61697,
-    "updated_at": "2026-10-21T07:20:37Z",
+    "updated_at": "2026-10-21T08:00:15Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -180,21 +261,12 @@
     "url": "https://github.com/a-novel/service-genai"
   },
   {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "Python",
-    "name": "dataelement/bisheng",
-    "stars": 12066,
-    "updated_at": "2026-10-21T07:40:13Z",
-    "url": "https://github.com/dataelement/bisheng"
-  },
-  {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
     "id": "llmspendguard/llm-spendguard",
     "language": "Python",
     "name": "llmspendguard/llm-spendguard",
     "stars": 0,
-    "updated_at": "2026-10-21T07:40:50Z",
+    "updated_at": "2026-10-21T07:46:02Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
@@ -207,13 +279,13 @@
     "url": "https://github.com/toxicwind/ranch"
   },
   {
-    "description": "Case study + playbook: an AI agent fleet cut heartbeat tokens 12.0M to 1.0M a day (-91%). 18 methods across 5 groups, wi",
-    "id": "sterilefield/llm-token-economics",
-    "language": "Python",
-    "name": "sterilefield/llm-token-economics",
-    "stars": 0,
-    "updated_at": "2026-10-21T07:12:58Z",
-    "url": "https://github.com/sterilefield/llm-token-economics"
+    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4985,
+    "updated_at": "2026-10-21T07:13:26Z",
+    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Profile of Dr. Ravi Teja Thiriveedhi \u2014 clinician turned AI systems architect: multi-agent platforms, AI governance, LLM ",
@@ -238,7 +310,7 @@
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
-    "stars": 8929,
+    "stars": 8928,
     "updated_at": "2026-10-21T07:08:46Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
@@ -250,15 +322,6 @@
     "stars": 30,
     "updated_at": "2026-10-21T07:08:20Z",
     "url": "https://github.com/cubxxw/blog"
-  },
-  {
-    "description": "Open-source, self-hosted AI platform for teams. Run private AI chat, manage Ray/vLLM GPU clusters, and connect apps and ",
-    "id": "fadenstack/fadenstack",
-    "language": "Python",
-    "name": "fadenstack/fadenstack",
-    "stars": 2,
-    "updated_at": "2026-10-21T07:18:21Z",
-    "url": "https://github.com/fadenstack/fadenstack"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -356,7 +419,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 208,
-    "updated_at": "2026-10-21T07:36:32Z",
+    "updated_at": "2026-10-21T07:59:02Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -367,15 +430,6 @@
     "stars": 30661,
     "updated_at": "2026-10-21T06:41:29Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26222,
-    "updated_at": "2026-10-21T06:35:57Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "LLM spend tracking and budgets for Rails \u2014 by user, feature, or any tag, in your own database, no proxy.",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-21T06:24:40Z",
     "url": "https://github.com/TnSrb1/agent-ops"
-  },
-  {
-    "description": "Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude ",
-    "id": "Fast-Editor/Lynkr",
-    "language": "JavaScript",
-    "name": "Fast-Editor/Lynkr",
-    "stars": 635,
-    "updated_at": "2026-10-21T06:24:13Z",
-    "url": "https://github.com/Fast-Editor/Lynkr"
-  },
-  {
-    "description": "The decision before the AI build: evidence in, an architecture with receipts out, a scored build or a stop. Every decisi",
-    "id": "atulkapoor/fde-framework",
-    "language": "Python",
-    "name": "atulkapoor/fde-framework",
-    "stars": 11,
-    "updated_at": "2026-10-21T06:28:27Z",
-    "url": "https://github.com/atulkapoor/fde-framework"
-  },
-  {
-    "description": "System 0 for your LLM: learns the fixed-choice answers your LLM gives (intents, routing, moderation) and serves the repe",
-    "id": "2796gaurav/shad0w",
-    "language": "Python",
-    "name": "2796gaurav/shad0w",
-    "stars": 0,
-    "updated_at": "2026-10-21T06:46:31Z",
-    "url": "https://github.com/2796gaurav/shad0w"
-  },
-  {
-    "description": "Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio",
-    "id": "naim-munshi/metriqen-llm-serving-optimization",
-    "language": "Python",
-    "name": "naim-munshi/metriqen-llm-serving-optimization",
-    "stars": 0,
-    "updated_at": "2026-10-21T06:18:25Z",
-    "url": "https://github.com/naim-munshi/metriqen-llm-serving-optimization"
-  },
-  {
-    "description": "Self-hosted production platform for deploying, routing, scheduling, and observing Eve agent fleets.",
-    "id": "evelandhq/eveland",
-    "language": "TypeScript",
-    "name": "evelandhq/eveland",
-    "stars": 8,
-    "updated_at": "2026-10-21T06:12:19Z",
-    "url": "https://github.com/evelandhq/eveland"
-  },
-  {
-    "description": "The open framework for governed AI development: EU AI Act compliance, PII redaction, MCP proxy, prompt-injection firewal",
-    "id": "admina-org/admina",
-    "language": "Python",
-    "name": "admina-org/admina",
-    "stars": 8,
-    "updated_at": "2026-10-21T06:05:53Z",
-    "url": "https://github.com/admina-org/admina"
   }
 ]
