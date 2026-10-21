@@ -1,12 +1,75 @@
 [
   {
+    "description": "Open-source AI on-call engineer for AWS. An alarm comes in, WARDEN reads the evidence, the AI proposes one fix from a cl",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-10-21T16:43:49Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36139,
+    "updated_at": "2026-10-21T16:45:12Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
+    "id": "NVIDIA-NeMo/nemo-helix",
+    "language": "Python",
+    "name": "NVIDIA-NeMo/nemo-helix",
+    "stars": 116,
+    "updated_at": "2026-10-21T16:43:11Z",
+    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
+  },
+  {
+    "description": "Self-hosted coding assistant that routes each request to the cheapest model that can handle it",
+    "id": "optiware-ai/optimux",
+    "language": "Python",
+    "name": "optiware-ai/optimux",
+    "stars": 1,
+    "updated_at": "2026-10-21T16:38:53Z",
+    "url": "https://github.com/optiware-ai/optimux"
+  },
+  {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
     "id": "Cyrax321/CONTINUUM",
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 23,
-    "updated_at": "2026-10-21T16:29:09Z",
+    "updated_at": "2026-10-21T16:36:18Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "A local-first smoke test for OpenAI-compatible chat, streaming, JSON, vision-input, and image-generation endpoints.",
+    "id": "LydiaTools/llm-endpoint-doctor",
+    "language": "Python",
+    "name": "LydiaTools/llm-endpoint-doctor",
+    "stars": 0,
+    "updated_at": "2026-10-21T16:36:17Z",
+    "url": "https://github.com/LydiaTools/llm-endpoint-doctor"
+  },
+  {
+    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
+    "id": "digline/digline",
+    "language": "Python",
+    "name": "digline/digline",
+    "stars": 9,
+    "updated_at": "2026-10-21T16:34:06Z",
+    "url": "https://github.com/digline/digline"
+  },
+  {
+    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
+    "id": "AixleHQ/flow",
+    "language": "Ruby",
+    "name": "AixleHQ/flow",
+    "stars": 26,
+    "updated_at": "2026-10-21T16:39:31Z",
+    "url": "https://github.com/AixleHQ/flow"
   },
   {
     "description": "An LLM inference engine for persistent chat bots and agents. It allows models to forget old and unimportant tokens to ke",
@@ -14,8 +77,26 @@
     "language": "C++",
     "name": "cosmonomic/pulsarlm",
     "stars": 4,
-    "updated_at": "2026-10-21T16:28:18Z",
+    "updated_at": "2026-10-21T16:32:20Z",
     "url": "https://github.com/cosmonomic/pulsarlm"
+  },
+  {
+    "description": "Tuned Variables Language (TVL) by Traigent: typed specification language, validators, CLI tools, editor support, and doc",
+    "id": "Traigent/tvl",
+    "language": "Python",
+    "name": "Traigent/tvl",
+    "stars": 0,
+    "updated_at": "2026-10-21T16:31:03Z",
+    "url": "https://github.com/Traigent/tvl"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-21T16:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
@@ -31,9 +112,18 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 9516,
+    "stars": 9517,
     "updated_at": "2026-10-21T16:27:57Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61733,
+    "updated_at": "2026-10-21T16:27:38Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Token usage tracker for multi-agent AI sessions",
@@ -43,6 +133,15 @@
     "stars": 2,
     "updated_at": "2026-10-21T16:26:58Z",
     "url": "https://github.com/yunaremaia/agentcost"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22802,
+    "updated_at": "2026-10-21T16:37:21Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -59,7 +158,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4986,
-    "updated_at": "2026-10-21T16:24:32Z",
+    "updated_at": "2026-10-21T16:44:24Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -68,7 +167,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11936,
-    "updated_at": "2026-10-21T16:22:21Z",
+    "updated_at": "2026-10-21T16:38:02Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -95,7 +194,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-10-21T16:16:13Z",
+    "updated_at": "2026-10-21T16:32:40Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -108,15 +207,6 @@
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-21T16:15:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Building reliable LLM Agents \u2014 Agent eval, evidence grounding, context engineering",
     "id": "KBber/KBber",
     "language": "\u2014",
@@ -126,39 +216,12 @@
     "url": "https://github.com/KBber/KBber"
   },
   {
-    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
-    "id": "AixleHQ/flow",
-    "language": "Ruby",
-    "name": "AixleHQ/flow",
-    "stars": 26,
-    "updated_at": "2026-10-21T16:14:59Z",
-    "url": "https://github.com/AixleHQ/flow"
-  },
-  {
-    "description": "Self-hosted coding assistant that routes each request to the cheapest model that can handle it",
-    "id": "optiware-ai/optimux",
-    "language": "Python",
-    "name": "optiware-ai/optimux",
-    "stars": 1,
-    "updated_at": "2026-10-21T16:14:54Z",
-    "url": "https://github.com/optiware-ai/optimux"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22801,
-    "updated_at": "2026-10-21T16:26:14Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "The open-source agentic framework to build, orchestrate, and operate production AI agents.",
     "id": "apowerb/apowerb",
     "language": "Python",
     "name": "apowerb/apowerb",
     "stars": 149,
-    "updated_at": "2026-10-21T16:26:41Z",
+    "updated_at": "2026-10-21T16:33:44Z",
     "url": "https://github.com/apowerb/apowerb"
   },
   {
@@ -167,7 +230,7 @@
     "language": "Python",
     "name": "luetzey/who2be",
     "stars": 0,
-    "updated_at": "2026-10-21T16:11:23Z",
+    "updated_at": "2026-10-21T16:40:46Z",
     "url": "https://github.com/luetzey/who2be"
   },
   {
@@ -203,7 +266,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30665,
-    "updated_at": "2026-10-21T16:26:11Z",
+    "updated_at": "2026-10-21T16:32:51Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -225,24 +288,6 @@
     "url": "https://github.com/future-agi/future-agi"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61732,
-    "updated_at": "2026-10-21T16:27:38Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36139,
-    "updated_at": "2026-10-21T16:28:50Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -257,7 +302,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 398,
-    "updated_at": "2026-10-21T16:23:53Z",
+    "updated_at": "2026-10-21T16:37:44Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -302,7 +347,7 @@
     "language": "TypeScript",
     "name": "prasad-kavuri/prasad-portfolio",
     "stars": 0,
-    "updated_at": "2026-10-21T16:25:01Z",
+    "updated_at": "2026-10-21T16:42:01Z",
     "url": "https://github.com/prasad-kavuri/prasad-portfolio"
   },
   {
@@ -313,15 +358,6 @@
     "stars": 1,
     "updated_at": "2026-10-21T15:53:22Z",
     "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
-    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
-    "id": "NVIDIA-NeMo/nemo-helix",
-    "language": "Python",
-    "name": "NVIDIA-NeMo/nemo-helix",
-    "stars": 116,
-    "updated_at": "2026-10-21T16:27:04Z",
-    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
     "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
@@ -338,7 +374,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-21T16:29:06Z",
+    "updated_at": "2026-10-21T16:37:19Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -367,15 +403,6 @@
     "stars": 28,
     "updated_at": "2026-10-21T15:41:22Z",
     "url": "https://github.com/francordel/myrtia"
-  },
-  {
-    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
-    "id": "digline/digline",
-    "language": "Python",
-    "name": "digline/digline",
-    "stars": 9,
-    "updated_at": "2026-10-21T16:29:22Z",
-    "url": "https://github.com/digline/digline"
   },
   {
     "description": "Top LLM Observability (Opensource)  Star if you like it! ",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-21T15:26:01Z",
     "url": "https://github.com/tonyweckstrom1987/agentti-pohja"
-  },
-  {
-    "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
-    "id": "hjongc/openrouter-endpoint-watch",
-    "language": "Python",
-    "name": "hjongc/openrouter-endpoint-watch",
-    "stars": 0,
-    "updated_at": "2026-10-21T15:20:08Z",
-    "url": "https://github.com/hjongc/openrouter-endpoint-watch"
-  },
-  {
-    "description": "Make AI quality observable. OpenTelemetry trace enrichment, Jev evaluation, streaming deduplication, and cohort quality ",
-    "id": "alebgl77/openspanguard",
-    "language": "TypeScript",
-    "name": "alebgl77/openspanguard",
-    "stars": 0,
-    "updated_at": "2026-10-21T15:15:56Z",
-    "url": "https://github.com/alebgl77/openspanguard"
-  },
-  {
-    "description": "Understand which functions and agents drive LLM spend. Self-hosted monitoring and an open model pricing catalog.",
-    "id": "metergraph/metergraph",
-    "language": "Python",
-    "name": "metergraph/metergraph",
-    "stars": 4,
-    "updated_at": "2026-10-21T16:29:42Z",
-    "url": "https://github.com/metergraph/metergraph"
   }
 ]
