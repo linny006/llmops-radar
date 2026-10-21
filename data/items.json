@@ -1,11 +1,92 @@
 [
   {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-10-21T18:41:23Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "Tuned Variables Language (TVL) by Traigent: typed specification language, validators, CLI tools, editor support, and doc",
+    "id": "Traigent/tvl",
+    "language": "Python",
+    "name": "Traigent/tvl",
+    "stars": 0,
+    "updated_at": "2026-10-21T18:43:24Z",
+    "url": "https://github.com/Traigent/tvl"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11939,
+    "updated_at": "2026-10-21T18:44:20Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 2,
+    "updated_at": "2026-10-21T18:36:48Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 42,
+    "updated_at": "2026-10-21T18:36:21Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
+    "id": "NVIDIA-NeMo/nemo-helix",
+    "language": "Python",
+    "name": "NVIDIA-NeMo/nemo-helix",
+    "stars": 117,
+    "updated_at": "2026-10-21T18:44:27Z",
+    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
+  },
+  {
+    "description": "KYNEX - a local, tool-using AI agent that extracts structured data from documents. 92.65 unified value F1 measured on Ex",
+    "id": "Nikit117/kynex-harness",
+    "language": "Python",
+    "name": "Nikit117/kynex-harness",
+    "stars": 1,
+    "updated_at": "2026-10-21T18:32:40Z",
+    "url": "https://github.com/Nikit117/kynex-harness"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22806,
+    "updated_at": "2026-10-21T18:42:04Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-21T18:30:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Understand which functions and agents drive LLM spend. Self-hosted monitoring and an open model pricing catalog.",
     "id": "metergraph/metergraph",
     "language": "Python",
     "name": "metergraph/metergraph",
     "stars": 4,
-    "updated_at": "2026-10-21T18:30:17Z",
+    "updated_at": "2026-10-21T18:44:29Z",
     "url": "https://github.com/metergraph/metergraph"
   },
   {
@@ -32,7 +113,7 @@
     "language": "Python",
     "name": "redevops-io/agentic-os",
     "stars": 2,
-    "updated_at": "2026-10-21T18:25:23Z",
+    "updated_at": "2026-10-21T18:44:32Z",
     "url": "https://github.com/redevops-io/agentic-os"
   },
   {
@@ -50,7 +131,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-21T18:23:48Z",
+    "updated_at": "2026-10-21T18:33:36Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -104,17 +185,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4986,
-    "updated_at": "2026-10-21T18:30:13Z",
+    "updated_at": "2026-10-21T18:44:17Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 42,
-    "updated_at": "2026-10-21T18:16:57Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Self-hosted coding assistant that routes each request to the cheapest model that can handle it",
@@ -126,24 +198,6 @@
     "url": "https://github.com/optiware-ai/optimux"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-21T18:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22805,
-    "updated_at": "2026-10-21T18:27:13Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
     "id": "toxicwind/ranch",
     "language": "Rust",
@@ -153,13 +207,13 @@
     "url": "https://github.com/toxicwind/ranch"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
     "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11939,
-    "updated_at": "2026-10-21T18:16:08Z",
-    "url": "https://github.com/Arize-ai/phoenix"
+    "name": "mozilla-ai/otari",
+    "stars": 717,
+    "updated_at": "2026-10-21T18:08:55Z",
+    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
@@ -203,7 +257,7 @@
     "language": "Python",
     "name": "WellCod/automata",
     "stars": 3,
-    "updated_at": "2026-10-21T18:29:10Z",
+    "updated_at": "2026-10-21T18:42:47Z",
     "url": "https://github.com/WellCod/automata"
   },
   {
@@ -239,7 +293,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 2,
-    "updated_at": "2026-10-21T17:53:00Z",
+    "updated_at": "2026-10-21T18:38:33Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -257,7 +311,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30667,
-    "updated_at": "2026-10-21T17:45:59Z",
+    "updated_at": "2026-10-21T18:31:55Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -266,7 +320,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-10-21T17:41:41Z",
+    "updated_at": "2026-10-21T18:37:10Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -324,15 +378,6 @@
     "url": "https://github.com/future-agi/future-agi"
   },
   {
-    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
-    "id": "NVIDIA-NeMo/nemo-helix",
-    "language": "Python",
-    "name": "NVIDIA-NeMo/nemo-helix",
-    "stars": 116,
-    "updated_at": "2026-10-21T18:30:22Z",
-    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
-  },
-  {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
     "id": "decimal-labs/decimalai-python",
     "language": "Python",
@@ -365,7 +410,7 @@
     "language": "Python",
     "name": "luetzey/who2be",
     "stars": 0,
-    "updated_at": "2026-10-21T18:16:07Z",
+    "updated_at": "2026-10-21T18:31:07Z",
     "url": "https://github.com/luetzey/who2be"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-21T17:20:07Z",
     "url": "https://github.com/NA7RAWY/arabic-legal-rag-mlops"
-  },
-  {
-    "description": "The safety layer for the AGI era. Runtime guardrails for autonomous AI agents.",
-    "id": "vijaym2k6/SteerPlane",
-    "language": "Python",
-    "name": "vijaym2k6/SteerPlane",
-    "stars": 7,
-    "updated_at": "2026-10-21T17:19:20Z",
-    "url": "https://github.com/vijaym2k6/SteerPlane"
-  },
-  {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 201,
-    "updated_at": "2026-10-21T17:16:23Z",
-    "url": "https://github.com/api7/aisix"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8932,
-    "updated_at": "2026-10-21T17:13:58Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Open-source LLMOps platform with prompt management, an OpenAI-compatible AI gateway, OpenTelemetry tracing, a versioned ",
-    "id": "AcruxCore/AcruxCore",
-    "language": "TypeScript",
-    "name": "AcruxCore/AcruxCore",
-    "stars": 11,
-    "updated_at": "2026-10-21T17:07:36Z",
-    "url": "https://github.com/AcruxCore/AcruxCore"
-  },
-  {
-    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 2,
-    "updated_at": "2026-10-21T18:29:13Z",
-    "url": "https://github.com/a-novel/service-genai"
   }
 ]
