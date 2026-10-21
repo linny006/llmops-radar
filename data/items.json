@@ -1,5 +1,77 @@
 [
   {
+    "description": "Benchmark LLMs head-to-head on your own prompts. ",
+    "id": "orq-ai/orq-arena",
+    "language": "Python",
+    "name": "orq-ai/orq-arena",
+    "stars": 23,
+    "updated_at": "2026-10-21T09:42:51Z",
+    "url": "https://github.com/orq-ai/orq-arena"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61705,
+    "updated_at": "2026-10-21T09:42:08Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Personal portfolio website for Abdulaziz Balu: AI, full-stack, LLMOps, DevOps, and digital media strategy.",
+    "id": "abdulazizbalu/balu-portfolio",
+    "language": "HTML",
+    "name": "abdulazizbalu/balu-portfolio",
+    "stars": 0,
+    "updated_at": "2026-10-21T09:41:52Z",
+    "url": "https://github.com/abdulazizbalu/balu-portfolio"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22791,
+    "updated_at": "2026-10-21T09:43:25Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 9494,
+    "updated_at": "2026-10-21T09:41:59Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "LLM data analyst agent on LangGraph with per-call tracing, cost and latency, versioned prompts and a record/replay evalu",
+    "id": "LacerdaTraderCode/observable-analytics-agent",
+    "language": "\u2014",
+    "name": "LacerdaTraderCode/observable-analytics-agent",
+    "stars": 0,
+    "updated_at": "2026-10-21T09:37:47Z",
+    "url": "https://github.com/LacerdaTraderCode/observable-analytics-agent"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-21T09:30:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36129,
+    "updated_at": "2026-10-21T09:37:41Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "One LLM app run end to end on Langfuse, LangSmith and AcruxCore: same data, prompts and scorers, only the instrumentatio",
     "id": "talhaanwarch/langfuse-langsmith-acruxcore-comparison",
     "language": "Python",
@@ -23,7 +95,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 201,
-    "updated_at": "2026-10-21T09:26:55Z",
+    "updated_at": "2026-10-21T09:39:05Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -32,7 +104,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28476,
-    "updated_at": "2026-10-21T09:28:09Z",
+    "updated_at": "2026-10-21T09:41:45Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -45,21 +117,12 @@
     "url": "https://github.com/yangjinbin2006/llm-conformance"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61704,
-    "updated_at": "2026-10-21T09:29:53Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Open-source AI on-call engineer for AWS. An alarm comes in, WARDEN reads the evidence, the AI proposes one fix from a cl",
     "id": "veerarakesh56/warden",
     "language": "Python",
     "name": "veerarakesh56/warden",
     "stars": 0,
-    "updated_at": "2026-10-21T09:29:05Z",
+    "updated_at": "2026-10-21T09:41:21Z",
     "url": "https://github.com/veerarakesh56/warden"
   },
   {
@@ -68,7 +131,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 96,
-    "updated_at": "2026-10-21T09:22:37Z",
+    "updated_at": "2026-10-21T09:35:10Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -90,49 +153,13 @@
     "url": "https://github.com/Soum-Code/agentpulse"
   },
   {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 9493,
-    "updated_at": "2026-10-21T09:27:00Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "Python",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2997,
+    "stars": 2994,
     "updated_at": "2026-10-21T09:18:31Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-21T09:15:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36128,
-    "updated_at": "2026-10-21T09:29:55Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22791,
-    "updated_at": "2026-10-21T09:24:44Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Tuned Variables Language (TVL) by Traigent: typed specification language, validators, CLI tools, editor support, and doc",
@@ -185,7 +212,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 398,
-    "updated_at": "2026-10-21T09:11:45Z",
+    "updated_at": "2026-10-21T09:31:13Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -239,7 +266,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 712,
-    "updated_at": "2026-10-21T09:27:23Z",
+    "updated_at": "2026-10-21T09:42:52Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -293,7 +320,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 113,
-    "updated_at": "2026-10-21T08:48:17Z",
+    "updated_at": "2026-10-21T09:34:00Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -338,7 +365,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 12068,
-    "updated_at": "2026-10-21T09:27:09Z",
+    "updated_at": "2026-10-21T09:39:31Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-21T08:43:22Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
-    "description": "The platform for continuously improving AI agents.",
-    "id": "overmind-core/overmind",
-    "language": "Python",
-    "name": "overmind-core/overmind",
-    "stars": 671,
-    "updated_at": "2026-10-21T07:51:30Z",
-    "url": "https://github.com/overmind-core/overmind"
-  },
-  {
-    "description": "Case study + playbook: an AI agent fleet cut heartbeat tokens 12.0M to 1.0M a day (-91%). 18 methods across 5 groups, wi",
-    "id": "sterilefield/llm-token-economics",
-    "language": "Python",
-    "name": "sterilefield/llm-token-economics",
-    "stars": 0,
-    "updated_at": "2026-10-21T07:49:56Z",
-    "url": "https://github.com/sterilefield/llm-token-economics"
-  },
-  {
-    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
-    "id": "cuihuan/awesome-ai-gateway",
-    "language": "HTML",
-    "name": "cuihuan/awesome-ai-gateway",
-    "stars": 131,
-    "updated_at": "2026-10-21T07:48:56Z",
-    "url": "https://github.com/cuihuan/awesome-ai-gateway"
   }
 ]
