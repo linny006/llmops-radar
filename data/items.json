@@ -1,12 +1,66 @@
 [
   {
+    "description": "Open Source software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-10-21T00:54:00Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod",
+    "id": "valteresj2/agent-hangar",
+    "language": "Python",
+    "name": "valteresj2/agent-hangar",
+    "stars": 3,
+    "updated_at": "2026-10-21T00:52:03Z",
+    "url": "https://github.com/valteresj2/agent-hangar"
+  },
+  {
+    "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
+    "id": "holetz/quenching",
+    "language": "Python",
+    "name": "holetz/quenching",
+    "stars": 1,
+    "updated_at": "2026-10-21T00:51:31Z",
+    "url": "https://github.com/holetz/quenching"
+  },
+  {
+    "description": "Portable agentic SDLC pipeline as a Claude Code plugin: 4 role agents, 2 human gates, unit-tested guardrails, self-impro",
+    "id": "juanjtov/adlc-pipeline",
+    "language": "Shell",
+    "name": "juanjtov/adlc-pipeline",
+    "stars": 0,
+    "updated_at": "2026-10-21T00:56:15Z",
+    "url": "https://github.com/juanjtov/adlc-pipeline"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61673,
-    "updated_at": "2026-10-21T00:45:10Z",
+    "updated_at": "2026-10-21T00:56:26Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Benchmark LLMs head-to-head on your own prompts. ",
+    "id": "orq-ai/orq-arena",
+    "language": "Python",
+    "name": "orq-ai/orq-arena",
+    "stars": 23,
+    "updated_at": "2026-10-21T00:50:51Z",
+    "url": "https://github.com/orq-ai/orq-arena"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-21T00:45:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Phoenix-native LLM evaluation, prompt testing, model comparison, red teaming, and observability for Elixir",
@@ -23,7 +77,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 26203,
-    "updated_at": "2026-10-21T00:43:24Z",
+    "updated_at": "2026-10-21T00:47:43Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -36,24 +90,6 @@
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-21T00:30:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Portable agentic SDLC pipeline as a Claude Code plugin: 4 role agents, 2 human gates, unit-tested guardrails, self-impro",
-    "id": "juanjtov/adlc-pipeline",
-    "language": "Shell",
-    "name": "juanjtov/adlc-pipeline",
-    "stars": 0,
-    "updated_at": "2026-10-21T00:42:50Z",
-    "url": "https://github.com/juanjtov/adlc-pipeline"
-  },
-  {
     "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
     "id": "NVIDIA-NeMo/nemo-helix",
     "language": "Python",
@@ -61,6 +97,15 @@
     "stars": 115,
     "updated_at": "2026-10-21T00:37:51Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22787,
+    "updated_at": "2026-10-21T00:22:59Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
@@ -90,24 +135,6 @@
     "url": "https://github.com/01men/ybkkasi"
   },
   {
-    "description": "Benchmark LLMs head-to-head on your own prompts. ",
-    "id": "orq-ai/orq-arena",
-    "language": "Python",
-    "name": "orq-ai/orq-arena",
-    "stars": 23,
-    "updated_at": "2026-10-21T00:30:21Z",
-    "url": "https://github.com/orq-ai/orq-arena"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22786,
-    "updated_at": "2026-10-21T00:22:59Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Multi-project ML platform monorepo: shared substrate across tabular, deep learning, LLM and agent projects. Multi-cloud ",
     "id": "DuqueOM/ml-platform",
     "language": "Python",
@@ -131,17 +158,8 @@
     "language": "Python",
     "name": "luetzey/who2be",
     "stars": 0,
-    "updated_at": "2026-10-21T00:41:09Z",
+    "updated_at": "2026-10-21T00:56:29Z",
     "url": "https://github.com/luetzey/who2be"
-  },
-  {
-    "description": "Open Source software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-10-21T00:31:32Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
@@ -149,7 +167,7 @@
     "language": "Python",
     "name": "sarkars/agent-failure-modes",
     "stars": 1,
-    "updated_at": "2026-10-20T23:58:29Z",
+    "updated_at": "2026-10-21T00:57:17Z",
     "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
@@ -185,7 +203,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 2,
-    "updated_at": "2026-10-21T00:45:25Z",
+    "updated_at": "2026-10-21T00:48:15Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -239,7 +257,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30657,
-    "updated_at": "2026-10-21T00:06:38Z",
+    "updated_at": "2026-10-21T00:57:04Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -266,7 +284,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 96,
-    "updated_at": "2026-10-21T00:28:19Z",
+    "updated_at": "2026-10-21T00:52:43Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -346,7 +364,7 @@
     "id": "respanai/respan-gateway",
     "language": "Rust",
     "name": "respanai/respan-gateway",
-    "stars": 55,
+    "stars": 56,
     "updated_at": "2026-10-20T22:29:01Z",
     "url": "https://github.com/respanai/respan-gateway"
   },
@@ -365,7 +383,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 200,
-    "updated_at": "2026-10-21T00:44:31Z",
+    "updated_at": "2026-10-21T00:52:12Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-20T22:22:14Z",
     "url": "https://github.com/a-novel/service-genai"
-  },
-  {
-    "description": "A local-first smoke test for OpenAI-compatible LLM endpoints.",
-    "id": "LydiaTools/llm-endpoint-doctor",
-    "language": "Python",
-    "name": "LydiaTools/llm-endpoint-doctor",
-    "stars": 0,
-    "updated_at": "2026-10-20T22:14:46Z",
-    "url": "https://github.com/LydiaTools/llm-endpoint-doctor"
-  },
-  {
-    "description": "Dify \u2014 independent third-party profile of a public API surface, by API Evangelist. Dify is an open-source platform for b",
-    "id": "api-evangelist/dify",
-    "language": "\u2014",
-    "name": "api-evangelist/dify",
-    "stars": 0,
-    "updated_at": "2026-10-20T22:10:07Z",
-    "url": "https://github.com/api-evangelist/dify"
   }
 ]
