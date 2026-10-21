@@ -1,5 +1,86 @@
 [
   {
+    "description": "Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code \u2014 V3 prototype runs ",
+    "id": "MongLong0214/jev-gate",
+    "language": "TypeScript",
+    "name": "MongLong0214/jev-gate",
+    "stars": 3,
+    "updated_at": "2026-10-21T05:30:01Z",
+    "url": "https://github.com/MongLong0214/jev-gate"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-21T05:27:08Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Argus: the security layer for all AI models \u2014 OpenAI-compatible AI gateway with threat detectors, policy enforcement, au",
+    "id": "karmendra8386/argus",
+    "language": "Python",
+    "name": "karmendra8386/argus",
+    "stars": 0,
+    "updated_at": "2026-10-21T05:23:30Z",
+    "url": "https://github.com/karmendra8386/argus"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61688,
+    "updated_at": "2026-10-21T05:26:47Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 112,
+    "updated_at": "2026-10-21T05:30:13Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
+    "id": "luetzey/who2be",
+    "language": "Python",
+    "name": "luetzey/who2be",
+    "stars": 0,
+    "updated_at": "2026-10-21T05:21:17Z",
+    "url": "https://github.com/luetzey/who2be"
+  },
+  {
+    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-10-21T05:19:09Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
+    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
+    "id": "rknightion/genai-otel-bridge",
+    "language": "Go",
+    "name": "rknightion/genai-otel-bridge",
+    "stars": 1,
+    "updated_at": "2026-10-21T05:25:37Z",
+    "url": "https://github.com/rknightion/genai-otel-bridge"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-21T05:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Profile of Dr. Ravi Teja Thiriveedhi \u2014 clinician turned AI systems architect: multi-agent platforms, AI governance, LLM ",
     "id": "Raviteja2k2k/Raviteja2k2k",
     "language": "Python",
@@ -25,15 +106,6 @@
     "stars": 3,
     "updated_at": "2026-10-21T05:09:36Z",
     "url": "https://github.com/valteresj2/agent-hangar"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-21T05:09:02Z",
-    "url": "https://github.com/toxicwind/ranch"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -63,21 +135,12 @@
     "url": "https://github.com/api-evangelist/agenta"
   },
   {
-    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-10-21T05:03:50Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
     "description": "MaxKB4j is an open-source LLMOps platform for LLM workflow applications and RAG developed based on the Java language. Th",
     "id": "taishan666/MaxKB4j",
     "language": "Java",
     "name": "taishan666/MaxKB4j",
     "stars": 135,
-    "updated_at": "2026-10-21T05:01:56Z",
+    "updated_at": "2026-10-21T05:26:54Z",
     "url": "https://github.com/taishan666/MaxKB4j"
   },
   {
@@ -90,21 +153,12 @@
     "url": "https://github.com/bahree/ModelAdaptationBook"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-21T05:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 26214,
-    "updated_at": "2026-10-21T05:02:20Z",
+    "updated_at": "2026-10-21T05:26:41Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -113,7 +167,7 @@
     "language": "Rust",
     "name": "techgopal/ultrafast-ai-gateway",
     "stars": 21,
-    "updated_at": "2026-10-21T05:14:46Z",
+    "updated_at": "2026-10-21T05:18:59Z",
     "url": "https://github.com/techgopal/ultrafast-ai-gateway"
   },
   {
@@ -133,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-10-21T04:54:33Z",
     "url": "https://github.com/hjongc/openrouter-endpoint-watch"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61687,
-    "updated_at": "2026-10-21T05:13:48Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
@@ -180,39 +225,12 @@
     "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 112,
-    "updated_at": "2026-10-21T04:55:20Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code \u2014 V3 prototype runs ",
-    "id": "MongLong0214/jev-gate",
-    "language": "TypeScript",
-    "name": "MongLong0214/jev-gate",
-    "stars": 3,
-    "updated_at": "2026-10-21T04:41:01Z",
-    "url": "https://github.com/MongLong0214/jev-gate"
-  },
-  {
-    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
-    "id": "luetzey/who2be",
-    "language": "Python",
-    "name": "luetzey/who2be",
-    "stars": 0,
-    "updated_at": "2026-10-21T04:55:20Z",
-    "url": "https://github.com/luetzey/who2be"
-  },
-  {
     "description": "Open Source software factory.",
     "id": "kuhlman-labs/fishhawk",
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-10-21T04:53:29Z",
+    "updated_at": "2026-10-21T05:30:16Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -374,7 +392,7 @@
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 115,
-    "updated_at": "2026-10-21T05:14:44Z",
+    "updated_at": "2026-10-21T05:27:18Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -419,7 +437,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 207,
-    "updated_at": "2026-10-21T05:06:40Z",
+    "updated_at": "2026-10-21T05:28:09Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 11931,
     "updated_at": "2026-10-21T04:32:34Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
-    "id": "coze-dev/coze-loop",
-    "language": "Go",
-    "name": "coze-dev/coze-loop",
-    "stars": 5780,
-    "updated_at": "2026-10-21T04:57:05Z",
-    "url": "https://github.com/coze-dev/coze-loop"
-  },
-  {
-    "description": "Self-hostable observability SDK for continuous grounding-risk and drift monitoring in multi-agent LLM systems",
-    "id": "Soum-Code/agentpulse",
-    "language": "Python",
-    "name": "Soum-Code/agentpulse",
-    "stars": 0,
-    "updated_at": "2026-10-21T03:17:13Z",
-    "url": "https://github.com/Soum-Code/agentpulse"
   }
 ]
