@@ -1,12 +1,75 @@
 [
   {
+    "description": "Image-to-product search with GPT-4o and Azure AI Search, plus guardrails, MLflow tracing and evals",
+    "id": "kovacova/visual-search-rag-genaiops",
+    "language": "Python",
+    "name": "kovacova/visual-search-rag-genaiops",
+    "stars": 0,
+    "updated_at": "2026-10-21T08:14:27Z",
+    "url": "https://github.com/kovacova/visual-search-rag-genaiops"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-21T08:12:11Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
     "description": "AI incident-response orchestrator: the model proposes, a deterministic verifier decides. LangGraph + verified redaction ",
     "id": "veerarakesh56/warden",
     "language": "Python",
     "name": "veerarakesh56/warden",
     "stars": 0,
-    "updated_at": "2026-10-21T08:00:10Z",
+    "updated_at": "2026-10-21T08:15:15Z",
     "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61699,
+    "updated_at": "2026-10-21T08:09:49Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Local-first agent communication matrix for Claude, Gemini, OpenCode and ACP/A2A agents: multi-agent orchestration, agent",
+    "id": "Josepavese/matrix",
+    "language": "Go",
+    "name": "Josepavese/matrix",
+    "stars": 0,
+    "updated_at": "2026-10-21T08:14:03Z",
+    "url": "https://github.com/Josepavese/matrix"
+  },
+  {
+    "description": "Self-hosted production platform for deploying, routing, scheduling, and observing Eve agent fleets.",
+    "id": "evelandhq/eveland",
+    "language": "TypeScript",
+    "name": "evelandhq/eveland",
+    "stars": 8,
+    "updated_at": "2026-10-21T08:08:29Z",
+    "url": "https://github.com/evelandhq/eveland"
+  },
+  {
+    "description": "A local-first smoke test for OpenAI-compatible chat, streaming, JSON, and image-generation endpoints.",
+    "id": "LydiaTools/llm-endpoint-doctor",
+    "language": "Python",
+    "name": "LydiaTools/llm-endpoint-doctor",
+    "stars": 0,
+    "updated_at": "2026-10-21T08:04:33Z",
+    "url": "https://github.com/LydiaTools/llm-endpoint-doctor"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-21T08:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
@@ -14,17 +77,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 36121,
-    "updated_at": "2026-10-21T07:57:42Z",
+    "updated_at": "2026-10-21T08:06:25Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Image-to-product search with GPT-4o and Azure AI Search, plus guardrails, MLflow tracing and evals",
-    "id": "kovacova/visual-search-rag-genaiops",
-    "language": "Python",
-    "name": "kovacova/visual-search-rag-genaiops",
-    "stars": 0,
-    "updated_at": "2026-10-21T07:56:03Z",
-    "url": "https://github.com/kovacova/visual-search-rag-genaiops"
   },
   {
     "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
@@ -32,7 +86,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-21T07:54:19Z",
+    "updated_at": "2026-10-21T08:14:08Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -41,7 +95,7 @@
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
     "stars": 9492,
-    "updated_at": "2026-10-21T07:52:47Z",
+    "updated_at": "2026-10-21T08:12:12Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
@@ -85,7 +139,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26223,
+    "stars": 26224,
     "updated_at": "2026-10-21T07:48:03Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -97,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-21T07:55:56Z",
     "url": "https://github.com/2796gaurav/shad0w"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-21T07:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
@@ -126,6 +171,15 @@
     "url": "https://github.com/dshakes/distil"
   },
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28476,
+    "updated_at": "2026-10-21T08:13:37Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
     "id": "gabrielk83/AntCV",
     "language": "JavaScript",
@@ -133,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-10-21T07:42:51Z",
     "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28475,
-    "updated_at": "2026-10-21T07:44:12Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Self-hostable AI token pools \u2014 govern your org's AI usage with per-member keys, quotas, and leak detection; or deposit s",
@@ -158,7 +203,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 201,
-    "updated_at": "2026-10-21T07:57:25Z",
+    "updated_at": "2026-10-21T08:13:08Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -176,7 +221,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 12067,
-    "updated_at": "2026-10-21T07:40:13Z",
+    "updated_at": "2026-10-21T08:11:56Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -212,7 +257,7 @@
     "language": "TypeScript",
     "name": "MongLong0214/jev-gate",
     "stars": 3,
-    "updated_at": "2026-10-21T07:33:59Z",
+    "updated_at": "2026-10-21T08:03:58Z",
     "url": "https://github.com/MongLong0214/jev-gate"
   },
   {
@@ -239,17 +284,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22790,
-    "updated_at": "2026-10-21T07:47:11Z",
+    "updated_at": "2026-10-21T08:04:25Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61697,
-    "updated_at": "2026-10-21T08:00:15Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
@@ -266,17 +302,8 @@
     "language": "Python",
     "name": "llmspendguard/llm-spendguard",
     "stars": 0,
-    "updated_at": "2026-10-21T07:46:02Z",
+    "updated_at": "2026-10-21T08:13:08Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-21T07:15:23Z",
-    "url": "https://github.com/toxicwind/ranch"
   },
   {
     "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
@@ -320,7 +347,7 @@
     "language": "JavaScript",
     "name": "cubxxw/blog",
     "stars": 30,
-    "updated_at": "2026-10-21T07:08:20Z",
+    "updated_at": "2026-10-21T08:07:05Z",
     "url": "https://github.com/cubxxw/blog"
   },
   {
@@ -419,34 +446,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 208,
-    "updated_at": "2026-10-21T07:59:02Z",
+    "updated_at": "2026-10-21T08:13:39Z",
     "url": "https://github.com/GetBusbar/busbar"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 30661,
-    "updated_at": "2026-10-21T06:41:29Z",
-    "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "LLM spend tracking and budgets for Rails \u2014 by user, feature, or any tag, in your own database, no proxy.",
-    "id": "sergey-homenko/llm_cost_tracker",
-    "language": "Ruby",
-    "name": "sergey-homenko/llm_cost_tracker",
-    "stars": 46,
-    "updated_at": "2026-10-21T06:29:07Z",
-    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
-  },
-  {
-    "description": "Operating kit for a coordinator agent and headless Claude Code workers: hooks, launcher, skills, verification essays. Bu",
-    "id": "TnSrb1/agent-ops",
-    "language": "Python",
-    "name": "TnSrb1/agent-ops",
-    "stars": 0,
-    "updated_at": "2026-10-21T06:24:40Z",
-    "url": "https://github.com/TnSrb1/agent-ops"
   }
 ]
