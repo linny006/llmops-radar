@@ -1,12 +1,75 @@
 [
   {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-21T03:59:21Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8928,
+    "updated_at": "2026-10-21T03:57:29Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 201,
+    "updated_at": "2026-10-21T03:56:09Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-21T03:54:41Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 61681,
-    "updated_at": "2026-10-21T03:45:12Z",
+    "stars": 61682,
+    "updated_at": "2026-10-21T04:00:21Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "One control plane for every AI asset \u2014 MCP servers, skills, agents, AI apps. Self-hosted ledger with lifecycle state mac",
+    "id": "01men/ybkkasi",
+    "language": "JavaScript",
+    "name": "01men/ybkkasi",
+    "stars": 0,
+    "updated_at": "2026-10-21T03:49:32Z",
+    "url": "https://github.com/01men/ybkkasi"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 30658,
+    "updated_at": "2026-10-21T03:48:11Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-21T03:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "An industrial engineering curriculum for transitioning teams from stochastic prompting to deterministic, traceable AI-as",
@@ -59,7 +122,7 @@
     "language": "Python",
     "name": "fadenstack/fadenstack",
     "stars": 2,
-    "updated_at": "2026-10-21T03:44:12Z",
+    "updated_at": "2026-10-21T03:47:42Z",
     "url": "https://github.com/fadenstack/fadenstack"
   },
   {
@@ -81,21 +144,12 @@
     "url": "https://github.com/MongLong0214/jev-gate"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-21T03:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
     "id": "alibaba/rtp-llm",
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1366,
-    "updated_at": "2026-10-21T03:42:30Z",
+    "updated_at": "2026-10-21T03:59:11Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -113,7 +167,7 @@
     "language": "Python",
     "name": "vllm-project/vllm-ascend",
     "stars": 2997,
-    "updated_at": "2026-10-21T03:36:22Z",
+    "updated_at": "2026-10-21T03:48:58Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -126,13 +180,13 @@
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 201,
-    "updated_at": "2026-10-21T03:25:45Z",
-    "url": "https://github.com/api7/aisix"
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 711,
+    "updated_at": "2026-10-21T03:24:50Z",
+    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "Open Source software factory.",
@@ -140,7 +194,7 @@
     "language": "Go",
     "name": "kuhlman-labs/fishhawk",
     "stars": 9,
-    "updated_at": "2026-10-21T03:36:30Z",
+    "updated_at": "2026-10-21T03:49:07Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
   },
   {
@@ -149,17 +203,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4984,
-    "updated_at": "2026-10-21T03:35:03Z",
+    "updated_at": "2026-10-21T03:59:10Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 30658,
-    "updated_at": "2026-10-21T03:18:15Z",
-    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "Understand which functions and agents drive LLM spend. Self-hosted monitoring and an open model pricing catalog.",
@@ -180,21 +225,12 @@
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-21T03:11:10Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
     "description": "The execution control plane for AI agents. Govern every model request, MCP tool call, A2A delegation, and downstream act",
     "id": "GetBusbar/busbar",
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 207,
-    "updated_at": "2026-10-21T03:39:27Z",
+    "updated_at": "2026-10-21T03:59:58Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -212,7 +248,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28470,
-    "updated_at": "2026-10-21T03:06:07Z",
+    "updated_at": "2026-10-21T03:51:46Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -243,15 +279,6 @@
     "url": "https://github.com/coze-dev/coze-loop"
   },
   {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-21T02:57:55Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
     "description": "Self-hostable observability SDK for continuous grounding-risk and drift monitoring in multi-agent LLM systems",
     "id": "Soum-Code/agentpulse",
     "language": "Python",
@@ -265,7 +292,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 22787,
+    "stars": 22788,
     "updated_at": "2026-10-21T02:47:48Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -274,7 +301,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 36110,
+    "stars": 36111,
     "updated_at": "2026-10-21T02:45:33Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -313,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-10-21T02:23:41Z",
     "url": "https://github.com/KBber/KBber"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 709,
-    "updated_at": "2026-10-21T03:24:50Z",
-    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "AI gateway as a framework. For full control over models, routing & lifecycle. OpenAI /chat/completions, OpenResponses /r",
@@ -430,23 +448,5 @@
     "stars": 12061,
     "updated_at": "2026-10-21T03:34:38Z",
     "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "Benchmark LLMs head-to-head on your own prompts. ",
-    "id": "orq-ai/orq-arena",
-    "language": "Python",
-    "name": "orq-ai/orq-arena",
-    "stars": 23,
-    "updated_at": "2026-10-21T01:41:08Z",
-    "url": "https://github.com/orq-ai/orq-arena"
-  },
-  {
-    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 1,
-    "updated_at": "2026-10-21T01:28:42Z",
-    "url": "https://github.com/a-novel/service-genai"
   }
 ]
