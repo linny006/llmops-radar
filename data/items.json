@@ -1,12 +1,75 @@
 [
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28470,
+    "updated_at": "2026-10-21T01:15:17Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Behavioral regression testing for AI apps and agents: pytest plugin, behavior diff, CI gate, and document extraction met",
+    "id": "tap222/assay-evals",
+    "language": "Python",
+    "name": "tap222/assay-evals",
+    "stars": 23,
+    "updated_at": "2026-10-21T01:14:18Z",
+    "url": "https://github.com/tap222/assay-evals"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-21T01:14:10Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Benchmark LLMs head-to-head on your own prompts. ",
+    "id": "orq-ai/orq-arena",
+    "language": "Python",
+    "name": "orq-ai/orq-arena",
+    "stars": 23,
+    "updated_at": "2026-10-21T01:11:27Z",
+    "url": "https://github.com/orq-ai/orq-arena"
+  },
+  {
+    "description": "Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code \u2014 V3 prototype runs ",
+    "id": "MongLong0214/jev-gate",
+    "language": "TypeScript",
+    "name": "MongLong0214/jev-gate",
+    "stars": 3,
+    "updated_at": "2026-10-21T01:09:59Z",
+    "url": "https://github.com/MongLong0214/jev-gate"
+  },
+  {
     "description": "Portable agentic SDLC pipeline as a Claude Code plugin: 4 role agents, 2 human gates, unit-tested guardrails, self-impro",
     "id": "juanjtov/adlc-pipeline",
     "language": "Shell",
     "name": "juanjtov/adlc-pipeline",
     "stars": 0,
-    "updated_at": "2026-10-21T01:00:01Z",
+    "updated_at": "2026-10-21T01:13:23Z",
     "url": "https://github.com/juanjtov/adlc-pipeline"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26205,
+    "updated_at": "2026-10-21T01:07:27Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-21T01:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -14,7 +77,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61673,
-    "updated_at": "2026-10-21T01:00:18Z",
+    "updated_at": "2026-10-21T01:15:10Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -25,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-10-21T00:57:36Z",
     "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-21T00:57:35Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open Source software factory.",
@@ -63,15 +117,6 @@
     "url": "https://github.com/holetz/quenching"
   },
   {
-    "description": "Benchmark LLMs head-to-head on your own prompts. ",
-    "id": "orq-ai/orq-arena",
-    "language": "Python",
-    "name": "orq-ai/orq-arena",
-    "stars": 23,
-    "updated_at": "2026-10-21T00:50:51Z",
-    "url": "https://github.com/orq-ai/orq-arena"
-  },
-  {
     "description": "Phoenix-native LLM evaluation, prompt testing, model comparison, red teaming, and observability for Elixir",
     "id": "cristianodabc/aludel",
     "language": "Elixir",
@@ -79,15 +124,6 @@
     "stars": 41,
     "updated_at": "2026-10-21T00:40:38Z",
     "url": "https://github.com/cristianodabc/aludel"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26203,
-    "updated_at": "2026-10-21T00:47:43Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -113,7 +149,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22787,
-    "updated_at": "2026-10-21T00:22:59Z",
+    "updated_at": "2026-10-21T01:07:08Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -185,7 +221,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4983,
-    "updated_at": "2026-10-21T00:58:24Z",
+    "updated_at": "2026-10-21T01:11:43Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -214,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T23:54:24Z",
     "url": "https://github.com/veerarakesh56/warden"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-20T23:41:58Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Profile of Dr. Ravi Teja Thiriveedhi \u2014 clinician turned AI systems architect: multi-agent platforms, AI governance, LLM ",
@@ -284,7 +311,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 96,
-    "updated_at": "2026-10-21T00:52:43Z",
+    "updated_at": "2026-10-21T01:07:01Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -364,7 +391,7 @@
     "id": "respanai/respan-gateway",
     "language": "Rust",
     "name": "respanai/respan-gateway",
-    "stars": 56,
+    "stars": 57,
     "updated_at": "2026-10-20T22:29:01Z",
     "url": "https://github.com/respanai/respan-gateway"
   },
@@ -383,7 +410,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 200,
-    "updated_at": "2026-10-21T00:52:12Z",
+    "updated_at": "2026-10-21T01:11:35Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 30,
     "updated_at": "2026-10-20T22:23:59Z",
     "url": "https://github.com/cubxxw/blog"
-  },
-  {
-    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
-    "id": "rknightion/genai-otel-bridge",
-    "language": "Go",
-    "name": "rknightion/genai-otel-bridge",
-    "stars": 1,
-    "updated_at": "2026-10-20T23:10:20Z",
-    "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-20T22:29:40Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 1,
-    "updated_at": "2026-10-20T22:22:14Z",
-    "url": "https://github.com/a-novel/service-genai"
   }
 ]
