@@ -1,12 +1,120 @@
 [
   {
+    "description": "Control plane for company AI use cases \u2014 one self-hosted operating layer for shared budgets, policies, reliability, and ",
+    "id": "dativo-io/talon",
+    "language": "Go",
+    "name": "dativo-io/talon",
+    "stars": 15,
+    "updated_at": "2026-10-21T14:26:48Z",
+    "url": "https://github.com/dativo-io/talon"
+  },
+  {
+    "description": "Portable agentic SDLC pipeline as a Claude Code plugin: 4 role agents, 2 human gates, unit-tested guardrails, self-impro",
+    "id": "juanjtov/adlc-pipeline",
+    "language": "Shell",
+    "name": "juanjtov/adlc-pipeline",
+    "stars": 0,
+    "updated_at": "2026-10-21T14:26:17Z",
+    "url": "https://github.com/juanjtov/adlc-pipeline"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61725,
+    "updated_at": "2026-10-21T14:23:50Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 714,
+    "updated_at": "2026-10-21T14:25:25Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 9511,
+    "updated_at": "2026-10-21T14:30:08Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Tuned Variables Language (TVL) by Traigent: typed specification language, validators, CLI tools, editor support, and doc",
+    "id": "Traigent/tvl",
+    "language": "Python",
+    "name": "Traigent/tvl",
+    "stars": 0,
+    "updated_at": "2026-10-21T14:19:41Z",
+    "url": "https://github.com/Traigent/tvl"
+  },
+  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22798,
-    "updated_at": "2026-10-21T14:15:27Z",
+    "updated_at": "2026-10-21T14:25:43Z",
     "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
+    "id": "rknightion/genai-otel-bridge",
+    "language": "Go",
+    "name": "rknightion/genai-otel-bridge",
+    "stars": 1,
+    "updated_at": "2026-10-21T14:18:43Z",
+    "url": "https://github.com/rknightion/genai-otel-bridge"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11936,
+    "updated_at": "2026-10-21T14:20:05Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Open-source AI on-call engineer for AWS. An alarm comes in, WARDEN reads the evidence, the AI proposes one fix from a cl",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-10-21T14:29:25Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "Open Source software factory.",
+    "id": "kuhlman-labs/fishhawk",
+    "language": "Go",
+    "name": "kuhlman-labs/fishhawk",
+    "stars": 9,
+    "updated_at": "2026-10-21T14:17:31Z",
+    "url": "https://github.com/kuhlman-labs/fishhawk"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36135,
+    "updated_at": "2026-10-21T14:27:20Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-21T14:15:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
@@ -36,15 +144,6 @@
     "url": "https://github.com/ZIZKA-AI-SL/ZizkaDB"
   },
   {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 9509,
-    "updated_at": "2026-10-21T14:12:29Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
     "id": "toxicwind/ranch",
     "language": "Rust",
@@ -59,17 +158,8 @@
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 26,
-    "updated_at": "2026-10-21T14:05:46Z",
+    "updated_at": "2026-10-21T14:21:28Z",
     "url": "https://github.com/AixleHQ/flow"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61722,
-    "updated_at": "2026-10-21T14:03:21Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
@@ -86,17 +176,8 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28478,
-    "updated_at": "2026-10-21T14:08:04Z",
+    "updated_at": "2026-10-21T14:24:07Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-21T14:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
@@ -112,8 +193,8 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26237,
-    "updated_at": "2026-10-21T13:59:02Z",
+    "stars": 26238,
+    "updated_at": "2026-10-21T14:19:14Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -122,26 +203,8 @@
     "language": "Python",
     "name": "ArtVsMark/Engineering-Incidents-Playbook",
     "stars": 5,
-    "updated_at": "2026-10-21T14:09:26Z",
+    "updated_at": "2026-10-21T14:19:00Z",
     "url": "https://github.com/ArtVsMark/Engineering-Incidents-Playbook"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36134,
-    "updated_at": "2026-10-21T14:13:56Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 714,
-    "updated_at": "2026-10-21T14:06:30Z",
-    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
@@ -176,7 +239,7 @@
     "language": "Python",
     "name": "WellCod/automata",
     "stars": 3,
-    "updated_at": "2026-10-21T14:07:25Z",
+    "updated_at": "2026-10-21T14:22:02Z",
     "url": "https://github.com/WellCod/automata"
   },
   {
@@ -203,7 +266,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 2186,
-    "updated_at": "2026-10-21T14:08:01Z",
+    "updated_at": "2026-10-21T14:19:32Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -257,7 +320,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 209,
-    "updated_at": "2026-10-21T14:15:27Z",
+    "updated_at": "2026-10-21T14:26:00Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -279,15 +342,6 @@
     "url": "https://github.com/overmind-core/overmind"
   },
   {
-    "description": "Open Source software factory.",
-    "id": "kuhlman-labs/fishhawk",
-    "language": "Go",
-    "name": "kuhlman-labs/fishhawk",
-    "stars": 9,
-    "updated_at": "2026-10-21T13:36:14Z",
-    "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
     "description": "Open-source, self-hosted AI platform for teams. Run private AI chat, manage Ray/vLLM GPU clusters, and connect apps and ",
     "id": "fadenstack/fadenstack",
     "language": "Python",
@@ -302,7 +356,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4986,
-    "updated_at": "2026-10-21T14:13:51Z",
+    "updated_at": "2026-10-21T14:26:25Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -333,15 +387,6 @@
     "url": "https://github.com/amirimi/litellm-brownout"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11936,
-    "updated_at": "2026-10-21T13:17:51Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "\ud83d\udc7b MoEWatch: A lightweight diagnostic and audit library for Mixture-of-Experts (MoE) models in HuggingFace Transformers \u2014",
     "id": "Abineshabee/MoEWatch",
     "language": "Python",
@@ -365,7 +410,7 @@
     "language": "Python",
     "name": "cbeyondcloud/TokenLean",
     "stars": 3,
-    "updated_at": "2026-10-21T13:34:06Z",
+    "updated_at": "2026-10-21T14:29:55Z",
     "url": "https://github.com/cbeyondcloud/TokenLean"
   },
   {
@@ -374,7 +419,7 @@
     "language": "Shell",
     "name": "intel/enterprise-ai-solutions",
     "stars": 10,
-    "updated_at": "2026-10-21T13:43:35Z",
+    "updated_at": "2026-10-21T14:20:43Z",
     "url": "https://github.com/intel/enterprise-ai-solutions"
   },
   {
@@ -392,7 +437,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 201,
-    "updated_at": "2026-10-21T13:19:51Z",
+    "updated_at": "2026-10-21T14:28:51Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-21T13:04:37Z",
     "url": "https://github.com/a-novel/service-genai"
-  },
-  {
-    "description": "The open-source agentic framework to build, orchestrate, and operate production AI agents.",
-    "id": "apowerb/apowerb",
-    "language": "Python",
-    "name": "apowerb/apowerb",
-    "stars": 149,
-    "updated_at": "2026-10-21T14:10:07Z",
-    "url": "https://github.com/apowerb/apowerb"
-  },
-  {
-    "description": "Self-hostable AI token pools \u2014 govern your org's AI usage with per-member keys, quotas, and leak detection; or deposit s",
-    "id": "Phat1911/Tributary",
-    "language": "Rust",
-    "name": "Phat1911/Tributary",
-    "stars": 1,
-    "updated_at": "2026-10-21T12:57:24Z",
-    "url": "https://github.com/Phat1911/Tributary"
-  },
-  {
-    "description": "Source-available operating layer for governed AI applications \u2014 reuse policy, authority, evidence, execution, and recove",
-    "id": "jakbuczarnecki/intergrax",
-    "language": "Python",
-    "name": "jakbuczarnecki/intergrax",
-    "stars": 4,
-    "updated_at": "2026-10-21T12:53:08Z",
-    "url": "https://github.com/jakbuczarnecki/intergrax"
-  },
-  {
-    "description": "Open-source AI on-call engineer for AWS. An alarm comes in, WARDEN reads the evidence, the AI proposes one fix from a cl",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-10-21T14:14:05Z",
-    "url": "https://github.com/veerarakesh56/warden"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-21T12:49:51Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   }
 ]
