@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-21 05:45 UTC
+> ⏰ Last updated: 2026-10-21 05:47 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,17 +42,17 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [digline/digline](https://github.com/digline/digline) | 9 | Python | 2026-10-21 | Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor |
-| 2 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 61691 | Python | 2026-10-21 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 3 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 28472 | Python | 2026-10-21 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
-| 4 | [Raviteja2k2k/Raviteja2k2k](https://github.com/Raviteja2k2k/Raviteja2k2k) | 0 | Python | 2026-10-21 | Profile of Dr. Ravi Teja Thiriveedhi — clinician turned AI systems architect: multi-agent platforms, AI governance, LLM  |
-| 5 | [Nikit117/kynex-harness](https://github.com/Nikit117/kynex-harness) | 0 | Python | 2026-10-21 | KYNEX - a local, tool-using AI agent that extracts structured data from documents. 92.65 unified value F1 on ExtractBenc |
-| 6 | [NVIDIA-NeMo/nemo-helix](https://github.com/NVIDIA-NeMo/nemo-helix) | 115 | Python | 2026-10-21 | NeMo Helix: Make the agents you ship faster, more accurate, and safer. |
-| 7 | [jakbuczarnecki/intergrax](https://github.com/jakbuczarnecki/intergrax) | 4 | Python | 2026-10-21 | Source-available operating layer for governed AI applications — reuse policy, authority, evidence, execution, and recove |
-| 8 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26216 | TypeScript | 2026-10-21 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 9 | [toxicwind/ranch](https://github.com/toxicwind/ranch) | 0 | Rust | 2026-10-21 | The self-hosted LLM estate in one monorepo — local model serving, cloud provider routing, MCP gateway, build jobs. All O |
-| 10 | [luetzey/who2be](https://github.com/luetzey/who2be) | 0 | Python | 2026-10-21 | Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se |
-| 11 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-21 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-21 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 61692 | Python | 2026-10-21 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 3 | [digline/digline](https://github.com/digline/digline) | 9 | Python | 2026-10-21 | Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor |
+| 4 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 28472 | Python | 2026-10-21 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
+| 5 | [Raviteja2k2k/Raviteja2k2k](https://github.com/Raviteja2k2k/Raviteja2k2k) | 0 | Python | 2026-10-21 | Profile of Dr. Ravi Teja Thiriveedhi — clinician turned AI systems architect: multi-agent platforms, AI governance, LLM  |
+| 6 | [Nikit117/kynex-harness](https://github.com/Nikit117/kynex-harness) | 0 | Python | 2026-10-21 | KYNEX - a local, tool-using AI agent that extracts structured data from documents. 92.65 unified value F1 on ExtractBenc |
+| 7 | [NVIDIA-NeMo/nemo-helix](https://github.com/NVIDIA-NeMo/nemo-helix) | 115 | Python | 2026-10-21 | NeMo Helix: Make the agents you ship faster, more accurate, and safer. |
+| 8 | [jakbuczarnecki/intergrax](https://github.com/jakbuczarnecki/intergrax) | 4 | Python | 2026-10-21 | Source-available operating layer for governed AI applications — reuse policy, authority, evidence, execution, and recove |
+| 9 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26217 | TypeScript | 2026-10-21 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 10 | [toxicwind/ranch](https://github.com/toxicwind/ranch) | 0 | Rust | 2026-10-21 | The self-hosted LLM estate in one monorepo — local model serving, cloud provider routing, MCP gateway, build jobs. All O |
+| 11 | [luetzey/who2be](https://github.com/luetzey/who2be) | 0 | Python | 2026-10-21 | Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se |
 | 12 | [MongLong0214/jev-gate](https://github.com/MongLong0214/jev-gate) | 3 | TypeScript | 2026-10-21 | Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code — V3 prototype runs  |
 | 13 | [dataelement/bisheng](https://github.com/dataelement/bisheng) | 12062 | Python | 2026-10-21 | BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur |
 | 14 | [karmendra8386/argus](https://github.com/karmendra8386/argus) | 0 | Python | 2026-10-21 | Argus: the security layer for all AI models — OpenAI-compatible AI gateway with threat detectors, policy enforcement, au |
