@@ -1,12 +1,30 @@
 [
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
+    "description": "Portable agentic SDLC pipeline as a Claude Code plugin: 4 role agents, 2 human gates, unit-tested guardrails, self-impro",
+    "id": "juanjtov/adlc-pipeline",
+    "language": "Shell",
+    "name": "juanjtov/adlc-pipeline",
+    "stars": 0,
+    "updated_at": "2026-10-21T01:29:22Z",
+    "url": "https://github.com/juanjtov/adlc-pipeline"
+  },
+  {
+    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 1,
+    "updated_at": "2026-10-21T01:28:42Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
     "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28470,
-    "updated_at": "2026-10-21T01:15:17Z",
-    "url": "https://github.com/mlflow/mlflow"
+    "name": "BerriAI/litellm",
+    "stars": 61673,
+    "updated_at": "2026-10-21T01:30:13Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Behavioral regression testing for AI apps and agents: pytest plugin, behavior diff, CI gate, and document extraction met",
@@ -14,8 +32,53 @@
     "language": "Python",
     "name": "tap222/assay-evals",
     "stars": 23,
-    "updated_at": "2026-10-21T01:14:18Z",
+    "updated_at": "2026-10-21T01:24:25Z",
     "url": "https://github.com/tap222/assay-evals"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2997,
+    "updated_at": "2026-10-21T01:22:50Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-21T01:21:35Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-10-21T01:17:03Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-21T01:15:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28470,
+    "updated_at": "2026-10-21T01:16:32Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -45,15 +108,6 @@
     "url": "https://github.com/MongLong0214/jev-gate"
   },
   {
-    "description": "Portable agentic SDLC pipeline as a Claude Code plugin: 4 role agents, 2 human gates, unit-tested guardrails, self-impro",
-    "id": "juanjtov/adlc-pipeline",
-    "language": "Shell",
-    "name": "juanjtov/adlc-pipeline",
-    "stars": 0,
-    "updated_at": "2026-10-21T01:13:23Z",
-    "url": "https://github.com/juanjtov/adlc-pipeline"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -61,24 +115,6 @@
     "stars": 26205,
     "updated_at": "2026-10-21T01:07:27Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-21T01:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61673,
-    "updated_at": "2026-10-21T01:15:10Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
@@ -140,7 +176,7 @@
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 115,
-    "updated_at": "2026-10-21T00:37:51Z",
+    "updated_at": "2026-10-21T01:22:03Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -151,15 +187,6 @@
     "stars": 22787,
     "updated_at": "2026-10-21T01:07:08Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-21T00:21:43Z",
-    "url": "https://github.com/toxicwind/ranch"
   },
   {
     "description": "Eval harness for LLM applications: graded YAML suites, cost and latency tracking, and CI regression gating.",
@@ -214,6 +241,15 @@
     "stars": 0,
     "updated_at": "2026-10-20T23:55:51Z",
     "url": "https://github.com/hjongc/openrouter-endpoint-watch"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36100,
+    "updated_at": "2026-10-20T23:55:07Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
@@ -378,20 +414,11 @@
     "url": "https://github.com/TechTideOhio/swarm-357"
   },
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36099,
-    "updated_at": "2026-10-20T23:55:07Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary.",
     "id": "respanai/respan-gateway",
     "language": "Rust",
     "name": "respanai/respan-gateway",
-    "stars": 57,
+    "stars": 58,
     "updated_at": "2026-10-20T22:29:01Z",
     "url": "https://github.com/respanai/respan-gateway"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-20T22:28:18Z",
     "url": "https://github.com/api-evangelist/zenml"
-  },
-  {
-    "description": "TensorZero \u2014 independent third-party profile of a public API surface, by API Evangelist. TensorZero is an open-source, s",
-    "id": "api-evangelist/tensorzero",
-    "language": "\u2014",
-    "name": "api-evangelist/tensorzero",
-    "stars": 0,
-    "updated_at": "2026-10-20T22:25:17Z",
-    "url": "https://github.com/api-evangelist/tensorzero"
-  },
-  {
-    "description": "Raindrop \u2014 independent third-party profile of a public API surface, by API Evangelist. Raindrop is the monitoring and ob",
-    "id": "api-evangelist/raindrop",
-    "language": "\u2014",
-    "name": "api-evangelist/raindrop",
-    "stars": 0,
-    "updated_at": "2026-10-20T22:21:32Z",
-    "url": "https://github.com/api-evangelist/raindrop"
-  },
-  {
-    "description": "\u9876\u7ea7\u5ba1\u7f8e\u7684\u4e2a\u4eba\u535a\u5ba2\uff01\uff01\uff01\u5199\u4e00\u4e9b\u5173\u4e8e AI\u3001Agent\u3001\u6280\u672f\u3001\u4ea7\u54c1\u3001\u8425\u9500\u3001\u4e00\u4e9b\u751f\u6d3b\u601d\u8003\uff0c\u4e2a\u4eba\u6210\u957f\u7c7b\u7684\u7cbe\u6587",
-    "id": "cubxxw/blog",
-    "language": "JavaScript",
-    "name": "cubxxw/blog",
-    "stars": 30,
-    "updated_at": "2026-10-20T22:23:59Z",
-    "url": "https://github.com/cubxxw/blog"
   }
 ]
