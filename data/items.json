@@ -1,12 +1,84 @@
 [
   {
+    "description": "Ship pure LangChain and LangGraph agents to Google Cloud Run with zero google-adk lock-in using the Google Agents CLI Ex",
+    "id": "sanketbisne/scalfod-langgraph-agentscli",
+    "language": "Python",
+    "name": "sanketbisne/scalfod-langgraph-agentscli",
+    "stars": 0,
+    "updated_at": "2026-10-22T07:59:22Z",
+    "url": "https://github.com/sanketbisne/scalfod-langgraph-agentscli"
+  },
+  {
+    "description": "\u9876\u7ea7\u5ba1\u7f8e\u7684\u4e2a\u4eba\u535a\u5ba2\uff01\uff01\uff01\u5199\u4e00\u4e9b\u5173\u4e8e AI\u3001Agent\u3001\u6280\u672f\u3001\u4ea7\u54c1\u3001\u8425\u9500\u3001\u4e00\u4e9b\u751f\u6d3b\u601d\u8003\uff0c\u4e2a\u4eba\u6210\u957f\u7c7b\u7684\u7cbe\u6587",
+    "id": "cubxxw/blog",
+    "language": "JavaScript",
+    "name": "cubxxw/blog",
+    "stars": 30,
+    "updated_at": "2026-10-22T07:59:11Z",
+    "url": "https://github.com/cubxxw/blog"
+  },
+  {
     "description": "Multi-agent freight operations control tower: FastAPI, React, RAG, evals and human-in-the-loop approval. Built by Omprak",
     "id": "OPBSUTHAR/freightops-ai",
     "language": "Python",
     "name": "OPBSUTHAR/freightops-ai",
     "stars": 0,
-    "updated_at": "2026-10-22T07:45:08Z",
+    "updated_at": "2026-10-22T07:55:19Z",
     "url": "https://github.com/OPBSUTHAR/freightops-ai"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-22T07:54:38Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1278,
+    "updated_at": "2026-10-22T07:53:55Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28487,
+    "updated_at": "2026-10-22T07:57:38Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code \u2014 V3 prototype runs ",
+    "id": "MongLong0214/jev-gate",
+    "language": "TypeScript",
+    "name": "MongLong0214/jev-gate",
+    "stars": 3,
+    "updated_at": "2026-10-22T07:47:36Z",
+    "url": "https://github.com/MongLong0214/jev-gate"
+  },
+  {
+    "description": "Production-ready platform for deploying OpenAI-compatible LLM inference on Kubernetes. A one-command installer for enter",
+    "id": "intel/enterprise-ai-solutions",
+    "language": "Shell",
+    "name": "intel/enterprise-ai-solutions",
+    "stars": 10,
+    "updated_at": "2026-10-22T07:46:20Z",
+    "url": "https://github.com/intel/enterprise-ai-solutions"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-22T07:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
@@ -23,7 +95,7 @@
     "language": "Python",
     "name": "ArtVsMark/Engineering-Incidents-Playbook",
     "stars": 5,
-    "updated_at": "2026-10-22T07:44:41Z",
+    "updated_at": "2026-10-22T07:49:50Z",
     "url": "https://github.com/ArtVsMark/Engineering-Incidents-Playbook"
   },
   {
@@ -31,8 +103,8 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 22821,
-    "updated_at": "2026-10-22T07:44:36Z",
+    "stars": 22822,
+    "updated_at": "2026-10-22T07:50:50Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -59,7 +131,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4986,
-    "updated_at": "2026-10-22T07:43:07Z",
+    "updated_at": "2026-10-22T07:49:13Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -81,15 +153,6 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28487,
-    "updated_at": "2026-10-22T07:38:46Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
     "id": "JavisBot-Service/javis-transparency",
     "language": "Python",
@@ -104,7 +167,7 @@
     "language": "Python",
     "name": "luetzey/who2be",
     "stars": 0,
-    "updated_at": "2026-10-22T07:36:18Z",
+    "updated_at": "2026-10-22T07:54:24Z",
     "url": "https://github.com/luetzey/who2be"
   },
   {
@@ -113,7 +176,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 36165,
-    "updated_at": "2026-10-22T07:44:49Z",
+    "updated_at": "2026-10-22T07:53:51Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -122,7 +185,7 @@
     "language": "Python",
     "name": "ZIZKA-AI-SL/ZizkaDB",
     "stars": 142,
-    "updated_at": "2026-10-22T07:32:52Z",
+    "updated_at": "2026-10-22T07:50:58Z",
     "url": "https://github.com/ZIZKA-AI-SL/ZizkaDB"
   },
   {
@@ -130,7 +193,7 @@
     "id": "future-agi/future-agi",
     "language": "Python",
     "name": "future-agi/future-agi",
-    "stars": 2190,
+    "stars": 2191,
     "updated_at": "2026-10-22T07:32:49Z",
     "url": "https://github.com/future-agi/future-agi"
   },
@@ -144,21 +207,12 @@
     "url": "https://github.com/Saipavanavsp/loglens"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-22T07:30:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Claude Code, Codex and Cursor plugin that streams your sessions to Rius as OpenTelemetry traces: prompts, model calls, t",
     "id": "glassflow/rius-coding-agents",
     "language": "Python",
     "name": "glassflow/rius-coding-agents",
     "stars": 2,
-    "updated_at": "2026-10-22T07:29:46Z",
+    "updated_at": "2026-10-22T07:46:17Z",
     "url": "https://github.com/glassflow/rius-coding-agents"
   },
   {
@@ -176,7 +230,7 @@
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 117,
-    "updated_at": "2026-10-22T07:34:48Z",
+    "updated_at": "2026-10-22T07:49:29Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -288,15 +342,6 @@
     "url": "https://github.com/TanbirRamim/callm"
   },
   {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-22T06:57:34Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
     "description": "Terraform provider for Anthropic and Claude organizations: workspaces, members, invites, API keys, service accounts, wor",
     "id": "uttej-badwane/terraform-provider-anthropic-enterprise",
     "language": "Go",
@@ -351,15 +396,6 @@
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
-    "description": "Ship pure LangChain and LangGraph agents to Google Cloud Run with zero google-adk lock-in using the Google Agents CLI Ex",
-    "id": "sanketbisne/scalfod-langgraph-agentscli",
-    "language": "Python",
-    "name": "sanketbisne/scalfod-langgraph-agentscli",
-    "stars": 0,
-    "updated_at": "2026-10-22T06:27:19Z",
-    "url": "https://github.com/sanketbisne/scalfod-langgraph-agentscli"
-  },
-  {
     "description": "Code and results for 'Fuzzy-gated verification of LLM agents for industrial fault diagnosis' (Applied Soft Computing, 20",
     "id": "qqyjx/CL-LLMOps",
     "language": "Python",
@@ -396,15 +432,6 @@
     "url": "https://github.com/langfuse/langfuse-js"
   },
   {
-    "description": "Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code \u2014 V3 prototype runs ",
-    "id": "MongLong0214/jev-gate",
-    "language": "TypeScript",
-    "name": "MongLong0214/jev-gate",
-    "stars": 3,
-    "updated_at": "2026-10-22T07:41:32Z",
-    "url": "https://github.com/MongLong0214/jev-gate"
-  },
-  {
     "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
     "id": "coze-dev/coze-loop",
     "language": "Go",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-22T06:05:54Z",
     "url": "https://github.com/happy520ai/gateway-price-check"
-  },
-  {
-    "description": "One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod",
-    "id": "valteresj2/agent-hangar",
-    "language": "Python",
-    "name": "valteresj2/agent-hangar",
-    "stars": 4,
-    "updated_at": "2026-10-22T06:02:36Z",
-    "url": "https://github.com/valteresj2/agent-hangar"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-22T05:43:06Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "If the agent bill went up and nothing errored, a prompt cache broke. Replay Doctor names the turn it broke on, the cause",
-    "id": "RedRobotKK/Replay",
-    "language": "Go",
-    "name": "RedRobotKK/Replay",
-    "stars": 3,
-    "updated_at": "2026-10-22T05:35:42Z",
-    "url": "https://github.com/RedRobotKK/Replay"
   }
 ]
