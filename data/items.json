@@ -1,12 +1,75 @@
 [
   {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-22T18:10:54Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
     "description": "Deterministic trace-based integration testing for LLM apps",
     "id": "barzoj-co/llmentary",
     "language": "Go",
     "name": "barzoj-co/llmentary",
     "stars": 0,
-    "updated_at": "2026-10-22T17:58:15Z",
+    "updated_at": "2026-10-22T18:11:06Z",
     "url": "https://github.com/barzoj-co/llmentary"
+  },
+  {
+    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
+    "id": "Masterplanner25/aindy-runtime",
+    "language": "Python",
+    "name": "Masterplanner25/aindy-runtime",
+    "stars": 1,
+    "updated_at": "2026-10-22T18:09:58Z",
+    "url": "https://github.com/Masterplanner25/aindy-runtime"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 9558,
+    "updated_at": "2026-10-22T18:08:06Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
+    "id": "NVIDIA-NeMo/nemo-helix",
+    "language": "Python",
+    "name": "NVIDIA-NeMo/nemo-helix",
+    "stars": 122,
+    "updated_at": "2026-10-22T18:13:42Z",
+    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 42,
+    "updated_at": "2026-10-22T18:04:53Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
+    "id": "luetzey/who2be",
+    "language": "Python",
+    "name": "luetzey/who2be",
+    "stars": 0,
+    "updated_at": "2026-10-22T18:03:50Z",
+    "url": "https://github.com/luetzey/who2be"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-22T18:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
@@ -23,17 +86,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 36193,
-    "updated_at": "2026-10-22T17:53:51Z",
+    "updated_at": "2026-10-22T18:15:02Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 42,
-    "updated_at": "2026-10-22T17:50:15Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio",
@@ -63,15 +117,6 @@
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-22T17:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Portable BYO-model agent workflows for cost-aware, personalized software development automation across CLI, VS Code, Cur",
     "id": "jasonneo99/agent-workflow",
     "language": "TypeScript",
@@ -79,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-10-22T17:43:28Z",
     "url": "https://github.com/jasonneo99/agent-workflow"
-  },
-  {
-    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
-    "id": "NVIDIA-NeMo/nemo-helix",
-    "language": "Python",
-    "name": "NVIDIA-NeMo/nemo-helix",
-    "stars": 122,
-    "updated_at": "2026-10-22T17:58:00Z",
-    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
     "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
@@ -104,7 +140,7 @@
     "language": "Python",
     "name": "overmind-core/overmind",
     "stars": 677,
-    "updated_at": "2026-10-22T17:29:26Z",
+    "updated_at": "2026-10-22T18:04:28Z",
     "url": "https://github.com/overmind-core/overmind"
   },
   {
@@ -167,7 +203,7 @@
     "language": "Python",
     "name": "evalshift/evalshift-cli",
     "stars": 5,
-    "updated_at": "2026-10-22T17:24:51Z",
+    "updated_at": "2026-10-22T18:03:45Z",
     "url": "https://github.com/evalshift/evalshift-cli"
   },
   {
@@ -221,7 +257,7 @@
     "language": "Python",
     "name": "Chris0Jeky/llm-release-gate",
     "stars": 1,
-    "updated_at": "2026-10-22T17:09:24Z",
+    "updated_at": "2026-10-22T18:15:14Z",
     "url": "https://github.com/Chris0Jeky/llm-release-gate"
   },
   {
@@ -232,15 +268,6 @@
     "stars": 2,
     "updated_at": "2026-10-22T17:08:35Z",
     "url": "https://github.com/zhaoxinghua09-cell/agent-skills"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-22T17:07:58Z",
-    "url": "https://github.com/toxicwind/ranch"
   },
   {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
@@ -259,6 +286,15 @@
     "stars": 1,
     "updated_at": "2026-10-22T17:05:21Z",
     "url": "https://github.com/holetz/quenching"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8945,
+    "updated_at": "2026-10-22T17:03:49Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Comet \u2014 independent third-party profile of a public API surface, by API Evangelist. Comet is an enterprise AI/ML develop",
@@ -293,7 +329,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4988,
-    "updated_at": "2026-10-22T17:57:52Z",
+    "updated_at": "2026-10-22T18:05:31Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -373,7 +409,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 28494,
+    "stars": 28495,
     "updated_at": "2026-10-22T16:10:50Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -396,15 +432,6 @@
     "url": "https://github.com/QuantumEdu/q-agent"
   },
   {
-    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
-    "id": "luetzey/who2be",
-    "language": "Python",
-    "name": "luetzey/who2be",
-    "stars": 0,
-    "updated_at": "2026-10-22T17:58:40Z",
-    "url": "https://github.com/luetzey/who2be"
-  },
-  {
     "description": "Vendor-neutral enterprise AI architecture and practical leadership: discovery, decisions, 24 lifecycles, 8 reference des",
     "id": "MrKyaw/Enterprise-AI-Reference-Architecture",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-22T15:50:02Z",
     "url": "https://github.com/NakliTechie/ferrule"
-  },
-  {
-    "description": "Self-healing AI gateway & multi-agent DAG orchestration engine. Decomposes prompts into parallel workstreams, multiplexe",
-    "id": "ajayraj30002/wrap",
-    "language": "Python",
-    "name": "ajayraj30002/wrap",
-    "stars": 0,
-    "updated_at": "2026-10-22T15:44:10Z",
-    "url": "https://github.com/ajayraj30002/wrap"
-  },
-  {
-    "description": "The execution control plane for AI agents. Govern every model request, MCP tool call, A2A delegation, and downstream act",
-    "id": "GetBusbar/busbar",
-    "language": "Rust",
-    "name": "GetBusbar/busbar",
-    "stars": 211,
-    "updated_at": "2026-10-22T15:42:08Z",
-    "url": "https://github.com/GetBusbar/busbar"
-  },
-  {
-    "description": "Self-hosted AI Agents Platform for AI Native companies. Claude Code, Codex, Gemini, OpenCode agents. Apache 2.0.  ",
-    "id": "Abilityai/trinity",
-    "language": "Python",
-    "name": "Abilityai/trinity",
-    "stars": 691,
-    "updated_at": "2026-10-22T16:20:19Z",
-    "url": "https://github.com/Abilityai/trinity"
   }
 ]
