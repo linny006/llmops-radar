@@ -1,21 +1,102 @@
 [
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 42,
-    "updated_at": "2026-10-22T05:15:10Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Self-hostable observability SDK for continuous grounding-risk and drift monitoring in multi-agent LLM systems",
     "id": "Soum-Code/agentpulse",
     "language": "Python",
     "name": "Soum-Code/agentpulse",
     "stars": 0,
-    "updated_at": "2026-10-22T05:13:19Z",
+    "updated_at": "2026-10-22T05:30:16Z",
     "url": "https://github.com/Soum-Code/agentpulse"
+  },
+  {
+    "description": "Governed AI pipelines for service businesses. Deterministic-first, single Go binary, operator-approved.",
+    "id": "renezander030/draftcat",
+    "language": "Go",
+    "name": "renezander030/draftcat",
+    "stars": 9,
+    "updated_at": "2026-10-22T05:30:05Z",
+    "url": "https://github.com/renezander030/draftcat"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 201,
+    "updated_at": "2026-10-22T05:29:48Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary.",
+    "id": "respanai/respan-gateway",
+    "language": "Rust",
+    "name": "respanai/respan-gateway",
+    "stars": 128,
+    "updated_at": "2026-10-22T05:27:41Z",
+    "url": "https://github.com/respanai/respan-gateway"
+  },
+  {
+    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
+    "id": "rknightion/genai-otel-bridge",
+    "language": "Go",
+    "name": "rknightion/genai-otel-bridge",
+    "stars": 1,
+    "updated_at": "2026-10-22T05:27:12Z",
+    "url": "https://github.com/rknightion/genai-otel-bridge"
+  },
+  {
+    "description": "Template for small, safe AI agents in pure Python: cost caps in code, tool-less LLM client, \"I don't know\" as a valid re",
+    "id": "tonyweckstrom1987/agentti-pohja",
+    "language": "Python",
+    "name": "tonyweckstrom1987/agentti-pohja",
+    "stars": 0,
+    "updated_at": "2026-10-22T05:25:21Z",
+    "url": "https://github.com/tonyweckstrom1987/agentti-pohja"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 42,
+    "updated_at": "2026-10-22T05:23:35Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
+    "language": "Python",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 53,
+    "updated_at": "2026-10-22T05:24:27Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Python",
+    "name": "alibaba/rtp-llm",
+    "stars": 1366,
+    "updated_at": "2026-10-22T05:21:02Z",
+    "url": "https://github.com/alibaba/rtp-llm"
+  },
+  {
+    "description": "One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod",
+    "id": "valteresj2/agent-hangar",
+    "language": "Python",
+    "name": "valteresj2/agent-hangar",
+    "stars": 4,
+    "updated_at": "2026-10-22T05:19:32Z",
+    "url": "https://github.com/valteresj2/agent-hangar"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-22T05:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
@@ -50,7 +131,7 @@
     "language": "TypeScript",
     "name": "MongLong0214/jev-gate",
     "stars": 3,
-    "updated_at": "2026-10-22T05:07:03Z",
+    "updated_at": "2026-10-22T05:30:21Z",
     "url": "https://github.com/MongLong0214/jev-gate"
   },
   {
@@ -63,30 +144,12 @@
     "url": "https://github.com/holetz/quenching"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-22T05:00:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Template for small, safe AI agents in pure Python: cost caps in code, tool-less LLM client, \"I don't know\" as a valid re",
-    "id": "tonyweckstrom1987/agentti-pohja",
-    "language": "Python",
-    "name": "tonyweckstrom1987/agentti-pohja",
-    "stars": 0,
-    "updated_at": "2026-10-22T04:59:58Z",
-    "url": "https://github.com/tonyweckstrom1987/agentti-pohja"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28482,
-    "updated_at": "2026-10-22T05:06:25Z",
+    "updated_at": "2026-10-22T05:27:28Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -95,7 +158,7 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 42,
-    "updated_at": "2026-10-22T04:55:52Z",
+    "updated_at": "2026-10-22T05:26:19Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
@@ -131,7 +194,7 @@
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 117,
-    "updated_at": "2026-10-22T04:47:40Z",
+    "updated_at": "2026-10-22T05:26:18Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -171,13 +234,13 @@
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
-    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
-    "id": "rknightion/genai-otel-bridge",
-    "language": "Go",
-    "name": "rknightion/genai-otel-bridge",
-    "stars": 1,
-    "updated_at": "2026-10-22T04:22:41Z",
-    "url": "https://github.com/rknightion/genai-otel-bridge"
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8937,
+    "updated_at": "2026-10-22T04:21:05Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -203,7 +266,7 @@
     "language": "TypeScript",
     "name": "burakdede/lorepack",
     "stars": 4,
-    "updated_at": "2026-10-22T04:30:29Z",
+    "updated_at": "2026-10-22T05:28:11Z",
     "url": "https://github.com/burakdede/lorepack"
   },
   {
@@ -221,7 +284,7 @@
     "language": "Python",
     "name": "llmspendguard/llm-spendguard",
     "stars": 0,
-    "updated_at": "2026-10-22T04:49:50Z",
+    "updated_at": "2026-10-22T05:16:51Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
@@ -248,7 +311,7 @@
     "language": "Python",
     "name": "Arize-ai/openinference",
     "stars": 1278,
-    "updated_at": "2026-10-22T03:28:03Z",
+    "updated_at": "2026-10-22T05:29:48Z",
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
@@ -266,7 +329,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 2188,
-    "updated_at": "2026-10-22T05:11:05Z",
+    "updated_at": "2026-10-22T05:21:42Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -297,21 +360,12 @@
     "url": "https://github.com/Abilityai/trinity"
   },
   {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8936,
-    "updated_at": "2026-10-22T04:21:05Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22816,
-    "updated_at": "2026-10-22T02:59:47Z",
+    "updated_at": "2026-10-22T05:29:48Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -374,7 +428,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 36158,
-    "updated_at": "2026-10-22T02:44:13Z",
+    "updated_at": "2026-10-22T05:28:52Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-22T02:35:28Z",
     "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary.",
-    "id": "respanai/respan-gateway",
-    "language": "Rust",
-    "name": "respanai/respan-gateway",
-    "stars": 127,
-    "updated_at": "2026-10-22T04:06:55Z",
-    "url": "https://github.com/respanai/respan-gateway"
-  },
-  {
-    "description": "Tamper-evident, stranger-verifiable receipts for LLM cost-savings \u2014 anyone can recompute your caching/routing savings ma",
-    "id": "thequantumfalcon/kry",
-    "language": "Python",
-    "name": "thequantumfalcon/kry",
-    "stars": 1,
-    "updated_at": "2026-10-22T02:26:55Z",
-    "url": "https://github.com/thequantumfalcon/kry"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-10-22T02:26:06Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 201,
-    "updated_at": "2026-10-22T04:50:23Z",
-    "url": "https://github.com/api7/aisix"
-  },
-  {
-    "description": "Analyze a coding session log and report repeated tool calls, loops that went nowhere, and turns that blew the token budg",
-    "id": "yunaremaia/agent-call-graph",
-    "language": "Python",
-    "name": "yunaremaia/agent-call-graph",
-    "stars": 0,
-    "updated_at": "2026-10-22T02:24:53Z",
-    "url": "https://github.com/yunaremaia/agent-call-graph"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 719,
-    "updated_at": "2026-10-22T02:20:45Z",
-    "url": "https://github.com/mozilla-ai/otari"
   }
 ]
