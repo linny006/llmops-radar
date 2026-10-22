@@ -1,12 +1,84 @@
 [
   {
+    "description": "One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary.",
+    "id": "respanai/respan-gateway",
+    "language": "Rust",
+    "name": "respanai/respan-gateway",
+    "stars": 124,
+    "updated_at": "2026-10-22T01:29:27Z",
+    "url": "https://github.com/respanai/respan-gateway"
+  },
+  {
     "description": "Open-source AI on-call engineer for AWS. An alarm comes in, WARDEN reads the evidence, the AI proposes one fix from a cl",
     "id": "veerarakesh56/warden",
     "language": "Python",
     "name": "veerarakesh56/warden",
     "stars": 0,
-    "updated_at": "2026-10-22T01:15:13Z",
+    "updated_at": "2026-10-22T01:29:14Z",
     "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2996,
+    "updated_at": "2026-10-22T01:26:37Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code \u2014 V3 prototype runs ",
+    "id": "MongLong0214/jev-gate",
+    "language": "TypeScript",
+    "name": "MongLong0214/jev-gate",
+    "stars": 3,
+    "updated_at": "2026-10-22T01:25:52Z",
+    "url": "https://github.com/MongLong0214/jev-gate"
+  },
+  {
+    "description": "Master project orchestrator featuring Dual Engine (Gentle-AI Integrated ODD vs Standalone), Article ARQ-01 Vertical Slic",
+    "id": "QuantumEdu/q-agent",
+    "language": "Python",
+    "name": "QuantumEdu/q-agent",
+    "stars": 0,
+    "updated_at": "2026-10-22T01:24:04Z",
+    "url": "https://github.com/QuantumEdu/q-agent"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 42,
+    "updated_at": "2026-10-22T01:19:41Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-22T01:19:30Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-22T01:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Agent Memory Health Monitor \u2014 scan AI agent memory stores for rot, contradictions, and duplicates",
+    "id": "yunaremaia/memwatch",
+    "language": "Python",
+    "name": "yunaremaia/memwatch",
+    "stars": 1,
+    "updated_at": "2026-10-22T01:15:20Z",
+    "url": "https://github.com/yunaremaia/memwatch"
   },
   {
     "description": "If the agent bill went up and nothing errored, a prompt cache broke. Replay Doctor names the turn it broke on, the cause",
@@ -27,15 +99,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2996,
-    "updated_at": "2026-10-22T01:11:27Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "Detect drift between LLM prompts and their evaluation tests \u2014 when prompts change but evals don't",
     "id": "yunaremaia/prompt-drift",
     "language": "Python",
@@ -50,7 +113,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22810,
-    "updated_at": "2026-10-22T01:11:38Z",
+    "updated_at": "2026-10-22T01:20:48Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -108,20 +171,11 @@
     "url": "https://github.com/cbeyondcloud/TokenLean"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-22T01:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 28482,
+    "stars": 28481,
     "updated_at": "2026-10-22T00:59:26Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -131,17 +185,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 26247,
-    "updated_at": "2026-10-22T01:08:38Z",
+    "updated_at": "2026-10-22T01:29:27Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code \u2014 V3 prototype runs ",
-    "id": "MongLong0214/jev-gate",
-    "language": "TypeScript",
-    "name": "MongLong0214/jev-gate",
-    "stars": 3,
-    "updated_at": "2026-10-22T00:58:30Z",
-    "url": "https://github.com/MongLong0214/jev-gate"
   },
   {
     "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
@@ -185,7 +230,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 2,
-    "updated_at": "2026-10-22T00:31:00Z",
+    "updated_at": "2026-10-22T01:25:35Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -203,7 +248,7 @@
     "language": "Python",
     "name": "llmspendguard/llm-spendguard",
     "stars": 0,
-    "updated_at": "2026-10-22T00:51:41Z",
+    "updated_at": "2026-10-22T01:26:39Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
@@ -230,17 +275,8 @@
     "language": "Go",
     "name": "rknightion/genai-otel-bridge",
     "stars": 1,
-    "updated_at": "2026-10-22T00:22:59Z",
+    "updated_at": "2026-10-22T01:24:12Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-22T00:48:37Z",
-    "url": "https://github.com/toxicwind/ranch"
   },
   {
     "description": "The gagarin CLI \u2014 deploy and operate applications on gagarin. Ships the agent skill inside the binary.",
@@ -279,15 +315,6 @@
     "url": "https://github.com/burakdede/lorepack"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 42,
-    "updated_at": "2026-10-22T00:11:19Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "\u26a1 FloydIA Suite (F-Suite) \u2014 Centro de Comando Unificado, Telemetr\u00eda LLM, SRE Governor y Orquestador MCP para Linux Deskt",
     "id": "floydiamarkv-byte/floydia-suite-desktop",
     "language": "Python",
@@ -304,15 +331,6 @@
     "stars": 30676,
     "updated_at": "2026-10-22T00:55:58Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Master project orchestrator featuring Dual Engine (Gentle-AI Integrated ODD vs Standalone), Article ARQ-01 Vertical Slic",
-    "id": "QuantumEdu/q-agent",
-    "language": "Python",
-    "name": "QuantumEdu/q-agent",
-    "stars": 0,
-    "updated_at": "2026-10-22T00:04:05Z",
-    "url": "https://github.com/QuantumEdu/q-agent"
   },
   {
     "description": "Profile of Dr. Ravi Teja Thiriveedhi \u2014 clinician turned AI systems architect: multi-agent platforms, AI governance, LLM ",
@@ -430,23 +448,5 @@
     "stars": 9,
     "updated_at": "2026-10-22T00:47:21Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod",
-    "id": "valteresj2/agent-hangar",
-    "language": "Python",
-    "name": "valteresj2/agent-hangar",
-    "stars": 4,
-    "updated_at": "2026-10-21T23:18:34Z",
-    "url": "https://github.com/valteresj2/agent-hangar"
-  },
-  {
-    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-10-21T23:11:14Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
   }
 ]
