@@ -1,5 +1,113 @@
 [
   {
+    "description": "Operating kit for a coordinator agent and headless Claude Code workers: hooks, launcher, skills, verification essays. Bu",
+    "id": "TnSrb1/agent-ops",
+    "language": "Python",
+    "name": "TnSrb1/agent-ops",
+    "stars": 0,
+    "updated_at": "2026-10-22T13:44:10Z",
+    "url": "https://github.com/TnSrb1/agent-ops"
+  },
+  {
+    "description": "Multi-agent IT/HR help desk on LangChain + LangGraph: ReAct-style sub-agents, hybrid RAG, HITL GitHub tickets. Prompt, c",
+    "id": "pbhat123/SmartDesk_AI",
+    "language": "Python",
+    "name": "pbhat123/SmartDesk_AI",
+    "stars": 0,
+    "updated_at": "2026-10-22T13:43:01Z",
+    "url": "https://github.com/pbhat123/SmartDesk_AI"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22829,
+    "updated_at": "2026-10-22T13:44:16Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Self-hosted coding assistant that routes each request to the cheapest model that can handle it",
+    "id": "optiware-ai/optimux",
+    "language": "Python",
+    "name": "optiware-ai/optimux",
+    "stars": 1,
+    "updated_at": "2026-10-22T13:38:11Z",
+    "url": "https://github.com/optiware-ai/optimux"
+  },
+  {
+    "description": "Claude Code, Codex and Cursor plugin that streams your sessions to Rius as OpenTelemetry traces: prompts, model calls, t",
+    "id": "glassflow/rius-coding-agents",
+    "language": "Python",
+    "name": "glassflow/rius-coding-agents",
+    "stars": 2,
+    "updated_at": "2026-10-22T13:36:19Z",
+    "url": "https://github.com/glassflow/rius-coding-agents"
+  },
+  {
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
+    "language": "Python",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 53,
+    "updated_at": "2026-10-22T13:34:50Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
+    "description": "Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio",
+    "id": "naim-munshi/metriqen-llm-serving-optimization",
+    "language": "Python",
+    "name": "naim-munshi/metriqen-llm-serving-optimization",
+    "stars": 0,
+    "updated_at": "2026-10-22T13:33:33Z",
+    "url": "https://github.com/naim-munshi/metriqen-llm-serving-optimization"
+  },
+  {
+    "description": "Open-source replay and evidence infrastructure for AI agents. Capture runs as portable Run Capsules for replay, diff, li",
+    "id": "MSKazemi/novafabric",
+    "language": "Python",
+    "name": "MSKazemi/novafabric",
+    "stars": 7,
+    "updated_at": "2026-10-22T13:33:26Z",
+    "url": "https://github.com/MSKazemi/novafabric"
+  },
+  {
+    "description": "Open, self-hosted LLM routing proxy: routes each request to the cheapest capable model across Anthropic, OpenAI and Gemi",
+    "id": "Fortitude-Group/OmnisRouter",
+    "language": "C#",
+    "name": "Fortitude-Group/OmnisRouter",
+    "stars": 5,
+    "updated_at": "2026-10-22T13:33:03Z",
+    "url": "https://github.com/Fortitude-Group/OmnisRouter"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-22T13:30:34Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 2,
+    "updated_at": "2026-10-22T13:30:15Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 3000,
+    "updated_at": "2026-10-22T13:27:45Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -32,7 +140,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 726,
-    "updated_at": "2026-10-22T13:24:46Z",
+    "updated_at": "2026-10-22T13:39:28Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -41,17 +149,8 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28492,
-    "updated_at": "2026-10-22T13:27:26Z",
+    "updated_at": "2026-10-22T13:39:29Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22828,
-    "updated_at": "2026-10-22T13:29:37Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "System 0 for your LLM: learns the fixed-choice answers your LLM gives (intents, routing, moderation) and serves the repe",
@@ -68,7 +167,7 @@
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 27,
-    "updated_at": "2026-10-22T13:29:23Z",
+    "updated_at": "2026-10-22T13:34:09Z",
     "url": "https://github.com/AixleHQ/flow"
   },
   {
@@ -88,15 +187,6 @@
     "stars": 675,
     "updated_at": "2026-10-22T13:18:54Z",
     "url": "https://github.com/overmind-core/overmind"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2999,
-    "updated_at": "2026-10-22T13:27:45Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "MLOps system for daily gold price prediction \u2014 five competing models, automatic Data/Concept Drift detection, retraining",
@@ -126,21 +216,12 @@
     "url": "https://github.com/Muditkumar123/agentic-document-intelligence-platform"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-22T13:15:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
     "id": "korczis/prismatic-majordomus",
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-22T13:13:37Z",
+    "updated_at": "2026-10-22T13:31:15Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -176,7 +257,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4987,
-    "updated_at": "2026-10-22T13:24:54Z",
+    "updated_at": "2026-10-22T13:40:44Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -203,7 +284,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 36182,
-    "updated_at": "2026-10-22T13:29:32Z",
+    "updated_at": "2026-10-22T13:43:50Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -216,21 +297,12 @@
     "url": "https://github.com/pragmatiks/pragma-providers"
   },
   {
-    "description": "Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio",
-    "id": "naim-munshi/metriqen-llm-serving-optimization",
-    "language": "Python",
-    "name": "naim-munshi/metriqen-llm-serving-optimization",
-    "stars": 0,
-    "updated_at": "2026-10-22T13:29:16Z",
-    "url": "https://github.com/naim-munshi/metriqen-llm-serving-optimization"
-  },
-  {
     "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
     "id": "luetzey/who2be",
     "language": "Python",
     "name": "luetzey/who2be",
     "stars": 0,
-    "updated_at": "2026-10-22T12:49:01Z",
+    "updated_at": "2026-10-22T13:41:29Z",
     "url": "https://github.com/luetzey/who2be"
   },
   {
@@ -320,7 +392,7 @@
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 122,
-    "updated_at": "2026-10-22T12:39:44Z",
+    "updated_at": "2026-10-22T13:41:14Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 28,
     "updated_at": "2026-10-22T12:29:09Z",
     "url": "https://github.com/francordel/myrtia"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 2192,
-    "updated_at": "2026-10-22T12:24:39Z",
-    "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
-    "id": "burakdede/lorepack",
-    "language": "TypeScript",
-    "name": "burakdede/lorepack",
-    "stars": 4,
-    "updated_at": "2026-10-22T12:24:36Z",
-    "url": "https://github.com/burakdede/lorepack"
-  },
-  {
-    "description": "Template repository for plugin creation for mloda.ai ",
-    "id": "mloda-ai/mloda-plugin-template",
-    "language": "Python",
-    "name": "mloda-ai/mloda-plugin-template",
-    "stars": 1,
-    "updated_at": "2026-10-22T12:22:15Z",
-    "url": "https://github.com/mloda-ai/mloda-plugin-template"
-  },
-  {
-    "description": "Agent trace observability: span trees, PII-redacted traces, cost and latency analytics, budget caps, failure mining",
-    "id": "jagadishmazure-jpg/Jagadish-agent-trace-observability",
-    "language": "Python",
-    "name": "jagadishmazure-jpg/Jagadish-agent-trace-observability",
-    "stars": 0,
-    "updated_at": "2026-10-22T12:21:02Z",
-    "url": "https://github.com/jagadishmazure-jpg/Jagadish-agent-trace-observability"
-  },
-  {
-    "description": "Provider-agnostic AI dev pipeline: clarify \u2192 plan \u2192 build \u2192 review \u2192 PR across your repos, mixing LLM providers per stag",
-    "id": "esanmohammad/Anvil",
-    "language": "TypeScript",
-    "name": "esanmohammad/Anvil",
-    "stars": 18,
-    "updated_at": "2026-10-22T12:21:02Z",
-    "url": "https://github.com/esanmohammad/Anvil"
-  },
-  {
-    "description": "\u9876\u7ea7\u5ba1\u7f8e\u7684\u4e2a\u4eba\u535a\u5ba2\uff01\uff01\uff01\u5199\u4e00\u4e9b\u5173\u4e8e AI\u3001Agent\u3001\u6280\u672f\u3001\u4ea7\u54c1\u3001\u8425\u9500\u3001\u4e00\u4e9b\u751f\u6d3b\u601d\u8003\uff0c\u4e2a\u4eba\u6210\u957f\u7c7b\u7684\u7cbe\u6587",
-    "id": "cubxxw/blog",
-    "language": "JavaScript",
-    "name": "cubxxw/blog",
-    "stars": 30,
-    "updated_at": "2026-10-22T13:28:43Z",
-    "url": "https://github.com/cubxxw/blog"
-  },
-  {
-    "description": ".NET 10 library for LLM apps: one ITextClient that routes and fails over across OpenAI, Azure OpenAI, OpenRouter, Ollama",
-    "id": "JiarongGu/Lyntai",
-    "language": "C#",
-    "name": "JiarongGu/Lyntai",
-    "stars": 2,
-    "updated_at": "2026-10-22T12:19:27Z",
-    "url": "https://github.com/JiarongGu/Lyntai"
-  },
-  {
-    "description": "Self-hosted coding assistant that routes each request to the cheapest model that can handle it",
-    "id": "optiware-ai/optimux",
-    "language": "Python",
-    "name": "optiware-ai/optimux",
-    "stars": 1,
-    "updated_at": "2026-10-22T12:18:12Z",
-    "url": "https://github.com/optiware-ai/optimux"
   }
 ]
