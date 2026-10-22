@@ -1,5 +1,77 @@
 [
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28482,
+    "updated_at": "2026-10-22T04:15:08Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
+    "id": "holetz/quenching",
+    "language": "Python",
+    "name": "holetz/quenching",
+    "stars": 1,
+    "updated_at": "2026-10-22T04:15:27Z",
+    "url": "https://github.com/holetz/quenching"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-22T04:10:16Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-22T04:07:49Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "50+ curated LLM observability tools PLUS 26 Agent Skills (several with runnable, unit-tested scripts) to build, evaluate",
+    "id": "ContextJet-ai/awesome-llm-observability",
+    "language": "Python",
+    "name": "ContextJet-ai/awesome-llm-observability",
+    "stars": 42,
+    "updated_at": "2026-10-22T04:07:29Z",
+    "url": "https://github.com/ContextJet-ai/awesome-llm-observability"
+  },
+  {
+    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
+    "id": "burakdede/lorepack",
+    "language": "TypeScript",
+    "name": "burakdede/lorepack",
+    "stars": 4,
+    "updated_at": "2026-10-22T04:06:03Z",
+    "url": "https://github.com/burakdede/lorepack"
+  },
+  {
+    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
+    "id": "NVIDIA-NeMo/nemo-helix",
+    "language": "Python",
+    "name": "NVIDIA-NeMo/nemo-helix",
+    "stars": 117,
+    "updated_at": "2026-10-22T04:13:13Z",
+    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-22T04:00:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
     "id": "sarkars/agent-failure-modes",
     "language": "Python",
@@ -18,40 +90,13 @@
     "url": "https://github.com/RedRobotKK/Replay"
   },
   {
-    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
-    "id": "NVIDIA-NeMo/nemo-helix",
-    "language": "Python",
-    "name": "NVIDIA-NeMo/nemo-helix",
-    "stars": 117,
-    "updated_at": "2026-10-22T03:48:40Z",
-    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
-  },
-  {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "Python",
     "name": "vllm-project/vllm-ascend",
-    "stars": 2997,
+    "stars": 2998,
     "updated_at": "2026-10-22T03:46:39Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
-    "id": "holetz/quenching",
-    "language": "Python",
-    "name": "holetz/quenching",
-    "stars": 1,
-    "updated_at": "2026-10-22T04:00:26Z",
-    "url": "https://github.com/holetz/quenching"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-22T03:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Agentic Runtime",
@@ -68,7 +113,7 @@
     "language": "TypeScript",
     "name": "MongLong0214/jev-gate",
     "stars": 3,
-    "updated_at": "2026-10-22T03:43:54Z",
+    "updated_at": "2026-10-22T04:10:54Z",
     "url": "https://github.com/MongLong0214/jev-gate"
   },
   {
@@ -95,7 +140,7 @@
     "language": "Python",
     "name": "apowerb/apowerb",
     "stars": 149,
-    "updated_at": "2026-10-22T03:30:24Z",
+    "updated_at": "2026-10-22T04:07:04Z",
     "url": "https://github.com/apowerb/apowerb"
   },
   {
@@ -133,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-10-22T03:25:15Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
-    "description": "50+ curated LLM observability tools PLUS 26 Agent Skills (several with runnable, unit-tested scripts) to build, evaluate",
-    "id": "ContextJet-ai/awesome-llm-observability",
-    "language": "Python",
-    "name": "ContextJet-ai/awesome-llm-observability",
-    "stars": 42,
-    "updated_at": "2026-10-22T03:23:32Z",
-    "url": "https://github.com/ContextJet-ai/awesome-llm-observability"
   },
   {
     "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
@@ -189,21 +225,12 @@
     "url": "https://github.com/coze-dev/coze-loop"
   },
   {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-22T03:10:37Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
     "description": "Self-hosted AI Agents Platform for AI Native companies. Claude Code, Codex, Gemini, OpenCode agents. Apache 2.0.  ",
     "id": "Abilityai/trinity",
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 690,
-    "updated_at": "2026-10-22T03:07:47Z",
+    "updated_at": "2026-10-22T04:12:46Z",
     "url": "https://github.com/Abilityai/trinity"
   },
   {
@@ -220,7 +247,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 22814,
+    "stars": 22815,
     "updated_at": "2026-10-22T02:59:47Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -241,15 +268,6 @@
     "stars": 7,
     "updated_at": "2026-10-22T02:52:05Z",
     "url": "https://github.com/vijaym2k6/SteerPlane"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28482,
-    "updated_at": "2026-10-22T02:53:21Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Run coding agents without babysitting them. Keep jobs focused, bounded, checked and accountable from start to finish. Fi",
@@ -320,7 +338,7 @@
     "language": "Rust",
     "name": "respanai/respan-gateway",
     "stars": 127,
-    "updated_at": "2026-10-22T03:54:07Z",
+    "updated_at": "2026-10-22T04:06:55Z",
     "url": "https://github.com/respanai/respan-gateway"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 10,
     "updated_at": "2026-10-22T02:15:10Z",
     "url": "https://github.com/redevops-io/sidekick"
-  },
-  {
-    "description": "Hybrid RAG (DuckDB vector + BM25 + RRF + recency/keyword priors + optional cross-encoder rerank) as an installable libra",
-    "id": "redevops-io/redevops-rag",
-    "language": "Python",
-    "name": "redevops-io/redevops-rag",
-    "stars": 9,
-    "updated_at": "2026-10-22T02:04:15Z",
-    "url": "https://github.com/redevops-io/redevops-rag"
-  },
-  {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-10-22T02:24:52Z",
-    "url": "https://github.com/redevops-io/agentic-os"
   }
 ]
