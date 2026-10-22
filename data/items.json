@@ -1,5 +1,59 @@
 [
   {
+    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-10-22T04:44:45Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 42,
+    "updated_at": "2026-10-22T04:42:09Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
+    "id": "luetzey/who2be",
+    "language": "Python",
+    "name": "luetzey/who2be",
+    "stars": 0,
+    "updated_at": "2026-10-22T04:41:30Z",
+    "url": "https://github.com/luetzey/who2be"
+  },
+  {
+    "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
+    "id": "holetz/quenching",
+    "language": "Python",
+    "name": "holetz/quenching",
+    "stars": 1,
+    "updated_at": "2026-10-22T04:45:20Z",
+    "url": "https://github.com/holetz/quenching"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28482,
+    "updated_at": "2026-10-22T04:39:00Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-22T04:30:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Self-hostable observability SDK for continuous grounding-risk and drift monitoring in multi-agent LLM systems",
     "id": "Soum-Code/agentpulse",
     "language": "Python",
@@ -27,15 +81,6 @@
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
-    "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
-    "id": "holetz/quenching",
-    "language": "Python",
-    "name": "holetz/quenching",
-    "stars": 1,
-    "updated_at": "2026-10-22T04:28:50Z",
-    "url": "https://github.com/holetz/quenching"
-  },
-  {
     "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
     "id": "rknightion/genai-otel-bridge",
     "language": "Go",
@@ -50,17 +95,8 @@
     "language": "TypeScript",
     "name": "MongLong0214/jev-gate",
     "stars": 3,
-    "updated_at": "2026-10-22T04:20:07Z",
+    "updated_at": "2026-10-22T04:42:49Z",
     "url": "https://github.com/MongLong0214/jev-gate"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 42,
-    "updated_at": "2026-10-22T04:18:24Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "AI agent execution governance: pre-effect authorization, single-use permissions, policy enforcement, and verifiable reco",
@@ -70,24 +106,6 @@
     "stars": 42,
     "updated_at": "2026-10-22T04:24:55Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-22T04:15:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28482,
-    "updated_at": "2026-10-22T04:15:08Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
@@ -122,7 +140,7 @@
     "language": "TypeScript",
     "name": "burakdede/lorepack",
     "stars": 4,
-    "updated_at": "2026-10-22T04:06:03Z",
+    "updated_at": "2026-10-22T04:30:29Z",
     "url": "https://github.com/burakdede/lorepack"
   },
   {
@@ -202,27 +220,9 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26251,
+    "stars": 26252,
     "updated_at": "2026-10-22T03:25:45Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
-    "id": "luetzey/who2be",
-    "language": "Python",
-    "name": "luetzey/who2be",
-    "stars": 0,
-    "updated_at": "2026-10-22T04:18:17Z",
-    "url": "https://github.com/luetzey/who2be"
-  },
-  {
-    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-10-22T03:19:28Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
@@ -230,7 +230,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 2188,
-    "updated_at": "2026-10-22T03:56:44Z",
+    "updated_at": "2026-10-22T04:44:24Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -257,7 +257,7 @@
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 690,
-    "updated_at": "2026-10-22T04:12:46Z",
+    "updated_at": "2026-10-22T04:42:12Z",
     "url": "https://github.com/Abilityai/trinity"
   },
   {
@@ -302,7 +302,7 @@
     "language": "TypeScript",
     "name": "Keesan12/martin-loop",
     "stars": 411,
-    "updated_at": "2026-10-22T04:22:38Z",
+    "updated_at": "2026-10-22T04:33:44Z",
     "url": "https://github.com/Keesan12/martin-loop"
   },
   {
