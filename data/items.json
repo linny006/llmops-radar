@@ -1,12 +1,21 @@
 [
   {
-    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
-    "id": "NVIDIA-NeMo/nemo-helix",
+    "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
+    "id": "holetz/quenching",
     "language": "Python",
-    "name": "NVIDIA-NeMo/nemo-helix",
-    "stars": 122,
-    "updated_at": "2026-10-22T19:42:36Z",
-    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
+    "name": "holetz/quenching",
+    "stars": 1,
+    "updated_at": "2026-10-22T19:58:52Z",
+    "url": "https://github.com/holetz/quenching"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11953,
+    "updated_at": "2026-10-22T19:59:57Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Agentic Runtime",
@@ -14,8 +23,62 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 42,
-    "updated_at": "2026-10-22T19:36:37Z",
+    "updated_at": "2026-10-22T19:55:18Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-22T19:54:30Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "\u9876\u7ea7\u5ba1\u7f8e\u7684\u4e2a\u4eba\u535a\u5ba2\uff01\uff01\uff01\u5199\u4e00\u4e9b\u5173\u4e8e AI\u3001Agent\u3001\u6280\u672f\u3001\u4ea7\u54c1\u3001\u8425\u9500\u3001\u4e00\u4e9b\u751f\u6d3b\u601d\u8003\uff0c\u4e2a\u4eba\u6210\u957f\u7c7b\u7684\u7cbe\u6587",
+    "id": "cubxxw/blog",
+    "language": "JavaScript",
+    "name": "cubxxw/blog",
+    "stars": 30,
+    "updated_at": "2026-10-22T19:52:55Z",
+    "url": "https://github.com/cubxxw/blog"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26296,
+    "updated_at": "2026-10-22T19:49:02Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-22T19:45:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
+    "id": "NVIDIA-NeMo/nemo-helix",
+    "language": "Python",
+    "name": "NVIDIA-NeMo/nemo-helix",
+    "stars": 122,
+    "updated_at": "2026-10-22T19:59:29Z",
+    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61831,
+    "updated_at": "2026-10-22T19:37:53Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Learning observability for LLM agents: a hand-written customer support agent, built phase by phase to measure what traci",
@@ -32,26 +95,8 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-22T19:44:21Z",
+    "updated_at": "2026-10-22T19:53:07Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-22T19:30:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11953,
-    "updated_at": "2026-10-22T19:35:46Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Myrtia \u2014 agent-native red teaming for LLMs and AI agents: a deliberating council of attacker models (propose, cross-crit",
@@ -122,7 +167,7 @@
     "language": "TypeScript",
     "name": "iblai/os",
     "stars": 796,
-    "updated_at": "2026-10-22T19:43:15Z",
+    "updated_at": "2026-10-22T19:56:59Z",
     "url": "https://github.com/iblai/os"
   },
   {
@@ -140,7 +185,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4987,
-    "updated_at": "2026-10-22T19:40:58Z",
+    "updated_at": "2026-10-22T19:53:54Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -178,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-10-22T19:07:14Z",
     "url": "https://github.com/toxicwind/ranch"
-  },
-  {
-    "description": "\u9876\u7ea7\u5ba1\u7f8e\u7684\u4e2a\u4eba\u535a\u5ba2\uff01\uff01\uff01\u5199\u4e00\u4e9b\u5173\u4e8e AI\u3001Agent\u3001\u6280\u672f\u3001\u4ea7\u54c1\u3001\u8425\u9500\u3001\u4e00\u4e9b\u751f\u6d3b\u601d\u8003\uff0c\u4e2a\u4eba\u6210\u957f\u7c7b\u7684\u7cbe\u6587",
-    "id": "cubxxw/blog",
-    "language": "JavaScript",
-    "name": "cubxxw/blog",
-    "stars": 30,
-    "updated_at": "2026-10-22T19:07:04Z",
-    "url": "https://github.com/cubxxw/blog"
   },
   {
     "description": "\ud83e\udea2 Langfuse JS/TS SDK",
@@ -238,18 +274,9 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 30685,
+    "stars": 30686,
     "updated_at": "2026-10-22T18:54:07Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-22T18:53:46Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -257,17 +284,8 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22836,
-    "updated_at": "2026-10-22T19:26:19Z",
+    "updated_at": "2026-10-22T19:56:49Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26294,
-    "updated_at": "2026-10-22T19:13:06Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Open-source sandboxes where coding agents build and deploy. Spin up isolated environments where Claude Code, Cursor, and",
@@ -333,15 +351,6 @@
     "url": "https://github.com/vishalgwu/llmops-interview-preparation"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61827,
-    "updated_at": "2026-10-22T19:37:53Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "The platform for continuously improving AI agents.",
     "id": "overmind-core/overmind",
     "language": "Python",
@@ -401,7 +410,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 726,
-    "updated_at": "2026-10-22T17:59:29Z",
+    "updated_at": "2026-10-22T19:52:21Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 27,
     "updated_at": "2026-10-22T19:15:08Z",
     "url": "https://github.com/AixleHQ/flow"
-  },
-  {
-    "description": "llmcfo",
-    "id": "lisn0/tidal",
-    "language": "Nunjucks",
-    "name": "lisn0/tidal",
-    "stars": 0,
-    "updated_at": "2026-10-22T17:29:14Z",
-    "url": "https://github.com/lisn0/tidal"
   }
 ]
