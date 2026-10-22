@@ -1,5 +1,59 @@
 [
   {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 203,
+    "updated_at": "2026-10-22T13:57:56Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36183,
+    "updated_at": "2026-10-22T13:57:47Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 30683,
+    "updated_at": "2026-10-22T13:54:10Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22829,
+    "updated_at": "2026-10-22T13:50:34Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28493,
+    "updated_at": "2026-10-22T13:48:34Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-22T13:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Operating kit for a coordinator agent and headless Claude Code workers: hooks, launcher, skills, verification essays. Bu",
     "id": "TnSrb1/agent-ops",
     "language": "Python",
@@ -18,13 +72,40 @@
     "url": "https://github.com/pbhat123/SmartDesk_AI"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
+    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
+    "id": "digline/digline",
     "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22829,
-    "updated_at": "2026-10-22T13:44:16Z",
-    "url": "https://github.com/comet-ml/opik"
+    "name": "digline/digline",
+    "stars": 9,
+    "updated_at": "2026-10-22T13:42:51Z",
+    "url": "https://github.com/digline/digline"
+  },
+  {
+    "description": "Governed AI pipelines for service businesses. Deterministic-first, single Go binary, operator-approved.",
+    "id": "renezander030/draftcat",
+    "language": "Go",
+    "name": "renezander030/draftcat",
+    "stars": 9,
+    "updated_at": "2026-10-22T13:42:29Z",
+    "url": "https://github.com/renezander030/draftcat"
+  },
+  {
+    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
+    "id": "luetzey/who2be",
+    "language": "Python",
+    "name": "luetzey/who2be",
+    "stars": 0,
+    "updated_at": "2026-10-22T13:58:15Z",
+    "url": "https://github.com/luetzey/who2be"
+  },
+  {
+    "description": "Ship pure LangChain and LangGraph agents to Google Cloud Run with zero google-adk lock-in using the Google Agents CLI Ex",
+    "id": "sanketbisne/scalfod-langgraph-agentscli",
+    "language": "Python",
+    "name": "sanketbisne/scalfod-langgraph-agentscli",
+    "stars": 0,
+    "updated_at": "2026-10-22T13:38:12Z",
+    "url": "https://github.com/sanketbisne/scalfod-langgraph-agentscli"
   },
   {
     "description": "Self-hosted coding assistant that routes each request to the cheapest model that can handle it",
@@ -81,15 +162,6 @@
     "url": "https://github.com/Fortitude-Group/OmnisRouter"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-22T13:30:34Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
     "id": "a-novel/service-genai",
     "language": "Go",
@@ -131,7 +203,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 398,
-    "updated_at": "2026-10-22T13:25:10Z",
+    "updated_at": "2026-10-22T13:51:56Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -140,17 +212,8 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 726,
-    "updated_at": "2026-10-22T13:39:28Z",
+    "updated_at": "2026-10-22T13:52:14Z",
     "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28492,
-    "updated_at": "2026-10-22T13:39:29Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "System 0 for your LLM: learns the fixed-choice answers your LLM gives (intents, routing, moderation) and serves the repe",
@@ -167,7 +230,7 @@
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 27,
-    "updated_at": "2026-10-22T13:34:09Z",
+    "updated_at": "2026-10-22T13:48:37Z",
     "url": "https://github.com/AixleHQ/flow"
   },
   {
@@ -176,7 +239,7 @@
     "language": "TypeScript",
     "name": "prasad-kavuri/prasad-portfolio",
     "stars": 0,
-    "updated_at": "2026-10-22T13:19:43Z",
+    "updated_at": "2026-10-22T14:00:18Z",
     "url": "https://github.com/prasad-kavuri/prasad-portfolio"
   },
   {
@@ -185,7 +248,7 @@
     "language": "Python",
     "name": "overmind-core/overmind",
     "stars": 675,
-    "updated_at": "2026-10-22T13:18:54Z",
+    "updated_at": "2026-10-22T13:46:30Z",
     "url": "https://github.com/overmind-core/overmind"
   },
   {
@@ -196,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-10-22T13:17:51Z",
     "url": "https://github.com/vv0vv3r/ModelJoust"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 30682,
-    "updated_at": "2026-10-22T13:18:19Z",
-    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "Document Q&A with cited answers: an agentic retrieval loop, neural retrieval (bge-m3, Qwen3-Embedding, bge reranker, Qdr",
@@ -230,7 +284,7 @@
     "language": "Python",
     "name": "ArtVsMark/Engineering-Incidents-Playbook",
     "stars": 5,
-    "updated_at": "2026-10-22T13:24:21Z",
+    "updated_at": "2026-10-22T13:56:24Z",
     "url": "https://github.com/ArtVsMark/Engineering-Incidents-Playbook"
   },
   {
@@ -275,17 +329,8 @@
     "language": "Python",
     "name": "sarkars/agent-failure-modes",
     "stars": 1,
-    "updated_at": "2026-10-22T12:55:47Z",
+    "updated_at": "2026-10-22T13:53:22Z",
     "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36182,
-    "updated_at": "2026-10-22T13:43:50Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Resource providers for pragma-os. Manage cloud infrastructure, AI agents, knowledge bases, pipelines, and workflows.",
@@ -295,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-10-22T12:53:50Z",
     "url": "https://github.com/pragmatiks/pragma-providers"
-  },
-  {
-    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
-    "id": "luetzey/who2be",
-    "language": "Python",
-    "name": "luetzey/who2be",
-    "stars": 0,
-    "updated_at": "2026-10-22T13:41:29Z",
-    "url": "https://github.com/luetzey/who2be"
   },
   {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
@@ -392,7 +428,7 @@
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 122,
-    "updated_at": "2026-10-22T13:41:14Z",
+    "updated_at": "2026-10-22T14:00:24Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-22T12:52:46Z",
     "url": "https://github.com/Chris0Jeky/llm-release-gate"
-  },
-  {
-    "description": "Governed enterprise AI control plane: hybrid RAG, agent runtime, model gateway, approvals, hash-chained audit, FinOps, a",
-    "id": "MrKyaw/AgentForge-Enterprise-AI-Platform",
-    "language": "Python",
-    "name": "MrKyaw/AgentForge-Enterprise-AI-Platform",
-    "stars": 1,
-    "updated_at": "2026-10-22T12:32:35Z",
-    "url": "https://github.com/MrKyaw/AgentForge-Enterprise-AI-Platform"
-  },
-  {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-10-22T12:35:46Z",
-    "url": "https://github.com/redevops-io/agentic-os"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 42,
-    "updated_at": "2026-10-22T12:30:19Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Myrtia \u2014 agent-native red teaming for LLMs and AI agents: a deliberating council of attacker models (propose, cross-crit",
-    "id": "francordel/myrtia",
-    "language": "Python",
-    "name": "francordel/myrtia",
-    "stars": 28,
-    "updated_at": "2026-10-22T12:29:09Z",
-    "url": "https://github.com/francordel/myrtia"
   }
 ]
