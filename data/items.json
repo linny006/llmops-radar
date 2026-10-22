@@ -1,11 +1,101 @@
 [
   {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 30686,
+    "updated_at": "2026-10-22T20:14:44Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 42,
+    "updated_at": "2026-10-22T20:14:23Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Open-source capture SDK for AI agents \u2014 records model and tool calls to build golden suites for LLM migration and regres",
+    "id": "evalshift/evalshift-sdk",
+    "language": "Python",
+    "name": "evalshift/evalshift-sdk",
+    "stars": 1,
+    "updated_at": "2026-10-22T20:11:18Z",
+    "url": "https://github.com/evalshift/evalshift-sdk"
+  },
+  {
+    "description": "Open-source LLM migration and regression testing for AI agents. Compare models, detect tool-call regressions, and gate m",
+    "id": "evalshift/evalshift-cli",
+    "language": "Python",
+    "name": "evalshift/evalshift-cli",
+    "stars": 5,
+    "updated_at": "2026-10-22T20:11:41Z",
+    "url": "https://github.com/evalshift/evalshift-cli"
+  },
+  {
+    "description": "Self-healing AI gateway & multi-agent DAG orchestration engine. Decomposes prompts into parallel workstreams, multiplexe",
+    "id": "ajayraj30002/wrap",
+    "language": "Python",
+    "name": "ajayraj30002/wrap",
+    "stars": 0,
+    "updated_at": "2026-10-22T20:10:47Z",
+    "url": "https://github.com/ajayraj30002/wrap"
+  },
+  {
+    "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
+    "id": "hjongc/openrouter-endpoint-watch",
+    "language": "Python",
+    "name": "hjongc/openrouter-endpoint-watch",
+    "stars": 0,
+    "updated_at": "2026-10-22T20:10:31Z",
+    "url": "https://github.com/hjongc/openrouter-endpoint-watch"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22836,
+    "updated_at": "2026-10-22T20:14:32Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-22T20:09:29Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
+    "id": "NVIDIA-NeMo/nemo-helix",
+    "language": "Python",
+    "name": "NVIDIA-NeMo/nemo-helix",
+    "stars": 122,
+    "updated_at": "2026-10-22T20:12:03Z",
+    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-22T20:00:36Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
     "id": "holetz/quenching",
     "language": "Python",
     "name": "holetz/quenching",
     "stars": 1,
-    "updated_at": "2026-10-22T19:58:52Z",
+    "updated_at": "2026-10-22T20:10:43Z",
     "url": "https://github.com/holetz/quenching"
   },
   {
@@ -14,17 +104,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11953,
-    "updated_at": "2026-10-22T19:59:57Z",
+    "updated_at": "2026-10-22T20:12:01Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 42,
-    "updated_at": "2026-10-22T19:55:18Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
@@ -52,24 +133,6 @@
     "stars": 26296,
     "updated_at": "2026-10-22T19:49:02Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-22T19:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
-    "id": "NVIDIA-NeMo/nemo-helix",
-    "language": "Python",
-    "name": "NVIDIA-NeMo/nemo-helix",
-    "stars": 122,
-    "updated_at": "2026-10-22T19:59:29Z",
-    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -167,7 +230,7 @@
     "language": "TypeScript",
     "name": "iblai/os",
     "stars": 796,
-    "updated_at": "2026-10-22T19:56:59Z",
+    "updated_at": "2026-10-22T20:11:44Z",
     "url": "https://github.com/iblai/os"
   },
   {
@@ -176,7 +239,7 @@
     "language": "TypeScript",
     "name": "burakdede/lorepack",
     "stars": 4,
-    "updated_at": "2026-10-22T19:20:58Z",
+    "updated_at": "2026-10-22T20:09:26Z",
     "url": "https://github.com/burakdede/lorepack"
   },
   {
@@ -185,7 +248,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4987,
-    "updated_at": "2026-10-22T19:53:54Z",
+    "updated_at": "2026-10-22T20:05:07Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -214,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-10-22T19:09:18Z",
     "url": "https://github.com/721189/Market-Metrics"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-22T19:07:14Z",
-    "url": "https://github.com/toxicwind/ranch"
   },
   {
     "description": "\ud83e\udea2 Langfuse JS/TS SDK",
@@ -268,24 +322,6 @@
     "stars": 0,
     "updated_at": "2026-10-22T18:54:55Z",
     "url": "https://github.com/Traigent/tvl"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 30686,
-    "updated_at": "2026-10-22T18:54:07Z",
-    "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22836,
-    "updated_at": "2026-10-22T19:56:49Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Open-source sandboxes where coding agents build and deploy. Spin up isolated environments where Claude Code, Cursor, and",
@@ -356,7 +392,7 @@
     "language": "Python",
     "name": "overmind-core/overmind",
     "stars": 678,
-    "updated_at": "2026-10-22T18:20:03Z",
+    "updated_at": "2026-10-22T20:09:30Z",
     "url": "https://github.com/overmind-core/overmind"
   },
   {
@@ -378,15 +414,6 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "Open-source capture SDK for AI agents \u2014 records model and tool calls to build golden suites for LLM migration and regres",
-    "id": "evalshift/evalshift-sdk",
-    "language": "Python",
-    "name": "evalshift/evalshift-sdk",
-    "stars": 1,
-    "updated_at": "2026-10-22T18:06:43Z",
-    "url": "https://github.com/evalshift/evalshift-sdk"
-  },
-  {
     "description": "Build Enterprise RAG (Retriver Augmented Generation) Pipelines to tackle various Generative AI use cases with LLM's by s",
     "id": "ibm-self-serve-assets/SuperKnowa",
     "language": "Jupyter Notebook",
@@ -401,7 +428,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 115,
-    "updated_at": "2026-10-22T19:08:56Z",
+    "updated_at": "2026-10-22T20:09:25Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-22T17:43:28Z",
     "url": "https://github.com/jasonneo99/agent-workflow"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 2192,
-    "updated_at": "2026-10-22T17:39:20Z",
-    "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
-    "id": "lmnr-ai/lmnr",
-    "language": "TypeScript",
-    "name": "lmnr-ai/lmnr",
-    "stars": 3430,
-    "updated_at": "2026-10-22T19:08:50Z",
-    "url": "https://github.com/lmnr-ai/lmnr"
-  },
-  {
-    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
-    "id": "AixleHQ/flow",
-    "language": "Ruby",
-    "name": "AixleHQ/flow",
-    "stars": 27,
-    "updated_at": "2026-10-22T19:15:08Z",
-    "url": "https://github.com/AixleHQ/flow"
   }
 ]
