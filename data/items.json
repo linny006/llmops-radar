@@ -1,12 +1,75 @@
 [
   {
+    "description": "A hands-on library for DevOps, Cloud, and AI engineers: real production scenarios for AWS, Kubernetes, Docker, and LLMOp",
+    "id": "sandeepk24/learn-devops-playbook",
+    "language": "Python",
+    "name": "sandeepk24/learn-devops-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-22T23:28:52Z",
+    "url": "https://github.com/sandeepk24/learn-devops-playbook"
+  },
+  {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
     "id": "llmspendguard/llm-spendguard",
     "language": "Python",
     "name": "llmspendguard/llm-spendguard",
     "stars": 0,
-    "updated_at": "2026-10-22T23:11:36Z",
+    "updated_at": "2026-10-22T23:28:06Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 42,
+    "updated_at": "2026-10-22T23:26:02Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
+    "id": "hjongc/openrouter-endpoint-watch",
+    "language": "Python",
+    "name": "hjongc/openrouter-endpoint-watch",
+    "stars": 0,
+    "updated_at": "2026-10-22T23:25:49Z",
+    "url": "https://github.com/hjongc/openrouter-endpoint-watch"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-10-22T23:25:07Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-10-22T23:21:00Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "Model-agnostic Agent Skill: keep multiple hypotheses alive, test them against evidence, revive alternatives, collapse to",
+    "id": "Furox-Art/quantum-reasoning-skill",
+    "language": "Python",
+    "name": "Furox-Art/quantum-reasoning-skill",
+    "stars": 3,
+    "updated_at": "2026-10-22T23:17:39Z",
+    "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-22T23:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Deterministic trace-based integration testing for LLM apps",
@@ -32,7 +95,7 @@
     "language": "Rust",
     "name": "toxicwind/ranch",
     "stars": 0,
-    "updated_at": "2026-10-22T23:07:49Z",
+    "updated_at": "2026-10-22T23:20:38Z",
     "url": "https://github.com/toxicwind/ranch"
   },
   {
@@ -41,7 +104,7 @@
     "language": "Python",
     "name": "MSKazemi/novafabric",
     "stars": 7,
-    "updated_at": "2026-10-22T23:10:56Z",
+    "updated_at": "2026-10-22T23:23:11Z",
     "url": "https://github.com/MSKazemi/novafabric"
   },
   {
@@ -63,24 +126,6 @@
     "url": "https://github.com/api-evangelist/dify"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-22T23:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 42,
-    "updated_at": "2026-10-22T22:57:09Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Every model call through one library: raw-HTTP provider adapters, a cost ledger row and an OpenTelemetry span per call, ",
     "id": "Peter-A-P/compliant-ai-gateway",
     "language": "Python",
@@ -88,6 +133,15 @@
     "stars": 0,
     "updated_at": "2026-10-22T22:56:34Z",
     "url": "https://github.com/Peter-A-P/compliant-ai-gateway"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36202,
+    "updated_at": "2026-10-22T22:54:58Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
@@ -131,7 +185,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61836,
-    "updated_at": "2026-10-22T22:48:46Z",
+    "updated_at": "2026-10-22T23:24:34Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -176,7 +230,7 @@
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 122,
-    "updated_at": "2026-10-22T23:09:00Z",
+    "updated_at": "2026-10-22T23:25:26Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -205,6 +259,15 @@
     "stars": 0,
     "updated_at": "2026-10-22T22:31:18Z",
     "url": "https://github.com/gaurav-gandhi-2411/adk-tracegauge"
+  },
+  {
+    "description": "The open-source agentic framework to build, orchestrate, and operate production AI agents.",
+    "id": "apowerb/apowerb",
+    "language": "Python",
+    "name": "apowerb/apowerb",
+    "stars": 150,
+    "updated_at": "2026-10-22T22:27:41Z",
+    "url": "https://github.com/apowerb/apowerb"
   },
   {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
@@ -239,7 +302,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4987,
-    "updated_at": "2026-10-22T23:13:43Z",
+    "updated_at": "2026-10-22T23:24:35Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -250,15 +313,6 @@
     "stars": 28499,
     "updated_at": "2026-10-22T22:06:50Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "The open-source agentic framework to build, orchestrate, and operate production AI agents.",
-    "id": "apowerb/apowerb",
-    "language": "Python",
-    "name": "apowerb/apowerb",
-    "stars": 149,
-    "updated_at": "2026-10-22T22:27:41Z",
-    "url": "https://github.com/apowerb/apowerb"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -311,26 +365,8 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 11,
-    "updated_at": "2026-10-22T21:41:30Z",
+    "updated_at": "2026-10-22T23:27:42Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36201,
-    "updated_at": "2026-10-22T22:54:58Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-10-22T21:37:43Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
     "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-22T21:10:34Z",
     "url": "https://github.com/QuantumEdu/q-agent"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 2193,
-    "updated_at": "2026-10-22T22:46:09Z",
-    "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "Self-healing AI gateway & multi-agent DAG orchestration engine. Decomposes prompts into parallel workstreams, multiplexe",
-    "id": "ajayraj30002/wrap",
-    "language": "Python",
-    "name": "ajayraj30002/wrap",
-    "stars": 0,
-    "updated_at": "2026-10-22T20:48:26Z",
-    "url": "https://github.com/ajayraj30002/wrap"
-  },
-  {
-    "description": "LiteLLM plugin that downgrades selected routes to cheaper models as a team's budget runs out",
-    "id": "amirimi/litellm-brownout",
-    "language": "Python",
-    "name": "amirimi/litellm-brownout",
-    "stars": 1,
-    "updated_at": "2026-10-22T20:45:03Z",
-    "url": "https://github.com/amirimi/litellm-brownout"
-  },
-  {
-    "description": "Gateway de seguran\u00e7a para m\u00faltiplos LLMs com red teaming cont\u00ednuo: RAG security, roteamento multi-LLM e observabilidade.",
-    "id": "Yuri-Fernando/AegisLLM",
-    "language": "Python",
-    "name": "Yuri-Fernando/AegisLLM",
-    "stars": 0,
-    "updated_at": "2026-10-22T20:42:42Z",
-    "url": "https://github.com/Yuri-Fernando/AegisLLM"
   }
 ]
