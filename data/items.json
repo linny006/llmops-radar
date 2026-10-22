@@ -1,5 +1,86 @@
 [
   {
+    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
+    "id": "coze-dev/coze-loop",
+    "language": "Go",
+    "name": "coze-dev/coze-loop",
+    "stars": 5784,
+    "updated_at": "2026-10-22T09:26:39Z",
+    "url": "https://github.com/coze-dev/coze-loop"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-10-22T09:26:19Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Keras based framework for neuro-symbolic LM systems",
+    "id": "SynaLinks/synalinks",
+    "language": "Python",
+    "name": "SynaLinks/synalinks",
+    "stars": 464,
+    "updated_at": "2026-10-22T09:27:00Z",
+    "url": "https://github.com/SynaLinks/synalinks"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 115,
+    "updated_at": "2026-10-22T09:23:46Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Autonomous LLM build orchestrator:  plans a goal into tasks, edits code with anchored SEARCH/REPLACE, and verifies every",
+    "id": "dcondrey/misterdev",
+    "language": "Python",
+    "name": "dcondrey/misterdev",
+    "stars": 4,
+    "updated_at": "2026-10-22T09:21:55Z",
+    "url": "https://github.com/dcondrey/misterdev"
+  },
+  {
+    "description": "Document Q&A with cited answers: an agentic retrieval loop, neural retrieval (bge-m3, Qwen3-Embedding, bge reranker, Qdr",
+    "id": "Muditkumar123/agentic-document-intelligence-platform",
+    "language": "Python",
+    "name": "Muditkumar123/agentic-document-intelligence-platform",
+    "stars": 0,
+    "updated_at": "2026-10-22T09:21:26Z",
+    "url": "https://github.com/Muditkumar123/agentic-document-intelligence-platform"
+  },
+  {
+    "description": "Self-hosted coding assistant that routes each request to the cheapest model that can handle it",
+    "id": "optiware-ai/optimux",
+    "language": "Python",
+    "name": "optiware-ai/optimux",
+    "stars": 1,
+    "updated_at": "2026-10-22T09:18:31Z",
+    "url": "https://github.com/optiware-ai/optimux"
+  },
+  {
+    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
+    "id": "luetzey/who2be",
+    "language": "Python",
+    "name": "luetzey/who2be",
+    "stars": 0,
+    "updated_at": "2026-10-22T09:18:12Z",
+    "url": "https://github.com/luetzey/who2be"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-22T09:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI agent execution governance: pre-effect authorization, single-use permissions, policy enforcement, and verifiable reco",
     "id": "veritasfuji-japan/veritas_os",
     "language": "Python",
@@ -23,7 +104,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 36171,
-    "updated_at": "2026-10-22T09:11:56Z",
+    "updated_at": "2026-10-22T09:28:54Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -41,7 +122,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22822,
-    "updated_at": "2026-10-22T09:09:55Z",
+    "updated_at": "2026-10-22T09:19:18Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -81,21 +162,12 @@
     "url": "https://github.com/zenml-io/mcp-zenml"
   },
   {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 115,
-    "updated_at": "2026-10-22T09:04:26Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
     "id": "llmspendguard/llm-spendguard",
     "language": "Python",
     "name": "llmspendguard/llm-spendguard",
     "stars": 0,
-    "updated_at": "2026-10-22T09:03:34Z",
+    "updated_at": "2026-10-22T09:24:50Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
@@ -113,17 +185,8 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 720,
-    "updated_at": "2026-10-22T09:12:58Z",
+    "updated_at": "2026-10-22T09:20:43Z",
     "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-22T09:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -216,15 +279,6 @@
     "url": "https://github.com/l3ungxx-dev/claude-mem-ops"
   },
   {
-    "description": "Self-hosted coding assistant that routes each request to the cheapest model that can handle it",
-    "id": "optiware-ai/optimux",
-    "language": "Python",
-    "name": "optiware-ai/optimux",
-    "stars": 1,
-    "updated_at": "2026-10-22T08:47:44Z",
-    "url": "https://github.com/optiware-ai/optimux"
-  },
-  {
     "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
     "id": "SourceShift/mini-ork",
     "language": "Python",
@@ -293,17 +347,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4986,
-    "updated_at": "2026-10-22T09:03:55Z",
+    "updated_at": "2026-10-22T09:29:17Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
-    "id": "luetzey/who2be",
-    "language": "Python",
-    "name": "luetzey/who2be",
-    "stars": 0,
-    "updated_at": "2026-10-22T08:41:00Z",
-    "url": "https://github.com/luetzey/who2be"
   },
   {
     "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
@@ -373,7 +418,7 @@
     "id": "ZIZKA-AI-SL/ZizkaDB",
     "language": "Python",
     "name": "ZIZKA-AI-SL/ZizkaDB",
-    "stars": 142,
+    "stars": 143,
     "updated_at": "2026-10-22T08:05:57Z",
     "url": "https://github.com/ZIZKA-AI-SL/ZizkaDB"
   },
@@ -403,50 +448,5 @@
     "stars": 1278,
     "updated_at": "2026-10-22T07:53:55Z",
     "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
-    "description": "Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code \u2014 V3 prototype runs ",
-    "id": "MongLong0214/jev-gate",
-    "language": "TypeScript",
-    "name": "MongLong0214/jev-gate",
-    "stars": 3,
-    "updated_at": "2026-10-22T08:56:09Z",
-    "url": "https://github.com/MongLong0214/jev-gate"
-  },
-  {
-    "description": "Production-ready platform for deploying OpenAI-compatible LLM inference on Kubernetes. A one-command installer for enter",
-    "id": "intel/enterprise-ai-solutions",
-    "language": "Shell",
-    "name": "intel/enterprise-ai-solutions",
-    "stars": 10,
-    "updated_at": "2026-10-22T07:46:20Z",
-    "url": "https://github.com/intel/enterprise-ai-solutions"
-  },
-  {
-    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
-    "id": "cuihuan/awesome-ai-gateway",
-    "language": "HTML",
-    "name": "cuihuan/awesome-ai-gateway",
-    "stars": 134,
-    "updated_at": "2026-10-22T07:44:49Z",
-    "url": "https://github.com/cuihuan/awesome-ai-gateway"
-  },
-  {
-    "description": "One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary.",
-    "id": "respanai/respan-gateway",
-    "language": "Rust",
-    "name": "respanai/respan-gateway",
-    "stars": 130,
-    "updated_at": "2026-10-22T07:42:52Z",
-    "url": "https://github.com/respanai/respan-gateway"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 1,
-    "updated_at": "2026-10-22T07:40:16Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   }
 ]
