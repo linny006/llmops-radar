@@ -1,11 +1,56 @@
 [
   {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36193,
+    "updated_at": "2026-10-22T17:30:16Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
+    "id": "AixleHQ/flow",
+    "language": "Ruby",
+    "name": "AixleHQ/flow",
+    "stars": 27,
+    "updated_at": "2026-10-22T17:29:53Z",
+    "url": "https://github.com/AixleHQ/flow"
+  },
+  {
+    "description": "The platform for continuously improving AI agents.",
+    "id": "overmind-core/overmind",
+    "language": "Python",
+    "name": "overmind-core/overmind",
+    "stars": 676,
+    "updated_at": "2026-10-22T17:29:26Z",
+    "url": "https://github.com/overmind-core/overmind"
+  },
+  {
+    "description": "llmcfo",
+    "id": "lisn0/tidal",
+    "language": "Nunjucks",
+    "name": "lisn0/tidal",
+    "stars": 0,
+    "updated_at": "2026-10-22T17:29:14Z",
+    "url": "https://github.com/lisn0/tidal"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-22T17:29:07Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
     "id": "NVIDIA-NeMo/nemo-helix",
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 122,
-    "updated_at": "2026-10-22T17:28:18Z",
+    "updated_at": "2026-10-22T17:30:06Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -50,7 +95,7 @@
     "language": "Python",
     "name": "digline/digline",
     "stars": 9,
-    "updated_at": "2026-10-22T17:26:40Z",
+    "updated_at": "2026-10-22T17:29:06Z",
     "url": "https://github.com/digline/digline"
   },
   {
@@ -117,15 +162,6 @@
     "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-22T17:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
     "id": "burakdede/lorepack",
     "language": "TypeScript",
@@ -187,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-10-22T16:55:38Z",
     "url": "https://github.com/api-evangelist/comet"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36193,
-    "updated_at": "2026-10-22T17:28:04Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
@@ -297,15 +324,6 @@
     "url": "https://github.com/AcruxCore/AcruxCore"
   },
   {
-    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
-    "id": "AixleHQ/flow",
-    "language": "Ruby",
-    "name": "AixleHQ/flow",
-    "stars": 27,
-    "updated_at": "2026-10-22T17:08:51Z",
-    "url": "https://github.com/AixleHQ/flow"
-  },
-  {
     "description": "Tuned Variables Language (TVL) by Traigent: typed specification language, validators, CLI tools, editor support, and doc",
     "id": "Traigent/tvl",
     "language": "Python",
@@ -320,7 +338,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 726,
-    "updated_at": "2026-10-22T17:28:12Z",
+    "updated_at": "2026-10-22T17:29:23Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -347,7 +365,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30683,
-    "updated_at": "2026-10-22T17:27:52Z",
+    "updated_at": "2026-10-22T17:29:17Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 149,
     "updated_at": "2026-10-22T16:06:10Z",
     "url": "https://github.com/apowerb/apowerb"
-  },
-  {
-    "description": "Open-source Model Context Protocol (MCP) security gateway and AI agent control plane for LLMOps/AIOps, with prompt-injec",
-    "id": "gaurav-gs7/Judikt",
-    "language": "Python",
-    "name": "gaurav-gs7/Judikt",
-    "stars": 0,
-    "updated_at": "2026-10-22T15:35:46Z",
-    "url": "https://github.com/gaurav-gs7/Judikt"
-  },
-  {
-    "description": "Deterministic trace-based integration testing for LLM apps",
-    "id": "barzoj-co/llmentary",
-    "language": "Go",
-    "name": "barzoj-co/llmentary",
-    "stars": 0,
-    "updated_at": "2026-10-22T16:33:55Z",
-    "url": "https://github.com/barzoj-co/llmentary"
   }
 ]
