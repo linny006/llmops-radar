@@ -1,12 +1,12 @@
 [
   {
-    "description": "Terraform provider for Anthropic and Claude organizations: workspaces, members, invites, API keys, service accounts, wor",
-    "id": "uttej-badwane/terraform-provider-anthropic-enterprise",
-    "language": "Go",
-    "name": "uttej-badwane/terraform-provider-anthropic-enterprise",
-    "stars": 0,
-    "updated_at": "2026-10-22T06:45:05Z",
-    "url": "https://github.com/uttej-badwane/terraform-provider-anthropic-enterprise"
+    "description": "The production toolkit for LLM calls: caching, retries, provider fallback, cost tracking, PII redaction, prompt-injectio",
+    "id": "TanbirRamim/callm",
+    "language": "Python",
+    "name": "TanbirRamim/callm",
+    "stars": 1,
+    "updated_at": "2026-10-22T06:56:08Z",
+    "url": "https://github.com/TanbirRamim/callm"
   },
   {
     "description": "Log triage AI gateway: QLoRA fine-tuned Qwen2.5-1.5B on CPU with confidence-based fallback to Claude, evals, caching, re",
@@ -14,8 +14,71 @@
     "language": "Python",
     "name": "Saipavanavsp/loglens",
     "stars": 0,
-    "updated_at": "2026-10-22T06:43:36Z",
+    "updated_at": "2026-10-22T06:56:08Z",
     "url": "https://github.com/Saipavanavsp/loglens"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-22T06:57:34Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
+    "id": "holetz/quenching",
+    "language": "Python",
+    "name": "holetz/quenching",
+    "stars": 1,
+    "updated_at": "2026-10-22T06:55:43Z",
+    "url": "https://github.com/holetz/quenching"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28484,
+    "updated_at": "2026-10-22T06:51:49Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Terraform provider for Anthropic and Claude organizations: workspaces, members, invites, API keys, service accounts, wor",
+    "id": "uttej-badwane/terraform-provider-anthropic-enterprise",
+    "language": "Go",
+    "name": "uttej-badwane/terraform-provider-anthropic-enterprise",
+    "stars": 0,
+    "updated_at": "2026-10-22T06:50:36Z",
+    "url": "https://github.com/uttej-badwane/terraform-provider-anthropic-enterprise"
+  },
+  {
+    "description": "7-agent pipeline verifying EU corporate sustainability claims against 22 open datasets. Anthropic SDK + LangGraph. Score",
+    "id": "MartinBlomqvistDev/prasine-index",
+    "language": "Python",
+    "name": "MartinBlomqvistDev/prasine-index",
+    "stars": 0,
+    "updated_at": "2026-10-22T06:47:33Z",
+    "url": "https://github.com/MartinBlomqvistDev/prasine-index"
+  },
+  {
+    "description": "Self-hostable AI token pools \u2014 govern your org's AI usage with per-member keys, quotas, and leak detection; or deposit s",
+    "id": "Phat1911/Tributary",
+    "language": "Rust",
+    "name": "Phat1911/Tributary",
+    "stars": 1,
+    "updated_at": "2026-10-22T06:47:12Z",
+    "url": "https://github.com/Phat1911/Tributary"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-22T06:45:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Enterprise Scale AIFactory (esml) - on Azure",
@@ -34,15 +97,6 @@
     "stars": 42,
     "updated_at": "2026-10-22T06:39:40Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-22T06:31:38Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
@@ -68,7 +122,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 36163,
-    "updated_at": "2026-10-22T06:26:11Z",
+    "updated_at": "2026-10-22T06:53:39Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -90,15 +144,6 @@
     "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
-    "description": "7-agent pipeline verifying EU corporate sustainability claims against 22 open datasets. Anthropic SDK + LangGraph. Score",
-    "id": "MartinBlomqvistDev/prasine-index",
-    "language": "Python",
-    "name": "MartinBlomqvistDev/prasine-index",
-    "stars": 0,
-    "updated_at": "2026-10-22T06:24:37Z",
-    "url": "https://github.com/MartinBlomqvistDev/prasine-index"
-  },
-  {
     "description": "Code and results for 'Fuzzy-gated verification of LLM agents for industrial fault diagnosis' (Applied Soft Computing, 20",
     "id": "qqyjx/CL-LLMOps",
     "language": "Python",
@@ -113,7 +158,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 115,
-    "updated_at": "2026-10-22T06:45:01Z",
+    "updated_at": "2026-10-22T07:00:11Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -122,7 +167,7 @@
     "language": "Python",
     "name": "tonyweckstrom1987/agentti-pohja",
     "stars": 0,
-    "updated_at": "2026-10-22T06:37:21Z",
+    "updated_at": "2026-10-22T06:50:29Z",
     "url": "https://github.com/tonyweckstrom1987/agentti-pohja"
   },
   {
@@ -131,7 +176,7 @@
     "language": "Python",
     "name": "llmspendguard/llm-spendguard",
     "stars": 0,
-    "updated_at": "2026-10-22T06:16:24Z",
+    "updated_at": "2026-10-22T06:53:08Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
@@ -153,15 +198,6 @@
     "url": "https://github.com/toxicwind/ranch"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28483,
-    "updated_at": "2026-10-22T06:40:26Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "\ud83e\udea2 Langfuse JS/TS SDK",
     "id": "langfuse/langfuse-js",
     "language": "TypeScript",
@@ -178,15 +214,6 @@
     "stars": 3,
     "updated_at": "2026-10-22T06:21:10Z",
     "url": "https://github.com/MongLong0214/jev-gate"
-  },
-  {
-    "description": "Self-hostable AI token pools \u2014 govern your org's AI usage with per-member keys, quotas, and leak detection; or deposit s",
-    "id": "Phat1911/Tributary",
-    "language": "Rust",
-    "name": "Phat1911/Tributary",
-    "stars": 1,
-    "updated_at": "2026-10-22T06:08:57Z",
-    "url": "https://github.com/Phat1911/Tributary"
   },
   {
     "description": "Does an OpenAI-compatible endpoint disclose model prices without an account or key? One unauthenticated GET, five verdic",
@@ -207,21 +234,12 @@
     "url": "https://github.com/valteresj2/agent-hangar"
   },
   {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-22T05:52:19Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
     "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
     "id": "NVIDIA-NeMo/nemo-helix",
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 117,
-    "updated_at": "2026-10-22T06:42:44Z",
+    "updated_at": "2026-10-22T06:59:36Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -284,7 +302,7 @@
     "language": "Rust",
     "name": "respanai/respan-gateway",
     "stars": 128,
-    "updated_at": "2026-10-22T06:42:18Z",
+    "updated_at": "2026-10-22T06:59:36Z",
     "url": "https://github.com/respanai/respan-gateway"
   },
   {
@@ -293,7 +311,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1366,
-    "updated_at": "2026-10-22T06:41:12Z",
+    "updated_at": "2026-10-22T06:58:58Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -324,15 +342,6 @@
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
-    "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
-    "id": "holetz/quenching",
-    "language": "Python",
-    "name": "holetz/quenching",
-    "stars": 1,
-    "updated_at": "2026-10-22T06:43:30Z",
-    "url": "https://github.com/holetz/quenching"
-  },
-  {
     "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
     "id": "hjongc/openrouter-endpoint-watch",
     "language": "Python",
@@ -340,6 +349,15 @@
     "stars": 0,
     "updated_at": "2026-10-22T04:54:22Z",
     "url": "https://github.com/hjongc/openrouter-endpoint-watch"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26253,
+    "updated_at": "2026-10-22T04:53:57Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "LLM spend tracking and budgets for Rails \u2014 by user, feature, or any tag, in your own database, no proxy.",
@@ -365,7 +383,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-22T06:34:39Z",
+    "updated_at": "2026-10-22T06:59:53Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -423,30 +441,12 @@
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26252,
-    "updated_at": "2026-10-22T04:53:57Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
     "id": "future-agi/future-agi",
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 2188,
-    "updated_at": "2026-10-22T06:29:37Z",
+    "updated_at": "2026-10-22T06:57:28Z",
     "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "AI-powered desktop localization for game mods: Paradox games and Surviving Mars: Relaunched, with RimWorld and Project Z",
-    "id": "Drlinglong/Remis",
-    "language": "Python",
-    "name": "Drlinglong/Remis",
-    "stars": 30,
-    "updated_at": "2026-10-22T03:16:48Z",
-    "url": "https://github.com/Drlinglong/Remis"
   }
 ]
