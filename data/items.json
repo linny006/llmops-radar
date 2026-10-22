@@ -1,5 +1,86 @@
 [
   {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 11,
+    "updated_at": "2026-10-22T21:41:30Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61836,
+    "updated_at": "2026-10-22T21:38:52Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 42,
+    "updated_at": "2026-10-22T21:38:10Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-10-22T21:37:43Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
+    "id": "holetz/quenching",
+    "language": "Python",
+    "name": "holetz/quenching",
+    "stars": 1,
+    "updated_at": "2026-10-22T21:35:18Z",
+    "url": "https://github.com/holetz/quenching"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22838,
+    "updated_at": "2026-10-22T21:42:30Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Lightweight reverse proxy that logs per-request inference metrics (tokens, tokens/sec, time to first token, duration) fo",
+    "id": "juusolatva/metrics_proxy",
+    "language": "Go",
+    "name": "juusolatva/metrics_proxy",
+    "stars": 0,
+    "updated_at": "2026-10-22T21:30:32Z",
+    "url": "https://github.com/juusolatva/metrics_proxy"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-22T21:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26301,
+    "updated_at": "2026-10-22T21:29:54Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "See what your Google ADK agent costs (per-invocation USD from token usage) and fail CI when it gets more expensive.",
     "id": "gaurav-gandhi-2411/adk-tracegauge",
     "language": "Python",
@@ -14,7 +95,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 726,
-    "updated_at": "2026-10-22T21:28:14Z",
+    "updated_at": "2026-10-22T21:33:41Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -54,15 +135,6 @@
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 42,
-    "updated_at": "2026-10-22T21:24:27Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
     "id": "a-novel/service-genai",
     "language": "Go",
@@ -77,17 +149,8 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8945,
-    "updated_at": "2026-10-22T21:25:35Z",
+    "updated_at": "2026-10-22T21:44:55Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
-    "id": "holetz/quenching",
-    "language": "Python",
-    "name": "holetz/quenching",
-    "stars": 1,
-    "updated_at": "2026-10-22T21:20:32Z",
-    "url": "https://github.com/holetz/quenching"
   },
   {
     "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
@@ -95,17 +158,8 @@
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 122,
-    "updated_at": "2026-10-22T21:27:39Z",
+    "updated_at": "2026-10-22T21:43:39Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26300,
-    "updated_at": "2026-10-22T21:29:54Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
@@ -115,15 +169,6 @@
     "stars": 144,
     "updated_at": "2026-10-22T21:16:14Z",
     "url": "https://github.com/ZIZKA-AI-SL/ZizkaDB"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-22T21:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "CLI output filter for AI agents \u2014 strip noise, keep signal, save tokens.",
@@ -140,7 +185,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4987,
-    "updated_at": "2026-10-22T21:16:36Z",
+    "updated_at": "2026-10-22T21:45:05Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -171,15 +216,6 @@
     "url": "https://github.com/cubxxw/blog"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61835,
-    "updated_at": "2026-10-22T21:26:25Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Enterprise Scale AIFactory (esml) - on Azure",
     "id": "jostrm/azure-enterprise-scale-ml",
     "language": "Python",
@@ -196,6 +232,15 @@
     "stars": 1,
     "updated_at": "2026-10-22T21:27:55Z",
     "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 2193,
+    "updated_at": "2026-10-22T20:52:01Z",
+    "url": "https://github.com/future-agi/future-agi"
   },
   {
     "description": "Self-healing AI gateway & multi-agent DAG orchestration engine. Decomposes prompts into parallel workstreams, multiplexe",
@@ -248,7 +293,7 @@
     "language": "Go",
     "name": "barzoj-co/llmentary",
     "stars": 0,
-    "updated_at": "2026-10-22T21:26:49Z",
+    "updated_at": "2026-10-22T21:39:18Z",
     "url": "https://github.com/barzoj-co/llmentary"
   },
   {
@@ -277,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-10-22T20:34:12Z",
     "url": "https://github.com/Neelagiri65/tokenledger"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22837,
-    "updated_at": "2026-10-22T20:29:11Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
@@ -364,8 +400,8 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 36197,
-    "updated_at": "2026-10-22T19:37:15Z",
+    "stars": 36198,
+    "updated_at": "2026-10-22T21:38:32Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -383,7 +419,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-22T21:23:16Z",
+    "updated_at": "2026-10-22T21:43:14Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 9562,
     "updated_at": "2026-10-22T19:24:21Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
-    "id": "rknightion/genai-otel-bridge",
-    "language": "Go",
-    "name": "rknightion/genai-otel-bridge",
-    "stars": 1,
-    "updated_at": "2026-10-22T19:24:06Z",
-    "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
-    "description": "Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio",
-    "id": "naim-munshi/metriqen-llm-serving-optimization",
-    "language": "Python",
-    "name": "naim-munshi/metriqen-llm-serving-optimization",
-    "stars": 0,
-    "updated_at": "2026-10-22T19:23:52Z",
-    "url": "https://github.com/naim-munshi/metriqen-llm-serving-optimization"
-  },
-  {
-    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
-    "id": "iblai/os",
-    "language": "TypeScript",
-    "name": "iblai/os",
-    "stars": 796,
-    "updated_at": "2026-10-22T20:37:27Z",
-    "url": "https://github.com/iblai/os"
-  },
-  {
-    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
-    "id": "burakdede/lorepack",
-    "language": "TypeScript",
-    "name": "burakdede/lorepack",
-    "stars": 4,
-    "updated_at": "2026-10-22T20:09:26Z",
-    "url": "https://github.com/burakdede/lorepack"
   }
 ]
