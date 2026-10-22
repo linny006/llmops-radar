@@ -1,11 +1,65 @@
 [
   {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-22T05:43:06Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
+    "language": "Python",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 53,
+    "updated_at": "2026-10-22T05:42:55Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
+    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
+    "id": "luetzey/who2be",
+    "language": "Python",
+    "name": "luetzey/who2be",
+    "stars": 0,
+    "updated_at": "2026-10-22T05:42:25Z",
+    "url": "https://github.com/luetzey/who2be"
+  },
+  {
+    "description": "If the agent bill went up and nothing errored, a prompt cache broke. Replay Doctor names the turn it broke on, the cause",
+    "id": "RedRobotKK/Replay",
+    "language": "Go",
+    "name": "RedRobotKK/Replay",
+    "stars": 3,
+    "updated_at": "2026-10-22T05:35:42Z",
+    "url": "https://github.com/RedRobotKK/Replay"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-22T05:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code \u2014 V3 prototype runs ",
+    "id": "MongLong0214/jev-gate",
+    "language": "TypeScript",
+    "name": "MongLong0214/jev-gate",
+    "stars": 3,
+    "updated_at": "2026-10-22T05:40:57Z",
+    "url": "https://github.com/MongLong0214/jev-gate"
+  },
+  {
     "description": "Self-hostable observability SDK for continuous grounding-risk and drift monitoring in multi-agent LLM systems",
     "id": "Soum-Code/agentpulse",
     "language": "Python",
     "name": "Soum-Code/agentpulse",
     "stars": 0,
-    "updated_at": "2026-10-22T05:30:16Z",
+    "updated_at": "2026-10-22T05:45:13Z",
     "url": "https://github.com/Soum-Code/agentpulse"
   },
   {
@@ -14,7 +68,7 @@
     "language": "Go",
     "name": "renezander030/draftcat",
     "stars": 9,
-    "updated_at": "2026-10-22T05:30:05Z",
+    "updated_at": "2026-10-22T05:40:26Z",
     "url": "https://github.com/renezander030/draftcat"
   },
   {
@@ -25,6 +79,15 @@
     "stars": 201,
     "updated_at": "2026-10-22T05:29:48Z",
     "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36159,
+    "updated_at": "2026-10-22T05:36:27Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary.",
@@ -63,21 +126,12 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "Enterprise Scale AIFactory (esml) - on Azure",
-    "id": "jostrm/azure-enterprise-scale-ml",
-    "language": "Python",
-    "name": "jostrm/azure-enterprise-scale-ml",
-    "stars": 53,
-    "updated_at": "2026-10-22T05:24:27Z",
-    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
-  },
-  {
     "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
     "id": "alibaba/rtp-llm",
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1366,
-    "updated_at": "2026-10-22T05:21:02Z",
+    "updated_at": "2026-10-22T05:45:00Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -88,15 +142,6 @@
     "stars": 4,
     "updated_at": "2026-10-22T05:19:32Z",
     "url": "https://github.com/valteresj2/agent-hangar"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-22T05:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
@@ -126,15 +171,6 @@
     "url": "https://github.com/vivek-541/vivek-541"
   },
   {
-    "description": "Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code \u2014 V3 prototype runs ",
-    "id": "MongLong0214/jev-gate",
-    "language": "TypeScript",
-    "name": "MongLong0214/jev-gate",
-    "stars": 3,
-    "updated_at": "2026-10-22T05:30:21Z",
-    "url": "https://github.com/MongLong0214/jev-gate"
-  },
-  {
     "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
     "id": "holetz/quenching",
     "language": "Python",
@@ -149,7 +185,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28482,
-    "updated_at": "2026-10-22T05:27:28Z",
+    "updated_at": "2026-10-22T05:45:20Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -194,7 +230,7 @@
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 117,
-    "updated_at": "2026-10-22T05:26:18Z",
+    "updated_at": "2026-10-22T05:37:40Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -205,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-10-22T04:44:45Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
-    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
-    "id": "luetzey/who2be",
-    "language": "Python",
-    "name": "luetzey/who2be",
-    "stars": 0,
-    "updated_at": "2026-10-22T05:09:07Z",
-    "url": "https://github.com/luetzey/who2be"
   },
   {
     "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
@@ -243,15 +270,6 @@
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-22T04:07:49Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "50+ curated LLM observability tools PLUS 26 Agent Skills (several with runnable, unit-tested scripts) to build, evaluate",
     "id": "ContextJet-ai/awesome-llm-observability",
     "language": "Python",
@@ -268,15 +286,6 @@
     "stars": 4,
     "updated_at": "2026-10-22T05:28:11Z",
     "url": "https://github.com/burakdede/lorepack"
-  },
-  {
-    "description": "If the agent bill went up and nothing errored, a prompt cache broke. Replay Doctor names the turn it broke on, the cause",
-    "id": "RedRobotKK/Replay",
-    "language": "Go",
-    "name": "RedRobotKK/Replay",
-    "stars": 3,
-    "updated_at": "2026-10-22T04:52:42Z",
-    "url": "https://github.com/RedRobotKK/Replay"
   },
   {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
@@ -356,7 +365,7 @@
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 690,
-    "updated_at": "2026-10-22T04:42:12Z",
+    "updated_at": "2026-10-22T05:41:32Z",
     "url": "https://github.com/Abilityai/trinity"
   },
   {
@@ -421,15 +430,6 @@
     "stars": 0,
     "updated_at": "2026-10-22T02:44:46Z",
     "url": "https://github.com/dexteon/agent-skills"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36158,
-    "updated_at": "2026-10-22T05:28:52Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Open-source replay and evidence infrastructure for AI agents. Capture runs as portable Run Capsules for replay, diff, li",
