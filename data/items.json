@@ -1,5 +1,77 @@
 [
   {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 42,
+    "updated_at": "2026-10-22T05:15:10Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Self-hostable observability SDK for continuous grounding-risk and drift monitoring in multi-agent LLM systems",
+    "id": "Soum-Code/agentpulse",
+    "language": "Python",
+    "name": "Soum-Code/agentpulse",
+    "stars": 0,
+    "updated_at": "2026-10-22T05:13:19Z",
+    "url": "https://github.com/Soum-Code/agentpulse"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2998,
+    "updated_at": "2026-10-22T05:11:35Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-22T05:09:27Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 4,
+    "updated_at": "2026-10-22T05:09:01Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code \u2014 V3 prototype runs ",
+    "id": "MongLong0214/jev-gate",
+    "language": "TypeScript",
+    "name": "MongLong0214/jev-gate",
+    "stars": 3,
+    "updated_at": "2026-10-22T05:07:03Z",
+    "url": "https://github.com/MongLong0214/jev-gate"
+  },
+  {
+    "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
+    "id": "holetz/quenching",
+    "language": "Python",
+    "name": "holetz/quenching",
+    "stars": 1,
+    "updated_at": "2026-10-22T05:00:34Z",
+    "url": "https://github.com/holetz/quenching"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-22T05:00:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Template for small, safe AI agents in pure Python: cost caps in code, tool-less LLM client, \"I don't know\" as a valid re",
     "id": "tonyweckstrom1987/agentti-pohja",
     "language": "Python",
@@ -14,17 +86,8 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28482,
-    "updated_at": "2026-10-22T05:00:06Z",
+    "updated_at": "2026-10-22T05:06:25Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 42,
-    "updated_at": "2026-10-22T04:57:37Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "AI agent execution governance: pre-effect authorization, single-use permissions, policy enforcement, and verifiable reco",
@@ -43,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-10-22T04:54:22Z",
     "url": "https://github.com/hjongc/openrouter-endpoint-watch"
-  },
-  {
-    "description": "Self-hostable observability SDK for continuous grounding-risk and drift monitoring in multi-agent LLM systems",
-    "id": "Soum-Code/agentpulse",
-    "language": "Python",
-    "name": "Soum-Code/agentpulse",
-    "stars": 0,
-    "updated_at": "2026-10-22T04:54:21Z",
-    "url": "https://github.com/Soum-Code/agentpulse"
   },
   {
     "description": "LLM spend tracking and budgets for Rails \u2014 by user, feature, or any tag, in your own database, no proxy.",
@@ -81,15 +135,6 @@
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-22T04:45:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
     "id": "decimal-labs/decimalai-python",
     "language": "Python",
@@ -104,17 +149,8 @@
     "language": "Python",
     "name": "luetzey/who2be",
     "stars": 0,
-    "updated_at": "2026-10-22T04:41:30Z",
+    "updated_at": "2026-10-22T05:09:07Z",
     "url": "https://github.com/luetzey/who2be"
-  },
-  {
-    "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
-    "id": "holetz/quenching",
-    "language": "Python",
-    "name": "holetz/quenching",
-    "stars": 1,
-    "updated_at": "2026-10-22T04:51:27Z",
-    "url": "https://github.com/holetz/quenching"
   },
   {
     "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
@@ -131,7 +167,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30676,
-    "updated_at": "2026-10-22T04:25:56Z",
+    "updated_at": "2026-10-22T05:04:30Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -142,24 +178,6 @@
     "stars": 1,
     "updated_at": "2026-10-22T04:22:41Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
-    "description": "Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code \u2014 V3 prototype runs ",
-    "id": "MongLong0214/jev-gate",
-    "language": "TypeScript",
-    "name": "MongLong0214/jev-gate",
-    "stars": 3,
-    "updated_at": "2026-10-22T04:58:29Z",
-    "url": "https://github.com/MongLong0214/jev-gate"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-22T04:10:16Z",
-    "url": "https://github.com/toxicwind/ranch"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -196,15 +214,6 @@
     "stars": 3,
     "updated_at": "2026-10-22T04:52:42Z",
     "url": "https://github.com/RedRobotKK/Replay"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2998,
-    "updated_at": "2026-10-22T03:46:39Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
@@ -257,7 +266,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 2188,
-    "updated_at": "2026-10-22T04:54:11Z",
+    "updated_at": "2026-10-22T05:11:05Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -329,7 +338,7 @@
     "language": "TypeScript",
     "name": "Keesan12/martin-loop",
     "stars": 411,
-    "updated_at": "2026-10-22T04:57:34Z",
+    "updated_at": "2026-10-22T05:04:39Z",
     "url": "https://github.com/Keesan12/martin-loop"
   },
   {
@@ -364,7 +373,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 36156,
+    "stars": 36158,
     "updated_at": "2026-10-22T02:44:13Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -439,14 +448,5 @@
     "stars": 719,
     "updated_at": "2026-10-22T02:20:45Z",
     "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Building reliable LLM Agents \u2014 Agent eval, evidence grounding, context engineering",
-    "id": "KBber/KBber",
-    "language": "\u2014",
-    "name": "KBber/KBber",
-    "stars": 0,
-    "updated_at": "2026-10-22T02:18:56Z",
-    "url": "https://github.com/KBber/KBber"
   }
 ]
