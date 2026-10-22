@@ -1,12 +1,102 @@
 [
   {
-    "description": "Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code \u2014 V3 prototype runs ",
-    "id": "MongLong0214/jev-gate",
-    "language": "TypeScript",
-    "name": "MongLong0214/jev-gate",
+    "description": "Open-source AI on-call engineer for AWS. An alarm comes in, WARDEN reads the evidence, the AI proposes one fix from a cl",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-10-22T01:15:13Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "If the agent bill went up and nothing errored, a prompt cache broke. Replay Doctor names the turn it broke on, the cause",
+    "id": "RedRobotKK/Replay",
+    "language": "Go",
+    "name": "RedRobotKK/Replay",
     "stars": 3,
-    "updated_at": "2026-10-22T00:58:30Z",
-    "url": "https://github.com/MongLong0214/jev-gate"
+    "updated_at": "2026-10-22T01:14:58Z",
+    "url": "https://github.com/RedRobotKK/Replay"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-10-22T01:13:03Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2996,
+    "updated_at": "2026-10-22T01:11:27Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Detect drift between LLM prompts and their evaluation tests \u2014 when prompts change but evals don't",
+    "id": "yunaremaia/prompt-drift",
+    "language": "Python",
+    "name": "yunaremaia/prompt-drift",
+    "stars": 0,
+    "updated_at": "2026-10-22T01:06:14Z",
+    "url": "https://github.com/yunaremaia/prompt-drift"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22810,
+    "updated_at": "2026-10-22T01:11:38Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 201,
+    "updated_at": "2026-10-22T01:07:25Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "Vendor-neutral enterprise AI/ML architecture and governance knowledge base: reference architectures, MLOps/LLMOps lifecy",
+    "id": "MrKyaw/Enterprise-AI-Reference-Architecture",
+    "language": "Python",
+    "name": "MrKyaw/Enterprise-AI-Reference-Architecture",
+    "stars": 1,
+    "updated_at": "2026-10-22T01:05:57Z",
+    "url": "https://github.com/MrKyaw/Enterprise-AI-Reference-Architecture"
+  },
+  {
+    "description": "Model-agnostic Agent Skill: keep multiple hypotheses alive, test them against evidence, revive alternatives, collapse to",
+    "id": "Furox-Art/quantum-reasoning-skill",
+    "language": "Python",
+    "name": "Furox-Art/quantum-reasoning-skill",
+    "stars": 3,
+    "updated_at": "2026-10-22T01:05:05Z",
+    "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
+  },
+  {
+    "description": "Tamper-evident, stranger-verifiable receipts for LLM cost-savings \u2014 anyone can recompute your caching/routing savings ma",
+    "id": "thequantumfalcon/kry",
+    "language": "Python",
+    "name": "thequantumfalcon/kry",
+    "stars": 1,
+    "updated_at": "2026-10-22T01:11:06Z",
+    "url": "https://github.com/thequantumfalcon/kry"
+  },
+  {
+    "description": "A control layer that decides how an LLM should speak before it speaks",
+    "id": "Furox-Art/eq-layer",
+    "language": "Python",
+    "name": "Furox-Art/eq-layer",
+    "stars": 0,
+    "updated_at": "2026-10-22T01:04:21Z",
+    "url": "https://github.com/Furox-Art/eq-layer"
   },
   {
     "description": "Drop-in LLM proxy that cuts input tokens 30\u201370% (54.1% measured, quality-gated) across 27 transparent optimisations \u2014 ca",
@@ -14,8 +104,44 @@
     "language": "Python",
     "name": "cbeyondcloud/TokenLean",
     "stars": 3,
-    "updated_at": "2026-10-22T00:56:07Z",
+    "updated_at": "2026-10-22T01:03:40Z",
     "url": "https://github.com/cbeyondcloud/TokenLean"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-22T01:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28482,
+    "updated_at": "2026-10-22T00:59:26Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26247,
+    "updated_at": "2026-10-22T01:08:38Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code \u2014 V3 prototype runs ",
+    "id": "MongLong0214/jev-gate",
+    "language": "TypeScript",
+    "name": "MongLong0214/jev-gate",
+    "stars": 3,
+    "updated_at": "2026-10-22T00:58:30Z",
+    "url": "https://github.com/MongLong0214/jev-gate"
   },
   {
     "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
@@ -36,24 +162,6 @@
     "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2996,
-    "updated_at": "2026-10-22T00:49:28Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-22T00:45:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
     "id": "NVIDIA-NeMo/nemo-helix",
     "language": "Python",
@@ -68,53 +176,8 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 212,
-    "updated_at": "2026-10-22T00:40:40Z",
+    "updated_at": "2026-10-22T01:08:06Z",
     "url": "https://github.com/GetBusbar/busbar"
-  },
-  {
-    "description": "Tamper-evident, stranger-verifiable receipts for LLM cost-savings \u2014 anyone can recompute your caching/routing savings ma",
-    "id": "thequantumfalcon/kry",
-    "language": "Python",
-    "name": "thequantumfalcon/kry",
-    "stars": 1,
-    "updated_at": "2026-10-22T00:36:28Z",
-    "url": "https://github.com/thequantumfalcon/kry"
-  },
-  {
-    "description": "Open-source AI on-call engineer for AWS. An alarm comes in, WARDEN reads the evidence, the AI proposes one fix from a cl",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-10-22T01:00:06Z",
-    "url": "https://github.com/veerarakesh56/warden"
-  },
-  {
-    "description": "Vendor-neutral enterprise AI/ML architecture and governance knowledge base: reference architectures, MLOps/LLMOps lifecy",
-    "id": "MrKyaw/Enterprise-AI-Reference-Architecture",
-    "language": "Python",
-    "name": "MrKyaw/Enterprise-AI-Reference-Architecture",
-    "stars": 1,
-    "updated_at": "2026-10-22T00:32:28Z",
-    "url": "https://github.com/MrKyaw/Enterprise-AI-Reference-Architecture"
-  },
-  {
-    "description": "A control layer that decides how an LLM should speak before it speaks",
-    "id": "Furox-Art/eq-layer",
-    "language": "Python",
-    "name": "Furox-Art/eq-layer",
-    "stars": 0,
-    "updated_at": "2026-10-22T00:54:10Z",
-    "url": "https://github.com/Furox-Art/eq-layer"
-  },
-  {
-    "description": "Model-agnostic Agent Skill: keep multiple hypotheses alive, test them against evidence, revive alternatives, collapse to",
-    "id": "Furox-Art/quantum-reasoning-skill",
-    "language": "Python",
-    "name": "Furox-Art/quantum-reasoning-skill",
-    "stars": 3,
-    "updated_at": "2026-10-22T00:31:42Z",
-    "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
   },
   {
     "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
@@ -160,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-10-22T00:23:56Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22808,
-    "updated_at": "2026-10-22T00:59:52Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
@@ -221,7 +275,7 @@
     "language": "TypeScript",
     "name": "burakdede/lorepack",
     "stars": 4,
-    "updated_at": "2026-10-22T00:11:35Z",
+    "updated_at": "2026-10-22T01:02:49Z",
     "url": "https://github.com/burakdede/lorepack"
   },
   {
@@ -286,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-10-22T00:50:14Z",
     "url": "https://github.com/luetzey/who2be"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26246,
-    "updated_at": "2026-10-22T00:58:30Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Enterprise Scale AIFactory (esml) - on Azure",
@@ -374,7 +419,7 @@
     "language": "Rust",
     "name": "f8fvwgzc/agent-sidecar",
     "stars": 0,
-    "updated_at": "2026-10-21T23:24:41Z",
+    "updated_at": "2026-10-22T01:05:10Z",
     "url": "https://github.com/f8fvwgzc/agent-sidecar"
   },
   {
@@ -385,15 +430,6 @@
     "stars": 9,
     "updated_at": "2026-10-22T00:47:21Z",
     "url": "https://github.com/kuhlman-labs/fishhawk"
-  },
-  {
-    "description": "If the agent bill went up and nothing errored, a prompt cache broke. Replay Doctor names the turn it broke on, the cause",
-    "id": "RedRobotKK/Replay",
-    "language": "Go",
-    "name": "RedRobotKK/Replay",
-    "stars": 3,
-    "updated_at": "2026-10-22T00:28:50Z",
-    "url": "https://github.com/RedRobotKK/Replay"
   },
   {
     "description": "One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-21T23:11:14Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
-    "description": "Diff, version and audit LLM outputs in Rust: line diffs with similarity scores, structural JSON diffs, and a content-add",
-    "id": "Mattbusel/llm-diff",
-    "language": "Rust",
-    "name": "Mattbusel/llm-diff",
-    "stars": 2,
-    "updated_at": "2026-10-21T23:10:51Z",
-    "url": "https://github.com/Mattbusel/llm-diff"
-  },
-  {
-    "description": "Hard USD spend limits for LLM agents in Rust: per-agent and fleet-wide caps, kill switches, and automatic model downgrad",
-    "id": "Mattbusel/llm-budget",
-    "language": "Rust",
-    "name": "Mattbusel/llm-budget",
-    "stars": 3,
-    "updated_at": "2026-10-21T23:10:42Z",
-    "url": "https://github.com/Mattbusel/llm-budget"
-  },
-  {
-    "description": "Price every LLM API call from your logs or the provider's response (104 models, prompt caching, Claude Code logs): termi",
-    "id": "Mattbusel/llm-cost-dashboard",
-    "language": "Rust",
-    "name": "Mattbusel/llm-cost-dashboard",
-    "stars": 2,
-    "updated_at": "2026-10-21T23:10:26Z",
-    "url": "https://github.com/Mattbusel/llm-cost-dashboard"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 96,
-    "updated_at": "2026-10-22T00:57:33Z",
-    "url": "https://github.com/mloda-ai/mloda"
   }
 ]
