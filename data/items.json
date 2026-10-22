@@ -1,12 +1,21 @@
 [
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
+    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
+    "id": "a-novel/service-genai",
     "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 42,
-    "updated_at": "2026-10-22T02:15:04Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
+    "name": "a-novel/service-genai",
+    "stars": 2,
+    "updated_at": "2026-10-22T02:30:10Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary.",
+    "id": "respanai/respan-gateway",
+    "language": "Rust",
+    "name": "respanai/respan-gateway",
+    "stars": 126,
+    "updated_at": "2026-10-22T02:29:55Z",
+    "url": "https://github.com/respanai/respan-gateway"
   },
   {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
@@ -14,8 +23,116 @@
     "language": "Rust",
     "name": "toxicwind/ranch",
     "stars": 0,
-    "updated_at": "2026-10-22T02:13:41Z",
+    "updated_at": "2026-10-22T02:29:49Z",
     "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Open-source AI on-call engineer for AWS. An alarm comes in, WARDEN reads the evidence, the AI proposes one fix from a cl",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-10-22T02:28:37Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 2996,
+    "updated_at": "2026-10-22T02:28:18Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28482,
+    "updated_at": "2026-10-22T02:28:01Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Tamper-evident, stranger-verifiable receipts for LLM cost-savings \u2014 anyone can recompute your caching/routing savings ma",
+    "id": "thequantumfalcon/kry",
+    "language": "Python",
+    "name": "thequantumfalcon/kry",
+    "stars": 1,
+    "updated_at": "2026-10-22T02:26:55Z",
+    "url": "https://github.com/thequantumfalcon/kry"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-10-22T02:26:06Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 201,
+    "updated_at": "2026-10-22T02:26:16Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
+    "id": "rknightion/genai-otel-bridge",
+    "language": "Go",
+    "name": "rknightion/genai-otel-bridge",
+    "stars": 1,
+    "updated_at": "2026-10-22T02:24:57Z",
+    "url": "https://github.com/rknightion/genai-otel-bridge"
+  },
+  {
+    "description": "Analyze a coding session log and report repeated tool calls, loops that went nowhere, and turns that blew the token budg",
+    "id": "yunaremaia/agent-call-graph",
+    "language": "Python",
+    "name": "yunaremaia/agent-call-graph",
+    "stars": 0,
+    "updated_at": "2026-10-22T02:24:53Z",
+    "url": "https://github.com/yunaremaia/agent-call-graph"
+  },
+  {
+    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
+    "id": "NVIDIA-NeMo/nemo-helix",
+    "language": "Python",
+    "name": "NVIDIA-NeMo/nemo-helix",
+    "stars": 117,
+    "updated_at": "2026-10-22T02:26:48Z",
+    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
+  },
+  {
+    "description": "Building reliable LLM Agents \u2014 Agent eval, evidence grounding, context engineering",
+    "id": "KBber/KBber",
+    "language": "\u2014",
+    "name": "KBber/KBber",
+    "stars": 0,
+    "updated_at": "2026-10-22T02:18:56Z",
+    "url": "https://github.com/KBber/KBber"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-22T02:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 42,
+    "updated_at": "2026-10-22T02:15:04Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Vendor-neutral enterprise AI/ML architecture and governance knowledge base: reference architectures, MLOps/LLMOps lifecy",
@@ -54,15 +171,6 @@
     "url": "https://github.com/Phat1911/Tributary"
   },
   {
-    "description": "Open-source AI on-call engineer for AWS. An alarm comes in, WARDEN reads the evidence, the AI proposes one fix from a cl",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-10-22T02:14:21Z",
-    "url": "https://github.com/veerarakesh56/warden"
-  },
-  {
     "description": "Local coding-agent orchestrator \u2014 DAG of auto-approved, git-worktree-isolated sub-sessions across LLM providers (Claude/",
     "id": "redevops-io/sidekick",
     "language": "Python",
@@ -88,42 +196,6 @@
     "stars": 1,
     "updated_at": "2026-10-22T02:04:10Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28482,
-    "updated_at": "2026-10-22T02:02:38Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Tamper-evident, stranger-verifiable receipts for LLM cost-savings \u2014 anyone can recompute your caching/routing savings ma",
-    "id": "thequantumfalcon/kry",
-    "language": "Python",
-    "name": "thequantumfalcon/kry",
-    "stars": 1,
-    "updated_at": "2026-10-22T02:02:15Z",
-    "url": "https://github.com/thequantumfalcon/kry"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-22T02:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 2996,
-    "updated_at": "2026-10-22T02:15:03Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
@@ -158,17 +230,8 @@
     "language": "TypeScript",
     "name": "MongLong0214/jev-gate",
     "stars": 3,
-    "updated_at": "2026-10-22T02:08:34Z",
+    "updated_at": "2026-10-22T02:22:17Z",
     "url": "https://github.com/MongLong0214/jev-gate"
-  },
-  {
-    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 2,
-    "updated_at": "2026-10-22T01:50:24Z",
-    "url": "https://github.com/a-novel/service-genai"
   },
   {
     "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
@@ -176,7 +239,7 @@
     "language": "Python",
     "name": "redevops-io/agentic-os",
     "stars": 2,
-    "updated_at": "2026-10-22T01:49:22Z",
+    "updated_at": "2026-10-22T02:24:52Z",
     "url": "https://github.com/redevops-io/agentic-os"
   },
   {
@@ -189,21 +252,12 @@
     "url": "https://github.com/Abilityai/trinity"
   },
   {
-    "description": "One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary.",
-    "id": "respanai/respan-gateway",
-    "language": "Rust",
-    "name": "respanai/respan-gateway",
-    "stars": 126,
-    "updated_at": "2026-10-22T01:29:27Z",
-    "url": "https://github.com/respanai/respan-gateway"
-  },
-  {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
     "id": "mozilla-ai/otari",
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 719,
-    "updated_at": "2026-10-22T01:27:40Z",
+    "updated_at": "2026-10-22T02:20:45Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -223,6 +277,15 @@
     "stars": 22811,
     "updated_at": "2026-10-22T01:20:48Z",
     "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8933,
+    "updated_at": "2026-10-22T01:19:52Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Agent Memory Health Monitor \u2014 scan AI agent memory stores for rot, contradictions, and duplicates",
@@ -261,15 +324,6 @@
     "url": "https://github.com/yunaremaia/prompt-drift"
   },
   {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 201,
-    "updated_at": "2026-10-22T02:11:28Z",
-    "url": "https://github.com/api7/aisix"
-  },
-  {
     "description": "Model-agnostic Agent Skill: keep multiple hypotheses alive, test them against evidence, revive alternatives, collapse to",
     "id": "Furox-Art/quantum-reasoning-skill",
     "language": "Python",
@@ -297,21 +351,12 @@
     "url": "https://github.com/cbeyondcloud/TokenLean"
   },
   {
-    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
-    "id": "NVIDIA-NeMo/nemo-helix",
-    "language": "Python",
-    "name": "NVIDIA-NeMo/nemo-helix",
-    "stars": 117,
-    "updated_at": "2026-10-22T02:09:11Z",
-    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
-  },
-  {
     "description": "The execution control plane for AI agents. Govern every model request, MCP tool call, A2A delegation, and downstream act",
     "id": "GetBusbar/busbar",
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 212,
-    "updated_at": "2026-10-22T02:15:17Z",
+    "updated_at": "2026-10-22T02:28:29Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -351,15 +396,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
-    "id": "rknightion/genai-otel-bridge",
-    "language": "Go",
-    "name": "rknightion/genai-otel-bridge",
-    "stars": 1,
-    "updated_at": "2026-10-22T01:24:12Z",
-    "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
     "description": "The gagarin CLI \u2014 deploy and operate applications on gagarin. Ships the agent skill inside the binary.",
     "id": "gagarin-cloud/gg",
     "language": "Go",
@@ -378,21 +414,12 @@
     "url": "https://github.com/floydiamarkv-byte/floydia-ai-observatory"
   },
   {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-10-22T02:12:53Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
     "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
     "id": "burakdede/lorepack",
     "language": "TypeScript",
     "name": "burakdede/lorepack",
     "stars": 4,
-    "updated_at": "2026-10-22T01:02:49Z",
+    "updated_at": "2026-10-22T02:18:52Z",
     "url": "https://github.com/burakdede/lorepack"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-22T00:08:18Z",
     "url": "https://github.com/Raviteja2k2k/Raviteja2k2k"
-  },
-  {
-    "description": "Private, self-hosted AI platform that runs on one laptop (no cloud, no GPU, no API keys): agentic RAG with citations, La",
-    "id": "nixvarghese01/k8s-ai-agent-platform",
-    "language": "Python",
-    "name": "nixvarghese01/k8s-ai-agent-platform",
-    "stars": 9,
-    "updated_at": "2026-10-21T23:56:52Z",
-    "url": "https://github.com/nixvarghese01/k8s-ai-agent-platform"
-  },
-  {
-    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
-    "id": "luetzey/who2be",
-    "language": "Python",
-    "name": "luetzey/who2be",
-    "stars": 0,
-    "updated_at": "2026-10-22T02:13:09Z",
-    "url": "https://github.com/luetzey/who2be"
-  },
-  {
-    "description": "Enterprise Scale AIFactory (esml) - on Azure",
-    "id": "jostrm/azure-enterprise-scale-ml",
-    "language": "Python",
-    "name": "jostrm/azure-enterprise-scale-ml",
-    "stars": 53,
-    "updated_at": "2026-10-21T23:49:47Z",
-    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
   }
 ]
