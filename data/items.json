@@ -1,5 +1,32 @@
 [
   {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-22T03:10:37Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8935,
+    "updated_at": "2026-10-22T03:03:59Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-22T03:00:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "OpenTelemetry Instrumentation for AI Observability",
     "id": "Arize-ai/openinference",
     "language": "Python",
@@ -23,7 +50,7 @@
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 117,
-    "updated_at": "2026-10-22T02:54:41Z",
+    "updated_at": "2026-10-22T03:03:56Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -68,7 +95,7 @@
     "language": "Python",
     "name": "llmspendguard/llm-spendguard",
     "stars": 0,
-    "updated_at": "2026-10-22T02:50:06Z",
+    "updated_at": "2026-10-22T03:12:14Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
@@ -76,7 +103,7 @@
     "id": "Keesan12/martin-loop",
     "language": "TypeScript",
     "name": "Keesan12/martin-loop",
-    "stars": 412,
+    "stars": 411,
     "updated_at": "2026-10-22T02:49:32Z",
     "url": "https://github.com/Keesan12/martin-loop"
   },
@@ -97,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-10-22T02:47:14Z",
     "url": "https://github.com/a-novel/service-genai"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-22T02:45:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Claude Code skills and plugin marketplace that stop AI agents from faking success: verify by effect, measure before quot",
@@ -149,7 +167,7 @@
     "language": "Python",
     "name": "luetzey/who2be",
     "stars": 0,
-    "updated_at": "2026-10-22T02:37:07Z",
+    "updated_at": "2026-10-22T03:01:06Z",
     "url": "https://github.com/luetzey/who2be"
   },
   {
@@ -162,20 +180,11 @@
     "url": "https://github.com/vocion/vocion-core"
   },
   {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-22T02:31:06Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
     "description": "One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary.",
     "id": "respanai/respan-gateway",
     "language": "Rust",
     "name": "respanai/respan-gateway",
-    "stars": 126,
+    "stars": 127,
     "updated_at": "2026-10-22T02:29:55Z",
     "url": "https://github.com/respanai/respan-gateway"
   },
@@ -329,7 +338,7 @@
     "language": "TypeScript",
     "name": "MongLong0214/jev-gate",
     "stars": 3,
-    "updated_at": "2026-10-22T02:58:22Z",
+    "updated_at": "2026-10-22T03:05:43Z",
     "url": "https://github.com/MongLong0214/jev-gate"
   },
   {
@@ -347,7 +356,7 @@
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 689,
-    "updated_at": "2026-10-22T02:59:25Z",
+    "updated_at": "2026-10-22T03:07:47Z",
     "url": "https://github.com/Abilityai/trinity"
   },
   {
@@ -376,15 +385,6 @@
     "stars": 22812,
     "updated_at": "2026-10-22T02:59:47Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8934,
-    "updated_at": "2026-10-22T02:53:58Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Agent Memory Health Monitor \u2014 scan AI agent memory stores for rot, contradictions, and duplicates",
