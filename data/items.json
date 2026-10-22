@@ -1,12 +1,57 @@
 [
   {
+    "description": "Terraform provider for Anthropic and Claude organizations: workspaces, members, invites, API keys, service accounts, wor",
+    "id": "uttej-badwane/terraform-provider-anthropic-enterprise",
+    "language": "Go",
+    "name": "uttej-badwane/terraform-provider-anthropic-enterprise",
+    "stars": 0,
+    "updated_at": "2026-10-22T06:45:05Z",
+    "url": "https://github.com/uttej-badwane/terraform-provider-anthropic-enterprise"
+  },
+  {
+    "description": "Log triage AI gateway: QLoRA fine-tuned Qwen2.5-1.5B on CPU with confidence-based fallback to Claude, evals, caching, re",
+    "id": "Saipavanavsp/loglens",
+    "language": "Python",
+    "name": "Saipavanavsp/loglens",
+    "stars": 0,
+    "updated_at": "2026-10-22T06:43:36Z",
+    "url": "https://github.com/Saipavanavsp/loglens"
+  },
+  {
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
+    "language": "Python",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 53,
+    "updated_at": "2026-10-22T06:40:35Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
+    "description": "AI agent execution governance: pre-effect authorization, single-use permissions, policy enforcement, and verifiable reco",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 42,
+    "updated_at": "2026-10-22T06:39:40Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-10-22T06:30:26Z",
+    "updated_at": "2026-10-22T06:31:38Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8939,
+    "updated_at": "2026-10-22T06:29:15Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Ship pure LangChain and LangGraph agents to Google Cloud Run with zero google-adk lock-in using the Google Agents CLI Ex",
@@ -22,7 +67,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 36161,
+    "stars": 36163,
     "updated_at": "2026-10-22T06:26:11Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -68,17 +113,8 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 115,
-    "updated_at": "2026-10-22T06:23:33Z",
+    "updated_at": "2026-10-22T06:45:01Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Enterprise Scale AIFactory (esml) - on Azure",
-    "id": "jostrm/azure-enterprise-scale-ml",
-    "language": "Python",
-    "name": "jostrm/azure-enterprise-scale-ml",
-    "stars": 53,
-    "updated_at": "2026-10-22T06:20:35Z",
-    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
   },
   {
     "description": "Template for small, safe AI agents in pure Python: cost caps in code, tool-less LLM client, \"I don't know\" as a valid re",
@@ -86,7 +122,7 @@
     "language": "Python",
     "name": "tonyweckstrom1987/agentti-pohja",
     "stars": 0,
-    "updated_at": "2026-10-22T06:19:12Z",
+    "updated_at": "2026-10-22T06:37:21Z",
     "url": "https://github.com/tonyweckstrom1987/agentti-pohja"
   },
   {
@@ -122,7 +158,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28483,
-    "updated_at": "2026-10-22T06:14:24Z",
+    "updated_at": "2026-10-22T06:40:26Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -185,7 +221,7 @@
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 117,
-    "updated_at": "2026-10-22T05:48:10Z",
+    "updated_at": "2026-10-22T06:42:44Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -248,7 +284,7 @@
     "language": "Rust",
     "name": "respanai/respan-gateway",
     "stars": 128,
-    "updated_at": "2026-10-22T06:31:25Z",
+    "updated_at": "2026-10-22T06:42:18Z",
     "url": "https://github.com/respanai/respan-gateway"
   },
   {
@@ -257,7 +293,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1366,
-    "updated_at": "2026-10-22T06:30:45Z",
+    "updated_at": "2026-10-22T06:41:12Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -284,7 +320,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30677,
-    "updated_at": "2026-10-22T05:04:30Z",
+    "updated_at": "2026-10-22T06:41:19Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -293,17 +329,8 @@
     "language": "Python",
     "name": "holetz/quenching",
     "stars": 1,
-    "updated_at": "2026-10-22T06:31:18Z",
+    "updated_at": "2026-10-22T06:43:30Z",
     "url": "https://github.com/holetz/quenching"
-  },
-  {
-    "description": "AI agent execution governance: pre-effect authorization, single-use permissions, policy enforcement, and verifiable reco",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 42,
-    "updated_at": "2026-10-22T05:26:19Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
     "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
@@ -338,17 +365,8 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-22T06:18:23Z",
+    "updated_at": "2026-10-22T06:34:39Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8938,
-    "updated_at": "2026-10-22T06:29:15Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -374,7 +392,7 @@
     "language": "TypeScript",
     "name": "burakdede/lorepack",
     "stars": 4,
-    "updated_at": "2026-10-22T05:28:11Z",
+    "updated_at": "2026-10-22T06:34:03Z",
     "url": "https://github.com/burakdede/lorepack"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 30,
     "updated_at": "2026-10-22T03:16:48Z",
     "url": "https://github.com/Drlinglong/Remis"
-  },
-  {
-    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
-    "id": "coze-dev/coze-loop",
-    "language": "Go",
-    "name": "coze-dev/coze-loop",
-    "stars": 5783,
-    "updated_at": "2026-10-22T06:08:59Z",
-    "url": "https://github.com/coze-dev/coze-loop"
-  },
-  {
-    "description": "Self-hosted AI Agents Platform for AI Native companies. Claude Code, Codex, Gemini, OpenCode agents. Apache 2.0.  ",
-    "id": "Abilityai/trinity",
-    "language": "Python",
-    "name": "Abilityai/trinity",
-    "stars": 690,
-    "updated_at": "2026-10-22T05:41:32Z",
-    "url": "https://github.com/Abilityai/trinity"
   }
 ]
