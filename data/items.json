@@ -1,11 +1,83 @@
 [
   {
+    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
+    "id": "burakdede/lorepack",
+    "language": "TypeScript",
+    "name": "burakdede/lorepack",
+    "stars": 4,
+    "updated_at": "2026-10-23T00:29:10Z",
+    "url": "https://github.com/burakdede/lorepack"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8945,
+    "updated_at": "2026-10-23T00:28:58Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "LLM data analyst agent on LangGraph with per-call tracing, cost and latency, versioned prompts and a record/replay evalu",
+    "id": "LacerdaTraderCode/observable-analytics-agent",
+    "language": "Python",
+    "name": "LacerdaTraderCode/observable-analytics-agent",
+    "stars": 0,
+    "updated_at": "2026-10-23T00:29:00Z",
+    "url": "https://github.com/LacerdaTraderCode/observable-analytics-agent"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-23T00:23:27Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61838,
+    "updated_at": "2026-10-23T00:29:02Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod",
+    "id": "valteresj2/agent-hangar",
+    "language": "Python",
+    "name": "valteresj2/agent-hangar",
+    "stars": 4,
+    "updated_at": "2026-10-23T00:20:07Z",
+    "url": "https://github.com/valteresj2/agent-hangar"
+  },
+  {
+    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
+    "id": "NVIDIA-NeMo/nemo-helix",
+    "language": "Python",
+    "name": "NVIDIA-NeMo/nemo-helix",
+    "stars": 122,
+    "updated_at": "2026-10-23T00:17:52Z",
+    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-23T00:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
     "id": "cloudrift-ai/emmy",
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 115,
-    "updated_at": "2026-10-23T00:14:11Z",
+    "updated_at": "2026-10-23T00:28:18Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -45,6 +117,15 @@
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 30689,
+    "updated_at": "2026-10-23T00:05:38Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
     "id": "llmsyscore/llm-systems-manager",
     "language": "Python",
@@ -54,21 +135,12 @@
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-23T00:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11955,
-    "updated_at": "2026-10-23T00:15:05Z",
+    "updated_at": "2026-10-23T00:30:18Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -95,7 +167,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4987,
-    "updated_at": "2026-10-23T00:14:57Z",
+    "updated_at": "2026-10-23T00:28:23Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -171,15 +243,6 @@
     "url": "https://github.com/JavisBot-Service/javis-transparency"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61837,
-    "updated_at": "2026-10-22T23:53:15Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Model-agnostic Agent Skill: keep multiple hypotheses alive, test them against evidence, revive alternatives, collapse to",
     "id": "Furox-Art/quantum-reasoning-skill",
     "language": "Python",
@@ -205,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-10-22T23:08:18Z",
     "url": "https://github.com/api-evangelist/seldon"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-22T23:44:01Z",
-    "url": "https://github.com/toxicwind/ranch"
   },
   {
     "description": "Open-source replay and evidence infrastructure for AI agents. Capture runs as portable Run Capsules for replay, diff, li",
@@ -297,15 +351,6 @@
     "url": "https://github.com/bentoml/OpenLLM"
   },
   {
-    "description": "One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod",
-    "id": "valteresj2/agent-hangar",
-    "language": "Python",
-    "name": "valteresj2/agent-hangar",
-    "stars": 4,
-    "updated_at": "2026-10-22T22:44:35Z",
-    "url": "https://github.com/valteresj2/agent-hangar"
-  },
-  {
     "description": "Comet \u2014 independent third-party profile of a public API surface, by API Evangelist. Comet is an enterprise AI/ML develop",
     "id": "api-evangelist/comet",
     "language": "\u2014",
@@ -315,21 +360,12 @@
     "url": "https://github.com/api-evangelist/comet"
   },
   {
-    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
-    "id": "NVIDIA-NeMo/nemo-helix",
-    "language": "Python",
-    "name": "NVIDIA-NeMo/nemo-helix",
-    "stars": 122,
-    "updated_at": "2026-10-22T23:57:54Z",
-    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22841,
-    "updated_at": "2026-10-22T22:37:44Z",
+    "updated_at": "2026-10-23T00:24:47Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -405,15 +441,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
-    "id": "burakdede/lorepack",
-    "language": "TypeScript",
-    "name": "burakdede/lorepack",
-    "stars": 4,
-    "updated_at": "2026-10-22T23:59:05Z",
-    "url": "https://github.com/burakdede/lorepack"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -421,32 +448,5 @@
     "stars": 26308,
     "updated_at": "2026-10-22T21:50:10Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 4,
-    "updated_at": "2026-10-22T21:49:37Z",
-    "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "A tool-agnostic correctness suite for Google ADK cost-tracking plugins: unknown models, cached tokens, thinking tokens, ",
-    "id": "gaurav-gandhi-2411/adk-cost-correctness",
-    "language": "Python",
-    "name": "gaurav-gandhi-2411/adk-cost-correctness",
-    "stars": 0,
-    "updated_at": "2026-10-22T21:47:37Z",
-    "url": "https://github.com/gaurav-gandhi-2411/adk-cost-correctness"
-  },
-  {
-    "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
-    "id": "holetz/quenching",
-    "language": "Python",
-    "name": "holetz/quenching",
-    "stars": 1,
-    "updated_at": "2026-10-23T00:07:46Z",
-    "url": "https://github.com/holetz/quenching"
   }
 ]
