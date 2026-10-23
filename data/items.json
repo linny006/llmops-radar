@@ -1,12 +1,120 @@
 [
   {
+    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
+    "id": "JoniMartin27/lookspan",
+    "language": "TypeScript",
+    "name": "JoniMartin27/lookspan",
+    "stars": 7,
+    "updated_at": "2026-10-23T11:29:54Z",
+    "url": "https://github.com/JoniMartin27/lookspan"
+  },
+  {
+    "description": "Read-only Kubernetes diagnostics as MCP tools plus a minimal host that lets a local LLM (Ollama) inspect and debug your ",
+    "id": "eliffkeskin/k8s-ops-mcp",
+    "language": "Python",
+    "name": "eliffkeskin/k8s-ops-mcp",
+    "stars": 0,
+    "updated_at": "2026-10-23T11:28:25Z",
+    "url": "https://github.com/eliffkeskin/k8s-ops-mcp"
+  },
+  {
+    "description": "Enterprise-grade, high-performance LLM serving on Kubernetes. OpenAI-compatible inference powered by vLLM and OpenVINO\u2122 ",
+    "id": "intel/enterprise-inference",
+    "language": "Python",
+    "name": "intel/enterprise-inference",
+    "stars": 8,
+    "updated_at": "2026-10-23T11:27:54Z",
+    "url": "https://github.com/intel/enterprise-inference"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 730,
+    "updated_at": "2026-10-23T11:27:33Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "\ud83c\udf89 An awesome & curated list of best LLMOps tools.",
+    "id": "InftyAI/Awesome-LLMOps",
+    "language": "Python",
+    "name": "InftyAI/Awesome-LLMOps",
+    "stars": 268,
+    "updated_at": "2026-10-23T11:27:23Z",
+    "url": "https://github.com/InftyAI/Awesome-LLMOps"
+  },
+  {
+    "description": "Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF\u2194Bedrock mapping (US regions) with a free st",
+    "id": "scttfrdmn/hf-bedrock-map",
+    "language": "Go",
+    "name": "scttfrdmn/hf-bedrock-map",
+    "stars": 1,
+    "updated_at": "2026-10-23T11:25:01Z",
+    "url": "https://github.com/scttfrdmn/hf-bedrock-map"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-10-23T11:24:51Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "Self-hosted model and dataset hub, compatible with the Hugging Face Hub API, git, Ollama and LM Studio. Use it as a priv",
+    "id": "hangar-hub/hangar",
+    "language": "Go",
+    "name": "hangar-hub/hangar",
+    "stars": 2,
+    "updated_at": "2026-10-23T11:24:38Z",
+    "url": "https://github.com/hangar-hub/hangar"
+  },
+  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22847,
-    "updated_at": "2026-10-23T11:14:54Z",
+    "updated_at": "2026-10-23T11:28:26Z",
     "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4988,
+    "updated_at": "2026-10-23T11:23:00Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 1,
+    "updated_at": "2026-10-23T11:25:12Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "AI for tyre circularity: YOLO26 casing triage with a governed MLOps release loop (DVC, MLflow, gated promotion, drift) a",
+    "id": "arav7781/TREADOPS",
+    "language": "Python",
+    "name": "arav7781/TREADOPS",
+    "stars": 0,
+    "updated_at": "2026-10-23T11:18:33Z",
+    "url": "https://github.com/arav7781/TREADOPS"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-23T11:15:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
@@ -14,7 +122,7 @@
     "language": "Python",
     "name": "dynamiq-ai/dynamiq",
     "stars": 1071,
-    "updated_at": "2026-10-23T11:12:49Z",
+    "updated_at": "2026-10-23T11:15:49Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
@@ -32,17 +140,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 36249,
-    "updated_at": "2026-10-23T11:14:02Z",
+    "updated_at": "2026-10-23T11:28:23Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 730,
-    "updated_at": "2026-10-23T11:14:35Z",
-    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
@@ -63,20 +162,11 @@
     "url": "https://github.com/francordel/myrtia"
   },
   {
-    "description": "Self-hosted model and dataset hub, compatible with the Hugging Face Hub API, git, Ollama and LM Studio. Use it as a priv",
-    "id": "hangar-hub/hangar",
-    "language": "Go",
-    "name": "hangar-hub/hangar",
-    "stars": 2,
-    "updated_at": "2026-10-23T11:07:42Z",
-    "url": "https://github.com/hangar-hub/hangar"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 28509,
+    "stars": 28510,
     "updated_at": "2026-10-23T11:07:14Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -90,15 +180,6 @@
     "url": "https://github.com/kelvran/gateway"
   },
   {
-    "description": "Read-only Kubernetes diagnostics as MCP tools plus a minimal host that lets a local LLM (Ollama) inspect and debug your ",
-    "id": "eliffkeskin/k8s-ops-mcp",
-    "language": "Python",
-    "name": "eliffkeskin/k8s-ops-mcp",
-    "stars": 0,
-    "updated_at": "2026-10-23T11:12:51Z",
-    "url": "https://github.com/eliffkeskin/k8s-ops-mcp"
-  },
-  {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "Python",
@@ -106,15 +187,6 @@
     "stars": 3004,
     "updated_at": "2026-10-23T11:06:30Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "AI for tyre circularity: YOLO26 casing triage with a governed MLOps release loop (DVC, MLflow, gated promotion, drift) a",
-    "id": "arav7781/TREADOPS",
-    "language": "Python",
-    "name": "arav7781/TREADOPS",
-    "stars": 0,
-    "updated_at": "2026-10-23T11:06:01Z",
-    "url": "https://github.com/arav7781/TREADOPS"
   },
   {
     "description": "Agentes de IA en paralelo: jefatura, relevo por hoja de ruta y fila de trabajo pesado con sem\u00e1foro PSI",
@@ -160,24 +232,6 @@
     "stars": 464,
     "updated_at": "2026-10-23T11:01:24Z",
     "url": "https://github.com/SynaLinks/synalinks"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-23T11:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4988,
-    "updated_at": "2026-10-23T11:12:14Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
@@ -243,15 +297,6 @@
     "url": "https://github.com/Abillify/atf"
   },
   {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 1,
-    "updated_at": "2026-10-23T10:47:44Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
     "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
     "id": "alibaba/rtp-llm",
     "language": "Python",
@@ -301,7 +346,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 61890,
+    "stars": 61891,
     "updated_at": "2026-10-23T10:18:37Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -403,50 +448,5 @@
     "stars": 17,
     "updated_at": "2026-10-23T09:42:50Z",
     "url": "https://github.com/dativo-io/talon"
-  },
-  {
-    "description": "Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code \u2014 V3 prototype runs ",
-    "id": "MongLong0214/jev-gate",
-    "language": "TypeScript",
-    "name": "MongLong0214/jev-gate",
-    "stars": 3,
-    "updated_at": "2026-10-23T09:36:17Z",
-    "url": "https://github.com/MongLong0214/jev-gate"
-  },
-  {
-    "description": "If the agent bill went up and nothing errored, a prompt cache broke. Replay Doctor names the turn it broke on, the cause",
-    "id": "RedRobotKK/Replay",
-    "language": "Go",
-    "name": "RedRobotKK/Replay",
-    "stars": 3,
-    "updated_at": "2026-10-23T09:32:26Z",
-    "url": "https://github.com/RedRobotKK/Replay"
-  },
-  {
-    "description": "Radicalbit AI Gateway",
-    "id": "radicalbit/radicalbit-ai-gateway",
-    "language": "Python",
-    "name": "radicalbit/radicalbit-ai-gateway",
-    "stars": 72,
-    "updated_at": "2026-10-23T09:30:59Z",
-    "url": "https://github.com/radicalbit/radicalbit-ai-gateway"
-  },
-  {
-    "description": "Local CLI for auditing AI agent skills, conflicts, duplicates, safety risks, and context cost across coding agents.",
-    "id": "evilstar2016/skill-doctor",
-    "language": "TypeScript",
-    "name": "evilstar2016/skill-doctor",
-    "stars": 13,
-    "updated_at": "2026-10-23T09:20:42Z",
-    "url": "https://github.com/evilstar2016/skill-doctor"
-  },
-  {
-    "description": "Terraform for your own LLMs: an open-source CLI that deploys vLLM and llama.cpp to your own machine or to GPU cloud prov",
-    "id": "andypalmi/amicu",
-    "language": "Rust",
-    "name": "andypalmi/amicu",
-    "stars": 1,
-    "updated_at": "2026-10-23T09:20:27Z",
-    "url": "https://github.com/andypalmi/amicu"
   }
 ]
