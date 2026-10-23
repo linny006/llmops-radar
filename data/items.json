@@ -1,5 +1,104 @@
 [
   {
+    "description": "Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio",
+    "id": "naim-munshi/metriqen-llm-serving-optimization",
+    "language": "Python",
+    "name": "naim-munshi/metriqen-llm-serving-optimization",
+    "stars": 0,
+    "updated_at": "2026-10-23T03:14:09Z",
+    "url": "https://github.com/naim-munshi/metriqen-llm-serving-optimization"
+  },
+  {
+    "description": "Detect & score LLM hallucinations by groundedness \u2014 labeled data, precision/recall/F1, runs offline with no API key. Plu",
+    "id": "ramenprotokol/hallucination-hunter",
+    "language": "Python",
+    "name": "ramenprotokol/hallucination-hunter",
+    "stars": 0,
+    "updated_at": "2026-10-23T03:14:06Z",
+    "url": "https://github.com/ramenprotokol/hallucination-hunter"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-23T03:12:42Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 42,
+    "updated_at": "2026-10-23T03:11:13Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-23T03:10:42Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Vendor-neutral enterprise AI architecture and practical leadership: discovery, decisions, 24 lifecycles, 8 reference des",
+    "id": "MrKyaw/Enterprise-AI-Reference-Architecture",
+    "language": "Python",
+    "name": "MrKyaw/Enterprise-AI-Reference-Architecture",
+    "stars": 1,
+    "updated_at": "2026-10-23T03:10:13Z",
+    "url": "https://github.com/MrKyaw/Enterprise-AI-Reference-Architecture"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11956,
+    "updated_at": "2026-10-23T03:14:58Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Open-source replay and evidence infrastructure for AI agents. Capture runs as portable Run Capsules for replay, diff, li",
+    "id": "MSKazemi/novafabric",
+    "language": "Python",
+    "name": "MSKazemi/novafabric",
+    "stars": 7,
+    "updated_at": "2026-10-23T03:01:36Z",
+    "url": "https://github.com/MSKazemi/novafabric"
+  },
+  {
+    "description": "Local, self-hosted agent infrastructure \u2014 one endpoint for every AI client (Claude Code, Codex CLI, Gemini CLI, OpenCode",
+    "id": "Stravia-AI/StraviaPlatform",
+    "language": "Rust",
+    "name": "Stravia-AI/StraviaPlatform",
+    "stars": 3,
+    "updated_at": "2026-10-23T03:00:44Z",
+    "url": "https://github.com/Stravia-AI/StraviaPlatform"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-23T03:00:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-23T03:12:01Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
     "description": "",
     "id": "coffeehc/xagent-docs",
     "language": "TypeScript",
@@ -9,6 +108,15 @@
     "url": "https://github.com/coffeehc/xagent-docs"
   },
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28504,
+    "updated_at": "2026-10-23T02:57:47Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
     "id": "sarkars/agent-failure-modes",
     "language": "Python",
@@ -16,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-10-23T02:56:06Z",
     "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28502,
-    "updated_at": "2026-10-23T02:57:47Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code \u2014 V3 prototype runs ",
@@ -50,35 +149,17 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8947,
-    "updated_at": "2026-10-23T02:49:53Z",
+    "updated_at": "2026-10-23T03:14:55Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-23T02:45:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 36210,
+    "stars": 36214,
     "updated_at": "2026-10-23T02:45:23Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11956,
-    "updated_at": "2026-10-23T02:59:29Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
@@ -95,7 +176,7 @@
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 692,
-    "updated_at": "2026-10-23T02:40:12Z",
+    "updated_at": "2026-10-23T03:10:16Z",
     "url": "https://github.com/Abilityai/trinity"
   },
   {
@@ -149,7 +230,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4988,
-    "updated_at": "2026-10-23T02:59:44Z",
+    "updated_at": "2026-10-23T03:15:06Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -171,24 +252,6 @@
     "url": "https://github.com/dexteon/agent-skills"
   },
   {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-23T02:14:07Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
-    "description": "Detect & score LLM hallucinations by groundedness \u2014 labeled data, precision/recall/F1, runs offline with no API key. Plu",
-    "id": "ramenprotokol/hallucination-hunter",
-    "language": "Python",
-    "name": "ramenprotokol/hallucination-hunter",
-    "stars": 0,
-    "updated_at": "2026-10-23T02:09:38Z",
-    "url": "https://github.com/ramenprotokol/hallucination-hunter"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
@@ -207,29 +270,11 @@
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
-    "description": "Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio",
-    "id": "naim-munshi/metriqen-llm-serving-optimization",
-    "language": "Python",
-    "name": "naim-munshi/metriqen-llm-serving-optimization",
-    "stars": 0,
-    "updated_at": "2026-10-23T02:04:30Z",
-    "url": "https://github.com/naim-munshi/metriqen-llm-serving-optimization"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 42,
-    "updated_at": "2026-10-23T02:02:24Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26310,
+    "stars": 26314,
     "updated_at": "2026-10-23T01:56:08Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -239,7 +284,7 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 11,
-    "updated_at": "2026-10-23T01:50:01Z",
+    "updated_at": "2026-10-23T03:07:39Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
@@ -378,15 +423,6 @@
     "url": "https://github.com/idevelopAI/llm-eval-control-plane"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-22T23:51:30Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "Self-hosted AI orchestration with policy, approvals, PII controls, audit evidence, retrieval, and governed MCP tools",
     "id": "Abillify/atf",
     "language": "TypeScript",
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-23T02:00:35Z",
     "url": "https://github.com/RedRobotKK/Replay"
-  },
-  {
-    "description": "A hands-on library for DevOps, Cloud, and AI engineers: real production scenarios for AWS, Kubernetes, Docker, and LLMOp",
-    "id": "sandeepk24/learn-devops-playbook",
-    "language": "Python",
-    "name": "sandeepk24/learn-devops-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-22T23:28:52Z",
-    "url": "https://github.com/sandeepk24/learn-devops-playbook"
-  },
-  {
-    "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
-    "id": "hjongc/openrouter-endpoint-watch",
-    "language": "Python",
-    "name": "hjongc/openrouter-endpoint-watch",
-    "stars": 0,
-    "updated_at": "2026-10-22T23:25:49Z",
-    "url": "https://github.com/hjongc/openrouter-endpoint-watch"
-  },
-  {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
-    "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 1,
-    "updated_at": "2026-10-22T23:25:07Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "Deterministic trace-based integration testing for LLM apps",
-    "id": "barzoj-co/llmentary",
-    "language": "Go",
-    "name": "barzoj-co/llmentary",
-    "stars": 0,
-    "updated_at": "2026-10-22T23:09:45Z",
-    "url": "https://github.com/barzoj-co/llmentary"
   }
 ]
