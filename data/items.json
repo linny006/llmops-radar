@@ -5,17 +5,44 @@
     "language": "Python",
     "name": "Arize-ai/openinference",
     "stars": 1278,
-    "updated_at": "2026-10-23T22:00:16Z",
+    "updated_at": "2026-10-23T22:14:52Z",
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "OpenAI/Anthropic-compatible API server that impersonates a locally hosted LLM and serves every request by driving the Cl",
+    "id": "amitshaikoren/llm-socket",
+    "language": "TypeScript",
+    "name": "amitshaikoren/llm-socket",
+    "stars": 0,
+    "updated_at": "2026-10-23T22:12:24Z",
+    "url": "https://github.com/amitshaikoren/llm-socket"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 42,
+    "updated_at": "2026-10-23T22:09:27Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-23T22:08:45Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
+    "id": "NVIDIA-NeMo/nemo-helix",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61917,
-    "updated_at": "2026-10-23T21:59:52Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "NVIDIA-NeMo/nemo-helix",
+    "stars": 124,
+    "updated_at": "2026-10-23T22:14:49Z",
+    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
@@ -23,8 +50,80 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-23T21:57:47Z",
+    "updated_at": "2026-10-23T22:15:13Z",
     "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Client packages for AER: the flight recorder for AI agents",
+    "id": "Ad-Astra-Computing/aer",
+    "language": "TypeScript",
+    "name": "Ad-Astra-Computing/aer",
+    "stars": 0,
+    "updated_at": "2026-10-23T22:09:41Z",
+    "url": "https://github.com/Ad-Astra-Computing/aer"
+  },
+  {
+    "description": "A streaming action runtime for AI agents, model serving, and multimodal APIs",
+    "id": "hpnkv/a11",
+    "language": "C++",
+    "name": "hpnkv/a11",
+    "stars": 11,
+    "updated_at": "2026-10-23T22:06:56Z",
+    "url": "https://github.com/hpnkv/a11"
+  },
+  {
+    "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
+    "id": "holetz/quenching",
+    "language": "Python",
+    "name": "holetz/quenching",
+    "stars": 1,
+    "updated_at": "2026-10-23T22:15:22Z",
+    "url": "https://github.com/holetz/quenching"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 116,
+    "updated_at": "2026-10-23T22:12:23Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Myrtia \u2014 agent-native red teaming for LLMs and AI agents: a deliberating council of attacker models (propose, cross-crit",
+    "id": "francordel/myrtia",
+    "language": "Python",
+    "name": "francordel/myrtia",
+    "stars": 29,
+    "updated_at": "2026-10-23T22:02:34Z",
+    "url": "https://github.com/francordel/myrtia"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61917,
+    "updated_at": "2026-10-23T22:13:39Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-23T22:00:40Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-23T22:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
@@ -54,24 +153,6 @@
     "url": "https://github.com/MSKazemi/novafabric"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-23T21:48:56Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
-    "id": "holetz/quenching",
-    "language": "Python",
-    "name": "holetz/quenching",
-    "stars": 1,
-    "updated_at": "2026-10-23T21:59:32Z",
-    "url": "https://github.com/holetz/quenching"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -88,24 +169,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T21:46:44Z",
     "url": "https://github.com/Furox-Art/eq-layer"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-23T21:45:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 42,
-    "updated_at": "2026-10-23T21:45:31Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "GitOps for recurring agent work, with approved access, sandboxed runs and audit trails.",
@@ -126,24 +189,6 @@
     "url": "https://github.com/valteresj2/agent-hangar"
   },
   {
-    "description": "Client packages for AER: the flight recorder for AI agents",
-    "id": "Ad-Astra-Computing/aer",
-    "language": "TypeScript",
-    "name": "Ad-Astra-Computing/aer",
-    "stars": 0,
-    "updated_at": "2026-10-23T21:38:41Z",
-    "url": "https://github.com/Ad-Astra-Computing/aer"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 116,
-    "updated_at": "2026-10-23T21:47:55Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
     "description": "LLM data analyst agent on LangGraph with per-call tracing, cost and latency, versioned prompts and a record/replay evalu",
     "id": "LacerdaTraderCode/observable-analytics-agent",
     "language": "Python",
@@ -160,15 +205,6 @@
     "stars": 4,
     "updated_at": "2026-10-23T21:33:15Z",
     "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
-    "id": "NVIDIA-NeMo/nemo-helix",
-    "language": "Python",
-    "name": "NVIDIA-NeMo/nemo-helix",
-    "stars": 124,
-    "updated_at": "2026-10-23T21:58:05Z",
-    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
     "description": "ClearML - Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data Management, Pipeline, Orchestra",
@@ -203,7 +239,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 96,
-    "updated_at": "2026-10-23T21:17:16Z",
+    "updated_at": "2026-10-23T22:11:08Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -214,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T21:14:01Z",
     "url": "https://github.com/mehmetyz/blast-radius"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-23T21:08:14Z",
-    "url": "https://github.com/toxicwind/ranch"
   },
   {
     "description": "Dark Gravity LLMOps Standard: ISO/IEC/IEEE 42010 agent observability, prompt lineage, and runtime guardrails for autonom",
@@ -288,21 +315,12 @@
     "url": "https://github.com/JehanneDussert/govllm"
   },
   {
-    "description": "Myrtia \u2014 agent-native red teaming for LLMs and AI agents: a deliberating council of attacker models (propose, cross-crit",
-    "id": "francordel/myrtia",
-    "language": "Python",
-    "name": "francordel/myrtia",
-    "stars": 29,
-    "updated_at": "2026-10-23T20:41:26Z",
-    "url": "https://github.com/francordel/myrtia"
-  },
-  {
     "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
     "id": "ZIZKA-AI-SL/ZizkaDB",
     "language": "Python",
     "name": "ZIZKA-AI-SL/ZizkaDB",
     "stars": 145,
-    "updated_at": "2026-10-23T20:37:42Z",
+    "updated_at": "2026-10-23T22:13:20Z",
     "url": "https://github.com/ZIZKA-AI-SL/ZizkaDB"
   },
   {
@@ -347,7 +365,7 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 11,
-    "updated_at": "2026-10-23T20:10:41Z",
+    "updated_at": "2026-10-23T22:06:48Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-23T20:58:43Z",
     "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
-  },
-  {
-    "description": "Self-hosted coding assistant that routes each request to the cheapest model that can handle it",
-    "id": "optiware-ai/optimux",
-    "language": "Python",
-    "name": "optiware-ai/optimux",
-    "stars": 1,
-    "updated_at": "2026-10-23T19:59:44Z",
-    "url": "https://github.com/optiware-ai/optimux"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 30706,
-    "updated_at": "2026-10-23T19:35:01Z",
-    "url": "https://github.com/ComposioHQ/composio"
   }
 ]
