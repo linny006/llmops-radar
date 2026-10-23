@@ -1,5 +1,122 @@
 [
   {
+    "description": "Radicalbit AI Gateway",
+    "id": "radicalbit/radicalbit-ai-gateway",
+    "language": "Python",
+    "name": "radicalbit/radicalbit-ai-gateway",
+    "stars": 72,
+    "updated_at": "2026-10-23T08:59:52Z",
+    "url": "https://github.com/radicalbit/radicalbit-ai-gateway"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22845,
+    "updated_at": "2026-10-23T08:58:12Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-23T08:57:05Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36241,
+    "updated_at": "2026-10-23T09:00:21Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 3003,
+    "updated_at": "2026-10-23T08:53:55Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "The open-source agentic framework to build, orchestrate, and operate production AI agents.",
+    "id": "apowerb/apowerb",
+    "language": "Python",
+    "name": "apowerb/apowerb",
+    "stars": 150,
+    "updated_at": "2026-10-23T08:53:31Z",
+    "url": "https://github.com/apowerb/apowerb"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28508,
+    "updated_at": "2026-10-23T08:52:56Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 30694,
+    "updated_at": "2026-10-23T08:58:45Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
+    "description": "Myrtia \u2014 agent-native red teaming for LLMs and AI agents: a deliberating council of attacker models (propose, cross-crit",
+    "id": "francordel/myrtia",
+    "language": "Python",
+    "name": "francordel/myrtia",
+    "stars": 29,
+    "updated_at": "2026-10-23T08:52:26Z",
+    "url": "https://github.com/francordel/myrtia"
+  },
+  {
+    "description": "Control plane for company AI use cases \u2014 one self-hosted operating layer for shared budgets, policies, reliability, and ",
+    "id": "dativo-io/talon",
+    "language": "Go",
+    "name": "dativo-io/talon",
+    "stars": 17,
+    "updated_at": "2026-10-23T08:53:04Z",
+    "url": "https://github.com/dativo-io/talon"
+  },
+  {
+    "description": "Comet \u2014 independent third-party profile of a public API surface, by API Evangelist. Comet is an enterprise AI/ML develop",
+    "id": "api-evangelist/comet",
+    "language": "\u2014",
+    "name": "api-evangelist/comet",
+    "stars": 0,
+    "updated_at": "2026-10-23T08:49:16Z",
+    "url": "https://github.com/api-evangelist/comet"
+  },
+  {
+    "description": "Flight recorder & observability for AI agents: trace every model call, tool call, file edit and shell command live, with",
+    "id": "abdullahimohamed101/agent-black-box",
+    "language": "Python",
+    "name": "abdullahimohamed101/agent-black-box",
+    "stars": 0,
+    "updated_at": "2026-10-23T08:48:33Z",
+    "url": "https://github.com/abdullahimohamed101/agent-black-box"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-23T08:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "A self-hosted OpenAI-compatible proxy and web app for debugging, testing, and improving AI agents.",
     "id": "NordsteinSoftware/Proxytrace",
     "language": "C#",
@@ -9,39 +126,12 @@
     "url": "https://github.com/NordsteinSoftware/Proxytrace"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 3003,
-    "updated_at": "2026-10-23T08:42:51Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28508,
-    "updated_at": "2026-10-23T08:43:20Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36239,
-    "updated_at": "2026-10-23T08:45:11Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Self-hosted AI Agents Platform for AI Native companies. Claude Code, Codex, Gemini, OpenCode agents. Apache 2.0.  ",
     "id": "Abilityai/trinity",
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 694,
-    "updated_at": "2026-10-23T08:39:18Z",
+    "updated_at": "2026-10-23T08:54:49Z",
     "url": "https://github.com/Abilityai/trinity"
   },
   {
@@ -50,7 +140,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4988,
-    "updated_at": "2026-10-23T08:45:00Z",
+    "updated_at": "2026-10-23T08:57:05Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -81,15 +171,6 @@
     "url": "https://github.com/MongLong0214/jev-gate"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22845,
-    "updated_at": "2026-10-23T08:37:50Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Price every LLM API call from your logs or the provider's response (104 models, prompt caching, Claude Code logs): termi",
     "id": "Mattbusel/llm-cost-dashboard",
     "language": "Rust",
@@ -97,15 +178,6 @@
     "stars": 2,
     "updated_at": "2026-10-23T08:30:39Z",
     "url": "https://github.com/Mattbusel/llm-cost-dashboard"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-23T08:30:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
@@ -122,7 +194,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 730,
-    "updated_at": "2026-10-23T08:28:56Z",
+    "updated_at": "2026-10-23T08:55:27Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -149,7 +221,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 2196,
-    "updated_at": "2026-10-23T08:41:34Z",
+    "updated_at": "2026-10-23T08:58:47Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -162,15 +234,6 @@
     "url": "https://github.com/ndom91/llama-dash"
   },
   {
-    "description": "Control plane for company AI use cases \u2014 one self-hosted operating layer for shared budgets, policies, reliability, and ",
-    "id": "dativo-io/talon",
-    "language": "Go",
-    "name": "dativo-io/talon",
-    "stars": 17,
-    "updated_at": "2026-10-23T08:44:33Z",
-    "url": "https://github.com/dativo-io/talon"
-  },
-  {
     "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
     "id": "SourceShift/mini-ork",
     "language": "Python",
@@ -178,15 +241,6 @@
     "stars": 32,
     "updated_at": "2026-10-23T08:15:47Z",
     "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Myrtia \u2014 agent-native red teaming for LLMs and AI agents: a deliberating council of attacker models (propose, cross-crit",
-    "id": "francordel/myrtia",
-    "language": "Python",
-    "name": "francordel/myrtia",
-    "stars": 29,
-    "updated_at": "2026-10-23T08:13:09Z",
-    "url": "https://github.com/francordel/myrtia"
   },
   {
     "description": "Self-hosted coding assistant that routes each request to the cheapest model that can handle it",
@@ -205,24 +259,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T08:11:31Z",
     "url": "https://github.com/toxicwind/ranch"
-  },
-  {
-    "description": "The open-source agentic framework to build, orchestrate, and operate production AI agents.",
-    "id": "apowerb/apowerb",
-    "language": "Python",
-    "name": "apowerb/apowerb",
-    "stars": 150,
-    "updated_at": "2026-10-23T08:17:57Z",
-    "url": "https://github.com/apowerb/apowerb"
-  },
-  {
-    "description": "Flight recorder & observability for AI agents: trace every model call, tool call, file edit and shell command live, with",
-    "id": "abdullahimohamed101/agent-black-box",
-    "language": "Python",
-    "name": "abdullahimohamed101/agent-black-box",
-    "stars": 0,
-    "updated_at": "2026-10-23T08:08:35Z",
-    "url": "https://github.com/abdullahimohamed101/agent-black-box"
   },
   {
     "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
@@ -284,7 +320,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1367,
-    "updated_at": "2026-10-23T08:45:05Z",
+    "updated_at": "2026-10-23T08:54:53Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -295,15 +331,6 @@
     "stars": 61881,
     "updated_at": "2026-10-23T07:56:08Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-23T07:56:19Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
@@ -322,15 +349,6 @@
     "stars": 1,
     "updated_at": "2026-10-23T07:53:40Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
-    "description": "Radicalbit AI Gateway",
-    "id": "radicalbit/radicalbit-ai-gateway",
-    "language": "Python",
-    "name": "radicalbit/radicalbit-ai-gateway",
-    "stars": 72,
-    "updated_at": "2026-10-23T07:49:09Z",
-    "url": "https://github.com/radicalbit/radicalbit-ai-gateway"
   },
   {
     "description": "Mide y frena el gasto de tokens de tu flota de agentes (Claude Code, Codex, OpenCode): panel, app de barra de menus y re",
@@ -365,7 +383,7 @@
     "language": "Go",
     "name": "hangar-hub/hangar",
     "stars": 2,
-    "updated_at": "2026-10-23T08:33:23Z",
+    "updated_at": "2026-10-23T08:57:09Z",
     "url": "https://github.com/hangar-hub/hangar"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-23T07:12:35Z",
     "url": "https://github.com/cbeyondcloud/TokenLean"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 116,
-    "updated_at": "2026-10-23T08:12:46Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-10-23T06:58:10Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   }
 ]
