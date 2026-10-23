@@ -1,39 +1,12 @@
 [
   {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
+    "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
+    "id": "holetz/quenching",
     "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 2,
-    "updated_at": "2026-10-23T21:29:10Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "LLM data analyst agent on LangGraph with per-call tracing, cost and latency, versioned prompts and a record/replay evalu",
-    "id": "LacerdaTraderCode/observable-analytics-agent",
-    "language": "Python",
-    "name": "LacerdaTraderCode/observable-analytics-agent",
-    "stars": 0,
-    "updated_at": "2026-10-23T21:29:07Z",
-    "url": "https://github.com/LacerdaTraderCode/observable-analytics-agent"
-  },
-  {
-    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
-    "id": "srjn45/warden",
-    "language": "Go",
-    "name": "srjn45/warden",
-    "stars": 2,
-    "updated_at": "2026-10-23T21:30:23Z",
-    "url": "https://github.com/srjn45/warden"
-  },
-  {
-    "description": "Client packages for AER: the flight recorder for AI agents",
-    "id": "Ad-Astra-Computing/aer",
-    "language": "TypeScript",
-    "name": "Ad-Astra-Computing/aer",
-    "stars": 0,
-    "updated_at": "2026-10-23T21:28:00Z",
-    "url": "https://github.com/Ad-Astra-Computing/aer"
+    "name": "holetz/quenching",
+    "stars": 1,
+    "updated_at": "2026-10-23T21:42:44Z",
+    "url": "https://github.com/holetz/quenching"
   },
   {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
@@ -41,8 +14,134 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-23T21:27:03Z",
+    "updated_at": "2026-10-23T21:42:20Z",
     "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "GitOps for recurring agent work, with approved access, sandboxed runs and audit trails.",
+    "id": "piotrekno1/second-shift",
+    "language": "Python",
+    "name": "piotrekno1/second-shift",
+    "stars": 0,
+    "updated_at": "2026-10-23T21:39:51Z",
+    "url": "https://github.com/piotrekno1/second-shift"
+  },
+  {
+    "description": "One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod",
+    "id": "valteresj2/agent-hangar",
+    "language": "Python",
+    "name": "valteresj2/agent-hangar",
+    "stars": 4,
+    "updated_at": "2026-10-23T21:39:18Z",
+    "url": "https://github.com/valteresj2/agent-hangar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61917,
+    "updated_at": "2026-10-23T21:44:33Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Client packages for AER: the flight recorder for AI agents",
+    "id": "Ad-Astra-Computing/aer",
+    "language": "TypeScript",
+    "name": "Ad-Astra-Computing/aer",
+    "stars": 0,
+    "updated_at": "2026-10-23T21:38:41Z",
+    "url": "https://github.com/Ad-Astra-Computing/aer"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 116,
+    "updated_at": "2026-10-23T21:37:57Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 42,
+    "updated_at": "2026-10-23T21:36:24Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "LLM data analyst agent on LangGraph with per-call tracing, cost and latency, versioned prompts and a record/replay evalu",
+    "id": "LacerdaTraderCode/observable-analytics-agent",
+    "language": "Python",
+    "name": "LacerdaTraderCode/observable-analytics-agent",
+    "stars": 0,
+    "updated_at": "2026-10-23T21:34:10Z",
+    "url": "https://github.com/LacerdaTraderCode/observable-analytics-agent"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 4,
+    "updated_at": "2026-10-23T21:33:15Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
+    "id": "NVIDIA-NeMo/nemo-helix",
+    "language": "Python",
+    "name": "NVIDIA-NeMo/nemo-helix",
+    "stars": 124,
+    "updated_at": "2026-10-23T21:43:37Z",
+    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-10-23T21:31:36Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "ClearML - Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data Management, Pipeline, Orchestra",
+    "id": "clearml/clearml",
+    "language": "Python",
+    "name": "clearml/clearml",
+    "stars": 6916,
+    "updated_at": "2026-10-23T21:30:37Z",
+    "url": "https://github.com/clearml/clearml"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-23T21:30:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 2,
+    "updated_at": "2026-10-23T21:35:24Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
+    "id": "srjn45/warden",
+    "language": "Go",
+    "name": "srjn45/warden",
+    "stars": 2,
+    "updated_at": "2026-10-23T21:45:17Z",
+    "url": "https://github.com/srjn45/warden"
   },
   {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
@@ -52,33 +151,6 @@
     "stars": 96,
     "updated_at": "2026-10-23T21:17:16Z",
     "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
-    "id": "NVIDIA-NeMo/nemo-helix",
-    "language": "Python",
-    "name": "NVIDIA-NeMo/nemo-helix",
-    "stars": 124,
-    "updated_at": "2026-10-23T21:23:25Z",
-    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61917,
-    "updated_at": "2026-10-23T21:25:57Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-23T21:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The agent that owns a bad deploy \u2014 where your team already works. Pre-merge impact estimates, evidence-backed regression",
@@ -144,15 +216,6 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-10-23T21:26:25Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
     "id": "sarkars/agent-failure-modes",
     "language": "Python",
@@ -216,15 +279,6 @@
     "url": "https://github.com/ZIZKA-AI-SL/ZizkaDB"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 42,
-    "updated_at": "2026-10-23T20:34:04Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
     "id": "rhesis-ai/rhesis",
     "language": "Python",
@@ -241,15 +295,6 @@
     "stars": 22854,
     "updated_at": "2026-10-23T20:32:00Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 116,
-    "updated_at": "2026-10-23T21:29:37Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
@@ -324,15 +369,6 @@
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
-    "description": "GitOps for recurring agent work, with approved access, sandboxed runs and audit trails.",
-    "id": "piotrekno1/second-shift",
-    "language": "Python",
-    "name": "piotrekno1/second-shift",
-    "stars": 0,
-    "updated_at": "2026-10-23T19:57:57Z",
-    "url": "https://github.com/piotrekno1/second-shift"
-  },
-  {
     "description": "An AI agent platform in Go: build, orchestrate, evaluate, observe and deploy production agents.",
     "id": "KunalSiyag/Project-Atlas",
     "language": "Go",
@@ -401,7 +437,7 @@
     "language": "Python",
     "name": "Furox-Art/eq-layer",
     "stars": 0,
-    "updated_at": "2026-10-23T19:33:46Z",
+    "updated_at": "2026-10-23T21:43:27Z",
     "url": "https://github.com/Furox-Art/eq-layer"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 2197,
     "updated_at": "2026-10-23T21:21:34Z",
     "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "Open-source voice observability for call timing, transcripts, recordings, and evidence-backed incident analysis.",
-    "id": "Kkartik14/Earshot",
-    "language": "Python",
-    "name": "Kkartik14/Earshot",
-    "stars": 2,
-    "updated_at": "2026-10-23T19:34:49Z",
-    "url": "https://github.com/Kkartik14/Earshot"
-  },
-  {
-    "description": "Grafana-native LLMOps dashboards for FinOps, agents, quality and AI governance. Automated query and deployment checks, w",
-    "id": "alebgl77/grafana-llmops-forge",
-    "language": "Python",
-    "name": "alebgl77/grafana-llmops-forge",
-    "stars": 1,
-    "updated_at": "2026-10-23T19:26:46Z",
-    "url": "https://github.com/alebgl77/grafana-llmops-forge"
-  },
-  {
-    "description": "Make AI quality observable. OpenTelemetry trace enrichment, Jev evaluation, streaming deduplication, and cohort quality ",
-    "id": "alebgl77/openspanguard",
-    "language": "TypeScript",
-    "name": "alebgl77/openspanguard",
-    "stars": 0,
-    "updated_at": "2026-10-23T19:22:36Z",
-    "url": "https://github.com/alebgl77/openspanguard"
-  },
-  {
-    "description": "Alexandre Beguel, Agentic AI Architect & external CAIO in Paris. Trilingual portfolio (EN/FR/ES) with verified project s",
-    "id": "alebgl77/alebgl77.github.io",
-    "language": "HTML",
-    "name": "alebgl77/alebgl77.github.io",
-    "stars": 0,
-    "updated_at": "2026-10-23T19:22:30Z",
-    "url": "https://github.com/alebgl77/alebgl77.github.io"
   }
 ]
