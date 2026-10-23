@@ -1,11 +1,128 @@
 [
   {
+    "description": "\ud83e\udde0\u200b  An LLM router that uses built-in logic and system 1 decision models to intelligently route requests to the appropria",
+    "id": "storm-software/mindctl",
+    "language": "JavaScript",
+    "name": "storm-software/mindctl",
+    "stars": 0,
+    "updated_at": "2026-10-23T16:45:00Z",
+    "url": "https://github.com/storm-software/mindctl"
+  },
+  {
+    "description": "Seldon \u2014 independent third-party profile of a public API surface, by API Evangelist. Seldon is a Kubernetes-native MLOps",
+    "id": "api-evangelist/seldon",
+    "language": "\u2014",
+    "name": "api-evangelist/seldon",
+    "stars": 0,
+    "updated_at": "2026-10-23T16:44:33Z",
+    "url": "https://github.com/api-evangelist/seldon"
+  },
+  {
+    "description": "Marketing + Documentation Site for llama-dash",
+    "id": "ndom91/llama-dash-docs",
+    "language": "MDX",
+    "name": "ndom91/llama-dash-docs",
+    "stars": 1,
+    "updated_at": "2026-10-23T16:44:03Z",
+    "url": "https://github.com/ndom91/llama-dash-docs"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61903,
+    "updated_at": "2026-10-23T16:43:52Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "language": "Go",
+    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-10-23T16:44:15Z",
+    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
+  },
+  {
+    "description": "Client packages for AER: the flight recorder for AI agents",
+    "id": "Ad-Astra-Computing/aer",
+    "language": "TypeScript",
+    "name": "Ad-Astra-Computing/aer",
+    "stars": 0,
+    "updated_at": "2026-10-23T16:45:26Z",
+    "url": "https://github.com/Ad-Astra-Computing/aer"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-23T16:44:47Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 42,
+    "updated_at": "2026-10-23T16:40:05Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
+    "id": "iblai/os",
+    "language": "TypeScript",
+    "name": "iblai/os",
+    "stars": 796,
+    "updated_at": "2026-10-23T16:38:36Z",
+    "url": "https://github.com/iblai/os"
+  },
+  {
+    "description": "The operations layer for your local LLM stack",
+    "id": "ndom91/llama-dash",
+    "language": "TypeScript",
+    "name": "ndom91/llama-dash",
+    "stars": 26,
+    "updated_at": "2026-10-23T16:35:02Z",
+    "url": "https://github.com/ndom91/llama-dash"
+  },
+  {
+    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
+    "id": "digline/digline",
+    "language": "Python",
+    "name": "digline/digline",
+    "stars": 9,
+    "updated_at": "2026-10-23T16:32:36Z",
+    "url": "https://github.com/digline/digline"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11968,
+    "updated_at": "2026-10-23T16:38:00Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-23T16:30:46Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
     "id": "AixleHQ/flow",
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 27,
-    "updated_at": "2026-10-23T16:29:40Z",
+    "updated_at": "2026-10-23T16:36:33Z",
     "url": "https://github.com/AixleHQ/flow"
   },
   {
@@ -27,15 +144,6 @@
     "url": "https://github.com/arav7781/TREADOPS"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 42,
-    "updated_at": "2026-10-23T16:28:06Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Drop-in LLM proxy that cuts input tokens 30\u201370% (54.1% measured, quality-gated) across 27 transparent optimisations \u2014 ca",
     "id": "cbeyondcloud/TokenLean",
     "language": "Python",
@@ -54,21 +162,12 @@
     "url": "https://github.com/luetzey/who2be"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61901,
-    "updated_at": "2026-10-23T16:24:28Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "A self-hosted OpenAI-compatible proxy and web app for debugging, testing, and improving AI agents.",
     "id": "NordsteinSoftware/Proxytrace",
     "language": "C#",
     "name": "NordsteinSoftware/Proxytrace",
     "stars": 3,
-    "updated_at": "2026-10-23T16:28:41Z",
+    "updated_at": "2026-10-23T16:31:09Z",
     "url": "https://github.com/NordsteinSoftware/Proxytrace"
   },
   {
@@ -77,7 +176,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22852,
-    "updated_at": "2026-10-23T16:29:58Z",
+    "updated_at": "2026-10-23T16:38:22Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -95,7 +194,7 @@
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 123,
-    "updated_at": "2026-10-23T16:28:15Z",
+    "updated_at": "2026-10-23T16:36:40Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -104,7 +203,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4989,
-    "updated_at": "2026-10-23T16:29:06Z",
+    "updated_at": "2026-10-23T16:39:36Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -117,58 +216,13 @@
     "url": "https://github.com/elleanderson/ai-feature-health-dashboard"
   },
   {
-    "description": "\ud83e\udde0\u200b  An LLM router that uses built-in logic and system 1 decision models to intelligently route requests to the appropria",
-    "id": "storm-software/mindctl",
-    "language": "JavaScript",
-    "name": "storm-software/mindctl",
-    "stars": 0,
-    "updated_at": "2026-10-23T16:20:56Z",
-    "url": "https://github.com/storm-software/mindctl"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-23T16:15:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Marketing + Documentation Site for llama-dash",
-    "id": "ndom91/llama-dash-docs",
-    "language": "MDX",
-    "name": "ndom91/llama-dash-docs",
-    "stars": 1,
-    "updated_at": "2026-10-23T16:15:04Z",
-    "url": "https://github.com/ndom91/llama-dash-docs"
-  },
-  {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
     "id": "cloudrift-ai/emmy",
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 116,
-    "updated_at": "2026-10-23T16:23:22Z",
+    "updated_at": "2026-10-23T16:45:24Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "The operations layer for your local LLM stack",
-    "id": "ndom91/llama-dash",
-    "language": "TypeScript",
-    "name": "ndom91/llama-dash",
-    "stars": 26,
-    "updated_at": "2026-10-23T16:14:58Z",
-    "url": "https://github.com/ndom91/llama-dash"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "language": "Go",
-    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "stars": 1,
-    "updated_at": "2026-10-23T16:30:39Z",
-    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
   },
   {
     "description": "Observability and crash-resume for AI agents \u2014 track token cost, debug any step, and stop before the budget burns. Works",
@@ -194,7 +248,7 @@
     "language": "Python",
     "name": "DuqueOM/ml-platform",
     "stars": 2,
-    "updated_at": "2026-10-23T16:17:15Z",
+    "updated_at": "2026-10-23T16:32:06Z",
     "url": "https://github.com/DuqueOM/ml-platform"
   },
   {
@@ -202,7 +256,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 36261,
+    "stars": 36262,
     "updated_at": "2026-10-23T16:09:52Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -221,7 +275,7 @@
     "language": "Python",
     "name": "jakbuczarnecki/intergrax",
     "stars": 4,
-    "updated_at": "2026-10-23T16:19:52Z",
+    "updated_at": "2026-10-23T16:36:47Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
   },
   {
@@ -268,24 +322,6 @@
     "stars": 28511,
     "updated_at": "2026-10-23T15:56:18Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11968,
-    "updated_at": "2026-10-23T15:58:24Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-23T16:30:04Z",
-    "url": "https://github.com/vocion/vocion-core"
   },
   {
     "description": "Myrtia \u2014 agent-native red teaming for LLMs and AI agents: a deliberating council of attacker models (propose, cross-crit",
@@ -365,7 +401,7 @@
     "language": "Python",
     "name": "Arize-ai/openinference",
     "stars": 1278,
-    "updated_at": "2026-10-23T15:42:32Z",
+    "updated_at": "2026-10-23T16:43:53Z",
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
@@ -401,7 +437,7 @@
     "language": "Python",
     "name": "metergraph/metergraph",
     "stars": 4,
-    "updated_at": "2026-10-23T16:24:57Z",
+    "updated_at": "2026-10-23T16:41:20Z",
     "url": "https://github.com/metergraph/metergraph"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 26340,
     "updated_at": "2026-10-23T15:33:55Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Keras based framework for neuro-symbolic LM systems",
-    "id": "SynaLinks/synalinks",
-    "language": "Python",
-    "name": "SynaLinks/synalinks",
-    "stars": 464,
-    "updated_at": "2026-10-23T15:30:47Z",
-    "url": "https://github.com/SynaLinks/synalinks"
-  },
-  {
-    "description": "Model-agnostic Agent Skill: keep multiple hypotheses alive, test them against evidence, revive alternatives, collapse to",
-    "id": "Furox-Art/quantum-reasoning-skill",
-    "language": "Python",
-    "name": "Furox-Art/quantum-reasoning-skill",
-    "stars": 4,
-    "updated_at": "2026-10-23T15:18:32Z",
-    "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
-  },
-  {
-    "description": "A control layer that decides how an LLM should speak before it speaks",
-    "id": "Furox-Art/eq-layer",
-    "language": "Python",
-    "name": "Furox-Art/eq-layer",
-    "stars": 0,
-    "updated_at": "2026-10-23T15:14:28Z",
-    "url": "https://github.com/Furox-Art/eq-layer"
-  },
-  {
-    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
-    "id": "lmnr-ai/lmnr",
-    "language": "TypeScript",
-    "name": "lmnr-ai/lmnr",
-    "stars": 3433,
-    "updated_at": "2026-10-23T16:26:57Z",
-    "url": "https://github.com/lmnr-ai/lmnr"
   }
 ]
