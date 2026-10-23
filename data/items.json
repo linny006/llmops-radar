@@ -1,12 +1,12 @@
 [
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36252,
-    "updated_at": "2026-10-23T13:00:22Z",
-    "url": "https://github.com/langfuse/langfuse"
+    "description": "\ud83e\udde0\u200b  An LLM router that uses built-in logic and system 1 decision models to intelligently route requests to the appropria",
+    "id": "storm-software/mindctl",
+    "language": "JavaScript",
+    "name": "storm-software/mindctl",
+    "stars": 0,
+    "updated_at": "2026-10-23T13:14:12Z",
+    "url": "https://github.com/storm-software/mindctl"
   },
   {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
@@ -14,17 +14,98 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 96,
-    "updated_at": "2026-10-23T12:58:40Z",
+    "updated_at": "2026-10-23T13:12:39Z",
     "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "Market Metrics is an autonomous market-intelligence platform designed to transform product ideas into structured, eviden",
+    "id": "721189/Market-Metrics",
+    "language": "TypeScript",
+    "name": "721189/Market-Metrics",
+    "stars": 1,
+    "updated_at": "2026-10-23T13:12:29Z",
+    "url": "https://github.com/721189/Market-Metrics"
+  },
+  {
+    "description": "LLM, Local LLM Manager, a TUI for setting up LLM service",
+    "id": "wangmengchang/llm",
+    "language": "\u2014",
+    "name": "wangmengchang/llm",
+    "stars": 0,
+    "updated_at": "2026-10-23T13:11:06Z",
+    "url": "https://github.com/wangmengchang/llm"
+  },
+  {
+    "description": "The operations layer for your local LLM stack",
+    "id": "ndom91/llama-dash",
+    "language": "TypeScript",
+    "name": "ndom91/llama-dash",
+    "stars": 26,
+    "updated_at": "2026-10-23T13:09:21Z",
+    "url": "https://github.com/ndom91/llama-dash"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-23T13:09:00Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Self-hosted coding assistant that routes each request to the cheapest model that can handle it",
+    "id": "optiware-ai/optimux",
+    "language": "Python",
+    "name": "optiware-ai/optimux",
+    "stars": 1,
+    "updated_at": "2026-10-23T13:08:23Z",
+    "url": "https://github.com/optiware-ai/optimux"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36253,
+    "updated_at": "2026-10-23T13:07:50Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Self-hosted AI gateway that stops LLM spend before it happens: atomic hard budgets, privacy-scoped caching, retry-storm ",
+    "id": "euron-sde-team/euron-open-tokenshield",
+    "language": "Python",
+    "name": "euron-sde-team/euron-open-tokenshield",
+    "stars": 0,
+    "updated_at": "2026-10-23T13:03:43Z",
+    "url": "https://github.com/euron-sde-team/euron-open-tokenshield"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 730,
+    "updated_at": "2026-10-23T13:01:30Z",
+    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 22847,
-    "updated_at": "2026-10-23T12:56:32Z",
+    "stars": 22848,
+    "updated_at": "2026-10-23T13:10:41Z",
     "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-23T13:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -32,7 +113,7 @@
     "language": "Go",
     "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "stars": 1,
-    "updated_at": "2026-10-23T12:57:52Z",
+    "updated_at": "2026-10-23T13:03:12Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
   },
   {
@@ -61,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-10-23T12:51:41Z",
     "url": "https://github.com/a-novel/service-genai"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 730,
-    "updated_at": "2026-10-23T12:52:46Z",
-    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "LLM spend tracking and budgets for Rails \u2014 by user, feature, or any tag, in your own database, no proxy.",
@@ -108,15 +180,6 @@
     "url": "https://github.com/tracepad/tracepad"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-23T12:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -124,15 +187,6 @@
     "stars": 26334,
     "updated_at": "2026-10-23T12:42:55Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Self-hosted AI gateway that stops LLM spend before it happens: atomic hard budgets, privacy-scoped caching, retry-storm ",
-    "id": "euron-sde-team/euron-tokenshield",
-    "language": "Python",
-    "name": "euron-sde-team/euron-tokenshield",
-    "stars": 0,
-    "updated_at": "2026-10-23T12:42:05Z",
-    "url": "https://github.com/euron-sde-team/euron-tokenshield"
   },
   {
     "description": "Enterprise Scale AIFactory (esml) - on Azure",
@@ -167,7 +221,7 @@
     "language": "Python",
     "name": "2796gaurav/shad0w",
     "stars": 0,
-    "updated_at": "2026-10-23T12:38:49Z",
+    "updated_at": "2026-10-23T13:06:18Z",
     "url": "https://github.com/2796gaurav/shad0w"
   },
   {
@@ -212,7 +266,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30695,
-    "updated_at": "2026-10-23T12:50:12Z",
+    "updated_at": "2026-10-23T13:09:52Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -221,7 +275,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4988,
-    "updated_at": "2026-10-23T12:59:22Z",
+    "updated_at": "2026-10-23T13:13:04Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -229,7 +283,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 28510,
+    "stars": 28511,
     "updated_at": "2026-10-23T12:21:58Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -241,15 +295,6 @@
     "stars": 4,
     "updated_at": "2026-10-23T12:20:44Z",
     "url": "https://github.com/runcycles/cycles-docs"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-23T12:13:38Z",
-    "url": "https://github.com/toxicwind/ranch"
   },
   {
     "description": "Dify with Let's Encrypt Using Docker Compose",
@@ -270,21 +315,12 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "Market Metrics is an autonomous market-intelligence platform designed to transform product ideas into structured, eviden",
-    "id": "721189/Market-Metrics",
-    "language": "TypeScript",
-    "name": "721189/Market-Metrics",
-    "stars": 1,
-    "updated_at": "2026-10-23T12:02:16Z",
-    "url": "https://github.com/721189/Market-Metrics"
-  },
-  {
     "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
     "id": "NVIDIA-NeMo/nemo-helix",
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 123,
-    "updated_at": "2026-10-23T12:57:38Z",
+    "updated_at": "2026-10-23T13:11:08Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -302,7 +338,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 116,
-    "updated_at": "2026-10-23T12:51:44Z",
+    "updated_at": "2026-10-23T13:12:02Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -313,15 +349,6 @@
     "stars": 4,
     "updated_at": "2026-10-23T11:56:38Z",
     "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Self-hosted coding assistant that routes each request to the cheapest model that can handle it",
-    "id": "optiware-ai/optimux",
-    "language": "Python",
-    "name": "optiware-ai/optimux",
-    "stars": 1,
-    "updated_at": "2026-10-23T12:23:11Z",
-    "url": "https://github.com/optiware-ai/optimux"
   },
   {
     "description": "CLI tool for comparing prompt variants and models",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-23T11:25:01Z",
     "url": "https://github.com/scttfrdmn/hf-bedrock-map"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 1,
-    "updated_at": "2026-10-23T11:25:12Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
-    "id": "dynamiq-ai/dynamiq",
-    "language": "Python",
-    "name": "dynamiq-ai/dynamiq",
-    "stars": 1071,
-    "updated_at": "2026-10-23T11:15:49Z",
-    "url": "https://github.com/dynamiq-ai/dynamiq"
-  },
-  {
-    "description": "Self-hosted LLMs + permission-aware RAG + autonomous agents on your own infrastructure (on-prem LLMOps).",
-    "id": "vlad-sukh/private-ai-stack",
-    "language": "Python",
-    "name": "vlad-sukh/private-ai-stack",
-    "stars": 0,
-    "updated_at": "2026-10-23T11:12:03Z",
-    "url": "https://github.com/vlad-sukh/private-ai-stack"
   }
 ]
