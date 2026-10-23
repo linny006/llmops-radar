@@ -1,21 +1,48 @@
 [
   {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
+    "description": "Agenta \u2014 independent third-party profile of a public API surface, by API Evangelist. Agenta is an open-source LLMOps pla",
+    "id": "api-evangelist/agenta",
+    "language": "\u2014",
+    "name": "api-evangelist/agenta",
     "stars": 0,
-    "updated_at": "2026-10-23T02:14:07Z",
-    "url": "https://github.com/toxicwind/ranch"
+    "updated_at": "2026-10-23T02:24:43Z",
+    "url": "https://github.com/api-evangelist/agenta"
   },
   {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 30691,
-    "updated_at": "2026-10-23T02:13:12Z",
-    "url": "https://github.com/ComposioHQ/composio"
+    "description": "Building reliable LLM Agents \u2014 Agent eval, evidence grounding, context engineering",
+    "id": "KBber/KBber",
+    "language": "\u2014",
+    "name": "KBber/KBber",
+    "stars": 0,
+    "updated_at": "2026-10-23T02:24:30Z",
+    "url": "https://github.com/KBber/KBber"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11956,
+    "updated_at": "2026-10-23T02:28:33Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "A control layer that decides how an LLM should speak before it speaks",
+    "id": "Furox-Art/eq-layer",
+    "language": "Python",
+    "name": "Furox-Art/eq-layer",
+    "stars": 0,
+    "updated_at": "2026-10-23T02:29:49Z",
+    "url": "https://github.com/Furox-Art/eq-layer"
+  },
+  {
+    "description": "Model-agnostic Agent Skill: keep multiple hypotheses alive, test them against evidence, revive alternatives, collapse to",
+    "id": "Furox-Art/quantum-reasoning-skill",
+    "language": "Python",
+    "name": "Furox-Art/quantum-reasoning-skill",
+    "stars": 3,
+    "updated_at": "2026-10-23T02:20:37Z",
+    "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
   },
   {
     "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
@@ -23,8 +50,44 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4988,
-    "updated_at": "2026-10-23T02:15:22Z",
+    "updated_at": "2026-10-23T02:28:29Z",
     "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 30692,
+    "updated_at": "2026-10-23T02:17:46Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
+    "description": "Claude Code skills and plugin marketplace that stop AI agents from faking success: verify by effect, measure before quot",
+    "id": "dexteon/agent-skills",
+    "language": "Python",
+    "name": "dexteon/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-23T02:16:08Z",
+    "url": "https://github.com/dexteon/agent-skills"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-23T02:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-23T02:14:07Z",
+    "url": "https://github.com/toxicwind/ranch"
   },
   {
     "description": "Detect & score LLM hallucinations by groundedness \u2014 labeled data, precision/recall/F1, runs offline with no API key. Plu",
@@ -45,12 +108,21 @@
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61845,
+    "updated_at": "2026-10-23T02:08:41Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
     "id": "rrahimi-uci/caliber-suite",
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 2,
-    "updated_at": "2026-10-23T02:13:58Z",
+    "updated_at": "2026-10-23T02:27:06Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -63,6 +135,15 @@
     "url": "https://github.com/naim-munshi/metriqen-llm-serving-optimization"
   },
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28502,
+    "updated_at": "2026-10-23T02:02:38Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -72,31 +153,22 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28501,
-    "updated_at": "2026-10-23T02:02:38Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-23T02:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code \u2014 V3 prototype runs ",
     "id": "MongLong0214/jev-gate",
     "language": "TypeScript",
     "name": "MongLong0214/jev-gate",
     "stars": 3,
-    "updated_at": "2026-10-23T01:59:17Z",
+    "updated_at": "2026-10-23T02:30:22Z",
     "url": "https://github.com/MongLong0214/jev-gate"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26310,
+    "updated_at": "2026-10-23T01:56:08Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
@@ -106,24 +178,6 @@
     "stars": 1,
     "updated_at": "2026-10-23T01:55:47Z",
     "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61841,
-    "updated_at": "2026-10-23T02:08:41Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26309,
-    "updated_at": "2026-10-23T01:56:08Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
@@ -144,13 +198,13 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "Claude Code skills and plugin marketplace that stop AI agents from faking success: verify by effect, measure before quot",
-    "id": "dexteon/agent-skills",
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
     "language": "Python",
-    "name": "dexteon/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-23T01:33:23Z",
-    "url": "https://github.com/dexteon/agent-skills"
+    "name": "mozilla-ai/otari",
+    "stars": 727,
+    "updated_at": "2026-10-23T01:29:00Z",
+    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
@@ -176,7 +230,7 @@
     "language": "Rust",
     "name": "andypalmi/amicu",
     "stars": 1,
-    "updated_at": "2026-10-23T02:12:11Z",
+    "updated_at": "2026-10-23T02:15:31Z",
     "url": "https://github.com/andypalmi/amicu"
   },
   {
@@ -214,15 +268,6 @@
     "stars": 8,
     "updated_at": "2026-10-23T01:06:24Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11956,
-    "updated_at": "2026-10-23T02:14:13Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "llmcfo",
@@ -324,15 +369,6 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "A control layer that decides how an LLM should speak before it speaks",
-    "id": "Furox-Art/eq-layer",
-    "language": "Python",
-    "name": "Furox-Art/eq-layer",
-    "stars": 0,
-    "updated_at": "2026-10-23T01:57:18Z",
-    "url": "https://github.com/Furox-Art/eq-layer"
-  },
-  {
     "description": "If the agent bill went up and nothing errored, a prompt cache broke. Replay Doctor names the turn it broke on, the cause",
     "id": "RedRobotKK/Replay",
     "language": "Go",
@@ -367,15 +403,6 @@
     "stars": 1,
     "updated_at": "2026-10-22T23:25:07Z",
     "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "Model-agnostic Agent Skill: keep multiple hypotheses alive, test them against evidence, revive alternatives, collapse to",
-    "id": "Furox-Art/quantum-reasoning-skill",
-    "language": "Python",
-    "name": "Furox-Art/quantum-reasoning-skill",
-    "stars": 3,
-    "updated_at": "2026-10-23T01:57:16Z",
-    "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
   },
   {
     "description": "Deterministic trace-based integration testing for LLM apps",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-22T22:56:34Z",
     "url": "https://github.com/Peter-A-P/compliant-ai-gateway"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36204,
-    "updated_at": "2026-10-22T22:54:58Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Dify with Let's Encrypt Using Docker Compose",
-    "id": "heyvaldemar/dify-traefik-letsencrypt-docker-compose",
-    "language": "Shell",
-    "name": "heyvaldemar/dify-traefik-letsencrypt-docker-compose",
-    "stars": 0,
-    "updated_at": "2026-10-22T22:49:57Z",
-    "url": "https://github.com/heyvaldemar/dify-traefik-letsencrypt-docker-compose"
-  },
-  {
-    "description": "\u9876\u7ea7\u5ba1\u7f8e\u7684\u4e2a\u4eba\u535a\u5ba2\uff01\uff01\uff01\u5199\u4e00\u4e9b\u5173\u4e8e AI\u3001Agent\u3001\u6280\u672f\u3001\u4ea7\u54c1\u3001\u8425\u9500\u3001\u4e00\u4e9b\u751f\u6d3b\u601d\u8003\uff0c\u4e2a\u4eba\u6210\u957f\u7c7b\u7684\u7cbe\u6587",
-    "id": "cubxxw/blog",
-    "language": "JavaScript",
-    "name": "cubxxw/blog",
-    "stars": 30,
-    "updated_at": "2026-10-22T22:46:54Z",
-    "url": "https://github.com/cubxxw/blog"
   }
 ]
