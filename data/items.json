@@ -1,21 +1,111 @@
 [
   {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 730,
-    "updated_at": "2026-10-23T10:29:17Z",
-    "url": "https://github.com/mozilla-ai/otari"
+    "description": "Self-hosted AI orchestration with policy, approvals, PII controls, audit evidence, retrieval, and governed MCP tools",
+    "id": "Abillify/atf",
+    "language": "TypeScript",
+    "name": "Abillify/atf",
+    "stars": 5,
+    "updated_at": "2026-10-23T10:45:17Z",
+    "url": "https://github.com/Abillify/atf"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "Python",
     "name": "vllm-project/vllm-ascend",
-    "stars": 3003,
-    "updated_at": "2026-10-23T10:26:42Z",
+    "stars": 3004,
+    "updated_at": "2026-10-23T10:44:38Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 730,
+    "updated_at": "2026-10-23T10:44:23Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 1,
+    "updated_at": "2026-10-23T10:44:04Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36247,
+    "updated_at": "2026-10-23T10:44:58Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22847,
+    "updated_at": "2026-10-23T10:40:39Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Python",
+    "name": "alibaba/rtp-llm",
+    "stars": 1370,
+    "updated_at": "2026-10-23T10:38:31Z",
+    "url": "https://github.com/alibaba/rtp-llm"
+  },
+  {
+    "description": "Self-hosted model and dataset hub, compatible with the Hugging Face Hub API, git, Ollama and LM Studio. Use it as a priv",
+    "id": "hangar-hub/hangar",
+    "language": "Go",
+    "name": "hangar-hub/hangar",
+    "stars": 2,
+    "updated_at": "2026-10-23T10:39:11Z",
+    "url": "https://github.com/hangar-hub/hangar"
+  },
+  {
+    "description": "Ship pure LangChain and LangGraph agents to Google Cloud Run with zero google-adk lock-in using the Google Agents CLI Ex",
+    "id": "sanketbisne/scalfod-langgraph-agentscli",
+    "language": "Python",
+    "name": "sanketbisne/scalfod-langgraph-agentscli",
+    "stars": 0,
+    "updated_at": "2026-10-23T10:36:52Z",
+    "url": "https://github.com/sanketbisne/scalfod-langgraph-agentscli"
+  },
+  {
+    "description": "The operations layer for your local LLM stack",
+    "id": "ndom91/llama-dash",
+    "language": "TypeScript",
+    "name": "ndom91/llama-dash",
+    "stars": 26,
+    "updated_at": "2026-10-23T10:32:33Z",
+    "url": "https://github.com/ndom91/llama-dash"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-23T10:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "Python",
+    "name": "dataelement/bisheng",
+    "stars": 12072,
+    "updated_at": "2026-10-23T10:28:02Z",
+    "url": "https://github.com/dataelement/bisheng"
   },
   {
     "description": "AI for tyre circularity: YOLO26 casing triage with a governed MLOps release loop (DVC, MLflow, gated promotion, drift) a",
@@ -25,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T10:26:36Z",
     "url": "https://github.com/arav7781/TREADOPS"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22845,
-    "updated_at": "2026-10-23T10:28:41Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
@@ -63,15 +144,6 @@
     "url": "https://github.com/naim-munshi/metriqen-llm-serving-optimization"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-23T10:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Flight recorder & observability for AI agents: trace every model call, tool call, file edit and shell command live, with",
     "id": "abdullahimohamed101/agent-black-box",
     "language": "Python",
@@ -79,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T10:15:26Z",
     "url": "https://github.com/abdullahimohamed101/agent-black-box"
-  },
-  {
-    "description": "The operations layer for your local LLM stack",
-    "id": "ndom91/llama-dash",
-    "language": "TypeScript",
-    "name": "ndom91/llama-dash",
-    "stars": 26,
-    "updated_at": "2026-10-23T10:14:36Z",
-    "url": "https://github.com/ndom91/llama-dash"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -122,7 +185,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4988,
-    "updated_at": "2026-10-23T10:26:44Z",
+    "updated_at": "2026-10-23T10:37:38Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -135,15 +198,6 @@
     "url": "https://github.com/Haohao-end/openagent"
   },
   {
-    "description": "Self-hosted model and dataset hub, compatible with the Hugging Face Hub API, git, Ollama and LM Studio. Use it as a priv",
-    "id": "hangar-hub/hangar",
-    "language": "Go",
-    "name": "hangar-hub/hangar",
-    "stars": 2,
-    "updated_at": "2026-10-23T10:19:07Z",
-    "url": "https://github.com/hangar-hub/hangar"
-  },
-  {
     "description": "A self-updating, auto-classified map of the GenAI engineering stack: agents, MCP, memory, RAG, evals, LLMOps, AI securit",
     "id": "alebgl77/awesome-ai-architect",
     "language": "Python",
@@ -151,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T10:02:00Z",
     "url": "https://github.com/alebgl77/awesome-ai-architect"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36245,
-    "updated_at": "2026-10-23T10:26:53Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
@@ -194,7 +239,7 @@
     "language": "JavaScript",
     "name": "cubxxw/blog",
     "stars": 30,
-    "updated_at": "2026-10-23T10:25:50Z",
+    "updated_at": "2026-10-23T10:45:18Z",
     "url": "https://github.com/cubxxw/blog"
   },
   {
@@ -225,15 +270,6 @@
     "url": "https://github.com/Traigent/tvl"
   },
   {
-    "description": "Ship pure LangChain and LangGraph agents to Google Cloud Run with zero google-adk lock-in using the Google Agents CLI Ex",
-    "id": "sanketbisne/scalfod-langgraph-agentscli",
-    "language": "Python",
-    "name": "sanketbisne/scalfod-langgraph-agentscli",
-    "stars": 0,
-    "updated_at": "2026-10-23T09:44:24Z",
-    "url": "https://github.com/sanketbisne/scalfod-langgraph-agentscli"
-  },
-  {
     "description": "Observability and crash-resume for AI agents \u2014 track token cost, debug any step, and stop before the budget burns. Works",
     "id": "hanmahong5-arch/lumen",
     "language": "Python",
@@ -261,15 +297,6 @@
     "url": "https://github.com/MongLong0214/jev-gate"
   },
   {
-    "description": "Self-hosted AI orchestration with policy, approvals, PII controls, audit evidence, retrieval, and governed MCP tools",
-    "id": "Abillify/atf",
-    "language": "TypeScript",
-    "name": "Abillify/atf",
-    "stars": 5,
-    "updated_at": "2026-10-23T09:32:43Z",
-    "url": "https://github.com/Abillify/atf"
-  },
-  {
     "description": "If the agent bill went up and nothing errored, a prompt cache broke. Replay Doctor names the turn it broke on, the cause",
     "id": "RedRobotKK/Replay",
     "language": "Go",
@@ -293,7 +320,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28508,
-    "updated_at": "2026-10-23T10:06:30Z",
+    "updated_at": "2026-10-23T10:42:29Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -322,15 +349,6 @@
     "stars": 1,
     "updated_at": "2026-10-23T09:18:33Z",
     "url": "https://github.com/coffeehc/xagent-docs"
-  },
-  {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "Python",
-    "name": "dataelement/bisheng",
-    "stars": 12071,
-    "updated_at": "2026-10-23T10:28:02Z",
-    "url": "https://github.com/dataelement/bisheng"
   },
   {
     "description": "Production-grade LLM evaluation control plane with FastAPI, PostgreSQL, release gates, worker recovery, and a privacy-bo",
@@ -367,15 +385,6 @@
     "stars": 1,
     "updated_at": "2026-10-23T09:12:37Z",
     "url": "https://github.com/optiware-ai/optimux"
-  },
-  {
-    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
-    "id": "alibaba/rtp-llm",
-    "language": "Python",
-    "name": "alibaba/rtp-llm",
-    "stars": 1369,
-    "updated_at": "2026-10-23T10:29:56Z",
-    "url": "https://github.com/alibaba/rtp-llm"
   },
   {
     "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
@@ -428,7 +437,7 @@
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 694,
-    "updated_at": "2026-10-23T10:25:25Z",
+    "updated_at": "2026-10-23T10:40:21Z",
     "url": "https://github.com/Abilityai/trinity"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-23T08:36:12Z",
     "url": "https://github.com/sophie-nguyenthuthuy/llm-pricing-history"
-  },
-  {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 398,
-    "updated_at": "2026-10-23T08:33:56Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
   }
 ]
