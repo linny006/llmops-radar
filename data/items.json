@@ -1,5 +1,86 @@
 [
   {
+    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
+    "id": "luetzey/who2be",
+    "language": "Python",
+    "name": "luetzey/who2be",
+    "stars": 0,
+    "updated_at": "2026-10-23T05:45:07Z",
+    "url": "https://github.com/luetzey/who2be"
+  },
+  {
+    "description": "Open-source replay and evidence infrastructure for AI agents. Capture runs as portable Run Capsules for replay, diff, li",
+    "id": "MSKazemi/novafabric",
+    "language": "Python",
+    "name": "MSKazemi/novafabric",
+    "stars": 7,
+    "updated_at": "2026-10-23T05:45:13Z",
+    "url": "https://github.com/MSKazemi/novafabric"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-10-23T05:40:55Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "AI platform reference architecture for LLM serving on Kubernetes, with reliability, observability, failure testing, and ",
+    "id": "asadhanif3188/InferOps",
+    "language": "Python",
+    "name": "asadhanif3188/InferOps",
+    "stars": 0,
+    "updated_at": "2026-10-23T05:40:15Z",
+    "url": "https://github.com/asadhanif3188/InferOps"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 3001,
+    "updated_at": "2026-10-23T05:39:49Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Full Fledged Observability plugin for OpenClaw",
+    "id": "outshift-open/insight-module-for-agentic-systems",
+    "language": "TypeScript",
+    "name": "outshift-open/insight-module-for-agentic-systems",
+    "stars": 12,
+    "updated_at": "2026-10-23T05:38:57Z",
+    "url": "https://github.com/outshift-open/insight-module-for-agentic-systems"
+  },
+  {
+    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-10-23T05:33:01Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61864,
+    "updated_at": "2026-10-23T05:32:10Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-23T05:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
     "id": "burakdede/lorepack",
     "language": "TypeScript",
@@ -32,7 +113,7 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 42,
-    "updated_at": "2026-10-23T05:27:29Z",
+    "updated_at": "2026-10-23T05:45:05Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -54,15 +135,6 @@
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-23T05:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "OpenAI-compatible AI execution plane on Kubernetes with MCP, vLLM, and policy.",
     "id": "justrunme/ai-runtime-platform",
     "language": "Python",
@@ -81,15 +153,6 @@
     "url": "https://github.com/vivek-541/vivek-541"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61862,
-    "updated_at": "2026-10-23T05:25:21Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
     "id": "toxicwind/ranch",
     "language": "Rust",
@@ -97,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T05:08:50Z",
     "url": "https://github.com/toxicwind/ranch"
-  },
-  {
-    "description": "Full Fledged Observability plugin for OpenClaw",
-    "id": "outshift-open/insight-module-for-agentic-systems",
-    "language": "TypeScript",
-    "name": "outshift-open/insight-module-for-agentic-systems",
-    "stars": 12,
-    "updated_at": "2026-10-23T05:08:21Z",
-    "url": "https://github.com/outshift-open/insight-module-for-agentic-systems"
   },
   {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
@@ -162,31 +216,13 @@
     "url": "https://github.com/TheBrokenWay/CageOS-Lite-Demo"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 3001,
-    "updated_at": "2026-10-23T04:27:13Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4988,
-    "updated_at": "2026-10-23T05:23:41Z",
+    "updated_at": "2026-10-23T05:43:24Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-10-23T04:48:13Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -203,17 +239,8 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 116,
-    "updated_at": "2026-10-23T05:17:28Z",
+    "updated_at": "2026-10-23T05:32:24Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-10-23T05:29:47Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -266,7 +293,7 @@
     "language": "JavaScript",
     "name": "cubxxw/blog",
     "stars": 30,
-    "updated_at": "2026-10-23T05:26:53Z",
+    "updated_at": "2026-10-23T05:44:33Z",
     "url": "https://github.com/cubxxw/blog"
   },
   {
@@ -333,15 +360,6 @@
     "url": "https://github.com/Abilityai/trinity"
   },
   {
-    "description": "Open-source replay and evidence infrastructure for AI agents. Capture runs as portable Run Capsules for replay, diff, li",
-    "id": "MSKazemi/novafabric",
-    "language": "Python",
-    "name": "MSKazemi/novafabric",
-    "stars": 7,
-    "updated_at": "2026-10-23T03:28:06Z",
-    "url": "https://github.com/MSKazemi/novafabric"
-  },
-  {
     "description": "Local, self-hosted agent infrastructure \u2014 one endpoint for every AI client (Claude Code, Codex CLI, Gemini CLI, OpenCode",
     "id": "Stravia-AI/StraviaPlatform",
     "language": "Rust",
@@ -383,7 +401,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 36222,
-    "updated_at": "2026-10-23T05:27:43Z",
+    "updated_at": "2026-10-23T05:41:45Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-23T02:29:49Z",
     "url": "https://github.com/Furox-Art/eq-layer"
-  },
-  {
-    "description": "Model-agnostic Agent Skill: keep multiple hypotheses alive, test them against evidence, revive alternatives, collapse to",
-    "id": "Furox-Art/quantum-reasoning-skill",
-    "language": "Python",
-    "name": "Furox-Art/quantum-reasoning-skill",
-    "stars": 3,
-    "updated_at": "2026-10-23T02:20:37Z",
-    "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 30692,
-    "updated_at": "2026-10-23T05:04:05Z",
-    "url": "https://github.com/ComposioHQ/composio"
   }
 ]
