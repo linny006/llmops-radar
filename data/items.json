@@ -1,5 +1,50 @@
 [
   {
+    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4988,
+    "updated_at": "2026-10-23T00:57:14Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-23T00:55:44Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 2,
+    "updated_at": "2026-10-23T00:50:33Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 42,
+    "updated_at": "2026-10-23T00:48:58Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-23T00:45:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -16,6 +61,15 @@
     "stars": 0,
     "updated_at": "2026-10-23T00:42:32Z",
     "url": "https://github.com/lisn0/tidal"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8946,
+    "updated_at": "2026-10-23T00:39:24Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Context Runtime \u2014 a database query planner for LLM context. Decides what a model sees before it answers; plans it, runs ",
@@ -54,15 +108,6 @@
     "url": "https://github.com/LacerdaTraderCode/observable-analytics-agent"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-23T00:30:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
     "id": "burakdede/lorepack",
     "language": "TypeScript",
@@ -72,13 +117,13 @@
     "url": "https://github.com/burakdede/lorepack"
   },
   {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8945,
-    "updated_at": "2026-10-23T00:39:24Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61837,
+    "updated_at": "2026-10-23T00:29:02Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
@@ -88,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T00:23:27Z",
     "url": "https://github.com/toxicwind/ranch"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61838,
-    "updated_at": "2026-10-23T00:29:02Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod",
@@ -157,8 +193,8 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 30689,
-    "updated_at": "2026-10-23T00:05:38Z",
+    "stars": 30690,
+    "updated_at": "2026-10-23T00:58:57Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -171,15 +207,6 @@
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-22T23:56:05Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -187,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-10-22T23:51:30Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4987,
-    "updated_at": "2026-10-23T00:45:10Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Self-hosted AI orchestration with policy, approvals, PII controls, audit evidence, retrieval, and governed MCP tools",
@@ -241,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-10-22T23:28:52Z",
     "url": "https://github.com/sandeepk24/learn-devops-playbook"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 42,
-    "updated_at": "2026-10-22T23:26:02Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
@@ -356,7 +365,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 2194,
-    "updated_at": "2026-10-22T22:46:09Z",
+    "updated_at": "2026-10-23T01:00:13Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -383,7 +392,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22841,
-    "updated_at": "2026-10-23T00:24:47Z",
+    "updated_at": "2026-10-23T00:50:19Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-22T22:27:28Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28500,
-    "updated_at": "2026-10-22T22:06:50Z",
-    "url": "https://github.com/mlflow/mlflow"
   }
 ]
