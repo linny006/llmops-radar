@@ -1,12 +1,39 @@
 [
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
+    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
+    "id": "burakdede/lorepack",
+    "language": "TypeScript",
+    "name": "burakdede/lorepack",
+    "stars": 4,
+    "updated_at": "2026-10-23T05:27:27Z",
+    "url": "https://github.com/burakdede/lorepack"
+  },
+  {
+    "description": "Drop-in LLM proxy that cuts input tokens 30\u201370% (54.1% measured, quality-gated) across 27 transparent optimisations \u2014 ca",
+    "id": "cbeyondcloud/TokenLean",
     "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11957,
-    "updated_at": "2026-10-23T05:14:32Z",
-    "url": "https://github.com/Arize-ai/phoenix"
+    "name": "cbeyondcloud/TokenLean",
+    "stars": 3,
+    "updated_at": "2026-10-23T05:22:53Z",
+    "url": "https://github.com/cbeyondcloud/TokenLean"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 2195,
+    "updated_at": "2026-10-23T05:21:36Z",
+    "url": "https://github.com/future-agi/future-agi"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 42,
+    "updated_at": "2026-10-23T05:27:29Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Template for small, safe AI agents in pure Python: cost caps in code, tool-less LLM client, \"I don't know\" as a valid re",
@@ -14,8 +41,26 @@
     "language": "Python",
     "name": "tonyweckstrom1987/agentti-pohja",
     "stars": 0,
-    "updated_at": "2026-10-23T05:13:31Z",
+    "updated_at": "2026-10-23T05:18:43Z",
     "url": "https://github.com/tonyweckstrom1987/agentti-pohja"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11957,
+    "updated_at": "2026-10-23T05:17:51Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-23T05:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "OpenAI-compatible AI execution plane on Kubernetes with MCP, vLLM, and policy.",
@@ -40,8 +85,8 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 61861,
-    "updated_at": "2026-10-23T05:08:50Z",
+    "stars": 61862,
+    "updated_at": "2026-10-23T05:25:21Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -79,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-10-23T05:02:53Z",
     "url": "https://github.com/coffeehc/xagent-docs"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-23T05:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
@@ -140,7 +176,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4988,
-    "updated_at": "2026-10-23T05:12:16Z",
+    "updated_at": "2026-10-23T05:23:41Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -167,17 +203,8 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 116,
-    "updated_at": "2026-10-23T04:34:48Z",
+    "updated_at": "2026-10-23T05:17:28Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 42,
-    "updated_at": "2026-10-23T04:54:51Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
@@ -185,7 +212,7 @@
     "language": "Python",
     "name": "llmspendguard/llm-spendguard",
     "stars": 0,
-    "updated_at": "2026-10-23T03:54:09Z",
+    "updated_at": "2026-10-23T05:29:47Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
@@ -194,7 +221,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28504,
-    "updated_at": "2026-10-23T05:02:21Z",
+    "updated_at": "2026-10-23T05:22:16Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -239,7 +266,7 @@
     "language": "JavaScript",
     "name": "cubxxw/blog",
     "stars": 30,
-    "updated_at": "2026-10-23T04:39:21Z",
+    "updated_at": "2026-10-23T05:26:53Z",
     "url": "https://github.com/cubxxw/blog"
   },
   {
@@ -248,8 +275,17 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 12070,
-    "updated_at": "2026-10-23T05:01:57Z",
+    "updated_at": "2026-10-23T05:27:03Z",
     "url": "https://github.com/dataelement/bisheng"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 728,
+    "updated_at": "2026-10-23T03:24:21Z",
+    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "Production-ready platform for evaluating LLM applications with quality, reliability, safety, latency, token usage, and c",
@@ -320,7 +356,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22842,
-    "updated_at": "2026-10-23T02:48:29Z",
+    "updated_at": "2026-10-23T05:25:26Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -331,15 +367,6 @@
     "stars": 3,
     "updated_at": "2026-10-23T03:59:44Z",
     "url": "https://github.com/MongLong0214/jev-gate"
-  },
-  {
-    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
-    "id": "burakdede/lorepack",
-    "language": "TypeScript",
-    "name": "burakdede/lorepack",
-    "stars": 4,
-    "updated_at": "2026-10-23T03:36:54Z",
-    "url": "https://github.com/burakdede/lorepack"
   },
   {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
@@ -355,8 +382,8 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 36221,
-    "updated_at": "2026-10-23T02:45:23Z",
+    "stars": 36222,
+    "updated_at": "2026-10-23T05:27:43Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 30692,
     "updated_at": "2026-10-23T05:04:05Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Claude Code skills and plugin marketplace that stop AI agents from faking success: verify by effect, measure before quot",
-    "id": "dexteon/agent-skills",
-    "language": "Python",
-    "name": "dexteon/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-23T02:16:08Z",
-    "url": "https://github.com/dexteon/agent-skills"
-  },
-  {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 2,
-    "updated_at": "2026-10-23T02:27:06Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26318,
-    "updated_at": "2026-10-23T01:56:08Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   }
 ]
