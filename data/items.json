@@ -1,12 +1,48 @@
 [
   {
-    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
-    "id": "JoniMartin27/lookspan",
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 3004,
+    "updated_at": "2026-10-23T11:44:54Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
     "language": "TypeScript",
-    "name": "JoniMartin27/lookspan",
-    "stars": 7,
-    "updated_at": "2026-10-23T11:29:54Z",
-    "url": "https://github.com/JoniMartin27/lookspan"
+    "name": "langfuse/langfuse",
+    "stars": 36250,
+    "updated_at": "2026-10-23T11:44:53Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22847,
+    "updated_at": "2026-10-23T11:42:52Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "CLI tool for comparing prompt variants and models",
+    "id": "amro/evaling",
+    "language": "Python",
+    "name": "amro/evaling",
+    "stars": 2,
+    "updated_at": "2026-10-23T11:43:08Z",
+    "url": "https://github.com/amro/evaling"
+  },
+  {
+    "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
+    "id": "Amz34/awesome-agent-infrastructure",
+    "language": "Python",
+    "name": "Amz34/awesome-agent-infrastructure",
+    "stars": 1,
+    "updated_at": "2026-10-23T11:40:40Z",
+    "url": "https://github.com/Amz34/awesome-agent-infrastructure"
   },
   {
     "description": "Read-only Kubernetes diagnostics as MCP tools plus a minimal host that lets a local LLM (Ollama) inspect and debug your ",
@@ -14,8 +50,80 @@
     "language": "Python",
     "name": "eliffkeskin/k8s-ops-mcp",
     "stars": 0,
-    "updated_at": "2026-10-23T11:28:25Z",
+    "updated_at": "2026-10-23T11:38:33Z",
     "url": "https://github.com/eliffkeskin/k8s-ops-mcp"
+  },
+  {
+    "description": "Self-hosted AI orchestration with policy, approvals, PII controls, audit evidence, retrieval, and governed MCP tools",
+    "id": "Abillify/atf",
+    "language": "TypeScript",
+    "name": "Abillify/atf",
+    "stars": 5,
+    "updated_at": "2026-10-23T11:38:25Z",
+    "url": "https://github.com/Abillify/atf"
+  },
+  {
+    "description": "\u5f00\u6e90 AI Agent \u6cbb\u7406\u6280\u80fd\u5e93\uff1a109 \u4e2a\u96f6\u4f9d\u8d56\u6280\u80fd\uff0c\u8ba9\u6bcf\u4e2a AI \u8f93\u51fa\u6709\u7c4d\u00b7\u6709\u8bc1\u00b7\u6709\u95e8\u7981\u3002\u8986\u76d6 AI \u6cbb\u7406 / Agent \u5b89\u5168 / \u5408\u89c4\u81ea\u52a8\u5316 / \u8bb0\u5fc6\u6cbb\u7406\uff0c\u9002\u914d Claude Code \u00b7 Codex \u00b7 Cursor \u00b7 Wor",
+    "id": "zhaoxinghua09-cell/agent-skills",
+    "language": "Python",
+    "name": "zhaoxinghua09-cell/agent-skills",
+    "stars": 2,
+    "updated_at": "2026-10-23T11:36:12Z",
+    "url": "https://github.com/zhaoxinghua09-cell/agent-skills"
+  },
+  {
+    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
+    "id": "NVIDIA-NeMo/nemo-helix",
+    "language": "Python",
+    "name": "NVIDIA-NeMo/nemo-helix",
+    "stars": 123,
+    "updated_at": "2026-10-23T11:36:52Z",
+    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
+  },
+  {
+    "description": "Self-hosted coding assistant that routes each request to the cheapest model that can handle it",
+    "id": "optiware-ai/optimux",
+    "language": "Python",
+    "name": "optiware-ai/optimux",
+    "stars": 1,
+    "updated_at": "2026-10-23T11:35:12Z",
+    "url": "https://github.com/optiware-ai/optimux"
+  },
+  {
+    "description": "Self-hosted model and dataset hub, compatible with the Hugging Face Hub API, git, Ollama and LM Studio. Use it as a priv",
+    "id": "hangar-hub/hangar",
+    "language": "Go",
+    "name": "hangar-hub/hangar",
+    "stars": 2,
+    "updated_at": "2026-10-23T11:33:19Z",
+    "url": "https://github.com/hangar-hub/hangar"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-23T11:30:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26331,
+    "updated_at": "2026-10-23T11:30:12Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
+    "id": "JoniMartin27/lookspan",
+    "language": "TypeScript",
+    "name": "JoniMartin27/lookspan",
+    "stars": 7,
+    "updated_at": "2026-10-23T11:29:54Z",
+    "url": "https://github.com/JoniMartin27/lookspan"
   },
   {
     "description": "Enterprise-grade, high-performance LLM serving on Kubernetes. OpenAI-compatible inference powered by vLLM and OpenVINO\u2122 ",
@@ -32,7 +140,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 730,
-    "updated_at": "2026-10-23T11:27:33Z",
+    "updated_at": "2026-10-23T11:37:53Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -63,30 +171,12 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "Self-hosted model and dataset hub, compatible with the Hugging Face Hub API, git, Ollama and LM Studio. Use it as a priv",
-    "id": "hangar-hub/hangar",
-    "language": "Go",
-    "name": "hangar-hub/hangar",
-    "stars": 2,
-    "updated_at": "2026-10-23T11:24:38Z",
-    "url": "https://github.com/hangar-hub/hangar"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22847,
-    "updated_at": "2026-10-23T11:28:26Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4988,
-    "updated_at": "2026-10-23T11:23:00Z",
+    "updated_at": "2026-10-23T11:32:35Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -108,15 +198,6 @@
     "url": "https://github.com/arav7781/TREADOPS"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-23T11:15:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
     "id": "dynamiq-ai/dynamiq",
     "language": "Python",
@@ -133,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T11:12:03Z",
     "url": "https://github.com/vlad-sukh/private-ai-stack"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36249,
-    "updated_at": "2026-10-23T11:28:23Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
@@ -167,7 +239,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28510,
-    "updated_at": "2026-10-23T11:07:14Z",
+    "updated_at": "2026-10-23T11:35:52Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -178,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T11:06:53Z",
     "url": "https://github.com/kelvran/gateway"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 3004,
-    "updated_at": "2026-10-23T11:06:30Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Agentes de IA en paralelo: jefatura, relevo por hoja de ruta y fila de trabajo pesado con sem\u00e1foro PSI",
@@ -203,7 +266,7 @@
     "language": "TypeScript",
     "name": "burakdede/lorepack",
     "stars": 4,
-    "updated_at": "2026-10-23T11:02:18Z",
+    "updated_at": "2026-10-23T11:45:04Z",
     "url": "https://github.com/burakdede/lorepack"
   },
   {
@@ -239,7 +302,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 96,
-    "updated_at": "2026-10-23T11:13:52Z",
+    "updated_at": "2026-10-23T11:43:07Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -288,15 +351,6 @@
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
-    "description": "Self-hosted AI orchestration with policy, approvals, PII controls, audit evidence, retrieval, and governed MCP tools",
-    "id": "Abillify/atf",
-    "language": "TypeScript",
-    "name": "Abillify/atf",
-    "stars": 5,
-    "updated_at": "2026-10-23T10:45:17Z",
-    "url": "https://github.com/Abillify/atf"
-  },
-  {
     "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
     "id": "alibaba/rtp-llm",
     "language": "Python",
@@ -320,7 +374,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 12072,
-    "updated_at": "2026-10-23T10:28:02Z",
+    "updated_at": "2026-10-23T11:45:14Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-23T10:02:00Z",
     "url": "https://github.com/alebgl77/awesome-ai-architect"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 30695,
-    "updated_at": "2026-10-23T10:04:41Z",
-    "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Open-source LLMOps platform with prompt management, an OpenAI-compatible AI gateway, OpenTelemetry tracing, a versioned ",
-    "id": "AcruxCore/AcruxCore",
-    "language": "TypeScript",
-    "name": "AcruxCore/AcruxCore",
-    "stars": 11,
-    "updated_at": "2026-10-23T09:51:48Z",
-    "url": "https://github.com/AcruxCore/AcruxCore"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-23T09:50:18Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Tuned Variables Language (TVL) by Traigent: typed specification language, validators, CLI tools, editor support, and doc",
-    "id": "Traigent/tvl",
-    "language": "Python",
-    "name": "Traigent/tvl",
-    "stars": 0,
-    "updated_at": "2026-10-23T09:48:02Z",
-    "url": "https://github.com/Traigent/tvl"
-  },
-  {
-    "description": "Observability and crash-resume for AI agents \u2014 track token cost, debug any step, and stop before the budget burns. Works",
-    "id": "hanmahong5-arch/lumen",
-    "language": "Python",
-    "name": "hanmahong5-arch/lumen",
-    "stars": 0,
-    "updated_at": "2026-10-23T09:42:44Z",
-    "url": "https://github.com/hanmahong5-arch/lumen"
-  },
-  {
-    "description": "Control plane for company AI use cases \u2014 one self-hosted operating layer for shared budgets, policies, reliability, and ",
-    "id": "dativo-io/talon",
-    "language": "Go",
-    "name": "dativo-io/talon",
-    "stars": 17,
-    "updated_at": "2026-10-23T09:42:50Z",
-    "url": "https://github.com/dativo-io/talon"
   }
 ]
