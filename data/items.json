@@ -1,12 +1,84 @@
 [
   {
+    "description": "",
+    "id": "coffeehc/xagent-docs",
+    "language": "TypeScript",
+    "name": "coffeehc/xagent-docs",
+    "stars": 1,
+    "updated_at": "2026-10-23T06:00:15Z",
+    "url": "https://github.com/coffeehc/xagent-docs"
+  },
+  {
+    "description": "Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio",
+    "id": "naim-munshi/metriqen-llm-serving-optimization",
+    "language": "Python",
+    "name": "naim-munshi/metriqen-llm-serving-optimization",
+    "stars": 0,
+    "updated_at": "2026-10-23T05:59:06Z",
+    "url": "https://github.com/naim-munshi/metriqen-llm-serving-optimization"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-23T05:58:04Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "Tamper-evident receipts for reported LLM efficiency events. Offline integrity and benchmark-arithmetic verification, wit",
+    "id": "thequantumfalcon/kry",
+    "language": "Python",
+    "name": "thequantumfalcon/kry",
+    "stars": 1,
+    "updated_at": "2026-10-23T05:57:42Z",
+    "url": "https://github.com/thequantumfalcon/kry"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11958,
+    "updated_at": "2026-10-23T05:58:11Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28504,
+    "updated_at": "2026-10-23T05:51:05Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 42,
+    "updated_at": "2026-10-23T05:50:42Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
     "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
     "id": "luetzey/who2be",
     "language": "Python",
     "name": "luetzey/who2be",
     "stars": 0,
-    "updated_at": "2026-10-23T05:45:07Z",
+    "updated_at": "2026-10-23T05:47:53Z",
     "url": "https://github.com/luetzey/who2be"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-23T05:45:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source replay and evidence infrastructure for AI agents. Capture runs as portable Run Capsules for replay, diff, li",
@@ -14,8 +86,17 @@
     "language": "Python",
     "name": "MSKazemi/novafabric",
     "stars": 7,
-    "updated_at": "2026-10-23T05:45:13Z",
+    "updated_at": "2026-10-23T05:57:03Z",
     "url": "https://github.com/MSKazemi/novafabric"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36224,
+    "updated_at": "2026-10-23T05:41:45Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
@@ -59,7 +140,7 @@
     "language": "Python",
     "name": "decimal-labs/decimalai-python",
     "stars": 1,
-    "updated_at": "2026-10-23T05:33:01Z",
+    "updated_at": "2026-10-23T05:55:09Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
@@ -67,18 +148,9 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 61864,
+    "stars": 61867,
     "updated_at": "2026-10-23T05:32:10Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-23T05:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
@@ -88,6 +160,15 @@
     "stars": 4,
     "updated_at": "2026-10-23T05:27:27Z",
     "url": "https://github.com/burakdede/lorepack"
+  },
+  {
+    "description": "Open-source, self-hosted control plane for OpenClaw and Hermes AI-agent fleets on Docker/Kubernetes \u2014 REST, CLI, and MCP",
+    "id": "solomon2773/nora",
+    "language": "TypeScript",
+    "name": "solomon2773/nora",
+    "stars": 58,
+    "updated_at": "2026-10-23T05:24:04Z",
+    "url": "https://github.com/solomon2773/nora"
   },
   {
     "description": "Drop-in LLM proxy that cuts input tokens 30\u201370% (54.1% measured, quality-gated) across 27 transparent optimisations \u2014 ca",
@@ -104,17 +185,8 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 2195,
-    "updated_at": "2026-10-23T05:21:36Z",
+    "updated_at": "2026-10-23T05:50:48Z",
     "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 42,
-    "updated_at": "2026-10-23T05:45:05Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Template for small, safe AI agents in pure Python: cost caps in code, tool-less LLM client, \"I don't know\" as a valid re",
@@ -124,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T05:18:43Z",
     "url": "https://github.com/tonyweckstrom1987/agentti-pohja"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11957,
-    "updated_at": "2026-10-23T05:17:51Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "OpenAI-compatible AI execution plane on Kubernetes with MCP, vLLM, and policy.",
@@ -171,15 +234,6 @@
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
-    "description": "",
-    "id": "coffeehc/xagent-docs",
-    "language": "TypeScript",
-    "name": "coffeehc/xagent-docs",
-    "stars": 1,
-    "updated_at": "2026-10-23T05:02:53Z",
-    "url": "https://github.com/coffeehc/xagent-docs"
-  },
-  {
     "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
     "id": "hjongc/openrouter-endpoint-watch",
     "language": "Python",
@@ -187,24 +241,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T04:56:50Z",
     "url": "https://github.com/hjongc/openrouter-endpoint-watch"
-  },
-  {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-23T04:55:37Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
-    "description": "Tamper-evident receipts for reported LLM efficiency events. Offline integrity and benchmark-arithmetic verification, wit",
-    "id": "thequantumfalcon/kry",
-    "language": "Python",
-    "name": "thequantumfalcon/kry",
-    "stars": 1,
-    "updated_at": "2026-10-23T04:49:45Z",
-    "url": "https://github.com/thequantumfalcon/kry"
   },
   {
     "description": "Public demo of governance outside the model for bounded agent control",
@@ -221,7 +257,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4988,
-    "updated_at": "2026-10-23T05:43:24Z",
+    "updated_at": "2026-10-23T05:58:38Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -239,17 +275,8 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 116,
-    "updated_at": "2026-10-23T05:32:24Z",
+    "updated_at": "2026-10-23T05:48:16Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28504,
-    "updated_at": "2026-10-23T05:22:16Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
@@ -293,8 +320,17 @@
     "language": "JavaScript",
     "name": "cubxxw/blog",
     "stars": 30,
-    "updated_at": "2026-10-23T05:44:33Z",
+    "updated_at": "2026-10-23T05:50:20Z",
     "url": "https://github.com/cubxxw/blog"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8948,
+    "updated_at": "2026-10-23T03:29:49Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
@@ -331,15 +367,6 @@
     "stars": 1,
     "updated_at": "2026-10-23T03:20:26Z",
     "url": "https://github.com/MrKyaw/Enterprise-AI-Reference-Architecture"
-  },
-  {
-    "description": "Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio",
-    "id": "naim-munshi/metriqen-llm-serving-optimization",
-    "language": "Python",
-    "name": "naim-munshi/metriqen-llm-serving-optimization",
-    "stars": 0,
-    "updated_at": "2026-10-23T03:14:09Z",
-    "url": "https://github.com/naim-munshi/metriqen-llm-serving-optimization"
   },
   {
     "description": "Detect & score LLM hallucinations by groundedness \u2014 labeled data, precision/recall/F1, runs offline with no API key. Plu",
@@ -387,24 +414,6 @@
     "url": "https://github.com/MongLong0214/jev-gate"
   },
   {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8947,
-    "updated_at": "2026-10-23T03:29:49Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36222,
-    "updated_at": "2026-10-23T05:41:45Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
     "id": "lmnr-ai/lmnr",
     "language": "TypeScript",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-23T02:24:30Z",
     "url": "https://github.com/KBber/KBber"
-  },
-  {
-    "description": "A control layer that decides how an LLM should speak before it speaks",
-    "id": "Furox-Art/eq-layer",
-    "language": "Python",
-    "name": "Furox-Art/eq-layer",
-    "stars": 0,
-    "updated_at": "2026-10-23T02:29:49Z",
-    "url": "https://github.com/Furox-Art/eq-layer"
   }
 ]
