@@ -1,21 +1,111 @@
 [
   {
-    "description": "Audit any agent decision across its past, present, and future, on one typed graph.",
-    "id": "yzhao062/auditable",
+    "description": "Flight recorder & observability for AI agents: trace every model call, tool call, file edit and shell command live, with",
+    "id": "abdullahimohamed101/agent-black-box",
     "language": "Python",
-    "name": "yzhao062/auditable",
-    "stars": 29,
-    "updated_at": "2026-10-23T06:13:33Z",
-    "url": "https://github.com/yzhao062/auditable"
+    "name": "abdullahimohamed101/agent-black-box",
+    "stars": 0,
+    "updated_at": "2026-10-23T06:29:43Z",
+    "url": "https://github.com/abdullahimohamed101/agent-black-box"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 3001,
+    "updated_at": "2026-10-23T06:28:02Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28505,
+    "updated_at": "2026-10-23T06:29:29Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "KYNEX - a local, tool-using AI agent that extracts structured data from documents. 92.65 unified value F1 measured on Ex",
+    "id": "Nikit117/kynex-harness",
+    "language": "Python",
+    "name": "Nikit117/kynex-harness",
+    "stars": 1,
+    "updated_at": "2026-10-23T06:25:23Z",
+    "url": "https://github.com/Nikit117/kynex-harness"
   },
   {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 36225,
-    "updated_at": "2026-10-23T06:13:20Z",
+    "stars": 36226,
+    "updated_at": "2026-10-23T06:29:51Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-10-23T06:21:20Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 32,
+    "updated_at": "2026-10-23T06:20:59Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
+    "id": "korczis/prismatic-majordomus",
+    "language": "Rust",
+    "name": "korczis/prismatic-majordomus",
+    "stars": 0,
+    "updated_at": "2026-10-23T06:29:29Z",
+    "url": "https://github.com/korczis/prismatic-majordomus"
+  },
+  {
+    "description": "Audit any agent decision across its past, present, and future, on one typed graph.",
+    "id": "yzhao062/auditable",
+    "language": "Python",
+    "name": "yzhao062/auditable",
+    "stars": 29,
+    "updated_at": "2026-10-23T06:17:58Z",
+    "url": "https://github.com/yzhao062/auditable"
+  },
+  {
+    "description": "Tuned Variables Language (TVL) by Traigent: typed specification language, validators, CLI tools, editor support, and doc",
+    "id": "Traigent/tvl",
+    "language": "Python",
+    "name": "Traigent/tvl",
+    "stars": 0,
+    "updated_at": "2026-10-23T06:18:11Z",
+    "url": "https://github.com/Traigent/tvl"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-23T06:15:35Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-23T06:15:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Self-hosted AI orchestration with policy, approvals, PII controls, audit evidence, retrieval, and governed MCP tools",
@@ -27,13 +117,13 @@
     "url": "https://github.com/Abillify/atf"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
     "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28504,
-    "updated_at": "2026-10-23T06:07:21Z",
-    "url": "https://github.com/mlflow/mlflow"
+    "name": "Arize-ai/phoenix",
+    "stars": 11959,
+    "updated_at": "2026-10-23T06:05:51Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
@@ -72,15 +162,6 @@
     "url": "https://github.com/happy520ai/gateway-price-check"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-23T06:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "",
     "id": "coffeehc/xagent-docs",
     "language": "TypeScript",
@@ -117,21 +198,12 @@
     "url": "https://github.com/thequantumfalcon/kry"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11958,
-    "updated_at": "2026-10-23T06:05:51Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 42,
-    "updated_at": "2026-10-23T06:14:14Z",
+    "updated_at": "2026-10-23T06:27:56Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -144,15 +216,6 @@
     "url": "https://github.com/MSKazemi/novafabric"
   },
   {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-10-23T06:08:37Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
     "description": "AI platform reference architecture for LLM serving on Kubernetes, with reliability, observability, failure testing, and ",
     "id": "asadhanif3188/InferOps",
     "language": "Python",
@@ -160,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T05:40:15Z",
     "url": "https://github.com/asadhanif3188/InferOps"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 3001,
-    "updated_at": "2026-10-23T05:39:49Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "Full Fledged Observability plugin for OpenClaw",
@@ -261,15 +315,6 @@
     "url": "https://github.com/vivek-541/vivek-541"
   },
   {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-23T05:08:50Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
     "id": "llmsyscore/llm-systems-manager",
     "language": "Python",
@@ -302,7 +347,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4988,
-    "updated_at": "2026-10-23T06:14:20Z",
+    "updated_at": "2026-10-23T06:29:44Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -347,7 +392,7 @@
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 123,
-    "updated_at": "2026-10-23T06:15:14Z",
+    "updated_at": "2026-10-23T06:23:11Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -365,7 +410,7 @@
     "language": "JavaScript",
     "name": "cubxxw/blog",
     "stars": 30,
-    "updated_at": "2026-10-23T06:01:18Z",
+    "updated_at": "2026-10-23T06:18:06Z",
     "url": "https://github.com/cubxxw/blog"
   },
   {
@@ -383,7 +428,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 12070,
-    "updated_at": "2026-10-23T06:05:37Z",
+    "updated_at": "2026-10-23T06:19:41Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -391,7 +436,7 @@
     "id": "mozilla-ai/otari",
     "language": "Python",
     "name": "mozilla-ai/otari",
-    "stars": 728,
+    "stars": 729,
     "updated_at": "2026-10-23T03:24:21Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-23T03:23:59Z",
     "url": "https://github.com/Lazaro549/ai-evaluation-platform"
-  },
-  {
-    "description": "Vendor-neutral enterprise AI architecture and practical leadership: discovery, decisions, 24 lifecycles, 8 reference des",
-    "id": "MrKyaw/Enterprise-AI-Reference-Architecture",
-    "language": "Python",
-    "name": "MrKyaw/Enterprise-AI-Reference-Architecture",
-    "stars": 1,
-    "updated_at": "2026-10-23T03:20:26Z",
-    "url": "https://github.com/MrKyaw/Enterprise-AI-Reference-Architecture"
-  },
-  {
-    "description": "Detect & score LLM hallucinations by groundedness \u2014 labeled data, precision/recall/F1, runs offline with no API key. Plu",
-    "id": "ramenprotokol/hallucination-hunter",
-    "language": "Python",
-    "name": "ramenprotokol/hallucination-hunter",
-    "stars": 0,
-    "updated_at": "2026-10-23T03:14:06Z",
-    "url": "https://github.com/ramenprotokol/hallucination-hunter"
-  },
-  {
-    "description": "Self-hosted AI Agents Platform for AI Native companies. Claude Code, Codex, Gemini, OpenCode agents. Apache 2.0.  ",
-    "id": "Abilityai/trinity",
-    "language": "Python",
-    "name": "Abilityai/trinity",
-    "stars": 693,
-    "updated_at": "2026-10-23T04:58:30Z",
-    "url": "https://github.com/Abilityai/trinity"
-  },
-  {
-    "description": "Local, self-hosted agent infrastructure \u2014 one endpoint for every AI client (Claude Code, Codex CLI, Gemini CLI, OpenCode",
-    "id": "Stravia-AI/StraviaPlatform",
-    "language": "Rust",
-    "name": "Stravia-AI/StraviaPlatform",
-    "stars": 3,
-    "updated_at": "2026-10-23T03:00:44Z",
-    "url": "https://github.com/Stravia-AI/StraviaPlatform"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22842,
-    "updated_at": "2026-10-23T05:25:26Z",
-    "url": "https://github.com/comet-ml/opik"
   }
 ]
