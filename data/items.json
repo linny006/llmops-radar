@@ -1,5 +1,41 @@
 [
   {
+    "description": "Tamper-evident receipts for reported LLM efficiency events. Offline integrity and benchmark-arithmetic verification, wit",
+    "id": "thequantumfalcon/kry",
+    "language": "Python",
+    "name": "thequantumfalcon/kry",
+    "stars": 1,
+    "updated_at": "2026-10-23T04:44:07Z",
+    "url": "https://github.com/thequantumfalcon/kry"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61859,
+    "updated_at": "2026-10-23T04:44:34Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Public demo of governance outside the model for bounded agent control",
+    "id": "TheBrokenWay/CageOS-Lite-Demo",
+    "language": "Python",
+    "name": "TheBrokenWay/CageOS-Lite-Demo",
+    "stars": 0,
+    "updated_at": "2026-10-23T04:33:03Z",
+    "url": "https://github.com/TheBrokenWay/CageOS-Lite-Demo"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-23T04:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "Python",
@@ -14,7 +50,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4988,
-    "updated_at": "2026-10-23T04:26:53Z",
+    "updated_at": "2026-10-23T04:41:28Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -23,17 +59,8 @@
     "language": "Python",
     "name": "decimal-labs/decimalai-python",
     "stars": 1,
-    "updated_at": "2026-10-23T04:16:56Z",
+    "updated_at": "2026-10-23T04:33:09Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-23T04:15:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -59,7 +86,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11957,
-    "updated_at": "2026-10-23T04:10:39Z",
+    "updated_at": "2026-10-23T04:41:34Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -68,17 +95,8 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 116,
-    "updated_at": "2026-10-23T04:07:09Z",
+    "updated_at": "2026-10-23T04:34:48Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Tamper-evident receipts for reported LLM efficiency events. Offline integrity and benchmark-arithmetic verification, wit",
-    "id": "thequantumfalcon/kry",
-    "language": "Python",
-    "name": "thequantumfalcon/kry",
-    "stars": 1,
-    "updated_at": "2026-10-23T04:24:36Z",
-    "url": "https://github.com/thequantumfalcon/kry"
   },
   {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
@@ -95,7 +113,7 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 42,
-    "updated_at": "2026-10-23T04:20:28Z",
+    "updated_at": "2026-10-23T04:31:57Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -113,7 +131,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28504,
-    "updated_at": "2026-10-23T03:53:04Z",
+    "updated_at": "2026-10-23T04:39:51Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -153,21 +171,12 @@
     "url": "https://github.com/cuihuan/awesome-ai-gateway"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61859,
-    "updated_at": "2026-10-23T03:43:37Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "\u9876\u7ea7\u5ba1\u7f8e\u7684\u4e2a\u4eba\u535a\u5ba2\uff01\uff01\uff01\u5199\u4e00\u4e9b\u5173\u4e8e AI\u3001Agent\u3001\u6280\u672f\u3001\u4ea7\u54c1\u3001\u8425\u9500\u3001\u4e00\u4e9b\u751f\u6d3b\u601d\u8003\uff0c\u4e2a\u4eba\u6210\u957f\u7c7b\u7684\u7cbe\u6587",
     "id": "cubxxw/blog",
     "language": "JavaScript",
     "name": "cubxxw/blog",
     "stars": 30,
-    "updated_at": "2026-10-23T04:24:45Z",
+    "updated_at": "2026-10-23T04:39:21Z",
     "url": "https://github.com/cubxxw/blog"
   },
   {
@@ -301,7 +310,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 36218,
+    "stars": 36219,
     "updated_at": "2026-10-23T02:45:23Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-23T01:12:17Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
-    "id": "luetzey/who2be",
-    "language": "Python",
-    "name": "luetzey/who2be",
-    "stars": 0,
-    "updated_at": "2026-10-23T02:45:44Z",
-    "url": "https://github.com/luetzey/who2be"
   }
 ]
