@@ -1,5 +1,68 @@
 [
   {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "language": "Go",
+    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-10-23T17:26:42Z",
+    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
+  },
+  {
+    "description": "Enterprise-grade, high-performance LLM serving on Kubernetes. OpenAI-compatible inference powered by vLLM and OpenVINO\u2122 ",
+    "id": "intel/enterprise-inference",
+    "language": "Python",
+    "name": "intel/enterprise-inference",
+    "stars": 8,
+    "updated_at": "2026-10-23T17:23:47Z",
+    "url": "https://github.com/intel/enterprise-inference"
+  },
+  {
+    "description": "The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, a",
+    "id": "bentoml/BentoML",
+    "language": "Python",
+    "name": "bentoml/BentoML",
+    "stars": 8917,
+    "updated_at": "2026-10-23T17:25:08Z",
+    "url": "https://github.com/bentoml/BentoML"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61906,
+    "updated_at": "2026-10-23T17:26:00Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 4,
+    "updated_at": "2026-10-23T17:20:11Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-23T17:21:58Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-23T17:15:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Open-source replay and evidence infrastructure for AI agents. Capture runs as portable Run Capsules for replay, diff, li",
     "id": "MSKazemi/novafabric",
     "language": "Python",
@@ -14,7 +77,7 @@
     "language": "TypeScript",
     "name": "Keesan12/martin-loop",
     "stars": 398,
-    "updated_at": "2026-10-23T17:14:13Z",
+    "updated_at": "2026-10-23T17:25:31Z",
     "url": "https://github.com/Keesan12/martin-loop"
   },
   {
@@ -54,33 +117,6 @@
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-23T17:15:06Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61906,
-    "updated_at": "2026-10-23T17:09:41Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "language": "Go",
-    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "stars": 1,
-    "updated_at": "2026-10-23T17:11:29Z",
-    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
-  },
-  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -117,31 +153,13 @@
     "url": "https://github.com/metergraph/metergraph"
   },
   {
-    "description": "The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, a",
-    "id": "bentoml/BentoML",
-    "language": "Python",
-    "name": "bentoml/BentoML",
-    "stars": 8917,
-    "updated_at": "2026-10-23T17:03:37Z",
-    "url": "https://github.com/bentoml/BentoML"
-  },
-  {
     "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
     "id": "NVIDIA-NeMo/nemo-helix",
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 123,
-    "updated_at": "2026-10-23T17:09:04Z",
+    "updated_at": "2026-10-23T17:24:51Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-23T17:00:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
@@ -212,7 +230,7 @@
     "language": "TypeScript",
     "name": "Ad-Astra-Computing/aer",
     "stars": 0,
-    "updated_at": "2026-10-23T16:45:30Z",
+    "updated_at": "2026-10-23T17:22:03Z",
     "url": "https://github.com/Ad-Astra-Computing/aer"
   },
   {
@@ -239,7 +257,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11968,
-    "updated_at": "2026-10-23T17:06:44Z",
+    "updated_at": "2026-10-23T17:21:46Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -302,7 +320,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4989,
-    "updated_at": "2026-10-23T17:07:45Z",
+    "updated_at": "2026-10-23T17:26:40Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -373,7 +391,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 9586,
+    "stars": 9587,
     "updated_at": "2026-10-23T16:02:49Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -430,23 +448,5 @@
     "stars": 732,
     "updated_at": "2026-10-23T15:43:42Z",
     "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Cycles budget and action guard for OpenClaw agents",
-    "id": "runcycles/cycles-openclaw-budget-guard",
-    "language": "TypeScript",
-    "name": "runcycles/cycles-openclaw-budget-guard",
-    "stars": 7,
-    "updated_at": "2026-10-23T15:42:54Z",
-    "url": "https://github.com/runcycles/cycles-openclaw-budget-guard"
-  },
-  {
-    "description": "MCP budget and risk authority for Cycles \u2014 runtime governance for Claude, Cursor, and Windsurf",
-    "id": "runcycles/cycles-mcp-server",
-    "language": "TypeScript",
-    "name": "runcycles/cycles-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-10-23T15:42:49Z",
-    "url": "https://github.com/runcycles/cycles-mcp-server"
   }
 ]
