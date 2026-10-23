@@ -1,11 +1,110 @@
 [
   {
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
+    "language": "Python",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 53,
+    "updated_at": "2026-10-23T17:00:17Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "language": "Go",
+    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-10-23T17:00:00Z",
+    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-23T17:00:26Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-23T16:56:49Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, a",
+    "id": "bentoml/BentoML",
+    "language": "Python",
+    "name": "bentoml/BentoML",
+    "stars": 8917,
+    "updated_at": "2026-10-23T16:57:38Z",
+    "url": "https://github.com/bentoml/BentoML"
+  },
+  {
+    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
+    "id": "AixleHQ/flow",
+    "language": "Ruby",
+    "name": "AixleHQ/flow",
+    "stars": 27,
+    "updated_at": "2026-10-23T16:54:54Z",
+    "url": "https://github.com/AixleHQ/flow"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 42,
+    "updated_at": "2026-10-23T16:54:37Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Decoder only, Encoder only, Diffusion model simulation for SLO, Memory, Infra calculations. For model inference and trai",
+    "id": "BudEcosystem/simulator",
+    "language": "Python",
+    "name": "BudEcosystem/simulator",
+    "stars": 4,
+    "updated_at": "2026-10-23T16:53:38Z",
+    "url": "https://github.com/BudEcosystem/simulator"
+  },
+  {
+    "description": "Understand which functions and agents drive LLM spend. Self-hosted monitoring and an open model pricing catalog.",
+    "id": "metergraph/metergraph",
+    "language": "Python",
+    "name": "metergraph/metergraph",
+    "stars": 4,
+    "updated_at": "2026-10-23T16:52:34Z",
+    "url": "https://github.com/metergraph/metergraph"
+  },
+  {
+    "description": "A self-hosted OpenAI-compatible proxy and web app for debugging, testing, and improving AI agents.",
+    "id": "NordsteinSoftware/Proxytrace",
+    "language": "C#",
+    "name": "NordsteinSoftware/Proxytrace",
+    "stars": 3,
+    "updated_at": "2026-10-23T16:47:57Z",
+    "url": "https://github.com/NordsteinSoftware/Proxytrace"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-23T16:45:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\ud83e\udde0\u200b  An LLM router that uses built-in logic and system 1 decision models to intelligently route requests to the appropria",
     "id": "storm-software/mindctl",
     "language": "JavaScript",
     "name": "storm-software/mindctl",
     "stars": 0,
-    "updated_at": "2026-10-23T16:45:00Z",
+    "updated_at": "2026-10-23T16:47:09Z",
     "url": "https://github.com/storm-software/mindctl"
   },
   {
@@ -22,7 +121,7 @@
     "id": "ndom91/llama-dash-docs",
     "language": "MDX",
     "name": "ndom91/llama-dash-docs",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-10-23T16:44:03Z",
     "url": "https://github.com/ndom91/llama-dash-docs"
   },
@@ -31,18 +130,9 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 61903,
-    "updated_at": "2026-10-23T16:43:52Z",
+    "stars": 61906,
+    "updated_at": "2026-10-23T16:58:02Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "language": "Go",
-    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "stars": 1,
-    "updated_at": "2026-10-23T16:44:15Z",
-    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
   },
   {
     "description": "Client packages for AER: the flight recorder for AI agents",
@@ -50,26 +140,8 @@
     "language": "TypeScript",
     "name": "Ad-Astra-Computing/aer",
     "stars": 0,
-    "updated_at": "2026-10-23T16:45:26Z",
+    "updated_at": "2026-10-23T16:45:30Z",
     "url": "https://github.com/Ad-Astra-Computing/aer"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-23T16:44:47Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 42,
-    "updated_at": "2026-10-23T16:40:05Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
@@ -95,7 +167,7 @@
     "language": "Python",
     "name": "digline/digline",
     "stars": 9,
-    "updated_at": "2026-10-23T16:32:36Z",
+    "updated_at": "2026-10-23T16:53:52Z",
     "url": "https://github.com/digline/digline"
   },
   {
@@ -104,26 +176,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11968,
-    "updated_at": "2026-10-23T16:38:00Z",
+    "updated_at": "2026-10-23T16:56:46Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-23T16:30:46Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
-    "id": "AixleHQ/flow",
-    "language": "Ruby",
-    "name": "AixleHQ/flow",
-    "stars": 27,
-    "updated_at": "2026-10-23T16:36:33Z",
-    "url": "https://github.com/AixleHQ/flow"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -162,15 +216,6 @@
     "url": "https://github.com/luetzey/who2be"
   },
   {
-    "description": "A self-hosted OpenAI-compatible proxy and web app for debugging, testing, and improving AI agents.",
-    "id": "NordsteinSoftware/Proxytrace",
-    "language": "C#",
-    "name": "NordsteinSoftware/Proxytrace",
-    "stars": 3,
-    "updated_at": "2026-10-23T16:31:09Z",
-    "url": "https://github.com/NordsteinSoftware/Proxytrace"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
@@ -194,7 +239,7 @@
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 123,
-    "updated_at": "2026-10-23T16:36:40Z",
+    "updated_at": "2026-10-23T16:56:22Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -203,7 +248,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4989,
-    "updated_at": "2026-10-23T16:39:36Z",
+    "updated_at": "2026-10-23T16:59:42Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -221,7 +266,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 116,
-    "updated_at": "2026-10-23T16:45:24Z",
+    "updated_at": "2026-10-23T16:54:36Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -230,7 +275,7 @@
     "language": "Python",
     "name": "hanmahong5-arch/lumen",
     "stars": 0,
-    "updated_at": "2026-10-23T16:26:18Z",
+    "updated_at": "2026-10-23T16:51:23Z",
     "url": "https://github.com/hanmahong5-arch/lumen"
   },
   {
@@ -257,7 +302,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 36262,
-    "updated_at": "2026-10-23T16:09:52Z",
+    "updated_at": "2026-10-23T16:57:47Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -288,15 +333,6 @@
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
-    "description": "Enterprise Scale AIFactory (esml) - on Azure",
-    "id": "jostrm/azure-enterprise-scale-ml",
-    "language": "Python",
-    "name": "jostrm/azure-enterprise-scale-ml",
-    "stars": 53,
-    "updated_at": "2026-10-23T16:01:23Z",
-    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
-  },
-  {
     "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
     "id": "a-novel/service-genai",
     "language": "Go",
@@ -304,15 +340,6 @@
     "stars": 2,
     "updated_at": "2026-10-23T15:59:30Z",
     "url": "https://github.com/a-novel/service-genai"
-  },
-  {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-23T15:59:12Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -421,32 +448,5 @@
     "stars": 96,
     "updated_at": "2026-10-23T16:13:33Z",
     "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-10-23T15:32:50Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "Understand which functions and agents drive LLM spend. Self-hosted monitoring and an open model pricing catalog.",
-    "id": "metergraph/metergraph",
-    "language": "Python",
-    "name": "metergraph/metergraph",
-    "stars": 4,
-    "updated_at": "2026-10-23T16:41:20Z",
-    "url": "https://github.com/metergraph/metergraph"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26340,
-    "updated_at": "2026-10-23T15:33:55Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   }
 ]
