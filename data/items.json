@@ -1,11 +1,83 @@
 [
   {
+    "description": "The agent that owns a bad deploy \u2014 where your team already works. Pre-merge impact estimates, evidence-backed regression",
+    "id": "mehmetyz/blast-radius",
+    "language": "TypeScript",
+    "name": "mehmetyz/blast-radius",
+    "stars": 0,
+    "updated_at": "2026-10-23T21:14:01Z",
+    "url": "https://github.com/mehmetyz/blast-radius"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61916,
+    "updated_at": "2026-10-23T21:14:49Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-23T21:08:14Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
+    "id": "NVIDIA-NeMo/nemo-helix",
+    "language": "Python",
+    "name": "NVIDIA-NeMo/nemo-helix",
+    "stars": 124,
+    "updated_at": "2026-10-23T21:13:01Z",
+    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
+  },
+  {
+    "description": "Dark Gravity LLMOps Standard: ISO/IEC/IEEE 42010 agent observability, prompt lineage, and runtime guardrails for autonom",
+    "id": "lgcorzo/llmops-python-package",
+    "language": "Jupyter Notebook",
+    "name": "lgcorzo/llmops-python-package",
+    "stars": 1,
+    "updated_at": "2026-10-23T21:08:18Z",
+    "url": "https://github.com/lgcorzo/llmops-python-package"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8955,
+    "updated_at": "2026-10-23T21:06:46Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "AI agent execution governance: pre-effect authorization, single-use permissions, policy enforcement, and verifiable reco",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 42,
+    "updated_at": "2026-10-23T21:01:53Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-23T21:00:58Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Open-source replay and evidence infrastructure for AI agents. Capture runs as portable Run Capsules for replay, diff, li",
     "id": "MSKazemi/novafabric",
     "language": "Python",
     "name": "MSKazemi/novafabric",
     "stars": 7,
-    "updated_at": "2026-10-23T21:00:55Z",
+    "updated_at": "2026-10-23T21:04:10Z",
     "url": "https://github.com/MSKazemi/novafabric"
   },
   {
@@ -32,7 +104,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-23T20:57:51Z",
+    "updated_at": "2026-10-23T21:12:09Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -45,21 +117,12 @@
     "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
-    "description": "Dark Gravity LLMOps Standard: ISO/IEC/IEEE 42010 agent observability, prompt lineage, and runtime guardrails for autonom",
-    "id": "lgcorzo/llmops-python-package",
-    "language": "Jupyter Notebook",
-    "name": "lgcorzo/llmops-python-package",
-    "stars": 1,
-    "updated_at": "2026-10-23T20:54:59Z",
-    "url": "https://github.com/lgcorzo/llmops-python-package"
-  },
-  {
     "description": "OpenTelemetry Instrumentation for AI Observability",
     "id": "Arize-ai/openinference",
     "language": "Python",
     "name": "Arize-ai/openinference",
     "stars": 1278,
-    "updated_at": "2026-10-23T20:56:26Z",
+    "updated_at": "2026-10-23T21:03:09Z",
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
@@ -79,24 +142,6 @@
     "stars": 31,
     "updated_at": "2026-10-23T21:00:05Z",
     "url": "https://github.com/JehanneDussert/govllm"
-  },
-  {
-    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
-    "id": "NVIDIA-NeMo/nemo-helix",
-    "language": "Python",
-    "name": "NVIDIA-NeMo/nemo-helix",
-    "stars": 124,
-    "updated_at": "2026-10-23T20:58:26Z",
-    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-23T20:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Myrtia \u2014 agent-native red teaming for LLMs and AI agents: a deliberating council of attacker models (propose, cross-crit",
@@ -131,7 +176,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 399,
-    "updated_at": "2026-10-23T20:33:41Z",
+    "updated_at": "2026-10-23T21:08:47Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -162,24 +207,6 @@
     "url": "https://github.com/pom11/hscc"
   },
   {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8954,
-    "updated_at": "2026-10-23T21:00:25Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61915,
-    "updated_at": "2026-10-23T21:00:07Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "If the agent bill went up and nothing errored, a prompt cache broke. Replay Doctor names the turn it broke on, the cause",
     "id": "RedRobotKK/Replay",
     "language": "Go",
@@ -196,15 +223,6 @@
     "stars": 11,
     "updated_at": "2026-10-23T20:10:41Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-23T20:09:11Z",
-    "url": "https://github.com/toxicwind/ranch"
   },
   {
     "description": "Enterprise Scale AIFactory (esml) - on Azure",
@@ -248,7 +266,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11971,
-    "updated_at": "2026-10-23T20:51:43Z",
+    "updated_at": "2026-10-23T21:05:03Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -423,15 +441,6 @@
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
-    "description": "AI agent execution governance: pre-effect authorization, single-use permissions, policy enforcement, and verifiable reco",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 42,
-    "updated_at": "2026-10-23T19:35:29Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
     "description": "\u9876\u7ea7\u5ba1\u7f8e\u7684\u4e2a\u4eba\u535a\u5ba2\uff01\uff01\uff01\u5199\u4e00\u4e9b\u5173\u4e8e AI\u3001Agent\u3001\u6280\u672f\u3001\u4ea7\u54c1\u3001\u8425\u9500\u3001\u4e00\u4e9b\u751f\u6d3b\u601d\u8003\uff0c\u4e2a\u4eba\u6210\u957f\u7c7b\u7684\u7cbe\u6587",
     "id": "cubxxw/blog",
     "language": "JavaScript",
@@ -439,14 +448,5 @@
     "stars": 30,
     "updated_at": "2026-10-23T19:11:14Z",
     "url": "https://github.com/cubxxw/blog"
-  },
-  {
-    "description": "Self-hosted AI gateway in one Rust binary: OpenAI- and Anthropic-compatible API, routing with fallbacks, budgets, rate l",
-    "id": "techgopal/ultrafast-ai-gateway",
-    "language": "Rust",
-    "name": "techgopal/ultrafast-ai-gateway",
-    "stars": 21,
-    "updated_at": "2026-10-23T19:08:37Z",
-    "url": "https://github.com/techgopal/ultrafast-ai-gateway"
   }
 ]
