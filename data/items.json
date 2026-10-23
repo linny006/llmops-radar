@@ -1,12 +1,84 @@
 [
   {
+    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
+    "id": "NVIDIA-NeMo/nemo-helix",
+    "language": "Python",
+    "name": "NVIDIA-NeMo/nemo-helix",
+    "stars": 125,
+    "updated_at": "2026-10-23T23:29:10Z",
+    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61921,
+    "updated_at": "2026-10-23T23:28:48Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Ratcheting lint gate for AI-written code: new findings fail, the baseline only tightens, and suppressions, skipped tests",
+    "id": "MartinCastroAlvarez/agent-lint",
+    "language": "Python",
+    "name": "MartinCastroAlvarez/agent-lint",
+    "stars": 0,
+    "updated_at": "2026-10-23T23:27:52Z",
+    "url": "https://github.com/MartinCastroAlvarez/agent-lint"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 96,
+    "updated_at": "2026-10-23T23:23:30Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
+    "id": "rknightion/genai-otel-bridge",
+    "language": "Go",
+    "name": "rknightion/genai-otel-bridge",
+    "stars": 1,
+    "updated_at": "2026-10-23T23:23:19Z",
+    "url": "https://github.com/rknightion/genai-otel-bridge"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-10-23T23:20:24Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
     "id": "vocion/vocion-core",
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-23T23:14:43Z",
+    "updated_at": "2026-10-23T23:27:23Z",
     "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "GitOps for recurring agent work, with approved access, sandboxed runs and audit trails.",
+    "id": "piotrekno1/second-shift",
+    "language": "Python",
+    "name": "piotrekno1/second-shift",
+    "stars": 0,
+    "updated_at": "2026-10-23T23:16:57Z",
+    "url": "https://github.com/piotrekno1/second-shift"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-23T23:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Self-hosted AI Agents Platform for AI Native companies. Claude Code, Codex, Gemini, OpenCode agents. Apache 2.0.  ",
@@ -18,15 +90,6 @@
     "url": "https://github.com/Abilityai/trinity"
   },
   {
-    "description": "GitOps for recurring agent work, with approved access, sandboxed runs and audit trails.",
-    "id": "piotrekno1/second-shift",
-    "language": "Python",
-    "name": "piotrekno1/second-shift",
-    "stars": 0,
-    "updated_at": "2026-10-23T23:13:15Z",
-    "url": "https://github.com/piotrekno1/second-shift"
-  },
-  {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
     "id": "JavisBot-Service/javis-transparency",
     "language": "Python",
@@ -34,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-10-23T23:13:05Z",
     "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61921,
-    "updated_at": "2026-10-23T23:12:54Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
@@ -72,31 +126,13 @@
     "url": "https://github.com/toxicwind/ranch"
   },
   {
-    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
-    "id": "NVIDIA-NeMo/nemo-helix",
-    "language": "Python",
-    "name": "NVIDIA-NeMo/nemo-helix",
-    "stars": 125,
-    "updated_at": "2026-10-23T23:08:19Z",
-    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
-  },
-  {
     "description": "The execution control plane for AI agents. Govern every model request, MCP tool call, A2A delegation, and downstream act",
     "id": "GetBusbar/busbar",
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 213,
-    "updated_at": "2026-10-23T23:05:01Z",
+    "updated_at": "2026-10-23T23:29:13Z",
     "url": "https://github.com/GetBusbar/busbar"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-10-23T23:04:48Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
     "description": "Agentic Runtime",
@@ -126,15 +162,6 @@
     "url": "https://github.com/responsibleai/assert-ai-action"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-23T23:00:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "An open-source CLI plus GitHub Action that prevents unsafe prompt, model, retrieval, tool, or configuration changes from",
     "id": "Chris0Jeky/llm-release-gate",
     "language": "Python",
@@ -151,15 +178,6 @@
     "stars": 7,
     "updated_at": "2026-10-23T22:59:28Z",
     "url": "https://github.com/MSKazemi/novafabric"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 96,
-    "updated_at": "2026-10-23T23:14:32Z",
-    "url": "https://github.com/mloda-ai/mloda"
   },
   {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
@@ -180,21 +198,12 @@
     "url": "https://github.com/future-agi/future-agi"
   },
   {
-    "description": "Ratcheting lint gate for AI-written code: new findings fail, the baseline only tightens, and suppressions, skipped tests",
-    "id": "MartinCastroAlvarez/agent-lint",
-    "language": "Python",
-    "name": "MartinCastroAlvarez/agent-lint",
-    "stars": 0,
-    "updated_at": "2026-10-23T22:55:44Z",
-    "url": "https://github.com/MartinCastroAlvarez/agent-lint"
-  },
-  {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
     "id": "cloudrift-ai/emmy",
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 116,
-    "updated_at": "2026-10-23T23:13:03Z",
+    "updated_at": "2026-10-23T23:28:23Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -268,15 +277,6 @@
     "stars": 29,
     "updated_at": "2026-10-23T22:27:37Z",
     "url": "https://github.com/francordel/myrtia"
-  },
-  {
-    "description": "Turn Portkey and LangSmith LLM traffic into OpenTelemetry metrics and logs. Vendor-neutral OTLP to Grafana Cloud or any ",
-    "id": "rknightion/genai-otel-bridge",
-    "language": "Go",
-    "name": "rknightion/genai-otel-bridge",
-    "stars": 1,
-    "updated_at": "2026-10-23T22:20:15Z",
-    "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
     "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
@@ -428,7 +428,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 398,
-    "updated_at": "2026-10-23T21:08:47Z",
+    "updated_at": "2026-10-23T23:29:43Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
