@@ -1,5 +1,50 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11956,
+    "updated_at": "2026-10-23T02:43:57Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 116,
+    "updated_at": "2026-10-23T02:42:46Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Runtime-agnostic Kubernetes governance for AI agents: gVisor isolation, egress policy, cost controls, and offline audit ",
+    "id": "Clawdlinux/agentic-operator-core",
+    "language": "Go",
+    "name": "Clawdlinux/agentic-operator-core",
+    "stars": 51,
+    "updated_at": "2026-10-23T02:31:55Z",
+    "url": "https://github.com/Clawdlinux/agentic-operator-core"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-23T02:30:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code \u2014 V3 prototype runs ",
+    "id": "MongLong0214/jev-gate",
+    "language": "TypeScript",
+    "name": "MongLong0214/jev-gate",
+    "stars": 3,
+    "updated_at": "2026-10-23T02:40:43Z",
+    "url": "https://github.com/MongLong0214/jev-gate"
+  },
+  {
     "description": "Agenta \u2014 independent third-party profile of a public API surface, by API Evangelist. Agenta is an open-source LLMOps pla",
     "id": "api-evangelist/agenta",
     "language": "\u2014",
@@ -16,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T02:24:30Z",
     "url": "https://github.com/KBber/KBber"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11956,
-    "updated_at": "2026-10-23T02:28:33Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "A control layer that decides how an LLM should speak before it speaks",
@@ -50,7 +86,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4988,
-    "updated_at": "2026-10-23T02:28:29Z",
+    "updated_at": "2026-10-23T02:44:20Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -72,15 +108,6 @@
     "url": "https://github.com/dexteon/agent-skills"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-23T02:15:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
     "id": "toxicwind/ranch",
     "language": "Rust",
@@ -99,20 +126,11 @@
     "url": "https://github.com/ramenprotokol/hallucination-hunter"
   },
   {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 116,
-    "updated_at": "2026-10-23T02:11:06Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 61845,
+    "stars": 61848,
     "updated_at": "2026-10-23T02:08:41Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -151,15 +169,6 @@
     "stars": 42,
     "updated_at": "2026-10-23T02:02:24Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code \u2014 V3 prototype runs ",
-    "id": "MongLong0214/jev-gate",
-    "language": "TypeScript",
-    "name": "MongLong0214/jev-gate",
-    "stars": 3,
-    "updated_at": "2026-10-23T02:30:22Z",
-    "url": "https://github.com/MongLong0214/jev-gate"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -203,7 +212,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 727,
-    "updated_at": "2026-10-23T01:29:00Z",
+    "updated_at": "2026-10-23T02:32:49Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-22T23:06:29Z",
     "url": "https://github.com/api-evangelist/dify"
-  },
-  {
-    "description": "Every model call through one library: raw-HTTP provider adapters, a cost ledger row and an OpenTelemetry span per call, ",
-    "id": "Peter-A-P/compliant-ai-gateway",
-    "language": "Python",
-    "name": "Peter-A-P/compliant-ai-gateway",
-    "stars": 0,
-    "updated_at": "2026-10-22T22:56:34Z",
-    "url": "https://github.com/Peter-A-P/compliant-ai-gateway"
   }
 ]
