@@ -1,21 +1,75 @@
 [
   {
-    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
-    "id": "NVIDIA-NeMo/nemo-helix",
-    "language": "Python",
-    "name": "NVIDIA-NeMo/nemo-helix",
-    "stars": 125,
-    "updated_at": "2026-10-23T23:29:10Z",
-    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
+    "description": "If the agent bill went up and nothing errored, a prompt cache broke. Replay Doctor names the turn it broke on, the cause",
+    "id": "RedRobotKK/Replay",
+    "language": "Go",
+    "name": "RedRobotKK/Replay",
+    "stars": 3,
+    "updated_at": "2026-10-23T23:44:04Z",
+    "url": "https://github.com/RedRobotKK/Replay"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 61921,
-    "updated_at": "2026-10-23T23:28:48Z",
+    "stars": 61924,
+    "updated_at": "2026-10-23T23:44:30Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-23T23:43:17Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 7,
+    "updated_at": "2026-10-23T23:39:46Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11973,
+    "updated_at": "2026-10-23T23:33:46Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-23T23:33:35Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-23T23:30:18Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
+    "id": "NVIDIA-NeMo/nemo-helix",
+    "language": "Python",
+    "name": "NVIDIA-NeMo/nemo-helix",
+    "stars": 125,
+    "updated_at": "2026-10-23T23:38:30Z",
+    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
     "description": "Ratcheting lint gate for AI-written code: new findings fail, the baseline only tightens, and suppressions, skipped tests",
@@ -32,7 +86,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 96,
-    "updated_at": "2026-10-23T23:23:30Z",
+    "updated_at": "2026-10-23T23:34:03Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -41,7 +95,7 @@
     "language": "Go",
     "name": "rknightion/genai-otel-bridge",
     "stars": 1,
-    "updated_at": "2026-10-23T23:23:19Z",
+    "updated_at": "2026-10-23T23:31:37Z",
     "url": "https://github.com/rknightion/genai-otel-bridge"
   },
   {
@@ -54,15 +108,6 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-23T23:27:23Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
     "description": "GitOps for recurring agent work, with approved access, sandboxed runs and audit trails.",
     "id": "piotrekno1/second-shift",
     "language": "Python",
@@ -72,21 +117,12 @@
     "url": "https://github.com/piotrekno1/second-shift"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-23T23:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Self-hosted AI Agents Platform for AI Native companies. Claude Code, Codex, Gemini, OpenCode agents. Apache 2.0.  ",
     "id": "Abilityai/trinity",
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 695,
-    "updated_at": "2026-10-23T23:14:17Z",
+    "updated_at": "2026-10-23T23:40:44Z",
     "url": "https://github.com/Abilityai/trinity"
   },
   {
@@ -117,21 +153,12 @@
     "url": "https://github.com/ZIZKA-AI-SL/ZizkaDB"
   },
   {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-23T23:08:00Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
     "description": "The execution control plane for AI agents. Govern every model request, MCP tool call, A2A delegation, and downstream act",
     "id": "GetBusbar/busbar",
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 213,
-    "updated_at": "2026-10-23T23:29:13Z",
+    "updated_at": "2026-10-23T23:44:49Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -194,7 +221,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 2196,
-    "updated_at": "2026-10-23T22:56:34Z",
+    "updated_at": "2026-10-23T23:44:04Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -203,7 +230,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 116,
-    "updated_at": "2026-10-23T23:28:23Z",
+    "updated_at": "2026-10-23T23:38:14Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -241,15 +268,6 @@
     "stars": 463,
     "updated_at": "2026-10-23T22:42:20Z",
     "url": "https://github.com/SynaLinks/synalinks"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 7,
-    "updated_at": "2026-10-23T22:55:11Z",
-    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "An LLM inference engine for persistent chat bots and agents. It allows models to forget old and unimportant tokens to ke",
@@ -347,7 +365,7 @@
     "language": "Python",
     "name": "llmspendguard/llm-spendguard",
     "stars": 0,
-    "updated_at": "2026-10-23T21:55:50Z",
+    "updated_at": "2026-10-23T23:30:52Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
@@ -358,15 +376,6 @@
     "stars": 4990,
     "updated_at": "2026-10-23T21:53:15Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11973,
-    "updated_at": "2026-10-23T23:14:35Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "A control layer that decides how an LLM should speak before it speaks",
@@ -428,7 +437,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 398,
-    "updated_at": "2026-10-23T23:29:43Z",
+    "updated_at": "2026-10-23T23:43:24Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-23T21:14:01Z",
     "url": "https://github.com/mehmetyz/blast-radius"
-  },
-  {
-    "description": "Dark Gravity LLMOps Standard: ISO/IEC/IEEE 42010 agent observability, prompt lineage, and runtime guardrails for autonom",
-    "id": "lgcorzo/llmops-python-package",
-    "language": "Jupyter Notebook",
-    "name": "lgcorzo/llmops-python-package",
-    "stars": 1,
-    "updated_at": "2026-10-23T21:24:05Z",
-    "url": "https://github.com/lgcorzo/llmops-python-package"
   }
 ]
