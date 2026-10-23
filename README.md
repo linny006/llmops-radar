@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-23 01:57 UTC
+> ⏰ Last updated: 2026-10-23 02:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,17 +42,17 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 42 | Go | 2026-10-23 | Agentic Runtime |
-| 2 | [rrahimi-uci/caliber-suite](https://github.com/rrahimi-uci/caliber-suite) | 2 | Python | 2026-10-23 | Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases, |
-| 3 | [sarkars/agent-failure-modes](https://github.com/sarkars/agent-failure-modes) | 1 | Python | 2026-10-23 | Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a |
-| 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26309 | TypeScript | 2026-10-23 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 5 | [llmsyscore/llm-systems-manager](https://github.com/llmsyscore/llm-systems-manager) | 11 | Python | 2026-10-23 | LLM Systems Manager — real-time observability and control for LLM systems |
-| 6 | [toxicwind/ranch](https://github.com/toxicwind/ranch) | 0 | Rust | 2026-10-23 | The self-hosted LLM estate in one monorepo — local model serving, cloud provider routing, MCP gateway, build jobs. All O |
-| 7 | [naim-munshi/metriqen-llm-serving-optimization](https://github.com/naim-munshi/metriqen-llm-serving-optimization) | 0 | Python | 2026-10-23 | Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio |
-| 8 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-23 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 9 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 3000 | Python | 2026-10-23 | Community maintained hardware plugin for vLLM on Huawei Ascend |
-| 10 | [dexteon/agent-skills](https://github.com/dexteon/agent-skills) | 0 | Python | 2026-10-23 | Claude Code skills and plugin marketplace that stop AI agents from faking success: verify by effect, measure before quot |
-| 11 | [MongLong0214/jev-gate](https://github.com/MongLong0214/jev-gate) | 3 | TypeScript | 2026-10-23 | Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code — V3 prototype runs  |
+| 1 | [MongLong0214/jev-gate](https://github.com/MongLong0214/jev-gate) | 3 | TypeScript | 2026-10-23 | Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code — V3 prototype runs  |
+| 2 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-23 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 3 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 42 | Go | 2026-10-23 | Agentic Runtime |
+| 4 | [rrahimi-uci/caliber-suite](https://github.com/rrahimi-uci/caliber-suite) | 2 | Python | 2026-10-23 | Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases, |
+| 5 | [sarkars/agent-failure-modes](https://github.com/sarkars/agent-failure-modes) | 1 | Python | 2026-10-23 | Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a |
+| 6 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26309 | TypeScript | 2026-10-23 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 7 | [llmsyscore/llm-systems-manager](https://github.com/llmsyscore/llm-systems-manager) | 11 | Python | 2026-10-23 | LLM Systems Manager — real-time observability and control for LLM systems |
+| 8 | [toxicwind/ranch](https://github.com/toxicwind/ranch) | 0 | Rust | 2026-10-23 | The self-hosted LLM estate in one monorepo — local model serving, cloud provider routing, MCP gateway, build jobs. All O |
+| 9 | [naim-munshi/metriqen-llm-serving-optimization](https://github.com/naim-munshi/metriqen-llm-serving-optimization) | 0 | Python | 2026-10-23 | Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio |
+| 10 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 3000 | Python | 2026-10-23 | Community maintained hardware plugin for vLLM on Huawei Ascend |
+| 11 | [dexteon/agent-skills](https://github.com/dexteon/agent-skills) | 0 | Python | 2026-10-23 | Claude Code skills and plugin marketplace that stop AI agents from faking success: verify by effect, measure before quot |
 | 12 | [a-novel/service-genai](https://github.com/a-novel/service-genai) | 2 | Go | 2026-10-23 | Durable execution for AI provider calls: crash-safe, idempotent and pollable. |
 | 13 | [valteresj2/agent-hangar](https://github.com/valteresj2/agent-hangar) | 4 | Python | 2026-10-23 | One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod |
 | 14 | [andypalmi/amicu](https://github.com/andypalmi/amicu) | 1 | Rust | 2026-10-23 | Terraform for your own LLMs: an open-source CLI that deploys vLLM and llama.cpp to your own machine or to GPU cloud prov |
