@@ -1,11 +1,74 @@
 [
   {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 116,
+    "updated_at": "2026-10-23T20:30:13Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 7,
+    "updated_at": "2026-10-23T20:25:39Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61915,
+    "updated_at": "2026-10-23T20:24:21Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "If the agent bill went up and nothing errored, a prompt cache broke. Replay Doctor names the turn it broke on, the cause",
+    "id": "RedRobotKK/Replay",
+    "language": "Go",
+    "name": "RedRobotKK/Replay",
+    "stars": 3,
+    "updated_at": "2026-10-23T20:24:04Z",
+    "url": "https://github.com/RedRobotKK/Replay"
+  },
+  {
+    "description": "Open-source replay and evidence infrastructure for AI agents. Capture runs as portable Run Capsules for replay, diff, li",
+    "id": "MSKazemi/novafabric",
+    "language": "Python",
+    "name": "MSKazemi/novafabric",
+    "stars": 7,
+    "updated_at": "2026-10-23T20:22:57Z",
+    "url": "https://github.com/MSKazemi/novafabric"
+  },
+  {
+    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
+    "id": "NVIDIA-NeMo/nemo-helix",
+    "language": "Python",
+    "name": "NVIDIA-NeMo/nemo-helix",
+    "stars": 124,
+    "updated_at": "2026-10-23T20:27:43Z",
+    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-23T20:15:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22853,
-    "updated_at": "2026-10-23T20:13:28Z",
+    "updated_at": "2026-10-23T20:19:08Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -34,15 +97,6 @@
     "stars": 53,
     "updated_at": "2026-10-23T20:08:45Z",
     "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
-  },
-  {
-    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
-    "id": "NVIDIA-NeMo/nemo-helix",
-    "language": "Python",
-    "name": "NVIDIA-NeMo/nemo-helix",
-    "stars": 124,
-    "updated_at": "2026-10-23T20:11:51Z",
-    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
     "description": "Plataforma para operar agentes de IA em produ\u00e7\u00e3o: agentes, times multi-agente e workflows versionados com rollback, RAG ",
@@ -81,48 +135,21 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 7,
-    "updated_at": "2026-10-23T20:02:22Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
     "id": "rhesis-ai/rhesis",
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 399,
-    "updated_at": "2026-10-23T20:01:58Z",
+    "updated_at": "2026-10-23T20:16:02Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61914,
-    "updated_at": "2026-10-23T20:13:12Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-23T20:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11970,
-    "updated_at": "2026-10-23T19:59:12Z",
+    "stars": 11971,
+    "updated_at": "2026-10-23T20:26:44Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -157,7 +184,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 9594,
+    "stars": 9595,
     "updated_at": "2026-10-23T19:51:00Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -176,7 +203,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8954,
-    "updated_at": "2026-10-23T19:53:09Z",
+    "updated_at": "2026-10-23T20:25:16Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -212,7 +239,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-23T20:14:30Z",
+    "updated_at": "2026-10-23T20:28:52Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -238,7 +265,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 30705,
+    "stars": 30706,
     "updated_at": "2026-10-23T19:35:01Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -324,15 +351,6 @@
     "url": "https://github.com/langwatch/langwatch"
   },
   {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 116,
-    "updated_at": "2026-10-23T20:04:29Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
     "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
     "id": "hjongc/openrouter-endpoint-watch",
     "language": "Python",
@@ -365,7 +383,7 @@
     "language": "Python",
     "name": "redevops-io/agentic-os",
     "stars": 2,
-    "updated_at": "2026-10-23T19:15:33Z",
+    "updated_at": "2026-10-23T20:17:19Z",
     "url": "https://github.com/redevops-io/agentic-os"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-23T18:40:38Z",
     "url": "https://github.com/metergraph/metergraph"
-  },
-  {
-    "description": "ZenML \u2014 independent third-party profile of a public API surface, by API Evangelist. ZenML is an open-source MLOps and LL",
-    "id": "api-evangelist/zenml",
-    "language": "\u2014",
-    "name": "api-evangelist/zenml",
-    "stars": 0,
-    "updated_at": "2026-10-23T18:37:06Z",
-    "url": "https://github.com/api-evangelist/zenml"
-  },
-  {
-    "description": "TensorZero \u2014 independent third-party profile of a public API surface, by API Evangelist. TensorZero is an open-source, s",
-    "id": "api-evangelist/tensorzero",
-    "language": "\u2014",
-    "name": "api-evangelist/tensorzero",
-    "stars": 0,
-    "updated_at": "2026-10-23T18:26:48Z",
-    "url": "https://github.com/api-evangelist/tensorzero"
   }
 ]
