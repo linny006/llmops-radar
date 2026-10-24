@@ -1,5 +1,86 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11975,
+    "updated_at": "2026-10-24T03:30:04Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 3004,
+    "updated_at": "2026-10-24T03:28:22Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 42,
+    "updated_at": "2026-10-24T03:23:37Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61926,
+    "updated_at": "2026-10-24T03:29:59Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-24T03:22:29Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-10-24T03:21:01Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 24,
+    "updated_at": "2026-10-24T03:18:22Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
+    "id": "NVIDIA-NeMo/nemo-helix",
+    "language": "Python",
+    "name": "NVIDIA-NeMo/nemo-helix",
+    "stars": 126,
+    "updated_at": "2026-10-24T03:18:00Z",
+    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-24T03:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
     "id": "vocion/vocion-core",
     "language": "TypeScript",
@@ -14,17 +95,8 @@
     "language": "Python",
     "name": "LacerdaTraderCode/observable-analytics-agent",
     "stars": 0,
-    "updated_at": "2026-10-24T03:14:49Z",
+    "updated_at": "2026-10-24T03:16:41Z",
     "url": "https://github.com/LacerdaTraderCode/observable-analytics-agent"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-24T03:10:02Z",
-    "url": "https://github.com/toxicwind/ranch"
   },
   {
     "description": "ZenML \u2014 independent third-party profile of a public API surface, by API Evangelist. ZenML is an open-source MLOps and LL",
@@ -50,26 +122,8 @@
     "language": "Python",
     "name": "redevops-io/agentic-os",
     "stars": 2,
-    "updated_at": "2026-10-24T03:02:51Z",
+    "updated_at": "2026-10-24T03:19:21Z",
     "url": "https://github.com/redevops-io/agentic-os"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-24T03:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61926,
-    "updated_at": "2026-10-24T03:11:49Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "OpenTelemetry Instrumentation for AI Observability",
@@ -185,7 +239,7 @@
     "language": "Python",
     "name": "llmspendguard/llm-spendguard",
     "stars": 0,
-    "updated_at": "2026-10-24T02:33:30Z",
+    "updated_at": "2026-10-24T03:29:59Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
@@ -230,17 +284,8 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1371,
-    "updated_at": "2026-10-24T03:02:19Z",
+    "updated_at": "2026-10-24T03:15:25Z",
     "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11975,
-    "updated_at": "2026-10-24T02:10:32Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Model-agnostic Agent Skill: keep multiple hypotheses alive, test them against evidence, revive alternatives, collapse to",
@@ -250,15 +295,6 @@
     "stars": 4,
     "updated_at": "2026-10-24T02:17:29Z",
     "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 24,
-    "updated_at": "2026-10-24T02:09:51Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
     "description": "Tamper-evident receipts for reported LLM efficiency events. Offline integrity and benchmark-arithmetic verification, wit",
@@ -319,7 +355,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26356,
+    "stars": 26357,
     "updated_at": "2026-10-24T01:35:01Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -383,7 +419,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 116,
-    "updated_at": "2026-10-24T03:13:33Z",
+    "updated_at": "2026-10-24T03:16:34Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -405,15 +441,6 @@
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 42,
-    "updated_at": "2026-10-24T00:54:01Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
     "id": "ZIZKA-AI-SL/ZizkaDB",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 145,
     "updated_at": "2026-10-24T00:31:45Z",
     "url": "https://github.com/ZIZKA-AI-SL/ZizkaDB"
-  },
-  {
-    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 2,
-    "updated_at": "2026-10-24T00:28:19Z",
-    "url": "https://github.com/a-novel/service-genai"
-  },
-  {
-    "description": "Agent execution runtime with schema-validated tool plans, durable effects, recovery, and replay.",
-    "id": "axiom-llc/axiom-apex",
-    "language": "Python",
-    "name": "axiom-llc/axiom-apex",
-    "stars": 2,
-    "updated_at": "2026-10-24T00:26:18Z",
-    "url": "https://github.com/axiom-llc/axiom-apex"
-  },
-  {
-    "description": "pytest plugin for evaluating LLM apps and agents like unit tests: golden sets, LLM-as-judge, cost/token budgets, caching",
-    "id": "MartinCastroAlvarez/pytest-llm-evals",
-    "language": "Python",
-    "name": "MartinCastroAlvarez/pytest-llm-evals",
-    "stars": 0,
-    "updated_at": "2026-10-24T00:22:36Z",
-    "url": "https://github.com/MartinCastroAlvarez/pytest-llm-evals"
   }
 ]
