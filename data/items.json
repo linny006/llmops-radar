@@ -1,12 +1,12 @@
 [
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28512,
-    "updated_at": "2026-10-24T04:15:23Z",
-    "url": "https://github.com/mlflow/mlflow"
+    "description": "Provider-agnostic AI dev pipeline: clarify \u2192 plan \u2192 build \u2192 review \u2192 PR across your repos, mixing LLM providers per stag",
+    "id": "esanmohammad/Anvil",
+    "language": "TypeScript",
+    "name": "esanmohammad/Anvil",
+    "stars": 20,
+    "updated_at": "2026-10-24T04:27:31Z",
+    "url": "https://github.com/esanmohammad/Anvil"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -14,8 +14,53 @@
     "language": "Go",
     "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "stars": 1,
-    "updated_at": "2026-10-24T04:14:46Z",
+    "updated_at": "2026-10-24T04:18:59Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61929,
+    "updated_at": "2026-10-24T04:28:02Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 42,
+    "updated_at": "2026-10-24T04:16:05Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-24T04:15:31Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-24T04:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28512,
+    "updated_at": "2026-10-24T04:16:37Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Open-source replay and evidence infrastructure for AI agents. Capture runs as portable Run Capsules for replay, diff, li",
@@ -25,15 +70,6 @@
     "stars": 7,
     "updated_at": "2026-10-24T04:14:52Z",
     "url": "https://github.com/MSKazemi/novafabric"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-24T04:15:22Z",
-    "url": "https://github.com/toxicwind/ranch"
   },
   {
     "description": "Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio",
@@ -63,15 +99,6 @@
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-24T04:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
     "id": "sarkars/agent-failure-modes",
     "language": "Python",
@@ -79,24 +106,6 @@
     "stars": 1,
     "updated_at": "2026-10-24T03:59:57Z",
     "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61928,
-    "updated_at": "2026-10-24T04:08:16Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 42,
-    "updated_at": "2026-10-24T04:05:26Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
@@ -270,6 +279,15 @@
     "url": "https://github.com/api-evangelist/seldon"
   },
   {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36273,
+    "updated_at": "2026-10-24T02:44:06Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "Insurance claims fraud triage, end to end: DuckDB features, LightGBM ranked by expected savings, MLflow registry, FastAP",
     "id": "jma-repo/claims-fraud-mlops",
     "language": "Python",
@@ -427,26 +445,8 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26357,
+    "stars": 26358,
     "updated_at": "2026-10-24T01:35:01Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "CPU-only agent training lab: teacher-student distillation of tool calls, DPO, GRPO-style RL with a reward-hacking guard,",
-    "id": "jagadishmazure-jpg/Jagadish-agent-training-distill-rl",
-    "language": "Python",
-    "name": "jagadishmazure-jpg/Jagadish-agent-training-distill-rl",
-    "stars": 0,
-    "updated_at": "2026-10-24T01:30:41Z",
-    "url": "https://github.com/jagadishmazure-jpg/Jagadish-agent-training-distill-rl"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-24T01:25:51Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   }
 ]
