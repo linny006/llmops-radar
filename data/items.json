@@ -1,5 +1,41 @@
 [
   {
+    "description": "Routes every AI request to a local model (Ollama) or to Claude by privacy, cost, quality and latency, with fail-closed g",
+    "id": "caleb848/ai-operations-control-plane",
+    "language": "TypeScript",
+    "name": "caleb848/ai-operations-control-plane",
+    "stars": 0,
+    "updated_at": "2026-10-24T21:34:36Z",
+    "url": "https://github.com/caleb848/ai-operations-control-plane"
+  },
+  {
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
+    "language": "Python",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 53,
+    "updated_at": "2026-10-24T21:34:32Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
+    "description": "Switch AI models without breaking your product: find every model your code calls and when it retires, turn real usage lo",
+    "id": "DeChuks-hub/llmshift",
+    "language": "Python",
+    "name": "DeChuks-hub/llmshift",
+    "stars": 0,
+    "updated_at": "2026-10-24T21:33:18Z",
+    "url": "https://github.com/DeChuks-hub/llmshift"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-24T21:30:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
     "id": "prasad-kavuri/prasad-portfolio",
     "language": "TypeScript",
@@ -23,7 +59,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61974,
-    "updated_at": "2026-10-24T21:29:00Z",
+    "updated_at": "2026-10-24T21:44:28Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -32,7 +68,7 @@
     "language": "Go",
     "name": "ainsel-project/ainsel",
     "stars": 2,
-    "updated_at": "2026-10-24T21:20:58Z",
+    "updated_at": "2026-10-24T21:36:30Z",
     "url": "https://github.com/ainsel-project/ainsel"
   },
   {
@@ -43,24 +79,6 @@
     "stars": 2,
     "updated_at": "2026-10-24T21:20:38Z",
     "url": "https://github.com/redevops-io/agentic-os"
-  },
-  {
-    "description": "Switch AI models without breaking your product: find every model your code calls and when it retires, turn real usage lo",
-    "id": "DeChuks-hub/llmshift",
-    "language": "Python",
-    "name": "DeChuks-hub/llmshift",
-    "stars": 0,
-    "updated_at": "2026-10-24T21:15:26Z",
-    "url": "https://github.com/DeChuks-hub/llmshift"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-24T21:15:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
@@ -113,7 +131,7 @@
     "language": "TypeScript",
     "name": "burakdede/lorepack",
     "stars": 4,
-    "updated_at": "2026-10-24T21:04:27Z",
+    "updated_at": "2026-10-24T21:42:47Z",
     "url": "https://github.com/burakdede/lorepack"
   },
   {
@@ -211,7 +229,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 30725,
+    "stars": 30726,
     "updated_at": "2026-10-24T20:13:46Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -223,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-10-24T20:19:23Z",
     "url": "https://github.com/holetz/quenching"
-  },
-  {
-    "description": "Enterprise Scale AIFactory (esml) - on Azure",
-    "id": "jostrm/azure-enterprise-scale-ml",
-    "language": "Python",
-    "name": "jostrm/azure-enterprise-scale-ml",
-    "stars": 53,
-    "updated_at": "2026-10-24T20:11:34Z",
-    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -410,7 +419,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 26381,
-    "updated_at": "2026-10-24T18:11:47Z",
+    "updated_at": "2026-10-24T21:32:08Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-24T20:31:56Z",
     "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
-  },
-  {
-    "description": "Understand which functions and agents drive LLM spend. Self-hosted monitoring and an open model pricing catalog.",
-    "id": "metergraph/metergraph",
-    "language": "Python",
-    "name": "metergraph/metergraph",
-    "stars": 4,
-    "updated_at": "2026-10-24T18:04:53Z",
-    "url": "https://github.com/metergraph/metergraph"
   }
 ]
