@@ -1,11 +1,137 @@
 [
   {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-10-24T17:58:35Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-24T17:56:46Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "A unified .NET abstraction layer for multiple Large Language Model (LLM) providers. Nexus-LLM simplifies integration wit",
+    "id": "brutal-45/Nexus-LLM",
+    "language": "Python",
+    "name": "brutal-45/Nexus-LLM",
+    "stars": 0,
+    "updated_at": "2026-10-24T17:56:04Z",
+    "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 96,
+    "updated_at": "2026-10-24T17:53:40Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "A control layer that decides how an LLM should speak before it speaks",
+    "id": "Furox-Art/eq-layer",
+    "language": "Python",
+    "name": "Furox-Art/eq-layer",
+    "stars": 0,
+    "updated_at": "2026-10-24T17:53:19Z",
+    "url": "https://github.com/Furox-Art/eq-layer"
+  },
+  {
+    "description": "LLM spend tracking and budgets for Rails \u2014 by user, feature, or any tag, in your own database, no proxy.",
+    "id": "sergey-homenko/llm_cost_tracker",
+    "language": "Ruby",
+    "name": "sergey-homenko/llm_cost_tracker",
+    "stars": 45,
+    "updated_at": "2026-10-24T17:51:58Z",
+    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
+  },
+  {
+    "description": "Linux VM agent for AcornOps, providing outbound system connectivity, host inspection, and controlled VM operations.",
+    "id": "acornops/agentv",
+    "language": "TypeScript",
+    "name": "acornops/agentv",
+    "stars": 1,
+    "updated_at": "2026-10-24T17:54:15Z",
+    "url": "https://github.com/acornops/agentv"
+  },
+  {
+    "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
+    "id": "prasad-kavuri/prasad-portfolio",
+    "language": "TypeScript",
+    "name": "prasad-kavuri/prasad-portfolio",
+    "stars": 0,
+    "updated_at": "2026-10-24T17:49:17Z",
+    "url": "https://github.com/prasad-kavuri/prasad-portfolio"
+  },
+  {
+    "description": "AI agent execution governance: pre-effect authorization, single-use permissions, policy enforcement, and verifiable reco",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 42,
+    "updated_at": "2026-10-24T17:49:06Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-10-24T17:58:41Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-24T17:47:46Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "The open standard AI gateway \u2014 PII protection, audit, reliability & cost control as composable interceptors. Same API in",
+    "id": "manojmallick/gavio",
+    "language": "Java",
+    "name": "manojmallick/gavio",
+    "stars": 6,
+    "updated_at": "2026-10-24T17:47:06Z",
+    "url": "https://github.com/manojmallick/gavio"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-24T17:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Hands-on LangChain course with Jupyter notebooks: models, prompts, chains, embeddings, RAG, memory and agents across Ope",
+    "id": "ahmadhassan-aiops/langchain",
+    "language": "Jupyter Notebook",
+    "name": "ahmadhassan-aiops/langchain",
+    "stars": 0,
+    "updated_at": "2026-10-24T17:44:26Z",
+    "url": "https://github.com/ahmadhassan-aiops/langchain"
+  },
+  {
     "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
     "id": "holetz/quenching",
     "language": "Python",
     "name": "holetz/quenching",
     "stars": 1,
-    "updated_at": "2026-10-24T17:45:12Z",
+    "updated_at": "2026-10-24T17:57:34Z",
     "url": "https://github.com/holetz/quenching"
   },
   {
@@ -14,26 +140,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61967,
-    "updated_at": "2026-10-24T17:42:52Z",
+    "updated_at": "2026-10-24T17:55:25Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "A unified .NET abstraction layer for multiple Large Language Model (LLM) providers. Nexus-LLM simplifies integration wit",
-    "id": "brutal-45/Nexus-LLM",
-    "language": "Python",
-    "name": "brutal-45/Nexus-LLM",
-    "stars": 0,
-    "updated_at": "2026-10-24T17:41:00Z",
-    "url": "https://github.com/brutal-45/Nexus-LLM"
-  },
-  {
-    "description": "Linux VM agent for AcornOps, providing outbound system connectivity, host inspection, and controlled VM operations.",
-    "id": "acornops/agentv",
-    "language": "TypeScript",
-    "name": "acornops/agentv",
-    "stars": 1,
-    "updated_at": "2026-10-24T17:39:51Z",
-    "url": "https://github.com/acornops/agentv"
   },
   {
     "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
@@ -41,17 +149,8 @@
     "language": "TypeScript",
     "name": "burakdede/lorepack",
     "stars": 4,
-    "updated_at": "2026-10-24T17:37:58Z",
+    "updated_at": "2026-10-24T17:54:05Z",
     "url": "https://github.com/burakdede/lorepack"
-  },
-  {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-10-24T17:36:20Z",
-    "url": "https://github.com/redevops-io/agentic-os"
   },
   {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
@@ -61,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-10-24T17:31:16Z",
     "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-24T17:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
@@ -153,15 +243,6 @@
     "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
   },
   {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-24T17:08:47Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
     "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
     "id": "digline/digline",
     "language": "Python",
@@ -185,7 +266,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4991,
-    "updated_at": "2026-10-24T17:44:07Z",
+    "updated_at": "2026-10-24T17:57:32Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -207,15 +288,6 @@
     "url": "https://github.com/ndom91/llama-dash"
   },
   {
-    "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
-    "id": "prasad-kavuri/prasad-portfolio",
-    "language": "TypeScript",
-    "name": "prasad-kavuri/prasad-portfolio",
-    "stars": 0,
-    "updated_at": "2026-10-24T17:41:40Z",
-    "url": "https://github.com/prasad-kavuri/prasad-portfolio"
-  },
-  {
     "description": "CLI-first LLM runtime parity diagnostics. Same model, same input, first causal divergence.",
     "id": "TheusHen/eleanity",
     "language": "Python",
@@ -232,15 +304,6 @@
     "stars": 27,
     "updated_at": "2026-10-24T16:57:44Z",
     "url": "https://github.com/AixleHQ/flow"
-  },
-  {
-    "description": "The open standard AI gateway \u2014 PII protection, audit, reliability & cost control as composable interceptors. Same API in",
-    "id": "manojmallick/gavio",
-    "language": "Java",
-    "name": "manojmallick/gavio",
-    "stars": 6,
-    "updated_at": "2026-10-24T17:29:04Z",
-    "url": "https://github.com/manojmallick/gavio"
   },
   {
     "description": "Self-hosted AI Agents Platform for AI Native companies. Claude Code, Codex, Gemini, OpenCode agents. Apache 2.0.  ",
@@ -295,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T16:38:16Z",
     "url": "https://github.com/hjongc/openrouter-endpoint-watch"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-24T16:28:17Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "A local-first engineering framework for governed AI services: reference architecture, patterns, standards as CI checks, ",
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-24T17:09:28Z",
     "url": "https://github.com/srjn45/warden"
-  },
-  {
-    "description": "The execution control plane for AI agents. Govern every model request, MCP tool call, A2A delegation, and downstream act",
-    "id": "GetBusbar/busbar",
-    "language": "Rust",
-    "name": "GetBusbar/busbar",
-    "stars": 213,
-    "updated_at": "2026-10-24T16:42:35Z",
-    "url": "https://github.com/GetBusbar/busbar"
-  },
-  {
-    "description": "Agent skills for AI architects: MCP, orchestration, model routing, evals. For Claude Code, Cursor, Codex. Install: npx s",
-    "id": "frankxai/skills",
-    "language": "JavaScript",
-    "name": "frankxai/skills",
-    "stars": 2,
-    "updated_at": "2026-10-24T17:07:39Z",
-    "url": "https://github.com/frankxai/skills"
-  },
-  {
-    "description": "Agent Skills as a Memory Layer",
-    "id": "memodb-io/Acontext",
-    "language": "JavaScript",
-    "name": "memodb-io/Acontext",
-    "stars": 3696,
-    "updated_at": "2026-10-24T15:23:36Z",
-    "url": "https://github.com/memodb-io/Acontext"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 117,
-    "updated_at": "2026-10-24T17:25:51Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 96,
-    "updated_at": "2026-10-24T16:20:18Z",
-    "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "Shared agent harness (tools, permissions, evals, guardrails) for redevops.io Agentic Business OS modules. AGPL-3.0.",
-    "id": "redevops-io/agent-harness",
-    "language": "Python",
-    "name": "redevops-io/agent-harness",
-    "stars": 0,
-    "updated_at": "2026-10-24T15:17:30Z",
-    "url": "https://github.com/redevops-io/agent-harness"
   }
 ]
