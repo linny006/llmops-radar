@@ -1,12 +1,12 @@
 [
   {
-    "description": "Scheduled agent reviews for your repositories, defined in Git. Approved access, sandboxed runs, a full audit trail.",
-    "id": "piotrekno1/second-shift",
-    "language": "Python",
-    "name": "piotrekno1/second-shift",
-    "stars": 0,
-    "updated_at": "2026-10-24T07:29:52Z",
-    "url": "https://github.com/piotrekno1/second-shift"
+    "description": "Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper",
+    "id": "acornops/acornops-deployment",
+    "language": "JavaScript",
+    "name": "acornops/acornops-deployment",
+    "stars": 2,
+    "updated_at": "2026-10-24T07:39:58Z",
+    "url": "https://github.com/acornops/acornops-deployment"
   },
   {
     "description": "Open-source LLM observability and drift detection for AI apps",
@@ -14,8 +14,35 @@
     "language": "Python",
     "name": "cognifityai/verdict",
     "stars": 0,
-    "updated_at": "2026-10-24T07:26:15Z",
+    "updated_at": "2026-10-24T07:35:37Z",
     "url": "https://github.com/cognifityai/verdict"
+  },
+  {
+    "description": "Tamper-evident receipts for reported LLM efficiency events. Offline integrity and benchmark-arithmetic verification, wit",
+    "id": "thequantumfalcon/kry",
+    "language": "Python",
+    "name": "thequantumfalcon/kry",
+    "stars": 1,
+    "updated_at": "2026-10-24T07:32:51Z",
+    "url": "https://github.com/thequantumfalcon/kry"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-24T07:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Scheduled agent reviews for your repositories, defined in Git. Approved access, sandboxed runs, a full audit trail.",
+    "id": "piotrekno1/second-shift",
+    "language": "Python",
+    "name": "piotrekno1/second-shift",
+    "stars": 0,
+    "updated_at": "2026-10-24T07:29:52Z",
+    "url": "https://github.com/piotrekno1/second-shift"
   },
   {
     "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 220+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
@@ -40,8 +67,8 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 61941,
-    "updated_at": "2026-10-24T07:23:06Z",
+    "stars": 61940,
+    "updated_at": "2026-10-24T07:42:39Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -77,7 +104,7 @@
     "language": "Python",
     "name": "Kkartik14/Earshot",
     "stars": 2,
-    "updated_at": "2026-10-24T07:19:42Z",
+    "updated_at": "2026-10-24T07:45:09Z",
     "url": "https://github.com/Kkartik14/Earshot"
   },
   {
@@ -95,17 +122,8 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 24,
-    "updated_at": "2026-10-24T07:26:27Z",
+    "updated_at": "2026-10-24T07:33:31Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-24T07:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\u9876\u7ea7\u5ba1\u7f8e\u7684\u4e2a\u4eba\u535a\u5ba2\uff01\uff01\uff01\u5199\u4e00\u4e9b\u5173\u4e8e AI\u3001Agent\u3001\u6280\u672f\u3001\u4ea7\u54c1\u3001\u8425\u9500\u3001\u4e00\u4e9b\u751f\u6d3b\u601d\u8003\uff0c\u4e2a\u4eba\u6210\u957f\u7c7b\u7684\u7cbe\u6587",
@@ -167,7 +185,7 @@
     "language": "Python",
     "name": "sarkars/agent-failure-modes",
     "stars": 1,
-    "updated_at": "2026-10-24T07:23:33Z",
+    "updated_at": "2026-10-24T07:34:06Z",
     "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
@@ -187,6 +205,15 @@
     "stars": 0,
     "updated_at": "2026-10-24T06:42:07Z",
     "url": "https://github.com/tonyweckstrom1987/agentti-pohja"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 30713,
+    "updated_at": "2026-10-24T06:37:57Z",
+    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "Provider-agnostic AI dev pipeline: clarify \u2192 plan \u2192 build \u2192 review \u2192 PR across your repos, mixing LLM providers per stag",
@@ -211,7 +238,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 36277,
+    "stars": 36278,
     "updated_at": "2026-10-24T06:28:11Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -221,7 +248,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 116,
-    "updated_at": "2026-10-24T06:57:23Z",
+    "updated_at": "2026-10-24T07:31:39Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -284,7 +311,7 @@
     "language": "Python",
     "name": "luetzey/who2be",
     "stars": 0,
-    "updated_at": "2026-10-24T07:18:50Z",
+    "updated_at": "2026-10-24T07:41:01Z",
     "url": "https://github.com/luetzey/who2be"
   },
   {
@@ -338,7 +365,7 @@
     "language": "Python",
     "name": "llmspendguard/llm-spendguard",
     "stars": 0,
-    "updated_at": "2026-10-24T07:29:52Z",
+    "updated_at": "2026-10-24T07:43:54Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
@@ -349,15 +376,6 @@
     "stars": 4,
     "updated_at": "2026-10-24T05:10:25Z",
     "url": "https://github.com/burakdede/lorepack"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 30712,
-    "updated_at": "2026-10-24T06:37:57Z",
-    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -419,7 +437,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1371,
-    "updated_at": "2026-10-24T07:19:07Z",
+    "updated_at": "2026-10-24T07:33:39Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-24T03:44:38Z",
     "url": "https://github.com/JiarongGu/Lyntai"
-  },
-  {
-    "description": "AI Engineer \u00b7 I build LLM agents for production, and the evals that show they work.",
-    "id": "gonzalomartinperez/gonzalomartinperez",
-    "language": "Mermaid",
-    "name": "gonzalomartinperez/gonzalomartinperez",
-    "stars": 1,
-    "updated_at": "2026-10-24T03:43:05Z",
-    "url": "https://github.com/gonzalomartinperez/gonzalomartinperez"
-  },
-  {
-    "description": "Tamper-evident receipts for reported LLM efficiency events. Offline integrity and benchmark-arithmetic verification, wit",
-    "id": "thequantumfalcon/kry",
-    "language": "Python",
-    "name": "thequantumfalcon/kry",
-    "stars": 1,
-    "updated_at": "2026-10-24T07:23:42Z",
-    "url": "https://github.com/thequantumfalcon/kry"
   }
 ]
