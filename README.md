@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-24 03:45 UTC
+> ⏰ Last updated: 2026-10-24 04:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,42 +42,42 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [JiarongGu/Lyntai](https://github.com/JiarongGu/Lyntai) | 2 | C# | 2026-10-24 | .NET 10 library for LLM apps: one ITextClient that routes and fails over across OpenAI, Azure OpenAI, OpenRouter, Ollama |
-| 2 | [gonzalomartinperez/gonzalomartinperez](https://github.com/gonzalomartinperez/gonzalomartinperez) | 1 | Mermaid | 2026-10-24 | AI Engineer · I build LLM agents for production, and the evals that show they work. |
-| 3 | [thequantumfalcon/kry](https://github.com/thequantumfalcon/kry) | 1 | Python | 2026-10-24 | Tamper-evident receipts for reported LLM efficiency events. Offline integrity and benchmark-arithmetic verification, wit |
-| 4 | [toxicwind/ranch](https://github.com/toxicwind/ranch) | 0 | Rust | 2026-10-24 | The self-hosted LLM estate in one monorepo — local model serving, cloud provider routing, MCP gateway, build jobs. All O |
-| 5 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 28512 | Python | 2026-10-24 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
+| 1 | [sarkars/agent-failure-modes](https://github.com/sarkars/agent-failure-modes) | 1 | Python | 2026-10-24 | Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a |
+| 2 | [Cyrax321/CONTINUUM](https://github.com/Cyrax321/CONTINUUM) | 24 | Python | 2026-10-24 | CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id |
+| 3 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 61927 | Python | 2026-10-24 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 4 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 42 | Go | 2026-10-24 | Agentic Runtime |
+| 5 | [alibaba/rtp-llm](https://github.com/alibaba/rtp-llm) | 1371 | Python | 2026-10-24 | RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications. |
 | 6 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-24 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 7 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11975 | Python | 2026-10-24 | AI Observability & Evaluation |
-| 8 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 3004 | Python | 2026-10-24 | Community maintained hardware plugin for vLLM on Huawei Ascend |
-| 9 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 42 | Go | 2026-10-24 | Agentic Runtime |
-| 10 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 61926 | Python | 2026-10-24 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 11 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 1 | HTML | 2026-10-24 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
-| 12 | [Cyrax321/CONTINUUM](https://github.com/Cyrax321/CONTINUUM) | 24 | Python | 2026-10-24 | CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id |
-| 13 | [NVIDIA-NeMo/nemo-helix](https://github.com/NVIDIA-NeMo/nemo-helix) | 126 | Python | 2026-10-24 | NeMo Helix: Make the agents you ship faster, more accurate, and safer. |
-| 14 | [vocion/vocion-core](https://github.com/vocion/vocion-core) | 2 | TypeScript | 2026-10-24 | Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review,  |
-| 15 | [LacerdaTraderCode/observable-analytics-agent](https://github.com/LacerdaTraderCode/observable-analytics-agent) | 0 | Python | 2026-10-24 | LLM data analyst agent on LangGraph with per-call tracing, cost and latency, versioned prompts and a record/replay evalu |
-| 16 | [api-evangelist/zenml](https://github.com/api-evangelist/zenml) | 0 | — | 2026-10-24 | ZenML — independent third-party profile of a public API surface, by API Evangelist. ZenML is an open-source MLOps and LL |
-| 17 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 8958 | Rust | 2026-10-24 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
-| 18 | [redevops-io/agentic-os](https://github.com/redevops-io/agentic-os) | 2 | Python | 2026-10-24 | The control plane for the redevops.io Agentic Business OS — Mission Runtime kernel (Python + Go), Projects cockpit, cost |
-| 19 | [Arize-ai/openinference](https://github.com/Arize-ai/openinference) | 1280 | Python | 2026-10-24 | OpenTelemetry Instrumentation for AI Observability |
-| 20 | [sarkars/agent-failure-modes](https://github.com/sarkars/agent-failure-modes) | 1 | Python | 2026-10-24 | Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a |
-| 21 | [api-evangelist/tensorzero](https://github.com/api-evangelist/tensorzero) | 0 | — | 2026-10-24 | TensorZero — independent third-party profile of a public API surface, by API Evangelist. TensorZero is an open-source, s |
-| 22 | [burakdede/lorepack](https://github.com/burakdede/lorepack) | 4 | TypeScript | 2026-10-24 | Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod |
-| 23 | [KushagraKanaujia/throttle](https://github.com/KushagraKanaujia/throttle) | 7 | Python | 2026-10-24 | Find and prove inference savings on your own GPUs: $/M tokens with 95% CIs, agent workloads, verified-savings statements |
-| 24 | [api-evangelist/seldon](https://github.com/api-evangelist/seldon) | 0 | — | 2026-10-24 | Seldon — independent third-party profile of a public API surface, by API Evangelist. Seldon is a Kubernetes-native MLOps |
-| 25 | [jma-repo/claims-fraud-mlops](https://github.com/jma-repo/claims-fraud-mlops) | 0 | Python | 2026-10-24 | Insurance claims fraud triage, end to end: DuckDB features, LightGBM ranked by expected savings, MLflow registry, FastAP |
-| 26 | [api-evangelist/raindrop](https://github.com/api-evangelist/raindrop) | 0 | — | 2026-10-24 | Raindrop — independent third-party profile of a public API surface, by API Evangelist. Raindrop is the monitoring and ob |
-| 27 | [api-evangelist/qwak](https://github.com/api-evangelist/qwak) | 0 | — | 2026-10-24 | Qwak — independent third-party profile of a public API surface, by API Evangelist. Qwak is an end-to-end production mach |
-| 28 | [api-evangelist/phoenix](https://github.com/api-evangelist/phoenix) | 0 | — | 2026-10-24 | Arize Phoenix — independent third-party profile of a public API surface, by API Evangelist. Arize Phoenix is an open-sou |
-| 29 | [piotrekno1/second-shift](https://github.com/piotrekno1/second-shift) | 0 | Python | 2026-10-24 | GitOps for recurring agent work, with approved access, sandboxed runs and audit trails. |
-| 30 | [api-evangelist/opik](https://github.com/api-evangelist/opik) | 0 | — | 2026-10-24 | Opik — independent third-party profile of a public API surface, by API Evangelist. Opik is an open-source LLM evaluation |
-| 31 | [llmspendguard/llm-spendguard](https://github.com/llmspendguard/llm-spendguard) | 0 | Python | 2026-10-24 | Know what an LLM job will cost before you run it — and prove your ledger matches the provider's bill. Pre-submit estimat |
-| 32 | [api-evangelist/log10](https://github.com/api-evangelist/log10) | 1 | — | 2026-10-24 | Log10 — independent third-party profile of a public API surface, by API Evangelist. Log10 is an LLMOps platform that pro |
-| 33 | [respanai/respan-gateway](https://github.com/respanai/respan-gateway) | 177 | Rust | 2026-10-24 | One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary. |
-| 34 | [KBber/KBber](https://github.com/KBber/KBber) | 0 | — | 2026-10-24 | Building reliable LLM Agents — Agent eval, evidence grounding, context engineering |
-| 35 | [pom11/hscc](https://github.com/pom11/hscc) | 7 | Python | 2026-10-24 | Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents — cluster control, role-specialized worke |
-| 36 | [alibaba/rtp-llm](https://github.com/alibaba/rtp-llm) | 1371 | Python | 2026-10-24 | RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications. |
+| 7 | [JiarongGu/Lyntai](https://github.com/JiarongGu/Lyntai) | 2 | C# | 2026-10-24 | .NET 10 library for LLM apps: one ITextClient that routes and fails over across OpenAI, Azure OpenAI, OpenRouter, Ollama |
+| 8 | [gonzalomartinperez/gonzalomartinperez](https://github.com/gonzalomartinperez/gonzalomartinperez) | 1 | Mermaid | 2026-10-24 | AI Engineer · I build LLM agents for production, and the evals that show they work. |
+| 9 | [thequantumfalcon/kry](https://github.com/thequantumfalcon/kry) | 1 | Python | 2026-10-24 | Tamper-evident receipts for reported LLM efficiency events. Offline integrity and benchmark-arithmetic verification, wit |
+| 10 | [toxicwind/ranch](https://github.com/toxicwind/ranch) | 0 | Rust | 2026-10-24 | The self-hosted LLM estate in one monorepo — local model serving, cloud provider routing, MCP gateway, build jobs. All O |
+| 11 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 28512 | Python | 2026-10-24 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
+| 12 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11975 | Python | 2026-10-24 | AI Observability & Evaluation |
+| 13 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 3004 | Python | 2026-10-24 | Community maintained hardware plugin for vLLM on Huawei Ascend |
+| 14 | [garcetemedinamateoandres-sketch/agent-deployment-orchestrator](https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator) | 1 | HTML | 2026-10-24 | 🚀 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD |
+| 15 | [NVIDIA-NeMo/nemo-helix](https://github.com/NVIDIA-NeMo/nemo-helix) | 126 | Python | 2026-10-24 | NeMo Helix: Make the agents you ship faster, more accurate, and safer. |
+| 16 | [vocion/vocion-core](https://github.com/vocion/vocion-core) | 2 | TypeScript | 2026-10-24 | Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review,  |
+| 17 | [LacerdaTraderCode/observable-analytics-agent](https://github.com/LacerdaTraderCode/observable-analytics-agent) | 0 | Python | 2026-10-24 | LLM data analyst agent on LangGraph with per-call tracing, cost and latency, versioned prompts and a record/replay evalu |
+| 18 | [api-evangelist/zenml](https://github.com/api-evangelist/zenml) | 0 | — | 2026-10-24 | ZenML — independent third-party profile of a public API surface, by API Evangelist. ZenML is an open-source MLOps and LL |
+| 19 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 8958 | Rust | 2026-10-24 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
+| 20 | [redevops-io/agentic-os](https://github.com/redevops-io/agentic-os) | 2 | Python | 2026-10-24 | The control plane for the redevops.io Agentic Business OS — Mission Runtime kernel (Python + Go), Projects cockpit, cost |
+| 21 | [Arize-ai/openinference](https://github.com/Arize-ai/openinference) | 1280 | Python | 2026-10-24 | OpenTelemetry Instrumentation for AI Observability |
+| 22 | [api-evangelist/tensorzero](https://github.com/api-evangelist/tensorzero) | 0 | — | 2026-10-24 | TensorZero — independent third-party profile of a public API surface, by API Evangelist. TensorZero is an open-source, s |
+| 23 | [burakdede/lorepack](https://github.com/burakdede/lorepack) | 4 | TypeScript | 2026-10-24 | Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod |
+| 24 | [KushagraKanaujia/throttle](https://github.com/KushagraKanaujia/throttle) | 7 | Python | 2026-10-24 | Find and prove inference savings on your own GPUs: $/M tokens with 95% CIs, agent workloads, verified-savings statements |
+| 25 | [api-evangelist/seldon](https://github.com/api-evangelist/seldon) | 0 | — | 2026-10-24 | Seldon — independent third-party profile of a public API surface, by API Evangelist. Seldon is a Kubernetes-native MLOps |
+| 26 | [jma-repo/claims-fraud-mlops](https://github.com/jma-repo/claims-fraud-mlops) | 0 | Python | 2026-10-24 | Insurance claims fraud triage, end to end: DuckDB features, LightGBM ranked by expected savings, MLflow registry, FastAP |
+| 27 | [api-evangelist/raindrop](https://github.com/api-evangelist/raindrop) | 0 | — | 2026-10-24 | Raindrop — independent third-party profile of a public API surface, by API Evangelist. Raindrop is the monitoring and ob |
+| 28 | [api-evangelist/qwak](https://github.com/api-evangelist/qwak) | 0 | — | 2026-10-24 | Qwak — independent third-party profile of a public API surface, by API Evangelist. Qwak is an end-to-end production mach |
+| 29 | [api-evangelist/phoenix](https://github.com/api-evangelist/phoenix) | 0 | — | 2026-10-24 | Arize Phoenix — independent third-party profile of a public API surface, by API Evangelist. Arize Phoenix is an open-sou |
+| 30 | [piotrekno1/second-shift](https://github.com/piotrekno1/second-shift) | 0 | Python | 2026-10-24 | GitOps for recurring agent work, with approved access, sandboxed runs and audit trails. |
+| 31 | [api-evangelist/opik](https://github.com/api-evangelist/opik) | 0 | — | 2026-10-24 | Opik — independent third-party profile of a public API surface, by API Evangelist. Opik is an open-source LLM evaluation |
+| 32 | [llmspendguard/llm-spendguard](https://github.com/llmspendguard/llm-spendguard) | 0 | Python | 2026-10-24 | Know what an LLM job will cost before you run it — and prove your ledger matches the provider's bill. Pre-submit estimat |
+| 33 | [api-evangelist/log10](https://github.com/api-evangelist/log10) | 1 | — | 2026-10-24 | Log10 — independent third-party profile of a public API surface, by API Evangelist. Log10 is an LLMOps platform that pro |
+| 34 | [respanai/respan-gateway](https://github.com/respanai/respan-gateway) | 177 | Rust | 2026-10-24 | One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary. |
+| 35 | [KBber/KBber](https://github.com/KBber/KBber) | 0 | — | 2026-10-24 | Building reliable LLM Agents — Agent eval, evidence grounding, context engineering |
+| 36 | [pom11/hscc](https://github.com/pom11/hscc) | 7 | Python | 2026-10-24 | Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents — cluster control, role-specialized worke |
 | 37 | [Furox-Art/quantum-reasoning-skill](https://github.com/Furox-Art/quantum-reasoning-skill) | 4 | Python | 2026-10-24 | Model-agnostic Agent Skill: keep multiple hypotheses alive, test them against evidence, revive alternatives, collapse to |
 | 38 | [api-evangelist/evidently](https://github.com/api-evangelist/evidently) | 0 | — | 2026-10-24 | Evidently AI — independent third-party profile of a public API surface, by API Evangelist. Evidently AI is an open-sourc |
 | 39 | [api-evangelist/dify](https://github.com/api-evangelist/dify) | 0 | — | 2026-10-24 | Dify — independent third-party profile of a public API surface, by API Evangelist. Dify is an open-source platform for b |
