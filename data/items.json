@@ -1,5 +1,59 @@
 [
   {
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
+    "language": "Python",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 53,
+    "updated_at": "2026-10-24T22:12:42Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61975,
+    "updated_at": "2026-10-24T22:14:56Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 96,
+    "updated_at": "2026-10-24T22:15:21Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-24T22:07:34Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Terraform provider for Anthropic and Claude organizations: workspaces, members, invites, API keys, service accounts, wor",
+    "id": "uttej-badwane/terraform-provider-anthropic-enterprise",
+    "language": "Go",
+    "name": "uttej-badwane/terraform-provider-anthropic-enterprise",
+    "stars": 0,
+    "updated_at": "2026-10-24T22:02:03Z",
+    "url": "https://github.com/uttej-badwane/terraform-provider-anthropic-enterprise"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-24T22:00:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Switch AI models without breaking your product: find every model your code calls and when it retires, turn real usage lo",
     "id": "DeChuks-hub/llmshift",
     "language": "Python",
@@ -23,17 +77,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 26382,
-    "updated_at": "2026-10-24T22:00:08Z",
+    "updated_at": "2026-10-24T22:03:43Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 96,
-    "updated_at": "2026-10-24T22:00:10Z",
-    "url": "https://github.com/mloda-ai/mloda"
   },
   {
     "description": "AI Engineer \u00b7 I build LLM agents for production, and the evals that show they work.",
@@ -63,15 +108,6 @@
     "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-24T21:45:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Routes every AI request to a local model (Ollama) or to Claude by privacy, cost, quality and latency, with fail-closed g",
     "id": "caleb848/ai-operations-control-plane",
     "language": "TypeScript",
@@ -79,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T21:34:36Z",
     "url": "https://github.com/caleb848/ai-operations-control-plane"
-  },
-  {
-    "description": "Enterprise Scale AIFactory (esml) - on Azure",
-    "id": "jostrm/azure-enterprise-scale-ml",
-    "language": "Python",
-    "name": "jostrm/azure-enterprise-scale-ml",
-    "stars": 53,
-    "updated_at": "2026-10-24T21:34:32Z",
-    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
   },
   {
     "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
@@ -108,21 +135,12 @@
     "url": "https://github.com/acornops/agentv"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61974,
-    "updated_at": "2026-10-24T22:00:14Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "",
     "id": "ainsel-project/ainsel",
     "language": "Go",
     "name": "ainsel-project/ainsel",
     "stars": 2,
-    "updated_at": "2026-10-24T21:52:21Z",
+    "updated_at": "2026-10-24T22:12:23Z",
     "url": "https://github.com/ainsel-project/ainsel"
   },
   {
@@ -140,7 +158,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1372,
-    "updated_at": "2026-10-24T21:52:29Z",
+    "updated_at": "2026-10-24T22:14:29Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -151,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T21:09:20Z",
     "url": "https://github.com/dheerajkarwasra/spanlight"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-24T21:07:32Z",
-    "url": "https://github.com/toxicwind/ranch"
   },
   {
     "description": "CloudGuard \u2014 6-Part Production Gemma Enterprise Agent Platform (Google ADK, Cloud Run L4 GPU, vLLM, Firestore, Model Arm",
@@ -265,7 +274,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 30727,
+    "stars": 30728,
     "updated_at": "2026-10-24T20:13:46Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -320,7 +329,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 2,
-    "updated_at": "2026-10-24T19:45:47Z",
+    "updated_at": "2026-10-24T22:05:13Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -401,7 +410,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 117,
-    "updated_at": "2026-10-24T21:26:11Z",
+    "updated_at": "2026-10-24T22:07:23Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -437,16 +446,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-24T20:58:24Z",
+    "updated_at": "2026-10-24T22:05:58Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
-    "description": "Design for a multi-agent content engine on self-hosted open-weight models (vLLM on serverless GPU), measured against a p",
-    "id": "TechNaom/agentic-content-engine-design",
-    "language": "\u2014",
-    "name": "TechNaom/agentic-content-engine-design",
-    "stars": 0,
-    "updated_at": "2026-10-24T18:05:46Z",
-    "url": "https://github.com/TechNaom/agentic-content-engine-design"
   }
 ]
