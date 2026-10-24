@@ -1,12 +1,102 @@
 [
   {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-24T02:11:57Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-10-24T02:11:00Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "Model-agnostic Agent Skill: keep multiple hypotheses alive, test them against evidence, revive alternatives, collapse to",
+    "id": "Furox-Art/quantum-reasoning-skill",
+    "language": "Python",
+    "name": "Furox-Art/quantum-reasoning-skill",
+    "stars": 4,
+    "updated_at": "2026-10-24T02:13:57Z",
+    "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 24,
+    "updated_at": "2026-10-24T02:09:51Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "Tamper-evident receipts for reported LLM efficiency events. Offline integrity and benchmark-arithmetic verification, wit",
+    "id": "thequantumfalcon/kry",
+    "language": "Python",
+    "name": "thequantumfalcon/kry",
+    "stars": 1,
+    "updated_at": "2026-10-24T02:14:24Z",
+    "url": "https://github.com/thequantumfalcon/kry"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1280,
+    "updated_at": "2026-10-24T02:15:24Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "Evidently AI \u2014 independent third-party profile of a public API surface, by API Evangelist. Evidently AI is an open-sourc",
+    "id": "api-evangelist/evidently",
+    "language": "\u2014",
+    "name": "api-evangelist/evidently",
+    "stars": 0,
+    "updated_at": "2026-10-24T02:08:12Z",
+    "url": "https://github.com/api-evangelist/evidently"
+  },
+  {
+    "description": "Dify \u2014 independent third-party profile of a public API surface, by API Evangelist. Dify is an open-source platform for b",
+    "id": "api-evangelist/dify",
+    "language": "\u2014",
+    "name": "api-evangelist/dify",
+    "stars": 0,
+    "updated_at": "2026-10-24T02:04:08Z",
+    "url": "https://github.com/api-evangelist/dify"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-10-24T02:12:10Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-10-24T01:58:41Z",
+    "updated_at": "2026-10-24T02:00:28Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61925,
+    "updated_at": "2026-10-24T02:13:24Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
@@ -18,49 +108,22 @@
     "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61924,
-    "updated_at": "2026-10-24T01:56:33Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-10-24T01:53:11Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
     "id": "vocion/vocion-core",
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-24T01:52:58Z",
+    "updated_at": "2026-10-24T02:09:28Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
-    "description": "Tamper-evident receipts for reported LLM efficiency events. Offline integrity and benchmark-arithmetic verification, wit",
-    "id": "thequantumfalcon/kry",
-    "language": "Python",
-    "name": "thequantumfalcon/kry",
-    "stars": 1,
-    "updated_at": "2026-10-24T01:57:26Z",
-    "url": "https://github.com/thequantumfalcon/kry"
-  },
-  {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-10-24T01:58:30Z",
-    "url": "https://github.com/redevops-io/agentic-os"
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8958,
+    "updated_at": "2026-10-24T01:48:39Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Understand which functions and agents drive LLM spend. Self-hosted monitoring and an open model pricing catalog.",
@@ -90,6 +153,15 @@
     "url": "https://github.com/jagadishmazure-jpg/Jagadish-ai-system-design-at-scale"
   },
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26355,
+    "updated_at": "2026-10-24T01:35:01Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "CPU-only agent training lab: teacher-student distillation of tool calls, DPO, GRPO-style RL with a reward-hacking guard,",
     "id": "jagadishmazure-jpg/Jagadish-agent-training-distill-rl",
     "language": "Python",
@@ -108,24 +180,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Model-agnostic Agent Skill: keep multiple hypotheses alive, test them against evidence, revive alternatives, collapse to",
-    "id": "Furox-Art/quantum-reasoning-skill",
-    "language": "Python",
-    "name": "Furox-Art/quantum-reasoning-skill",
-    "stars": 4,
-    "updated_at": "2026-10-24T01:22:20Z",
-    "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-24T01:20:12Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
     "description": "AI / LLM / Agent \u5de5\u7a0b\u5e08\u4e2d\u6587\u9762\u8bd5\u9898\u4e0e\u53c2\u8003\u7b54\u6848\uff1aRAG\u3001Agent\u3001\u5fae\u8c03\u3001LLMOps\u3001\u7cfb\u7edf\u8bbe\u8ba1",
     "id": "cluster1900/ai-engineering-interview-questions-CN",
     "language": "Markdown",
@@ -133,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T01:30:22Z",
     "url": "https://github.com/cluster1900/ai-engineering-interview-questions-CN"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8957,
-    "updated_at": "2026-10-24T01:48:39Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
@@ -176,7 +221,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 116,
-    "updated_at": "2026-10-24T01:57:16Z",
+    "updated_at": "2026-10-24T02:14:57Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -184,7 +229,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 30708,
+    "stars": 30709,
     "updated_at": "2026-10-24T01:05:46Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -252,6 +297,15 @@
     "url": "https://github.com/MartinCastroAlvarez/pytest-llm-evals"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11974,
+    "updated_at": "2026-10-24T02:10:32Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "ThakiCloud Tech Blog",
     "id": "ThakiCloud/thakicloud.github.io",
     "language": "JavaScript",
@@ -306,21 +360,12 @@
     "url": "https://github.com/pom11/hscc"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11973,
-    "updated_at": "2026-10-24T00:19:47Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
     "id": "NVIDIA-NeMo/nemo-helix",
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 125,
-    "updated_at": "2026-10-24T01:53:22Z",
+    "updated_at": "2026-10-24T02:04:25Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-23T22:59:58Z",
     "url": "https://github.com/Chris0Jeky/llm-release-gate"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 2196,
-    "updated_at": "2026-10-24T00:49:28Z",
-    "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod",
-    "id": "valteresj2/agent-hangar",
-    "language": "Python",
-    "name": "valteresj2/agent-hangar",
-    "stars": 4,
-    "updated_at": "2026-10-23T22:47:18Z",
-    "url": "https://github.com/valteresj2/agent-hangar"
-  },
-  {
-    "description": "Dify with Let's Encrypt Using Docker Compose",
-    "id": "heyvaldemar/dify-traefik-letsencrypt-docker-compose",
-    "language": "Shell",
-    "name": "heyvaldemar/dify-traefik-letsencrypt-docker-compose",
-    "stars": 0,
-    "updated_at": "2026-10-23T22:44:59Z",
-    "url": "https://github.com/heyvaldemar/dify-traefik-letsencrypt-docker-compose"
-  },
-  {
-    "description": "Keras based framework for neuro-symbolic LM systems",
-    "id": "SynaLinks/synalinks",
-    "language": "Python",
-    "name": "SynaLinks/synalinks",
-    "stars": 463,
-    "updated_at": "2026-10-23T22:42:20Z",
-    "url": "https://github.com/SynaLinks/synalinks"
-  },
-  {
-    "description": "An LLM inference engine for persistent chat bots and agents. It allows models to forget old and unimportant tokens to ke",
-    "id": "cosmonomic/pulsarlm",
-    "language": "C++",
-    "name": "cosmonomic/pulsarlm",
-    "stars": 4,
-    "updated_at": "2026-10-23T22:35:43Z",
-    "url": "https://github.com/cosmonomic/pulsarlm"
   }
 ]
