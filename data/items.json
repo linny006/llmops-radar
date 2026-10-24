@@ -1,5 +1,113 @@
 [
   {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 42,
+    "updated_at": "2026-10-24T06:15:07Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Template for small, safe AI agents in pure Python: cost caps in code, tool-less LLM client, \"I don't know\" as a valid re",
+    "id": "tonyweckstrom1987/agentti-pohja",
+    "language": "Python",
+    "name": "tonyweckstrom1987/agentti-pohja",
+    "stars": 0,
+    "updated_at": "2026-10-24T06:14:01Z",
+    "url": "https://github.com/tonyweckstrom1987/agentti-pohja"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-24T06:13:48Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "LLM spend tracking and budgets for Rails \u2014 by user, feature, or any tag, in your own database, no proxy.",
+    "id": "sergey-homenko/llm_cost_tracker",
+    "language": "Ruby",
+    "name": "sergey-homenko/llm_cost_tracker",
+    "stars": 45,
+    "updated_at": "2026-10-24T06:12:52Z",
+    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-24T06:10:26Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Design for a multi-agent content engine on self-hosted open-weight models (vLLM on serverless GPU), measured against a p",
+    "id": "TechNaom/agentic-content-engine-design",
+    "language": "\u2014",
+    "name": "TechNaom/agentic-content-engine-design",
+    "stars": 0,
+    "updated_at": "2026-10-24T06:09:45Z",
+    "url": "https://github.com/TechNaom/agentic-content-engine-design"
+  },
+  {
+    "description": "Local-first LLM gateway for codex / hermes / Claude Code: bytes go upstream unchanged, the prompt cache keeps hitting, a",
+    "id": "flyer103/vadis",
+    "language": "Rust",
+    "name": "flyer103/vadis",
+    "stars": 0,
+    "updated_at": "2026-10-24T06:06:32Z",
+    "url": "https://github.com/flyer103/vadis"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61935,
+    "updated_at": "2026-10-24T06:03:54Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
+    "id": "luetzey/who2be",
+    "language": "Python",
+    "name": "luetzey/who2be",
+    "stars": 0,
+    "updated_at": "2026-10-24T06:03:49Z",
+    "url": "https://github.com/luetzey/who2be"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-24T06:01:55Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "A Claude Code plugin that installs the two-gate method for production AI agents: a design gate, a ship gate, and an inci",
+    "id": "hamidettefagh/two-gates",
+    "language": "JavaScript",
+    "name": "hamidettefagh/two-gates",
+    "stars": 0,
+    "updated_at": "2026-10-24T06:01:04Z",
+    "url": "https://github.com/hamidettefagh/two-gates"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-24T06:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI agent execution governance: pre-effect authorization, single-use permissions, policy enforcement, and verifiable reco",
     "id": "veritasfuji-japan/veritas_os",
     "language": "Python",
@@ -9,24 +117,6 @@
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
-    "description": "Template for small, safe AI agents in pure Python: cost caps in code, tool-less LLM client, \"I don't know\" as a valid re",
-    "id": "tonyweckstrom1987/agentti-pohja",
-    "language": "Python",
-    "name": "tonyweckstrom1987/agentti-pohja",
-    "stars": 0,
-    "updated_at": "2026-10-24T05:58:14Z",
-    "url": "https://github.com/tonyweckstrom1987/agentti-pohja"
-  },
-  {
-    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
-    "id": "luetzey/who2be",
-    "language": "Python",
-    "name": "luetzey/who2be",
-    "stars": 0,
-    "updated_at": "2026-10-24T06:00:21Z",
-    "url": "https://github.com/luetzey/who2be"
-  },
-  {
     "description": "\u9876\u7ea7\u5ba1\u7f8e\u7684\u4e2a\u4eba\u535a\u5ba2\uff01\uff01\uff01\u5199\u4e00\u4e9b\u5173\u4e8e AI\u3001Agent\u3001\u6280\u672f\u3001\u4ea7\u54c1\u3001\u8425\u9500\u3001\u4e00\u4e9b\u751f\u6d3b\u601d\u8003\uff0c\u4e2a\u4eba\u6210\u957f\u7c7b\u7684\u7cbe\u6587",
     "id": "cubxxw/blog",
     "language": "JavaScript",
@@ -34,33 +124,6 @@
     "stars": 30,
     "updated_at": "2026-10-24T05:54:51Z",
     "url": "https://github.com/cubxxw/blog"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61934,
-    "updated_at": "2026-10-24T05:53:07Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Design for a multi-agent content engine on self-hosted open-weight models (vLLM on serverless GPU), measured against a p",
-    "id": "TechNaom/agentic-content-engine-design",
-    "language": "\u2014",
-    "name": "TechNaom/agentic-content-engine-design",
-    "stars": 0,
-    "updated_at": "2026-10-24T05:52:27Z",
-    "url": "https://github.com/TechNaom/agentic-content-engine-design"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 42,
-    "updated_at": "2026-10-24T05:51:47Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Provider-agnostic AI dev pipeline: clarify \u2192 plan \u2192 build \u2192 review \u2192 PR across your repos, mixing LLM providers per stag",
@@ -117,42 +180,6 @@
     "url": "https://github.com/happy520ai/gateway-price-check"
   },
   {
-    "description": "Local-first LLM gateway for codex / hermes / Claude Code: bytes go upstream unchanged, the prompt cache keeps hitting, a",
-    "id": "flyer103/vadis",
-    "language": "Rust",
-    "name": "flyer103/vadis",
-    "stars": 0,
-    "updated_at": "2026-10-24T05:45:27Z",
-    "url": "https://github.com/flyer103/vadis"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-24T05:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-24T05:41:00Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
-    "description": "A Claude Code plugin that installs the two-gate method for production AI agents: a design gate, a ship gate, and an inci",
-    "id": "hamidettefagh/two-gates",
-    "language": "JavaScript",
-    "name": "hamidettefagh/two-gates",
-    "stars": 0,
-    "updated_at": "2026-10-24T05:39:14Z",
-    "url": "https://github.com/hamidettefagh/two-gates"
-  },
-  {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
     "id": "llmspendguard/llm-spendguard",
     "language": "Python",
@@ -196,15 +223,6 @@
     "stars": 30712,
     "updated_at": "2026-10-24T05:04:10Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-24T04:57:57Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -310,7 +328,7 @@
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
-    "stars": 8959,
+    "stars": 8960,
     "updated_at": "2026-10-24T03:38:39Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
@@ -349,15 +367,6 @@
     "stars": 126,
     "updated_at": "2026-10-24T03:18:00Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-24T05:49:47Z",
-    "url": "https://github.com/vocion/vocion-core"
   },
   {
     "description": "LLM data analyst agent on LangGraph with per-call tracing, cost and latency, versioned prompts and a record/replay evalu",
@@ -439,14 +448,5 @@
     "stars": 36276,
     "updated_at": "2026-10-24T02:44:06Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Insurance claims fraud triage, end to end: DuckDB features, LightGBM ranked by expected savings, MLflow registry, FastAP",
-    "id": "jma-repo/claims-fraud-mlops",
-    "language": "Python",
-    "name": "jma-repo/claims-fraud-mlops",
-    "stars": 0,
-    "updated_at": "2026-10-24T02:43:22Z",
-    "url": "https://github.com/jma-repo/claims-fraud-mlops"
   }
 ]
