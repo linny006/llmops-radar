@@ -1,11 +1,65 @@
 [
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28515,
+    "updated_at": "2026-10-24T15:13:35Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 11,
+    "updated_at": "2026-10-24T15:09:34Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-24T15:07:34Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 42,
+    "updated_at": "2026-10-24T15:05:45Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Self-hostable AI token pools \u2014 govern your org's AI usage with per-member keys, quotas, and leak detection; or deposit s",
+    "id": "Phat1911/Tributary",
+    "language": "Rust",
+    "name": "Phat1911/Tributary",
+    "stars": 1,
+    "updated_at": "2026-10-24T15:02:20Z",
+    "url": "https://github.com/Phat1911/Tributary"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-24T15:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
     "id": "mloda-ai/mloda",
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 96,
-    "updated_at": "2026-10-24T15:00:10Z",
+    "updated_at": "2026-10-24T15:08:10Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -16,6 +70,15 @@
     "stars": 2,
     "updated_at": "2026-10-24T14:59:25Z",
     "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36330,
+    "updated_at": "2026-10-24T14:59:16Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "The operations layer for your local LLM stack",
@@ -34,15 +97,6 @@
     "stars": 32,
     "updated_at": "2026-10-24T14:57:13Z",
     "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36326,
-    "updated_at": "2026-10-24T14:59:16Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
@@ -77,7 +131,7 @@
     "language": "Python",
     "name": "holetz/quenching",
     "stars": 1,
-    "updated_at": "2026-10-24T14:58:28Z",
+    "updated_at": "2026-10-24T15:10:03Z",
     "url": "https://github.com/holetz/quenching"
   },
   {
@@ -99,15 +153,6 @@
     "url": "https://github.com/skourav527/AI-for-architect"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-24T14:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\ud83e\udde0\u200b  An LLM router that uses built-in logic and system 1 decision models to intelligently route requests to the appropria",
     "id": "storm-software/mindctl",
     "language": "JavaScript",
@@ -126,21 +171,12 @@
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28515,
-    "updated_at": "2026-10-24T14:41:13Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "12 production patterns around one AI support agent (gateway, admission control, guardrails, router ladder, semantic cach",
     "id": "jagadishmazure-jpg/Jagadish-ai-system-design-at-scale",
     "language": "Python",
     "name": "jagadishmazure-jpg/Jagadish-ai-system-design-at-scale",
     "stars": 0,
-    "updated_at": "2026-10-24T14:53:36Z",
+    "updated_at": "2026-10-24T15:09:00Z",
     "url": "https://github.com/jagadishmazure-jpg/Jagadish-ai-system-design-at-scale"
   },
   {
@@ -196,15 +232,6 @@
     "stars": 2,
     "updated_at": "2026-10-24T14:29:45Z",
     "url": "https://github.com/DuqueOM/ml-platform"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 42,
-    "updated_at": "2026-10-24T14:28:04Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Governed AI agents as a Kubernetes sidecar: policy-as-code charters, mTLS/SPIFFE identity, budgets, guardrails and JSONL",
@@ -311,7 +338,7 @@
     "language": "Python",
     "name": "redevops-io/context-runtime",
     "stars": 12,
-    "updated_at": "2026-10-24T14:09:48Z",
+    "updated_at": "2026-10-24T15:06:49Z",
     "url": "https://github.com/redevops-io/context-runtime"
   },
   {
@@ -351,21 +378,12 @@
     "url": "https://github.com/redevops-io/redevops-rag"
   },
   {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-24T14:07:51Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
     "description": "Shared agent harness (tools, permissions, evals, guardrails) for redevops.io Agentic Business OS modules. AGPL-3.0.",
     "id": "redevops-io/agent-harness",
     "language": "Python",
     "name": "redevops-io/agent-harness",
     "stars": 0,
-    "updated_at": "2026-10-24T14:06:59Z",
+    "updated_at": "2026-10-24T15:06:48Z",
     "url": "https://github.com/redevops-io/agent-harness"
   },
   {
@@ -414,15 +432,6 @@
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
-    "description": "Self-hostable AI token pools \u2014 govern your org's AI usage with per-member keys, quotas, and leak detection; or deposit s",
-    "id": "Phat1911/Tributary",
-    "language": "Rust",
-    "name": "Phat1911/Tributary",
-    "stars": 1,
-    "updated_at": "2026-10-24T14:07:07Z",
-    "url": "https://github.com/Phat1911/Tributary"
-  },
-  {
     "description": "Replayable OpenCSG model/price snapshot: curl /v1/models with no key, plus self-verifying checks",
     "id": "happy520ai/opencsg-model-pricing",
     "language": "JavaScript",
@@ -439,14 +448,5 @@
     "stars": 9,
     "updated_at": "2026-10-24T13:24:28Z",
     "url": "https://github.com/digline/digline"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61953,
-    "updated_at": "2026-10-24T13:22:55Z",
-    "url": "https://github.com/BerriAI/litellm"
   }
 ]
