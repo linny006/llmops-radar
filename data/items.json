@@ -1,5 +1,23 @@
 [
   {
+    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
+    "id": "srjn45/warden",
+    "language": "Go",
+    "name": "srjn45/warden",
+    "stars": 2,
+    "updated_at": "2026-10-24T15:45:47Z",
+    "url": "https://github.com/srjn45/warden"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-24T15:45:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "12 production patterns around one AI support agent (gateway, admission control, guardrails, router ladder, semantic cach",
     "id": "jagadishmazure-jpg/Jagadish-ai-system-design-at-scale",
     "language": "Python",
@@ -43,15 +61,6 @@
     "stars": 1,
     "updated_at": "2026-10-24T15:30:42Z",
     "url": "https://github.com/piotrekno1/second-shift"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-24T15:30:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The execution control plane for AI agents. Govern every model request, MCP tool call, A2A delegation, and downstream act",
@@ -193,7 +202,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 36334,
+    "stars": 36335,
     "updated_at": "2026-10-24T14:59:16Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-24T14:08:39Z",
     "url": "https://github.com/mohsinsheikhani/multiturn-rag-evals"
-  },
-  {
-    "description": "Hybrid RAG (DuckDB vector + BM25 + RRF + recency/keyword priors + optional cross-encoder rerank) as an installable libra",
-    "id": "redevops-io/redevops-rag",
-    "language": "Python",
-    "name": "redevops-io/redevops-rag",
-    "stars": 9,
-    "updated_at": "2026-10-24T14:08:23Z",
-    "url": "https://github.com/redevops-io/redevops-rag"
   }
 ]
