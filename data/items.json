@@ -1,11 +1,92 @@
 [
   {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 96,
+    "updated_at": "2026-10-24T11:12:37Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28514,
+    "updated_at": "2026-10-24T11:14:57Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Template for small, safe AI agents in pure Python: cost caps in code, tool-less LLM client, \"I don't know\" as a valid re",
+    "id": "tonyweckstrom1987/agentti-pohja",
+    "language": "Python",
+    "name": "tonyweckstrom1987/agentti-pohja",
+    "stars": 0,
+    "updated_at": "2026-10-24T11:11:02Z",
+    "url": "https://github.com/tonyweckstrom1987/agentti-pohja"
+  },
+  {
+    "description": "llmcfo",
+    "id": "lisn0/tidal",
+    "language": "Nunjucks",
+    "name": "lisn0/tidal",
+    "stars": 0,
+    "updated_at": "2026-10-24T11:09:49Z",
+    "url": "https://github.com/lisn0/tidal"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-24T11:07:20Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 9611,
+    "updated_at": "2026-10-24T11:02:54Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "\ud83d\udc33\ud83d\udc0d OCI Images for Machine Learning. Best for MLOps, LLMOps, and developing models or work with weights locally.",
+    "id": "nekomeowww/oci-ml",
+    "language": "Dockerfile",
+    "name": "nekomeowww/oci-ml",
+    "stars": 0,
+    "updated_at": "2026-10-24T11:02:46Z",
+    "url": "https://github.com/nekomeowww/oci-ml"
+  },
+  {
+    "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
+    "id": "Amz34/awesome-agent-infrastructure",
+    "language": "Python",
+    "name": "Amz34/awesome-agent-infrastructure",
+    "stars": 1,
+    "updated_at": "2026-10-24T11:02:41Z",
+    "url": "https://github.com/Amz34/awesome-agent-infrastructure"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-24T11:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Keras based framework for neuro-symbolic LM systems",
     "id": "SynaLinks/synalinks",
     "language": "Python",
     "name": "SynaLinks/synalinks",
     "stars": 463,
-    "updated_at": "2026-10-24T11:00:12Z",
+    "updated_at": "2026-10-24T11:04:10Z",
     "url": "https://github.com/SynaLinks/synalinks"
   },
   {
@@ -27,15 +108,6 @@
     "url": "https://github.com/esanmohammad/Anvil"
   },
   {
-    "description": "llmcfo",
-    "id": "lisn0/tidal",
-    "language": "Nunjucks",
-    "name": "lisn0/tidal",
-    "stars": 0,
-    "updated_at": "2026-10-24T10:54:59Z",
-    "url": "https://github.com/lisn0/tidal"
-  },
-  {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
     "id": "llmspendguard/llm-spendguard",
     "language": "Python",
@@ -54,24 +126,6 @@
     "url": "https://github.com/JoniMartin27/lookspan"
   },
   {
-    "description": "Template for small, safe AI agents in pure Python: cost caps in code, tool-less LLM client, \"I don't know\" as a valid re",
-    "id": "tonyweckstrom1987/agentti-pohja",
-    "language": "Python",
-    "name": "tonyweckstrom1987/agentti-pohja",
-    "stars": 0,
-    "updated_at": "2026-10-24T10:46:55Z",
-    "url": "https://github.com/tonyweckstrom1987/agentti-pohja"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-24T10:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF\u2194Bedrock mapping (US regions) with a free st",
     "id": "scttfrdmn/hf-bedrock-map",
     "language": "Go",
@@ -88,15 +142,6 @@
     "stars": 27,
     "updated_at": "2026-10-24T10:48:53Z",
     "url": "https://github.com/AixleHQ/flow"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 9611,
-    "updated_at": "2026-10-24T10:43:16Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "Evaluation harness for multi-turn RAG: per-turn rewrite and retrieval checks, conversation-level evals, user simulation,",
@@ -124,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T10:39:17Z",
     "url": "https://github.com/naim-munshi/metriqen-llm-serving-optimization"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 96,
-    "updated_at": "2026-10-24T10:48:01Z",
-    "url": "https://github.com/mloda-ai/mloda"
   },
   {
     "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
@@ -203,7 +239,7 @@
     "language": "JavaScript",
     "name": "cubxxw/blog",
     "stars": 30,
-    "updated_at": "2026-10-24T10:14:45Z",
+    "updated_at": "2026-10-24T11:01:24Z",
     "url": "https://github.com/cubxxw/blog"
   },
   {
@@ -232,24 +268,6 @@
     "stars": 1,
     "updated_at": "2026-10-24T10:09:57Z",
     "url": "https://github.com/coffeehc/xagent-docs"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-24T10:07:56Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28513,
-    "updated_at": "2026-10-24T10:59:11Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Plan your LLM deployment before you rent the GPUs. Open-source capacity planner: 39 models, 31 GPUs, 16 quants, transpar",
@@ -284,7 +302,7 @@
     "language": "Python",
     "name": "sarkars/agent-failure-modes",
     "stars": 1,
-    "updated_at": "2026-10-24T09:59:22Z",
+    "updated_at": "2026-10-24T11:02:58Z",
     "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-24T08:38:58Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
-    "id": "ZIZKA-AI-SL/ZizkaDB",
-    "language": "Python",
-    "name": "ZIZKA-AI-SL/ZizkaDB",
-    "stars": 145,
-    "updated_at": "2026-10-24T08:38:57Z",
-    "url": "https://github.com/ZIZKA-AI-SL/ZizkaDB"
-  },
-  {
-    "description": "The execution control plane for AI agents. Govern every model request, MCP tool call, A2A delegation, and downstream act",
-    "id": "GetBusbar/busbar",
-    "language": "Rust",
-    "name": "GetBusbar/busbar",
-    "stars": 212,
-    "updated_at": "2026-10-24T10:57:11Z",
-    "url": "https://github.com/GetBusbar/busbar"
   }
 ]
