@@ -1,5 +1,68 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61924,
+    "updated_at": "2026-10-24T00:00:06Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-23T23:55:08Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "Profile of Dr. Ravi Teja Thiriveedhi \u2014 clinician turned AI systems architect: multi-agent platforms, AI governance, LLM ",
+    "id": "Raviteja2k2k/Raviteja2k2k",
+    "language": "Python",
+    "name": "Raviteja2k2k/Raviteja2k2k",
+    "stars": 0,
+    "updated_at": "2026-10-23T23:56:00Z",
+    "url": "https://github.com/Raviteja2k2k/Raviteja2k2k"
+  },
+  {
+    "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
+    "id": "ZIZKA-AI-SL/ZizkaDB",
+    "language": "Python",
+    "name": "ZIZKA-AI-SL/ZizkaDB",
+    "stars": 145,
+    "updated_at": "2026-10-23T23:53:36Z",
+    "url": "https://github.com/ZIZKA-AI-SL/ZizkaDB"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-10-23T23:49:10Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Open-source replay and evidence infrastructure for AI agents. Capture runs as portable Run Capsules for replay, diff, li",
+    "id": "MSKazemi/novafabric",
+    "language": "Python",
+    "name": "MSKazemi/novafabric",
+    "stars": 7,
+    "updated_at": "2026-10-23T23:46:13Z",
+    "url": "https://github.com/MSKazemi/novafabric"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-23T23:45:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "If the agent bill went up and nothing errored, a prompt cache broke. Replay Doctor names the turn it broke on, the cause",
     "id": "RedRobotKK/Replay",
     "language": "Go",
@@ -9,21 +72,12 @@
     "url": "https://github.com/RedRobotKK/Replay"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61924,
-    "updated_at": "2026-10-23T23:44:30Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
     "id": "vocion/vocion-core",
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-23T23:43:17Z",
+    "updated_at": "2026-10-23T23:54:26Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -41,7 +95,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11973,
-    "updated_at": "2026-10-23T23:33:46Z",
+    "updated_at": "2026-10-23T23:59:12Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -54,21 +108,12 @@
     "url": "https://github.com/toxicwind/ranch"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-23T23:30:18Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
     "id": "NVIDIA-NeMo/nemo-helix",
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 125,
-    "updated_at": "2026-10-23T23:38:30Z",
+    "updated_at": "2026-10-23T23:57:44Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -86,7 +131,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 96,
-    "updated_at": "2026-10-23T23:34:03Z",
+    "updated_at": "2026-10-23T23:54:02Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -144,21 +189,12 @@
     "url": "https://github.com/hjongc/openrouter-endpoint-watch"
   },
   {
-    "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
-    "id": "ZIZKA-AI-SL/ZizkaDB",
-    "language": "Python",
-    "name": "ZIZKA-AI-SL/ZizkaDB",
-    "stars": 145,
-    "updated_at": "2026-10-23T23:10:13Z",
-    "url": "https://github.com/ZIZKA-AI-SL/ZizkaDB"
-  },
-  {
     "description": "The execution control plane for AI agents. Govern every model request, MCP tool call, A2A delegation, and downstream act",
     "id": "GetBusbar/busbar",
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 213,
-    "updated_at": "2026-10-23T23:44:49Z",
+    "updated_at": "2026-10-23T23:59:57Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -198,24 +234,6 @@
     "url": "https://github.com/Chris0Jeky/llm-release-gate"
   },
   {
-    "description": "Open-source replay and evidence infrastructure for AI agents. Capture runs as portable Run Capsules for replay, diff, li",
-    "id": "MSKazemi/novafabric",
-    "language": "Python",
-    "name": "MSKazemi/novafabric",
-    "stars": 7,
-    "updated_at": "2026-10-23T22:59:28Z",
-    "url": "https://github.com/MSKazemi/novafabric"
-  },
-  {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-23T22:56:53Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
     "id": "future-agi/future-agi",
     "language": "Python",
@@ -230,7 +248,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 116,
-    "updated_at": "2026-10-23T23:38:14Z",
+    "updated_at": "2026-10-23T23:46:07Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -239,7 +257,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30705,
-    "updated_at": "2026-10-23T23:02:38Z",
+    "updated_at": "2026-10-23T23:59:21Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-23T23:12:52Z",
     "url": "https://github.com/srjn45/warden"
-  },
-  {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 398,
-    "updated_at": "2026-10-23T23:43:24Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "The agent that owns a bad deploy \u2014 where your team already works. Pre-merge impact estimates, evidence-backed regression",
-    "id": "mehmetyz/blast-radius",
-    "language": "TypeScript",
-    "name": "mehmetyz/blast-radius",
-    "stars": 0,
-    "updated_at": "2026-10-23T21:14:01Z",
-    "url": "https://github.com/mehmetyz/blast-radius"
   }
 ]
