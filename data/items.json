@@ -1,5 +1,68 @@
 [
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28513,
+    "updated_at": "2026-10-24T09:14:52Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-10-24T09:12:17Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-24T09:08:27Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Continuous LLM governance monitoring for regulated environments - EU AI Act, GDPR, ANSSI. Self-hosted, profile-driven, n",
+    "id": "JehanneDussert/govllm",
+    "language": "Python",
+    "name": "JehanneDussert/govllm",
+    "stars": 31,
+    "updated_at": "2026-10-24T09:05:31Z",
+    "url": "https://github.com/JehanneDussert/govllm"
+  },
+  {
+    "description": "\u9876\u7ea7\u5ba1\u7f8e\u7684\u4e2a\u4eba\u535a\u5ba2\uff01\uff01\uff01\u5199\u4e00\u4e9b\u5173\u4e8e AI\u3001Agent\u3001\u6280\u672f\u3001\u4ea7\u54c1\u3001\u8425\u9500\u3001\u4e00\u4e9b\u751f\u6d3b\u601d\u8003\uff0c\u4e2a\u4eba\u6210\u957f\u7c7b\u7684\u7cbe\u6587",
+    "id": "cubxxw/blog",
+    "language": "JavaScript",
+    "name": "cubxxw/blog",
+    "stars": 30,
+    "updated_at": "2026-10-24T09:04:06Z",
+    "url": "https://github.com/cubxxw/blog"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 399,
+    "updated_at": "2026-10-24T09:13:23Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-24T09:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
     "id": "systempromptio/systemprompt-core",
     "language": "Rust",
@@ -54,24 +117,6 @@
     "url": "https://github.com/mohsinsheikhani/multiturn-rag-evals"
   },
   {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-24T08:56:02Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
-    "description": "\u9876\u7ea7\u5ba1\u7f8e\u7684\u4e2a\u4eba\u535a\u5ba2\uff01\uff01\uff01\u5199\u4e00\u4e9b\u5173\u4e8e AI\u3001Agent\u3001\u6280\u672f\u3001\u4ea7\u54c1\u3001\u8425\u9500\u3001\u4e00\u4e9b\u751f\u6d3b\u601d\u8003\uff0c\u4e2a\u4eba\u6210\u957f\u7c7b\u7684\u7cbe\u6587",
-    "id": "cubxxw/blog",
-    "language": "JavaScript",
-    "name": "cubxxw/blog",
-    "stars": 30,
-    "updated_at": "2026-10-24T08:55:25Z",
-    "url": "https://github.com/cubxxw/blog"
-  },
-  {
     "description": "Tamper-evident receipts for reported LLM efficiency events. Offline integrity and benchmark-arithmetic verification, wit",
     "id": "thequantumfalcon/kry",
     "language": "Python",
@@ -85,9 +130,18 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 61939,
+    "stars": 61941,
     "updated_at": "2026-10-24T08:52:10Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36285,
+    "updated_at": "2026-10-24T08:50:58Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Check what your AI agents did without taking anyone's word for it: offline verifier, witness service, rules language and",
@@ -97,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T08:47:45Z",
     "url": "https://github.com/ntinosgkiou-code/omnios"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-24T08:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -131,7 +176,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 212,
-    "updated_at": "2026-10-24T08:43:00Z",
+    "updated_at": "2026-10-24T09:08:50Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -169,15 +214,6 @@
     "stars": 2,
     "updated_at": "2026-10-24T08:25:11Z",
     "url": "https://github.com/acornops/acornops-deployment"
-  },
-  {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 399,
-    "updated_at": "2026-10-24T08:31:51Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
     "description": "Live cost, token and context usage sidebar for Claude Code: a mod that shows cost per turn, cache hit rate, burn rate an",
@@ -286,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T07:58:49Z",
     "url": "https://github.com/nekomeowww/oci-ml"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-10-24T08:49:22Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
     "description": "Scheduled agent reviews for your repositories, defined in Git. Approved access, sandboxed runs, a full audit trail.",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-24T06:28:40Z",
     "url": "https://github.com/wangmengchang/llm"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36283,
-    "updated_at": "2026-10-24T08:50:58Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11978,
-    "updated_at": "2026-10-24T06:18:07Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "LLM spend tracking and budgets for Rails \u2014 by user, feature, or any tag, in your own database, no proxy.",
-    "id": "sergey-homenko/llm_cost_tracker",
-    "language": "Ruby",
-    "name": "sergey-homenko/llm_cost_tracker",
-    "stars": 45,
-    "updated_at": "2026-10-24T06:12:52Z",
-    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
   }
 ]
