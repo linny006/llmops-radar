@@ -1,21 +1,57 @@
 [
   {
-    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
-    "id": "srjn45/warden",
-    "language": "Go",
-    "name": "srjn45/warden",
-    "stars": 2,
-    "updated_at": "2026-10-24T15:45:47Z",
-    "url": "https://github.com/srjn45/warden"
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-24T16:00:25Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
+    "id": "burakdede/lorepack",
+    "language": "TypeScript",
+    "name": "burakdede/lorepack",
+    "stars": 4,
+    "updated_at": "2026-10-24T15:55:21Z",
+    "url": "https://github.com/burakdede/lorepack"
+  },
+  {
+    "description": "Context Runtime \u2014 a database query planner for LLM context. Decides what a model sees before it answers; plans it, runs ",
+    "id": "redevops-io/context-runtime",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-24T15:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "redevops-io/context-runtime",
+    "stars": 12,
+    "updated_at": "2026-10-24T15:55:05Z",
+    "url": "https://github.com/redevops-io/context-runtime"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-10-24T15:53:59Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
+    "language": "Python",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 53,
+    "updated_at": "2026-10-24T15:51:59Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
+    "description": "Provider-agnostic AI dev pipeline: clarify \u2192 plan \u2192 build \u2192 review \u2192 PR across your repos, mixing LLM providers per stag",
+    "id": "esanmohammad/Anvil",
+    "language": "TypeScript",
+    "name": "esanmohammad/Anvil",
+    "stars": 20,
+    "updated_at": "2026-10-24T15:49:19Z",
+    "url": "https://github.com/esanmohammad/Anvil"
   },
   {
     "description": "12 production patterns around one AI support agent (gateway, admission control, guardrails, router ladder, semantic cach",
@@ -23,8 +59,44 @@
     "language": "Python",
     "name": "jagadishmazure-jpg/Jagadish-ai-system-design-at-scale",
     "stars": 0,
-    "updated_at": "2026-10-24T15:45:02Z",
+    "updated_at": "2026-10-24T15:48:16Z",
     "url": "https://github.com/jagadishmazure-jpg/Jagadish-ai-system-design-at-scale"
+  },
+  {
+    "description": "Scheduled agent reviews for your repositories, defined in Git. Approved access, sandboxed runs, a full audit trail.",
+    "id": "piotrekno1/second-shift",
+    "language": "Python",
+    "name": "piotrekno1/second-shift",
+    "stars": 1,
+    "updated_at": "2026-10-24T15:53:19Z",
+    "url": "https://github.com/piotrekno1/second-shift"
+  },
+  {
+    "description": "Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio",
+    "id": "naim-munshi/metriqen-llm-serving-optimization",
+    "language": "Python",
+    "name": "naim-munshi/metriqen-llm-serving-optimization",
+    "stars": 0,
+    "updated_at": "2026-10-24T15:46:11Z",
+    "url": "https://github.com/naim-munshi/metriqen-llm-serving-optimization"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-24T15:46:03Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
+    "id": "srjn45/warden",
+    "language": "Go",
+    "name": "srjn45/warden",
+    "stars": 2,
+    "updated_at": "2026-10-24T15:54:03Z",
+    "url": "https://github.com/srjn45/warden"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -36,39 +108,12 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "Provider-agnostic AI dev pipeline: clarify \u2192 plan \u2192 build \u2192 review \u2192 PR across your repos, mixing LLM providers per stag",
-    "id": "esanmohammad/Anvil",
-    "language": "TypeScript",
-    "name": "esanmohammad/Anvil",
-    "stars": 20,
-    "updated_at": "2026-10-24T15:37:40Z",
-    "url": "https://github.com/esanmohammad/Anvil"
-  },
-  {
-    "description": "Enterprise Scale AIFactory (esml) - on Azure",
-    "id": "jostrm/azure-enterprise-scale-ml",
-    "language": "Python",
-    "name": "jostrm/azure-enterprise-scale-ml",
-    "stars": 53,
-    "updated_at": "2026-10-24T15:33:32Z",
-    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
-  },
-  {
-    "description": "Scheduled agent reviews for your repositories, defined in Git. Approved access, sandboxed runs, a full audit trail.",
-    "id": "piotrekno1/second-shift",
-    "language": "Python",
-    "name": "piotrekno1/second-shift",
-    "stars": 1,
-    "updated_at": "2026-10-24T15:30:42Z",
-    "url": "https://github.com/piotrekno1/second-shift"
-  },
-  {
     "description": "The execution control plane for AI agents. Govern every model request, MCP tool call, A2A delegation, and downstream act",
     "id": "GetBusbar/busbar",
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 213,
-    "updated_at": "2026-10-24T15:40:58Z",
+    "updated_at": "2026-10-24T15:57:51Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -122,7 +167,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 96,
-    "updated_at": "2026-10-24T15:22:25Z",
+    "updated_at": "2026-10-24T15:56:47Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -144,20 +189,11 @@
     "url": "https://github.com/redevops-io/agent-harness"
   },
   {
-    "description": "Context Runtime \u2014 a database query planner for LLM context. Decides what a model sees before it answers; plans it, runs ",
-    "id": "redevops-io/context-runtime",
-    "language": "Python",
-    "name": "redevops-io/context-runtime",
-    "stars": 12,
-    "updated_at": "2026-10-24T15:38:29Z",
-    "url": "https://github.com/redevops-io/context-runtime"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 28515,
+    "stars": 28516,
     "updated_at": "2026-10-24T15:13:35Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -189,20 +225,11 @@
     "url": "https://github.com/Phat1911/Tributary"
   },
   {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-10-24T14:59:25Z",
-    "url": "https://github.com/redevops-io/agentic-os"
-  },
-  {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 36335,
+    "stars": 36336,
     "updated_at": "2026-10-24T14:59:16Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -212,7 +239,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11985,
-    "updated_at": "2026-10-24T14:57:59Z",
+    "updated_at": "2026-10-24T15:47:32Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -232,15 +259,6 @@
     "stars": 32,
     "updated_at": "2026-10-24T14:57:13Z",
     "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-24T14:56:23Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
     "description": "Model-agnostic Agent Skill: keep multiple hypotheses alive, test them against evidence, revive alternatives, collapse to",
@@ -347,7 +365,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-24T14:39:19Z",
+    "updated_at": "2026-10-24T15:57:36Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-24T14:09:38Z",
     "url": "https://github.com/rikin-2911/agentic-cad"
-  },
-  {
-    "description": "Mission SDK \u2014 the developer boundary over the ReDevOps Mission Runtime (author, validate, explain a governed MissionProg",
-    "id": "redevops-io/mission-sdk",
-    "language": "Python",
-    "name": "redevops-io/mission-sdk",
-    "stars": 0,
-    "updated_at": "2026-10-24T14:09:05Z",
-    "url": "https://github.com/redevops-io/mission-sdk"
-  },
-  {
-    "description": "Evaluation harness for multi-turn RAG: per-turn rewrite and retrieval checks, conversation-level evals, user simulation,",
-    "id": "mohsinsheikhani/multiturn-rag-evals",
-    "language": "Python",
-    "name": "mohsinsheikhani/multiturn-rag-evals",
-    "stars": 0,
-    "updated_at": "2026-10-24T14:08:39Z",
-    "url": "https://github.com/mohsinsheikhani/multiturn-rag-evals"
   }
 ]
