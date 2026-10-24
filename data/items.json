@@ -1,5 +1,68 @@
 [
   {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-24T01:55:33Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61924,
+    "updated_at": "2026-10-24T01:56:33Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-10-24T01:53:11Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-24T01:52:58Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Tamper-evident receipts for reported LLM efficiency events. Offline integrity and benchmark-arithmetic verification, wit",
+    "id": "thequantumfalcon/kry",
+    "language": "Python",
+    "name": "thequantumfalcon/kry",
+    "stars": 1,
+    "updated_at": "2026-10-24T01:57:26Z",
+    "url": "https://github.com/thequantumfalcon/kry"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-10-24T01:58:30Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-24T01:45:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Understand which functions and agents drive LLM spend. Self-hosted monitoring and an open model pricing catalog.",
     "id": "metergraph/metergraph",
     "language": "Python",
@@ -27,24 +90,6 @@
     "url": "https://github.com/jagadishmazure-jpg/Jagadish-ai-system-design-at-scale"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-24T01:30:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-10-24T01:41:32Z",
-    "url": "https://github.com/redevops-io/agentic-os"
-  },
-  {
     "description": "CPU-only agent training lab: teacher-student distillation of tool calls, DPO, GRPO-style RL with a reward-hacking guard,",
     "id": "jagadishmazure-jpg/Jagadish-agent-training-distill-rl",
     "language": "Python",
@@ -61,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-10-24T01:25:51Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61924,
-    "updated_at": "2026-10-24T01:34:45Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Model-agnostic Agent Skill: keep multiple hypotheses alive, test them against evidence, revive alternatives, collapse to",
@@ -104,7 +140,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8957,
-    "updated_at": "2026-10-24T01:37:33Z",
+    "updated_at": "2026-10-24T01:48:39Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -140,7 +176,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 116,
-    "updated_at": "2026-10-24T01:15:40Z",
+    "updated_at": "2026-10-24T01:57:16Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -160,24 +196,6 @@
     "stars": 11,
     "updated_at": "2026-10-24T01:05:30Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-24T01:41:23Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-24T00:55:39Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
     "description": "Agentic Runtime",
@@ -203,7 +221,7 @@
     "language": "Rust",
     "name": "respanai/respan-gateway",
     "stars": 176,
-    "updated_at": "2026-10-24T00:29:13Z",
+    "updated_at": "2026-10-24T01:53:47Z",
     "url": "https://github.com/respanai/respan-gateway"
   },
   {
@@ -284,7 +302,7 @@
     "language": "Python",
     "name": "pom11/hscc",
     "stars": 7,
-    "updated_at": "2026-10-23T23:39:46Z",
+    "updated_at": "2026-10-24T01:49:08Z",
     "url": "https://github.com/pom11/hscc"
   },
   {
@@ -302,7 +320,7 @@
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 125,
-    "updated_at": "2026-10-24T01:39:27Z",
+    "updated_at": "2026-10-24T01:53:22Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-23T22:35:43Z",
     "url": "https://github.com/cosmonomic/pulsarlm"
-  },
-  {
-    "description": "Client packages for AER: the flight recorder for AI agents",
-    "id": "Ad-Astra-Computing/aer",
-    "language": "TypeScript",
-    "name": "Ad-Astra-Computing/aer",
-    "stars": 0,
-    "updated_at": "2026-10-23T22:32:08Z",
-    "url": "https://github.com/Ad-Astra-Computing/aer"
-  },
-  {
-    "description": "Myrtia \u2014 agent-native red teaming for LLMs and AI agents: a deliberating council of attacker models (propose, cross-crit",
-    "id": "francordel/myrtia",
-    "language": "Python",
-    "name": "francordel/myrtia",
-    "stars": 29,
-    "updated_at": "2026-10-23T22:27:37Z",
-    "url": "https://github.com/francordel/myrtia"
   }
 ]
