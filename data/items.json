@@ -1,5 +1,68 @@
 [
   {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-24T04:57:57Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "GatewayCrate: self-hosted AI gateway powered by LiteLLM. Unified OpenAI-compatible API for 100+ cloud and local LLM prov",
+    "id": "hwdsl2/gatewaycrate",
+    "language": "Shell",
+    "name": "hwdsl2/gatewaycrate",
+    "stars": 10,
+    "updated_at": "2026-10-24T04:57:35Z",
+    "url": "https://github.com/hwdsl2/gatewaycrate"
+  },
+  {
+    "description": "Template for small, safe AI agents in pure Python: cost caps in code, tool-less LLM client, \"I don't know\" as a valid re",
+    "id": "tonyweckstrom1987/agentti-pohja",
+    "language": "Python",
+    "name": "tonyweckstrom1987/agentti-pohja",
+    "stars": 0,
+    "updated_at": "2026-10-24T04:56:55Z",
+    "url": "https://github.com/tonyweckstrom1987/agentti-pohja"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 4,
+    "updated_at": "2026-10-24T04:52:00Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 42,
+    "updated_at": "2026-10-24T04:55:59Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 116,
+    "updated_at": "2026-10-24T04:49:05Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-24T04:45:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
     "id": "toxicwind/ranch",
     "language": "Rust",
@@ -13,18 +76,9 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 61931,
-    "updated_at": "2026-10-24T04:43:18Z",
+    "stars": 61932,
+    "updated_at": "2026-10-24T04:48:11Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 116,
-    "updated_at": "2026-10-24T04:43:49Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
@@ -41,26 +95,8 @@
     "language": "Go",
     "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "stars": 1,
-    "updated_at": "2026-10-24T04:37:40Z",
+    "updated_at": "2026-10-24T04:56:25Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
-  },
-  {
-    "description": "GatewayCrate: self-hosted AI gateway powered by LiteLLM. Unified OpenAI-compatible API for 100+ cloud and local LLM prov",
-    "id": "hwdsl2/gatewaycrate",
-    "language": "Shell",
-    "name": "hwdsl2/gatewaycrate",
-    "stars": 10,
-    "updated_at": "2026-10-24T04:36:27Z",
-    "url": "https://github.com/hwdsl2/gatewaycrate"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-24T04:30:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Provider-agnostic AI dev pipeline: clarify \u2192 plan \u2192 build \u2192 review \u2192 PR across your repos, mixing LLM providers per stag",
@@ -70,15 +106,6 @@
     "stars": 20,
     "updated_at": "2026-10-24T04:27:31Z",
     "url": "https://github.com/esanmohammad/Anvil"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 42,
-    "updated_at": "2026-10-24T04:35:29Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -126,21 +153,12 @@
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-24T03:59:57Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
     "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
     "id": "alibaba/rtp-llm",
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1371,
-    "updated_at": "2026-10-24T04:42:54Z",
+    "updated_at": "2026-10-24T04:49:54Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -178,6 +196,15 @@
     "stars": 1,
     "updated_at": "2026-10-24T03:46:36Z",
     "url": "https://github.com/thequantumfalcon/kry"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8959,
+    "updated_at": "2026-10-24T03:38:39Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -241,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T03:04:31Z",
     "url": "https://github.com/api-evangelist/zenml"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8958,
-    "updated_at": "2026-10-24T03:38:39Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
@@ -319,7 +337,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 36273,
+    "stars": 36276,
     "updated_at": "2026-10-24T02:44:06Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-24T02:17:29Z",
     "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
-  },
-  {
-    "description": "Evidently AI \u2014 independent third-party profile of a public API surface, by API Evangelist. Evidently AI is an open-sourc",
-    "id": "api-evangelist/evidently",
-    "language": "\u2014",
-    "name": "api-evangelist/evidently",
-    "stars": 0,
-    "updated_at": "2026-10-24T02:08:12Z",
-    "url": "https://github.com/api-evangelist/evidently"
-  },
-  {
-    "description": "Dify \u2014 independent third-party profile of a public API surface, by API Evangelist. Dify is an open-source platform for b",
-    "id": "api-evangelist/dify",
-    "language": "\u2014",
-    "name": "api-evangelist/dify",
-    "stars": 0,
-    "updated_at": "2026-10-24T02:04:08Z",
-    "url": "https://github.com/api-evangelist/dify"
   }
 ]
