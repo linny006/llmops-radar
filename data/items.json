@@ -1,12 +1,93 @@
 [
   {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-10-24T01:29:02Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "CPU-only agent training lab: teacher-student distillation of tool calls, DPO, GRPO-style RL with a reward-hacking guard,",
+    "id": "jagadishmazure-jpg/Jagadish-agent-training-distill-rl",
+    "language": "Python",
+    "name": "jagadishmazure-jpg/Jagadish-agent-training-distill-rl",
+    "stars": 0,
+    "updated_at": "2026-10-24T01:29:51Z",
+    "url": "https://github.com/jagadishmazure-jpg/Jagadish-agent-training-distill-rl"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-24T01:25:51Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61924,
-    "updated_at": "2026-10-24T01:15:19Z",
+    "updated_at": "2026-10-24T01:26:50Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Model-agnostic Agent Skill: keep multiple hypotheses alive, test them against evidence, revive alternatives, collapse to",
+    "id": "Furox-Art/quantum-reasoning-skill",
+    "language": "Python",
+    "name": "Furox-Art/quantum-reasoning-skill",
+    "stars": 4,
+    "updated_at": "2026-10-24T01:22:20Z",
+    "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-24T01:20:12Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "AI / LLM / Agent \u5de5\u7a0b\u5e08\u4e2d\u6587\u9762\u8bd5\u9898\u4e0e\u53c2\u8003\u7b54\u6848\uff1aRAG\u3001Agent\u3001\u5fae\u8c03\u3001LLMOps\u3001\u7cfb\u7edf\u8bbe\u8ba1",
+    "id": "cluster1900/ai-engineering-interview-questions-CN",
+    "language": "Markdown",
+    "name": "cluster1900/ai-engineering-interview-questions-CN",
+    "stars": 0,
+    "updated_at": "2026-10-24T01:30:22Z",
+    "url": "https://github.com/cluster1900/ai-engineering-interview-questions-CN"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8957,
+    "updated_at": "2026-10-24T01:20:25Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-24T01:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
+    "id": "lmnr-ai/lmnr",
+    "language": "TypeScript",
+    "name": "lmnr-ai/lmnr",
+    "stars": 3434,
+    "updated_at": "2026-10-24T01:14:44Z",
+    "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
     "description": "A control layer that decides how an LLM should speak before it speaks",
@@ -27,21 +108,12 @@
     "url": "https://github.com/overmind-core/overmind"
   },
   {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8957,
-    "updated_at": "2026-10-24T01:11:37Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
     "id": "cloudrift-ai/emmy",
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 116,
-    "updated_at": "2026-10-24T01:12:39Z",
+    "updated_at": "2026-10-24T01:15:40Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -72,24 +144,6 @@
     "url": "https://github.com/vocion/vocion-core"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-24T01:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-10-24T01:09:13Z",
-    "url": "https://github.com/redevops-io/agentic-os"
-  },
-  {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
     "id": "sarkars/agent-failure-modes",
     "language": "Python",
@@ -108,21 +162,12 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "AI / LLM / Agent \u5de5\u7a0b\u5e08\u4e2d\u6587\u9762\u8bd5\u9898\u4e0e\u53c2\u8003\u7b54\u6848\uff1aRAG\u3001Agent\u3001\u5fae\u8c03\u3001LLMOps\u3001\u7cfb\u7edf\u8bbe\u8ba1",
-    "id": "cluster1900/ai-engineering-interview-questions-CN",
-    "language": "Markdown",
-    "name": "cluster1900/ai-engineering-interview-questions-CN",
-    "stars": 0,
-    "updated_at": "2026-10-24T01:14:17Z",
-    "url": "https://github.com/cluster1900/ai-engineering-interview-questions-CN"
-  },
-  {
     "description": "12 production patterns around one AI support agent (gateway, admission control, guardrails, router ladder, semantic cach",
     "id": "jagadishmazure-jpg/Jagadish-ai-system-design-at-scale",
     "language": "Python",
     "name": "jagadishmazure-jpg/Jagadish-ai-system-design-at-scale",
     "stars": 0,
-    "updated_at": "2026-10-24T01:13:54Z",
+    "updated_at": "2026-10-24T01:18:35Z",
     "url": "https://github.com/jagadishmazure-jpg/Jagadish-ai-system-design-at-scale"
   },
   {
@@ -139,7 +184,7 @@
     "id": "respanai/respan-gateway",
     "language": "Rust",
     "name": "respanai/respan-gateway",
-    "stars": 174,
+    "stars": 175,
     "updated_at": "2026-10-24T00:29:13Z",
     "url": "https://github.com/respanai/respan-gateway"
   },
@@ -162,15 +207,6 @@
     "url": "https://github.com/axiom-llc/axiom-apex"
   },
   {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-24T00:22:23Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
     "description": "pytest plugin for evaluating LLM apps and agents like unit tests: golden sets, LLM-as-judge, cost/token budgets, caching",
     "id": "MartinCastroAlvarez/pytest-llm-evals",
     "language": "Python",
@@ -178,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T00:22:36Z",
     "url": "https://github.com/MartinCastroAlvarez/pytest-llm-evals"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-24T00:13:44Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -257,7 +284,7 @@
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 125,
-    "updated_at": "2026-10-24T00:51:51Z",
+    "updated_at": "2026-10-24T01:26:53Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -329,7 +356,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 213,
-    "updated_at": "2026-10-24T01:15:09Z",
+    "updated_at": "2026-10-24T01:29:23Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-24T00:34:31Z",
     "url": "https://github.com/luetzey/who2be"
-  },
-  {
-    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
-    "id": "lmnr-ai/lmnr",
-    "language": "TypeScript",
-    "name": "lmnr-ai/lmnr",
-    "stars": 3434,
-    "updated_at": "2026-10-24T01:14:44Z",
-    "url": "https://github.com/lmnr-ai/lmnr"
-  },
-  {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1280,
-    "updated_at": "2026-10-23T22:14:52Z",
-    "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
-    "description": "OpenAI/Anthropic-compatible API server that impersonates a locally hosted LLM and serves every request by driving the Cl",
-    "id": "amitshaikoren/llm-socket",
-    "language": "TypeScript",
-    "name": "amitshaikoren/llm-socket",
-    "stars": 0,
-    "updated_at": "2026-10-23T22:12:24Z",
-    "url": "https://github.com/amitshaikoren/llm-socket"
   }
 ]
