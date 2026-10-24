@@ -1,12 +1,75 @@
 [
   {
+    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
+    "id": "luetzey/who2be",
+    "language": "Python",
+    "name": "luetzey/who2be",
+    "stars": 0,
+    "updated_at": "2026-10-24T05:43:43Z",
+    "url": "https://github.com/luetzey/who2be"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-24T05:41:00Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "A Claude Code plugin that installs the two-gate method for production AI agents: a design gate, a ship gate, and an inci",
+    "id": "hamidettefagh/two-gates",
+    "language": "JavaScript",
+    "name": "hamidettefagh/two-gates",
+    "stars": 0,
+    "updated_at": "2026-10-24T05:39:14Z",
+    "url": "https://github.com/hamidettefagh/two-gates"
+  },
+  {
     "description": "Template for small, safe AI agents in pure Python: cost caps in code, tool-less LLM client, \"I don't know\" as a valid re",
     "id": "tonyweckstrom1987/agentti-pohja",
     "language": "Python",
     "name": "tonyweckstrom1987/agentti-pohja",
     "stars": 0,
-    "updated_at": "2026-10-24T05:29:42Z",
+    "updated_at": "2026-10-24T05:38:31Z",
     "url": "https://github.com/tonyweckstrom1987/agentti-pohja"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 42,
+    "updated_at": "2026-10-24T05:35:11Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "language": "Go",
+    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-10-24T05:35:01Z",
+    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-10-24T05:34:31Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-24T05:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -18,40 +81,13 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-24T05:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 42,
-    "updated_at": "2026-10-24T05:14:49Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "language": "Go",
-    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "stars": 1,
-    "updated_at": "2026-10-24T05:16:09Z",
-    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-24T05:08:00Z",
-    "url": "https://github.com/toxicwind/ranch"
+    "name": "Arize-ai/phoenix",
+    "stars": 11976,
+    "updated_at": "2026-10-24T05:06:46Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
@@ -104,7 +140,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 116,
-    "updated_at": "2026-10-24T05:16:23Z",
+    "updated_at": "2026-10-24T05:38:28Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -113,7 +149,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61932,
-    "updated_at": "2026-10-24T05:27:02Z",
+    "updated_at": "2026-10-24T05:41:08Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -194,7 +230,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1371,
-    "updated_at": "2026-10-24T05:15:46Z",
+    "updated_at": "2026-10-24T05:36:13Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -232,15 +268,6 @@
     "stars": 8959,
     "updated_at": "2026-10-24T03:38:39Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11975,
-    "updated_at": "2026-10-24T05:06:46Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-24T02:35:17Z",
     "url": "https://github.com/api-evangelist/opik"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-10-24T05:07:07Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "Log10 \u2014 independent third-party profile of a public API surface, by API Evangelist. Log10 is an LLMOps platform that pro",
-    "id": "api-evangelist/log10",
-    "language": "\u2014",
-    "name": "api-evangelist/log10",
-    "stars": 1,
-    "updated_at": "2026-10-24T02:25:13Z",
-    "url": "https://github.com/api-evangelist/log10"
-  },
-  {
-    "description": "One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary.",
-    "id": "respanai/respan-gateway",
-    "language": "Rust",
-    "name": "respanai/respan-gateway",
-    "stars": 177,
-    "updated_at": "2026-10-24T02:25:01Z",
-    "url": "https://github.com/respanai/respan-gateway"
   }
 ]
