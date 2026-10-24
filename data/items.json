@@ -1,12 +1,21 @@
 [
   {
-    "description": "Enterprise Scale AIFactory (esml) - on Azure",
-    "id": "jostrm/azure-enterprise-scale-ml",
+    "description": "12 production patterns around one AI support agent (gateway, admission control, guardrails, router ladder, semantic cach",
+    "id": "jagadishmazure-jpg/Jagadish-ai-system-design-at-scale",
     "language": "Python",
-    "name": "jostrm/azure-enterprise-scale-ml",
-    "stars": 53,
-    "updated_at": "2026-10-24T15:29:24Z",
-    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+    "name": "jagadishmazure-jpg/Jagadish-ai-system-design-at-scale",
+    "stars": 0,
+    "updated_at": "2026-10-24T15:45:02Z",
+    "url": "https://github.com/jagadishmazure-jpg/Jagadish-ai-system-design-at-scale"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-10-24T15:42:15Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
     "description": "Provider-agnostic AI dev pipeline: clarify \u2192 plan \u2192 build \u2192 review \u2192 PR across your repos, mixing LLM providers per stag",
@@ -14,8 +23,44 @@
     "language": "TypeScript",
     "name": "esanmohammad/Anvil",
     "stars": 20,
-    "updated_at": "2026-10-24T15:28:26Z",
+    "updated_at": "2026-10-24T15:37:40Z",
     "url": "https://github.com/esanmohammad/Anvil"
+  },
+  {
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
+    "language": "Python",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 53,
+    "updated_at": "2026-10-24T15:33:32Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
+    "description": "Scheduled agent reviews for your repositories, defined in Git. Approved access, sandboxed runs, a full audit trail.",
+    "id": "piotrekno1/second-shift",
+    "language": "Python",
+    "name": "piotrekno1/second-shift",
+    "stars": 1,
+    "updated_at": "2026-10-24T15:30:42Z",
+    "url": "https://github.com/piotrekno1/second-shift"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-24T15:30:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The execution control plane for AI agents. Govern every model request, MCP tool call, A2A delegation, and downstream act",
+    "id": "GetBusbar/busbar",
+    "language": "Rust",
+    "name": "GetBusbar/busbar",
+    "stars": 213,
+    "updated_at": "2026-10-24T15:40:58Z",
+    "url": "https://github.com/GetBusbar/busbar"
   },
   {
     "description": "Agent skills for AI architects: MCP, orchestration, model routing, evals. For Claude Code, Cursor, Codex. Install: npx s",
@@ -32,7 +77,7 @@
     "language": "Python",
     "name": "holetz/quenching",
     "stars": 1,
-    "updated_at": "2026-10-24T15:30:11Z",
+    "updated_at": "2026-10-24T15:39:14Z",
     "url": "https://github.com/holetz/quenching"
   },
   {
@@ -95,17 +140,8 @@
     "language": "Python",
     "name": "redevops-io/context-runtime",
     "stars": 12,
-    "updated_at": "2026-10-24T15:16:26Z",
+    "updated_at": "2026-10-24T15:38:29Z",
     "url": "https://github.com/redevops-io/context-runtime"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-24T15:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -241,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T14:46:07Z",
     "url": "https://github.com/storm-software/mindctl"
-  },
-  {
-    "description": "12 production patterns around one AI support agent (gateway, admission control, guardrails, router ladder, semantic cach",
-    "id": "jagadishmazure-jpg/Jagadish-ai-system-design-at-scale",
-    "language": "Python",
-    "name": "jagadishmazure-jpg/Jagadish-ai-system-design-at-scale",
-    "stars": 0,
-    "updated_at": "2026-10-24T15:09:00Z",
-    "url": "https://github.com/jagadishmazure-jpg/Jagadish-ai-system-design-at-scale"
   },
   {
     "description": "AI / LLM / Agent \u5de5\u7a0b\u5e08\u4e2d\u6587\u9762\u8bd5\u9898\u4e0e\u53c2\u8003\u7b54\u6848\uff1aRAG\u3001Agent\u3001\u5fae\u8c03\u3001LLMOps\u3001\u7cfb\u7edf\u8bbe\u8ba1",
@@ -421,32 +448,5 @@
     "stars": 9,
     "updated_at": "2026-10-24T14:08:23Z",
     "url": "https://github.com/redevops-io/redevops-rag"
-  },
-  {
-    "description": "Self-demonstrating ReDevOps \u00d7 AWS deploy-and-operate demo: one prompt in Projects provisions, secures, monitors and self",
-    "id": "redevops-io/redevops-demo",
-    "language": "Python",
-    "name": "redevops-io/redevops-demo",
-    "stars": 0,
-    "updated_at": "2026-10-24T14:02:05Z",
-    "url": "https://github.com/redevops-io/redevops-demo"
-  },
-  {
-    "description": "Fully local RAG: hybrid BM25 + vector retrieval (RRF, sqlite-vec), local reranker, cited answers from open-weight models",
-    "id": "MartinCastroAlvarez/local-rag-ollama",
-    "language": "Python",
-    "name": "MartinCastroAlvarez/local-rag-ollama",
-    "stars": 0,
-    "updated_at": "2026-10-24T13:54:26Z",
-    "url": "https://github.com/MartinCastroAlvarez/local-rag-ollama"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 9616,
-    "updated_at": "2026-10-24T13:51:23Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
   }
 ]
