@@ -1,5 +1,77 @@
 [
   {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 117,
+    "updated_at": "2026-10-24T22:42:20Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
+    "id": "luetzey/who2be",
+    "language": "Python",
+    "name": "luetzey/who2be",
+    "stars": 0,
+    "updated_at": "2026-10-24T22:40:31Z",
+    "url": "https://github.com/luetzey/who2be"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 42,
+    "updated_at": "2026-10-24T22:38:14Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-10-24T22:33:36Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61976,
+    "updated_at": "2026-10-24T22:37:50Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
+    "id": "hjongc/openrouter-endpoint-watch",
+    "language": "Python",
+    "name": "hjongc/openrouter-endpoint-watch",
+    "stars": 0,
+    "updated_at": "2026-10-24T22:31:21Z",
+    "url": "https://github.com/hjongc/openrouter-endpoint-watch"
+  },
+  {
+    "description": "Production-grade observability and agentic AIOps for AI systems \u2014 OpenTelemetry-native across independent polyglot apps;",
+    "id": "Root1V/argus-observability-platform",
+    "language": "Python",
+    "name": "Root1V/argus-observability-platform",
+    "stars": 1,
+    "updated_at": "2026-10-24T22:30:50Z",
+    "url": "https://github.com/Root1V/argus-observability-platform"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-24T22:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Enterprise Scale AIFactory (esml) - on Azure",
     "id": "jostrm/azure-enterprise-scale-ml",
     "language": "Python",
@@ -59,7 +131,7 @@
     "language": "TypeScript",
     "name": "burakdede/lorepack",
     "stars": 4,
-    "updated_at": "2026-10-24T22:19:15Z",
+    "updated_at": "2026-10-24T22:36:43Z",
     "url": "https://github.com/burakdede/lorepack"
   },
   {
@@ -70,24 +142,6 @@
     "stars": 96,
     "updated_at": "2026-10-24T22:16:33Z",
     "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-24T22:15:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61975,
-    "updated_at": "2026-10-24T22:28:53Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
@@ -103,7 +157,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26384,
+    "stars": 26385,
     "updated_at": "2026-10-24T22:03:43Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -194,7 +248,7 @@
     "language": "Go",
     "name": "ainsel-project/ainsel",
     "stars": 2,
-    "updated_at": "2026-10-24T22:12:23Z",
+    "updated_at": "2026-10-24T22:33:13Z",
     "url": "https://github.com/ainsel-project/ainsel"
   },
   {
@@ -203,7 +257,7 @@
     "language": "Python",
     "name": "redevops-io/agentic-os",
     "stars": 2,
-    "updated_at": "2026-10-24T21:20:38Z",
+    "updated_at": "2026-10-24T22:35:31Z",
     "url": "https://github.com/redevops-io/agentic-os"
   },
   {
@@ -252,6 +306,15 @@
     "url": "https://github.com/vivek-541/vivek-541"
   },
   {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 2198,
+    "updated_at": "2026-10-24T20:59:41Z",
+    "url": "https://github.com/future-agi/future-agi"
+  },
+  {
     "description": "A unified .NET abstraction layer for multiple Large Language Model (LLM) providers. Nexus-LLM simplifies integration wit",
     "id": "brutal-45/Nexus-LLM",
     "language": "Python",
@@ -259,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T20:56:41Z",
     "url": "https://github.com/brutal-45/Nexus-LLM"
-  },
-  {
-    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
-    "id": "luetzey/who2be",
-    "language": "Python",
-    "name": "luetzey/who2be",
-    "stars": 0,
-    "updated_at": "2026-10-24T22:18:41Z",
-    "url": "https://github.com/luetzey/who2be"
   },
   {
     "description": "Multi-project ML platform monorepo: shared substrate across tabular, deep learning, LLM and agent projects. Multi-cloud ",
@@ -329,7 +383,7 @@
     "language": "Python",
     "name": "holetz/quenching",
     "stars": 1,
-    "updated_at": "2026-10-24T20:19:23Z",
+    "updated_at": "2026-10-24T22:37:50Z",
     "url": "https://github.com/holetz/quenching"
   },
   {
@@ -378,24 +432,6 @@
     "url": "https://github.com/langwatch/langwatch"
   },
   {
-    "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
-    "id": "hjongc/openrouter-endpoint-watch",
-    "language": "Python",
-    "name": "hjongc/openrouter-endpoint-watch",
-    "stars": 0,
-    "updated_at": "2026-10-24T19:31:15Z",
-    "url": "https://github.com/hjongc/openrouter-endpoint-watch"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 42,
-    "updated_at": "2026-10-24T19:26:33Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Open-source Model Context Protocol (MCP) security gateway and AI agent control plane for LLMOps/AIOps, with prompt-injec",
     "id": "gaurav-gs7/Judikt",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-24T21:21:56Z",
     "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
-    "id": "lmnr-ai/lmnr",
-    "language": "TypeScript",
-    "name": "lmnr-ai/lmnr",
-    "stars": 3439,
-    "updated_at": "2026-10-24T19:00:33Z",
-    "url": "https://github.com/lmnr-ai/lmnr"
-  },
-  {
-    "description": "Plano is an AI-native proxy server and data plane for agentic apps. Smart LLM routing, observability, agent orchestratio",
-    "id": "katanemo/plano",
-    "language": "Rust",
-    "name": "katanemo/plano",
-    "stars": 7100,
-    "updated_at": "2026-10-24T19:03:25Z",
-    "url": "https://github.com/katanemo/plano"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 9622,
-    "updated_at": "2026-10-24T18:51:47Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 117,
-    "updated_at": "2026-10-24T22:07:23Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
   }
 ]
