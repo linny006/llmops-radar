@@ -1,5 +1,59 @@
 [
   {
+    "description": "\u9876\u7ea7\u5ba1\u7f8e\u7684\u4e2a\u4eba\u535a\u5ba2\uff01\uff01\uff01\u5199\u4e00\u4e9b\u5173\u4e8e AI\u3001Agent\u3001\u6280\u672f\u3001\u4ea7\u54c1\u3001\u8425\u9500\u3001\u4e00\u4e9b\u751f\u6d3b\u601d\u8003\uff0c\u4e2a\u4eba\u6210\u957f\u7c7b\u7684\u7cbe\u6587",
+    "id": "cubxxw/blog",
+    "language": "JavaScript",
+    "name": "cubxxw/blog",
+    "stars": 30,
+    "updated_at": "2026-10-24T07:13:08Z",
+    "url": "https://github.com/cubxxw/blog"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-10-24T07:11:04Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-24T07:09:25Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
+    "id": "acornops/management-console",
+    "language": "TypeScript",
+    "name": "acornops/management-console",
+    "stars": 2,
+    "updated_at": "2026-10-24T07:07:29Z",
+    "url": "https://github.com/acornops/management-console"
+  },
+  {
+    "description": "Save Money and Usage Credit When Using AI Models",
+    "id": "coreymcd37/smart-efficiency-optimizer",
+    "language": "\u2014",
+    "name": "coreymcd37/smart-efficiency-optimizer",
+    "stars": 0,
+    "updated_at": "2026-10-24T07:07:01Z",
+    "url": "https://github.com/coreymcd37/smart-efficiency-optimizer"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-24T07:04:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -18,33 +72,6 @@
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
-    "description": "Save Money and Usage Credit When Using AI Models",
-    "id": "coreymcd37/smart-efficiency-optimizer",
-    "language": "\u2014",
-    "name": "coreymcd37/smart-efficiency-optimizer",
-    "stars": 0,
-    "updated_at": "2026-10-24T07:03:21Z",
-    "url": "https://github.com/coreymcd37/smart-efficiency-optimizer"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-10-24T07:01:58Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-24T07:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -52,15 +79,6 @@
     "stars": 42,
     "updated_at": "2026-10-24T06:59:14Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "\u9876\u7ea7\u5ba1\u7f8e\u7684\u4e2a\u4eba\u535a\u5ba2\uff01\uff01\uff01\u5199\u4e00\u4e9b\u5173\u4e8e AI\u3001Agent\u3001\u6280\u672f\u3001\u4ea7\u54c1\u3001\u8425\u9500\u3001\u4e00\u4e9b\u751f\u6d3b\u601d\u8003\uff0c\u4e2a\u4eba\u6210\u957f\u7c7b\u7684\u7cbe\u6587",
-    "id": "cubxxw/blog",
-    "language": "JavaScript",
-    "name": "cubxxw/blog",
-    "stars": 30,
-    "updated_at": "2026-10-24T06:58:41Z",
-    "url": "https://github.com/cubxxw/blog"
   },
   {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
@@ -94,7 +112,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 61937,
+    "stars": 61939,
     "updated_at": "2026-10-24T06:41:52Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -139,7 +157,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11977,
+    "stars": 11978,
     "updated_at": "2026-10-24T06:18:07Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -151,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-10-24T06:16:16Z",
     "url": "https://github.com/stevecrates489-commits/tokcalc"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-24T06:13:48Z",
-    "url": "https://github.com/toxicwind/ranch"
   },
   {
     "description": "LLM spend tracking and budgets for Rails \u2014 by user, feature, or any tag, in your own database, no proxy.",
@@ -203,7 +212,7 @@
     "language": "Python",
     "name": "luetzey/who2be",
     "stars": 0,
-    "updated_at": "2026-10-24T06:22:36Z",
+    "updated_at": "2026-10-24T07:09:12Z",
     "url": "https://github.com/luetzey/who2be"
   },
   {
@@ -230,8 +239,17 @@
     "language": "Go",
     "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "stars": 1,
-    "updated_at": "2026-10-24T05:49:32Z",
+    "updated_at": "2026-10-24T07:10:31Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28513,
+    "updated_at": "2026-10-24T05:48:45Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "GatewayCrate: self-hosted AI gateway powered by LiteLLM. Unified OpenAI-compatible API for 100+ cloud and local LLM prov",
@@ -241,15 +259,6 @@
     "stars": 10,
     "updated_at": "2026-10-24T05:48:18Z",
     "url": "https://github.com/hwdsl2/gatewaycrate"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28512,
-    "updated_at": "2026-10-24T05:48:45Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Does an OpenAI-compatible endpoint disclose model prices without an account or key? One unauthenticated GET, five verdic",
@@ -266,7 +275,7 @@
     "language": "Python",
     "name": "llmspendguard/llm-spendguard",
     "stars": 0,
-    "updated_at": "2026-10-24T06:32:13Z",
+    "updated_at": "2026-10-24T07:13:45Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
@@ -347,7 +356,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1371,
-    "updated_at": "2026-10-24T06:49:23Z",
+    "updated_at": "2026-10-24T07:13:42Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-24T03:04:31Z",
     "url": "https://github.com/api-evangelist/zenml"
-  },
-  {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-10-24T03:19:21Z",
-    "url": "https://github.com/redevops-io/agentic-os"
   }
 ]
