@@ -1,12 +1,12 @@
 [
   {
-    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
-    "id": "digline/digline",
-    "language": "Python",
-    "name": "digline/digline",
-    "stars": 9,
-    "updated_at": "2026-10-24T16:44:44Z",
-    "url": "https://github.com/digline/digline"
+    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
+    "id": "AixleHQ/flow",
+    "language": "Ruby",
+    "name": "AixleHQ/flow",
+    "stars": 27,
+    "updated_at": "2026-10-24T16:57:44Z",
+    "url": "https://github.com/AixleHQ/flow"
   },
   {
     "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
@@ -14,8 +14,26 @@
     "language": "Python",
     "name": "redevops-io/agentic-os",
     "stars": 2,
-    "updated_at": "2026-10-24T16:45:14Z",
+    "updated_at": "2026-10-24T16:56:56Z",
     "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "A unified .NET abstraction layer for multiple Large Language Model (LLM) providers. Nexus-LLM simplifies integration wit",
+    "id": "brutal-45/Nexus-LLM",
+    "language": "Python",
+    "name": "brutal-45/Nexus-LLM",
+    "stars": 0,
+    "updated_at": "2026-10-24T16:55:51Z",
+    "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 24,
+    "updated_at": "2026-10-24T16:55:24Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
     "description": "Enterprise Scale AIFactory (esml) - on Azure",
@@ -23,8 +41,17 @@
     "language": "Python",
     "name": "jostrm/azure-enterprise-scale-ml",
     "stars": 53,
-    "updated_at": "2026-10-24T16:44:18Z",
+    "updated_at": "2026-10-24T16:54:56Z",
     "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
+    "description": "The open standard AI gateway \u2014 PII protection, audit, reliability & cost control as composable interceptors. Same API in",
+    "id": "manojmallick/gavio",
+    "language": "Java",
+    "name": "manojmallick/gavio",
+    "stars": 6,
+    "updated_at": "2026-10-24T16:56:46Z",
+    "url": "https://github.com/manojmallick/gavio"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
@@ -32,8 +59,62 @@
     "language": "Python",
     "name": "vllm-project/vllm-ascend",
     "stars": 3006,
-    "updated_at": "2026-10-24T16:43:26Z",
+    "updated_at": "2026-10-24T16:47:11Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Scheduled agent reviews for your repositories, defined in Git. Approved access, sandboxed runs, a full audit trail.",
+    "id": "piotrekno1/second-shift",
+    "language": "Python",
+    "name": "piotrekno1/second-shift",
+    "stars": 1,
+    "updated_at": "2026-10-24T16:46:49Z",
+    "url": "https://github.com/piotrekno1/second-shift"
+  },
+  {
+    "description": "Provider-agnostic AI dev pipeline: clarify \u2192 plan \u2192 build \u2192 review \u2192 PR across your repos, mixing LLM providers per stag",
+    "id": "esanmohammad/Anvil",
+    "language": "TypeScript",
+    "name": "esanmohammad/Anvil",
+    "stars": 20,
+    "updated_at": "2026-10-24T16:45:51Z",
+    "url": "https://github.com/esanmohammad/Anvil"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-24T16:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
+    "id": "burakdede/lorepack",
+    "language": "TypeScript",
+    "name": "burakdede/lorepack",
+    "stars": 4,
+    "updated_at": "2026-10-24T16:45:21Z",
+    "url": "https://github.com/burakdede/lorepack"
+  },
+  {
+    "description": "Switch AI models without breaking your product: find every model your code calls and when it retires, turn real usage lo",
+    "id": "DeChuks-hub/llmshift",
+    "language": "Python",
+    "name": "DeChuks-hub/llmshift",
+    "stars": 0,
+    "updated_at": "2026-10-24T16:58:57Z",
+    "url": "https://github.com/DeChuks-hub/llmshift"
+  },
+  {
+    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
+    "id": "digline/digline",
+    "language": "Python",
+    "name": "digline/digline",
+    "stars": 9,
+    "updated_at": "2026-10-24T16:56:39Z",
+    "url": "https://github.com/digline/digline"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -43,24 +124,6 @@
     "stars": 4,
     "updated_at": "2026-10-24T16:41:49Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Provider-agnostic AI dev pipeline: clarify \u2192 plan \u2192 build \u2192 review \u2192 PR across your repos, mixing LLM providers per stag",
-    "id": "esanmohammad/Anvil",
-    "language": "TypeScript",
-    "name": "esanmohammad/Anvil",
-    "stars": 20,
-    "updated_at": "2026-10-24T16:41:32Z",
-    "url": "https://github.com/esanmohammad/Anvil"
-  },
-  {
-    "description": "A unified .NET abstraction layer for multiple Large Language Model (LLM) providers. Nexus-LLM simplifies integration wit",
-    "id": "brutal-45/Nexus-LLM",
-    "language": "Python",
-    "name": "brutal-45/Nexus-LLM",
-    "stars": 0,
-    "updated_at": "2026-10-24T16:40:48Z",
-    "url": "https://github.com/brutal-45/Nexus-LLM"
   },
   {
     "description": "Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio",
@@ -86,26 +149,8 @@
     "language": "Python",
     "name": "holetz/quenching",
     "stars": 1,
-    "updated_at": "2026-10-24T16:41:52Z",
+    "updated_at": "2026-10-24T16:57:38Z",
     "url": "https://github.com/holetz/quenching"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 24,
-    "updated_at": "2026-10-24T16:33:51Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-24T16:30:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -185,7 +230,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61963,
-    "updated_at": "2026-10-24T16:42:19Z",
+    "updated_at": "2026-10-24T16:45:45Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -234,15 +279,6 @@
     "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
-    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
-    "id": "burakdede/lorepack",
-    "language": "TypeScript",
-    "name": "burakdede/lorepack",
-    "stars": 4,
-    "updated_at": "2026-10-24T16:45:21Z",
-    "url": "https://github.com/burakdede/lorepack"
-  },
-  {
     "description": "Context Runtime \u2014 a database query planner for LLM context. Decides what a model sees before it answers; plans it, runs ",
     "id": "redevops-io/context-runtime",
     "language": "Python",
@@ -261,21 +297,12 @@
     "url": "https://github.com/jagadishmazure-jpg/Jagadish-ai-system-design-at-scale"
   },
   {
-    "description": "Scheduled agent reviews for your repositories, defined in Git. Approved access, sandboxed runs, a full audit trail.",
-    "id": "piotrekno1/second-shift",
-    "language": "Python",
-    "name": "piotrekno1/second-shift",
-    "stars": 1,
-    "updated_at": "2026-10-24T15:53:19Z",
-    "url": "https://github.com/piotrekno1/second-shift"
-  },
-  {
     "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
     "id": "srjn45/warden",
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-24T16:05:06Z",
+    "updated_at": "2026-10-24T16:58:00Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -311,7 +338,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 117,
-    "updated_at": "2026-10-24T16:07:01Z",
+    "updated_at": "2026-10-24T16:57:12Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -355,7 +382,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 36341,
+    "stars": 36343,
     "updated_at": "2026-10-24T14:59:16Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -383,7 +410,7 @@
     "language": "Python",
     "name": "Furox-Art/quantum-reasoning-skill",
     "stars": 4,
-    "updated_at": "2026-10-24T14:55:03Z",
+    "updated_at": "2026-10-24T16:57:56Z",
     "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-24T14:46:07Z",
     "url": "https://github.com/storm-software/mindctl"
-  },
-  {
-    "description": "AI / LLM / Agent \u5de5\u7a0b\u5e08\u4e2d\u6587\u9762\u8bd5\u9898\u4e0e\u53c2\u8003\u7b54\u6848\uff1aRAG\u3001Agent\u3001\u5fae\u8c03\u3001LLMOps\u3001\u7cfb\u7edf\u8bbe\u8ba1",
-    "id": "cluster1900/ai-engineering-interview-questions-CN",
-    "language": "Markdown",
-    "name": "cluster1900/ai-engineering-interview-questions-CN",
-    "stars": 0,
-    "updated_at": "2026-10-24T14:39:44Z",
-    "url": "https://github.com/cluster1900/ai-engineering-interview-questions-CN"
-  },
-  {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1282,
-    "updated_at": "2026-10-24T14:36:05Z",
-    "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
-    "description": "Open-source Model Context Protocol (MCP) security gateway and AI agent control plane for LLMOps/AIOps, with prompt-injec",
-    "id": "gaurav-gs7/Judikt",
-    "language": "Python",
-    "name": "gaurav-gs7/Judikt",
-    "stars": 0,
-    "updated_at": "2026-10-24T14:31:50Z",
-    "url": "https://github.com/gaurav-gs7/Judikt"
   }
 ]
