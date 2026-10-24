@@ -1,5 +1,113 @@
 [
   {
+    "description": "Check what your AI agents did without taking anyone's word for it: offline verifier, witness service, rules language and",
+    "id": "ntinosgkiou-code/omnios",
+    "language": "Python",
+    "name": "ntinosgkiou-code/omnios",
+    "stars": 0,
+    "updated_at": "2026-10-24T08:30:17Z",
+    "url": "https://github.com/ntinosgkiou-code/omnios"
+  },
+  {
+    "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
+    "id": "Amz34/awesome-agent-infrastructure",
+    "language": "Python",
+    "name": "Amz34/awesome-agent-infrastructure",
+    "stars": 1,
+    "updated_at": "2026-10-24T08:30:05Z",
+    "url": "https://github.com/Amz34/awesome-agent-infrastructure"
+  },
+  {
+    "description": "Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio",
+    "id": "naim-munshi/metriqen-llm-serving-optimization",
+    "language": "Python",
+    "name": "naim-munshi/metriqen-llm-serving-optimization",
+    "stars": 0,
+    "updated_at": "2026-10-24T08:30:03Z",
+    "url": "https://github.com/naim-munshi/metriqen-llm-serving-optimization"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 733,
+    "updated_at": "2026-10-24T08:25:46Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper",
+    "id": "acornops/acornops-deployment",
+    "language": "JavaScript",
+    "name": "acornops/acornops-deployment",
+    "stars": 2,
+    "updated_at": "2026-10-24T08:25:11Z",
+    "url": "https://github.com/acornops/acornops-deployment"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 399,
+    "updated_at": "2026-10-24T08:24:44Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Live cost, token and context usage sidebar for Claude Code: a mod that shows cost per turn, cache hit rate, burn rate an",
+    "id": "andrewbakercloudscale/claude-code-cost-sidebar",
+    "language": "Shell",
+    "name": "andrewbakercloudscale/claude-code-cost-sidebar",
+    "stars": 2,
+    "updated_at": "2026-10-24T08:29:40Z",
+    "url": "https://github.com/andrewbakercloudscale/claude-code-cost-sidebar"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 42,
+    "updated_at": "2026-10-24T08:19:21Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 24,
+    "updated_at": "2026-10-24T08:19:12Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "Plan your LLM deployment before you rent the GPUs. Open-source capacity planner: 39 models, 31 GPUs, 16 quants, transpar",
+    "id": "stevecrates489-commits/tokcalc",
+    "language": "TypeScript",
+    "name": "stevecrates489-commits/tokcalc",
+    "stars": 1,
+    "updated_at": "2026-10-24T08:18:39Z",
+    "url": "https://github.com/stevecrates489-commits/tokcalc"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-10-24T08:15:40Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-24T08:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
     "id": "sarkars/agent-failure-modes",
     "language": "Python",
@@ -16,33 +124,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T08:14:48Z",
     "url": "https://github.com/cognifityai/verdict"
-  },
-  {
-    "description": "Check what your AI agents did without taking anyone's word for it: offline verifier, witness service, rules language and",
-    "id": "ntinosgkiou-code/omnios",
-    "language": "Python",
-    "name": "ntinosgkiou-code/omnios",
-    "stars": 0,
-    "updated_at": "2026-10-24T08:14:22Z",
-    "url": "https://github.com/ntinosgkiou-code/omnios"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 42,
-    "updated_at": "2026-10-24T08:12:45Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 24,
-    "updated_at": "2026-10-24T08:11:39Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
     "description": "Daily CI-refreshed history of LLM API pricing \u2014 snapshot + append-only change log for ~2,500 chat models (CSV, CC BY 4.0",
@@ -99,15 +180,6 @@
     "url": "https://github.com/cubxxw/blog"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-24T08:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Applied AI engineer in Singapore building production ML, RAG, agent workflows, evals, vision pipelines, and full-stack A",
     "id": "haomingkoo/haomingkoo",
     "language": "\u2014",
@@ -124,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T07:59:46Z",
     "url": "https://github.com/luetzey/who2be"
-  },
-  {
-    "description": "Plan your LLM deployment before you rent the GPUs. Open-source capacity planner: 39 models, 31 GPUs, 16 quants, transpar",
-    "id": "stevecrates489-commits/tokcalc",
-    "language": "TypeScript",
-    "name": "stevecrates489-commits/tokcalc",
-    "stars": 1,
-    "updated_at": "2026-10-24T07:59:18Z",
-    "url": "https://github.com/stevecrates489-commits/tokcalc"
   },
   {
     "description": "\ud83d\udc33\ud83d\udc0d OCI Images for Machine Learning. Best for MLOps, LLMOps, and developing models or work with weights locally.",
@@ -158,17 +221,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61940,
-    "updated_at": "2026-10-24T08:14:36Z",
+    "updated_at": "2026-10-24T08:25:50Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper",
-    "id": "acornops/acornops-deployment",
-    "language": "JavaScript",
-    "name": "acornops/acornops-deployment",
-    "stars": 2,
-    "updated_at": "2026-10-24T07:39:58Z",
-    "url": "https://github.com/acornops/acornops-deployment"
   },
   {
     "description": "Tamper-evident receipts for reported LLM efficiency events. Offline integrity and benchmark-arithmetic verification, wit",
@@ -196,15 +250,6 @@
     "stars": 136,
     "updated_at": "2026-10-24T07:25:25Z",
     "url": "https://github.com/cuihuan/awesome-ai-gateway"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-10-24T07:24:07Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -292,7 +337,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 30714,
+    "stars": 30715,
     "updated_at": "2026-10-24T06:37:57Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -329,7 +374,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 116,
-    "updated_at": "2026-10-24T08:09:20Z",
+    "updated_at": "2026-10-24T08:29:41Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 28513,
     "updated_at": "2026-10-24T05:48:45Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "GatewayCrate: self-hosted AI gateway powered by LiteLLM. Unified OpenAI-compatible API for 100+ cloud and local LLM prov",
-    "id": "hwdsl2/gatewaycrate",
-    "language": "Shell",
-    "name": "hwdsl2/gatewaycrate",
-    "stars": 10,
-    "updated_at": "2026-10-24T05:48:18Z",
-    "url": "https://github.com/hwdsl2/gatewaycrate"
-  },
-  {
-    "description": "Does an OpenAI-compatible endpoint disclose model prices without an account or key? One unauthenticated GET, five verdic",
-    "id": "happy520ai/gateway-price-check",
-    "language": "JavaScript",
-    "name": "happy520ai/gateway-price-check",
-    "stars": 0,
-    "updated_at": "2026-10-24T05:47:03Z",
-    "url": "https://github.com/happy520ai/gateway-price-check"
-  },
-  {
-    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
-    "id": "burakdede/lorepack",
-    "language": "TypeScript",
-    "name": "burakdede/lorepack",
-    "stars": 4,
-    "updated_at": "2026-10-24T05:10:25Z",
-    "url": "https://github.com/burakdede/lorepack"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 4,
-    "updated_at": "2026-10-24T04:52:00Z",
-    "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 11,
-    "updated_at": "2026-10-24T04:38:22Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
   }
 ]
