@@ -1,11 +1,83 @@
 [
   {
+    "description": "Self-hostable AI token pools \u2014 govern your org's AI usage with per-member keys, quotas, and leak detection; or deposit s",
+    "id": "Phat1911/Tributary",
+    "language": "Rust",
+    "name": "Phat1911/Tributary",
+    "stars": 1,
+    "updated_at": "2026-10-24T13:44:30Z",
+    "url": "https://github.com/Phat1911/Tributary"
+  },
+  {
+    "description": "Open-source Model Context Protocol (MCP) security gateway and AI agent control plane for LLMOps/AIOps, with prompt-injec",
+    "id": "gaurav-gs7/Judikt",
+    "language": "Python",
+    "name": "gaurav-gs7/Judikt",
+    "stars": 0,
+    "updated_at": "2026-10-24T13:41:04Z",
+    "url": "https://github.com/gaurav-gs7/Judikt"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 96,
+    "updated_at": "2026-10-24T13:40:47Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
+    "id": "holetz/quenching",
+    "language": "Python",
+    "name": "holetz/quenching",
+    "stars": 1,
+    "updated_at": "2026-10-24T13:41:10Z",
+    "url": "https://github.com/holetz/quenching"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-24T13:38:04Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "12 production patterns around one AI support agent (gateway, admission control, guardrails, router ladder, semantic cach",
+    "id": "jagadishmazure-jpg/Jagadish-ai-system-design-at-scale",
+    "language": "Python",
+    "name": "jagadishmazure-jpg/Jagadish-ai-system-design-at-scale",
+    "stars": 0,
+    "updated_at": "2026-10-24T13:40:55Z",
+    "url": "https://github.com/jagadishmazure-jpg/Jagadish-ai-system-design-at-scale"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 9615,
+    "updated_at": "2026-10-24T13:31:11Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-24T13:30:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
     "id": "cloudrift-ai/emmy",
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 117,
-    "updated_at": "2026-10-24T13:29:07Z",
+    "updated_at": "2026-10-24T13:41:12Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -14,7 +86,7 @@
     "language": "Python",
     "name": "redevops-io/agentic-os",
     "stars": 2,
-    "updated_at": "2026-10-24T13:28:28Z",
+    "updated_at": "2026-10-24T13:42:31Z",
     "url": "https://github.com/redevops-io/agentic-os"
   },
   {
@@ -49,18 +121,9 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 61953,
+    "stars": 61954,
     "updated_at": "2026-10-24T13:22:55Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Self-hostable AI token pools \u2014 govern your org's AI usage with per-member keys, quotas, and leak detection; or deposit s",
-    "id": "Phat1911/Tributary",
-    "language": "Rust",
-    "name": "Phat1911/Tributary",
-    "stars": 1,
-    "updated_at": "2026-10-24T13:22:10Z",
-    "url": "https://github.com/Phat1911/Tributary"
   },
   {
     "description": "",
@@ -88,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-10-24T13:18:33Z",
     "url": "https://github.com/srjn45/warden"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-24T13:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
@@ -153,15 +207,6 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 9615,
-    "updated_at": "2026-10-24T13:01:42Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
     "id": "sarkars/agent-failure-modes",
     "language": "Python",
@@ -193,7 +238,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 36305,
+    "stars": 36309,
     "updated_at": "2026-10-24T12:55:13Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -214,15 +259,6 @@
     "stars": 30719,
     "updated_at": "2026-10-24T12:52:30Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
-    "id": "holetz/quenching",
-    "language": "Python",
-    "name": "holetz/quenching",
-    "stars": 1,
-    "updated_at": "2026-10-24T13:27:47Z",
-    "url": "https://github.com/holetz/quenching"
   },
   {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
@@ -412,41 +448,5 @@
     "stars": 20,
     "updated_at": "2026-10-24T11:27:24Z",
     "url": "https://github.com/esanmohammad/Anvil"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 4,
-    "updated_at": "2026-10-24T11:25:24Z",
-    "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "",
-    "id": "ainsel-project/ainsel",
-    "language": "Go",
-    "name": "ainsel-project/ainsel",
-    "stars": 2,
-    "updated_at": "2026-10-24T11:25:40Z",
-    "url": "https://github.com/ainsel-project/ainsel"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 96,
-    "updated_at": "2026-10-24T13:09:41Z",
-    "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "llmcfo",
-    "id": "lisn0/tidal",
-    "language": "Nunjucks",
-    "name": "lisn0/tidal",
-    "stars": 0,
-    "updated_at": "2026-10-24T11:09:49Z",
-    "url": "https://github.com/lisn0/tidal"
   }
 ]
