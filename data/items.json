@@ -5,17 +5,62 @@
     "language": "Python",
     "name": "jostrm/azure-enterprise-scale-ml",
     "stars": 53,
-    "updated_at": "2026-10-24T22:12:42Z",
+    "updated_at": "2026-10-24T22:29:17Z",
     "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
+    "id": "ZIZKA-AI-SL/ZizkaDB",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61975,
-    "updated_at": "2026-10-24T22:14:56Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "ZIZKA-AI-SL/ZizkaDB",
+    "stars": 145,
+    "updated_at": "2026-10-24T22:28:25Z",
+    "url": "https://github.com/ZIZKA-AI-SL/ZizkaDB"
+  },
+  {
+    "description": "Hands-on, framework-free Colab notebooks for the AI Engineer / Forward Deployed Engineer (FDE) skill set \u2014 model APIs, s",
+    "id": "calmrocks/ai-engineer-notebooks",
+    "language": "Jupyter Notebook",
+    "name": "calmrocks/ai-engineer-notebooks",
+    "stars": 709,
+    "updated_at": "2026-10-24T22:26:52Z",
+    "url": "https://github.com/calmrocks/ai-engineer-notebooks"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 7,
+    "updated_at": "2026-10-24T22:24:17Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8964,
+    "updated_at": "2026-10-24T22:22:49Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-24T22:19:29Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
+    "id": "burakdede/lorepack",
+    "language": "TypeScript",
+    "name": "burakdede/lorepack",
+    "stars": 4,
+    "updated_at": "2026-10-24T22:19:15Z",
+    "url": "https://github.com/burakdede/lorepack"
   },
   {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
@@ -23,8 +68,26 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 96,
-    "updated_at": "2026-10-24T22:15:21Z",
+    "updated_at": "2026-10-24T22:16:33Z",
     "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-24T22:15:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61975,
+    "updated_at": "2026-10-24T22:28:53Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
@@ -36,6 +99,15 @@
     "url": "https://github.com/toxicwind/ranch"
   },
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26384,
+    "updated_at": "2026-10-24T22:03:43Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Terraform provider for Anthropic and Claude organizations: workspaces, members, invites, API keys, service accounts, wor",
     "id": "uttej-badwane/terraform-provider-anthropic-enterprise",
     "language": "Go",
@@ -45,21 +117,12 @@
     "url": "https://github.com/uttej-badwane/terraform-provider-anthropic-enterprise"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-24T22:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Switch AI models without breaking your product: find every model your code calls and when it retires, turn real usage lo",
     "id": "DeChuks-hub/llmshift",
     "language": "Python",
     "name": "DeChuks-hub/llmshift",
     "stars": 0,
-    "updated_at": "2026-10-24T21:54:50Z",
+    "updated_at": "2026-10-24T22:21:15Z",
     "url": "https://github.com/DeChuks-hub/llmshift"
   },
   {
@@ -70,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-10-24T21:55:17Z",
     "url": "https://github.com/thequantumfalcon/kry"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26382,
-    "updated_at": "2026-10-24T22:03:43Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "AI Engineer \u00b7 I build LLM agents for production, and the evals that show they work.",
@@ -180,15 +234,6 @@
     "url": "https://github.com/RobinaMirbahar/cloudguard-gemma-agent"
   },
   {
-    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
-    "id": "burakdede/lorepack",
-    "language": "TypeScript",
-    "name": "burakdede/lorepack",
-    "stars": 4,
-    "updated_at": "2026-10-24T21:42:47Z",
-    "url": "https://github.com/burakdede/lorepack"
-  },
-  {
     "description": "A hands-on library for DevOps, Cloud, and AI engineers: real production scenarios for AWS, Kubernetes, Docker, and LLMOp",
     "id": "sandeepk24/learn-devops-playbook",
     "language": "Python",
@@ -221,7 +266,7 @@
     "language": "Python",
     "name": "luetzey/who2be",
     "stars": 0,
-    "updated_at": "2026-10-24T21:56:20Z",
+    "updated_at": "2026-10-24T22:18:41Z",
     "url": "https://github.com/luetzey/who2be"
   },
   {
@@ -274,7 +319,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 30728,
+    "stars": 30729,
     "updated_at": "2026-10-24T20:13:46Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -286,15 +331,6 @@
     "stars": 1,
     "updated_at": "2026-10-24T20:19:23Z",
     "url": "https://github.com/holetz/quenching"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-24T20:08:42Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "A control layer that decides how an LLM should speak before it speaks",
@@ -338,7 +374,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4991,
-    "updated_at": "2026-10-24T21:04:56Z",
+    "updated_at": "2026-10-24T22:27:59Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 117,
     "updated_at": "2026-10-24T22:07:23Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "LLM spend tracking and budgets for Rails \u2014 by user, feature, or any tag, in your own database, no proxy.",
-    "id": "sergey-homenko/llm_cost_tracker",
-    "language": "Ruby",
-    "name": "sergey-homenko/llm_cost_tracker",
-    "stars": 45,
-    "updated_at": "2026-10-24T18:34:57Z",
-    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
-  },
-  {
-    "description": "AI for tyre circularity: YOLO26 casing triage with a governed MLOps release loop (DVC, MLflow, gated promotion, drift) a",
-    "id": "arav7781/TREADOPS",
-    "language": "Python",
-    "name": "arav7781/TREADOPS",
-    "stars": 0,
-    "updated_at": "2026-10-24T18:30:37Z",
-    "url": "https://github.com/arav7781/TREADOPS"
-  },
-  {
-    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
-    "id": "digline/digline",
-    "language": "Python",
-    "name": "digline/digline",
-    "stars": 9,
-    "updated_at": "2026-10-24T18:20:50Z",
-    "url": "https://github.com/digline/digline"
-  },
-  {
-    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
-    "id": "korczis/prismatic-majordomus",
-    "language": "Rust",
-    "name": "korczis/prismatic-majordomus",
-    "stars": 0,
-    "updated_at": "2026-10-24T22:05:58Z",
-    "url": "https://github.com/korczis/prismatic-majordomus"
   }
 ]
