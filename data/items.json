@@ -1,12 +1,57 @@
 [
   {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
+    "description": "",
+    "id": "coffeehc/xagent-docs",
+    "language": "TypeScript",
+    "name": "coffeehc/xagent-docs",
+    "stars": 1,
+    "updated_at": "2026-10-24T11:29:29Z",
+    "url": "https://github.com/coffeehc/xagent-docs"
+  },
+  {
+    "description": "Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio",
+    "id": "naim-munshi/metriqen-llm-serving-optimization",
     "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 96,
-    "updated_at": "2026-10-24T11:12:37Z",
-    "url": "https://github.com/mloda-ai/mloda"
+    "name": "naim-munshi/metriqen-llm-serving-optimization",
+    "stars": 0,
+    "updated_at": "2026-10-24T11:28:29Z",
+    "url": "https://github.com/naim-munshi/metriqen-llm-serving-optimization"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 42,
+    "updated_at": "2026-10-24T11:28:14Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Provider-agnostic AI dev pipeline: clarify \u2192 plan \u2192 build \u2192 review \u2192 PR across your repos, mixing LLM providers per stag",
+    "id": "esanmohammad/Anvil",
+    "language": "TypeScript",
+    "name": "esanmohammad/Anvil",
+    "stars": 20,
+    "updated_at": "2026-10-24T11:27:24Z",
+    "url": "https://github.com/esanmohammad/Anvil"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 4,
+    "updated_at": "2026-10-24T11:25:24Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "",
+    "id": "ainsel-project/ainsel",
+    "language": "Go",
+    "name": "ainsel-project/ainsel",
+    "stars": 2,
+    "updated_at": "2026-10-24T11:25:40Z",
+    "url": "https://github.com/ainsel-project/ainsel"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -14,8 +59,44 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28514,
-    "updated_at": "2026-10-24T11:14:57Z",
+    "updated_at": "2026-10-24T11:21:49Z",
     "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 96,
+    "updated_at": "2026-10-24T11:20:42Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 9611,
+    "updated_at": "2026-10-24T11:26:21Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "The platform for continuously improving AI agents.",
+    "id": "overmind-core/overmind",
+    "language": "Python",
+    "name": "overmind-core/overmind",
+    "stars": 679,
+    "updated_at": "2026-10-24T11:29:21Z",
+    "url": "https://github.com/overmind-core/overmind"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-24T11:15:22Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Template for small, safe AI agents in pure Python: cost caps in code, tool-less LLM client, \"I don't know\" as a valid re",
@@ -23,7 +104,7 @@
     "language": "Python",
     "name": "tonyweckstrom1987/agentti-pohja",
     "stars": 0,
-    "updated_at": "2026-10-24T11:11:02Z",
+    "updated_at": "2026-10-24T11:30:17Z",
     "url": "https://github.com/tonyweckstrom1987/agentti-pohja"
   },
   {
@@ -45,15 +126,6 @@
     "url": "https://github.com/toxicwind/ranch"
   },
   {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 9611,
-    "updated_at": "2026-10-24T11:02:54Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
     "description": "\ud83d\udc33\ud83d\udc0d OCI Images for Machine Learning. Best for MLOps, LLMOps, and developing models or work with weights locally.",
     "id": "nekomeowww/oci-ml",
     "language": "Dockerfile",
@@ -72,21 +144,12 @@
     "url": "https://github.com/Amz34/awesome-agent-infrastructure"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-24T11:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Keras based framework for neuro-symbolic LM systems",
     "id": "SynaLinks/synalinks",
     "language": "Python",
     "name": "SynaLinks/synalinks",
     "stars": 463,
-    "updated_at": "2026-10-24T11:04:10Z",
+    "updated_at": "2026-10-24T11:28:23Z",
     "url": "https://github.com/SynaLinks/synalinks"
   },
   {
@@ -99,21 +162,12 @@
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
-    "description": "Provider-agnostic AI dev pipeline: clarify \u2192 plan \u2192 build \u2192 review \u2192 PR across your repos, mixing LLM providers per stag",
-    "id": "esanmohammad/Anvil",
-    "language": "TypeScript",
-    "name": "esanmohammad/Anvil",
-    "stars": 20,
-    "updated_at": "2026-10-24T10:55:28Z",
-    "url": "https://github.com/esanmohammad/Anvil"
-  },
-  {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
     "id": "llmspendguard/llm-spendguard",
     "language": "Python",
     "name": "llmspendguard/llm-spendguard",
     "stars": 0,
-    "updated_at": "2026-10-24T10:52:14Z",
+    "updated_at": "2026-10-24T11:29:15Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
@@ -162,21 +216,12 @@
     "url": "https://github.com/SourceShift/mini-ork"
   },
   {
-    "description": "Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio",
-    "id": "naim-munshi/metriqen-llm-serving-optimization",
-    "language": "Python",
-    "name": "naim-munshi/metriqen-llm-serving-optimization",
-    "stars": 0,
-    "updated_at": "2026-10-24T10:39:17Z",
-    "url": "https://github.com/naim-munshi/metriqen-llm-serving-optimization"
-  },
-  {
     "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
     "id": "korczis/prismatic-majordomus",
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-24T10:59:04Z",
+    "updated_at": "2026-10-24T11:20:24Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -205,15 +250,6 @@
     "stars": 9,
     "updated_at": "2026-10-24T10:32:37Z",
     "url": "https://github.com/digline/digline"
-  },
-  {
-    "description": "",
-    "id": "ainsel-project/ainsel",
-    "language": "Go",
-    "name": "ainsel-project/ainsel",
-    "stars": 2,
-    "updated_at": "2026-10-24T10:36:28Z",
-    "url": "https://github.com/ainsel-project/ainsel"
   },
   {
     "description": "Drop-in n8n sub-workflows that cap spend, loop iterations and error rate, plus a manual kill switch, for AI-agent workfl",
@@ -261,15 +297,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "",
-    "id": "coffeehc/xagent-docs",
-    "language": "TypeScript",
-    "name": "coffeehc/xagent-docs",
-    "stars": 1,
-    "updated_at": "2026-10-24T10:09:57Z",
-    "url": "https://github.com/coffeehc/xagent-docs"
-  },
-  {
     "description": "Plan your LLM deployment before you rent the GPUs. Open-source capacity planner: 39 models, 31 GPUs, 16 quants, transpar",
     "id": "stevecrates489-commits/tokcalc",
     "language": "TypeScript",
@@ -288,13 +315,13 @@
     "url": "https://github.com/thequantumfalcon/kry"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 42,
-    "updated_at": "2026-10-24T09:59:31Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8961,
+    "updated_at": "2026-10-24T10:00:33Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
@@ -302,7 +329,7 @@
     "language": "Python",
     "name": "sarkars/agent-failure-modes",
     "stars": 1,
-    "updated_at": "2026-10-24T11:02:58Z",
+    "updated_at": "2026-10-24T11:22:18Z",
     "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
@@ -320,7 +347,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 117,
-    "updated_at": "2026-10-24T09:50:52Z",
+    "updated_at": "2026-10-24T11:26:52Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -331,15 +358,6 @@
     "stars": 399,
     "updated_at": "2026-10-24T09:48:03Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8960,
-    "updated_at": "2026-10-24T10:00:33Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Open-source voice observability for call timing, transcripts, recordings, and evidence-backed incident analysis.",
@@ -383,7 +401,7 @@
     "language": "TypeScript",
     "name": "chrysogonus/prompt-maker-studio",
     "stars": 3,
-    "updated_at": "2026-10-24T09:27:07Z",
+    "updated_at": "2026-10-24T11:25:31Z",
     "url": "https://github.com/chrysogonus/prompt-maker-studio"
   },
   {
@@ -427,26 +445,8 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 36288,
+    "stars": 36289,
     "updated_at": "2026-10-24T08:50:58Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Check what your AI agents did without taking anyone's word for it: offline verifier, witness service, rules language and",
-    "id": "ntinosgkiou-code/omnios",
-    "language": "Python",
-    "name": "ntinosgkiou-code/omnios",
-    "stars": 0,
-    "updated_at": "2026-10-24T08:47:45Z",
-    "url": "https://github.com/ntinosgkiou-code/omnios"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-10-24T08:38:58Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   }
 ]
