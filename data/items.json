@@ -1,11 +1,101 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61968,
+    "updated_at": "2026-10-24T19:30:04Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-10-24T19:28:28Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
+    "id": "prasad-kavuri/prasad-portfolio",
+    "language": "TypeScript",
+    "name": "prasad-kavuri/prasad-portfolio",
+    "stars": 0,
+    "updated_at": "2026-10-24T19:26:34Z",
+    "url": "https://github.com/prasad-kavuri/prasad-portfolio"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 42,
+    "updated_at": "2026-10-24T19:26:33Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "A unified .NET abstraction layer for multiple Large Language Model (LLM) providers. Nexus-LLM simplifies integration wit",
+    "id": "brutal-45/Nexus-LLM",
+    "language": "Python",
+    "name": "brutal-45/Nexus-LLM",
+    "stars": 0,
+    "updated_at": "2026-10-24T19:26:23Z",
+    "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
+    "description": "Open-source Model Context Protocol (MCP) security gateway and AI agent control plane for LLMOps/AIOps, with prompt-injec",
+    "id": "gaurav-gs7/Judikt",
+    "language": "Python",
+    "name": "gaurav-gs7/Judikt",
+    "stars": 0,
+    "updated_at": "2026-10-24T19:23:25Z",
+    "url": "https://github.com/gaurav-gs7/Judikt"
+  },
+  {
+    "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
+    "id": "holetz/quenching",
+    "language": "Python",
+    "name": "holetz/quenching",
+    "stars": 1,
+    "updated_at": "2026-10-24T19:26:35Z",
+    "url": "https://github.com/holetz/quenching"
+  },
+  {
+    "description": "Open-source LLM observability. See every prompt, completion, token, cost, latency and error as traces and sessions. Pyth",
+    "id": "dheerajkarwasra/spanlight",
+    "language": "Python",
+    "name": "dheerajkarwasra/spanlight",
+    "stars": 0,
+    "updated_at": "2026-10-24T19:27:16Z",
+    "url": "https://github.com/dheerajkarwasra/spanlight"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-24T19:19:54Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-24T19:15:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
     "id": "mloda-ai/mloda",
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 96,
-    "updated_at": "2026-10-24T19:14:30Z",
+    "updated_at": "2026-10-24T19:27:46Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -14,17 +104,8 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-24T19:14:23Z",
+    "updated_at": "2026-10-24T19:25:15Z",
     "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "A unified .NET abstraction layer for multiple Large Language Model (LLM) providers. Nexus-LLM simplifies integration wit",
-    "id": "brutal-45/Nexus-LLM",
-    "language": "Python",
-    "name": "brutal-45/Nexus-LLM",
-    "stars": 0,
-    "updated_at": "2026-10-24T19:11:20Z",
-    "url": "https://github.com/brutal-45/Nexus-LLM"
   },
   {
     "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
@@ -45,24 +126,6 @@
     "url": "https://github.com/toxicwind/ranch"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61968,
-    "updated_at": "2026-10-24T19:15:14Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-24T19:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Plano is an AI-native proxy server and data plane for agentic apps. Smart LLM routing, observability, agent orchestratio",
     "id": "katanemo/plano",
     "language": "Rust",
@@ -70,24 +133,6 @@
     "stars": 7100,
     "updated_at": "2026-10-24T19:03:25Z",
     "url": "https://github.com/katanemo/plano"
-  },
-  {
-    "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
-    "id": "prasad-kavuri/prasad-portfolio",
-    "language": "TypeScript",
-    "name": "prasad-kavuri/prasad-portfolio",
-    "stars": 0,
-    "updated_at": "2026-10-24T19:08:16Z",
-    "url": "https://github.com/prasad-kavuri/prasad-portfolio"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 42,
-    "updated_at": "2026-10-24T18:54:42Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
@@ -108,15 +153,6 @@
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
-    "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
-    "id": "holetz/quenching",
-    "language": "Python",
-    "name": "holetz/quenching",
-    "stars": 1,
-    "updated_at": "2026-10-24T19:13:32Z",
-    "url": "https://github.com/holetz/quenching"
-  },
-  {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
     "id": "cloudrift-ai/emmy",
     "language": "Python",
@@ -124,15 +160,6 @@
     "stars": 117,
     "updated_at": "2026-10-24T19:03:07Z",
     "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Open-source Model Context Protocol (MCP) security gateway and AI agent control plane for LLMOps/AIOps, with prompt-injec",
-    "id": "gaurav-gs7/Judikt",
-    "language": "Python",
-    "name": "gaurav-gs7/Judikt",
-    "stars": 0,
-    "updated_at": "2026-10-24T18:45:59Z",
-    "url": "https://github.com/gaurav-gs7/Judikt"
   },
   {
     "description": "Enterprise Scale AIFactory (esml) - on Azure",
@@ -178,15 +205,6 @@
     "stars": 9,
     "updated_at": "2026-10-24T18:20:50Z",
     "url": "https://github.com/digline/digline"
-  },
-  {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-10-24T19:08:55Z",
-    "url": "https://github.com/redevops-io/agentic-os"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -268,15 +286,6 @@
     "stars": 42,
     "updated_at": "2026-10-24T17:49:06Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-24T17:47:46Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "The open standard AI gateway \u2014 PII protection, audit, reliability & cost control as composable interceptors. Same API in",
@@ -365,7 +374,7 @@
     "language": "Python",
     "name": "luetzey/who2be",
     "stars": 0,
-    "updated_at": "2026-10-24T18:11:02Z",
+    "updated_at": "2026-10-24T19:30:00Z",
     "url": "https://github.com/luetzey/who2be"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-24T16:41:49Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio",
-    "id": "naim-munshi/metriqen-llm-serving-optimization",
-    "language": "Python",
-    "name": "naim-munshi/metriqen-llm-serving-optimization",
-    "stars": 0,
-    "updated_at": "2026-10-24T16:38:18Z",
-    "url": "https://github.com/naim-munshi/metriqen-llm-serving-optimization"
   }
 ]
