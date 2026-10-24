@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-24 06:45 UTC
+> ⏰ Last updated: 2026-10-24 07:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,25 +42,25 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [ArtVsMark/Engineering-Incidents-Playbook](https://github.com/ArtVsMark/Engineering-Incidents-Playbook) | 5 | Python | 2026-10-24 | Правила работы с Claude Code и конвейером GitHub — каждое с историей поломки, из которой выросло · Incident-based rules  |
-| 2 | [tonyweckstrom1987/agentti-pohja](https://github.com/tonyweckstrom1987/agentti-pohja) | 0 | Python | 2026-10-24 | Template for small, safe AI agents in pure Python: cost caps in code, tool-less LLM client, "I don't know" as a valid re |
-| 3 | [esanmohammad/Anvil](https://github.com/esanmohammad/Anvil) | 20 | TypeScript | 2026-10-24 | Provider-agnostic AI dev pipeline: clarify → plan → build → review → PR across your repos, mixing LLM providers per stag |
-| 4 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 61936 | Python | 2026-10-24 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 5 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-24 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 6 | [wangmengchang/llm](https://github.com/wangmengchang/llm) | 1 | Rust | 2026-10-24 | LLM, Local LLM Manager, a TUI for setting up LLM service |
-| 7 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 36276 | TypeScript | 2026-10-24 | 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform. |
-| 8 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 8 | Rust | 2026-10-24 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
-| 9 | [cloudrift-ai/emmy](https://github.com/cloudrift-ai/emmy) | 116 | Python | 2026-10-24 | Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel  |
-| 10 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 42 | Go | 2026-10-24 | Agentic Runtime |
-| 11 | [cubxxw/blog](https://github.com/cubxxw/blog) | 30 | JavaScript | 2026-10-24 | 顶级审美的个人博客！！！写一些关于 AI、Agent、技术、产品、营销、一些生活思考，个人成长类的精文 |
-| 12 | [stevecrates489-commits/tokcalc](https://github.com/stevecrates489-commits/tokcalc) | 1 | TypeScript | 2026-10-24 | Plan your LLM deployment before you rent the GPUs. Open-source capacity planner: 39 models, 31 GPUs, 16 quants, transpar |
-| 13 | [toxicwind/ranch](https://github.com/toxicwind/ranch) | 0 | Rust | 2026-10-24 | The self-hosted LLM estate in one monorepo — local model serving, cloud provider routing, MCP gateway, build jobs. All O |
-| 14 | [sergey-homenko/llm_cost_tracker](https://github.com/sergey-homenko/llm_cost_tracker) | 45 | Ruby | 2026-10-24 | LLM spend tracking and budgets for Rails — by user, feature, or any tag, in your own database, no proxy. |
-| 15 | [vocion/vocion-core](https://github.com/vocion/vocion-core) | 2 | TypeScript | 2026-10-24 | Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review,  |
-| 16 | [TechNaom/agentic-content-engine-design](https://github.com/TechNaom/agentic-content-engine-design) | 0 | — | 2026-10-24 | Design for a multi-agent content engine on self-hosted open-weight models (vLLM on serverless GPU), measured against a p |
-| 17 | [flyer103/vadis](https://github.com/flyer103/vadis) | 0 | Rust | 2026-10-24 | Local-first LLM gateway for codex / hermes / Claude Code: bytes go upstream unchanged, the prompt cache keeps hitting, a |
-| 18 | [luetzey/who2be](https://github.com/luetzey/who2be) | 0 | Python | 2026-10-24 | Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se |
-| 19 | [sarkars/agent-failure-modes](https://github.com/sarkars/agent-failure-modes) | 1 | Python | 2026-10-24 | Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a |
+| 1 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 42 | Go | 2026-10-24 | Agentic Runtime |
+| 2 | [cubxxw/blog](https://github.com/cubxxw/blog) | 30 | JavaScript | 2026-10-24 | 顶级审美的个人博客！！！写一些关于 AI、Agent、技术、产品、营销、一些生活思考，个人成长类的精文 |
+| 3 | [sarkars/agent-failure-modes](https://github.com/sarkars/agent-failure-modes) | 1 | Python | 2026-10-24 | Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a |
+| 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-24 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 5 | [ArtVsMark/Engineering-Incidents-Playbook](https://github.com/ArtVsMark/Engineering-Incidents-Playbook) | 5 | Python | 2026-10-24 | Правила работы с Claude Code и конвейером GitHub — каждое с историей поломки, из которой выросло · Incident-based rules  |
+| 6 | [tonyweckstrom1987/agentti-pohja](https://github.com/tonyweckstrom1987/agentti-pohja) | 0 | Python | 2026-10-24 | Template for small, safe AI agents in pure Python: cost caps in code, tool-less LLM client, "I don't know" as a valid re |
+| 7 | [esanmohammad/Anvil](https://github.com/esanmohammad/Anvil) | 20 | TypeScript | 2026-10-24 | Provider-agnostic AI dev pipeline: clarify → plan → build → review → PR across your repos, mixing LLM providers per stag |
+| 8 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 61936 | Python | 2026-10-24 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 9 | [wangmengchang/llm](https://github.com/wangmengchang/llm) | 1 | Rust | 2026-10-24 | LLM, Local LLM Manager, a TUI for setting up LLM service |
+| 10 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 36276 | TypeScript | 2026-10-24 | 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform. |
+| 11 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 8 | Rust | 2026-10-24 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
+| 12 | [cloudrift-ai/emmy](https://github.com/cloudrift-ai/emmy) | 116 | Python | 2026-10-24 | Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel  |
+| 13 | [stevecrates489-commits/tokcalc](https://github.com/stevecrates489-commits/tokcalc) | 1 | TypeScript | 2026-10-24 | Plan your LLM deployment before you rent the GPUs. Open-source capacity planner: 39 models, 31 GPUs, 16 quants, transpar |
+| 14 | [toxicwind/ranch](https://github.com/toxicwind/ranch) | 0 | Rust | 2026-10-24 | The self-hosted LLM estate in one monorepo — local model serving, cloud provider routing, MCP gateway, build jobs. All O |
+| 15 | [sergey-homenko/llm_cost_tracker](https://github.com/sergey-homenko/llm_cost_tracker) | 45 | Ruby | 2026-10-24 | LLM spend tracking and budgets for Rails — by user, feature, or any tag, in your own database, no proxy. |
+| 16 | [vocion/vocion-core](https://github.com/vocion/vocion-core) | 2 | TypeScript | 2026-10-24 | Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review,  |
+| 17 | [TechNaom/agentic-content-engine-design](https://github.com/TechNaom/agentic-content-engine-design) | 0 | — | 2026-10-24 | Design for a multi-agent content engine on self-hosted open-weight models (vLLM on serverless GPU), measured against a p |
+| 18 | [flyer103/vadis](https://github.com/flyer103/vadis) | 0 | Rust | 2026-10-24 | Local-first LLM gateway for codex / hermes / Claude Code: bytes go upstream unchanged, the prompt cache keeps hitting, a |
+| 19 | [luetzey/who2be](https://github.com/luetzey/who2be) | 0 | Python | 2026-10-24 | Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se |
 | 20 | [hamidettefagh/two-gates](https://github.com/hamidettefagh/two-gates) | 0 | JavaScript | 2026-10-24 | A Claude Code plugin that installs the two-gate method for production AI agents: a design gate, a ship gate, and an inci |
 | 21 | [veritasfuji-japan/veritas_os](https://github.com/veritasfuji-japan/veritas_os) | 42 | Python | 2026-10-24 | AI agent execution governance: pre-effect authorization, single-use permissions, policy enforcement, and verifiable reco |
 | 22 | [Analytical-Tradecraft-Technologies/llm-temporal-worker](https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker) | 1 | Go | 2026-10-24 | Temporal workers and clients for wrapping access to different LLMs |
