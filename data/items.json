@@ -1,11 +1,56 @@
 [
   {
+    "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
+    "id": "prasad-kavuri/prasad-portfolio",
+    "language": "TypeScript",
+    "name": "prasad-kavuri/prasad-portfolio",
+    "stars": 0,
+    "updated_at": "2026-10-24T21:26:24Z",
+    "url": "https://github.com/prasad-kavuri/prasad-portfolio"
+  },
+  {
+    "description": "Linux VM agent for AcornOps, providing outbound system connectivity, host inspection, and controlled VM operations.",
+    "id": "acornops/agentv",
+    "language": "TypeScript",
+    "name": "acornops/agentv",
+    "stars": 1,
+    "updated_at": "2026-10-24T21:22:54Z",
+    "url": "https://github.com/acornops/agentv"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61974,
+    "updated_at": "2026-10-24T21:29:00Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "",
+    "id": "ainsel-project/ainsel",
+    "language": "Go",
+    "name": "ainsel-project/ainsel",
+    "stars": 2,
+    "updated_at": "2026-10-24T21:20:58Z",
+    "url": "https://github.com/ainsel-project/ainsel"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-10-24T21:20:38Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
     "description": "Switch AI models without breaking your product: find every model your code calls and when it retires, turn real usage lo",
     "id": "DeChuks-hub/llmshift",
     "language": "Python",
     "name": "DeChuks-hub/llmshift",
     "stars": 0,
-    "updated_at": "2026-10-24T21:11:44Z",
+    "updated_at": "2026-10-24T21:15:26Z",
     "url": "https://github.com/DeChuks-hub/llmshift"
   },
   {
@@ -14,8 +59,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-10-24T21:10:58Z",
+    "updated_at": "2026-10-24T21:15:24Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Python",
+    "name": "alibaba/rtp-llm",
+    "stars": 1372,
+    "updated_at": "2026-10-24T21:12:29Z",
+    "url": "https://github.com/alibaba/rtp-llm"
   },
   {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
@@ -23,7 +77,7 @@
     "language": "Python",
     "name": "llmspendguard/llm-spendguard",
     "stars": 0,
-    "updated_at": "2026-10-24T21:10:42Z",
+    "updated_at": "2026-10-24T21:29:34Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
@@ -54,15 +108,6 @@
     "url": "https://github.com/RobinaMirbahar/cloudguard-gemma-agent"
   },
   {
-    "description": "Linux VM agent for AcornOps, providing outbound system connectivity, host inspection, and controlled VM operations.",
-    "id": "acornops/agentv",
-    "language": "TypeScript",
-    "name": "acornops/agentv",
-    "stars": 1,
-    "updated_at": "2026-10-24T21:05:01Z",
-    "url": "https://github.com/acornops/agentv"
-  },
-  {
     "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
     "id": "burakdede/lorepack",
     "language": "TypeScript",
@@ -70,15 +115,6 @@
     "stars": 4,
     "updated_at": "2026-10-24T21:04:27Z",
     "url": "https://github.com/burakdede/lorepack"
-  },
-  {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-10-24T21:14:24Z",
-    "url": "https://github.com/redevops-io/agentic-os"
   },
   {
     "description": "A hands-on library for DevOps, Cloud, and AI engineers: real production scenarios for AWS, Kubernetes, Docker, and LLMOp",
@@ -106,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T20:56:41Z",
     "url": "https://github.com/brutal-45/Nexus-LLM"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61973,
-    "updated_at": "2026-10-24T21:12:07Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
@@ -221,17 +248,8 @@
     "language": "Python",
     "name": "thequantumfalcon/kry",
     "stars": 1,
-    "updated_at": "2026-10-24T20:14:34Z",
+    "updated_at": "2026-10-24T21:21:11Z",
     "url": "https://github.com/thequantumfalcon/kry"
-  },
-  {
-    "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
-    "id": "prasad-kavuri/prasad-portfolio",
-    "language": "TypeScript",
-    "name": "prasad-kavuri/prasad-portfolio",
-    "stars": 0,
-    "updated_at": "2026-10-24T20:16:46Z",
-    "url": "https://github.com/prasad-kavuri/prasad-portfolio"
   },
   {
     "description": "A control layer that decides how an LLM should speak before it speaks",
@@ -320,7 +338,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-24T21:11:56Z",
+    "updated_at": "2026-10-24T21:21:56Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -356,7 +374,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 117,
-    "updated_at": "2026-10-24T21:08:54Z",
+    "updated_at": "2026-10-24T21:26:11Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-24T18:04:53Z",
     "url": "https://github.com/metergraph/metergraph"
-  },
-  {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-24T17:56:46Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
-    "description": "AI agent execution governance: pre-effect authorization, single-use permissions, policy enforcement, and verifiable reco",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 42,
-    "updated_at": "2026-10-24T17:49:06Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
   }
 ]
