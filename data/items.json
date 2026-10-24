@@ -1,5 +1,113 @@
 [
   {
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
+    "language": "Python",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 53,
+    "updated_at": "2026-10-24T15:29:24Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
+    "description": "Provider-agnostic AI dev pipeline: clarify \u2192 plan \u2192 build \u2192 review \u2192 PR across your repos, mixing LLM providers per stag",
+    "id": "esanmohammad/Anvil",
+    "language": "TypeScript",
+    "name": "esanmohammad/Anvil",
+    "stars": 20,
+    "updated_at": "2026-10-24T15:28:26Z",
+    "url": "https://github.com/esanmohammad/Anvil"
+  },
+  {
+    "description": "Agent skills for AI architects: MCP, orchestration, model routing, evals. For Claude Code, Cursor, Codex. Install: npx s",
+    "id": "frankxai/skills",
+    "language": "JavaScript",
+    "name": "frankxai/skills",
+    "stars": 2,
+    "updated_at": "2026-10-24T15:27:31Z",
+    "url": "https://github.com/frankxai/skills"
+  },
+  {
+    "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
+    "id": "holetz/quenching",
+    "language": "Python",
+    "name": "holetz/quenching",
+    "stars": 1,
+    "updated_at": "2026-10-24T15:30:11Z",
+    "url": "https://github.com/holetz/quenching"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 42,
+    "updated_at": "2026-10-24T15:25:50Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Agent Skills as a Memory Layer",
+    "id": "memodb-io/Acontext",
+    "language": "JavaScript",
+    "name": "memodb-io/Acontext",
+    "stars": 3696,
+    "updated_at": "2026-10-24T15:23:36Z",
+    "url": "https://github.com/memodb-io/Acontext"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 117,
+    "updated_at": "2026-10-24T15:23:46Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 96,
+    "updated_at": "2026-10-24T15:22:25Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "AI Radar | \u57fa\u4e8e\u8bc1\u636e\u7684 AI \u6280\u672f\u7814\u7a76\u4e0e\u9009\u578b\u5e73\u53f0\u3002React + FastAPI\uff0c\u63d0\u4f9b\u53ef\u6838\u9a8c\u5b98\u65b9\u8d44\u6599\u4e0e\u53ef\u590d\u73b0\u4f5c\u54c1\u96c6\u5165\u53e3\u3002",
+    "id": "xuerp/ai-knowledge-explorer",
+    "language": "Python",
+    "name": "xuerp/ai-knowledge-explorer",
+    "stars": 0,
+    "updated_at": "2026-10-24T15:17:49Z",
+    "url": "https://github.com/xuerp/ai-knowledge-explorer"
+  },
+  {
+    "description": "Shared agent harness (tools, permissions, evals, guardrails) for redevops.io Agentic Business OS modules. AGPL-3.0.",
+    "id": "redevops-io/agent-harness",
+    "language": "Python",
+    "name": "redevops-io/agent-harness",
+    "stars": 0,
+    "updated_at": "2026-10-24T15:17:30Z",
+    "url": "https://github.com/redevops-io/agent-harness"
+  },
+  {
+    "description": "Context Runtime \u2014 a database query planner for LLM context. Decides what a model sees before it answers; plans it, runs ",
+    "id": "redevops-io/context-runtime",
+    "language": "Python",
+    "name": "redevops-io/context-runtime",
+    "stars": 12,
+    "updated_at": "2026-10-24T15:16:26Z",
+    "url": "https://github.com/redevops-io/context-runtime"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-24T15:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -27,15 +135,6 @@
     "url": "https://github.com/toxicwind/ranch"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 42,
-    "updated_at": "2026-10-24T15:05:45Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Self-hostable AI token pools \u2014 govern your org's AI usage with per-member keys, quotas, and leak detection; or deposit s",
     "id": "Phat1911/Tributary",
     "language": "Rust",
@@ -43,24 +142,6 @@
     "stars": 1,
     "updated_at": "2026-10-24T15:02:20Z",
     "url": "https://github.com/Phat1911/Tributary"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-24T15:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 96,
-    "updated_at": "2026-10-24T15:08:10Z",
-    "url": "https://github.com/mloda-ai/mloda"
   },
   {
     "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
@@ -76,9 +157,18 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 36330,
+    "stars": 36334,
     "updated_at": "2026-10-24T14:59:16Z",
     "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11985,
+    "updated_at": "2026-10-24T14:57:59Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "The operations layer for your local LLM stack",
@@ -126,15 +216,6 @@
     "url": "https://github.com/Chris0Jeky/llm-release-gate"
   },
   {
-    "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
-    "id": "holetz/quenching",
-    "language": "Python",
-    "name": "holetz/quenching",
-    "stars": 1,
-    "updated_at": "2026-10-24T15:10:03Z",
-    "url": "https://github.com/holetz/quenching"
-  },
-  {
     "description": "Keras based framework for neuro-symbolic LM systems",
     "id": "SynaLinks/synalinks",
     "language": "Python",
@@ -162,15 +243,6 @@
     "url": "https://github.com/storm-software/mindctl"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11983,
-    "updated_at": "2026-10-24T14:57:59Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "12 production patterns around one AI support agent (gateway, admission control, guardrails, router ladder, semantic cach",
     "id": "jagadishmazure-jpg/Jagadish-ai-system-design-at-scale",
     "language": "Python",
@@ -187,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T14:39:44Z",
     "url": "https://github.com/cluster1900/ai-engineering-interview-questions-CN"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 117,
-    "updated_at": "2026-10-24T14:41:57Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
     "description": "OpenTelemetry Instrumentation for AI Observability",
@@ -266,7 +329,7 @@
     "language": "Python",
     "name": "overmind-core/overmind",
     "stars": 679,
-    "updated_at": "2026-10-24T14:28:14Z",
+    "updated_at": "2026-10-24T15:18:35Z",
     "url": "https://github.com/overmind-core/overmind"
   },
   {
@@ -324,24 +387,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Agent Skills as a Memory Layer",
-    "id": "memodb-io/Acontext",
-    "language": "JavaScript",
-    "name": "memodb-io/Acontext",
-    "stars": 3696,
-    "updated_at": "2026-10-24T14:12:12Z",
-    "url": "https://github.com/memodb-io/Acontext"
-  },
-  {
-    "description": "Context Runtime \u2014 a database query planner for LLM context. Decides what a model sees before it answers; plans it, runs ",
-    "id": "redevops-io/context-runtime",
-    "language": "Python",
-    "name": "redevops-io/context-runtime",
-    "stars": 12,
-    "updated_at": "2026-10-24T15:06:49Z",
-    "url": "https://github.com/redevops-io/context-runtime"
-  },
-  {
     "description": "This is the Agentic Framework for developing the mechanical design from scratch using Text-to-CAD methodology and MCP To",
     "id": "rikin-2911/agentic-cad",
     "language": "Python",
@@ -378,15 +423,6 @@
     "url": "https://github.com/redevops-io/redevops-rag"
   },
   {
-    "description": "Shared agent harness (tools, permissions, evals, guardrails) for redevops.io Agentic Business OS modules. AGPL-3.0.",
-    "id": "redevops-io/agent-harness",
-    "language": "Python",
-    "name": "redevops-io/agent-harness",
-    "stars": 0,
-    "updated_at": "2026-10-24T15:06:48Z",
-    "url": "https://github.com/redevops-io/agent-harness"
-  },
-  {
     "description": "Self-demonstrating ReDevOps \u00d7 AWS deploy-and-operate demo: one prompt in Projects provisions, secures, monitors and self",
     "id": "redevops-io/redevops-demo",
     "language": "Python",
@@ -409,44 +445,8 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 9615,
+    "stars": 9616,
     "updated_at": "2026-10-24T13:51:23Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
-    "id": "burakdede/lorepack",
-    "language": "TypeScript",
-    "name": "burakdede/lorepack",
-    "stars": 4,
-    "updated_at": "2026-10-24T13:49:35Z",
-    "url": "https://github.com/burakdede/lorepack"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-10-24T13:48:41Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "Replayable OpenCSG model/price snapshot: curl /v1/models with no key, plus self-verifying checks",
-    "id": "happy520ai/opencsg-model-pricing",
-    "language": "JavaScript",
-    "name": "happy520ai/opencsg-model-pricing",
-    "stars": 0,
-    "updated_at": "2026-10-24T13:28:15Z",
-    "url": "https://github.com/happy520ai/opencsg-model-pricing"
-  },
-  {
-    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
-    "id": "digline/digline",
-    "language": "Python",
-    "name": "digline/digline",
-    "stars": 9,
-    "updated_at": "2026-10-24T13:24:28Z",
-    "url": "https://github.com/digline/digline"
   }
 ]
