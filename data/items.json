@@ -1,5 +1,68 @@
 [
   {
+    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
+    "id": "luetzey/who2be",
+    "language": "Python",
+    "name": "luetzey/who2be",
+    "stars": 0,
+    "updated_at": "2026-10-24T07:59:46Z",
+    "url": "https://github.com/luetzey/who2be"
+  },
+  {
+    "description": "Plan your LLM deployment before you rent the GPUs. Open-source capacity planner: 39 models, 31 GPUs, 16 quants, transpar",
+    "id": "stevecrates489-commits/tokcalc",
+    "language": "TypeScript",
+    "name": "stevecrates489-commits/tokcalc",
+    "stars": 1,
+    "updated_at": "2026-10-24T07:59:18Z",
+    "url": "https://github.com/stevecrates489-commits/tokcalc"
+  },
+  {
+    "description": "\ud83d\udc33\ud83d\udc0d OCI Images for Machine Learning. Best for MLOps, LLMOps, and developing models or work with weights locally.",
+    "id": "nekomeowww/oci-ml",
+    "language": "Dockerfile",
+    "name": "nekomeowww/oci-ml",
+    "stars": 0,
+    "updated_at": "2026-10-24T07:58:49Z",
+    "url": "https://github.com/nekomeowww/oci-ml"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 3004,
+    "updated_at": "2026-10-24T07:48:48Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-10-24T07:48:19Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-24T07:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61941,
+    "updated_at": "2026-10-24T07:42:39Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper",
     "id": "acornops/acornops-deployment",
     "language": "JavaScript",
@@ -27,20 +90,11 @@
     "url": "https://github.com/thequantumfalcon/kry"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-24T07:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Scheduled agent reviews for your repositories, defined in Git. Approved access, sandboxed runs, a full audit trail.",
     "id": "piotrekno1/second-shift",
     "language": "Python",
     "name": "piotrekno1/second-shift",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-10-24T07:29:52Z",
     "url": "https://github.com/piotrekno1/second-shift"
   },
@@ -61,15 +115,6 @@
     "stars": 8,
     "updated_at": "2026-10-24T07:24:07Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61940,
-    "updated_at": "2026-10-24T07:42:39Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -104,7 +149,7 @@
     "language": "Python",
     "name": "Kkartik14/Earshot",
     "stars": 2,
-    "updated_at": "2026-10-24T07:45:09Z",
+    "updated_at": "2026-10-24T07:48:50Z",
     "url": "https://github.com/Kkartik14/Earshot"
   },
   {
@@ -113,7 +158,7 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 42,
-    "updated_at": "2026-10-24T07:18:19Z",
+    "updated_at": "2026-10-24T07:58:20Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
@@ -185,7 +230,7 @@
     "language": "Python",
     "name": "sarkars/agent-failure-modes",
     "stars": 1,
-    "updated_at": "2026-10-24T07:34:06Z",
+    "updated_at": "2026-10-24T07:55:15Z",
     "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
@@ -261,15 +306,6 @@
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
-    "description": "Plan your LLM deployment before you rent the GPUs. Open-source capacity planner: 39 models, 31 GPUs, 16 quants, transpar",
-    "id": "stevecrates489-commits/tokcalc",
-    "language": "TypeScript",
-    "name": "stevecrates489-commits/tokcalc",
-    "stars": 1,
-    "updated_at": "2026-10-24T06:16:16Z",
-    "url": "https://github.com/stevecrates489-commits/tokcalc"
-  },
-  {
     "description": "LLM spend tracking and budgets for Rails \u2014 by user, feature, or any tag, in your own database, no proxy.",
     "id": "sergey-homenko/llm_cost_tracker",
     "language": "Ruby",
@@ -304,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T06:06:32Z",
     "url": "https://github.com/flyer103/vadis"
-  },
-  {
-    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
-    "id": "luetzey/who2be",
-    "language": "Python",
-    "name": "luetzey/who2be",
-    "stars": 0,
-    "updated_at": "2026-10-24T07:41:01Z",
-    "url": "https://github.com/luetzey/who2be"
   },
   {
     "description": "A Claude Code plugin that installs the two-gate method for production AI agents: a design gate, a ship gate, and an inci",
@@ -358,15 +385,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T05:47:03Z",
     "url": "https://github.com/happy520ai/gateway-price-check"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-10-24T07:43:54Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
     "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
@@ -430,23 +448,5 @@
     "stars": 5,
     "updated_at": "2026-10-24T04:04:10Z",
     "url": "https://github.com/tonydzi/verbatim-citation-gate"
-  },
-  {
-    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
-    "id": "alibaba/rtp-llm",
-    "language": "Python",
-    "name": "alibaba/rtp-llm",
-    "stars": 1371,
-    "updated_at": "2026-10-24T07:33:39Z",
-    "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": ".NET 10 library for LLM apps: one ITextClient that routes and fails over across OpenAI, Azure OpenAI, OpenRouter, Ollama",
-    "id": "JiarongGu/Lyntai",
-    "language": "C#",
-    "name": "JiarongGu/Lyntai",
-    "stars": 2,
-    "updated_at": "2026-10-24T03:44:38Z",
-    "url": "https://github.com/JiarongGu/Lyntai"
   }
 ]
