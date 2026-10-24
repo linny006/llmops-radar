@@ -1,12 +1,111 @@
 [
   {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 96,
+    "updated_at": "2026-10-24T15:00:10Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-10-24T14:59:25Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "The operations layer for your local LLM stack",
+    "id": "ndom91/llama-dash",
+    "language": "TypeScript",
+    "name": "ndom91/llama-dash",
+    "stars": 26,
+    "updated_at": "2026-10-24T14:57:29Z",
+    "url": "https://github.com/ndom91/llama-dash"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 32,
+    "updated_at": "2026-10-24T14:57:13Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36326,
+    "updated_at": "2026-10-24T14:59:16Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-24T14:56:23Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "Model-agnostic Agent Skill: keep multiple hypotheses alive, test them against evidence, revive alternatives, collapse to",
+    "id": "Furox-Art/quantum-reasoning-skill",
+    "language": "Python",
+    "name": "Furox-Art/quantum-reasoning-skill",
+    "stars": 4,
+    "updated_at": "2026-10-24T14:55:03Z",
+    "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
+  },
+  {
     "description": "An open-source CLI plus GitHub Action that prevents unsafe prompt, model, retrieval, tool, or configuration changes from",
     "id": "Chris0Jeky/llm-release-gate",
     "language": "Python",
     "name": "Chris0Jeky/llm-release-gate",
     "stars": 1,
-    "updated_at": "2026-10-24T14:42:44Z",
+    "updated_at": "2026-10-24T14:54:58Z",
     "url": "https://github.com/Chris0Jeky/llm-release-gate"
+  },
+  {
+    "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
+    "id": "holetz/quenching",
+    "language": "Python",
+    "name": "holetz/quenching",
+    "stars": 1,
+    "updated_at": "2026-10-24T14:58:28Z",
+    "url": "https://github.com/holetz/quenching"
+  },
+  {
+    "description": "Keras based framework for neuro-symbolic LM systems",
+    "id": "SynaLinks/synalinks",
+    "language": "Python",
+    "name": "SynaLinks/synalinks",
+    "stars": 463,
+    "updated_at": "2026-10-24T14:50:12Z",
+    "url": "https://github.com/SynaLinks/synalinks"
+  },
+  {
+    "description": "\ud83d\ude80 24-week AI Engineering journey with Python, LLM APIs, MCP servers & production patterns. Streaming clients, multi-prov",
+    "id": "skourav527/AI-for-architect",
+    "language": "Python",
+    "name": "skourav527/AI-for-architect",
+    "stars": 1,
+    "updated_at": "2026-10-24T14:47:15Z",
+    "url": "https://github.com/skourav527/AI-for-architect"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-24T14:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83e\udde0\u200b  An LLM router that uses built-in logic and system 1 decision models to intelligently route requests to the appropria",
@@ -14,7 +113,7 @@
     "language": "JavaScript",
     "name": "storm-software/mindctl",
     "stars": 0,
-    "updated_at": "2026-10-24T14:42:28Z",
+    "updated_at": "2026-10-24T14:46:07Z",
     "url": "https://github.com/storm-software/mindctl"
   },
   {
@@ -23,8 +122,17 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11983,
-    "updated_at": "2026-10-24T14:43:07Z",
+    "updated_at": "2026-10-24T14:57:59Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28515,
+    "updated_at": "2026-10-24T14:41:13Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "12 production patterns around one AI support agent (gateway, admission control, guardrails, router ladder, semantic cach",
@@ -32,7 +140,7 @@
     "language": "Python",
     "name": "jagadishmazure-jpg/Jagadish-ai-system-design-at-scale",
     "stars": 0,
-    "updated_at": "2026-10-24T14:40:14Z",
+    "updated_at": "2026-10-24T14:53:36Z",
     "url": "https://github.com/jagadishmazure-jpg/Jagadish-ai-system-design-at-scale"
   },
   {
@@ -43,24 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T14:39:44Z",
     "url": "https://github.com/cluster1900/ai-engineering-interview-questions-CN"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 96,
-    "updated_at": "2026-10-24T14:37:38Z",
-    "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
-    "id": "holetz/quenching",
-    "language": "Python",
-    "name": "holetz/quenching",
-    "stars": 1,
-    "updated_at": "2026-10-24T14:42:59Z",
-    "url": "https://github.com/holetz/quenching"
   },
   {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
@@ -88,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T14:31:50Z",
     "url": "https://github.com/gaurav-gs7/Judikt"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-24T14:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI agent execution governance: pre-effect authorization, single-use permissions, policy enforcement, and verifiable reco",
@@ -288,24 +369,6 @@
     "url": "https://github.com/redevops-io/agent-harness"
   },
   {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-10-24T14:27:08Z",
-    "url": "https://github.com/redevops-io/agentic-os"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28514,
-    "updated_at": "2026-10-24T14:41:13Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "Self-demonstrating ReDevOps \u00d7 AWS deploy-and-operate demo: one prompt in Projects provisions, secures, monitors and self",
     "id": "redevops-io/redevops-demo",
     "language": "Python",
@@ -313,24 +376,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T14:02:05Z",
     "url": "https://github.com/redevops-io/redevops-demo"
-  },
-  {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-24T13:58:51Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 32,
-    "updated_at": "2026-10-24T13:55:53Z",
-    "url": "https://github.com/SourceShift/mini-ork"
   },
   {
     "description": "Fully local RAG: hybrid BM25 + vector retrieval (RRF, sqlite-vec), local reranker, cited answers from open-weight models",
@@ -403,50 +448,5 @@
     "stars": 61953,
     "updated_at": "2026-10-24T13:22:55Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "",
-    "id": "coffeehc/xagent-docs",
-    "language": "TypeScript",
-    "name": "coffeehc/xagent-docs",
-    "stars": 1,
-    "updated_at": "2026-10-24T13:22:04Z",
-    "url": "https://github.com/coffeehc/xagent-docs"
-  },
-  {
-    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
-    "id": "srjn45/warden",
-    "language": "Go",
-    "name": "srjn45/warden",
-    "stars": 2,
-    "updated_at": "2026-10-24T14:33:53Z",
-    "url": "https://github.com/srjn45/warden"
-  },
-  {
-    "description": "Keras based framework for neuro-symbolic LM systems",
-    "id": "SynaLinks/synalinks",
-    "language": "Python",
-    "name": "SynaLinks/synalinks",
-    "stars": 463,
-    "updated_at": "2026-10-24T13:09:41Z",
-    "url": "https://github.com/SynaLinks/synalinks"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-10-24T13:06:33Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
-    "id": "prasad-kavuri/prasad-portfolio",
-    "language": "TypeScript",
-    "name": "prasad-kavuri/prasad-portfolio",
-    "stars": 0,
-    "updated_at": "2026-10-24T12:57:12Z",
-    "url": "https://github.com/prasad-kavuri/prasad-portfolio"
   }
 ]
