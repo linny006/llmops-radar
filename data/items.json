@@ -1,12 +1,93 @@
 [
   {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-10-24T09:42:46Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "Open-source voice observability for call timing, transcripts, recordings, and evidence-backed incident analysis.",
+    "id": "Kkartik14/Earshot",
+    "language": "Python",
+    "name": "Kkartik14/Earshot",
+    "stars": 2,
+    "updated_at": "2026-10-24T09:39:44Z",
+    "url": "https://github.com/Kkartik14/Earshot"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28513,
+    "updated_at": "2026-10-24T09:45:01Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Historical standalone Agentic repository. Active development moved to pyfly.agentic in pyfly v26.10.08. See native docum",
+    "id": "fireflyframework/fireflyframework-agentic",
+    "language": "Python",
+    "name": "fireflyframework/fireflyframework-agentic",
+    "stars": 4,
+    "updated_at": "2026-10-24T09:37:53Z",
+    "url": "https://github.com/fireflyframework/fireflyframework-agentic"
+  },
+  {
+    "description": "Self-hosted AI orchestration with policy, approvals, PII controls, audit evidence, retrieval, and governed MCP tools",
+    "id": "Abillify/atf",
+    "language": "TypeScript",
+    "name": "Abillify/atf",
+    "stars": 5,
+    "updated_at": "2026-10-24T09:41:57Z",
+    "url": "https://github.com/Abillify/atf"
+  },
+  {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
     "id": "mloda-ai/mloda",
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 96,
-    "updated_at": "2026-10-24T09:25:30Z",
+    "updated_at": "2026-10-24T09:35:18Z",
     "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-10-24T09:34:38Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 24,
+    "updated_at": "2026-10-24T09:31:17Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "A self-updating, auto-classified map of the GenAI engineering stack: agents, MCP, memory, RAG, evals, LLMOps, AI securit",
+    "id": "alebgl77/awesome-ai-architect",
+    "language": "Python",
+    "name": "alebgl77/awesome-ai-architect",
+    "stars": 0,
+    "updated_at": "2026-10-24T09:31:14Z",
+    "url": "https://github.com/alebgl77/awesome-ai-architect"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-24T09:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Agentic Runtime",
@@ -16,6 +97,15 @@
     "stars": 42,
     "updated_at": "2026-10-24T09:25:21Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8961,
+    "updated_at": "2026-10-24T09:41:45Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Self-hosted prompt library and template editor with an MCP server for ChatGPT. Save prompts as sections with {{variables",
@@ -54,33 +144,6 @@
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-24T09:15:23Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28513,
-    "updated_at": "2026-10-24T09:26:48Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-10-24T09:12:17Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
     "id": "toxicwind/ranch",
     "language": "Rust",
@@ -95,7 +158,7 @@
     "language": "Python",
     "name": "JehanneDussert/govllm",
     "stars": 31,
-    "updated_at": "2026-10-24T09:22:20Z",
+    "updated_at": "2026-10-24T09:38:05Z",
     "url": "https://github.com/JehanneDussert/govllm"
   },
   {
@@ -115,15 +178,6 @@
     "stars": 399,
     "updated_at": "2026-10-24T09:30:10Z",
     "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-10-24T08:59:52Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
@@ -158,7 +212,7 @@
     "language": "Python",
     "name": "thequantumfalcon/kry",
     "stars": 1,
-    "updated_at": "2026-10-24T08:55:05Z",
+    "updated_at": "2026-10-24T09:33:53Z",
     "url": "https://github.com/thequantumfalcon/kry"
   },
   {
@@ -166,8 +220,8 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 61941,
-    "updated_at": "2026-10-24T08:52:10Z",
+    "stars": 61942,
+    "updated_at": "2026-10-24T09:34:16Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -212,7 +266,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 212,
-    "updated_at": "2026-10-24T09:22:08Z",
+    "updated_at": "2026-10-24T09:39:52Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -220,7 +274,7 @@
     "id": "mozilla-ai/otari",
     "language": "Python",
     "name": "mozilla-ai/otari",
-    "stars": 733,
+    "stars": 734,
     "updated_at": "2026-10-24T08:30:28Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
@@ -261,15 +315,6 @@
     "url": "https://github.com/andrewbakercloudscale/claude-code-cost-sidebar"
   },
   {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 24,
-    "updated_at": "2026-10-24T08:19:12Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
     "description": "Plan your LLM deployment before you rent the GPUs. Open-source capacity planner: 39 models, 31 GPUs, 16 quants, transpar",
     "id": "stevecrates489-commits/tokcalc",
     "language": "TypeScript",
@@ -304,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T08:07:10Z",
     "url": "https://github.com/gaurav-gs7/Judikt"
-  },
-  {
-    "description": "Open-source voice observability for call timing, transcripts, recordings, and evidence-backed incident analysis.",
-    "id": "Kkartik14/Earshot",
-    "language": "Python",
-    "name": "Kkartik14/Earshot",
-    "stars": 2,
-    "updated_at": "2026-10-24T08:57:50Z",
-    "url": "https://github.com/Kkartik14/Earshot"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
@@ -412,41 +448,5 @@
     "stars": 42,
     "updated_at": "2026-10-24T07:58:20Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
-    "id": "acornops/management-console",
-    "language": "TypeScript",
-    "name": "acornops/management-console",
-    "stars": 2,
-    "updated_at": "2026-10-24T07:07:29Z",
-    "url": "https://github.com/acornops/management-console"
-  },
-  {
-    "description": "Save Money and Usage Credit When Using AI Models",
-    "id": "coreymcd37/smart-efficiency-optimizer",
-    "language": "\u2014",
-    "name": "coreymcd37/smart-efficiency-optimizer",
-    "stars": 0,
-    "updated_at": "2026-10-24T07:07:01Z",
-    "url": "https://github.com/coreymcd37/smart-efficiency-optimizer"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-24T07:03:02Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "\u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 Claude Code \u0438 \u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u043e\u043c GitHub \u2014 \u043a\u0430\u0436\u0434\u043e\u0435 \u0441 \u0438\u0441\u0442\u043e\u0440\u0438\u0435\u0439 \u043f\u043e\u043b\u043e\u043c\u043a\u0438, \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b\u0440\u043e\u0441\u043b\u043e \u00b7 Incident-based rules ",
-    "id": "ArtVsMark/Engineering-Incidents-Playbook",
-    "language": "Python",
-    "name": "ArtVsMark/Engineering-Incidents-Playbook",
-    "stars": 5,
-    "updated_at": "2026-10-24T06:49:44Z",
-    "url": "https://github.com/ArtVsMark/Engineering-Incidents-Playbook"
   }
 ]
