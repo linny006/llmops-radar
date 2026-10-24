@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "holetz/quenching",
     "stars": 1,
-    "updated_at": "2026-10-24T17:29:05Z",
+    "updated_at": "2026-10-24T17:45:12Z",
     "url": "https://github.com/holetz/quenching"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61967,
+    "updated_at": "2026-10-24T17:42:52Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "A unified .NET abstraction layer for multiple Large Language Model (LLM) providers. Nexus-LLM simplifies integration wit",
@@ -14,8 +23,53 @@
     "language": "Python",
     "name": "brutal-45/Nexus-LLM",
     "stars": 0,
-    "updated_at": "2026-10-24T17:25:57Z",
+    "updated_at": "2026-10-24T17:41:00Z",
     "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
+    "description": "Linux VM agent for AcornOps, providing outbound system connectivity, host inspection, and controlled VM operations.",
+    "id": "acornops/agentv",
+    "language": "TypeScript",
+    "name": "acornops/agentv",
+    "stars": 1,
+    "updated_at": "2026-10-24T17:39:51Z",
+    "url": "https://github.com/acornops/agentv"
+  },
+  {
+    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
+    "id": "burakdede/lorepack",
+    "language": "TypeScript",
+    "name": "burakdede/lorepack",
+    "stars": 4,
+    "updated_at": "2026-10-24T17:37:58Z",
+    "url": "https://github.com/burakdede/lorepack"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-10-24T17:36:20Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-10-24T17:31:16Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-24T17:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
@@ -54,15 +108,6 @@
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61966,
-    "updated_at": "2026-10-24T17:17:16Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Multi-project ML platform monorepo: shared substrate across tabular, deep learning, LLM and agent projects. Multi-cloud ",
     "id": "DuqueOM/ml-platform",
     "language": "Python",
@@ -70,15 +115,6 @@
     "stars": 2,
     "updated_at": "2026-10-24T17:16:13Z",
     "url": "https://github.com/DuqueOM/ml-platform"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-24T17:15:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -149,7 +185,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4991,
-    "updated_at": "2026-10-24T17:28:10Z",
+    "updated_at": "2026-10-24T17:44:07Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -176,7 +212,7 @@
     "language": "TypeScript",
     "name": "prasad-kavuri/prasad-portfolio",
     "stars": 0,
-    "updated_at": "2026-10-24T17:06:34Z",
+    "updated_at": "2026-10-24T17:41:40Z",
     "url": "https://github.com/prasad-kavuri/prasad-portfolio"
   },
   {
@@ -198,15 +234,6 @@
     "url": "https://github.com/AixleHQ/flow"
   },
   {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-10-24T17:10:53Z",
-    "url": "https://github.com/redevops-io/agentic-os"
-  },
-  {
     "description": "The open standard AI gateway \u2014 PII protection, audit, reliability & cost control as composable interceptors. Same API in",
     "id": "manojmallick/gavio",
     "language": "Java",
@@ -216,6 +243,15 @@
     "url": "https://github.com/manojmallick/gavio"
   },
   {
+    "description": "Self-hosted AI Agents Platform for AI Native companies. Claude Code, Codex, Gemini, OpenCode agents. Apache 2.0.  ",
+    "id": "Abilityai/trinity",
+    "language": "Python",
+    "name": "Abilityai/trinity",
+    "stars": 697,
+    "updated_at": "2026-10-24T16:52:02Z",
+    "url": "https://github.com/Abilityai/trinity"
+  },
+  {
     "description": "Scheduled agent reviews for your repositories, defined in Git. Approved access, sandboxed runs, a full audit trail.",
     "id": "piotrekno1/second-shift",
     "language": "Python",
@@ -223,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-10-24T16:46:49Z",
     "url": "https://github.com/piotrekno1/second-shift"
-  },
-  {
-    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
-    "id": "burakdede/lorepack",
-    "language": "TypeScript",
-    "name": "burakdede/lorepack",
-    "stars": 4,
-    "updated_at": "2026-10-24T17:00:59Z",
-    "url": "https://github.com/burakdede/lorepack"
   },
   {
     "description": "Switch AI models without breaking your product: find every model your code calls and when it retires, turn real usage lo",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-24T15:17:30Z",
     "url": "https://github.com/redevops-io/agent-harness"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28516,
-    "updated_at": "2026-10-24T15:13:35Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Self-hostable AI token pools \u2014 govern your org's AI usage with per-member keys, quotas, and leak detection; or deposit s",
-    "id": "Phat1911/Tributary",
-    "language": "Rust",
-    "name": "Phat1911/Tributary",
-    "stars": 1,
-    "updated_at": "2026-10-24T15:02:20Z",
-    "url": "https://github.com/Phat1911/Tributary"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36345,
-    "updated_at": "2026-10-24T14:59:16Z",
-    "url": "https://github.com/langfuse/langfuse"
   }
 ]
