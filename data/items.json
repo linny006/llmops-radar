@@ -1,11 +1,74 @@
 [
   {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-24T03:13:16Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "LLM data analyst agent on LangGraph with per-call tracing, cost and latency, versioned prompts and a record/replay evalu",
+    "id": "LacerdaTraderCode/observable-analytics-agent",
+    "language": "Python",
+    "name": "LacerdaTraderCode/observable-analytics-agent",
+    "stars": 0,
+    "updated_at": "2026-10-24T03:14:49Z",
+    "url": "https://github.com/LacerdaTraderCode/observable-analytics-agent"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-24T03:10:02Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "ZenML \u2014 independent third-party profile of a public API surface, by API Evangelist. ZenML is an open-source MLOps and LL",
+    "id": "api-evangelist/zenml",
+    "language": "\u2014",
+    "name": "api-evangelist/zenml",
+    "stars": 0,
+    "updated_at": "2026-10-24T03:04:31Z",
+    "url": "https://github.com/api-evangelist/zenml"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8958,
+    "updated_at": "2026-10-24T03:04:07Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-10-24T03:02:51Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-24T03:00:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61926,
-    "updated_at": "2026-10-24T02:59:27Z",
+    "updated_at": "2026-10-24T03:11:49Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -41,26 +104,8 @@
     "language": "TypeScript",
     "name": "burakdede/lorepack",
     "stars": 4,
-    "updated_at": "2026-10-24T02:55:05Z",
+    "updated_at": "2026-10-24T03:09:12Z",
     "url": "https://github.com/burakdede/lorepack"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-24T02:53:03Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-10-24T02:58:50Z",
-    "url": "https://github.com/redevops-io/agentic-os"
   },
   {
     "description": "Find and prove inference savings on your own GPUs: $/M tokens with 95% CIs, agent workloads, verified-savings statements",
@@ -79,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T02:46:59Z",
     "url": "https://github.com/api-evangelist/seldon"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-24T02:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Insurance claims fraud triage, end to end: DuckDB features, LightGBM ranked by expected savings, MLflow registry, FastAP",
@@ -194,17 +230,17 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1371,
-    "updated_at": "2026-10-24T02:15:48Z",
+    "updated_at": "2026-10-24T03:02:19Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-24T02:11:57Z",
-    "url": "https://github.com/toxicwind/ranch"
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11975,
+    "updated_at": "2026-10-24T02:10:32Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Model-agnostic Agent Skill: keep multiple hypotheses alive, test them against evidence, revive alternatives, collapse to",
@@ -252,15 +288,6 @@
     "url": "https://github.com/api-evangelist/dify"
   },
   {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8958,
-    "updated_at": "2026-10-24T02:34:14Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
     "description": "Understand which functions and agents drive LLM spend. Self-hosted monitoring and an open model pricing catalog.",
     "id": "metergraph/metergraph",
     "language": "Python",
@@ -292,7 +319,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26355,
+    "stars": 26356,
     "updated_at": "2026-10-24T01:35:01Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -356,7 +383,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 116,
-    "updated_at": "2026-10-24T02:58:19Z",
+    "updated_at": "2026-10-24T03:13:33Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -364,7 +391,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 30710,
+    "stars": 30711,
     "updated_at": "2026-10-24T01:05:46Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-24T00:22:36Z",
     "url": "https://github.com/MartinCastroAlvarez/pytest-llm-evals"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11974,
-    "updated_at": "2026-10-24T02:10:32Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-10-24T00:00:52Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Profile of Dr. Ravi Teja Thiriveedhi \u2014 clinician turned AI systems architect: multi-agent platforms, AI governance, LLM ",
-    "id": "Raviteja2k2k/Raviteja2k2k",
-    "language": "Python",
-    "name": "Raviteja2k2k/Raviteja2k2k",
-    "stars": 0,
-    "updated_at": "2026-10-23T23:56:00Z",
-    "url": "https://github.com/Raviteja2k2k/Raviteja2k2k"
   }
 ]
