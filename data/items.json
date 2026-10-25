@@ -1,21 +1,21 @@
 [
   {
-    "description": "Enterprise Scale AIFactory (esml) - on Azure",
-    "id": "jostrm/azure-enterprise-scale-ml",
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
     "language": "Python",
-    "name": "jostrm/azure-enterprise-scale-ml",
-    "stars": 53,
-    "updated_at": "2026-10-25T11:30:08Z",
-    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+    "name": "SourceShift/mini-ork",
+    "stars": 32,
+    "updated_at": "2026-10-25T11:42:37Z",
+    "url": "https://github.com/SourceShift/mini-ork"
   },
   {
-    "description": "\ud83c\udfaf Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an",
-    "id": "izam-mohammed/ragrank",
-    "language": "Python",
-    "name": "izam-mohammed/ragrank",
-    "stars": 47,
-    "updated_at": "2026-10-25T11:29:23Z",
-    "url": "https://github.com/izam-mohammed/ragrank"
+    "description": "Kotlin Multiplatform semantic cache for LLM calls: eleven guards against false cache hits, measured on blind corpora, co",
+    "id": "NaCode-Studios/Kmemo",
+    "language": "Kotlin",
+    "name": "NaCode-Studios/Kmemo",
+    "stars": 7,
+    "updated_at": "2026-10-25T11:43:32Z",
+    "url": "https://github.com/NaCode-Studios/Kmemo"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -23,26 +23,35 @@
     "language": "Go",
     "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "stars": 1,
-    "updated_at": "2026-10-25T11:30:11Z",
+    "updated_at": "2026-10-25T11:42:42Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
   },
   {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
+    "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
+    "id": "hjongc/openrouter-endpoint-watch",
     "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 32,
-    "updated_at": "2026-10-25T11:26:35Z",
-    "url": "https://github.com/SourceShift/mini-ork"
+    "name": "hjongc/openrouter-endpoint-watch",
+    "stars": 0,
+    "updated_at": "2026-10-25T11:41:55Z",
+    "url": "https://github.com/hjongc/openrouter-endpoint-watch"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-25T11:24:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "mloda-ai/mloda",
+    "stars": 96,
+    "updated_at": "2026-10-25T11:43:53Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 117,
+    "updated_at": "2026-10-25T11:40:36Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -50,8 +59,35 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28525,
-    "updated_at": "2026-10-25T11:29:48Z",
+    "updated_at": "2026-10-25T11:37:17Z",
     "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "\ud83c\udfaf Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an",
+    "id": "izam-mohammed/ragrank",
+    "language": "Python",
+    "name": "izam-mohammed/ragrank",
+    "stars": 47,
+    "updated_at": "2026-10-25T11:37:03Z",
+    "url": "https://github.com/izam-mohammed/ragrank"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 42,
+    "updated_at": "2026-10-25T11:35:51Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Template repository for plugin creation for mloda.ai ",
+    "id": "mloda-ai/mloda-plugin-template",
+    "language": "Python",
+    "name": "mloda-ai/mloda-plugin-template",
+    "stars": 1,
+    "updated_at": "2026-10-25T11:33:39Z",
+    "url": "https://github.com/mloda-ai/mloda-plugin-template"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -59,8 +95,53 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 26403,
-    "updated_at": "2026-10-25T11:15:27Z",
+    "updated_at": "2026-10-25T11:40:24Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
+    "id": "Amz34/awesome-agent-infrastructure",
+    "language": "Python",
+    "name": "Amz34/awesome-agent-infrastructure",
+    "stars": 1,
+    "updated_at": "2026-10-25T11:32:05Z",
+    "url": "https://github.com/Amz34/awesome-agent-infrastructure"
+  },
+  {
+    "description": "Sandbox policy reality-check and least-privilege minimizer for AI coding agents. Merges every permission layer you decla",
+    "id": "Eileenes/BulkheadScope",
+    "language": "TypeScript",
+    "name": "Eileenes/BulkheadScope",
+    "stars": 0,
+    "updated_at": "2026-10-25T11:31:57Z",
+    "url": "https://github.com/Eileenes/BulkheadScope"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-25T11:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36430,
+    "updated_at": "2026-10-25T11:30:24Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
+    "language": "Python",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 53,
+    "updated_at": "2026-10-25T11:30:08Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -122,17 +203,8 @@
     "language": "Python",
     "name": "digline/digline",
     "stars": 9,
-    "updated_at": "2026-10-25T11:06:51Z",
+    "updated_at": "2026-10-25T11:40:17Z",
     "url": "https://github.com/digline/digline"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 96,
-    "updated_at": "2026-10-25T11:28:56Z",
-    "url": "https://github.com/mloda-ai/mloda"
   },
   {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
@@ -140,7 +212,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8966,
-    "updated_at": "2026-10-25T11:09:42Z",
+    "updated_at": "2026-10-25T11:31:58Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -176,7 +248,7 @@
     "language": "Python",
     "name": "Soum-Code/agentpulse",
     "stars": 0,
-    "updated_at": "2026-10-25T11:28:05Z",
+    "updated_at": "2026-10-25T11:32:17Z",
     "url": "https://github.com/Soum-Code/agentpulse"
   },
   {
@@ -266,7 +338,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-25T10:37:52Z",
+    "updated_at": "2026-10-25T11:39:19Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -347,7 +419,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4992,
-    "updated_at": "2026-10-25T11:19:10Z",
+    "updated_at": "2026-10-25T11:43:50Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 17,
     "updated_at": "2026-10-25T09:30:04Z",
     "url": "https://github.com/acornops/acornops"
-  },
-  {
-    "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
-    "id": "acornops/control-plane",
-    "language": "TypeScript",
-    "name": "acornops/control-plane",
-    "stars": 2,
-    "updated_at": "2026-10-25T09:32:44Z",
-    "url": "https://github.com/acornops/control-plane"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 2199,
-    "updated_at": "2026-10-25T09:27:33Z",
-    "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "Production-grade observability and agentic AIOps for AI systems \u2014 OpenTelemetry-native across independent polyglot apps;",
-    "id": "Root1V/argus-observability-platform",
-    "language": "Python",
-    "name": "Root1V/argus-observability-platform",
-    "stars": 1,
-    "updated_at": "2026-10-25T09:26:35Z",
-    "url": "https://github.com/Root1V/argus-observability-platform"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 42,
-    "updated_at": "2026-10-25T09:16:33Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 117,
-    "updated_at": "2026-10-25T11:22:38Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Trace-native CI/CD for AI agents: grade production traces, cluster failures, freeze them into replayable regression test",
-    "id": "jwuthri-cloud/Tracely-ai",
-    "language": "Python",
-    "name": "jwuthri-cloud/Tracely-ai",
-    "stars": 1171,
-    "updated_at": "2026-10-25T09:09:13Z",
-    "url": "https://github.com/jwuthri-cloud/Tracely-ai"
-  },
-  {
-    "description": "Observability for AI and LLM calls in Laravel. Automatically tracks requests to OpenAI, Anthropic, Gemini, Mistral and m",
-    "id": "spectra-php/laravel-spectra",
-    "language": "PHP",
-    "name": "spectra-php/laravel-spectra",
-    "stars": 21,
-    "updated_at": "2026-10-25T09:04:37Z",
-    "url": "https://github.com/spectra-php/laravel-spectra"
-  },
-  {
-    "description": "Local-first checks for OpenAI-compatible chat, tool calling, streaming, JSON, vision input, and image generation.",
-    "id": "LydiaTools/llm-endpoint-doctor",
-    "language": "Python",
-    "name": "LydiaTools/llm-endpoint-doctor",
-    "stars": 0,
-    "updated_at": "2026-10-25T08:57:21Z",
-    "url": "https://github.com/LydiaTools/llm-endpoint-doctor"
   }
 ]
