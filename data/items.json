@@ -1,5 +1,59 @@
 [
   {
+    "description": "One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Cod",
+    "id": "valteresj2/agent-hangar",
+    "language": "Python",
+    "name": "valteresj2/agent-hangar",
+    "stars": 4,
+    "updated_at": "2026-10-25T20:30:12Z",
+    "url": "https://github.com/valteresj2/agent-hangar"
+  },
+  {
+    "description": "\ud83c\udfaf Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an",
+    "id": "izam-mohammed/ragrank",
+    "language": "Python",
+    "name": "izam-mohammed/ragrank",
+    "stars": 47,
+    "updated_at": "2026-10-25T20:29:23Z",
+    "url": "https://github.com/izam-mohammed/ragrank"
+  },
+  {
+    "description": "Move your prompts from Langfuse into AcruxCore, with every version and label.",
+    "id": "AcruxCore/acruxcore-migrate",
+    "language": "Python",
+    "name": "AcruxCore/acruxcore-migrate",
+    "stars": 0,
+    "updated_at": "2026-10-25T20:27:18Z",
+    "url": "https://github.com/AcruxCore/acruxcore-migrate"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 32,
+    "updated_at": "2026-10-25T20:23:48Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36464,
+    "updated_at": "2026-10-25T20:16:18Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-25T20:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Scheduled agent tasks for your repositories, defined in Git. Approved access, sandboxed runs, a full audit trail.",
     "id": "piotrekno1/second-shift",
     "language": "Python",
@@ -9,15 +63,6 @@
     "url": "https://github.com/piotrekno1/second-shift"
   },
   {
-    "description": "A dry run for AI agents: record their tool calls, see what your rules would have blocked or sent for approval, and keep ",
-    "id": "ntinosgkiou-code/agentdryrun",
-    "language": "Python",
-    "name": "ntinosgkiou-code/agentdryrun",
-    "stars": 0,
-    "updated_at": "2026-10-25T20:15:13Z",
-    "url": "https://github.com/ntinosgkiou-code/agentdryrun"
-  },
-  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -25,15 +70,6 @@
     "stars": 42,
     "updated_at": "2026-10-25T20:09:45Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "\ud83c\udfaf Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an",
-    "id": "izam-mohammed/ragrank",
-    "language": "Python",
-    "name": "izam-mohammed/ragrank",
-    "stars": 47,
-    "updated_at": "2026-10-25T20:09:42Z",
-    "url": "https://github.com/izam-mohammed/ragrank"
   },
   {
     "description": "A self-hosted OpenAI-compatible proxy and web app for debugging, testing, and improving AI agents.",
@@ -54,6 +90,15 @@
     "url": "https://github.com/toxicwind/ranch"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11997,
+    "updated_at": "2026-10-25T20:05:36Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "ThakiCloud Tech Blog",
     "id": "ThakiCloud/thakicloud.github.io",
     "language": "JavaScript",
@@ -63,15 +108,6 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 32,
-    "updated_at": "2026-10-25T20:03:51Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
     "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
     "id": "holetz/quenching",
     "language": "Python",
@@ -79,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T20:03:42Z",
     "url": "https://github.com/holetz/quenching"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-25T20:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
@@ -140,7 +167,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4991,
-    "updated_at": "2026-10-25T19:37:33Z",
+    "updated_at": "2026-10-25T20:30:07Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -149,7 +176,7 @@
     "language": "Python",
     "name": "jostrm/azure-enterprise-scale-ml",
     "stars": 53,
-    "updated_at": "2026-10-25T19:35:06Z",
+    "updated_at": "2026-10-25T20:25:24Z",
     "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
   },
   {
@@ -176,7 +203,7 @@
     "language": "TypeScript",
     "name": "lmnr-ai/lmnr",
     "stars": 3442,
-    "updated_at": "2026-10-25T19:27:40Z",
+    "updated_at": "2026-10-25T20:23:04Z",
     "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
@@ -184,18 +211,9 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 62024,
+    "stars": 62025,
     "updated_at": "2026-10-25T19:23:18Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36463,
-    "updated_at": "2026-10-25T19:21:54Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper",
@@ -212,17 +230,8 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8968,
-    "updated_at": "2026-10-25T20:07:15Z",
+    "updated_at": "2026-10-25T20:30:09Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11996,
-    "updated_at": "2026-10-25T20:05:36Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -266,7 +275,7 @@
     "language": "Python",
     "name": "jakbuczarnecki/intergrax",
     "stars": 4,
-    "updated_at": "2026-10-25T19:42:35Z",
+    "updated_at": "2026-10-25T20:27:19Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 9,
     "updated_at": "2026-10-25T18:18:50Z",
     "url": "https://github.com/redevops-io/redevops-rag"
-  },
-  {
-    "description": "Faire vivre des agents outill\u00e9s, contr\u00f4l\u00e9s et supervis\u00e9s dans la dur\u00e9e.",
-    "id": "TimoLeDozo/MoltBot-Hub",
-    "language": "\u2014",
-    "name": "TimoLeDozo/MoltBot-Hub",
-    "stars": 0,
-    "updated_at": "2026-10-25T18:11:33Z",
-    "url": "https://github.com/TimoLeDozo/MoltBot-Hub"
   }
 ]
