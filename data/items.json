@@ -1,11 +1,47 @@
 [
   {
+    "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
+    "id": "holetz/quenching",
+    "language": "Python",
+    "name": "holetz/quenching",
+    "stars": 0,
+    "updated_at": "2026-10-25T02:45:19Z",
+    "url": "https://github.com/holetz/quenching"
+  },
+  {
+    "description": "Policy, measurement, and operations workbench for running Codex and Claude agents safely across a GitHub estate.",
+    "id": "Chris0Jeky/agent-harness",
+    "language": "Python",
+    "name": "Chris0Jeky/agent-harness",
+    "stars": 3,
+    "updated_at": "2026-10-25T02:37:14Z",
+    "url": "https://github.com/Chris0Jeky/agent-harness"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26391,
+    "updated_at": "2026-10-25T02:44:17Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-25T02:30:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Governed AI agents as a Kubernetes sidecar: policy-as-code charters, mTLS/SPIFFE identity, budgets, guardrails and JSONL",
     "id": "f8fvwgzc/agent-sidecar",
     "language": "Rust",
     "name": "f8fvwgzc/agent-sidecar",
     "stars": 0,
-    "updated_at": "2026-10-25T02:29:55Z",
+    "updated_at": "2026-10-25T02:33:40Z",
     "url": "https://github.com/f8fvwgzc/agent-sidecar"
   },
   {
@@ -22,7 +58,7 @@
     "id": "respanai/respan-gateway",
     "language": "Rust",
     "name": "respanai/respan-gateway",
-    "stars": 259,
+    "stars": 260,
     "updated_at": "2026-10-25T02:28:09Z",
     "url": "https://github.com/respanai/respan-gateway"
   },
@@ -43,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-10-25T02:19:55Z",
     "url": "https://github.com/kensterinvest/tidus"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-25T02:15:22Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Tamper-evident receipts for reported LLM efficiency events. Offline integrity and benchmark-arithmetic verification, wit",
@@ -104,26 +131,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61982,
-    "updated_at": "2026-10-25T02:20:54Z",
+    "updated_at": "2026-10-25T02:32:08Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26391,
-    "updated_at": "2026-10-25T02:04:18Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
-    "id": "holetz/quenching",
-    "language": "Python",
-    "name": "holetz/quenching",
-    "stars": 0,
-    "updated_at": "2026-10-25T02:23:06Z",
-    "url": "https://github.com/holetz/quenching"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -257,7 +266,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30735,
-    "updated_at": "2026-10-25T01:01:50Z",
+    "updated_at": "2026-10-25T02:31:03Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -356,7 +365,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-25T02:08:38Z",
+    "updated_at": "2026-10-25T02:43:37Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -391,7 +400,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 36382,
+    "stars": 36383,
     "updated_at": "2026-10-25T00:09:23Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-24T23:33:38Z",
     "url": "https://github.com/Raviteja2k2k/Raviteja2k2k"
-  },
-  {
-    "description": "CLI-first LLM runtime parity diagnostics. Same model, same input, first causal divergence.",
-    "id": "TheusHen/eleanity",
-    "language": "Python",
-    "name": "TheusHen/eleanity",
-    "stars": 1,
-    "updated_at": "2026-10-24T23:09:41Z",
-    "url": "https://github.com/TheusHen/eleanity"
   }
 ]
