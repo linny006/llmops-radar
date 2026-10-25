@@ -1,5 +1,86 @@
 [
   {
+    "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
+    "id": "ZIZKA-AI-SL/ZizkaDB",
+    "language": "Python",
+    "name": "ZIZKA-AI-SL/ZizkaDB",
+    "stars": 146,
+    "updated_at": "2026-10-25T14:14:12Z",
+    "url": "https://github.com/ZIZKA-AI-SL/ZizkaDB"
+  },
+  {
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
+    "language": "Python",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 53,
+    "updated_at": "2026-10-25T14:13:40Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "language": "Go",
+    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-10-25T14:13:24Z",
+    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 42,
+    "updated_at": "2026-10-25T14:13:15Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 32,
+    "updated_at": "2026-10-25T14:10:57Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "End-to-end LLMOps system for natural-language questions over tabular data. Routes simple queries to classical ML and ana",
+    "id": "Aakifah/slm_mlops",
+    "language": "Python",
+    "name": "Aakifah/slm_mlops",
+    "stars": 0,
+    "updated_at": "2026-10-25T14:09:46Z",
+    "url": "https://github.com/Aakifah/slm_mlops"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-25T14:07:46Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "AI trust-boundary gateway for OpenAI, Anthropic, and Gemini.",
+    "id": "GetSHIM/shim",
+    "language": "Python",
+    "name": "GetSHIM/shim",
+    "stars": 9,
+    "updated_at": "2026-10-25T14:00:52Z",
+    "url": "https://github.com/GetSHIM/shim"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-25T14:00:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
     "id": "decimal-labs/decimalai-python",
     "language": "Python",
@@ -27,15 +108,6 @@
     "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 32,
-    "updated_at": "2026-10-25T13:54:27Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
     "description": "\ud83c\udfaf Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an",
     "id": "izam-mohammed/ragrank",
     "language": "Python",
@@ -52,6 +124,15 @@
     "stars": 0,
     "updated_at": "2026-10-25T13:54:12Z",
     "url": "https://github.com/runcycles/cycles-openai-agents"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22903,
+    "updated_at": "2026-10-25T13:52:45Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -81,33 +162,6 @@
     "url": "https://github.com/tonyweckstrom1987/agentti-pohja"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 42,
-    "updated_at": "2026-10-25T13:48:23Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-25T13:45:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "AI trust-boundary gateway for OpenAI, Anthropic, and Gemini.",
-    "id": "GetSHIM/shim",
-    "language": "Python",
-    "name": "GetSHIM/shim",
-    "stars": 9,
-    "updated_at": "2026-10-25T13:51:49Z",
-    "url": "https://github.com/GetSHIM/shim"
-  },
-  {
     "description": "ThakiCloud Tech Blog",
     "id": "ThakiCloud/thakicloud.github.io",
     "language": "JavaScript",
@@ -122,7 +176,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8968,
-    "updated_at": "2026-10-25T13:40:12Z",
+    "updated_at": "2026-10-25T14:02:34Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -148,7 +202,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 36439,
+    "stars": 36440,
     "updated_at": "2026-10-25T13:30:13Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -189,22 +243,22 @@
     "url": "https://github.com/JavisBot-Service/javis-transparency"
   },
   {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 2200,
+    "updated_at": "2026-10-25T13:15:44Z",
+    "url": "https://github.com/future-agi/future-agi"
+  },
+  {
     "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
     "id": "korczis/prismatic-majordomus",
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-25T13:50:53Z",
+    "updated_at": "2026-10-25T14:12:49Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-25T13:07:31Z",
-    "url": "https://github.com/toxicwind/ranch"
   },
   {
     "description": "Agentic RAG in Google ADK on Vertex AI Vector Search: query rewriting, metadata filters, multi-hop with a hop budget, ch",
@@ -232,15 +286,6 @@
     "stars": 2,
     "updated_at": "2026-10-25T12:54:17Z",
     "url": "https://github.com/TechTideOhio/swarm-357"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "language": "Go",
-    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "stars": 1,
-    "updated_at": "2026-10-25T13:55:10Z",
-    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
   },
   {
     "description": "Benchmarking vision-language models for handwritten form extraction with confidence flags and human review. Case study: ",
@@ -295,15 +340,6 @@
     "stars": 30743,
     "updated_at": "2026-10-25T12:33:54Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Enterprise Scale AIFactory (esml) - on Azure",
-    "id": "jostrm/azure-enterprise-scale-ml",
-    "language": "Python",
-    "name": "jostrm/azure-enterprise-scale-ml",
-    "stars": 53,
-    "updated_at": "2026-10-25T12:21:18Z",
-    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
   },
   {
     "description": "Python + CLI client for large LLM batches with retries, throttling, resume support, and multi-replica routing",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-25T11:32:05Z",
     "url": "https://github.com/Amz34/awesome-agent-infrastructure"
-  },
-  {
-    "description": "Sandbox policy reality-check and least-privilege minimizer for AI coding agents. Merges every permission layer you decla",
-    "id": "Eileenes/BulkheadScope",
-    "language": "TypeScript",
-    "name": "Eileenes/BulkheadScope",
-    "stars": 0,
-    "updated_at": "2026-10-25T11:31:57Z",
-    "url": "https://github.com/Eileenes/BulkheadScope"
-  },
-  {
-    "description": "The platform for continuously improving AI agents.",
-    "id": "overmind-core/overmind",
-    "language": "Python",
-    "name": "overmind-core/overmind",
-    "stars": 680,
-    "updated_at": "2026-10-25T11:25:20Z",
-    "url": "https://github.com/overmind-core/overmind"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11995,
-    "updated_at": "2026-10-25T12:00:40Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
-    "id": "JoniMartin27/lookspan",
-    "language": "TypeScript",
-    "name": "JoniMartin27/lookspan",
-    "stars": 7,
-    "updated_at": "2026-10-25T11:15:04Z",
-    "url": "https://github.com/JoniMartin27/lookspan"
   }
 ]
