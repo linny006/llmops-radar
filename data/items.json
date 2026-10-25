@@ -1,5 +1,50 @@
 [
   {
+    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
+    "id": "korczis/prismatic-majordomus",
+    "language": "Rust",
+    "name": "korczis/prismatic-majordomus",
+    "stars": 0,
+    "updated_at": "2026-10-25T13:09:12Z",
+    "url": "https://github.com/korczis/prismatic-majordomus"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-10-25T13:08:42Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-25T13:07:31Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
+    "id": "digline/digline",
+    "language": "Python",
+    "name": "digline/digline",
+    "stars": 9,
+    "updated_at": "2026-10-25T13:01:45Z",
+    "url": "https://github.com/digline/digline"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-25T13:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
     "id": "SourceShift/mini-ork",
     "language": "Python",
@@ -41,7 +86,7 @@
     "language": "Python",
     "name": "izam-mohammed/ragrank",
     "stars": 47,
-    "updated_at": "2026-10-25T12:59:03Z",
+    "updated_at": "2026-10-25T13:04:47Z",
     "url": "https://github.com/izam-mohammed/ragrank"
   },
   {
@@ -77,26 +122,8 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 96,
-    "updated_at": "2026-10-25T12:52:17Z",
+    "updated_at": "2026-10-25T13:02:27Z",
     "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-25T12:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-10-25T12:45:23Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
@@ -171,15 +198,6 @@
     "url": "https://github.com/VectorInstitute/infermesh"
   },
   {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-25T12:11:47Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
     "description": "Google ADK agent with long-term memory for Vertex AI Agent Engine Memory Bank, with a free local SQLite look-alike behin",
     "id": "MartinCastroAlvarez/adk-vertex-memory-bank",
     "language": "Python",
@@ -221,7 +239,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8967,
-    "updated_at": "2026-10-25T12:51:17Z",
+    "updated_at": "2026-10-25T13:07:40Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -301,7 +319,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 36434,
+    "stars": 36439,
     "updated_at": "2026-10-25T11:30:24Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -340,15 +358,6 @@
     "stars": 1,
     "updated_at": "2026-10-25T11:09:10Z",
     "url": "https://github.com/scttfrdmn/hf-bedrock-map"
-  },
-  {
-    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
-    "id": "digline/digline",
-    "language": "Python",
-    "name": "digline/digline",
-    "stars": 9,
-    "updated_at": "2026-10-25T12:56:40Z",
-    "url": "https://github.com/digline/digline"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -439,14 +448,5 @@
     "stars": 3009,
     "updated_at": "2026-10-25T12:19:47Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Python SDK for Cycles \u2014 reserve, commit, release budget and risk for AI agents",
-    "id": "runcycles/cycles-client-python",
-    "language": "Python",
-    "name": "runcycles/cycles-client-python",
-    "stars": 0,
-    "updated_at": "2026-10-25T10:08:19Z",
-    "url": "https://github.com/runcycles/cycles-client-python"
   }
 ]
