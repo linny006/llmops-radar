@@ -1,12 +1,102 @@
 [
   {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-10-25T22:44:52Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
     "description": "Scheduled agent tasks for your repositories, defined in Git. Approved access, sandboxed runs, a full audit trail.",
     "id": "piotrekno1/second-shift",
     "language": "Python",
     "name": "piotrekno1/second-shift",
     "stars": 1,
-    "updated_at": "2026-10-25T22:29:30Z",
+    "updated_at": "2026-10-25T22:42:01Z",
     "url": "https://github.com/piotrekno1/second-shift"
+  },
+  {
+    "description": "Save Money and Usage Credit When Using AI Models",
+    "id": "coreymcd37/ai-efficiency-optimizer-prompt",
+    "language": "Python",
+    "name": "coreymcd37/ai-efficiency-optimizer-prompt",
+    "stars": 0,
+    "updated_at": "2026-10-25T22:41:53Z",
+    "url": "https://github.com/coreymcd37/ai-efficiency-optimizer-prompt"
+  },
+  {
+    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 2,
+    "updated_at": "2026-10-25T22:41:33Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
+    "id": "srjn45/warden",
+    "language": "Go",
+    "name": "srjn45/warden",
+    "stars": 2,
+    "updated_at": "2026-10-25T22:42:34Z",
+    "url": "https://github.com/srjn45/warden"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-10-25T22:38:18Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "Production local-LLM inference gateway with policy-aware routing and delivery automation",
+    "id": "Yash-Chindam/Production-Local-LLM-Inference-Routing-Platform",
+    "language": "Python",
+    "name": "Yash-Chindam/Production-Local-LLM-Inference-Routing-Platform",
+    "stars": 0,
+    "updated_at": "2026-10-25T22:37:42Z",
+    "url": "https://github.com/Yash-Chindam/Production-Local-LLM-Inference-Routing-Platform"
+  },
+  {
+    "description": "Log10 \u2014 independent third-party profile of a public API surface, by API Evangelist. Log10 is an LLMOps platform that pro",
+    "id": "api-evangelist/log10",
+    "language": "\u2014",
+    "name": "api-evangelist/log10",
+    "stars": 1,
+    "updated_at": "2026-10-25T22:36:58Z",
+    "url": "https://github.com/api-evangelist/log10"
+  },
+  {
+    "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
+    "id": "hjongc/openrouter-endpoint-watch",
+    "language": "Python",
+    "name": "hjongc/openrouter-endpoint-watch",
+    "stars": 0,
+    "updated_at": "2026-10-25T22:36:00Z",
+    "url": "https://github.com/hjongc/openrouter-endpoint-watch"
+  },
+  {
+    "description": "Measure how much of your LLM bill is re-writing documents you already generated. Local, zero network calls, single file,",
+    "id": "linklbee/scan",
+    "language": "Python",
+    "name": "linklbee/scan",
+    "stars": 0,
+    "updated_at": "2026-10-25T22:34:29Z",
+    "url": "https://github.com/linklbee/scan"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-25T22:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Claude Code skills for building LLM agents the disciplined way: spec-driven builds, metered live runs, eval triage, vers",
@@ -25,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T22:28:34Z",
     "url": "https://github.com/RudrenduPaul/hardening-llm-systems-production"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-10-25T22:24:02Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "Evidently AI \u2014 independent third-party profile of a public API surface, by API Evangelist. Evidently AI is an open-sourc",
@@ -79,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T22:17:26Z",
     "url": "https://github.com/api-evangelist/dify"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-25T22:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source replay and evidence infrastructure for AI agents. Capture runs as portable Run Capsules for replay, diff, li",
@@ -158,7 +230,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 2,
-    "updated_at": "2026-10-25T22:26:39Z",
+    "updated_at": "2026-10-25T22:41:56Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -178,15 +250,6 @@
     "stars": 146,
     "updated_at": "2026-10-25T21:55:52Z",
     "url": "https://github.com/ZIZKA-AI-SL/ZizkaDB"
-  },
-  {
-    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 2,
-    "updated_at": "2026-10-25T22:28:45Z",
-    "url": "https://github.com/a-novel/service-genai"
   },
   {
     "description": "Agentic Runtime",
@@ -257,7 +320,7 @@
     "language": "Python",
     "name": "jostrm/azure-enterprise-scale-ml",
     "stars": 53,
-    "updated_at": "2026-10-25T21:26:56Z",
+    "updated_at": "2026-10-25T22:42:48Z",
     "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
   },
   {
@@ -293,7 +356,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 2200,
-    "updated_at": "2026-10-25T22:09:55Z",
+    "updated_at": "2026-10-25T22:32:45Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -338,17 +401,8 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28530,
-    "updated_at": "2026-10-25T22:16:55Z",
+    "updated_at": "2026-10-25T22:45:11Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Save Money and Usage Credit When Using AI Models",
-    "id": "coreymcd37/ai-efficiency-optimizer-prompt",
-    "language": "Python",
-    "name": "coreymcd37/ai-efficiency-optimizer-prompt",
-    "stars": 0,
-    "updated_at": "2026-10-25T20:57:02Z",
-    "url": "https://github.com/coreymcd37/ai-efficiency-optimizer-prompt"
   },
   {
     "description": "Source for kooexperience.com, Haoming Koo\u2019s applied AI engineering portfolio with live products, case studies, structure",
@@ -394,59 +448,5 @@
     "stars": 47,
     "updated_at": "2026-10-25T22:25:33Z",
     "url": "https://github.com/izam-mohammed/ragrank"
-  },
-  {
-    "description": "Move your prompts from Langfuse into AcruxCore, with every version and label.",
-    "id": "AcruxCore/acruxcore-migrate",
-    "language": "Python",
-    "name": "AcruxCore/acruxcore-migrate",
-    "stars": 0,
-    "updated_at": "2026-10-25T20:27:18Z",
-    "url": "https://github.com/AcruxCore/acruxcore-migrate"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-10-25T20:05:28Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
-    "id": "holetz/quenching",
-    "language": "Python",
-    "name": "holetz/quenching",
-    "stars": 0,
-    "updated_at": "2026-10-25T20:03:42Z",
-    "url": "https://github.com/holetz/quenching"
-  },
-  {
-    "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
-    "id": "hjongc/openrouter-endpoint-watch",
-    "language": "Python",
-    "name": "hjongc/openrouter-endpoint-watch",
-    "stars": 0,
-    "updated_at": "2026-10-25T19:40:46Z",
-    "url": "https://github.com/hjongc/openrouter-endpoint-watch"
-  },
-  {
-    "description": "Open-source LLMOps platform with prompt management, an OpenAI-compatible AI gateway, OpenTelemetry tracing, a versioned ",
-    "id": "AcruxCore/AcruxCore",
-    "language": "TypeScript",
-    "name": "AcruxCore/AcruxCore",
-    "stars": 11,
-    "updated_at": "2026-10-25T19:40:29Z",
-    "url": "https://github.com/AcruxCore/AcruxCore"
-  },
-  {
-    "description": "Self-hosted runtime authority server for AI agents \u2014 budgets, risk, actions, tenant isolation",
-    "id": "runcycles/cycles-server",
-    "language": "Java",
-    "name": "runcycles/cycles-server",
-    "stars": 5,
-    "updated_at": "2026-10-25T19:40:31Z",
-    "url": "https://github.com/runcycles/cycles-server"
   }
 ]
