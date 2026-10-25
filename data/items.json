@@ -1,5 +1,41 @@
 [
   {
+    "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
+    "id": "holetz/quenching",
+    "language": "Python",
+    "name": "holetz/quenching",
+    "stars": 0,
+    "updated_at": "2026-10-25T03:29:49Z",
+    "url": "https://github.com/holetz/quenching"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26392,
+    "updated_at": "2026-10-25T03:27:53Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61983,
+    "updated_at": "2026-10-25T03:29:56Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-25T03:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
     "id": "toxicwind/ranch",
     "language": "Rust",
@@ -13,7 +49,7 @@
     "id": "respanai/respan-gateway",
     "language": "Rust",
     "name": "respanai/respan-gateway",
-    "stars": 261,
+    "stars": 262,
     "updated_at": "2026-10-25T03:10:28Z",
     "url": "https://github.com/respanai/respan-gateway"
   },
@@ -32,44 +68,17 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1372,
-    "updated_at": "2026-10-25T03:03:01Z",
+    "updated_at": "2026-10-25T03:25:31Z",
     "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-25T03:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26392,
-    "updated_at": "2026-10-25T03:03:43Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 36386,
+    "stars": 36389,
     "updated_at": "2026-10-25T02:57:04Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
-    "id": "holetz/quenching",
-    "language": "Python",
-    "name": "holetz/quenching",
-    "stars": 0,
-    "updated_at": "2026-10-25T03:15:17Z",
-    "url": "https://github.com/holetz/quenching"
   },
   {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
@@ -97,15 +106,6 @@
     "stars": 4,
     "updated_at": "2026-10-25T03:07:27Z",
     "url": "https://github.com/burakdede/lorepack"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61983,
-    "updated_at": "2026-10-25T03:07:23Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Policy, measurement, and operations workbench for running Codex and Claude agents safely across a GitHub estate.",
@@ -167,7 +167,7 @@
     "language": "Python",
     "name": "thequantumfalcon/kry",
     "stars": 1,
-    "updated_at": "2026-10-25T02:13:29Z",
+    "updated_at": "2026-10-25T03:29:59Z",
     "url": "https://github.com/thequantumfalcon/kry"
   },
   {
@@ -311,7 +311,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28522,
-    "updated_at": "2026-10-25T03:13:55Z",
+    "updated_at": "2026-10-25T03:19:00Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -410,7 +410,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-25T02:56:26Z",
+    "updated_at": "2026-10-25T03:22:34Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -419,7 +419,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8964,
-    "updated_at": "2026-10-25T03:05:07Z",
+    "updated_at": "2026-10-25T03:29:08Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {

@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-25 03:15 UTC
+> ⏰ Last updated: 2026-10-25 03:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,18 +42,18 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [toxicwind/ranch](https://github.com/toxicwind/ranch) | 0 | Rust | 2026-10-25 | The self-hosted LLM estate in one monorepo — local model serving, cloud provider routing, MCP gateway, build jobs. All O |
-| 2 | [respanai/respan-gateway](https://github.com/respanai/respan-gateway) | 261 | Rust | 2026-10-25 | One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary. |
-| 3 | [Root1V/argus-observability-platform](https://github.com/Root1V/argus-observability-platform) | 1 | Python | 2026-10-25 | Production-grade observability and agentic AIOps for AI systems — OpenTelemetry-native across independent polyglot apps; |
-| 4 | [alibaba/rtp-llm](https://github.com/alibaba/rtp-llm) | 1372 | Python | 2026-10-25 | RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications. |
-| 5 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-25 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 6 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26392 | TypeScript | 2026-10-25 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 7 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 36386 | TypeScript | 2026-10-25 | 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform. |
-| 8 | [holetz/quenching](https://github.com/holetz/quenching) | 0 | Python | 2026-10-25 | Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape |
-| 9 | [cloudrift-ai/emmy](https://github.com/cloudrift-ai/emmy) | 117 | Python | 2026-10-25 | Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel  |
-| 10 | [runcycles/cycles-client-typescript](https://github.com/runcycles/cycles-client-typescript) | 0 | TypeScript | 2026-10-25 | TypeScript SDK for Cycles — runtime budget and action authority for Node.js AI agents |
-| 11 | [burakdede/lorepack](https://github.com/burakdede/lorepack) | 4 | TypeScript | 2026-10-25 | Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod |
-| 12 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 61983 | Python | 2026-10-25 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 1 | [holetz/quenching](https://github.com/holetz/quenching) | 0 | Python | 2026-10-25 | Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape |
+| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26392 | TypeScript | 2026-10-25 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 3 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 61983 | Python | 2026-10-25 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-25 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 5 | [toxicwind/ranch](https://github.com/toxicwind/ranch) | 0 | Rust | 2026-10-25 | The self-hosted LLM estate in one monorepo — local model serving, cloud provider routing, MCP gateway, build jobs. All O |
+| 6 | [respanai/respan-gateway](https://github.com/respanai/respan-gateway) | 262 | Rust | 2026-10-25 | One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary. |
+| 7 | [Root1V/argus-observability-platform](https://github.com/Root1V/argus-observability-platform) | 1 | Python | 2026-10-25 | Production-grade observability and agentic AIOps for AI systems — OpenTelemetry-native across independent polyglot apps; |
+| 8 | [alibaba/rtp-llm](https://github.com/alibaba/rtp-llm) | 1372 | Python | 2026-10-25 | RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications. |
+| 9 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 36389 | TypeScript | 2026-10-25 | 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform. |
+| 10 | [cloudrift-ai/emmy](https://github.com/cloudrift-ai/emmy) | 117 | Python | 2026-10-25 | Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel  |
+| 11 | [runcycles/cycles-client-typescript](https://github.com/runcycles/cycles-client-typescript) | 0 | TypeScript | 2026-10-25 | TypeScript SDK for Cycles — runtime budget and action authority for Node.js AI agents |
+| 12 | [burakdede/lorepack](https://github.com/burakdede/lorepack) | 4 | TypeScript | 2026-10-25 | Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod |
 | 13 | [Chris0Jeky/agent-harness](https://github.com/Chris0Jeky/agent-harness) | 3 | Python | 2026-10-25 | Policy, measurement, and operations workbench for running Codex and Claude agents safely across a GitHub estate. |
 | 14 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 30737 | TypeScript | 2026-10-25 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
 | 15 | [f8fvwgzc/agent-sidecar](https://github.com/f8fvwgzc/agent-sidecar) | 0 | Rust | 2026-10-25 | Governed AI agents as a Kubernetes sidecar: policy-as-code charters, mTLS/SPIFFE identity, budgets, guardrails and JSONL |
