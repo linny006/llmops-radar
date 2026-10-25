@@ -1,12 +1,66 @@
 [
   {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-10-25T17:45:13Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 32,
+    "updated_at": "2026-10-25T17:44:55Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Source for kooexperience.com, Haoming Koo\u2019s applied AI engineering portfolio with live products, case studies, structure",
+    "id": "haomingkoo/haomingkoo.github.io",
+    "language": "HTML",
+    "name": "haomingkoo/haomingkoo.github.io",
+    "stars": 0,
+    "updated_at": "2026-10-25T17:33:33Z",
+    "url": "https://github.com/haomingkoo/haomingkoo.github.io"
+  },
+  {
+    "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
+    "id": "prasad-kavuri/prasad-portfolio",
+    "language": "TypeScript",
+    "name": "prasad-kavuri/prasad-portfolio",
+    "stars": 0,
+    "updated_at": "2026-10-25T17:32:56Z",
+    "url": "https://github.com/prasad-kavuri/prasad-portfolio"
+  },
+  {
     "description": "LLM optimization service with caching, cost-aware routing, context compression, and usage analytics. Custom JSON API, pl",
     "id": "Prathamg042004/tokensave",
     "language": "TypeScript",
     "name": "Prathamg042004/tokensave",
     "stars": 1,
-    "updated_at": "2026-10-25T17:29:28Z",
+    "updated_at": "2026-10-25T17:38:09Z",
     "url": "https://github.com/Prathamg042004/tokensave"
+  },
+  {
+    "description": "Self-hosted observability and governance for AI agents: traces, cost, evals, and a governed MCP gateway.",
+    "id": "TorrixAI/torrix",
+    "language": "TypeScript",
+    "name": "TorrixAI/torrix",
+    "stars": 2,
+    "updated_at": "2026-10-25T17:30:51Z",
+    "url": "https://github.com/TorrixAI/torrix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-25T17:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
@@ -72,13 +126,13 @@
     "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-25T17:15:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36457,
+    "updated_at": "2026-10-25T17:16:11Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
@@ -126,15 +180,6 @@
     "url": "https://github.com/BerriAI/litellm"
   },
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36456,
-    "updated_at": "2026-10-25T17:16:11Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
     "id": "sarkars/agent-failure-modes",
     "language": "Python",
@@ -180,15 +225,6 @@
     "url": "https://github.com/chrysogonus/prompt-maker-studio"
   },
   {
-    "description": "Self-hosted observability and governance for AI agents: traces, cost, evals, and a governed MCP gateway.",
-    "id": "TorrixAI/torrix",
-    "language": "TypeScript",
-    "name": "TorrixAI/torrix",
-    "stars": 2,
-    "updated_at": "2026-10-25T16:56:54Z",
-    "url": "https://github.com/TorrixAI/torrix"
-  },
-  {
     "description": "Declarative AI agent orchestration with runtime guarantees: YAML blueprints compiled to LangGraph, with lint, determinis",
     "id": "ahmetatar/agent-blueprint",
     "language": "Python",
@@ -230,7 +266,7 @@
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 27,
-    "updated_at": "2026-10-25T17:24:02Z",
+    "updated_at": "2026-10-25T17:34:07Z",
     "url": "https://github.com/AixleHQ/flow"
   },
   {
@@ -268,15 +304,6 @@
     "stars": 11,
     "updated_at": "2026-10-25T16:33:15Z",
     "url": "https://github.com/AcruxCore/AcruxCore"
-  },
-  {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 32,
-    "updated_at": "2026-10-25T16:32:08Z",
-    "url": "https://github.com/SourceShift/mini-ork"
   },
   {
     "description": "Governed private AI control plane on Kubernetes with policy, identity, and FinOps.",
@@ -351,15 +378,6 @@
     "url": "https://github.com/QuantumEdu/q-agent"
   },
   {
-    "description": "Source for kooexperience.com, Haoming Koo\u2019s applied AI engineering portfolio with live products, case studies, structure",
-    "id": "haomingkoo/haomingkoo.github.io",
-    "language": "HTML",
-    "name": "haomingkoo/haomingkoo.github.io",
-    "stars": 0,
-    "updated_at": "2026-10-25T16:13:42Z",
-    "url": "https://github.com/haomingkoo/haomingkoo.github.io"
-  },
-  {
     "description": "Scheduled agent reviews for your repositories, defined in Git. Approved access, sandboxed runs, a full audit trail.",
     "id": "piotrekno1/second-shift",
     "language": "Python",
@@ -392,7 +410,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 12076,
-    "updated_at": "2026-10-25T16:07:20Z",
+    "updated_at": "2026-10-25T17:42:48Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 42,
     "updated_at": "2026-10-25T16:22:03Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "Rust client for Cycles \u2014 runtime budget authority for AI agents",
-    "id": "runcycles/cycles-client-rust",
-    "language": "Rust",
-    "name": "runcycles/cycles-client-rust",
-    "stars": 1,
-    "updated_at": "2026-10-25T15:34:21Z",
-    "url": "https://github.com/runcycles/cycles-client-rust"
-  },
-  {
-    "description": "End-to-end LLMOps system for natural-language questions over tabular data. Routes simple queries to classical ML and ana",
-    "id": "Aakifah/slm_mlops",
-    "language": "Python",
-    "name": "Aakifah/slm_mlops",
-    "stars": 0,
-    "updated_at": "2026-10-25T15:31:56Z",
-    "url": "https://github.com/Aakifah/slm_mlops"
   }
 ]
