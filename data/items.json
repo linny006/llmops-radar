@@ -1,12 +1,93 @@
 [
   {
-    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
-    "id": "acornops/management-console",
+    "description": "Benchmarking vision-language models for handwritten form extraction with confidence flags and human review. Case study: ",
+    "id": "tibendadavis/handwritten-forms-vlm-bench",
+    "language": "Python",
+    "name": "tibendadavis/handwritten-forms-vlm-bench",
+    "stars": 0,
+    "updated_at": "2026-10-25T18:44:28Z",
+    "url": "https://github.com/tibendadavis/handwritten-forms-vlm-bench"
+  },
+  {
+    "description": "A dry run for AI agents: record their tool calls, see what your rules would have blocked or sent for approval, and keep ",
+    "id": "ntinosgkiou-code/agentdryrun",
+    "language": "Python",
+    "name": "ntinosgkiou-code/agentdryrun",
+    "stars": 0,
+    "updated_at": "2026-10-25T18:43:32Z",
+    "url": "https://github.com/ntinosgkiou-code/agentdryrun"
+  },
+  {
+    "description": "Companion code for Hardening LLM Systems in Production (Manning Publications), by Rudrendu Paul and Sourav Nandy: halluc",
+    "id": "RudrenduPaul/hardening-llm-systems-production",
+    "language": "Python",
+    "name": "RudrenduPaul/hardening-llm-systems-production",
+    "stars": 0,
+    "updated_at": "2026-10-25T18:44:12Z",
+    "url": "https://github.com/RudrenduPaul/hardening-llm-systems-production"
+  },
+  {
+    "description": "Source for kooexperience.com, Haoming Koo\u2019s applied AI engineering portfolio with live products, case studies, structure",
+    "id": "haomingkoo/haomingkoo.github.io",
+    "language": "HTML",
+    "name": "haomingkoo/haomingkoo.github.io",
+    "stars": 0,
+    "updated_at": "2026-10-25T18:41:48Z",
+    "url": "https://github.com/haomingkoo/haomingkoo.github.io"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 32,
+    "updated_at": "2026-10-25T18:39:56Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
+    "id": "acornops/control-plane",
     "language": "TypeScript",
-    "name": "acornops/management-console",
+    "name": "acornops/control-plane",
     "stars": 2,
-    "updated_at": "2026-10-25T18:29:21Z",
-    "url": "https://github.com/acornops/management-console"
+    "updated_at": "2026-10-25T18:37:51Z",
+    "url": "https://github.com/acornops/control-plane"
+  },
+  {
+    "description": "Kubernetes agent for AcornOps, providing outbound cluster connectivity, read-only discovery, and controlled tool executi",
+    "id": "acornops/agentk",
+    "language": "TypeScript",
+    "name": "acornops/agentk",
+    "stars": 2,
+    "updated_at": "2026-10-25T18:37:51Z",
+    "url": "https://github.com/acornops/agentk"
+  },
+  {
+    "description": "Linux VM agent for AcornOps, providing outbound system connectivity, host inspection, and controlled VM operations.",
+    "id": "acornops/agentv",
+    "language": "TypeScript",
+    "name": "acornops/agentv",
+    "stars": 1,
+    "updated_at": "2026-10-25T18:37:51Z",
+    "url": "https://github.com/acornops/agentv"
+  },
+  {
+    "description": "Run execution service for AcornOps, responsible for worker lifecycle, streaming run events, and tool execution coordinat",
+    "id": "acornops/execution-engine",
+    "language": "Python",
+    "name": "acornops/execution-engine",
+    "stars": 2,
+    "updated_at": "2026-10-25T18:37:51Z",
+    "url": "https://github.com/acornops/execution-engine"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-10-25T18:35:43Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -14,8 +95,26 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11995,
-    "updated_at": "2026-10-25T18:28:17Z",
+    "updated_at": "2026-10-25T18:34:24Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "AI agent execution governance: pre-effect authorization, single-use permissions, policy enforcement, and verifiable reco",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 42,
+    "updated_at": "2026-10-25T18:35:49Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "AI Radar | \u57fa\u4e8e\u8bc1\u636e\u7684 AI \u6280\u672f\u7814\u7a76\u4e0e\u9009\u578b\u5e73\u53f0\u3002React + FastAPI\uff0c\u63d0\u4f9b\u53ef\u6838\u9a8c\u5b98\u65b9\u8d44\u6599\u4e0e\u53ef\u590d\u73b0\u4f5c\u54c1\u96c6\u5165\u53e3\u3002",
+    "id": "xuerp/ai-knowledge-explorer",
+    "language": "Python",
+    "name": "xuerp/ai-knowledge-explorer",
+    "stars": 0,
+    "updated_at": "2026-10-25T18:32:05Z",
+    "url": "https://github.com/xuerp/ai-knowledge-explorer"
   },
   {
     "description": "Scheduled agent reviews for your repositories, defined in Git. Approved access, sandboxed runs, a full audit trail.",
@@ -23,8 +122,35 @@
     "language": "Python",
     "name": "piotrekno1/second-shift",
     "stars": 1,
-    "updated_at": "2026-10-25T18:26:37Z",
+    "updated_at": "2026-10-25T18:33:00Z",
     "url": "https://github.com/piotrekno1/second-shift"
+  },
+  {
+    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
+    "id": "crewhaus/factory",
+    "language": "TypeScript",
+    "name": "crewhaus/factory",
+    "stars": 3,
+    "updated_at": "2026-10-25T18:30:40Z",
+    "url": "https://github.com/crewhaus/factory"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-25T18:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
+    "id": "acornops/management-console",
+    "language": "TypeScript",
+    "name": "acornops/management-console",
+    "stars": 2,
+    "updated_at": "2026-10-25T18:29:21Z",
+    "url": "https://github.com/acornops/management-console"
   },
   {
     "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
@@ -36,15 +162,6 @@
     "url": "https://github.com/a-novel/service-genai"
   },
   {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 32,
-    "updated_at": "2026-10-25T18:24:30Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
     "description": "OpenAI-compatible AI execution plane on Kubernetes with MCP, vLLM, and policy.",
     "id": "justrunme/ai-runtime-platform",
     "language": "Python",
@@ -52,24 +169,6 @@
     "stars": 2,
     "updated_at": "2026-10-25T18:23:09Z",
     "url": "https://github.com/justrunme/ai-runtime-platform"
-  },
-  {
-    "description": "Source for kooexperience.com, Haoming Koo\u2019s applied AI engineering portfolio with live products, case studies, structure",
-    "id": "haomingkoo/haomingkoo.github.io",
-    "language": "HTML",
-    "name": "haomingkoo/haomingkoo.github.io",
-    "stars": 0,
-    "updated_at": "2026-10-25T18:21:42Z",
-    "url": "https://github.com/haomingkoo/haomingkoo.github.io"
-  },
-  {
-    "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
-    "id": "acornops/control-plane",
-    "language": "TypeScript",
-    "name": "acornops/control-plane",
-    "stars": 2,
-    "updated_at": "2026-10-25T18:21:13Z",
-    "url": "https://github.com/acornops/control-plane"
   },
   {
     "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
@@ -81,15 +180,6 @@
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-25T18:19:47Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Hybrid RAG (DuckDB vector + BM25 + RRF + recency/keyword priors + optional cross-encoder rerank) as an installable libra",
     "id": "redevops-io/redevops-rag",
     "language": "Python",
@@ -97,33 +187,6 @@
     "stars": 9,
     "updated_at": "2026-10-25T18:18:50Z",
     "url": "https://github.com/redevops-io/redevops-rag"
-  },
-  {
-    "description": "Run execution service for AcornOps, responsible for worker lifecycle, streaming run events, and tool execution coordinat",
-    "id": "acornops/execution-engine",
-    "language": "Python",
-    "name": "acornops/execution-engine",
-    "stars": 2,
-    "updated_at": "2026-10-25T18:18:38Z",
-    "url": "https://github.com/acornops/execution-engine"
-  },
-  {
-    "description": "Kubernetes agent for AcornOps, providing outbound cluster connectivity, read-only discovery, and controlled tool executi",
-    "id": "acornops/agentk",
-    "language": "TypeScript",
-    "name": "acornops/agentk",
-    "stars": 2,
-    "updated_at": "2026-10-25T18:18:38Z",
-    "url": "https://github.com/acornops/agentk"
-  },
-  {
-    "description": "Linux VM agent for AcornOps, providing outbound system connectivity, host inspection, and controlled VM operations.",
-    "id": "acornops/agentv",
-    "language": "TypeScript",
-    "name": "acornops/agentv",
-    "stars": 1,
-    "updated_at": "2026-10-25T18:18:38Z",
-    "url": "https://github.com/acornops/agentv"
   },
   {
     "description": "Faire vivre des agents outill\u00e9s, contr\u00f4l\u00e9s et supervis\u00e9s dans la dur\u00e9e.",
@@ -153,21 +216,12 @@
     "url": "https://github.com/toxicwind/ranch"
   },
   {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-10-25T18:09:57Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 62021,
-    "updated_at": "2026-10-25T18:09:32Z",
+    "updated_at": "2026-10-25T18:35:04Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -198,15 +252,6 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "A dry run for AI agents: record their tool calls, see what your rules would have blocked or sent for approval, and keep ",
-    "id": "ntinosgkiou-code/agentdryrun",
-    "language": "Python",
-    "name": "ntinosgkiou-code/agentdryrun",
-    "stars": 0,
-    "updated_at": "2026-10-25T18:04:34Z",
-    "url": "https://github.com/ntinosgkiou-code/agentdryrun"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -216,21 +261,12 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Benchmarking vision-language models for handwritten form extraction with confidence flags and human review. Case study: ",
-    "id": "tibendadavis/handwritten-forms-vlm-bench",
-    "language": "Python",
-    "name": "tibendadavis/handwritten-forms-vlm-bench",
-    "stars": 0,
-    "updated_at": "2026-10-25T18:02:25Z",
-    "url": "https://github.com/tibendadavis/handwritten-forms-vlm-bench"
-  },
-  {
     "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
     "id": "holetz/quenching",
     "language": "Python",
     "name": "holetz/quenching",
     "stars": 0,
-    "updated_at": "2026-10-25T18:16:20Z",
+    "updated_at": "2026-10-25T18:38:21Z",
     "url": "https://github.com/holetz/quenching"
   },
   {
@@ -250,15 +286,6 @@
     "stars": 4,
     "updated_at": "2026-10-25T18:00:37Z",
     "url": "https://github.com/burakdede/lorepack"
-  },
-  {
-    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
-    "id": "crewhaus/factory",
-    "language": "TypeScript",
-    "name": "crewhaus/factory",
-    "stars": 3,
-    "updated_at": "2026-10-25T18:00:11Z",
-    "url": "https://github.com/crewhaus/factory"
   },
   {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
@@ -284,7 +311,7 @@
     "language": "Python",
     "name": "overmind-core/overmind",
     "stars": 681,
-    "updated_at": "2026-10-25T17:49:11Z",
+    "updated_at": "2026-10-25T18:35:19Z",
     "url": "https://github.com/overmind-core/overmind"
   },
   {
@@ -319,7 +346,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26416,
+    "stars": 26417,
     "updated_at": "2026-10-25T17:32:59Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -365,7 +392,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4992,
-    "updated_at": "2026-10-25T18:03:21Z",
+    "updated_at": "2026-10-25T18:37:57Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 30745,
     "updated_at": "2026-10-25T18:29:22Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Self-hosted prompt library and template editor with an MCP server for ChatGPT. Save prompts as sections with {{variables",
-    "id": "chrysogonus/prompt-maker-studio",
-    "language": "TypeScript",
-    "name": "chrysogonus/prompt-maker-studio",
-    "stars": 3,
-    "updated_at": "2026-10-25T16:55:12Z",
-    "url": "https://github.com/chrysogonus/prompt-maker-studio"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 736,
-    "updated_at": "2026-10-25T16:49:16Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Declarative AI agent orchestration with runtime guarantees: YAML blueprints compiled to LangGraph, with lint, determinis",
-    "id": "ahmetatar/agent-blueprint",
-    "language": "Python",
-    "name": "ahmetatar/agent-blueprint",
-    "stars": 5,
-    "updated_at": "2026-10-25T16:48:41Z",
-    "url": "https://github.com/ahmetatar/agent-blueprint"
   }
 ]
