@@ -1,12 +1,48 @@
 [
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 42,
-    "updated_at": "2026-10-25T15:13:17Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 24,
+    "updated_at": "2026-10-25T15:30:01Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Ask your coding agent about your LLM app in plain English; it answers from your Langfuse data with lf. CLI + agent skill",
+    "id": "tns15june/langfuse-agent-cli",
+    "language": "Python",
+    "name": "tns15june/langfuse-agent-cli",
+    "stars": 0,
+    "updated_at": "2026-10-25T15:27:55Z",
+    "url": "https://github.com/tns15june/langfuse-agent-cli"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 32,
+    "updated_at": "2026-10-25T15:25:38Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36448,
+    "updated_at": "2026-10-25T15:25:31Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "End-to-end LLMOps system for natural-language questions over tabular data. Routes simple queries to classical ML and ana",
+    "id": "Aakifah/slm_mlops",
+    "language": "Python",
+    "name": "Aakifah/slm_mlops",
+    "stars": 0,
+    "updated_at": "2026-10-25T15:25:21Z",
+    "url": "https://github.com/Aakifah/slm_mlops"
   },
   {
     "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
@@ -14,8 +50,53 @@
     "language": "Python",
     "name": "ZIZKA-AI-SL/ZizkaDB",
     "stars": 146,
-    "updated_at": "2026-10-25T15:13:12Z",
+    "updated_at": "2026-10-25T15:24:16Z",
     "url": "https://github.com/ZIZKA-AI-SL/ZizkaDB"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 42,
+    "updated_at": "2026-10-25T15:23:32Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Senior MLOps Engineer focused on AI platforms, production ML, and LLM systems.",
+    "id": "anishmahapatra/anishmahapatra",
+    "language": "\u2014",
+    "name": "anishmahapatra/anishmahapatra",
+    "stars": 0,
+    "updated_at": "2026-10-25T15:17:17Z",
+    "url": "https://github.com/anishmahapatra/anishmahapatra"
+  },
+  {
+    "description": "Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper",
+    "id": "acornops/acornops-deployment",
+    "language": "JavaScript",
+    "name": "acornops/acornops-deployment",
+    "stars": 2,
+    "updated_at": "2026-10-25T15:16:20Z",
+    "url": "https://github.com/acornops/acornops-deployment"
+  },
+  {
+    "description": "Graph harness for AI agents: a governed runtime on bipartite graphs (places and transitions) that executes models with s",
+    "id": "alexejsailer/agentic-nets",
+    "language": "Python",
+    "name": "alexejsailer/agentic-nets",
+    "stars": 7,
+    "updated_at": "2026-10-25T15:15:47Z",
+    "url": "https://github.com/alexejsailer/agentic-nets"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-25T15:15:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -23,7 +104,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28526,
-    "updated_at": "2026-10-25T15:12:59Z",
+    "updated_at": "2026-10-25T15:20:09Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -41,7 +122,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-25T15:13:20Z",
+    "updated_at": "2026-10-25T15:23:39Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -52,24 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T15:07:33Z",
     "url": "https://github.com/toxicwind/ranch"
-  },
-  {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 32,
-    "updated_at": "2026-10-25T15:03:32Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-25T15:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
@@ -99,15 +162,6 @@
     "url": "https://github.com/GetSHIM/shim"
   },
   {
-    "description": "Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper",
-    "id": "acornops/acornops-deployment",
-    "language": "JavaScript",
-    "name": "acornops/acornops-deployment",
-    "stars": 2,
-    "updated_at": "2026-10-25T14:57:29Z",
-    "url": "https://github.com/acornops/acornops-deployment"
-  },
-  {
     "description": "Admin API for Cycles \u2014 tenants, budgets, API keys, webhooks, audit, and governance",
     "id": "runcycles/cycles-server-admin",
     "language": "Java",
@@ -131,7 +185,7 @@
     "language": "Rust",
     "name": "systempromptio/systemprompt-core",
     "stars": 8,
-    "updated_at": "2026-10-25T14:55:01Z",
+    "updated_at": "2026-10-25T15:27:29Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
@@ -225,30 +279,12 @@
     "url": "https://github.com/MartinCastroAlvarez/langsmith-agent-evals"
   },
   {
-    "description": "End-to-end LLMOps system for natural-language questions over tabular data. Routes simple queries to classical ML and ana",
-    "id": "Aakifah/slm_mlops",
-    "language": "Python",
-    "name": "Aakifah/slm_mlops",
-    "stars": 0,
-    "updated_at": "2026-10-25T14:35:32Z",
-    "url": "https://github.com/Aakifah/slm_mlops"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 24,
-    "updated_at": "2026-10-25T14:38:17Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
     "id": "mloda-ai/mloda",
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 96,
-    "updated_at": "2026-10-25T14:33:30Z",
+    "updated_at": "2026-10-25T15:29:02Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -387,15 +423,6 @@
     "url": "https://github.com/MartinCastroAlvarez/crewai-hierarchical-planning"
   },
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36446,
-    "updated_at": "2026-10-25T13:30:13Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
     "id": "Cyrax321/CONTINUUM",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-25T13:17:12Z",
     "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 2200,
-    "updated_at": "2026-10-25T13:15:44Z",
-    "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
-    "id": "korczis/prismatic-majordomus",
-    "language": "Rust",
-    "name": "korczis/prismatic-majordomus",
-    "stars": 0,
-    "updated_at": "2026-10-25T15:03:15Z",
-    "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
-    "description": "Agentic RAG in Google ADK on Vertex AI Vector Search: query rewriting, metadata filters, multi-hop with a hop budget, ch",
-    "id": "MartinCastroAlvarez/adk-vertex-vector-search",
-    "language": "Python",
-    "name": "MartinCastroAlvarez/adk-vertex-vector-search",
-    "stars": 0,
-    "updated_at": "2026-10-25T12:56:11Z",
-    "url": "https://github.com/MartinCastroAlvarez/adk-vertex-vector-search"
   }
 ]
