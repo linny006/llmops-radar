@@ -1,11 +1,65 @@
 [
   {
+    "description": "LLM and tool gateway for AcornOps, brokering model providers, MCP tools, policy enforcement, and runtime credentials.",
+    "id": "acornops/llm-gateway",
+    "language": "Python",
+    "name": "acornops/llm-gateway",
+    "stars": 2,
+    "updated_at": "2026-10-25T04:59:48Z",
+    "url": "https://github.com/acornops/llm-gateway"
+  },
+  {
+    "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
+    "id": "acornops/control-plane",
+    "language": "TypeScript",
+    "name": "acornops/control-plane",
+    "stars": 2,
+    "updated_at": "2026-10-25T04:59:47Z",
+    "url": "https://github.com/acornops/control-plane"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 11,
+    "updated_at": "2026-10-25T04:58:43Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
+    "id": "holetz/quenching",
+    "language": "Python",
+    "name": "holetz/quenching",
+    "stars": 0,
+    "updated_at": "2026-10-25T04:56:44Z",
+    "url": "https://github.com/holetz/quenching"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26392,
+    "updated_at": "2026-10-25T04:52:18Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-25T04:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28522,
-    "updated_at": "2026-10-25T04:44:28Z",
+    "updated_at": "2026-10-25T04:59:07Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -18,15 +72,6 @@
     "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
-    "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
-    "id": "holetz/quenching",
-    "language": "Python",
-    "name": "holetz/quenching",
-    "stars": 0,
-    "updated_at": "2026-10-25T04:45:21Z",
-    "url": "https://github.com/holetz/quenching"
-  },
-  {
     "description": "Calibrated trust gate for AI agents \u2014 act, escalate, or abstain. It knows when it doesn't know. pip install warmwinter",
     "id": "ricovigil1/warmwinter-sdk",
     "language": "Python",
@@ -34,33 +79,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T04:38:49Z",
     "url": "https://github.com/ricovigil1/warmwinter-sdk"
-  },
-  {
-    "description": "LLM and tool gateway for AcornOps, brokering model providers, MCP tools, policy enforcement, and runtime credentials.",
-    "id": "acornops/llm-gateway",
-    "language": "Python",
-    "name": "acornops/llm-gateway",
-    "stars": 2,
-    "updated_at": "2026-10-25T04:39:51Z",
-    "url": "https://github.com/acornops/llm-gateway"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-25T04:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26392,
-    "updated_at": "2026-10-25T04:31:28Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Tamper-evident receipts for reported LLM efficiency events. Offline integrity and benchmark-arithmetic verification, wit",
@@ -81,15 +99,6 @@
     "url": "https://github.com/burakdede/lorepack"
   },
   {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 11,
-    "updated_at": "2026-10-25T04:12:26Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
     "id": "toxicwind/ranch",
     "language": "Rust",
@@ -97,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T04:09:48Z",
     "url": "https://github.com/toxicwind/ranch"
-  },
-  {
-    "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
-    "id": "acornops/control-plane",
-    "language": "TypeScript",
-    "name": "acornops/control-plane",
-    "stars": 2,
-    "updated_at": "2026-10-25T04:14:40Z",
-    "url": "https://github.com/acornops/control-plane"
   },
   {
     "description": "Self-hostable AI token pools \u2014 govern your org's AI usage with per-member keys, quotas, and leak detection; or deposit s",
@@ -122,7 +122,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61985,
-    "updated_at": "2026-10-25T04:45:00Z",
+    "updated_at": "2026-10-25T04:59:36Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -131,7 +131,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8965,
-    "updated_at": "2026-10-25T04:35:06Z",
+    "updated_at": "2026-10-25T04:53:27Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -176,7 +176,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1373,
-    "updated_at": "2026-10-25T04:31:43Z",
+    "updated_at": "2026-10-25T04:55:35Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -184,7 +184,7 @@
     "id": "respanai/respan-gateway",
     "language": "Rust",
     "name": "respanai/respan-gateway",
-    "stars": 264,
+    "stars": 265,
     "updated_at": "2026-10-25T03:10:28Z",
     "url": "https://github.com/respanai/respan-gateway"
   },
@@ -211,7 +211,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 36397,
+    "stars": 36398,
     "updated_at": "2026-10-25T02:57:04Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -221,7 +221,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 117,
-    "updated_at": "2026-10-25T04:44:08Z",
+    "updated_at": "2026-10-25T04:51:18Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -365,7 +365,7 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-25T04:22:14Z",
+    "updated_at": "2026-10-25T04:52:49Z",
     "url": "https://github.com/srjn45/warden"
   },
   {

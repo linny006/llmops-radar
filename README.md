@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-25 04:45 UTC
+> ⏰ Last updated: 2026-10-25 05:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,18 +42,18 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 28522 | Python | 2026-10-25 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
-| 2 | [llmspendguard/llm-spendguard](https://github.com/llmspendguard/llm-spendguard) | 0 | Python | 2026-10-25 | Know what an LLM job will cost before you run it — and prove your ledger matches the provider's bill. Pre-submit estimat |
-| 3 | [holetz/quenching](https://github.com/holetz/quenching) | 0 | Python | 2026-10-25 | Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape |
-| 4 | [ricovigil1/warmwinter-sdk](https://github.com/ricovigil1/warmwinter-sdk) | 0 | Python | 2026-10-25 | Calibrated trust gate for AI agents — act, escalate, or abstain. It knows when it doesn't know. pip install warmwinter |
-| 5 | [acornops/llm-gateway](https://github.com/acornops/llm-gateway) | 2 | Python | 2026-10-25 | LLM and tool gateway for AcornOps, brokering model providers, MCP tools, policy enforcement, and runtime credentials. |
+| 1 | [acornops/llm-gateway](https://github.com/acornops/llm-gateway) | 2 | Python | 2026-10-25 | LLM and tool gateway for AcornOps, brokering model providers, MCP tools, policy enforcement, and runtime credentials. |
+| 2 | [acornops/control-plane](https://github.com/acornops/control-plane) | 2 | TypeScript | 2026-10-25 | AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo |
+| 3 | [llmsyscore/llm-systems-manager](https://github.com/llmsyscore/llm-systems-manager) | 11 | Python | 2026-10-25 | LLM Systems Manager — real-time observability and control for LLM systems |
+| 4 | [holetz/quenching](https://github.com/holetz/quenching) | 0 | Python | 2026-10-25 | Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape |
+| 5 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26392 | TypeScript | 2026-10-25 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 6 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-25 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 7 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26392 | TypeScript | 2026-10-25 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 8 | [thequantumfalcon/kry](https://github.com/thequantumfalcon/kry) | 1 | Python | 2026-10-25 | Tamper-evident receipts for reported LLM efficiency events. Offline integrity and benchmark-arithmetic verification, wit |
-| 9 | [burakdede/lorepack](https://github.com/burakdede/lorepack) | 4 | TypeScript | 2026-10-25 | Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod |
-| 10 | [llmsyscore/llm-systems-manager](https://github.com/llmsyscore/llm-systems-manager) | 11 | Python | 2026-10-25 | LLM Systems Manager — real-time observability and control for LLM systems |
-| 11 | [toxicwind/ranch](https://github.com/toxicwind/ranch) | 0 | Rust | 2026-10-25 | The self-hosted LLM estate in one monorepo — local model serving, cloud provider routing, MCP gateway, build jobs. All O |
-| 12 | [acornops/control-plane](https://github.com/acornops/control-plane) | 2 | TypeScript | 2026-10-25 | AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo |
+| 7 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 28522 | Python | 2026-10-25 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
+| 8 | [llmspendguard/llm-spendguard](https://github.com/llmspendguard/llm-spendguard) | 0 | Python | 2026-10-25 | Know what an LLM job will cost before you run it — and prove your ledger matches the provider's bill. Pre-submit estimat |
+| 9 | [ricovigil1/warmwinter-sdk](https://github.com/ricovigil1/warmwinter-sdk) | 0 | Python | 2026-10-25 | Calibrated trust gate for AI agents — act, escalate, or abstain. It knows when it doesn't know. pip install warmwinter |
+| 10 | [thequantumfalcon/kry](https://github.com/thequantumfalcon/kry) | 1 | Python | 2026-10-25 | Tamper-evident receipts for reported LLM efficiency events. Offline integrity and benchmark-arithmetic verification, wit |
+| 11 | [burakdede/lorepack](https://github.com/burakdede/lorepack) | 4 | TypeScript | 2026-10-25 | Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod |
+| 12 | [toxicwind/ranch](https://github.com/toxicwind/ranch) | 0 | Rust | 2026-10-25 | The self-hosted LLM estate in one monorepo — local model serving, cloud provider routing, MCP gateway, build jobs. All O |
 | 13 | [Phat1911/Tributary](https://github.com/Phat1911/Tributary) | 1 | Rust | 2026-10-25 | Self-hostable AI token pools — govern your org's AI usage with per-member keys, quotas, and leak detection; or deposit s |
 | 14 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 61985 | Python | 2026-10-25 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
 | 15 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 8965 | Rust | 2026-10-25 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
@@ -62,10 +62,10 @@ expired items removed — so you can rely on what you see being current.
 | 18 | [StefanYasin/awesome-agent-ops](https://github.com/StefanYasin/awesome-agent-ops) | 0 | Python | 2026-10-25 | A curated list of tools for operating AI agents in production: observability, evaluation, guardrails, sandboxing, MCP se |
 | 19 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-10-25 | Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
 | 20 | [alibaba/rtp-llm](https://github.com/alibaba/rtp-llm) | 1373 | Python | 2026-10-25 | RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications. |
-| 21 | [respanai/respan-gateway](https://github.com/respanai/respan-gateway) | 264 | Rust | 2026-10-25 | One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary. |
+| 21 | [respanai/respan-gateway](https://github.com/respanai/respan-gateway) | 265 | Rust | 2026-10-25 | One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary. |
 | 22 | [Root1V/argus-observability-platform](https://github.com/Root1V/argus-observability-platform) | 1 | Python | 2026-10-25 | Production-grade observability and agentic AIOps for AI systems — OpenTelemetry-native across independent polyglot apps; |
 | 23 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 30738 | TypeScript | 2026-10-25 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |
-| 24 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 36397 | TypeScript | 2026-10-25 | 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform. |
+| 24 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 36398 | TypeScript | 2026-10-25 | 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform. |
 | 25 | [cloudrift-ai/emmy](https://github.com/cloudrift-ai/emmy) | 117 | Python | 2026-10-25 | Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel  |
 | 26 | [runcycles/cycles-client-typescript](https://github.com/runcycles/cycles-client-typescript) | 0 | TypeScript | 2026-10-25 | TypeScript SDK for Cycles — runtime budget and action authority for Node.js AI agents |
 | 27 | [Chris0Jeky/agent-harness](https://github.com/Chris0Jeky/agent-harness) | 3 | Python | 2026-10-25 | Policy, measurement, and operations workbench for running Codex and Claude agents safely across a GitHub estate. |
