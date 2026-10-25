@@ -1,5 +1,50 @@
 [
   {
+    "description": "One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary.",
+    "id": "respanai/respan-gateway",
+    "language": "Rust",
+    "name": "respanai/respan-gateway",
+    "stars": 257,
+    "updated_at": "2026-10-25T01:59:07Z",
+    "url": "https://github.com/respanai/respan-gateway"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26391,
+    "updated_at": "2026-10-25T01:59:41Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio",
+    "id": "naim-munshi/metriqen-llm-serving-optimization",
+    "language": "Python",
+    "name": "naim-munshi/metriqen-llm-serving-optimization",
+    "stars": 0,
+    "updated_at": "2026-10-25T01:54:28Z",
+    "url": "https://github.com/naim-munshi/metriqen-llm-serving-optimization"
+  },
+  {
+    "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
+    "id": "holetz/quenching",
+    "language": "Python",
+    "name": "holetz/quenching",
+    "stars": 0,
+    "updated_at": "2026-10-25T01:58:03Z",
+    "url": "https://github.com/holetz/quenching"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-25T01:45:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "ThakiCloud Tech Blog",
     "id": "ThakiCloud/thakicloud.github.io",
     "language": "JavaScript",
@@ -7,6 +52,15 @@
     "stars": 4,
     "updated_at": "2026-10-25T01:44:09Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61981,
+    "updated_at": "2026-10-25T01:59:40Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Terraform provider for Anthropic and Claude organizations: workspaces, members, invites, API keys, service accounts, wor",
@@ -54,15 +108,6 @@
     "url": "https://github.com/hanmahong5-arch/lumen"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26390,
-    "updated_at": "2026-10-25T01:32:55Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
     "id": "pom11/hscc",
     "language": "Python",
@@ -70,15 +115,6 @@
     "stars": 7,
     "updated_at": "2026-10-25T01:31:41Z",
     "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-25T01:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Enterprise Scale AIFactory (esml) - on Azure",
@@ -97,15 +133,6 @@
     "stars": 4,
     "updated_at": "2026-10-25T01:27:15Z",
     "url": "https://github.com/runcycles/cycles-protocol"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61980,
-    "updated_at": "2026-10-25T01:42:13Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
@@ -153,20 +180,20 @@
     "url": "https://github.com/runcycles/.github"
   },
   {
-    "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
-    "id": "holetz/quenching",
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
     "language": "Python",
-    "name": "holetz/quenching",
-    "stars": 1,
-    "updated_at": "2026-10-25T01:43:24Z",
-    "url": "https://github.com/holetz/quenching"
+    "name": "mlflow/mlflow",
+    "stars": 28522,
+    "updated_at": "2026-10-25T01:02:24Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 30732,
+    "stars": 30733,
     "updated_at": "2026-10-25T01:01:50Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -266,7 +293,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-25T01:16:28Z",
+    "updated_at": "2026-10-25T01:50:35Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -275,7 +302,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8964,
-    "updated_at": "2026-10-25T01:30:02Z",
+    "updated_at": "2026-10-25T01:54:16Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -310,7 +337,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 36377,
+    "stars": 36378,
     "updated_at": "2026-10-25T00:09:23Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -322,15 +349,6 @@
     "stars": 4,
     "updated_at": "2026-10-25T00:14:28Z",
     "url": "https://github.com/burakdede/lorepack"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28521,
-    "updated_at": "2026-10-25T01:02:24Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude ",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-24T22:33:36Z",
     "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "Production-grade observability and agentic AIOps for AI systems \u2014 OpenTelemetry-native across independent polyglot apps;",
-    "id": "Root1V/argus-observability-platform",
-    "language": "Python",
-    "name": "Root1V/argus-observability-platform",
-    "stars": 1,
-    "updated_at": "2026-10-24T22:30:50Z",
-    "url": "https://github.com/Root1V/argus-observability-platform"
-  },
-  {
-    "description": "Hands-on, framework-free Colab notebooks for the AI Engineer / Forward Deployed Engineer (FDE) skill set \u2014 model APIs, s",
-    "id": "calmrocks/ai-engineer-notebooks",
-    "language": "Jupyter Notebook",
-    "name": "calmrocks/ai-engineer-notebooks",
-    "stars": 709,
-    "updated_at": "2026-10-24T22:26:52Z",
-    "url": "https://github.com/calmrocks/ai-engineer-notebooks"
   }
 ]
