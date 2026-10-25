@@ -1,5 +1,68 @@
 [
   {
+    "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
+    "id": "holetz/quenching",
+    "language": "Python",
+    "name": "holetz/quenching",
+    "stars": 0,
+    "updated_at": "2026-10-25T09:59:36Z",
+    "url": "https://github.com/holetz/quenching"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 96,
+    "updated_at": "2026-10-25T09:57:16Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "Scheduled agent reviews for your repositories, defined in Git. Approved access, sandboxed runs, a full audit trail.",
+    "id": "piotrekno1/second-shift",
+    "language": "Python",
+    "name": "piotrekno1/second-shift",
+    "stars": 1,
+    "updated_at": "2026-10-25T09:51:43Z",
+    "url": "https://github.com/piotrekno1/second-shift"
+  },
+  {
+    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
+    "id": "acornops/management-console",
+    "language": "TypeScript",
+    "name": "acornops/management-console",
+    "stars": 2,
+    "updated_at": "2026-10-25T09:49:39Z",
+    "url": "https://github.com/acornops/management-console"
+  },
+  {
+    "description": "A self-updating, auto-classified map of the GenAI engineering stack: agents, MCP, memory, RAG, evals, LLMOps, AI securit",
+    "id": "alebgl77/awesome-ai-architect",
+    "language": "Python",
+    "name": "alebgl77/awesome-ai-architect",
+    "stars": 0,
+    "updated_at": "2026-10-25T09:47:44Z",
+    "url": "https://github.com/alebgl77/awesome-ai-architect"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 24,
+    "updated_at": "2026-10-25T09:47:41Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-25T09:45:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
     "id": "systempromptio/systemprompt-core",
     "language": "Rust",
@@ -7,15 +70,6 @@
     "stars": 8,
     "updated_at": "2026-10-25T09:43:14Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
-    "id": "holetz/quenching",
-    "language": "Python",
-    "name": "holetz/quenching",
-    "stars": 0,
-    "updated_at": "2026-10-25T09:43:52Z",
-    "url": "https://github.com/holetz/quenching"
   },
   {
     "description": "Self-hosted LLM gateway in Rust: one OpenAI-compatible API for OpenAI, Anthropic, Gemini, Azure, Ollama and more, with v",
@@ -45,15 +99,6 @@
     "url": "https://github.com/langwatch/langwatch"
   },
   {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 24,
-    "updated_at": "2026-10-25T09:36:14Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
     "id": "pom11/hscc",
     "language": "Python",
@@ -61,6 +106,15 @@
     "stars": 7,
     "updated_at": "2026-10-25T09:33:29Z",
     "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26399,
+    "updated_at": "2026-10-25T09:32:18Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper",
@@ -81,15 +135,6 @@
     "url": "https://github.com/JiarongGu/Lyntai"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-25T09:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Open-source, self-hosted AI-assisted operations for Kubernetes and Linux. Start here for source, architecture, deploymen",
     "id": "acornops/acornops",
     "language": "JavaScript",
@@ -99,15 +144,6 @@
     "url": "https://github.com/acornops/acornops"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26398,
-    "updated_at": "2026-10-25T09:32:18Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
     "id": "acornops/control-plane",
     "language": "TypeScript",
@@ -115,6 +151,15 @@
     "stars": 2,
     "updated_at": "2026-10-25T09:32:44Z",
     "url": "https://github.com/acornops/control-plane"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 2199,
+    "updated_at": "2026-10-25T09:27:33Z",
+    "url": "https://github.com/future-agi/future-agi"
   },
   {
     "description": "Production-grade observability and agentic AIOps for AI systems \u2014 OpenTelemetry-native across independent polyglot apps;",
@@ -144,15 +189,6 @@
     "url": "https://github.com/digline/digline"
   },
   {
-    "description": "Scheduled agent reviews for your repositories, defined in Git. Approved access, sandboxed runs, a full audit trail.",
-    "id": "piotrekno1/second-shift",
-    "language": "Python",
-    "name": "piotrekno1/second-shift",
-    "stars": 1,
-    "updated_at": "2026-10-25T09:22:48Z",
-    "url": "https://github.com/piotrekno1/second-shift"
-  },
-  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -167,7 +203,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 117,
-    "updated_at": "2026-10-25T09:27:29Z",
+    "updated_at": "2026-10-25T09:57:13Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -239,7 +275,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28524,
-    "updated_at": "2026-10-25T08:38:05Z",
+    "updated_at": "2026-10-25T10:00:13Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -338,7 +374,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1373,
-    "updated_at": "2026-10-25T07:57:47Z",
+    "updated_at": "2026-10-25T09:59:31Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-25T07:31:48Z",
     "url": "https://github.com/Phat1911/Tributary"
-  },
-  {
-    "description": "Open-source LLM observability. See every prompt, completion, token, cost, latency and error as traces and sessions. Pyth",
-    "id": "dheerajkarwasra/spanlight",
-    "language": "Python",
-    "name": "dheerajkarwasra/spanlight",
-    "stars": 0,
-    "updated_at": "2026-10-25T07:31:13Z",
-    "url": "https://github.com/dheerajkarwasra/spanlight"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 3009,
-    "updated_at": "2026-10-25T09:29:16Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "",
-    "id": "ainsel-project/ainsel",
-    "language": "Go",
-    "name": "ainsel-project/ainsel",
-    "stars": 2,
-    "updated_at": "2026-10-25T07:24:29Z",
-    "url": "https://github.com/ainsel-project/ainsel"
-  },
-  {
-    "description": "Source for kooexperience.com, Haoming Koo\u2019s applied AI engineering portfolio with live products, case studies, structure",
-    "id": "haomingkoo/haomingkoo.github.io",
-    "language": "HTML",
-    "name": "haomingkoo/haomingkoo.github.io",
-    "stars": 0,
-    "updated_at": "2026-10-25T07:13:43Z",
-    "url": "https://github.com/haomingkoo/haomingkoo.github.io"
   }
 ]
