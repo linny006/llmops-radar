@@ -1,5 +1,77 @@
 [
   {
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
+    "language": "Python",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 53,
+    "updated_at": "2026-10-25T21:14:24Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
+    "description": "Local-first agent communication matrix for Claude, Gemini, OpenCode and ACP/A2A agents: multi-agent orchestration, agent",
+    "id": "Josepavese/matrix",
+    "language": "Go",
+    "name": "Josepavese/matrix",
+    "stars": 0,
+    "updated_at": "2026-10-25T21:09:48Z",
+    "url": "https://github.com/Josepavese/matrix"
+  },
+  {
+    "description": "A self-hosted OpenAI-compatible proxy and web app for debugging, testing, and improving AI agents.",
+    "id": "NordsteinSoftware/Proxytrace",
+    "language": "C#",
+    "name": "NordsteinSoftware/Proxytrace",
+    "stars": 3,
+    "updated_at": "2026-10-25T21:10:45Z",
+    "url": "https://github.com/NordsteinSoftware/Proxytrace"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-25T21:07:21Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Switch AI models without breaking your product: find every model your code calls and when it retires, turn real usage lo",
+    "id": "DeChuks-hub/llmshift",
+    "language": "Python",
+    "name": "DeChuks-hub/llmshift",
+    "stars": 0,
+    "updated_at": "2026-10-25T21:07:05Z",
+    "url": "https://github.com/DeChuks-hub/llmshift"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 62027,
+    "updated_at": "2026-10-25T21:05:12Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11998,
+    "updated_at": "2026-10-25T21:03:41Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-25T21:02:37Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
     "id": "vivek-541/vivek-541",
     "language": "HTML",
@@ -9,22 +81,13 @@
     "url": "https://github.com/vivek-541/vivek-541"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
     "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-25T21:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Enterprise Scale AIFactory (esml) - on Azure",
-    "id": "jostrm/azure-enterprise-scale-ml",
-    "language": "Python",
-    "name": "jostrm/azure-enterprise-scale-ml",
-    "stars": 53,
-    "updated_at": "2026-10-25T21:01:31Z",
-    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+    "name": "mlflow/mlflow",
+    "stars": 28530,
+    "updated_at": "2026-10-25T21:14:41Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Save Money and Usage Credit When Using AI Models",
@@ -45,15 +108,6 @@
     "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
-    "description": "Local-first agent communication matrix for Claude, Gemini, OpenCode and ACP/A2A agents: multi-agent orchestration, agent",
-    "id": "Josepavese/matrix",
-    "language": "Go",
-    "name": "Josepavese/matrix",
-    "stars": 0,
-    "updated_at": "2026-10-25T20:54:50Z",
-    "url": "https://github.com/Josepavese/matrix"
-  },
-  {
     "description": "Open-source replay and evidence infrastructure for AI agents. Capture runs as portable Run Capsules for replay, diff, li",
     "id": "MSKazemi/novafabric",
     "language": "Python",
@@ -61,15 +115,6 @@
     "stars": 7,
     "updated_at": "2026-10-25T20:49:59Z",
     "url": "https://github.com/MSKazemi/novafabric"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 62026,
-    "updated_at": "2026-10-25T20:48:26Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Source for kooexperience.com, Haoming Koo\u2019s applied AI engineering portfolio with live products, case studies, structure",
@@ -171,24 +216,6 @@
     "url": "https://github.com/piotrekno1/second-shift"
   },
   {
-    "description": "A self-hosted OpenAI-compatible proxy and web app for debugging, testing, and improving AI agents.",
-    "id": "NordsteinSoftware/Proxytrace",
-    "language": "C#",
-    "name": "NordsteinSoftware/Proxytrace",
-    "stars": 3,
-    "updated_at": "2026-10-25T20:09:13Z",
-    "url": "https://github.com/NordsteinSoftware/Proxytrace"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-25T20:08:08Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
     "id": "future-agi/future-agi",
     "language": "Python",
@@ -196,15 +223,6 @@
     "stars": 2200,
     "updated_at": "2026-10-25T20:07:44Z",
     "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11997,
-    "updated_at": "2026-10-25T20:05:36Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -302,7 +320,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8968,
-    "updated_at": "2026-10-25T20:30:09Z",
+    "updated_at": "2026-10-25T21:05:02Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -329,7 +347,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 117,
-    "updated_at": "2026-10-25T20:52:08Z",
+    "updated_at": "2026-10-25T21:05:33Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -400,7 +418,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 22915,
+    "stars": 22916,
     "updated_at": "2026-10-25T18:47:09Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-25T18:37:51Z",
     "url": "https://github.com/acornops/agentk"
-  },
-  {
-    "description": "Linux VM agent for AcornOps, providing outbound system connectivity, host inspection, and controlled VM operations.",
-    "id": "acornops/agentv",
-    "language": "TypeScript",
-    "name": "acornops/agentv",
-    "stars": 1,
-    "updated_at": "2026-10-25T18:37:51Z",
-    "url": "https://github.com/acornops/agentv"
-  },
-  {
-    "description": "Run execution service for AcornOps, responsible for worker lifecycle, streaming run events, and tool execution coordinat",
-    "id": "acornops/execution-engine",
-    "language": "Python",
-    "name": "acornops/execution-engine",
-    "stars": 2,
-    "updated_at": "2026-10-25T18:37:51Z",
-    "url": "https://github.com/acornops/execution-engine"
   }
 ]
