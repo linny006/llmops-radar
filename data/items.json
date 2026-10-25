@@ -1,12 +1,93 @@
 [
   {
-    "description": "Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude ",
-    "id": "Fast-Editor/Lynkr",
-    "language": "JavaScript",
-    "name": "Fast-Editor/Lynkr",
-    "stars": 639,
-    "updated_at": "2026-10-24T23:58:56Z",
-    "url": "https://github.com/Fast-Editor/Lynkr"
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61978,
+    "updated_at": "2026-10-25T00:14:18Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Model-agnostic Agent Skill: keep multiple hypotheses alive, test them against evidence, revive alternatives, collapse to",
+    "id": "Furox-Art/quantum-reasoning-skill",
+    "language": "Python",
+    "name": "Furox-Art/quantum-reasoning-skill",
+    "stars": 4,
+    "updated_at": "2026-10-25T00:13:09Z",
+    "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8965,
+    "updated_at": "2026-10-25T00:12:31Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "A control layer that decides how an LLM should speak before it speaks",
+    "id": "Furox-Art/eq-layer",
+    "language": "Python",
+    "name": "Furox-Art/eq-layer",
+    "stars": 0,
+    "updated_at": "2026-10-25T00:11:55Z",
+    "url": "https://github.com/Furox-Art/eq-layer"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 2,
+    "updated_at": "2026-10-25T00:10:14Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-10-25T00:10:00Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
+    "id": "burakdede/lorepack",
+    "language": "TypeScript",
+    "name": "burakdede/lorepack",
+    "stars": 4,
+    "updated_at": "2026-10-25T00:14:28Z",
+    "url": "https://github.com/burakdede/lorepack"
+  },
+  {
+    "description": "Open protocol for runtime budget and action authority over AI agents",
+    "id": "runcycles/cycles-protocol",
+    "language": "Python",
+    "name": "runcycles/cycles-protocol",
+    "stars": 4,
+    "updated_at": "2026-10-25T00:06:23Z",
+    "url": "https://github.com/runcycles/cycles-protocol"
+  },
+  {
+    "description": "Companion code for Hardening LLM Systems in Production (Manning Publications), by Rudrendu Paul and Sourav Nandy: halluc",
+    "id": "RudrenduPaul/hardening-llm-systems-production",
+    "language": "Python",
+    "name": "RudrenduPaul/hardening-llm-systems-production",
+    "stars": 0,
+    "updated_at": "2026-10-25T00:05:24Z",
+    "url": "https://github.com/RudrenduPaul/hardening-llm-systems-production"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36373,
+    "updated_at": "2026-10-25T00:09:23Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -14,26 +95,8 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28521,
-    "updated_at": "2026-10-24T23:58:13Z",
+    "updated_at": "2026-10-25T00:03:59Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36372,
-    "updated_at": "2026-10-24T23:53:06Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61978,
-    "updated_at": "2026-10-24T23:59:31Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -41,8 +104,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-10-24T23:45:23Z",
+    "updated_at": "2026-10-25T00:00:26Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude ",
+    "id": "Fast-Editor/Lynkr",
+    "language": "JavaScript",
+    "name": "Fast-Editor/Lynkr",
+    "stars": 639,
+    "updated_at": "2026-10-24T23:58:56Z",
+    "url": "https://github.com/Fast-Editor/Lynkr"
   },
   {
     "description": "Switch AI models without breaking your product: find every model your code calls and when it retires, turn real usage lo",
@@ -99,15 +171,6 @@
     "url": "https://github.com/yzhao062/auditable"
   },
   {
-    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
-    "id": "burakdede/lorepack",
-    "language": "TypeScript",
-    "name": "burakdede/lorepack",
-    "stars": 4,
-    "updated_at": "2026-10-24T23:35:06Z",
-    "url": "https://github.com/burakdede/lorepack"
-  },
-  {
     "description": "Profile of Dr. Ravi Teja Thiriveedhi \u2014 clinician turned AI systems architect: multi-agent platforms, AI governance, LLM ",
     "id": "Raviteja2k2k/Raviteja2k2k",
     "language": "Python",
@@ -142,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T23:06:55Z",
     "url": "https://github.com/toxicwind/ranch"
-  },
-  {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-10-24T23:53:50Z",
-    "url": "https://github.com/redevops-io/agentic-os"
   },
   {
     "description": "Agentic Runtime",
@@ -252,21 +306,12 @@
     "url": "https://github.com/pom11/hscc"
   },
   {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8964,
-    "updated_at": "2026-10-24T23:42:30Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
     "id": "mloda-ai/mloda",
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 96,
-    "updated_at": "2026-10-24T22:16:33Z",
+    "updated_at": "2026-10-25T00:14:59Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-24T21:03:21Z",
     "url": "https://github.com/DuqueOM/ml-platform"
-  },
-  {
-    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
-    "id": "acornops/management-console",
-    "language": "TypeScript",
-    "name": "acornops/management-console",
-    "stars": 2,
-    "updated_at": "2026-10-24T20:42:42Z",
-    "url": "https://github.com/acornops/management-console"
-  },
-  {
-    "description": "Every model call through one library: raw-HTTP provider adapters, a cost ledger row and an OpenTelemetry span per call, ",
-    "id": "Peter-A-P/compliant-ai-gateway",
-    "language": "Python",
-    "name": "Peter-A-P/compliant-ai-gateway",
-    "stars": 0,
-    "updated_at": "2026-10-24T20:26:02Z",
-    "url": "https://github.com/Peter-A-P/compliant-ai-gateway"
-  },
-  {
-    "description": "Parallel agents in LangGraph: Send fan-out to tool-using researcher subgraphs, reducer fan-in, sectioning and voting, wi",
-    "id": "MartinCastroAlvarez/langgraph-parallel-agents",
-    "language": "Python",
-    "name": "MartinCastroAlvarez/langgraph-parallel-agents",
-    "stars": 0,
-    "updated_at": "2026-10-24T20:24:00Z",
-    "url": "https://github.com/MartinCastroAlvarez/langgraph-parallel-agents"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 30731,
-    "updated_at": "2026-10-24T20:13:46Z",
-    "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
-    "id": "holetz/quenching",
-    "language": "Python",
-    "name": "holetz/quenching",
-    "stars": 1,
-    "updated_at": "2026-10-24T23:06:42Z",
-    "url": "https://github.com/holetz/quenching"
   }
 ]
