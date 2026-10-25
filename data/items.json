@@ -1,11 +1,74 @@
 [
   {
+    "description": "Trace-native CI/CD for AI agents: grade production traces, cluster failures, freeze them into replayable regression test",
+    "id": "jwuthri-cloud/Tracely-ai",
+    "language": "Python",
+    "name": "jwuthri-cloud/Tracely-ai",
+    "stars": 1170,
+    "updated_at": "2026-10-25T09:09:13Z",
+    "url": "https://github.com/jwuthri-cloud/Tracely-ai"
+  },
+  {
+    "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
+    "id": "holetz/quenching",
+    "language": "Python",
+    "name": "holetz/quenching",
+    "stars": 0,
+    "updated_at": "2026-10-25T09:08:58Z",
+    "url": "https://github.com/holetz/quenching"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-25T09:08:38Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Scheduled agent reviews for your repositories, defined in Git. Approved access, sandboxed runs, a full audit trail.",
+    "id": "piotrekno1/second-shift",
+    "language": "Python",
+    "name": "piotrekno1/second-shift",
+    "stars": 1,
+    "updated_at": "2026-10-25T09:05:37Z",
+    "url": "https://github.com/piotrekno1/second-shift"
+  },
+  {
+    "description": "Observability for AI and LLM calls in Laravel. Automatically tracks requests to OpenAI, Anthropic, Gemini, Mistral and m",
+    "id": "spectra-php/laravel-spectra",
+    "language": "PHP",
+    "name": "spectra-php/laravel-spectra",
+    "stars": 21,
+    "updated_at": "2026-10-25T09:04:37Z",
+    "url": "https://github.com/spectra-php/laravel-spectra"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26397,
+    "updated_at": "2026-10-25T09:00:55Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-25T09:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
     "id": "cloudrift-ai/emmy",
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 117,
-    "updated_at": "2026-10-25T08:59:37Z",
+    "updated_at": "2026-10-25T09:10:04Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -13,18 +76,18 @@
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
-    "stars": 4991,
-    "updated_at": "2026-10-25T08:58:58Z",
+    "stars": 4992,
+    "updated_at": "2026-10-25T09:01:50Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26396,
-    "updated_at": "2026-10-25T08:59:54Z",
-    "url": "https://github.com/promptfoo/promptfoo"
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61995,
+    "updated_at": "2026-10-25T09:12:41Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Local-first checks for OpenAI-compatible chat, tool calling, streaming, JSON, vision input, and image generation.",
@@ -45,13 +108,13 @@
     "url": "https://github.com/cognifityai/verdict"
   },
   {
-    "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
-    "id": "holetz/quenching",
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
     "language": "Python",
-    "name": "holetz/quenching",
-    "stars": 0,
-    "updated_at": "2026-10-25T08:57:18Z",
-    "url": "https://github.com/holetz/quenching"
+    "name": "dataelement/bisheng",
+    "stars": 12075,
+    "updated_at": "2026-10-25T08:50:27Z",
+    "url": "https://github.com/dataelement/bisheng"
   },
   {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
@@ -61,15 +124,6 @@
     "stars": 24,
     "updated_at": "2026-10-25T08:47:26Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-25T08:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Audit any agent decision across its past, present, and future, on one typed graph.",
@@ -126,15 +180,6 @@
     "url": "https://github.com/sophie-nguyenthuthuy/llm-pricing-history"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61994,
-    "updated_at": "2026-10-25T08:57:34Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "ZenML \ud83d\ude4f: One AI Platform from Pipelines to Agents. https://zenml.io.",
     "id": "zenml-io/zenml",
     "language": "Python",
@@ -180,21 +225,12 @@
     "url": "https://github.com/haomingkoo/haomingkoo"
   },
   {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-25T08:10:56Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
     "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "language": "Go",
     "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
     "stars": 1,
-    "updated_at": "2026-10-25T08:10:50Z",
+    "updated_at": "2026-10-25T09:07:20Z",
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
   },
   {
@@ -205,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T07:54:46Z",
     "url": "https://github.com/Traigent/tvl"
-  },
-  {
-    "description": "Trace-native CI/CD for AI agents: grade production traces, cluster failures, freeze them into replayable regression test",
-    "id": "jwuthri-cloud/Tracely-ai",
-    "language": "Python",
-    "name": "jwuthri-cloud/Tracely-ai",
-    "stars": 1170,
-    "updated_at": "2026-10-25T07:53:52Z",
-    "url": "https://github.com/jwuthri-cloud/Tracely-ai"
   },
   {
     "description": "Market Metrics is an autonomous market-intelligence platform designed to transform product ideas into structured, eviden",
@@ -365,7 +392,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8965,
-    "updated_at": "2026-10-25T08:35:15Z",
+    "updated_at": "2026-10-25T09:01:51Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -373,7 +400,7 @@
     "id": "respanai/respan-gateway",
     "language": "Rust",
     "name": "respanai/respan-gateway",
-    "stars": 273,
+    "stars": 275,
     "updated_at": "2026-10-25T06:55:52Z",
     "url": "https://github.com/respanai/respan-gateway"
   },
@@ -391,7 +418,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 36416,
+    "stars": 36417,
     "updated_at": "2026-10-25T06:51:40Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -421,32 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-25T06:33:20Z",
     "url": "https://github.com/runcycles/cycles-docs"
-  },
-  {
-    "description": "AI agent governance dashboard for Cycles \u2014 budgets, action authority, tenants, webhooks, reservations, audit",
-    "id": "runcycles/cycles-dashboard",
-    "language": "TypeScript",
-    "name": "runcycles/cycles-dashboard",
-    "stars": 0,
-    "updated_at": "2026-10-25T06:19:31Z",
-    "url": "https://github.com/runcycles/cycles-dashboard"
-  },
-  {
-    "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
-    "id": "hjongc/openrouter-endpoint-watch",
-    "language": "Python",
-    "name": "hjongc/openrouter-endpoint-watch",
-    "stars": 0,
-    "updated_at": "2026-10-25T06:13:41Z",
-    "url": "https://github.com/hjongc/openrouter-endpoint-watch"
-  },
-  {
-    "description": "Does an OpenAI-compatible endpoint disclose model prices without an account or key? One unauthenticated GET, five verdic",
-    "id": "happy520ai/gateway-price-check",
-    "language": "JavaScript",
-    "name": "happy520ai/gateway-price-check",
-    "stars": 0,
-    "updated_at": "2026-10-25T06:02:50Z",
-    "url": "https://github.com/happy520ai/gateway-price-check"
   }
 ]
