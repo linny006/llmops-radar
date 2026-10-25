@@ -1,5 +1,104 @@
 [
   {
+    "description": "Governed private AI control plane on Kubernetes with policy, identity, and FinOps.",
+    "id": "justrunme/ai-infra-control-plane",
+    "language": "Python",
+    "name": "justrunme/ai-infra-control-plane",
+    "stars": 2,
+    "updated_at": "2026-10-25T16:30:09Z",
+    "url": "https://github.com/justrunme/ai-infra-control-plane"
+  },
+  {
+    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
+    "id": "burakdede/lorepack",
+    "language": "TypeScript",
+    "name": "burakdede/lorepack",
+    "stars": 4,
+    "updated_at": "2026-10-25T16:29:35Z",
+    "url": "https://github.com/burakdede/lorepack"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 32,
+    "updated_at": "2026-10-25T16:28:51Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
+    "id": "hjongc/openrouter-endpoint-watch",
+    "language": "Python",
+    "name": "hjongc/openrouter-endpoint-watch",
+    "stars": 0,
+    "updated_at": "2026-10-25T16:27:37Z",
+    "url": "https://github.com/hjongc/openrouter-endpoint-watch"
+  },
+  {
+    "description": "Model-agnostic Agent Skill: keep multiple hypotheses alive, test them against evidence, revive alternatives, collapse to",
+    "id": "Furox-Art/quantum-reasoning-skill",
+    "language": "Python",
+    "name": "Furox-Art/quantum-reasoning-skill",
+    "stars": 4,
+    "updated_at": "2026-10-25T16:24:53Z",
+    "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
+  },
+  {
+    "description": "OpenAI-compatible AI execution plane on Kubernetes with MCP, vLLM, and policy.",
+    "id": "justrunme/ai-runtime-platform",
+    "language": "Python",
+    "name": "justrunme/ai-runtime-platform",
+    "stars": 2,
+    "updated_at": "2026-10-25T16:24:36Z",
+    "url": "https://github.com/justrunme/ai-runtime-platform"
+  },
+  {
+    "description": "Graph harness for AI agents: a governed runtime on bipartite graphs (places and transitions) that executes models with s",
+    "id": "alexejsailer/agentic-nets",
+    "language": "Python",
+    "name": "alexejsailer/agentic-nets",
+    "stars": 7,
+    "updated_at": "2026-10-25T16:22:06Z",
+    "url": "https://github.com/alexejsailer/agentic-nets"
+  },
+  {
+    "description": "A control layer that decides how an LLM should speak before it speaks",
+    "id": "Furox-Art/eq-layer",
+    "language": "Python",
+    "name": "Furox-Art/eq-layer",
+    "stars": 0,
+    "updated_at": "2026-10-25T16:18:09Z",
+    "url": "https://github.com/Furox-Art/eq-layer"
+  },
+  {
+    "description": "Open-source Model Context Protocol (MCP) security gateway and AI agent control plane for LLMOps/AIOps, with prompt-injec",
+    "id": "gaurav-gs7/Judikt",
+    "language": "Python",
+    "name": "gaurav-gs7/Judikt",
+    "stars": 0,
+    "updated_at": "2026-10-25T16:17:30Z",
+    "url": "https://github.com/gaurav-gs7/Judikt"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 24,
+    "updated_at": "2026-10-25T16:17:30Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-25T16:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Master project orchestrator featuring Dual Engine (Gentle-AI Integrated ODD vs Standalone), Article ARQ-01 Vertical Slic",
     "id": "QuantumEdu/q-agent",
     "language": "Python",
@@ -23,7 +122,7 @@
     "language": "Python",
     "name": "ArtVsMark/Engineering-Incidents-Playbook",
     "stars": 5,
-    "updated_at": "2026-10-25T16:14:56Z",
+    "updated_at": "2026-10-25T16:18:45Z",
     "url": "https://github.com/ArtVsMark/Engineering-Incidents-Playbook"
   },
   {
@@ -45,15 +144,6 @@
     "url": "https://github.com/toxicwind/ranch"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 24,
-    "updated_at": "2026-10-25T16:11:55Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
     "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
     "id": "mloda-ai/mloda",
     "language": "Python",
@@ -61,15 +151,6 @@
     "stars": 96,
     "updated_at": "2026-10-25T16:02:27Z",
     "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-25T16:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Scheduled agent reviews for your repositories, defined in Git. Approved access, sandboxed runs, a full audit trail.",
@@ -103,7 +184,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 36453,
+    "stars": 36455,
     "updated_at": "2026-10-25T15:56:59Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -115,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-10-25T16:02:22Z",
     "url": "https://github.com/maks3201/decision-model-operator"
-  },
-  {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 32,
-    "updated_at": "2026-10-25T15:54:28Z",
-    "url": "https://github.com/SourceShift/mini-ork"
   },
   {
     "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
@@ -158,17 +230,8 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-25T16:00:38Z",
+    "updated_at": "2026-10-25T16:25:50Z",
     "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "Model-agnostic Agent Skill: keep multiple hypotheses alive, test them against evidence, revive alternatives, collapse to",
-    "id": "Furox-Art/quantum-reasoning-skill",
-    "language": "Python",
-    "name": "Furox-Art/quantum-reasoning-skill",
-    "stars": 4,
-    "updated_at": "2026-10-25T15:44:36Z",
-    "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
   },
   {
     "description": "Senior MLOps Engineer focused on AI platforms, production ML, and LLM systems.",
@@ -185,7 +248,7 @@
     "language": "Python",
     "name": "ZIZKA-AI-SL/ZizkaDB",
     "stars": 146,
-    "updated_at": "2026-10-25T16:10:54Z",
+    "updated_at": "2026-10-25T16:19:13Z",
     "url": "https://github.com/ZIZKA-AI-SL/ZizkaDB"
   },
   {
@@ -203,17 +266,8 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 42,
-    "updated_at": "2026-10-25T15:41:10Z",
+    "updated_at": "2026-10-25T16:22:03Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
-    "id": "burakdede/lorepack",
-    "language": "TypeScript",
-    "name": "burakdede/lorepack",
-    "stars": 4,
-    "updated_at": "2026-10-25T15:49:52Z",
-    "url": "https://github.com/burakdede/lorepack"
   },
   {
     "description": "Rust client for Cycles \u2014 runtime budget authority for AI agents",
@@ -248,7 +302,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28527,
-    "updated_at": "2026-10-25T16:15:03Z",
+    "updated_at": "2026-10-25T16:24:39Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -259,15 +313,6 @@
     "stars": 2,
     "updated_at": "2026-10-25T15:16:20Z",
     "url": "https://github.com/acornops/acornops-deployment"
-  },
-  {
-    "description": "Graph harness for AI agents: a governed runtime on bipartite graphs (places and transitions) that executes models with s",
-    "id": "alexejsailer/agentic-nets",
-    "language": "Python",
-    "name": "alexejsailer/agentic-nets",
-    "stars": 7,
-    "updated_at": "2026-10-25T15:15:47Z",
-    "url": "https://github.com/alexejsailer/agentic-nets"
   },
   {
     "description": "Temporal workers and clients for wrapping access to different LLMs",
@@ -337,7 +382,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 22908,
+    "stars": 22909,
     "updated_at": "2026-10-25T14:48:36Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -403,50 +448,5 @@
     "stars": 53,
     "updated_at": "2026-10-25T14:57:09Z",
     "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
-  },
-  {
-    "description": "LLMOps platform: FastAPI LLM service with prompt versioning, Docker, Prometheus metrics and Grafana dashboards",
-    "id": "todz09/llmops",
-    "language": "Python",
-    "name": "todz09/llmops",
-    "stars": 0,
-    "updated_at": "2026-10-25T14:21:33Z",
-    "url": "https://github.com/todz09/llmops"
-  },
-  {
-    "description": "An open-source CLI plus GitHub Action that prevents unsafe prompt, model, retrieval, tool, or configuration changes from",
-    "id": "Chris0Jeky/llm-release-gate",
-    "language": "Python",
-    "name": "Chris0Jeky/llm-release-gate",
-    "stars": 1,
-    "updated_at": "2026-10-25T14:16:39Z",
-    "url": "https://github.com/Chris0Jeky/llm-release-gate"
-  },
-  {
-    "description": "Landscape of skills, technologies, and concepts for DX/DevOps promotion with their history",
-    "id": "jimyoshida/dx-devops-landscape",
-    "language": "JavaScript",
-    "name": "jimyoshida/dx-devops-landscape",
-    "stars": 6,
-    "updated_at": "2026-10-25T14:16:18Z",
-    "url": "https://github.com/jimyoshida/dx-devops-landscape"
-  },
-  {
-    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-10-25T13:59:42Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
-    "description": "\ud83c\udfaf Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an",
-    "id": "izam-mohammed/ragrank",
-    "language": "Python",
-    "name": "izam-mohammed/ragrank",
-    "stars": 47,
-    "updated_at": "2026-10-25T13:54:16Z",
-    "url": "https://github.com/izam-mohammed/ragrank"
   }
 ]
