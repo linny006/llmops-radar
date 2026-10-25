@@ -1,12 +1,21 @@
 [
   {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
+    "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
+    "id": "crewhaus/factory",
+    "language": "TypeScript",
+    "name": "crewhaus/factory",
+    "stars": 3,
+    "updated_at": "2026-10-25T18:00:11Z",
+    "url": "https://github.com/crewhaus/factory"
+  },
+  {
+    "description": "A dry run for AI agents: record their tool calls, see what your rules would have blocked or sent for approval, and keep ",
+    "id": "ntinosgkiou-code/agentdryrun",
     "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 1,
-    "updated_at": "2026-10-25T17:45:13Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
+    "name": "ntinosgkiou-code/agentdryrun",
+    "stars": 0,
+    "updated_at": "2026-10-25T17:59:23Z",
+    "url": "https://github.com/ntinosgkiou-code/agentdryrun"
   },
   {
     "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
@@ -14,8 +23,80 @@
     "language": "Python",
     "name": "SourceShift/mini-ork",
     "stars": 32,
-    "updated_at": "2026-10-25T17:44:55Z",
+    "updated_at": "2026-10-25T17:57:55Z",
     "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 117,
+    "updated_at": "2026-10-25T17:56:48Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-25T17:56:41Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "The platform for continuously improving AI agents.",
+    "id": "overmind-core/overmind",
+    "language": "Python",
+    "name": "overmind-core/overmind",
+    "stars": 681,
+    "updated_at": "2026-10-25T17:49:11Z",
+    "url": "https://github.com/overmind-core/overmind"
+  },
+  {
+    "description": "LLM optimization service with caching, cost-aware routing, context compression, and usage analytics. Custom JSON API, pl",
+    "id": "Prathamg042004/tokensave",
+    "language": "TypeScript",
+    "name": "Prathamg042004/tokensave",
+    "stars": 1,
+    "updated_at": "2026-10-25T17:46:37Z",
+    "url": "https://github.com/Prathamg042004/tokensave"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 24,
+    "updated_at": "2026-10-25T17:46:17Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
+    "language": "Python",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 53,
+    "updated_at": "2026-10-25T17:46:25Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-25T17:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-10-25T17:45:13Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
   },
   {
     "description": "Source for kooexperience.com, Haoming Koo\u2019s applied AI engineering portfolio with live products, case studies, structure",
@@ -36,15 +117,6 @@
     "url": "https://github.com/prasad-kavuri/prasad-portfolio"
   },
   {
-    "description": "LLM optimization service with caching, cost-aware routing, context compression, and usage analytics. Custom JSON API, pl",
-    "id": "Prathamg042004/tokensave",
-    "language": "TypeScript",
-    "name": "Prathamg042004/tokensave",
-    "stars": 1,
-    "updated_at": "2026-10-25T17:38:09Z",
-    "url": "https://github.com/Prathamg042004/tokensave"
-  },
-  {
     "description": "Self-hosted observability and governance for AI agents: traces, cost, evals, and a governed MCP gateway.",
     "id": "TorrixAI/torrix",
     "language": "TypeScript",
@@ -52,24 +124,6 @@
     "stars": 2,
     "updated_at": "2026-10-25T17:30:51Z",
     "url": "https://github.com/TorrixAI/torrix"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-25T17:30:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 24,
-    "updated_at": "2026-10-25T17:26:16Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
     "description": "Local-first LLM gateway for codex / hermes / Claude Code: bytes go upstream unchanged, the prompt cache keeps hitting, a",
@@ -95,7 +149,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4992,
-    "updated_at": "2026-10-25T17:28:00Z",
+    "updated_at": "2026-10-25T17:57:47Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -115,15 +169,6 @@
     "stars": 42,
     "updated_at": "2026-10-25T17:17:06Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Enterprise Scale AIFactory (esml) - on Azure",
-    "id": "jostrm/azure-enterprise-scale-ml",
-    "language": "Python",
-    "name": "jostrm/azure-enterprise-scale-ml",
-    "stars": 53,
-    "updated_at": "2026-10-25T17:17:46Z",
-    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
   },
   {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
@@ -178,15 +223,6 @@
     "stars": 62019,
     "updated_at": "2026-10-25T17:28:01Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-25T16:58:07Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
     "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
@@ -383,7 +419,7 @@
     "language": "Python",
     "name": "piotrekno1/second-shift",
     "stars": 1,
-    "updated_at": "2026-10-25T15:58:58Z",
+    "updated_at": "2026-10-25T18:00:24Z",
     "url": "https://github.com/piotrekno1/second-shift"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 12076,
     "updated_at": "2026-10-25T17:42:48Z",
     "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-25T15:51:15Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Senior MLOps Engineer focused on AI platforms, production ML, and LLM systems.",
-    "id": "anishmahapatra/anishmahapatra",
-    "language": "\u2014",
-    "name": "anishmahapatra/anishmahapatra",
-    "stars": 0,
-    "updated_at": "2026-10-25T15:44:28Z",
-    "url": "https://github.com/anishmahapatra/anishmahapatra"
-  },
-  {
-    "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
-    "id": "ZIZKA-AI-SL/ZizkaDB",
-    "language": "Python",
-    "name": "ZIZKA-AI-SL/ZizkaDB",
-    "stars": 146,
-    "updated_at": "2026-10-25T16:19:13Z",
-    "url": "https://github.com/ZIZKA-AI-SL/ZizkaDB"
-  },
-  {
-    "description": "AI agent execution governance: pre-effect authorization, single-use permissions, policy enforcement, and verifiable reco",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 42,
-    "updated_at": "2026-10-25T16:22:03Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
   }
 ]
