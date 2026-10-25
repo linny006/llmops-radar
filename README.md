@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-25 23:30 UTC
+> ⏰ Last updated: 2026-10-25 23:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,24 +42,24 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [llmsyscore/llm-systems-manager](https://github.com/llmsyscore/llm-systems-manager) | 11 | Python | 2026-10-25 | LLM Systems Manager — real-time observability and control for LLM systems |
-| 2 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-10-25 | ThakiCloud Tech Blog |
-| 3 | [korczis/prismatic-majordomus](https://github.com/korczis/prismatic-majordomus) | 0 | Rust | 2026-10-25 | A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura |
-| 4 | [rrahimi-uci/caliber-suite](https://github.com/rrahimi-uci/caliber-suite) | 2 | Python | 2026-10-25 | Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases, |
-| 5 | [cloudrift-ai/emmy](https://github.com/cloudrift-ai/emmy) | 117 | Python | 2026-10-25 | Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel  |
-| 6 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 42 | Go | 2026-10-25 | Agentic Runtime |
-| 7 | [jostrm/azure-enterprise-scale-ml](https://github.com/jostrm/azure-enterprise-scale-ml) | 53 | Python | 2026-10-25 | Enterprise Scale AIFactory (esml) - on Azure |
-| 8 | [maks3201/decision-model-operator](https://github.com/maks3201/decision-model-operator) | 1 | Go | 2026-10-25 | Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product |
-| 9 | [jameswniu/autonomous-ads-pipeline-multimodal-evals](https://github.com/jameswniu/autonomous-ads-pipeline-multimodal-evals) | 1 | Python | 2026-10-25 | An autonomous ad pipeline that shoots with no director, grades pixels and audio instead of text, and picks a video engin |
-| 10 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-25 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 11 | [Raviteja2k2k/Raviteja2k2k](https://github.com/Raviteja2k2k/Raviteja2k2k) | 0 | Python | 2026-10-25 | Profile of Dr. Ravi Teja Thiriveedhi — clinician turned AI systems architect: multi-agent platforms, AI governance, LLM  |
-| 12 | [api-evangelist/zenml](https://github.com/api-evangelist/zenml) | 0 | — | 2026-10-25 | ZenML — independent third-party profile of a public API surface, by API Evangelist. ZenML is an open-source MLOps and LL |
-| 13 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 28531 | Python | 2026-10-25 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
-| 14 | [piotrekno1/second-shift](https://github.com/piotrekno1/second-shift) | 1 | Python | 2026-10-25 | Scheduled agent tasks for your repositories, defined in Git. Approved access, sandboxed runs, a full audit trail. |
-| 15 | [toxicwind/ranch](https://github.com/toxicwind/ranch) | 0 | Rust | 2026-10-25 | The self-hosted LLM estate in one monorepo — local model serving, cloud provider routing, MCP gateway, build jobs. All O |
-| 16 | [api-evangelist/tensorzero](https://github.com/api-evangelist/tensorzero) | 0 | — | 2026-10-25 | TensorZero — independent third-party profile of a public API surface, by API Evangelist. TensorZero is an open-source, s |
-| 17 | [coreymcd37/ai-efficiency-optimizer-prompt](https://github.com/coreymcd37/ai-efficiency-optimizer-prompt) | 0 | Python | 2026-10-25 | Save Money and Usage Credit When Using AI Models |
-| 18 | [GetSHIM/shim](https://github.com/GetSHIM/shim) | 9 | Python | 2026-10-25 | AI trust-boundary gateway for OpenAI, Anthropic, and Gemini. |
+| 1 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 42 | Go | 2026-10-25 | Agentic Runtime |
+| 2 | [GetSHIM/shim](https://github.com/GetSHIM/shim) | 9 | Python | 2026-10-25 | AI trust-boundary gateway for OpenAI, Anthropic, and Gemini. |
+| 3 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-25 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 4 | [llmsyscore/llm-systems-manager](https://github.com/llmsyscore/llm-systems-manager) | 11 | Python | 2026-10-25 | LLM Systems Manager — real-time observability and control for LLM systems |
+| 5 | [ThakiCloud/thakicloud.github.io](https://github.com/ThakiCloud/thakicloud.github.io) | 4 | JavaScript | 2026-10-25 | ThakiCloud Tech Blog |
+| 6 | [korczis/prismatic-majordomus](https://github.com/korczis/prismatic-majordomus) | 0 | Rust | 2026-10-25 | A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura |
+| 7 | [rrahimi-uci/caliber-suite](https://github.com/rrahimi-uci/caliber-suite) | 2 | Python | 2026-10-25 | Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases, |
+| 8 | [cloudrift-ai/emmy](https://github.com/cloudrift-ai/emmy) | 117 | Python | 2026-10-25 | Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel  |
+| 9 | [jostrm/azure-enterprise-scale-ml](https://github.com/jostrm/azure-enterprise-scale-ml) | 53 | Python | 2026-10-25 | Enterprise Scale AIFactory (esml) - on Azure |
+| 10 | [maks3201/decision-model-operator](https://github.com/maks3201/decision-model-operator) | 1 | Go | 2026-10-25 | Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product |
+| 11 | [jameswniu/autonomous-ads-pipeline-multimodal-evals](https://github.com/jameswniu/autonomous-ads-pipeline-multimodal-evals) | 1 | Python | 2026-10-25 | An autonomous ad pipeline that shoots with no director, grades pixels and audio instead of text, and picks a video engin |
+| 12 | [Raviteja2k2k/Raviteja2k2k](https://github.com/Raviteja2k2k/Raviteja2k2k) | 0 | Python | 2026-10-25 | Profile of Dr. Ravi Teja Thiriveedhi — clinician turned AI systems architect: multi-agent platforms, AI governance, LLM  |
+| 13 | [api-evangelist/zenml](https://github.com/api-evangelist/zenml) | 0 | — | 2026-10-25 | ZenML — independent third-party profile of a public API surface, by API Evangelist. ZenML is an open-source MLOps and LL |
+| 14 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 28531 | Python | 2026-10-25 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
+| 15 | [piotrekno1/second-shift](https://github.com/piotrekno1/second-shift) | 1 | Python | 2026-10-25 | Scheduled agent tasks for your repositories, defined in Git. Approved access, sandboxed runs, a full audit trail. |
+| 16 | [toxicwind/ranch](https://github.com/toxicwind/ranch) | 0 | Rust | 2026-10-25 | The self-hosted LLM estate in one monorepo — local model serving, cloud provider routing, MCP gateway, build jobs. All O |
+| 17 | [api-evangelist/tensorzero](https://github.com/api-evangelist/tensorzero) | 0 | — | 2026-10-25 | TensorZero — independent third-party profile of a public API surface, by API Evangelist. TensorZero is an open-source, s |
+| 18 | [coreymcd37/ai-efficiency-optimizer-prompt](https://github.com/coreymcd37/ai-efficiency-optimizer-prompt) | 0 | Python | 2026-10-25 | Save Money and Usage Credit When Using AI Models |
 | 19 | [sarkars/agent-failure-modes](https://github.com/sarkars/agent-failure-modes) | 1 | Python | 2026-10-25 | Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a |
 | 20 | [api-evangelist/seldon](https://github.com/api-evangelist/seldon) | 0 | — | 2026-10-25 | Seldon — independent third-party profile of a public API surface, by API Evangelist. Seldon is a Kubernetes-native MLOps |
 | 21 | [tonquoc0407/capybara](https://github.com/tonquoc0407/capybara) | 12 | Go | 2026-10-25 | Terminal trace debugger for AI agents. |
