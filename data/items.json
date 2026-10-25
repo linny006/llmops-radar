@@ -1,11 +1,56 @@
 [
   {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-25T03:10:38Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary.",
+    "id": "respanai/respan-gateway",
+    "language": "Rust",
+    "name": "respanai/respan-gateway",
+    "stars": 261,
+    "updated_at": "2026-10-25T03:10:28Z",
+    "url": "https://github.com/respanai/respan-gateway"
+  },
+  {
+    "description": "Production-grade observability and agentic AIOps for AI systems \u2014 OpenTelemetry-native across independent polyglot apps;",
+    "id": "Root1V/argus-observability-platform",
+    "language": "Python",
+    "name": "Root1V/argus-observability-platform",
+    "stars": 1,
+    "updated_at": "2026-10-25T03:04:25Z",
+    "url": "https://github.com/Root1V/argus-observability-platform"
+  },
+  {
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Python",
+    "name": "alibaba/rtp-llm",
+    "stars": 1372,
+    "updated_at": "2026-10-25T03:03:01Z",
+    "url": "https://github.com/alibaba/rtp-llm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-25T03:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 26392,
-    "updated_at": "2026-10-25T02:58:43Z",
+    "updated_at": "2026-10-25T03:03:43Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -13,7 +58,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 36385,
+    "stars": 36386,
     "updated_at": "2026-10-25T02:57:04Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -23,7 +68,7 @@
     "language": "Python",
     "name": "holetz/quenching",
     "stars": 0,
-    "updated_at": "2026-10-25T02:59:29Z",
+    "updated_at": "2026-10-25T03:15:17Z",
     "url": "https://github.com/holetz/quenching"
   },
   {
@@ -32,7 +77,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 117,
-    "updated_at": "2026-10-25T02:56:39Z",
+    "updated_at": "2026-10-25T03:05:43Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -50,7 +95,7 @@
     "language": "TypeScript",
     "name": "burakdede/lorepack",
     "stars": 4,
-    "updated_at": "2026-10-25T02:53:40Z",
+    "updated_at": "2026-10-25T03:07:27Z",
     "url": "https://github.com/burakdede/lorepack"
   },
   {
@@ -59,17 +104,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61983,
-    "updated_at": "2026-10-25T02:46:18Z",
+    "updated_at": "2026-10-25T03:07:23Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-25T02:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Policy, measurement, and operations workbench for running Codex and Claude agents safely across a GitHub estate.",
@@ -108,15 +144,6 @@
     "url": "https://github.com/haomingkoo/haomingkoo.github.io"
   },
   {
-    "description": "One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary.",
-    "id": "respanai/respan-gateway",
-    "language": "Rust",
-    "name": "respanai/respan-gateway",
-    "stars": 261,
-    "updated_at": "2026-10-25T02:57:15Z",
-    "url": "https://github.com/respanai/respan-gateway"
-  },
-  {
     "description": "Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio",
     "id": "naim-munshi/metriqen-llm-serving-optimization",
     "language": "Python",
@@ -142,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-10-25T02:13:29Z",
     "url": "https://github.com/thequantumfalcon/kry"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-25T02:13:15Z",
-    "url": "https://github.com/toxicwind/ranch"
   },
   {
     "description": "A control layer that decides how an LLM should speak before it speaks",
@@ -293,7 +311,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28522,
-    "updated_at": "2026-10-25T02:50:24Z",
+    "updated_at": "2026-10-25T03:13:55Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -401,7 +419,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8964,
-    "updated_at": "2026-10-25T02:55:20Z",
+    "updated_at": "2026-10-25T03:05:07Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 639,
     "updated_at": "2026-10-25T00:22:24Z",
     "url": "https://github.com/Fast-Editor/Lynkr"
-  },
-  {
-    "description": "Switch AI models without breaking your product: find every model your code calls and when it retires, turn real usage lo",
-    "id": "DeChuks-hub/llmshift",
-    "language": "Python",
-    "name": "DeChuks-hub/llmshift",
-    "stars": 0,
-    "updated_at": "2026-10-24T23:36:11Z",
-    "url": "https://github.com/DeChuks-hub/llmshift"
-  },
-  {
-    "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
-    "id": "ZIZKA-AI-SL/ZizkaDB",
-    "language": "Python",
-    "name": "ZIZKA-AI-SL/ZizkaDB",
-    "stars": 145,
-    "updated_at": "2026-10-24T23:24:54Z",
-    "url": "https://github.com/ZIZKA-AI-SL/ZizkaDB"
   }
 ]
