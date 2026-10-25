@@ -1,12 +1,75 @@
 [
   {
+    "description": "Companion code for Hardening LLM Systems in Production (Manning Publications), by Rudrendu Paul and Sourav Nandy: halluc",
+    "id": "RudrenduPaul/hardening-llm-systems-production",
+    "language": "Python",
+    "name": "RudrenduPaul/hardening-llm-systems-production",
+    "stars": 0,
+    "updated_at": "2026-10-25T00:43:29Z",
+    "url": "https://github.com/RudrenduPaul/hardening-llm-systems-production"
+  },
+  {
+    "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
+    "id": "runcycles/cycles-docs",
+    "language": "Vue",
+    "name": "runcycles/cycles-docs",
+    "stars": 4,
+    "updated_at": "2026-10-25T00:43:23Z",
+    "url": "https://github.com/runcycles/cycles-docs"
+  },
+  {
+    "description": "\ud83e\udde0\u200b  An LLM router that uses built-in logic and system 1 decision models to intelligently route requests to the appropria",
+    "id": "storm-software/mindctl",
+    "language": "JavaScript",
+    "name": "storm-software/mindctl",
+    "stars": 0,
+    "updated_at": "2026-10-25T00:42:12Z",
+    "url": "https://github.com/storm-software/mindctl"
+  },
+  {
+    "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
+    "id": "holetz/quenching",
+    "language": "Python",
+    "name": "holetz/quenching",
+    "stars": 1,
+    "updated_at": "2026-10-25T00:45:01Z",
+    "url": "https://github.com/holetz/quenching"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61978,
-    "updated_at": "2026-10-25T00:29:50Z",
+    "updated_at": "2026-10-25T00:40:31Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-10-25T00:36:00Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26387,
+    "updated_at": "2026-10-25T00:37:34Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-25T00:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Production-shaped TypeScript agent runtime for pgtriage with deterministic policy, durable workflows, retrieval, and eva",
@@ -27,24 +90,6 @@
     "url": "https://github.com/toxicwind/ranch"
   },
   {
-    "description": "Companion code for Hardening LLM Systems in Production (Manning Publications), by Rudrendu Paul and Sourav Nandy: halluc",
-    "id": "RudrenduPaul/hardening-llm-systems-production",
-    "language": "Python",
-    "name": "RudrenduPaul/hardening-llm-systems-production",
-    "stars": 0,
-    "updated_at": "2026-10-25T00:24:10Z",
-    "url": "https://github.com/RudrenduPaul/hardening-llm-systems-production"
-  },
-  {
-    "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
-    "id": "holetz/quenching",
-    "language": "Python",
-    "name": "holetz/quenching",
-    "stars": 1,
-    "updated_at": "2026-10-25T00:28:35Z",
-    "url": "https://github.com/holetz/quenching"
-  },
-  {
     "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
     "id": "korczis/prismatic-majordomus",
     "language": "Rust",
@@ -59,7 +104,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8964,
-    "updated_at": "2026-10-25T00:20:30Z",
+    "updated_at": "2026-10-25T00:30:55Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -70,15 +115,6 @@
     "stars": 2,
     "updated_at": "2026-10-25T00:15:52Z",
     "url": "https://github.com/redevops-io/agentic-os"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-25T00:15:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Model-agnostic Agent Skill: keep multiple hypotheses alive, test them against evidence, revive alternatives, collapse to",
@@ -108,6 +144,15 @@
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36374,
+    "updated_at": "2026-10-25T00:09:23Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
     "id": "burakdede/lorepack",
     "language": "TypeScript",
@@ -126,21 +171,12 @@
     "url": "https://github.com/runcycles/cycles-protocol"
   },
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36373,
-    "updated_at": "2026-10-25T00:09:23Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28521,
-    "updated_at": "2026-10-25T00:03:59Z",
+    "updated_at": "2026-10-25T00:37:57Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -169,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-10-24T23:34:08Z",
     "url": "https://github.com/thequantumfalcon/kry"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26387,
-    "updated_at": "2026-10-24T23:30:19Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
@@ -214,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T23:33:38Z",
     "url": "https://github.com/Raviteja2k2k/Raviteja2k2k"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-10-25T00:29:31Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
     "description": "CLI-first LLM runtime parity diagnostics. Same model, same input, first causal divergence.",
@@ -338,7 +356,7 @@
     "language": "Python",
     "name": "mloda-ai/mloda",
     "stars": 96,
-    "updated_at": "2026-10-25T00:14:59Z",
+    "updated_at": "2026-10-25T00:32:13Z",
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
@@ -410,7 +428,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1372,
-    "updated_at": "2026-10-25T00:21:40Z",
+    "updated_at": "2026-10-25T00:41:42Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -419,7 +437,7 @@
     "language": "Python",
     "name": "dheerajkarwasra/spanlight",
     "stars": 0,
-    "updated_at": "2026-10-24T21:09:20Z",
+    "updated_at": "2026-10-25T00:35:08Z",
     "url": "https://github.com/dheerajkarwasra/spanlight"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-24T21:05:18Z",
     "url": "https://github.com/RobinaMirbahar/cloudguard-gemma-agent"
-  },
-  {
-    "description": "A hands-on library for DevOps, Cloud, and AI engineers: real production scenarios for AWS, Kubernetes, Docker, and LLMOp",
-    "id": "sandeepk24/learn-devops-playbook",
-    "language": "Python",
-    "name": "sandeepk24/learn-devops-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-24T21:02:23Z",
-    "url": "https://github.com/sandeepk24/learn-devops-playbook"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 4,
-    "updated_at": "2026-10-24T21:02:16Z",
-    "url": "https://github.com/vivek-541/vivek-541"
   }
 ]
