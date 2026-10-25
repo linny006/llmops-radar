@@ -1,12 +1,39 @@
 [
   {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
+    "description": "Calibrated trust gate for AI agents \u2014 act, escalate, or abstain. It knows when it doesn't know. pip install warmwinter",
+    "id": "ricovigil1/warmwinter-sdk",
     "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 11,
-    "updated_at": "2026-10-25T04:12:26Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
+    "name": "ricovigil1/warmwinter-sdk",
+    "stars": 0,
+    "updated_at": "2026-10-25T04:29:42Z",
+    "url": "https://github.com/ricovigil1/warmwinter-sdk"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28522,
+    "updated_at": "2026-10-25T04:29:08Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26392,
+    "updated_at": "2026-10-25T04:28:37Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Tamper-evident receipts for reported LLM efficiency events. Offline integrity and benchmark-arithmetic verification, wit",
+    "id": "thequantumfalcon/kry",
+    "language": "Python",
+    "name": "thequantumfalcon/kry",
+    "stars": 1,
+    "updated_at": "2026-10-25T04:20:04Z",
+    "url": "https://github.com/thequantumfalcon/kry"
   },
   {
     "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
@@ -14,8 +41,35 @@
     "language": "TypeScript",
     "name": "burakdede/lorepack",
     "stars": 4,
-    "updated_at": "2026-10-25T04:12:53Z",
+    "updated_at": "2026-10-25T04:19:21Z",
     "url": "https://github.com/burakdede/lorepack"
+  },
+  {
+    "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
+    "id": "holetz/quenching",
+    "language": "Python",
+    "name": "holetz/quenching",
+    "stars": 0,
+    "updated_at": "2026-10-25T04:25:34Z",
+    "url": "https://github.com/holetz/quenching"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-25T04:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 11,
+    "updated_at": "2026-10-25T04:12:26Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
@@ -45,21 +99,12 @@
     "url": "https://github.com/Phat1911/Tributary"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-25T04:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 61984,
-    "updated_at": "2026-10-25T03:57:51Z",
+    "stars": 61985,
+    "updated_at": "2026-10-25T04:23:55Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -68,7 +113,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8965,
-    "updated_at": "2026-10-25T04:06:54Z",
+    "updated_at": "2026-10-25T04:28:20Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -99,15 +144,6 @@
     "url": "https://github.com/StefanYasin/awesome-agent-ops"
   },
   {
-    "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
-    "id": "holetz/quenching",
-    "language": "Python",
-    "name": "holetz/quenching",
-    "stars": 0,
-    "updated_at": "2026-10-25T04:09:40Z",
-    "url": "https://github.com/holetz/quenching"
-  },
-  {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
     "id": "decimal-labs/decimalai-python",
     "language": "Python",
@@ -117,30 +153,12 @@
     "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26392,
-    "updated_at": "2026-10-25T03:40:18Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28522,
-    "updated_at": "2026-10-25T03:35:07Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
     "id": "alibaba/rtp-llm",
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1373,
-    "updated_at": "2026-10-25T03:57:30Z",
+    "updated_at": "2026-10-25T04:19:14Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -175,7 +193,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 36392,
+    "stars": 36394,
     "updated_at": "2026-10-25T02:57:04Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -185,7 +203,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 117,
-    "updated_at": "2026-10-25T04:06:46Z",
+    "updated_at": "2026-10-25T04:22:16Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -232,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-10-25T02:19:55Z",
     "url": "https://github.com/kensterinvest/tidus"
-  },
-  {
-    "description": "Tamper-evident receipts for reported LLM efficiency events. Offline integrity and benchmark-arithmetic verification, wit",
-    "id": "thequantumfalcon/kry",
-    "language": "Python",
-    "name": "thequantumfalcon/kry",
-    "stars": 1,
-    "updated_at": "2026-10-25T03:29:59Z",
-    "url": "https://github.com/thequantumfalcon/kry"
   },
   {
     "description": "A control layer that decides how an LLM should speak before it speaks",
@@ -338,7 +347,7 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-25T01:21:31Z",
+    "updated_at": "2026-10-25T04:22:14Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-25T00:42:12Z",
     "url": "https://github.com/storm-software/mindctl"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-10-25T04:00:45Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
   }
 ]
