@@ -5,8 +5,80 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61978,
-    "updated_at": "2026-10-25T00:14:18Z",
+    "updated_at": "2026-10-25T00:29:50Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Production-shaped TypeScript agent runtime for pgtriage with deterministic policy, durable workflows, retrieval, and eva",
+    "id": "manas-maheshwari/pgtriage-agent-lab",
+    "language": "TypeScript",
+    "name": "manas-maheshwari/pgtriage-agent-lab",
+    "stars": 0,
+    "updated_at": "2026-10-25T00:27:26Z",
+    "url": "https://github.com/manas-maheshwari/pgtriage-agent-lab"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-25T00:24:43Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Companion code for Hardening LLM Systems in Production (Manning Publications), by Rudrendu Paul and Sourav Nandy: halluc",
+    "id": "RudrenduPaul/hardening-llm-systems-production",
+    "language": "Python",
+    "name": "RudrenduPaul/hardening-llm-systems-production",
+    "stars": 0,
+    "updated_at": "2026-10-25T00:24:10Z",
+    "url": "https://github.com/RudrenduPaul/hardening-llm-systems-production"
+  },
+  {
+    "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
+    "id": "holetz/quenching",
+    "language": "Python",
+    "name": "holetz/quenching",
+    "stars": 1,
+    "updated_at": "2026-10-25T00:28:35Z",
+    "url": "https://github.com/holetz/quenching"
+  },
+  {
+    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
+    "id": "korczis/prismatic-majordomus",
+    "language": "Rust",
+    "name": "korczis/prismatic-majordomus",
+    "stars": 0,
+    "updated_at": "2026-10-25T00:21:39Z",
+    "url": "https://github.com/korczis/prismatic-majordomus"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8964,
+    "updated_at": "2026-10-25T00:20:30Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-10-25T00:15:52Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-25T00:15:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Model-agnostic Agent Skill: keep multiple hypotheses alive, test them against evidence, revive alternatives, collapse to",
@@ -16,15 +88,6 @@
     "stars": 4,
     "updated_at": "2026-10-25T00:13:09Z",
     "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8965,
-    "updated_at": "2026-10-25T00:12:31Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "A control layer that decides how an LLM should speak before it speaks",
@@ -41,17 +104,8 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 2,
-    "updated_at": "2026-10-25T00:10:14Z",
+    "updated_at": "2026-10-25T00:25:37Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-10-25T00:10:00Z",
-    "url": "https://github.com/redevops-io/agentic-os"
   },
   {
     "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
@@ -72,15 +126,6 @@
     "url": "https://github.com/runcycles/cycles-protocol"
   },
   {
-    "description": "Companion code for Hardening LLM Systems in Production (Manning Publications), by Rudrendu Paul and Sourav Nandy: halluc",
-    "id": "RudrenduPaul/hardening-llm-systems-production",
-    "language": "Python",
-    "name": "RudrenduPaul/hardening-llm-systems-production",
-    "stars": 0,
-    "updated_at": "2026-10-25T00:05:24Z",
-    "url": "https://github.com/RudrenduPaul/hardening-llm-systems-production"
-  },
-  {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
@@ -99,21 +144,12 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-25T00:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude ",
     "id": "Fast-Editor/Lynkr",
     "language": "JavaScript",
     "name": "Fast-Editor/Lynkr",
     "stars": 639,
-    "updated_at": "2026-10-24T23:58:56Z",
+    "updated_at": "2026-10-25T00:22:24Z",
     "url": "https://github.com/Fast-Editor/Lynkr"
   },
   {
@@ -185,7 +221,7 @@
     "language": "Python",
     "name": "llmspendguard/llm-spendguard",
     "stars": 0,
-    "updated_at": "2026-10-24T23:08:20Z",
+    "updated_at": "2026-10-25T00:29:31Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
@@ -196,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-10-24T23:09:41Z",
     "url": "https://github.com/TheusHen/eleanity"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-24T23:06:55Z",
-    "url": "https://github.com/toxicwind/ranch"
   },
   {
     "description": "Agentic Runtime",
@@ -248,7 +275,7 @@
     "language": "Python",
     "name": "luetzey/who2be",
     "stars": 0,
-    "updated_at": "2026-10-24T22:40:31Z",
+    "updated_at": "2026-10-25T00:28:05Z",
     "url": "https://github.com/luetzey/who2be"
   },
   {
@@ -383,7 +410,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1372,
-    "updated_at": "2026-10-24T23:30:17Z",
+    "updated_at": "2026-10-25T00:21:40Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-24T21:02:16Z",
     "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 2198,
-    "updated_at": "2026-10-24T20:59:41Z",
-    "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "A unified .NET abstraction layer for multiple Large Language Model (LLM) providers. Nexus-LLM simplifies integration wit",
-    "id": "brutal-45/Nexus-LLM",
-    "language": "Python",
-    "name": "brutal-45/Nexus-LLM",
-    "stars": 0,
-    "updated_at": "2026-10-24T20:56:41Z",
-    "url": "https://github.com/brutal-45/Nexus-LLM"
-  },
-  {
-    "description": "Multi-project ML platform monorepo: shared substrate across tabular, deep learning, LLM and agent projects. Multi-cloud ",
-    "id": "DuqueOM/ml-platform",
-    "language": "Python",
-    "name": "DuqueOM/ml-platform",
-    "stars": 2,
-    "updated_at": "2026-10-24T21:03:21Z",
-    "url": "https://github.com/DuqueOM/ml-platform"
   }
 ]
