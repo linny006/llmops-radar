@@ -1,10 +1,136 @@
 [
   {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 1,
+    "updated_at": "2026-10-25T19:41:29Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
+    "id": "hjongc/openrouter-endpoint-watch",
+    "language": "Python",
+    "name": "hjongc/openrouter-endpoint-watch",
+    "stars": 0,
+    "updated_at": "2026-10-25T19:40:46Z",
+    "url": "https://github.com/hjongc/openrouter-endpoint-watch"
+  },
+  {
+    "description": "Open-source LLMOps platform with prompt management, an OpenAI-compatible AI gateway, OpenTelemetry tracing, a versioned ",
+    "id": "AcruxCore/AcruxCore",
+    "language": "TypeScript",
+    "name": "AcruxCore/AcruxCore",
+    "stars": 11,
+    "updated_at": "2026-10-25T19:40:29Z",
+    "url": "https://github.com/AcruxCore/AcruxCore"
+  },
+  {
+    "description": "Self-hosted runtime authority server for AI agents \u2014 budgets, risk, actions, tenant isolation",
+    "id": "runcycles/cycles-server",
+    "language": "Java",
+    "name": "runcycles/cycles-server",
+    "stars": 5,
+    "updated_at": "2026-10-25T19:40:31Z",
+    "url": "https://github.com/runcycles/cycles-server"
+  },
+  {
+    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4992,
+    "updated_at": "2026-10-25T19:37:33Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Scheduled agent reviews for your repositories, defined in Git. Approved access, sandboxed runs, a full audit trail.",
+    "id": "piotrekno1/second-shift",
+    "language": "Python",
+    "name": "piotrekno1/second-shift",
+    "stars": 1,
+    "updated_at": "2026-10-25T19:41:25Z",
+    "url": "https://github.com/piotrekno1/second-shift"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 42,
+    "updated_at": "2026-10-25T19:37:28Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
+    "id": "holetz/quenching",
+    "language": "Python",
+    "name": "holetz/quenching",
+    "stars": 0,
+    "updated_at": "2026-10-25T19:43:32Z",
+    "url": "https://github.com/holetz/quenching"
+  },
+  {
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
+    "language": "Python",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 53,
+    "updated_at": "2026-10-25T19:35:06Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
+    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
+    "id": "AixleHQ/flow",
+    "language": "Ruby",
+    "name": "AixleHQ/flow",
+    "stars": 27,
+    "updated_at": "2026-10-25T19:32:51Z",
+    "url": "https://github.com/AixleHQ/flow"
+  },
+  {
+    "description": "Local-first LLM gateway for codex / hermes / Claude Code: bytes go upstream unchanged, the prompt cache keeps hitting, a",
+    "id": "flyer103/vadis",
+    "language": "Rust",
+    "name": "flyer103/vadis",
+    "stars": 0,
+    "updated_at": "2026-10-25T19:31:32Z",
+    "url": "https://github.com/flyer103/vadis"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-25T19:30:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
+    "id": "lmnr-ai/lmnr",
+    "language": "TypeScript",
+    "name": "lmnr-ai/lmnr",
+    "stars": 3442,
+    "updated_at": "2026-10-25T19:27:40Z",
+    "url": "https://github.com/lmnr-ai/lmnr"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 62024,
+    "updated_at": "2026-10-25T19:23:18Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 36461,
+    "stars": 36462,
     "updated_at": "2026-10-25T19:21:54Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -16,24 +142,6 @@
     "stars": 2,
     "updated_at": "2026-10-25T19:19:23Z",
     "url": "https://github.com/acornops/acornops-deployment"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-25T19:15:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Scheduled agent reviews for your repositories, defined in Git. Approved access, sandboxed runs, a full audit trail.",
-    "id": "piotrekno1/second-shift",
-    "language": "Python",
-    "name": "piotrekno1/second-shift",
-    "stars": 1,
-    "updated_at": "2026-10-25T19:26:27Z",
-    "url": "https://github.com/piotrekno1/second-shift"
   },
   {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
@@ -52,15 +160,6 @@
     "stars": 11996,
     "updated_at": "2026-10-25T19:10:40Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 42,
-    "updated_at": "2026-10-25T19:06:40Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
@@ -95,7 +194,7 @@
     "language": "Python",
     "name": "overmind-core/overmind",
     "stars": 680,
-    "updated_at": "2026-10-25T19:21:25Z",
+    "updated_at": "2026-10-25T19:35:30Z",
     "url": "https://github.com/overmind-core/overmind"
   },
   {
@@ -104,7 +203,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 117,
-    "updated_at": "2026-10-25T18:58:32Z",
+    "updated_at": "2026-10-25T19:44:41Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -113,7 +212,7 @@
     "language": "Python",
     "name": "jakbuczarnecki/intergrax",
     "stars": 4,
-    "updated_at": "2026-10-25T18:58:02Z",
+    "updated_at": "2026-10-25T19:42:35Z",
     "url": "https://github.com/jakbuczarnecki/intergrax"
   },
   {
@@ -124,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-10-25T18:57:40Z",
     "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
-    "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
-    "id": "holetz/quenching",
-    "language": "Python",
-    "name": "holetz/quenching",
-    "stars": 0,
-    "updated_at": "2026-10-25T19:30:15Z",
-    "url": "https://github.com/holetz/quenching"
   },
   {
     "description": "Self-hosted observability and governance for AI agents: traces, cost, evals, and a governed MCP gateway.",
@@ -342,15 +432,6 @@
     "url": "https://github.com/TimoLeDozo/Infrastructure"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 62021,
-    "updated_at": "2026-10-25T19:23:18Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-25T18:06:14Z",
     "url": "https://github.com/gonzalomartinperez/gonzalomartinperez"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 24,
-    "updated_at": "2026-10-25T18:01:36Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
-    "id": "burakdede/lorepack",
-    "language": "TypeScript",
-    "name": "burakdede/lorepack",
-    "stars": 4,
-    "updated_at": "2026-10-25T18:00:37Z",
-    "url": "https://github.com/burakdede/lorepack"
-  },
-  {
-    "description": "LLM optimization service with caching, cost-aware routing, context compression, and usage analytics. Custom JSON API, pl",
-    "id": "Prathamg042004/tokensave",
-    "language": "TypeScript",
-    "name": "Prathamg042004/tokensave",
-    "stars": 1,
-    "updated_at": "2026-10-25T17:46:37Z",
-    "url": "https://github.com/Prathamg042004/tokensave"
-  },
-  {
-    "description": "Enterprise Scale AIFactory (esml) - on Azure",
-    "id": "jostrm/azure-enterprise-scale-ml",
-    "language": "Python",
-    "name": "jostrm/azure-enterprise-scale-ml",
-    "stars": 53,
-    "updated_at": "2026-10-25T18:08:41Z",
-    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
-  },
-  {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
-    "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 1,
-    "updated_at": "2026-10-25T17:45:13Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26417,
-    "updated_at": "2026-10-25T17:32:59Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
-    "id": "prasad-kavuri/prasad-portfolio",
-    "language": "TypeScript",
-    "name": "prasad-kavuri/prasad-portfolio",
-    "stars": 0,
-    "updated_at": "2026-10-25T17:32:56Z",
-    "url": "https://github.com/prasad-kavuri/prasad-portfolio"
-  },
-  {
-    "description": "Local-first LLM gateway for codex / hermes / Claude Code: bytes go upstream unchanged, the prompt cache keeps hitting, a",
-    "id": "flyer103/vadis",
-    "language": "Rust",
-    "name": "flyer103/vadis",
-    "stars": 0,
-    "updated_at": "2026-10-25T17:21:54Z",
-    "url": "https://github.com/flyer103/vadis"
-  },
-  {
-    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
-    "id": "digline/digline",
-    "language": "Python",
-    "name": "digline/digline",
-    "stars": 9,
-    "updated_at": "2026-10-25T17:20:22Z",
-    "url": "https://github.com/digline/digline"
   }
 ]
