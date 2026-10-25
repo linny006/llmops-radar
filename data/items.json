@@ -1,11 +1,38 @@
 [
   {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36461,
+    "updated_at": "2026-10-25T19:21:54Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper",
+    "id": "acornops/acornops-deployment",
+    "language": "JavaScript",
+    "name": "acornops/acornops-deployment",
+    "stars": 2,
+    "updated_at": "2026-10-25T19:19:23Z",
+    "url": "https://github.com/acornops/acornops-deployment"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-25T19:15:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Scheduled agent reviews for your repositories, defined in Git. Approved access, sandboxed runs, a full audit trail.",
     "id": "piotrekno1/second-shift",
     "language": "Python",
     "name": "piotrekno1/second-shift",
     "stars": 1,
-    "updated_at": "2026-10-25T19:12:30Z",
+    "updated_at": "2026-10-25T19:26:27Z",
     "url": "https://github.com/piotrekno1/second-shift"
   },
   {
@@ -68,17 +95,8 @@
     "language": "Python",
     "name": "overmind-core/overmind",
     "stars": 680,
-    "updated_at": "2026-10-25T19:14:47Z",
+    "updated_at": "2026-10-25T19:21:25Z",
     "url": "https://github.com/overmind-core/overmind"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-25T19:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
@@ -113,17 +131,8 @@
     "language": "Python",
     "name": "holetz/quenching",
     "stars": 0,
-    "updated_at": "2026-10-25T19:13:45Z",
+    "updated_at": "2026-10-25T19:30:15Z",
     "url": "https://github.com/holetz/quenching"
-  },
-  {
-    "description": "Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper",
-    "id": "acornops/acornops-deployment",
-    "language": "JavaScript",
-    "name": "acornops/acornops-deployment",
-    "stars": 2,
-    "updated_at": "2026-10-25T18:57:18Z",
-    "url": "https://github.com/acornops/acornops-deployment"
   },
   {
     "description": "Self-hosted observability and governance for AI agents: traces, cost, evals, and a governed MCP gateway.",
@@ -302,7 +311,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 2,
-    "updated_at": "2026-10-25T18:20:28Z",
+    "updated_at": "2026-10-25T19:17:51Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -338,7 +347,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 62021,
-    "updated_at": "2026-10-25T19:13:48Z",
+    "updated_at": "2026-10-25T19:23:18Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 9,
     "updated_at": "2026-10-25T17:20:22Z",
     "url": "https://github.com/digline/digline"
-  },
-  {
-    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4992,
-    "updated_at": "2026-10-25T19:12:21Z",
-    "url": "https://github.com/langwatch/langwatch"
   }
 ]
