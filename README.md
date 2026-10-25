@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-25 19:45 UTC
+> ⏰ Last updated: 2026-10-25 20:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,40 +42,40 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 1 | JavaScript | 2026-10-25 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
-| 2 | [hjongc/openrouter-endpoint-watch](https://github.com/hjongc/openrouter-endpoint-watch) | 0 | Python | 2026-10-25 | Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p |
-| 3 | [AcruxCore/AcruxCore](https://github.com/AcruxCore/AcruxCore) | 11 | TypeScript | 2026-10-25 | Open-source LLMOps platform with prompt management, an OpenAI-compatible AI gateway, OpenTelemetry tracing, a versioned  |
-| 4 | [runcycles/cycles-server](https://github.com/runcycles/cycles-server) | 5 | Java | 2026-10-25 | Self-hosted runtime authority server for AI agents — budgets, risk, actions, tenant isolation |
-| 5 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 4992 | TypeScript | 2026-10-25 | Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist |
-| 6 | [piotrekno1/second-shift](https://github.com/piotrekno1/second-shift) | 1 | Python | 2026-10-25 | Scheduled agent reviews for your repositories, defined in Git. Approved access, sandboxed runs, a full audit trail. |
-| 7 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 42 | Go | 2026-10-25 | Agentic Runtime |
-| 8 | [holetz/quenching](https://github.com/holetz/quenching) | 0 | Python | 2026-10-25 | Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape |
-| 9 | [jostrm/azure-enterprise-scale-ml](https://github.com/jostrm/azure-enterprise-scale-ml) | 53 | Python | 2026-10-25 | Enterprise Scale AIFactory (esml) - on Azure |
-| 10 | [AixleHQ/flow](https://github.com/AixleHQ/flow) | 27 | Ruby | 2026-10-25 | Aixle Flow — orchestrate coding agents through durable, inspectable workflows. |
-| 11 | [flyer103/vadis](https://github.com/flyer103/vadis) | 0 | Rust | 2026-10-25 | Local-first LLM gateway for codex / hermes / Claude Code: bytes go upstream unchanged, the prompt cache keeps hitting, a |
-| 12 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-25 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 13 | [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) | 3442 | TypeScript | 2026-10-25 | Laminar - open-source observability platform purpose-built for AI agents. YC S24. |
-| 14 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 62024 | Python | 2026-10-25 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 15 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 36462 | TypeScript | 2026-10-25 | 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform. |
-| 16 | [acornops/acornops-deployment](https://github.com/acornops/acornops-deployment) | 2 | JavaScript | 2026-10-25 | Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper |
-| 17 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 8968 | Rust | 2026-10-25 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
-| 18 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11996 | Python | 2026-10-25 | AI Observability & Evaluation |
-| 19 | [toxicwind/ranch](https://github.com/toxicwind/ranch) | 0 | Rust | 2026-10-25 | The self-hosted LLM estate in one monorepo — local model serving, cloud provider routing, MCP gateway, build jobs. All O |
-| 20 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 8 | Rust | 2026-10-25 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
-| 21 | [haomingkoo/haomingkoo.github.io](https://github.com/haomingkoo/haomingkoo.github.io) | 0 | HTML | 2026-10-25 | Source for kooexperience.com, Haoming Koo’s applied AI engineering portfolio with live products, case studies, structure |
-| 22 | [overmind-core/overmind](https://github.com/overmind-core/overmind) | 680 | Python | 2026-10-25 | The platform for continuously improving AI agents. |
-| 23 | [cloudrift-ai/emmy](https://github.com/cloudrift-ai/emmy) | 117 | Python | 2026-10-25 | Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel  |
-| 24 | [jakbuczarnecki/intergrax](https://github.com/jakbuczarnecki/intergrax) | 4 | Python | 2026-10-25 | Source-available operating layer for governed AI applications — reuse policy, authority, evidence, execution, and recove |
-| 25 | [sarkars/agent-failure-modes](https://github.com/sarkars/agent-failure-modes) | 1 | Python | 2026-10-25 | Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a |
-| 26 | [TorrixAI/torrix](https://github.com/TorrixAI/torrix) | 2 | TypeScript | 2026-10-25 | Self-hosted observability and governance for AI agents: traces, cost, evals, and a governed MCP gateway. |
-| 27 | [clearml/clearml-agent](https://github.com/clearml/clearml-agent) | 314 | Python | 2026-10-25 | ClearML Agent - MLOps/LLMOps made easy. MLOps/LLMOps scheduler & orchestration solution |
-| 28 | [RudrenduPaul/hardening-llm-systems-production](https://github.com/RudrenduPaul/hardening-llm-systems-production) | 0 | Python | 2026-10-25 | Companion code for Hardening LLM Systems in Production (Manning Publications), by Rudrendu Paul and Sourav Nandy: halluc |
-| 29 | [redevops-io/agentic-os](https://github.com/redevops-io/agentic-os) | 2 | Python | 2026-10-25 | The control plane for the redevops.io Agentic Business OS — Mission Runtime kernel (Python + Go), Projects cockpit, cost |
-| 30 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-10-25 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
-| 31 | [ntinosgkiou-code/agentdryrun](https://github.com/ntinosgkiou-code/agentdryrun) | 0 | Python | 2026-10-25 | A dry run for AI agents: record their tool calls, see what your rules would have blocked or sent for approval, and keep  |
-| 32 | [crewhaus/factory](https://github.com/crewhaus/factory) | 3 | TypeScript | 2026-10-25 | Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from  |
-| 33 | [tibendadavis/handwritten-forms-vlm-bench](https://github.com/tibendadavis/handwritten-forms-vlm-bench) | 0 | Python | 2026-10-25 | Benchmarking vision-language models for handwritten form extraction with confidence flags and human review. Case study:  |
-| 34 | [SourceShift/mini-ork](https://github.com/SourceShift/mini-ork) | 32 | Python | 2026-10-25 | Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack |
+| 1 | [piotrekno1/second-shift](https://github.com/piotrekno1/second-shift) | 1 | Python | 2026-10-25 | Scheduled agent reviews for your repositories, defined in Git. Approved access, sandboxed runs, a full audit trail. |
+| 2 | [SourceShift/mini-ork](https://github.com/SourceShift/mini-ork) | 32 | Python | 2026-10-25 | Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack |
+| 3 | [sarkars/agent-failure-modes](https://github.com/sarkars/agent-failure-modes) | 1 | Python | 2026-10-25 | Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a |
+| 4 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 42 | Go | 2026-10-25 | Agentic Runtime |
+| 5 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-25 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 6 | [gabrielk83/AntCV](https://github.com/gabrielk83/AntCV) | 1 | JavaScript | 2026-10-25 | Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document |
+| 7 | [hjongc/openrouter-endpoint-watch](https://github.com/hjongc/openrouter-endpoint-watch) | 0 | Python | 2026-10-25 | Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p |
+| 8 | [AcruxCore/AcruxCore](https://github.com/AcruxCore/AcruxCore) | 11 | TypeScript | 2026-10-25 | Open-source LLMOps platform with prompt management, an OpenAI-compatible AI gateway, OpenTelemetry tracing, a versioned  |
+| 9 | [runcycles/cycles-server](https://github.com/runcycles/cycles-server) | 5 | Java | 2026-10-25 | Self-hosted runtime authority server for AI agents — budgets, risk, actions, tenant isolation |
+| 10 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 4992 | TypeScript | 2026-10-25 | Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist |
+| 11 | [holetz/quenching](https://github.com/holetz/quenching) | 0 | Python | 2026-10-25 | Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape |
+| 12 | [jostrm/azure-enterprise-scale-ml](https://github.com/jostrm/azure-enterprise-scale-ml) | 53 | Python | 2026-10-25 | Enterprise Scale AIFactory (esml) - on Azure |
+| 13 | [AixleHQ/flow](https://github.com/AixleHQ/flow) | 27 | Ruby | 2026-10-25 | Aixle Flow — orchestrate coding agents through durable, inspectable workflows. |
+| 14 | [flyer103/vadis](https://github.com/flyer103/vadis) | 0 | Rust | 2026-10-25 | Local-first LLM gateway for codex / hermes / Claude Code: bytes go upstream unchanged, the prompt cache keeps hitting, a |
+| 15 | [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) | 3442 | TypeScript | 2026-10-25 | Laminar - open-source observability platform purpose-built for AI agents. YC S24. |
+| 16 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 62024 | Python | 2026-10-25 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 17 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 36463 | TypeScript | 2026-10-25 | 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform. |
+| 18 | [acornops/acornops-deployment](https://github.com/acornops/acornops-deployment) | 2 | JavaScript | 2026-10-25 | Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper |
+| 19 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 8968 | Rust | 2026-10-25 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
+| 20 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11996 | Python | 2026-10-25 | AI Observability & Evaluation |
+| 21 | [toxicwind/ranch](https://github.com/toxicwind/ranch) | 0 | Rust | 2026-10-25 | The self-hosted LLM estate in one monorepo — local model serving, cloud provider routing, MCP gateway, build jobs. All O |
+| 22 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 8 | Rust | 2026-10-25 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
+| 23 | [haomingkoo/haomingkoo.github.io](https://github.com/haomingkoo/haomingkoo.github.io) | 0 | HTML | 2026-10-25 | Source for kooexperience.com, Haoming Koo’s applied AI engineering portfolio with live products, case studies, structure |
+| 24 | [overmind-core/overmind](https://github.com/overmind-core/overmind) | 680 | Python | 2026-10-25 | The platform for continuously improving AI agents. |
+| 25 | [cloudrift-ai/emmy](https://github.com/cloudrift-ai/emmy) | 117 | Python | 2026-10-25 | Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel  |
+| 26 | [jakbuczarnecki/intergrax](https://github.com/jakbuczarnecki/intergrax) | 4 | Python | 2026-10-25 | Source-available operating layer for governed AI applications — reuse policy, authority, evidence, execution, and recove |
+| 27 | [TorrixAI/torrix](https://github.com/TorrixAI/torrix) | 2 | TypeScript | 2026-10-25 | Self-hosted observability and governance for AI agents: traces, cost, evals, and a governed MCP gateway. |
+| 28 | [clearml/clearml-agent](https://github.com/clearml/clearml-agent) | 314 | Python | 2026-10-25 | ClearML Agent - MLOps/LLMOps made easy. MLOps/LLMOps scheduler & orchestration solution |
+| 29 | [RudrenduPaul/hardening-llm-systems-production](https://github.com/RudrenduPaul/hardening-llm-systems-production) | 0 | Python | 2026-10-25 | Companion code for Hardening LLM Systems in Production (Manning Publications), by Rudrendu Paul and Sourav Nandy: halluc |
+| 30 | [redevops-io/agentic-os](https://github.com/redevops-io/agentic-os) | 2 | Python | 2026-10-25 | The control plane for the redevops.io Agentic Business OS — Mission Runtime kernel (Python + Go), Projects cockpit, cost |
+| 31 | [ngu-gif/genai-role-playbook](https://github.com/ngu-gif/genai-role-playbook) | 1 | HTML | 2026-10-25 | GenAI Career Roadmap 2026 🚀 \| AI Job Paths & Skills Guide |
+| 32 | [ntinosgkiou-code/agentdryrun](https://github.com/ntinosgkiou-code/agentdryrun) | 0 | Python | 2026-10-25 | A dry run for AI agents: record their tool calls, see what your rules would have blocked or sent for approval, and keep  |
+| 33 | [crewhaus/factory](https://github.com/crewhaus/factory) | 3 | TypeScript | 2026-10-25 | Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from  |
+| 34 | [tibendadavis/handwritten-forms-vlm-bench](https://github.com/tibendadavis/handwritten-forms-vlm-bench) | 0 | Python | 2026-10-25 | Benchmarking vision-language models for handwritten form extraction with confidence flags and human review. Case study:  |
 | 35 | [acornops/control-plane](https://github.com/acornops/control-plane) | 2 | TypeScript | 2026-10-25 | AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo |
 | 36 | [acornops/agentk](https://github.com/acornops/agentk) | 2 | TypeScript | 2026-10-25 | Kubernetes agent for AcornOps, providing outbound cluster connectivity, read-only discovery, and controlled tool executi |
 | 37 | [acornops/agentv](https://github.com/acornops/agentv) | 1 | TypeScript | 2026-10-25 | Linux VM agent for AcornOps, providing outbound system connectivity, host inspection, and controlled VM operations. |
