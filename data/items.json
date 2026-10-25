@@ -1,12 +1,48 @@
 [
   {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 42,
+    "updated_at": "2026-10-25T06:26:38Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
     "description": "AI agent governance dashboard for Cycles \u2014 budgets, action authority, tenants, webhooks, reservations, audit",
     "id": "runcycles/cycles-dashboard",
     "language": "TypeScript",
     "name": "runcycles/cycles-dashboard",
     "stars": 0,
-    "updated_at": "2026-10-25T06:14:49Z",
+    "updated_at": "2026-10-25T06:19:31Z",
     "url": "https://github.com/runcycles/cycles-dashboard"
+  },
+  {
+    "description": "One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary.",
+    "id": "respanai/respan-gateway",
+    "language": "Rust",
+    "name": "respanai/respan-gateway",
+    "stars": 268,
+    "updated_at": "2026-10-25T06:19:16Z",
+    "url": "https://github.com/respanai/respan-gateway"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61987,
+    "updated_at": "2026-10-25T06:16:26Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-25T06:15:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
@@ -25,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T06:13:35Z",
     "url": "https://github.com/toxicwind/ranch"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-25T06:08:41Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Does an OpenAI-compatible endpoint disclose model prices without an account or key? One unauthenticated GET, five verdic",
@@ -59,17 +86,8 @@
     "language": "Python",
     "name": "holetz/quenching",
     "stars": 0,
-    "updated_at": "2026-10-25T06:12:00Z",
+    "updated_at": "2026-10-25T06:29:35Z",
     "url": "https://github.com/holetz/quenching"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61987,
-    "updated_at": "2026-10-25T06:01:36Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
@@ -88,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-10-25T05:51:26Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 42,
-    "updated_at": "2026-10-25T05:50:04Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Measure how much of your LLM bill is re-writing documents you already generated. Local, zero network calls, single file,",
@@ -131,7 +140,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 117,
-    "updated_at": "2026-10-25T05:40:53Z",
+    "updated_at": "2026-10-25T06:16:32Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -306,15 +315,6 @@
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
-    "description": "One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary.",
-    "id": "respanai/respan-gateway",
-    "language": "Rust",
-    "name": "respanai/respan-gateway",
-    "stars": 268,
-    "updated_at": "2026-10-25T06:02:19Z",
-    "url": "https://github.com/respanai/respan-gateway"
-  },
-  {
     "description": "Production-grade observability and agentic AIOps for AI systems \u2014 OpenTelemetry-native across independent polyglot apps;",
     "id": "Root1V/argus-observability-platform",
     "language": "Python",
@@ -337,7 +337,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 36407,
+    "stars": 36410,
     "updated_at": "2026-10-25T02:57:04Z",
     "url": "https://github.com/langfuse/langfuse"
   },
