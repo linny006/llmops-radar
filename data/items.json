@@ -1,12 +1,39 @@
 [
   {
+    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 2,
+    "updated_at": "2026-10-25T05:55:42Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-25T05:51:26Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 42,
-    "updated_at": "2026-10-25T05:44:59Z",
+    "updated_at": "2026-10-25T05:50:04Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-25T05:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Measure how much of your LLM bill is re-writing documents you already generated. Local, zero network calls, single file,",
@@ -27,20 +54,11 @@
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-25T05:37:33Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 61985,
+    "stars": 61986,
     "updated_at": "2026-10-25T05:41:02Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -72,21 +90,12 @@
     "url": "https://github.com/heyvaldemar/dify-traefik-letsencrypt-docker-compose"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-25T05:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
     "id": "holetz/quenching",
     "language": "Python",
     "name": "holetz/quenching",
     "stars": 0,
-    "updated_at": "2026-10-25T05:35:13Z",
+    "updated_at": "2026-10-25T05:56:53Z",
     "url": "https://github.com/holetz/quenching"
   },
   {
@@ -221,7 +230,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8965,
-    "updated_at": "2026-10-25T05:31:11Z",
+    "updated_at": "2026-10-25T05:58:36Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -274,7 +283,7 @@
     "id": "respanai/respan-gateway",
     "language": "Rust",
     "name": "respanai/respan-gateway",
-    "stars": 267,
+    "stars": 268,
     "updated_at": "2026-10-25T03:10:28Z",
     "url": "https://github.com/respanai/respan-gateway"
   },
@@ -301,7 +310,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 36404,
+    "stars": 36405,
     "updated_at": "2026-10-25T02:57:04Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-25T01:27:15Z",
     "url": "https://github.com/runcycles/cycles-protocol"
-  },
-  {
-    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
-    "id": "srjn45/warden",
-    "language": "Go",
-    "name": "srjn45/warden",
-    "stars": 2,
-    "updated_at": "2026-10-25T04:52:49Z",
-    "url": "https://github.com/srjn45/warden"
   }
 ]
