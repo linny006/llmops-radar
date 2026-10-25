@@ -1,21 +1,39 @@
 [
   {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 24,
-    "updated_at": "2026-10-25T05:29:49Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 42,
+    "updated_at": "2026-10-25T05:44:59Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
-    "id": "holetz/quenching",
+    "description": "Measure how much of your LLM bill is re-writing documents you already generated. Local, zero network calls, single file,",
+    "id": "linklbee/scan",
     "language": "Python",
-    "name": "holetz/quenching",
+    "name": "linklbee/scan",
     "stars": 0,
-    "updated_at": "2026-10-25T05:29:17Z",
-    "url": "https://github.com/holetz/quenching"
+    "updated_at": "2026-10-25T05:41:35Z",
+    "url": "https://github.com/linklbee/scan"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-10-25T05:41:35Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-25T05:37:33Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -23,8 +41,35 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61985,
-    "updated_at": "2026-10-25T05:30:05Z",
+    "updated_at": "2026-10-25T05:41:02Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 24,
+    "updated_at": "2026-10-25T05:33:07Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
+    "id": "cloudrift-ai/emmy",
+    "language": "Python",
+    "name": "cloudrift-ai/emmy",
+    "stars": 117,
+    "updated_at": "2026-10-25T05:40:53Z",
+    "url": "https://github.com/cloudrift-ai/emmy"
+  },
+  {
+    "description": "Dify with Let's Encrypt Using Docker Compose",
+    "id": "heyvaldemar/dify-traefik-letsencrypt-docker-compose",
+    "language": "Shell",
+    "name": "heyvaldemar/dify-traefik-letsencrypt-docker-compose",
+    "stars": 0,
+    "updated_at": "2026-10-25T05:30:37Z",
+    "url": "https://github.com/heyvaldemar/dify-traefik-letsencrypt-docker-compose"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -32,8 +77,17 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-10-25T05:15:25Z",
+    "updated_at": "2026-10-25T05:30:25Z",
     "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
+    "id": "holetz/quenching",
+    "language": "Python",
+    "name": "holetz/quenching",
+    "stars": 0,
+    "updated_at": "2026-10-25T05:35:13Z",
+    "url": "https://github.com/holetz/quenching"
   },
   {
     "description": "Agentic ADaM code generation with QC-grade verification: LangGraph, MCP, multi-model LLMs, CDISC, human sign-off and a p",
@@ -58,7 +112,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26394,
+    "stars": 26395,
     "updated_at": "2026-10-25T05:07:10Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -70,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T05:06:40Z",
     "url": "https://github.com/runcycles/cycles-mcp-server"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 42,
-    "updated_at": "2026-10-25T05:05:16Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -176,7 +221,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8965,
-    "updated_at": "2026-10-25T05:26:28Z",
+    "updated_at": "2026-10-25T05:31:11Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -221,7 +266,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1373,
-    "updated_at": "2026-10-25T04:55:35Z",
+    "updated_at": "2026-10-25T05:39:52Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -247,7 +292,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 30740,
+    "stars": 30741,
     "updated_at": "2026-10-25T02:58:29Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -256,18 +301,9 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 36402,
+    "stars": 36404,
     "updated_at": "2026-10-25T02:57:04Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 117,
-    "updated_at": "2026-10-25T05:13:15Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
     "description": "TypeScript SDK for Cycles \u2014 runtime budget and action authority for Node.js AI agents",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-25T04:52:49Z",
     "url": "https://github.com/srjn45/warden"
-  },
-  {
-    "description": "Tuned Variables Language (TVL) by Traigent: typed specification language, validators, CLI tools, editor support, and doc",
-    "id": "Traigent/tvl",
-    "language": "Python",
-    "name": "Traigent/tvl",
-    "stars": 0,
-    "updated_at": "2026-10-25T01:17:20Z",
-    "url": "https://github.com/Traigent/tvl"
-  },
-  {
-    "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
-    "id": "hjongc/openrouter-endpoint-watch",
-    "language": "Python",
-    "name": "hjongc/openrouter-endpoint-watch",
-    "stars": 0,
-    "updated_at": "2026-10-25T01:13:46Z",
-    "url": "https://github.com/hjongc/openrouter-endpoint-watch"
-  },
-  {
-    "description": "GitHub org config, CI workflows, and community health files for Cycles",
-    "id": "runcycles/.github",
-    "language": "Shell",
-    "name": "runcycles/.github",
-    "stars": 0,
-    "updated_at": "2026-10-25T01:13:51Z",
-    "url": "https://github.com/runcycles/.github"
-  },
-  {
-    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 2,
-    "updated_at": "2026-10-25T01:01:15Z",
-    "url": "https://github.com/a-novel/service-genai"
   }
 ]
