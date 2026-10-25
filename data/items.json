@@ -1,12 +1,129 @@
 [
   {
+    "description": "Model-agnostic Agent Skill: keep multiple hypotheses alive, test them against evidence, revive alternatives, collapse to",
+    "id": "Furox-Art/quantum-reasoning-skill",
+    "language": "Python",
+    "name": "Furox-Art/quantum-reasoning-skill",
+    "stars": 4,
+    "updated_at": "2026-10-25T15:44:36Z",
+    "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
+  },
+  {
+    "description": "Senior MLOps Engineer focused on AI platforms, production ML, and LLM systems.",
+    "id": "anishmahapatra/anishmahapatra",
+    "language": "\u2014",
+    "name": "anishmahapatra/anishmahapatra",
+    "stars": 0,
+    "updated_at": "2026-10-25T15:44:28Z",
+    "url": "https://github.com/anishmahapatra/anishmahapatra"
+  },
+  {
+    "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
+    "id": "ZIZKA-AI-SL/ZizkaDB",
+    "language": "Python",
+    "name": "ZIZKA-AI-SL/ZizkaDB",
+    "stars": 146,
+    "updated_at": "2026-10-25T15:44:27Z",
+    "url": "https://github.com/ZIZKA-AI-SL/ZizkaDB"
+  },
+  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 24,
-    "updated_at": "2026-10-25T15:30:01Z",
+    "updated_at": "2026-10-25T15:45:20Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
+    "id": "digline/digline",
+    "language": "Python",
+    "name": "digline/digline",
+    "stars": 9,
+    "updated_at": "2026-10-25T15:43:06Z",
+    "url": "https://github.com/digline/digline"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36449,
+    "updated_at": "2026-10-25T15:42:00Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "\u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 Claude Code \u0438 \u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u043e\u043c GitHub \u2014 \u043a\u0430\u0436\u0434\u043e\u0435 \u0441 \u0438\u0441\u0442\u043e\u0440\u0438\u0435\u0439 \u043f\u043e\u043b\u043e\u043c\u043a\u0438, \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b\u0440\u043e\u0441\u043b\u043e \u00b7 Incident-based rules ",
+    "id": "ArtVsMark/Engineering-Incidents-Playbook",
+    "language": "Python",
+    "name": "ArtVsMark/Engineering-Incidents-Playbook",
+    "stars": 5,
+    "updated_at": "2026-10-25T15:45:00Z",
+    "url": "https://github.com/ArtVsMark/Engineering-Incidents-Playbook"
+  },
+  {
+    "description": "AI agent execution governance: pre-effect authorization, single-use permissions, policy enforcement, and verifiable reco",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 42,
+    "updated_at": "2026-10-25T15:41:10Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 32,
+    "updated_at": "2026-10-25T15:40:03Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Scheduled agent reviews for your repositories, defined in Git. Approved access, sandboxed runs, a full audit trail.",
+    "id": "piotrekno1/second-shift",
+    "language": "Python",
+    "name": "piotrekno1/second-shift",
+    "stars": 1,
+    "updated_at": "2026-10-25T15:38:40Z",
+    "url": "https://github.com/piotrekno1/second-shift"
+  },
+  {
+    "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
+    "id": "burakdede/lorepack",
+    "language": "TypeScript",
+    "name": "burakdede/lorepack",
+    "stars": 4,
+    "updated_at": "2026-10-25T15:36:40Z",
+    "url": "https://github.com/burakdede/lorepack"
+  },
+  {
+    "description": "Rust client for Cycles \u2014 runtime budget authority for AI agents",
+    "id": "runcycles/cycles-client-rust",
+    "language": "Rust",
+    "name": "runcycles/cycles-client-rust",
+    "stars": 1,
+    "updated_at": "2026-10-25T15:34:21Z",
+    "url": "https://github.com/runcycles/cycles-client-rust"
+  },
+  {
+    "description": "End-to-end LLMOps system for natural-language questions over tabular data. Routes simple queries to classical ML and ana",
+    "id": "Aakifah/slm_mlops",
+    "language": "Python",
+    "name": "Aakifah/slm_mlops",
+    "stars": 0,
+    "updated_at": "2026-10-25T15:31:56Z",
+    "url": "https://github.com/Aakifah/slm_mlops"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-25T15:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Ask your coding agent about your LLM app in plain English; it answers from your Langfuse data with lf. CLI + agent skill",
@@ -18,42 +135,6 @@
     "url": "https://github.com/tns15june/langfuse-agent-cli"
   },
   {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 32,
-    "updated_at": "2026-10-25T15:25:38Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36448,
-    "updated_at": "2026-10-25T15:25:31Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "End-to-end LLMOps system for natural-language questions over tabular data. Routes simple queries to classical ML and ana",
-    "id": "Aakifah/slm_mlops",
-    "language": "Python",
-    "name": "Aakifah/slm_mlops",
-    "stars": 0,
-    "updated_at": "2026-10-25T15:25:21Z",
-    "url": "https://github.com/Aakifah/slm_mlops"
-  },
-  {
-    "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
-    "id": "ZIZKA-AI-SL/ZizkaDB",
-    "language": "Python",
-    "name": "ZIZKA-AI-SL/ZizkaDB",
-    "stars": 146,
-    "updated_at": "2026-10-25T15:24:16Z",
-    "url": "https://github.com/ZIZKA-AI-SL/ZizkaDB"
-  },
-  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -61,15 +142,6 @@
     "stars": 42,
     "updated_at": "2026-10-25T15:23:32Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Senior MLOps Engineer focused on AI platforms, production ML, and LLM systems.",
-    "id": "anishmahapatra/anishmahapatra",
-    "language": "\u2014",
-    "name": "anishmahapatra/anishmahapatra",
-    "stars": 0,
-    "updated_at": "2026-10-25T15:17:17Z",
-    "url": "https://github.com/anishmahapatra/anishmahapatra"
   },
   {
     "description": "Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper",
@@ -88,15 +160,6 @@
     "stars": 7,
     "updated_at": "2026-10-25T15:15:47Z",
     "url": "https://github.com/alexejsailer/agentic-nets"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-25T15:15:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -122,7 +185,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-25T15:23:39Z",
+    "updated_at": "2026-10-25T15:32:47Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -187,15 +250,6 @@
     "stars": 8,
     "updated_at": "2026-10-25T15:27:29Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
-    "id": "digline/digline",
-    "language": "Python",
-    "name": "digline/digline",
-    "stars": 9,
-    "updated_at": "2026-10-25T14:49:39Z",
-    "url": "https://github.com/digline/digline"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -266,7 +320,7 @@
     "language": "TypeScript",
     "name": "Abillify/atf",
     "stars": 5,
-    "updated_at": "2026-10-25T14:42:39Z",
+    "updated_at": "2026-10-25T15:32:59Z",
     "url": "https://github.com/Abillify/atf"
   },
   {
@@ -295,15 +349,6 @@
     "stars": 1,
     "updated_at": "2026-10-25T14:32:46Z",
     "url": "https://github.com/optiware-ai/optimux"
-  },
-  {
-    "description": "\u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 Claude Code \u0438 \u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440\u043e\u043c GitHub \u2014 \u043a\u0430\u0436\u0434\u043e\u0435 \u0441 \u0438\u0441\u0442\u043e\u0440\u0438\u0435\u0439 \u043f\u043e\u043b\u043e\u043c\u043a\u0438, \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b\u0440\u043e\u0441\u043b\u043e \u00b7 Incident-based rules ",
-    "id": "ArtVsMark/Engineering-Incidents-Playbook",
-    "language": "Python",
-    "name": "ArtVsMark/Engineering-Incidents-Playbook",
-    "stars": 5,
-    "updated_at": "2026-10-25T14:40:02Z",
-    "url": "https://github.com/ArtVsMark/Engineering-Incidents-Playbook"
   },
   {
     "description": "Enterprise Scale AIFactory (esml) - on Azure",
@@ -403,50 +448,5 @@
     "stars": 8968,
     "updated_at": "2026-10-25T14:58:53Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
-    "id": "srjn45/warden",
-    "language": "Go",
-    "name": "srjn45/warden",
-    "stars": 2,
-    "updated_at": "2026-10-25T13:37:50Z",
-    "url": "https://github.com/srjn45/warden"
-  },
-  {
-    "description": "CrewAI hierarchical (supervisor) multi-agent architecture with planning: a manager delegates to specialists, a critic an",
-    "id": "MartinCastroAlvarez/crewai-hierarchical-planning",
-    "language": "Python",
-    "name": "MartinCastroAlvarez/crewai-hierarchical-planning",
-    "stars": 0,
-    "updated_at": "2026-10-25T13:34:00Z",
-    "url": "https://github.com/MartinCastroAlvarez/crewai-hierarchical-planning"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 24,
-    "updated_at": "2026-10-25T13:28:40Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "\ud83e\udea2 Langfuse JS/TS SDK",
-    "id": "langfuse/langfuse-js",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse-js",
-    "stars": 173,
-    "updated_at": "2026-10-25T13:20:31Z",
-    "url": "https://github.com/langfuse/langfuse-js"
-  },
-  {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
-    "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 1,
-    "updated_at": "2026-10-25T13:17:12Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
   }
 ]
