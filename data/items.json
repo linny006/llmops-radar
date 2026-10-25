@@ -1,5 +1,113 @@
 [
   {
+    "description": "Scheduled agent reviews for your repositories, defined in Git. Approved access, sandboxed runs, a full audit trail.",
+    "id": "piotrekno1/second-shift",
+    "language": "Python",
+    "name": "piotrekno1/second-shift",
+    "stars": 1,
+    "updated_at": "2026-10-25T15:58:58Z",
+    "url": "https://github.com/piotrekno1/second-shift"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 2,
+    "updated_at": "2026-10-25T15:58:26Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-25T15:57:26Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
+    "id": "maks3201/decision-model-operator",
+    "language": "Go",
+    "name": "maks3201/decision-model-operator",
+    "stars": 1,
+    "updated_at": "2026-10-25T15:58:49Z",
+    "url": "https://github.com/maks3201/decision-model-operator"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 32,
+    "updated_at": "2026-10-25T15:54:28Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 42,
+    "updated_at": "2026-10-25T15:53:03Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-25T15:51:15Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-10-25T15:51:13Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 24,
+    "updated_at": "2026-10-25T16:00:18Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-25T15:57:26Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 96,
+    "updated_at": "2026-10-25T15:47:11Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-25T15:45:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Model-agnostic Agent Skill: keep multiple hypotheses alive, test them against evidence, revive alternatives, collapse to",
     "id": "Furox-Art/quantum-reasoning-skill",
     "language": "Python",
@@ -27,15 +135,6 @@
     "url": "https://github.com/ZIZKA-AI-SL/ZizkaDB"
   },
   {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 24,
-    "updated_at": "2026-10-25T15:45:20Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
     "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
     "id": "digline/digline",
     "language": "Python",
@@ -50,7 +149,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 36449,
-    "updated_at": "2026-10-25T15:42:00Z",
+    "updated_at": "2026-10-25T15:56:59Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -59,7 +158,7 @@
     "language": "Python",
     "name": "ArtVsMark/Engineering-Incidents-Playbook",
     "stars": 5,
-    "updated_at": "2026-10-25T15:45:00Z",
+    "updated_at": "2026-10-25T15:46:37Z",
     "url": "https://github.com/ArtVsMark/Engineering-Incidents-Playbook"
   },
   {
@@ -72,30 +171,12 @@
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 32,
-    "updated_at": "2026-10-25T15:40:03Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Scheduled agent reviews for your repositories, defined in Git. Approved access, sandboxed runs, a full audit trail.",
-    "id": "piotrekno1/second-shift",
-    "language": "Python",
-    "name": "piotrekno1/second-shift",
-    "stars": 1,
-    "updated_at": "2026-10-25T15:38:40Z",
-    "url": "https://github.com/piotrekno1/second-shift"
-  },
-  {
     "description": "Give AI agents cited, versioned context from your docs and spreadsheets. Build, diff and roll back what Claude Code, Cod",
     "id": "burakdede/lorepack",
     "language": "TypeScript",
     "name": "burakdede/lorepack",
     "stars": 4,
-    "updated_at": "2026-10-25T15:36:40Z",
+    "updated_at": "2026-10-25T15:49:52Z",
     "url": "https://github.com/burakdede/lorepack"
   },
   {
@@ -117,15 +198,6 @@
     "url": "https://github.com/Aakifah/slm_mlops"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-25T15:30:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Ask your coding agent about your LLM app in plain English; it answers from your Langfuse data with lf. CLI + agent skill",
     "id": "tns15june/langfuse-agent-cli",
     "language": "Python",
@@ -133,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T15:27:55Z",
     "url": "https://github.com/tns15june/langfuse-agent-cli"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 42,
-    "updated_at": "2026-10-25T15:23:32Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper",
@@ -180,15 +243,6 @@
     "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
   },
   {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-25T15:32:47Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
     "id": "toxicwind/ranch",
     "language": "Rust",
@@ -207,13 +261,13 @@
     "url": "https://github.com/redevops-io/agentic-os"
   },
   {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-25T14:57:24Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8967,
+    "updated_at": "2026-10-25T14:58:53Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "AI trust-boundary gateway for OpenAI, Anthropic, and Gemini.",
@@ -241,15 +295,6 @@
     "stars": 3009,
     "updated_at": "2026-10-25T15:12:18Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-10-25T15:27:29Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -297,15 +342,6 @@
     "url": "https://github.com/acornops/control-plane"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-25T14:45:19Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "Linux VM agent for AcornOps, providing outbound system connectivity, host inspection, and controlled VM operations.",
     "id": "acornops/agentv",
     "language": "TypeScript",
@@ -331,15 +367,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T14:39:37Z",
     "url": "https://github.com/MartinCastroAlvarez/langsmith-agent-evals"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 96,
-    "updated_at": "2026-10-25T15:29:02Z",
-    "url": "https://github.com/mloda-ai/mloda"
   },
   {
     "description": "Self-hosted coding assistant that routes each request to the cheapest model that can handle it",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-25T13:49:52Z",
     "url": "https://github.com/happy520ai/opencsg-model-pricing"
-  },
-  {
-    "description": "Template for small, safe AI agents in pure Python: cost caps in code, tool-less LLM client, \"I don't know\" as a valid re",
-    "id": "tonyweckstrom1987/agentti-pohja",
-    "language": "Python",
-    "name": "tonyweckstrom1987/agentti-pohja",
-    "stars": 0,
-    "updated_at": "2026-10-25T13:49:14Z",
-    "url": "https://github.com/tonyweckstrom1987/agentti-pohja"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-10-25T13:41:45Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8968,
-    "updated_at": "2026-10-25T14:58:53Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   }
 ]
