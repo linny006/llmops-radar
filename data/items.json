@@ -1,5 +1,95 @@
 [
   {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-10-25T09:43:14Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
+    "id": "holetz/quenching",
+    "language": "Python",
+    "name": "holetz/quenching",
+    "stars": 0,
+    "updated_at": "2026-10-25T09:43:52Z",
+    "url": "https://github.com/holetz/quenching"
+  },
+  {
+    "description": "Self-hosted LLM gateway in Rust: one OpenAI-compatible API for OpenAI, Anthropic, Gemini, Azure, Ollama and more, with v",
+    "id": "rustrak/llmtrack",
+    "language": "Rust",
+    "name": "rustrak/llmtrack",
+    "stars": 3,
+    "updated_at": "2026-10-25T09:41:50Z",
+    "url": "https://github.com/rustrak/llmtrack"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 61997,
+    "updated_at": "2026-10-25T09:39:17Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4992,
+    "updated_at": "2026-10-25T09:40:10Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 24,
+    "updated_at": "2026-10-25T09:36:14Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 7,
+    "updated_at": "2026-10-25T09:33:29Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper",
+    "id": "acornops/acornops-deployment",
+    "language": "JavaScript",
+    "name": "acornops/acornops-deployment",
+    "stars": 2,
+    "updated_at": "2026-10-25T09:31:21Z",
+    "url": "https://github.com/acornops/acornops-deployment"
+  },
+  {
+    "description": ".NET 10 library for LLM apps: one ITextClient that routes and fails over across OpenAI, Azure OpenAI, OpenRouter, Ollama",
+    "id": "JiarongGu/Lyntai",
+    "language": "C#",
+    "name": "JiarongGu/Lyntai",
+    "stars": 2,
+    "updated_at": "2026-10-25T09:30:59Z",
+    "url": "https://github.com/JiarongGu/Lyntai"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-25T09:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Open-source, self-hosted AI-assisted operations for Kubernetes and Linux. Start here for source, architecture, deploymen",
     "id": "acornops/acornops",
     "language": "JavaScript",
@@ -14,7 +104,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 26398,
-    "updated_at": "2026-10-25T09:29:56Z",
+    "updated_at": "2026-10-25T09:32:18Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -23,7 +113,7 @@
     "language": "TypeScript",
     "name": "acornops/control-plane",
     "stars": 2,
-    "updated_at": "2026-10-25T09:27:59Z",
+    "updated_at": "2026-10-25T09:32:44Z",
     "url": "https://github.com/acornops/control-plane"
   },
   {
@@ -81,15 +171,6 @@
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-25T09:15:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Trace-native CI/CD for AI agents: grade production traces, cluster failures, freeze them into replayable regression test",
     "id": "jwuthri-cloud/Tracely-ai",
     "language": "Python",
@@ -97,15 +178,6 @@
     "stars": 1171,
     "updated_at": "2026-10-25T09:09:13Z",
     "url": "https://github.com/jwuthri-cloud/Tracely-ai"
-  },
-  {
-    "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
-    "id": "holetz/quenching",
-    "language": "Python",
-    "name": "holetz/quenching",
-    "stars": 0,
-    "updated_at": "2026-10-25T09:29:40Z",
-    "url": "https://github.com/holetz/quenching"
   },
   {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
@@ -124,24 +196,6 @@
     "stars": 21,
     "updated_at": "2026-10-25T09:04:37Z",
     "url": "https://github.com/spectra-php/laravel-spectra"
-  },
-  {
-    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4992,
-    "updated_at": "2026-10-25T09:01:50Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 61995,
-    "updated_at": "2026-10-25T09:12:41Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Local-first checks for OpenAI-compatible chat, tool calling, streaming, JSON, vision input, and image generation.",
@@ -167,17 +221,8 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 12075,
-    "updated_at": "2026-10-25T08:50:27Z",
+    "updated_at": "2026-10-25T09:43:23Z",
     "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 24,
-    "updated_at": "2026-10-25T08:47:26Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
     "description": "Audit any agent decision across its past, present, and future, on one typed graph.",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-25T07:13:43Z",
     "url": "https://github.com/haomingkoo/haomingkoo.github.io"
-  },
-  {
-    "description": "Open-source Model Context Protocol (MCP) security gateway and AI agent control plane for LLMOps/AIOps, with prompt-injec",
-    "id": "gaurav-gs7/Judikt",
-    "language": "Python",
-    "name": "gaurav-gs7/Judikt",
-    "stars": 0,
-    "updated_at": "2026-10-25T07:07:57Z",
-    "url": "https://github.com/gaurav-gs7/Judikt"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8965,
-    "updated_at": "2026-10-25T09:01:51Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary.",
-    "id": "respanai/respan-gateway",
-    "language": "Rust",
-    "name": "respanai/respan-gateway",
-    "stars": 277,
-    "updated_at": "2026-10-25T06:55:52Z",
-    "url": "https://github.com/respanai/respan-gateway"
-  },
-  {
-    "description": "Lightweight reverse proxy that logs per-request inference metrics (tokens, tokens/sec, time to first token, duration) fo",
-    "id": "juusolatva/metrics_proxy",
-    "language": "Go",
-    "name": "juusolatva/metrics_proxy",
-    "stars": 0,
-    "updated_at": "2026-10-25T06:51:47Z",
-    "url": "https://github.com/juusolatva/metrics_proxy"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36419,
-    "updated_at": "2026-10-25T06:51:40Z",
-    "url": "https://github.com/langfuse/langfuse"
   }
 ]
