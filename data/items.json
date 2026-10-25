@@ -1,21 +1,57 @@
 [
   {
-    "description": "Calibrated trust gate for AI agents \u2014 act, escalate, or abstain. It knows when it doesn't know. pip install warmwinter",
-    "id": "ricovigil1/warmwinter-sdk",
-    "language": "Python",
-    "name": "ricovigil1/warmwinter-sdk",
-    "stars": 0,
-    "updated_at": "2026-10-25T04:29:42Z",
-    "url": "https://github.com/ricovigil1/warmwinter-sdk"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28522,
-    "updated_at": "2026-10-25T04:29:08Z",
+    "updated_at": "2026-10-25T04:44:28Z",
     "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-10-25T04:40:13Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
+    "id": "holetz/quenching",
+    "language": "Python",
+    "name": "holetz/quenching",
+    "stars": 0,
+    "updated_at": "2026-10-25T04:45:21Z",
+    "url": "https://github.com/holetz/quenching"
+  },
+  {
+    "description": "Calibrated trust gate for AI agents \u2014 act, escalate, or abstain. It knows when it doesn't know. pip install warmwinter",
+    "id": "ricovigil1/warmwinter-sdk",
+    "language": "Python",
+    "name": "ricovigil1/warmwinter-sdk",
+    "stars": 0,
+    "updated_at": "2026-10-25T04:38:49Z",
+    "url": "https://github.com/ricovigil1/warmwinter-sdk"
+  },
+  {
+    "description": "LLM and tool gateway for AcornOps, brokering model providers, MCP tools, policy enforcement, and runtime credentials.",
+    "id": "acornops/llm-gateway",
+    "language": "Python",
+    "name": "acornops/llm-gateway",
+    "stars": 2,
+    "updated_at": "2026-10-25T04:39:51Z",
+    "url": "https://github.com/acornops/llm-gateway"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-25T04:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -23,7 +59,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 26392,
-    "updated_at": "2026-10-25T04:28:37Z",
+    "updated_at": "2026-10-25T04:31:28Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -43,24 +79,6 @@
     "stars": 4,
     "updated_at": "2026-10-25T04:19:21Z",
     "url": "https://github.com/burakdede/lorepack"
-  },
-  {
-    "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
-    "id": "holetz/quenching",
-    "language": "Python",
-    "name": "holetz/quenching",
-    "stars": 0,
-    "updated_at": "2026-10-25T04:25:34Z",
-    "url": "https://github.com/holetz/quenching"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-25T04:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
@@ -104,7 +122,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61985,
-    "updated_at": "2026-10-25T04:23:55Z",
+    "updated_at": "2026-10-25T04:45:00Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -113,7 +131,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8965,
-    "updated_at": "2026-10-25T04:28:20Z",
+    "updated_at": "2026-10-25T04:35:06Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -158,7 +176,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1373,
-    "updated_at": "2026-10-25T04:19:14Z",
+    "updated_at": "2026-10-25T04:31:43Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -193,7 +211,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 36394,
+    "stars": 36397,
     "updated_at": "2026-10-25T02:57:04Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -203,7 +221,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 117,
-    "updated_at": "2026-10-25T04:22:16Z",
+    "updated_at": "2026-10-25T04:44:08Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-25T00:43:29Z",
     "url": "https://github.com/RudrenduPaul/hardening-llm-systems-production"
-  },
-  {
-    "description": "Documentation for Cycles \u2014 AI agent governance, runtime budget, action authority, MCP integration",
-    "id": "runcycles/cycles-docs",
-    "language": "Vue",
-    "name": "runcycles/cycles-docs",
-    "stars": 4,
-    "updated_at": "2026-10-25T00:43:23Z",
-    "url": "https://github.com/runcycles/cycles-docs"
-  },
-  {
-    "description": "\ud83e\udde0\u200b  An LLM router that uses built-in logic and system 1 decision models to intelligently route requests to the appropria",
-    "id": "storm-software/mindctl",
-    "language": "JavaScript",
-    "name": "storm-software/mindctl",
-    "stars": 0,
-    "updated_at": "2026-10-25T00:42:12Z",
-    "url": "https://github.com/storm-software/mindctl"
   }
 ]
