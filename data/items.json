@@ -1,12 +1,48 @@
 [
   {
+    "description": "Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude ",
+    "id": "Fast-Editor/Lynkr",
+    "language": "JavaScript",
+    "name": "Fast-Editor/Lynkr",
+    "stars": 639,
+    "updated_at": "2026-10-24T23:58:56Z",
+    "url": "https://github.com/Fast-Editor/Lynkr"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28521,
+    "updated_at": "2026-10-24T23:58:13Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36372,
+    "updated_at": "2026-10-24T23:53:06Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 61978,
-    "updated_at": "2026-10-24T23:44:31Z",
+    "updated_at": "2026-10-24T23:59:31Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-24T23:45:23Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Switch AI models without breaking your product: find every model your code calls and when it retires, turn real usage lo",
@@ -27,13 +63,13 @@
     "url": "https://github.com/thequantumfalcon/kry"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-24T23:30:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26387,
+    "updated_at": "2026-10-24T23:30:19Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
@@ -113,7 +149,7 @@
     "language": "Python",
     "name": "redevops-io/agentic-os",
     "stars": 2,
-    "updated_at": "2026-10-24T23:06:41Z",
+    "updated_at": "2026-10-24T23:53:50Z",
     "url": "https://github.com/redevops-io/agentic-os"
   },
   {
@@ -212,7 +248,7 @@
     "language": "Python",
     "name": "pom11/hscc",
     "stars": 7,
-    "updated_at": "2026-10-24T22:24:17Z",
+    "updated_at": "2026-10-24T23:59:00Z",
     "url": "https://github.com/pom11/hscc"
   },
   {
@@ -232,15 +268,6 @@
     "stars": 96,
     "updated_at": "2026-10-24T22:16:33Z",
     "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26386,
-    "updated_at": "2026-10-24T23:30:19Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Terraform provider for Anthropic and Claude organizations: workspaces, members, invites, API keys, service accounts, wor",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-24T23:06:42Z",
     "url": "https://github.com/holetz/quenching"
-  },
-  {
-    "description": "A control layer that decides how an LLM should speak before it speaks",
-    "id": "Furox-Art/eq-layer",
-    "language": "Python",
-    "name": "Furox-Art/eq-layer",
-    "stars": 0,
-    "updated_at": "2026-10-24T20:35:35Z",
-    "url": "https://github.com/Furox-Art/eq-layer"
-  },
-  {
-    "description": "Self-correcting RAG: LangGraph decision graph with query rewriting, HyDE and hallucination checks, plus Ragas evaluation",
-    "id": "galvysRodriguez/self-correcting-rag",
-    "language": "Python",
-    "name": "galvysRodriguez/self-correcting-rag",
-    "stars": 1,
-    "updated_at": "2026-10-24T19:50:07Z",
-    "url": "https://github.com/galvysRodriguez/self-correcting-rag"
-  },
-  {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 2,
-    "updated_at": "2026-10-24T22:05:13Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
   }
 ]
