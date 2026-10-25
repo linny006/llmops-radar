@@ -1,12 +1,66 @@
 [
   {
-    "description": "Scheduled agent reviews for your repositories, defined in Git. Approved access, sandboxed runs, a full audit trail.",
+    "description": "Scheduled agent tasks for your repositories, defined in Git. Approved access, sandboxed runs, a full audit trail.",
     "id": "piotrekno1/second-shift",
     "language": "Python",
     "name": "piotrekno1/second-shift",
     "stars": 1,
-    "updated_at": "2026-10-25T20:00:07Z",
+    "updated_at": "2026-10-25T20:15:16Z",
     "url": "https://github.com/piotrekno1/second-shift"
+  },
+  {
+    "description": "A dry run for AI agents: record their tool calls, see what your rules would have blocked or sent for approval, and keep ",
+    "id": "ntinosgkiou-code/agentdryrun",
+    "language": "Python",
+    "name": "ntinosgkiou-code/agentdryrun",
+    "stars": 0,
+    "updated_at": "2026-10-25T20:15:13Z",
+    "url": "https://github.com/ntinosgkiou-code/agentdryrun"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 42,
+    "updated_at": "2026-10-25T20:09:45Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "\ud83c\udfaf Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an",
+    "id": "izam-mohammed/ragrank",
+    "language": "Python",
+    "name": "izam-mohammed/ragrank",
+    "stars": 47,
+    "updated_at": "2026-10-25T20:09:42Z",
+    "url": "https://github.com/izam-mohammed/ragrank"
+  },
+  {
+    "description": "A self-hosted OpenAI-compatible proxy and web app for debugging, testing, and improving AI agents.",
+    "id": "NordsteinSoftware/Proxytrace",
+    "language": "C#",
+    "name": "NordsteinSoftware/Proxytrace",
+    "stars": 3,
+    "updated_at": "2026-10-25T20:09:13Z",
+    "url": "https://github.com/NordsteinSoftware/Proxytrace"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-25T20:08:08Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-10-25T20:05:28Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
     "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
@@ -14,8 +68,26 @@
     "language": "Python",
     "name": "SourceShift/mini-ork",
     "stars": 32,
-    "updated_at": "2026-10-25T19:59:29Z",
+    "updated_at": "2026-10-25T20:03:51Z",
     "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
+    "id": "holetz/quenching",
+    "language": "Python",
+    "name": "holetz/quenching",
+    "stars": 0,
+    "updated_at": "2026-10-25T20:03:42Z",
+    "url": "https://github.com/holetz/quenching"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-25T20:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
@@ -25,24 +97,6 @@
     "stars": 1,
     "updated_at": "2026-10-25T19:56:34Z",
     "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 42,
-    "updated_at": "2026-10-25T19:48:06Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-25T19:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -85,18 +139,9 @@
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
-    "stars": 4992,
+    "stars": 4991,
     "updated_at": "2026-10-25T19:37:33Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
-    "id": "holetz/quenching",
-    "language": "Python",
-    "name": "holetz/quenching",
-    "stars": 0,
-    "updated_at": "2026-10-25T19:56:18Z",
-    "url": "https://github.com/holetz/quenching"
   },
   {
     "description": "Enterprise Scale AIFactory (esml) - on Azure",
@@ -167,7 +212,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8968,
-    "updated_at": "2026-10-25T19:58:06Z",
+    "updated_at": "2026-10-25T20:07:15Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -176,17 +221,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11996,
-    "updated_at": "2026-10-25T19:59:21Z",
+    "updated_at": "2026-10-25T20:05:36Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-25T19:06:26Z",
-    "url": "https://github.com/toxicwind/ranch"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -252,6 +288,15 @@
     "url": "https://github.com/clearml/clearml-agent"
   },
   {
+    "description": "Benchmarking vision-language models for handwritten form extraction with confidence flags and human review.",
+    "id": "tibendadavis/handwritten-forms-vlm-bench",
+    "language": "Python",
+    "name": "tibendadavis/handwritten-forms-vlm-bench",
+    "stars": 0,
+    "updated_at": "2026-10-25T18:50:43Z",
+    "url": "https://github.com/tibendadavis/handwritten-forms-vlm-bench"
+  },
+  {
     "description": "Companion code for Hardening LLM Systems in Production (Manning Publications), by Rudrendu Paul and Sourav Nandy: halluc",
     "id": "RudrenduPaul/hardening-llm-systems-production",
     "language": "Python",
@@ -279,15 +324,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "A dry run for AI agents: record their tool calls, see what your rules would have blocked or sent for approval, and keep ",
-    "id": "ntinosgkiou-code/agentdryrun",
-    "language": "Python",
-    "name": "ntinosgkiou-code/agentdryrun",
-    "stars": 0,
-    "updated_at": "2026-10-25T18:46:47Z",
-    "url": "https://github.com/ntinosgkiou-code/agentdryrun"
-  },
-  {
     "description": "Open-source compiler for AI agents. Write one crewhaus.yaml; compile it to a CLI, a Slack bot, and an eval harness from ",
     "id": "crewhaus/factory",
     "language": "TypeScript",
@@ -295,15 +331,6 @@
     "stars": 3,
     "updated_at": "2026-10-25T18:46:08Z",
     "url": "https://github.com/crewhaus/factory"
-  },
-  {
-    "description": "Benchmarking vision-language models for handwritten form extraction with confidence flags and human review. Case study: ",
-    "id": "tibendadavis/handwritten-forms-vlm-bench",
-    "language": "Python",
-    "name": "tibendadavis/handwritten-forms-vlm-bench",
-    "stars": 0,
-    "updated_at": "2026-10-25T18:50:43Z",
-    "url": "https://github.com/tibendadavis/handwritten-forms-vlm-bench"
   },
   {
     "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-25T18:11:33Z",
     "url": "https://github.com/TimoLeDozo/MoltBot-Hub"
-  },
-  {
-    "description": "Mesurer, prot\u00e9ger et optimiser l'environnement de travail des IA.",
-    "id": "TimoLeDozo/Infrastructure",
-    "language": "\u2014",
-    "name": "TimoLeDozo/Infrastructure",
-    "stars": 0,
-    "updated_at": "2026-10-25T18:11:31Z",
-    "url": "https://github.com/TimoLeDozo/Infrastructure"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-10-25T18:07:52Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "AI Engineer \u00b7 I build LLM agents for production, and the evals that show they work.",
-    "id": "gonzalomartinperez/gonzalomartinperez",
-    "language": "Mermaid",
-    "name": "gonzalomartinperez/gonzalomartinperez",
-    "stars": 1,
-    "updated_at": "2026-10-25T18:06:14Z",
-    "url": "https://github.com/gonzalomartinperez/gonzalomartinperez"
   }
 ]
