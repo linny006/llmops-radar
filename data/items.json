@@ -1,5 +1,68 @@
 [
   {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 32,
+    "updated_at": "2026-10-25T10:14:24Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 3009,
+    "updated_at": "2026-10-25T10:09:04Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Python SDK for Cycles \u2014 reserve, commit, release budget and risk for AI agents",
+    "id": "runcycles/cycles-client-python",
+    "language": "Python",
+    "name": "runcycles/cycles-client-python",
+    "stars": 0,
+    "updated_at": "2026-10-25T10:08:19Z",
+    "url": "https://github.com/runcycles/cycles-client-python"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-25T10:07:59Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Open-source, 100% serverless AI-workflow orchestration on AWS Step Functions + Lambda \u2014 build, version & time-travel-deb",
+    "id": "ALLMA-dev/allma-core",
+    "language": "TypeScript",
+    "name": "ALLMA-dev/allma-core",
+    "stars": 2,
+    "updated_at": "2026-10-25T10:06:47Z",
+    "url": "https://github.com/ALLMA-dev/allma-core"
+  },
+  {
+    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
+    "id": "korczis/prismatic-majordomus",
+    "language": "Rust",
+    "name": "korczis/prismatic-majordomus",
+    "stars": 0,
+    "updated_at": "2026-10-25T10:04:36Z",
+    "url": "https://github.com/korczis/prismatic-majordomus"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-25T10:00:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
     "id": "holetz/quenching",
     "language": "Python",
@@ -32,7 +95,7 @@
     "language": "TypeScript",
     "name": "acornops/management-console",
     "stars": 2,
-    "updated_at": "2026-10-25T09:49:39Z",
+    "updated_at": "2026-10-25T10:04:14Z",
     "url": "https://github.com/acornops/management-console"
   },
   {
@@ -52,15 +115,6 @@
     "stars": 24,
     "updated_at": "2026-10-25T09:47:41Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-25T09:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -112,7 +166,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26399,
+    "stars": 26400,
     "updated_at": "2026-10-25T09:32:18Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -216,15 +270,6 @@
     "url": "https://github.com/jwuthri-cloud/Tracely-ai"
   },
   {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-25T09:08:38Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
     "description": "Observability for AI and LLM calls in Laravel. Automatically tracks requests to OpenAI, Anthropic, Gemini, Mistral and m",
     "id": "spectra-php/laravel-spectra",
     "language": "PHP",
@@ -243,7 +288,7 @@
     "url": "https://github.com/LydiaTools/llm-endpoint-doctor"
   },
   {
-    "description": "Open-source LLM observability and drift detection for AI apps",
+    "description": "Open-source observability, evaluation, and drift monitoring for AI agents and LLM applications",
     "id": "cognifityai/verdict",
     "language": "Python",
     "name": "cognifityai/verdict",
@@ -275,7 +320,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28524,
-    "updated_at": "2026-10-25T10:00:13Z",
+    "updated_at": "2026-10-25T10:14:33Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -374,7 +419,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1373,
-    "updated_at": "2026-10-25T09:59:31Z",
+    "updated_at": "2026-10-25T10:03:37Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 136,
     "updated_at": "2026-10-25T07:40:29Z",
     "url": "https://github.com/cuihuan/awesome-ai-gateway"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 1,
-    "updated_at": "2026-10-25T07:38:52Z",
-    "url": "https://github.com/gabrielk83/AntCV"
-  },
-  {
-    "description": "Open-source runtime for governed multi-agent AI \u2014 define agents, tools and human-approval gates as data (YAML), run unde",
-    "id": "delivstat/swarmkit",
-    "language": "Python",
-    "name": "delivstat/swarmkit",
-    "stars": 3,
-    "updated_at": "2026-10-25T07:38:22Z",
-    "url": "https://github.com/delivstat/swarmkit"
-  },
-  {
-    "description": "Save Money and Usage Credit When Using AI Models",
-    "id": "coreymcd37/ai-efficiency-optimizer",
-    "language": "Python",
-    "name": "coreymcd37/ai-efficiency-optimizer",
-    "stars": 0,
-    "updated_at": "2026-10-25T07:36:44Z",
-    "url": "https://github.com/coreymcd37/ai-efficiency-optimizer"
-  },
-  {
-    "description": "An autonomous ad pipeline that shoots with no director, grades pixels and audio instead of text, and picks a video engin",
-    "id": "jameswniu/autonomous-ads-pipeline-multimodal-evals",
-    "language": "Python",
-    "name": "jameswniu/autonomous-ads-pipeline-multimodal-evals",
-    "stars": 1,
-    "updated_at": "2026-10-25T07:35:47Z",
-    "url": "https://github.com/jameswniu/autonomous-ads-pipeline-multimodal-evals"
-  },
-  {
-    "description": "Self-hostable AI token pools \u2014 govern your org's AI usage with per-member keys, quotas, and leak detection; or deposit s",
-    "id": "Phat1911/Tributary",
-    "language": "Rust",
-    "name": "Phat1911/Tributary",
-    "stars": 1,
-    "updated_at": "2026-10-25T07:31:48Z",
-    "url": "https://github.com/Phat1911/Tributary"
   }
 ]
