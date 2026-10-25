@@ -1,5 +1,104 @@
 [
   {
+    "description": "Scheduled agent tasks for your repositories, defined in Git. Approved access, sandboxed runs, a full audit trail.",
+    "id": "piotrekno1/second-shift",
+    "language": "Python",
+    "name": "piotrekno1/second-shift",
+    "stars": 1,
+    "updated_at": "2026-10-25T22:29:30Z",
+    "url": "https://github.com/piotrekno1/second-shift"
+  },
+  {
+    "description": "Claude Code skills for building LLM agents the disciplined way: spec-driven builds, metered live runs, eval triage, vers",
+    "id": "pbhat123/claude-skills",
+    "language": "Shell",
+    "name": "pbhat123/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-10-25T22:28:25Z",
+    "url": "https://github.com/pbhat123/claude-skills"
+  },
+  {
+    "description": "Companion code for Hardening LLM Systems in Production (Manning Publications), by Rudrendu Paul and Sourav Nandy: halluc",
+    "id": "RudrenduPaul/hardening-llm-systems-production",
+    "language": "Python",
+    "name": "RudrenduPaul/hardening-llm-systems-production",
+    "stars": 0,
+    "updated_at": "2026-10-25T22:28:34Z",
+    "url": "https://github.com/RudrenduPaul/hardening-llm-systems-production"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-10-25T22:24:02Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Evidently AI \u2014 independent third-party profile of a public API surface, by API Evangelist. Evidently AI is an open-sourc",
+    "id": "api-evangelist/evidently",
+    "language": "\u2014",
+    "name": "api-evangelist/evidently",
+    "stars": 0,
+    "updated_at": "2026-10-25T22:21:21Z",
+    "url": "https://github.com/api-evangelist/evidently"
+  },
+  {
+    "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
+    "id": "maks3201/decision-model-operator",
+    "language": "Go",
+    "name": "maks3201/decision-model-operator",
+    "stars": 1,
+    "updated_at": "2026-10-25T22:21:26Z",
+    "url": "https://github.com/maks3201/decision-model-operator"
+  },
+  {
+    "description": "Policy-aware security gateway for LLM and agent workflows",
+    "id": "Yash-Chindam/llm-security-agent-guardrail-gateway",
+    "language": "Python",
+    "name": "Yash-Chindam/llm-security-agent-guardrail-gateway",
+    "stars": 0,
+    "updated_at": "2026-10-25T22:20:11Z",
+    "url": "https://github.com/Yash-Chindam/llm-security-agent-guardrail-gateway"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8969,
+    "updated_at": "2026-10-25T22:17:36Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "Dify \u2014 independent third-party profile of a public API surface, by API Evangelist. Dify is an open-source platform for b",
+    "id": "api-evangelist/dify",
+    "language": "\u2014",
+    "name": "api-evangelist/dify",
+    "stars": 0,
+    "updated_at": "2026-10-25T22:17:26Z",
+    "url": "https://github.com/api-evangelist/dify"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-25T22:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Open-source replay and evidence infrastructure for AI agents. Capture runs as portable Run Capsules for replay, diff, li",
+    "id": "MSKazemi/novafabric",
+    "language": "Python",
+    "name": "MSKazemi/novafabric",
+    "stars": 7,
+    "updated_at": "2026-10-25T22:15:23Z",
+    "url": "https://github.com/MSKazemi/novafabric"
+  },
+  {
     "description": "Comet \u2014 independent third-party profile of a public API surface, by API Evangelist. Comet is an enterprise AI/ML develop",
     "id": "api-evangelist/comet",
     "language": "\u2014",
@@ -23,7 +122,7 @@
     "language": "TypeScript",
     "name": "CodesWhat/portkey-admin-mcp",
     "stars": 6,
-    "updated_at": "2026-10-25T22:11:53Z",
+    "updated_at": "2026-10-25T22:16:15Z",
     "url": "https://github.com/CodesWhat/portkey-admin-mcp"
   },
   {
@@ -34,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T22:07:36Z",
     "url": "https://github.com/toxicwind/ranch"
-  },
-  {
-    "description": "Scheduled agent tasks for your repositories, defined in Git. Approved access, sandboxed runs, a full audit trail.",
-    "id": "piotrekno1/second-shift",
-    "language": "Python",
-    "name": "piotrekno1/second-shift",
-    "stars": 1,
-    "updated_at": "2026-10-25T22:06:55Z",
-    "url": "https://github.com/piotrekno1/second-shift"
   },
   {
     "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
@@ -63,21 +153,12 @@
     "url": "https://github.com/pbhat123/SmartDesk_AI"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-25T22:00:24Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
     "id": "rrahimi-uci/caliber-suite",
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 2,
-    "updated_at": "2026-10-25T22:13:11Z",
+    "updated_at": "2026-10-25T22:26:39Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -99,21 +180,12 @@
     "url": "https://github.com/ZIZKA-AI-SL/ZizkaDB"
   },
   {
-    "description": "Kubernetes operator for safe rollout of decision models: evaluate a candidate on a golden dataset before it gets product",
-    "id": "maks3201/decision-model-operator",
-    "language": "Go",
-    "name": "maks3201/decision-model-operator",
-    "stars": 1,
-    "updated_at": "2026-10-25T22:07:13Z",
-    "url": "https://github.com/maks3201/decision-model-operator"
-  },
-  {
     "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
     "id": "a-novel/service-genai",
     "language": "Go",
     "name": "a-novel/service-genai",
     "stars": 2,
-    "updated_at": "2026-10-25T21:54:23Z",
+    "updated_at": "2026-10-25T22:28:45Z",
     "url": "https://github.com/a-novel/service-genai"
   },
   {
@@ -162,15 +234,6 @@
     "url": "https://github.com/Josepavese/matrix"
   },
   {
-    "description": "Open-source replay and evidence infrastructure for AI agents. Capture runs as portable Run Capsules for replay, diff, li",
-    "id": "MSKazemi/novafabric",
-    "language": "Python",
-    "name": "MSKazemi/novafabric",
-    "stars": 7,
-    "updated_at": "2026-10-25T22:15:23Z",
-    "url": "https://github.com/MSKazemi/novafabric"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -214,15 +277,6 @@
     "stars": 62030,
     "updated_at": "2026-10-25T21:25:04Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8968,
-    "updated_at": "2026-10-25T21:59:16Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
@@ -284,7 +338,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28530,
-    "updated_at": "2026-10-25T22:07:49Z",
+    "updated_at": "2026-10-25T22:16:55Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -338,7 +392,7 @@
     "language": "Python",
     "name": "izam-mohammed/ragrank",
     "stars": 47,
-    "updated_at": "2026-10-25T20:29:23Z",
+    "updated_at": "2026-10-25T22:25:33Z",
     "url": "https://github.com/izam-mohammed/ragrank"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 5,
     "updated_at": "2026-10-25T19:40:31Z",
     "url": "https://github.com/runcycles/cycles-server"
-  },
-  {
-    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4991,
-    "updated_at": "2026-10-25T22:04:21Z",
-    "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
-    "id": "AixleHQ/flow",
-    "language": "Ruby",
-    "name": "AixleHQ/flow",
-    "stars": 27,
-    "updated_at": "2026-10-25T19:53:01Z",
-    "url": "https://github.com/AixleHQ/flow"
-  },
-  {
-    "description": "Local-first LLM gateway for codex / hermes / Claude Code: bytes go upstream unchanged, the prompt cache keeps hitting, a",
-    "id": "flyer103/vadis",
-    "language": "Rust",
-    "name": "flyer103/vadis",
-    "stars": 0,
-    "updated_at": "2026-10-25T19:31:32Z",
-    "url": "https://github.com/flyer103/vadis"
-  },
-  {
-    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
-    "id": "lmnr-ai/lmnr",
-    "language": "TypeScript",
-    "name": "lmnr-ai/lmnr",
-    "stars": 3442,
-    "updated_at": "2026-10-25T20:23:04Z",
-    "url": "https://github.com/lmnr-ai/lmnr"
-  },
-  {
-    "description": "Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper",
-    "id": "acornops/acornops-deployment",
-    "language": "JavaScript",
-    "name": "acornops/acornops-deployment",
-    "stars": 2,
-    "updated_at": "2026-10-25T19:19:23Z",
-    "url": "https://github.com/acornops/acornops-deployment"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-10-25T19:04:11Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   }
 ]
