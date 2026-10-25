@@ -1,5 +1,41 @@
 [
   {
+    "description": "AI agent governance dashboard for Cycles \u2014 budgets, action authority, tenants, webhooks, reservations, audit",
+    "id": "runcycles/cycles-dashboard",
+    "language": "TypeScript",
+    "name": "runcycles/cycles-dashboard",
+    "stars": 0,
+    "updated_at": "2026-10-25T06:14:49Z",
+    "url": "https://github.com/runcycles/cycles-dashboard"
+  },
+  {
+    "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
+    "id": "hjongc/openrouter-endpoint-watch",
+    "language": "Python",
+    "name": "hjongc/openrouter-endpoint-watch",
+    "stars": 0,
+    "updated_at": "2026-10-25T06:13:41Z",
+    "url": "https://github.com/hjongc/openrouter-endpoint-watch"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-25T06:13:35Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-25T06:08:41Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Does an OpenAI-compatible endpoint disclose model prices without an account or key? One unauthenticated GET, five verdic",
     "id": "happy520ai/gateway-price-check",
     "language": "JavaScript",
@@ -9,12 +45,21 @@
     "url": "https://github.com/happy520ai/gateway-price-check"
   },
   {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8964,
+    "updated_at": "2026-10-25T06:02:27Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
     "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
     "id": "holetz/quenching",
     "language": "Python",
     "name": "holetz/quenching",
     "stars": 0,
-    "updated_at": "2026-10-25T06:07:43Z",
+    "updated_at": "2026-10-25T06:12:00Z",
     "url": "https://github.com/holetz/quenching"
   },
   {
@@ -25,15 +70,6 @@
     "stars": 61987,
     "updated_at": "2026-10-25T06:01:36Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-25T06:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
@@ -115,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T05:15:07Z",
     "url": "https://github.com/grprakasam/adam-ai"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-25T05:08:32Z",
-    "url": "https://github.com/toxicwind/ranch"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -234,15 +261,6 @@
     "url": "https://github.com/Phat1911/Tributary"
   },
   {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8965,
-    "updated_at": "2026-10-25T06:02:27Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
     "description": "Routes every AI request to a local model (Ollama) or to Claude by privacy, cost, quality and latency, with fail-closed g",
     "id": "caleb848/ai-operations-control-plane",
     "language": "TypeScript",
@@ -319,7 +337,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 36406,
+    "stars": 36407,
     "updated_at": "2026-10-25T02:57:04Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-25T01:33:36Z",
     "url": "https://github.com/hanmahong5-arch/lumen"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 7,
-    "updated_at": "2026-10-25T01:31:41Z",
-    "url": "https://github.com/pom11/hscc"
-  },
-  {
-    "description": "Enterprise Scale AIFactory (esml) - on Azure",
-    "id": "jostrm/azure-enterprise-scale-ml",
-    "language": "Python",
-    "name": "jostrm/azure-enterprise-scale-ml",
-    "stars": 53,
-    "updated_at": "2026-10-25T01:29:46Z",
-    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
   }
 ]
