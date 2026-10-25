@@ -1,11 +1,83 @@
 [
   {
+    "description": "Comet \u2014 independent third-party profile of a public API surface, by API Evangelist. Comet is an enterprise AI/ML develop",
+    "id": "api-evangelist/comet",
+    "language": "\u2014",
+    "name": "api-evangelist/comet",
+    "stars": 0,
+    "updated_at": "2026-10-25T22:11:38Z",
+    "url": "https://github.com/api-evangelist/comet"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 11,
+    "updated_at": "2026-10-25T22:10:58Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "Portkey Admin API control-plane MCP server with Prisma AIRS interoperability guidance",
+    "id": "CodesWhat/portkey-admin-mcp",
+    "language": "TypeScript",
+    "name": "CodesWhat/portkey-admin-mcp",
+    "stars": 6,
+    "updated_at": "2026-10-25T22:11:53Z",
+    "url": "https://github.com/CodesWhat/portkey-admin-mcp"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-25T22:07:36Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Scheduled agent tasks for your repositories, defined in Git. Approved access, sandboxed runs, a full audit trail.",
+    "id": "piotrekno1/second-shift",
+    "language": "Python",
+    "name": "piotrekno1/second-shift",
+    "stars": 1,
+    "updated_at": "2026-10-25T22:06:55Z",
+    "url": "https://github.com/piotrekno1/second-shift"
+  },
+  {
+    "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
+    "id": "prasad-kavuri/prasad-portfolio",
+    "language": "TypeScript",
+    "name": "prasad-kavuri/prasad-portfolio",
+    "stars": 0,
+    "updated_at": "2026-10-25T22:05:45Z",
+    "url": "https://github.com/prasad-kavuri/prasad-portfolio"
+  },
+  {
+    "description": "Multi-agent IT/HR help desk on LangChain + LangGraph: ReAct-style sub-agents, hybrid RAG, HITL GitHub tickets. Prompt, c",
+    "id": "pbhat123/SmartDesk_AI",
+    "language": "Python",
+    "name": "pbhat123/SmartDesk_AI",
+    "stars": 0,
+    "updated_at": "2026-10-25T22:01:26Z",
+    "url": "https://github.com/pbhat123/SmartDesk_AI"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-25T22:00:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
     "id": "rrahimi-uci/caliber-suite",
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 2,
-    "updated_at": "2026-10-25T22:00:16Z",
+    "updated_at": "2026-10-25T22:13:11Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -32,7 +104,7 @@
     "language": "Go",
     "name": "maks3201/decision-model-operator",
     "stars": 1,
-    "updated_at": "2026-10-25T21:55:07Z",
+    "updated_at": "2026-10-25T22:07:13Z",
     "url": "https://github.com/maks3201/decision-model-operator"
   },
   {
@@ -59,7 +131,7 @@
     "language": "Rust",
     "name": "f8fvwgzc/agent-sidecar",
     "stars": 0,
-    "updated_at": "2026-10-25T21:53:34Z",
+    "updated_at": "2026-10-25T22:11:46Z",
     "url": "https://github.com/f8fvwgzc/agent-sidecar"
   },
   {
@@ -70,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T21:47:35Z",
     "url": "https://github.com/api-evangelist/agenta"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-25T21:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
@@ -104,7 +167,7 @@
     "language": "Python",
     "name": "MSKazemi/novafabric",
     "stars": 7,
-    "updated_at": "2026-10-25T21:36:21Z",
+    "updated_at": "2026-10-25T22:15:23Z",
     "url": "https://github.com/MSKazemi/novafabric"
   },
   {
@@ -148,7 +211,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 62029,
+    "stars": 62030,
     "updated_at": "2026-10-25T21:25:04Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -176,7 +239,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 2200,
-    "updated_at": "2026-10-25T21:16:43Z",
+    "updated_at": "2026-10-25T22:09:55Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -187,15 +250,6 @@
     "stars": 3,
     "updated_at": "2026-10-25T21:10:45Z",
     "url": "https://github.com/NordsteinSoftware/Proxytrace"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-25T21:07:21Z",
-    "url": "https://github.com/toxicwind/ranch"
   },
   {
     "description": "Switch AI models without breaking your product: find every model your code calls and when it retires, turn real usage lo",
@@ -211,7 +265,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11998,
+    "stars": 11999,
     "updated_at": "2026-10-25T21:03:41Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -230,7 +284,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28530,
-    "updated_at": "2026-10-25T21:50:32Z",
+    "updated_at": "2026-10-25T22:07:49Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -250,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T20:47:44Z",
     "url": "https://github.com/haomingkoo/haomingkoo.github.io"
-  },
-  {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 11,
-    "updated_at": "2026-10-25T21:53:12Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
@@ -304,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T20:27:18Z",
     "url": "https://github.com/AcruxCore/acruxcore-migrate"
-  },
-  {
-    "description": "Scheduled agent tasks for your repositories, defined in Git. Approved access, sandboxed runs, a full audit trail.",
-    "id": "piotrekno1/second-shift",
-    "language": "Python",
-    "name": "piotrekno1/second-shift",
-    "stars": 1,
-    "updated_at": "2026-10-25T20:15:16Z",
-    "url": "https://github.com/piotrekno1/second-shift"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -365,7 +401,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4991,
-    "updated_at": "2026-10-25T21:59:53Z",
+    "updated_at": "2026-10-25T22:04:21Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 8,
     "updated_at": "2026-10-25T19:04:11Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "The platform for continuously improving AI agents.",
-    "id": "overmind-core/overmind",
-    "language": "Python",
-    "name": "overmind-core/overmind",
-    "stars": 680,
-    "updated_at": "2026-10-25T19:35:30Z",
-    "url": "https://github.com/overmind-core/overmind"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 117,
-    "updated_at": "2026-10-25T21:20:06Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Source-available operating layer for governed AI applications \u2014 reuse policy, authority, evidence, execution, and recove",
-    "id": "jakbuczarnecki/intergrax",
-    "language": "Python",
-    "name": "jakbuczarnecki/intergrax",
-    "stars": 4,
-    "updated_at": "2026-10-25T20:27:19Z",
-    "url": "https://github.com/jakbuczarnecki/intergrax"
-  },
-  {
-    "description": "Self-hosted observability and governance for AI agents: traces, cost, evals, and a governed MCP gateway.",
-    "id": "TorrixAI/torrix",
-    "language": "TypeScript",
-    "name": "TorrixAI/torrix",
-    "stars": 2,
-    "updated_at": "2026-10-25T18:55:04Z",
-    "url": "https://github.com/TorrixAI/torrix"
   }
 ]
