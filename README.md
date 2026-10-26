@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-26 18:15 UTC
+> ⏰ Last updated: 2026-10-26 18:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,38 +42,38 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [toxicwind/ranch](https://github.com/toxicwind/ranch) | 0 | Rust | 2026-10-26 | The self-hosted LLM estate in one monorepo — local model serving, cloud provider routing, MCP gateway, build jobs. All O |
-| 2 | [acornops/management-console](https://github.com/acornops/management-console) | 2 | TypeScript | 2026-10-26 | Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations |
-| 3 | [alibaba/rtp-llm](https://github.com/alibaba/rtp-llm) | 1376 | Python | 2026-10-26 | RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications. |
-| 4 | [naim-munshi/metriqen-llm-serving-optimization](https://github.com/naim-munshi/metriqen-llm-serving-optimization) | 0 | Python | 2026-10-26 | Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio |
-| 5 | [piotrekno1/second-shift](https://github.com/piotrekno1/second-shift) | 1 | Python | 2026-10-26 | Scheduled agent tasks for your repositories, defined in Git. Approved access, sandboxed runs, a full audit trail. |
+| 1 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 42 | Go | 2026-10-26 | Agentic Runtime |
+| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26458 | TypeScript | 2026-10-26 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 3 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 9689 | Python | 2026-10-26 | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
+| 4 | [piotrekno1/second-shift](https://github.com/piotrekno1/second-shift) | 1 | Python | 2026-10-26 | Scheduled agent tasks for your repositories, defined in Git. Approved access, sandboxed runs, a full audit trail. |
+| 5 | [SourceShift/mini-ork](https://github.com/SourceShift/mini-ork) | 32 | Python | 2026-10-26 | Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack |
 | 6 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 62077 | Python | 2026-10-26 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 7 | [NVIDIA-NeMo/nemo-helix](https://github.com/NVIDIA-NeMo/nemo-helix) | 129 | Python | 2026-10-26 | NeMo Helix: Make the agents you ship faster, more accurate, and safer. |
-| 8 | [rrahimi-uci/caliber-suite](https://github.com/rrahimi-uci/caliber-suite) | 2 | Python | 2026-10-26 | Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases, |
-| 9 | [acornops/acornops-deployment](https://github.com/acornops/acornops-deployment) | 2 | JavaScript | 2026-10-26 | Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper |
-| 10 | [acornops/control-plane](https://github.com/acornops/control-plane) | 2 | TypeScript | 2026-10-26 | AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo |
-| 11 | [jostrm/azure-enterprise-scale-ml](https://github.com/jostrm/azure-enterprise-scale-ml) | 53 | Python | 2026-10-26 | Enterprise Scale AIFactory (esml) - on Azure |
-| 12 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 42 | Go | 2026-10-26 | Agentic Runtime |
-| 13 | [acornops/execution-engine](https://github.com/acornops/execution-engine) | 2 | Python | 2026-10-26 | Run execution service for AcornOps, responsible for worker lifecycle, streaming run events, and tool execution coordinat |
-| 14 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26458 | TypeScript | 2026-10-26 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 15 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 9689 | Python | 2026-10-26 | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
-| 16 | [acornops/agentv](https://github.com/acornops/agentv) | 1 | TypeScript | 2026-10-26 | Linux VM agent for AcornOps, providing outbound system connectivity, host inspection, and controlled VM operations. |
-| 17 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-26 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 18 | [digline/digline](https://github.com/digline/digline) | 9 | Python | 2026-10-26 | Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor |
-| 19 | [AixleHQ/flow](https://github.com/AixleHQ/flow) | 27 | Ruby | 2026-10-26 | Aixle Flow — orchestrate coding agents through durable, inspectable workflows. |
-| 20 | [sarkars/agent-failure-modes](https://github.com/sarkars/agent-failure-modes) | 1 | Python | 2026-10-26 | Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a |
-| 21 | [hangar-hub/hangar](https://github.com/hangar-hub/hangar) | 2 | Go | 2026-10-26 | Self-hosted model and dataset hub, compatible with the Hugging Face Hub API, git, Ollama and LM Studio. Use it as a priv |
-| 22 | [behrouzbk/tokensaver](https://github.com/behrouzbk/tokensaver) | 2 | Python | 2026-10-26 | Count tokens across AI models and get concrete, priced suggestions to cut your prompt costs. Runs offline. |
-| 23 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 36530 | TypeScript | 2026-10-26 | 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform. |
-| 24 | [Faultline-lab/faultgate](https://github.com/Faultline-lab/faultgate) | 4 | Python | 2026-10-26 | FAULTLINE faultgate: open-source CI release gate for AI agents. Checks traces for failure modes and business-rule violat |
-| 25 | [Abilityai/trinity](https://github.com/Abilityai/trinity) | 702 | Python | 2026-10-26 | Self-hosted AI Agents Platform for AI Native companies. Claude Code, Codex, Gemini, OpenCode agents. Apache 2.0.   |
-| 26 | [glassflow/rius-coding-agents](https://github.com/glassflow/rius-coding-agents) | 3 | Python | 2026-10-26 | Claude Code, Codex and Cursor plugin that streams your sessions to Rius as OpenTelemetry traces: prompts, model calls, t |
-| 27 | [fightheyyy/CATENA](https://github.com/fightheyyy/CATENA) | 0 | Go | 2026-10-26 | Trace-driven Agent evolution, E2E evaluation, regression replay, and release control plane. |
-| 28 | [overmind-core/overmind](https://github.com/overmind-core/overmind) | 688 | Python | 2026-10-26 | The platform for continuously improving AI agents. |
-| 29 | [truera/trulens](https://github.com/truera/trulens) | 3612 | Python | 2026-10-26 | Evaluation and Tracking for LLM Experiments and AI Agents |
-| 30 | [01men/ybkkasi](https://github.com/01men/ybkkasi) | 1 | JavaScript | 2026-10-26 | One control plane for every AI asset — MCP servers, skills, agents, AI apps. Self-hosted ledger with lifecycle state mac |
-| 31 | [srjn45/warden](https://github.com/srjn45/warden) | 2 | Go | 2026-10-26 | Run a fleet of Claude Code agents from one Go binary — spawn, monitor, and tear them down in isolated git worktrees, tra |
-| 32 | [SourceShift/mini-ork](https://github.com/SourceShift/mini-ork) | 32 | Python | 2026-10-26 | Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack |
+| 7 | [naim-munshi/metriqen-llm-serving-optimization](https://github.com/naim-munshi/metriqen-llm-serving-optimization) | 0 | Python | 2026-10-26 | Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio |
+| 8 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-26 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 9 | [toxicwind/ranch](https://github.com/toxicwind/ranch) | 0 | Rust | 2026-10-26 | The self-hosted LLM estate in one monorepo — local model serving, cloud provider routing, MCP gateway, build jobs. All O |
+| 10 | [acornops/management-console](https://github.com/acornops/management-console) | 2 | TypeScript | 2026-10-26 | Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations |
+| 11 | [alibaba/rtp-llm](https://github.com/alibaba/rtp-llm) | 1376 | Python | 2026-10-26 | RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications. |
+| 12 | [NVIDIA-NeMo/nemo-helix](https://github.com/NVIDIA-NeMo/nemo-helix) | 129 | Python | 2026-10-26 | NeMo Helix: Make the agents you ship faster, more accurate, and safer. |
+| 13 | [rrahimi-uci/caliber-suite](https://github.com/rrahimi-uci/caliber-suite) | 2 | Python | 2026-10-26 | Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases, |
+| 14 | [acornops/acornops-deployment](https://github.com/acornops/acornops-deployment) | 2 | JavaScript | 2026-10-26 | Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper |
+| 15 | [acornops/control-plane](https://github.com/acornops/control-plane) | 2 | TypeScript | 2026-10-26 | AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo |
+| 16 | [jostrm/azure-enterprise-scale-ml](https://github.com/jostrm/azure-enterprise-scale-ml) | 53 | Python | 2026-10-26 | Enterprise Scale AIFactory (esml) - on Azure |
+| 17 | [acornops/execution-engine](https://github.com/acornops/execution-engine) | 2 | Python | 2026-10-26 | Run execution service for AcornOps, responsible for worker lifecycle, streaming run events, and tool execution coordinat |
+| 18 | [acornops/agentv](https://github.com/acornops/agentv) | 1 | TypeScript | 2026-10-26 | Linux VM agent for AcornOps, providing outbound system connectivity, host inspection, and controlled VM operations. |
+| 19 | [digline/digline](https://github.com/digline/digline) | 9 | Python | 2026-10-26 | Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor |
+| 20 | [AixleHQ/flow](https://github.com/AixleHQ/flow) | 27 | Ruby | 2026-10-26 | Aixle Flow — orchestrate coding agents through durable, inspectable workflows. |
+| 21 | [sarkars/agent-failure-modes](https://github.com/sarkars/agent-failure-modes) | 1 | Python | 2026-10-26 | Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a |
+| 22 | [hangar-hub/hangar](https://github.com/hangar-hub/hangar) | 2 | Go | 2026-10-26 | Self-hosted model and dataset hub, compatible with the Hugging Face Hub API, git, Ollama and LM Studio. Use it as a priv |
+| 23 | [behrouzbk/tokensaver](https://github.com/behrouzbk/tokensaver) | 2 | Python | 2026-10-26 | Count tokens across AI models and get concrete, priced suggestions to cut your prompt costs. Runs offline. |
+| 24 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 36530 | TypeScript | 2026-10-26 | 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform. |
+| 25 | [Faultline-lab/faultgate](https://github.com/Faultline-lab/faultgate) | 4 | Python | 2026-10-26 | FAULTLINE faultgate: open-source CI release gate for AI agents. Checks traces for failure modes and business-rule violat |
+| 26 | [Abilityai/trinity](https://github.com/Abilityai/trinity) | 702 | Python | 2026-10-26 | Self-hosted AI Agents Platform for AI Native companies. Claude Code, Codex, Gemini, OpenCode agents. Apache 2.0.   |
+| 27 | [glassflow/rius-coding-agents](https://github.com/glassflow/rius-coding-agents) | 3 | Python | 2026-10-26 | Claude Code, Codex and Cursor plugin that streams your sessions to Rius as OpenTelemetry traces: prompts, model calls, t |
+| 28 | [fightheyyy/CATENA](https://github.com/fightheyyy/CATENA) | 0 | Go | 2026-10-26 | Trace-driven Agent evolution, E2E evaluation, regression replay, and release control plane. |
+| 29 | [overmind-core/overmind](https://github.com/overmind-core/overmind) | 688 | Python | 2026-10-26 | The platform for continuously improving AI agents. |
+| 30 | [truera/trulens](https://github.com/truera/trulens) | 3612 | Python | 2026-10-26 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 31 | [01men/ybkkasi](https://github.com/01men/ybkkasi) | 1 | JavaScript | 2026-10-26 | One control plane for every AI asset — MCP servers, skills, agents, AI apps. Self-hosted ledger with lifecycle state mac |
+| 32 | [srjn45/warden](https://github.com/srjn45/warden) | 2 | Go | 2026-10-26 | Run a fleet of Claude Code agents from one Go binary — spawn, monitor, and tear them down in isolated git worktrees, tra |
 | 33 | [langfuse/langfuse-js](https://github.com/langfuse/langfuse-js) | 173 | TypeScript | 2026-10-26 | 🪢 Langfuse JS/TS SDK |
 | 34 | [ErikClaveau/safe-spending-sql](https://github.com/ErikClaveau/safe-spending-sql) | 0 | Python | 2026-10-26 | Text-to-SQL assistant for personal banking data. Postgres RLS user isolation, traceable numbers, and a published eval ha |
 | 35 | [mozilla-ai/otari](https://github.com/mozilla-ai/otari) | 740 | Python | 2026-10-26 | Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, |

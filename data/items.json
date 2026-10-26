@@ -1,5 +1,77 @@
 [
   {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 42,
+    "updated_at": "2026-10-26T18:30:06Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26458,
+    "updated_at": "2026-10-26T18:29:47Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 9689,
+    "updated_at": "2026-10-26T18:28:21Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Scheduled agent tasks for your repositories, defined in Git. Approved access, sandboxed runs, a full audit trail.",
+    "id": "piotrekno1/second-shift",
+    "language": "Python",
+    "name": "piotrekno1/second-shift",
+    "stars": 1,
+    "updated_at": "2026-10-26T18:22:40Z",
+    "url": "https://github.com/piotrekno1/second-shift"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 32,
+    "updated_at": "2026-10-26T18:20:33Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 62077,
+    "updated_at": "2026-10-26T18:27:30Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio",
+    "id": "naim-munshi/metriqen-llm-serving-optimization",
+    "language": "Python",
+    "name": "naim-munshi/metriqen-llm-serving-optimization",
+    "stars": 0,
+    "updated_at": "2026-10-26T18:16:02Z",
+    "url": "https://github.com/naim-munshi/metriqen-llm-serving-optimization"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-26T18:15:34Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
     "id": "toxicwind/ranch",
     "language": "Rust",
@@ -23,35 +95,8 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1376,
-    "updated_at": "2026-10-26T18:14:28Z",
+    "updated_at": "2026-10-26T18:28:26Z",
     "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio",
-    "id": "naim-munshi/metriqen-llm-serving-optimization",
-    "language": "Python",
-    "name": "naim-munshi/metriqen-llm-serving-optimization",
-    "stars": 0,
-    "updated_at": "2026-10-26T18:13:37Z",
-    "url": "https://github.com/naim-munshi/metriqen-llm-serving-optimization"
-  },
-  {
-    "description": "Scheduled agent tasks for your repositories, defined in Git. Approved access, sandboxed runs, a full audit trail.",
-    "id": "piotrekno1/second-shift",
-    "language": "Python",
-    "name": "piotrekno1/second-shift",
-    "stars": 1,
-    "updated_at": "2026-10-26T18:13:28Z",
-    "url": "https://github.com/piotrekno1/second-shift"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 62077,
-    "updated_at": "2026-10-26T18:14:43Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
@@ -59,7 +104,7 @@
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 129,
-    "updated_at": "2026-10-26T18:14:59Z",
+    "updated_at": "2026-10-26T18:23:54Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -68,7 +113,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 2,
-    "updated_at": "2026-10-26T18:10:36Z",
+    "updated_at": "2026-10-26T18:18:42Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -86,7 +131,7 @@
     "language": "TypeScript",
     "name": "acornops/control-plane",
     "stars": 2,
-    "updated_at": "2026-10-26T18:08:10Z",
+    "updated_at": "2026-10-26T18:16:14Z",
     "url": "https://github.com/acornops/control-plane"
   },
   {
@@ -99,15 +144,6 @@
     "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 42,
-    "updated_at": "2026-10-26T18:07:48Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Run execution service for AcornOps, responsible for worker lifecycle, streaming run events, and tool execution coordinat",
     "id": "acornops/execution-engine",
     "language": "Python",
@@ -117,24 +153,6 @@
     "url": "https://github.com/acornops/execution-engine"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26458,
-    "updated_at": "2026-10-26T18:05:57Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 9689,
-    "updated_at": "2026-10-26T18:05:29Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
     "description": "Linux VM agent for AcornOps, providing outbound system connectivity, host inspection, and controlled VM operations.",
     "id": "acornops/agentv",
     "language": "TypeScript",
@@ -142,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-10-26T18:08:16Z",
     "url": "https://github.com/acornops/agentv"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-26T18:00:38Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
@@ -167,7 +176,7 @@
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 27,
-    "updated_at": "2026-10-26T17:59:54Z",
+    "updated_at": "2026-10-26T18:23:44Z",
     "url": "https://github.com/AixleHQ/flow"
   },
   {
@@ -221,7 +230,7 @@
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 702,
-    "updated_at": "2026-10-26T18:04:48Z",
+    "updated_at": "2026-10-26T18:27:45Z",
     "url": "https://github.com/Abilityai/trinity"
   },
   {
@@ -279,15 +288,6 @@
     "url": "https://github.com/srjn45/warden"
   },
   {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 32,
-    "updated_at": "2026-10-26T17:21:27Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
     "description": "\ud83e\udea2 Langfuse JS/TS SDK",
     "id": "langfuse/langfuse-js",
     "language": "TypeScript",
@@ -311,7 +311,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 740,
-    "updated_at": "2026-10-26T18:11:16Z",
+    "updated_at": "2026-10-26T18:20:55Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -419,7 +419,7 @@
     "language": "Go",
     "name": "coze-dev/coze-loop",
     "stars": 5789,
-    "updated_at": "2026-10-26T17:39:12Z",
+    "updated_at": "2026-10-26T18:21:48Z",
     "url": "https://github.com/coze-dev/coze-loop"
   },
   {
