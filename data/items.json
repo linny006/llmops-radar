@@ -1,5 +1,104 @@
 [
   {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-10-26T08:14:21Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "AI for tyre circularity: YOLO26 casing triage with a governed MLOps release loop (DVC, MLflow, gated promotion, drift) a",
+    "id": "arav7781/TREADOPS",
+    "language": "Python",
+    "name": "arav7781/TREADOPS",
+    "stars": 0,
+    "updated_at": "2026-10-26T08:13:47Z",
+    "url": "https://github.com/arav7781/TREADOPS"
+  },
+  {
+    "description": "AI trust-boundary gateway for OpenAI, Anthropic, and Gemini.",
+    "id": "GetSHIM/shim",
+    "language": "Python",
+    "name": "GetSHIM/shim",
+    "stars": 9,
+    "updated_at": "2026-10-26T08:13:47Z",
+    "url": "https://github.com/GetSHIM/shim"
+  },
+  {
+    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-10-26T08:13:16Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
+    "description": "Self-hosted coding assistant that routes each request to the cheapest model that can handle it",
+    "id": "optiware-ai/optimux",
+    "language": "Python",
+    "name": "optiware-ai/optimux",
+    "stars": 1,
+    "updated_at": "2026-10-26T08:13:15Z",
+    "url": "https://github.com/optiware-ai/optimux"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-10-26T08:11:52Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "Self-hostable AI token pools \u2014 govern your org's AI usage with per-member keys, quotas, and leak detection; or deposit s",
+    "id": "Phat1911/Tributary",
+    "language": "Rust",
+    "name": "Phat1911/Tributary",
+    "stars": 5,
+    "updated_at": "2026-10-26T08:10:24Z",
+    "url": "https://github.com/Phat1911/Tributary"
+  },
+  {
+    "description": "The operations layer for your local LLM stack",
+    "id": "ndom91/llama-dash",
+    "language": "TypeScript",
+    "name": "ndom91/llama-dash",
+    "stars": 26,
+    "updated_at": "2026-10-26T08:07:32Z",
+    "url": "https://github.com/ndom91/llama-dash"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28536,
+    "updated_at": "2026-10-26T08:13:14Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
+    "id": "srjn45/warden",
+    "language": "Go",
+    "name": "srjn45/warden",
+    "stars": 2,
+    "updated_at": "2026-10-26T08:13:20Z",
+    "url": "https://github.com/srjn45/warden"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-26T08:00:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
     "id": "mozilla-ai/otari",
     "language": "Python",
@@ -23,7 +122,7 @@
     "language": "Python",
     "name": "digline/digline",
     "stars": 9,
-    "updated_at": "2026-10-26T07:57:44Z",
+    "updated_at": "2026-10-26T08:07:06Z",
     "url": "https://github.com/digline/digline"
   },
   {
@@ -32,7 +131,7 @@
     "language": "Python",
     "name": "Yigtwxx/awesome-rag-production",
     "stars": 283,
-    "updated_at": "2026-10-26T07:56:47Z",
+    "updated_at": "2026-10-26T08:12:38Z",
     "url": "https://github.com/Yigtwxx/awesome-rag-production"
   },
   {
@@ -72,24 +171,6 @@
     "url": "https://github.com/JavisBot-Service/javis-transparency"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-26T07:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28536,
-    "updated_at": "2026-10-26T07:54:14Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "A tiny, readable circuit breaker for LLM calls: hard budget caps that fail over to a free local model instead of raising",
     "id": "qkrehgk1-wq/llm-circuit-breaker",
     "language": "Python",
@@ -113,7 +194,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 62047,
-    "updated_at": "2026-10-26T07:39:58Z",
+    "updated_at": "2026-10-26T08:09:40Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -126,21 +207,12 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-10-26T07:32:20Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
     "description": "What if OpenAI Deep Research and Dify were one platform? OpenAgent \u2014 harness architecture for rapidly building vertical ",
     "id": "Haohao-end/openagent",
     "language": "Python",
     "name": "Haohao-end/openagent",
     "stars": 774,
-    "updated_at": "2026-10-26T07:51:24Z",
+    "updated_at": "2026-10-26T08:12:09Z",
     "url": "https://github.com/Haohao-end/openagent"
   },
   {
@@ -175,26 +247,17 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 36500,
+    "stars": 36501,
     "updated_at": "2026-10-26T07:27:35Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Self-hostable AI token pools \u2014 govern your org's AI usage with per-member keys, quotas, and leak detection; or deposit s",
-    "id": "Phat1911/Tributary",
-    "language": "Rust",
-    "name": "Phat1911/Tributary",
-    "stars": 5,
-    "updated_at": "2026-10-26T07:24:05Z",
-    "url": "https://github.com/Phat1911/Tributary"
   },
   {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
     "id": "0xPlaygrounds/rig",
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
-    "stars": 8977,
-    "updated_at": "2026-10-26T07:20:05Z",
+    "stars": 8978,
+    "updated_at": "2026-10-26T08:11:10Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -221,17 +284,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4991,
-    "updated_at": "2026-10-26T08:00:23Z",
+    "updated_at": "2026-10-26T08:11:14Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "AI for tyre circularity: YOLO26 casing triage with a governed MLOps release loop (DVC, MLflow, gated promotion, drift) a",
-    "id": "arav7781/TREADOPS",
-    "language": "Python",
-    "name": "arav7781/TREADOPS",
-    "stars": 0,
-    "updated_at": "2026-10-26T07:34:10Z",
-    "url": "https://github.com/arav7781/TREADOPS"
   },
   {
     "description": "Agentic Runtime",
@@ -270,21 +324,12 @@
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
-    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-10-26T06:53:13Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
     "description": "LLM spend tracking and budgets for Rails \u2014 by user, feature, or any tag, in your own database, no proxy.",
     "id": "sergey-homenko/llm_cost_tracker",
     "language": "Ruby",
     "name": "sergey-homenko/llm_cost_tracker",
     "stars": 45,
-    "updated_at": "2026-10-26T07:10:43Z",
+    "updated_at": "2026-10-26T08:09:03Z",
     "url": "https://github.com/sergey-homenko/llm_cost_tracker"
   },
   {
@@ -324,15 +369,6 @@
     "url": "https://github.com/uttej-badwane/terraform-provider-anthropic-enterprise"
   },
   {
-    "description": "AI trust-boundary gateway for OpenAI, Anthropic, and Gemini.",
-    "id": "GetSHIM/shim",
-    "language": "Python",
-    "name": "GetSHIM/shim",
-    "stars": 9,
-    "updated_at": "2026-10-26T07:50:11Z",
-    "url": "https://github.com/GetSHIM/shim"
-  },
-  {
     "description": "ZenML \u2014 independent third-party profile of a public API surface, by API Evangelist. ZenML is an open-source MLOps and LL",
     "id": "api-evangelist/zenml",
     "language": "\u2014",
@@ -349,15 +385,6 @@
     "stars": 0,
     "updated_at": "2026-10-26T06:22:54Z",
     "url": "https://github.com/hjongc/openrouter-endpoint-watch"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-10-26T06:22:46Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
     "description": "pytest plugin that runs your LLM app under controlled chaos (timeouts, brownouts, rate limits, MCP errors, composed fail",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-26T05:44:13Z",
     "url": "https://github.com/TAIPANBOX/tokenfuse"
-  },
-  {
-    "description": "Raindrop \u2014 independent third-party profile of a public API surface, by API Evangelist. Raindrop is the monitoring and ob",
-    "id": "api-evangelist/raindrop",
-    "language": "\u2014",
-    "name": "api-evangelist/raindrop",
-    "stars": 0,
-    "updated_at": "2026-10-26T05:34:44Z",
-    "url": "https://github.com/api-evangelist/raindrop"
-  },
-  {
-    "description": "Qwak \u2014 independent third-party profile of a public API surface, by API Evangelist. Qwak is an end-to-end production mach",
-    "id": "api-evangelist/qwak",
-    "language": "\u2014",
-    "name": "api-evangelist/qwak",
-    "stars": 0,
-    "updated_at": "2026-10-26T05:34:10Z",
-    "url": "https://github.com/api-evangelist/qwak"
-  },
-  {
-    "description": "Open-source runtime for governed multi-agent AI \u2014 define agents, tools and human-approval gates as data (YAML), run unde",
-    "id": "delivstat/swarmkit",
-    "language": "Python",
-    "name": "delivstat/swarmkit",
-    "stars": 3,
-    "updated_at": "2026-10-26T05:34:48Z",
-    "url": "https://github.com/delivstat/swarmkit"
   }
 ]
