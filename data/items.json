@@ -1,11 +1,74 @@
 [
   {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 3012,
+    "updated_at": "2026-10-26T03:43:52Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "AI agent execution governance: pre-effect authorization, single-use permissions, policy enforcement, and verifiable reco",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 42,
+    "updated_at": "2026-10-26T03:43:06Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "Lightweight reverse proxy that logs per-request inference metrics (tokens, tokens/sec, time to first token, duration) fo",
+    "id": "juusolatva/metrics_proxy",
+    "language": "Go",
+    "name": "juusolatva/metrics_proxy",
+    "stars": 0,
+    "updated_at": "2026-10-26T03:38:08Z",
+    "url": "https://github.com/juusolatva/metrics_proxy"
+  },
+  {
+    "description": "What if OpenAI Deep Research and Dify were one platform? OpenAgent \u2014 harness architecture for rapidly building vertical ",
+    "id": "Haohao-end/openagent",
+    "language": "Python",
+    "name": "Haohao-end/openagent",
+    "stars": 775,
+    "updated_at": "2026-10-26T03:36:28Z",
+    "url": "https://github.com/Haohao-end/openagent"
+  },
+  {
+    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 2,
+    "updated_at": "2026-10-26T03:35:20Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "Observability and crash-resume for AI agents \u2014 track token cost, debug any step, and stop before the budget burns. Works",
+    "id": "hanmahong5-arch/lumen",
+    "language": "Python",
+    "name": "hanmahong5-arch/lumen",
+    "stars": 0,
+    "updated_at": "2026-10-26T03:30:38Z",
+    "url": "https://github.com/hanmahong5-arch/lumen"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-26T03:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28533,
-    "updated_at": "2026-10-26T03:30:01Z",
+    "updated_at": "2026-10-26T03:36:14Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -16,24 +79,6 @@
     "stars": 32,
     "updated_at": "2026-10-26T03:27:21Z",
     "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 3011,
-    "updated_at": "2026-10-26T03:20:04Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "What if OpenAI Deep Research and Dify were one platform? OpenAgent \u2014 harness architecture for rapidly building vertical ",
-    "id": "Haohao-end/openagent",
-    "language": "Python",
-    "name": "Haohao-end/openagent",
-    "stars": 775,
-    "updated_at": "2026-10-26T03:18:47Z",
-    "url": "https://github.com/Haohao-end/openagent"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -50,17 +95,8 @@
     "language": "Markdown",
     "name": "ruanpato/production-ai-engineering",
     "stars": 1,
-    "updated_at": "2026-10-26T03:16:17Z",
+    "updated_at": "2026-10-26T03:38:24Z",
     "url": "https://github.com/ruanpato/production-ai-engineering"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-26T03:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -68,7 +104,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 62038,
-    "updated_at": "2026-10-26T03:14:40Z",
+    "updated_at": "2026-10-26T03:43:06Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -122,7 +158,7 @@
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 128,
-    "updated_at": "2026-10-26T03:02:48Z",
+    "updated_at": "2026-10-26T03:41:15Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -176,7 +212,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1374,
-    "updated_at": "2026-10-26T03:28:38Z",
+    "updated_at": "2026-10-26T03:40:32Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -198,15 +234,6 @@
     "url": "https://github.com/Root1V/argus-observability-platform"
   },
   {
-    "description": "AI agent execution governance: pre-effect authorization, single-use permissions, policy enforcement, and verifiable reco",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 42,
-    "updated_at": "2026-10-26T02:38:19Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
     "description": "A decision library for running local LLMs on multi-GPU machines without NVLink: parallelism, communication, quantization",
     "id": "Lowaltitudeflight/local-llm-tuning-guide",
     "language": "Python",
@@ -221,7 +248,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8973,
-    "updated_at": "2026-10-26T02:25:14Z",
+    "updated_at": "2026-10-26T03:39:34Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -270,20 +297,11 @@
     "url": "https://github.com/cluster1900/ai-engineering-interview-questions-CN"
   },
   {
-    "description": "Lightweight reverse proxy that logs per-request inference metrics (tokens, tokens/sec, time to first token, duration) fo",
-    "id": "juusolatva/metrics_proxy",
-    "language": "Go",
-    "name": "juusolatva/metrics_proxy",
-    "stars": 0,
-    "updated_at": "2026-10-26T01:56:33Z",
-    "url": "https://github.com/juusolatva/metrics_proxy"
-  },
-  {
     "description": "One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary.",
     "id": "respanai/respan-gateway",
     "language": "Rust",
     "name": "respanai/respan-gateway",
-    "stars": 308,
+    "stars": 310,
     "updated_at": "2026-10-26T01:53:44Z",
     "url": "https://github.com/respanai/respan-gateway"
   },
@@ -295,24 +313,6 @@
     "stars": 8,
     "updated_at": "2026-10-26T01:47:58Z",
     "url": "https://github.com/admina-org/admina"
-  },
-  {
-    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 2,
-    "updated_at": "2026-10-26T03:26:24Z",
-    "url": "https://github.com/a-novel/service-genai"
-  },
-  {
-    "description": "Observability and crash-resume for AI agents \u2014 track token cost, debug any step, and stop before the budget burns. Works",
-    "id": "hanmahong5-arch/lumen",
-    "language": "Python",
-    "name": "hanmahong5-arch/lumen",
-    "stars": 0,
-    "updated_at": "2026-10-26T03:25:09Z",
-    "url": "https://github.com/hanmahong5-arch/lumen"
   },
   {
     "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
@@ -356,7 +356,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22924,
-    "updated_at": "2026-10-26T01:10:57Z",
+    "updated_at": "2026-10-26T03:31:04Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -374,7 +374,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 2200,
-    "updated_at": "2026-10-26T03:11:21Z",
+    "updated_at": "2026-10-26T03:35:20Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -383,7 +383,7 @@
     "language": "TypeScript",
     "name": "CodesWhat/portkey-admin-mcp",
     "stars": 6,
-    "updated_at": "2026-10-26T01:02:46Z",
+    "updated_at": "2026-10-26T03:37:47Z",
     "url": "https://github.com/CodesWhat/portkey-admin-mcp"
   },
   {
@@ -428,7 +428,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 26427,
-    "updated_at": "2026-10-26T03:26:03Z",
+    "updated_at": "2026-10-26T03:35:57Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
