@@ -1,11 +1,110 @@
 [
   {
+    "description": "A lightweight self-service portal and API for managing LiteLLM keys",
+    "id": "brtydse100/litegate",
+    "language": "Python",
+    "name": "brtydse100/litegate",
+    "stars": 10,
+    "updated_at": "2026-10-26T21:45:06Z",
+    "url": "https://github.com/brtydse100/litegate"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible LLM gateway: cost-aware routing, safe semantic caching, failover, budgets",
+    "id": "rishikgbs04/switchyard",
+    "language": "Python",
+    "name": "rishikgbs04/switchyard",
+    "stars": 0,
+    "updated_at": "2026-10-26T21:41:33Z",
+    "url": "https://github.com/rishikgbs04/switchyard"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-10-26T21:40:48Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 11,
+    "updated_at": "2026-10-26T21:40:46Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "Market Metrics is an autonomous market-intelligence platform designed to transform product ideas into structured, eviden",
+    "id": "721189/Market-Metrics",
+    "language": "TypeScript",
+    "name": "721189/Market-Metrics",
+    "stars": 1,
+    "updated_at": "2026-10-26T21:40:09Z",
+    "url": "https://github.com/721189/Market-Metrics"
+  },
+  {
+    "description": "Routes each AI task to the cheapest model that passes your quality bar, local or cloud, and shows you the receipts. An e",
+    "id": "jasonjknapp/cheapskate",
+    "language": "Python",
+    "name": "jasonjknapp/cheapskate",
+    "stars": 0,
+    "updated_at": "2026-10-26T21:43:19Z",
+    "url": "https://github.com/jasonjknapp/cheapskate"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 62078,
+    "updated_at": "2026-10-26T21:45:02Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 2,
+    "updated_at": "2026-10-26T21:36:09Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "language": "Go",
+    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-10-26T21:37:46Z",
+    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
+  },
+  {
+    "description": "Fine-tuned Llama 3.1 8B \u00b7 QLoRA \u00b7 RAG serving stack \u00b7 FastAPI \u00b7 Pinecone \u00b7 Azure",
+    "id": "MukulRay1603/Irminsul",
+    "language": "Python",
+    "name": "MukulRay1603/Irminsul",
+    "stars": 6,
+    "updated_at": "2026-10-26T21:38:37Z",
+    "url": "https://github.com/MukulRay1603/Irminsul"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-26T21:30:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 12014,
-    "updated_at": "2026-10-26T21:27:42Z",
+    "updated_at": "2026-10-26T21:38:11Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -16,24 +115,6 @@
     "stars": 1,
     "updated_at": "2026-10-26T21:21:01Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 62078,
-    "updated_at": "2026-10-26T21:29:44Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Market Metrics is an autonomous market-intelligence platform designed to transform product ideas into structured, eviden",
-    "id": "721189/Market-Metrics",
-    "language": "TypeScript",
-    "name": "721189/Market-Metrics",
-    "stars": 1,
-    "updated_at": "2026-10-26T21:19:47Z",
-    "url": "https://github.com/721189/Market-Metrics"
   },
   {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
@@ -52,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-10-26T21:17:57Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-26T21:15:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
@@ -95,7 +167,7 @@
     "language": "Python",
     "name": "Arize-ai/openinference",
     "stars": 1288,
-    "updated_at": "2026-10-26T21:07:01Z",
+    "updated_at": "2026-10-26T21:42:08Z",
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
@@ -104,7 +176,7 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 42,
-    "updated_at": "2026-10-26T21:26:36Z",
+    "updated_at": "2026-10-26T21:35:43Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -122,26 +194,8 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28544,
-    "updated_at": "2026-10-26T21:07:17Z",
+    "updated_at": "2026-10-26T21:44:34Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Temporal workers and clients for wrapping access to different LLMs",
-    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "language": "Go",
-    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
-    "stars": 1,
-    "updated_at": "2026-10-26T21:16:50Z",
-    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
-  },
-  {
-    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 2,
-    "updated_at": "2026-10-26T21:30:03Z",
-    "url": "https://github.com/a-novel/service-genai"
   },
   {
     "description": "Benchmarking vision-language models for handwritten form extraction with confidence flags and human review.",
@@ -171,15 +225,6 @@
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 11,
-    "updated_at": "2026-10-26T20:36:10Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
     "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
     "id": "srjn45/warden",
     "language": "Go",
@@ -196,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-10-26T20:32:30Z",
     "url": "https://github.com/hjongc/openrouter-endpoint-watch"
-  },
-  {
-    "description": "Fine-tuned Llama 3.1 8B \u00b7 QLoRA \u00b7 RAG serving stack \u00b7 FastAPI \u00b7 Pinecone \u00b7 Azure",
-    "id": "MukulRay1603/Irminsul",
-    "language": "Python",
-    "name": "MukulRay1603/Irminsul",
-    "stars": 6,
-    "updated_at": "2026-10-26T21:23:57Z",
-    "url": "https://github.com/MukulRay1603/Irminsul"
   },
   {
     "description": "AI-powered data infrastructure, end to end: ingestion (Airflow, Kafka, Flink), Bronze/Silver/Gold lakehouse (DuckDB, Del",
@@ -256,18 +292,9 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 22944,
+    "stars": 22945,
     "updated_at": "2026-10-26T20:09:02Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-10-26T20:08:38Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
     "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
@@ -275,7 +302,7 @@
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 129,
-    "updated_at": "2026-10-26T21:27:35Z",
+    "updated_at": "2026-10-26T21:36:38Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -292,7 +319,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 30765,
+    "stars": 30766,
     "updated_at": "2026-10-26T19:59:31Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -302,7 +329,7 @@
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 704,
-    "updated_at": "2026-10-26T21:29:28Z",
+    "updated_at": "2026-10-26T21:36:56Z",
     "url": "https://github.com/Abilityai/trinity"
   },
   {
@@ -391,7 +418,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26467,
+    "stars": 26468,
     "updated_at": "2026-10-26T19:28:53Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-26T19:20:32Z",
     "url": "https://github.com/acornops/acornops-deployment"
-  },
-  {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 32,
-    "updated_at": "2026-10-26T19:19:01Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "The platform for continuously improving AI agents.",
-    "id": "overmind-core/overmind",
-    "language": "Python",
-    "name": "overmind-core/overmind",
-    "stars": 688,
-    "updated_at": "2026-10-26T19:18:59Z",
-    "url": "https://github.com/overmind-core/overmind"
-  },
-  {
-    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
-    "id": "Root1V/prometheus-inference-platform",
-    "language": "Python",
-    "name": "Root1V/prometheus-inference-platform",
-    "stars": 1,
-    "updated_at": "2026-10-26T19:17:15Z",
-    "url": "https://github.com/Root1V/prometheus-inference-platform"
   }
 ]
