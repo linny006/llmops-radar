@@ -1,5 +1,50 @@
 [
   {
+    "description": "Ask your coding agent about your LLM app in plain English; it answers from your Langfuse data with lf. CLI + agent skill",
+    "id": "tns15june/langfuse-agent-cli",
+    "language": "Python",
+    "name": "tns15june/langfuse-agent-cli",
+    "stars": 0,
+    "updated_at": "2026-10-26T04:28:10Z",
+    "url": "https://github.com/tns15june/langfuse-agent-cli"
+  },
+  {
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
+    "stars": 1,
+    "updated_at": "2026-10-26T04:26:57Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
+    "description": "Evidently AI \u2014 independent third-party profile of a public API surface, by API Evangelist. Evidently AI is an open-sourc",
+    "id": "api-evangelist/evidently",
+    "language": "\u2014",
+    "name": "api-evangelist/evidently",
+    "stars": 0,
+    "updated_at": "2026-10-26T04:16:13Z",
+    "url": "https://github.com/api-evangelist/evidently"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-26T04:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 2201,
+    "updated_at": "2026-10-26T04:13:52Z",
+    "url": "https://github.com/future-agi/future-agi"
+  },
+  {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
     "id": "toxicwind/ranch",
     "language": "Rust",
@@ -16,15 +61,6 @@
     "stars": 682,
     "updated_at": "2026-10-26T04:09:41Z",
     "url": "https://github.com/overmind-core/overmind"
-  },
-  {
-    "description": "Ask your coding agent about your LLM app in plain English; it answers from your Langfuse data with lf. CLI + agent skill",
-    "id": "tns15june/langfuse-agent-cli",
-    "language": "Python",
-    "name": "tns15june/langfuse-agent-cli",
-    "stars": 0,
-    "updated_at": "2026-10-26T04:11:14Z",
-    "url": "https://github.com/tns15june/langfuse-agent-cli"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -54,15 +90,6 @@
     "url": "https://github.com/valteresj2/agent-hangar"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-26T04:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
     "id": "sarkars/agent-failure-modes",
     "language": "Python",
@@ -77,7 +104,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4991,
-    "updated_at": "2026-10-26T04:08:23Z",
+    "updated_at": "2026-10-26T04:25:48Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -185,7 +212,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8974,
-    "updated_at": "2026-10-26T03:39:34Z",
+    "updated_at": "2026-10-26T04:16:24Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -248,7 +275,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 118,
-    "updated_at": "2026-10-26T04:12:14Z",
+    "updated_at": "2026-10-26T04:23:45Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -373,7 +400,7 @@
     "id": "respanai/respan-gateway",
     "language": "Rust",
     "name": "respanai/respan-gateway",
-    "stars": 312,
+    "stars": 313,
     "updated_at": "2026-10-26T01:53:44Z",
     "url": "https://github.com/respanai/respan-gateway"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-26T01:14:27Z",
     "url": "https://github.com/hjongc/openrouter-endpoint-watch"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22924,
-    "updated_at": "2026-10-26T04:05:31Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 2200,
-    "updated_at": "2026-10-26T04:13:52Z",
-    "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "Portkey Admin API control-plane MCP server with Prisma AIRS interoperability guidance",
-    "id": "CodesWhat/portkey-admin-mcp",
-    "language": "TypeScript",
-    "name": "CodesWhat/portkey-admin-mcp",
-    "stars": 6,
-    "updated_at": "2026-10-26T03:37:47Z",
-    "url": "https://github.com/CodesWhat/portkey-admin-mcp"
   }
 ]
