@@ -1,5 +1,104 @@
 [
   {
+    "description": "Self-hostable AI token pools \u2014 govern your org's AI usage with per-member keys, quotas, and leak detection; or deposit s",
+    "id": "Phat1911/Tributary",
+    "language": "Rust",
+    "name": "Phat1911/Tributary",
+    "stars": 4,
+    "updated_at": "2026-10-26T05:11:04Z",
+    "url": "https://github.com/Phat1911/Tributary"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-26T05:10:47Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
+    "stars": 1,
+    "updated_at": "2026-10-26T05:09:55Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
+    "description": "Audit any agent decision across its past, present, and future, on one typed graph.",
+    "id": "yzhao062/auditable",
+    "language": "Python",
+    "name": "yzhao062/auditable",
+    "stars": 29,
+    "updated_at": "2026-10-26T05:09:24Z",
+    "url": "https://github.com/yzhao062/auditable"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 32,
+    "updated_at": "2026-10-26T05:08:37Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "What if OpenAI Deep Research and Dify were one platform? OpenAgent \u2014 harness architecture for rapidly building vertical ",
+    "id": "Haohao-end/openagent",
+    "language": "Python",
+    "name": "Haohao-end/openagent",
+    "stars": 775,
+    "updated_at": "2026-10-26T05:07:37Z",
+    "url": "https://github.com/Haohao-end/openagent"
+  },
+  {
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 4,
+    "updated_at": "2026-10-26T05:06:18Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8976,
+    "updated_at": "2026-10-26T05:03:34Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-10-26T05:02:31Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "AI agent execution governance: pre-effect authorization, single-use permissions, policy enforcement, and verifiable reco",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 42,
+    "updated_at": "2026-10-26T05:01:25Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-26T05:00:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Lightweight reverse proxy that logs per-request inference metrics (tokens, tokens/sec, time to first token, duration) fo",
     "id": "juusolatva/metrics_proxy",
     "language": "Go",
@@ -27,22 +126,22 @@
     "url": "https://github.com/api-evangelist/log10"
   },
   {
-    "description": "What if OpenAI Deep Research and Dify were one platform? OpenAgent \u2014 harness architecture for rapidly building vertical ",
-    "id": "Haohao-end/openagent",
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
     "language": "Python",
-    "name": "Haohao-end/openagent",
-    "stars": 775,
-    "updated_at": "2026-10-26T04:51:32Z",
-    "url": "https://github.com/Haohao-end/openagent"
+    "name": "comet-ml/opik",
+    "stars": 22925,
+    "updated_at": "2026-10-26T04:45:33Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-26T04:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26430,
+    "updated_at": "2026-10-26T04:44:12Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -50,7 +149,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 62039,
-    "updated_at": "2026-10-26T04:57:53Z",
+    "updated_at": "2026-10-26T05:07:09Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -58,7 +157,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 36486,
+    "stars": 36487,
     "updated_at": "2026-10-26T04:38:09Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -81,15 +180,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
-    "id": "TAIPANBOX/tokenfuse",
-    "language": "Rust",
-    "name": "TAIPANBOX/tokenfuse",
-    "stars": 1,
-    "updated_at": "2026-10-26T04:54:04Z",
-    "url": "https://github.com/TAIPANBOX/tokenfuse"
-  },
-  {
     "description": "Ask your coding agent about your LLM app in plain English; it answers from your Langfuse data with lf. CLI + agent skill",
     "id": "tns15june/langfuse-agent-cli",
     "language": "Python",
@@ -97,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-10-26T04:31:37Z",
     "url": "https://github.com/tns15june/langfuse-agent-cli"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8975,
-    "updated_at": "2026-10-26T04:55:24Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Evidently AI \u2014 independent third-party profile of a public API surface, by API Evangelist. Evidently AI is an open-sourc",
@@ -124,15 +205,6 @@
     "stars": 2201,
     "updated_at": "2026-10-26T04:13:52Z",
     "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-26T04:11:45Z",
-    "url": "https://github.com/toxicwind/ranch"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -162,15 +234,6 @@
     "url": "https://github.com/valteresj2/agent-hangar"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26429,
-    "updated_at": "2026-10-26T04:44:12Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
@@ -187,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-10-26T03:54:54Z",
     "url": "https://github.com/Root1V/prometheus-inference-platform"
-  },
-  {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 32,
-    "updated_at": "2026-10-26T03:54:03Z",
-    "url": "https://github.com/SourceShift/mini-ork"
   },
   {
     "description": "Comet \u2014 independent third-party profile of a public API surface, by API Evangelist. Comet is an enterprise AI/ML develop",
@@ -241,15 +295,6 @@
     "stars": 3012,
     "updated_at": "2026-10-26T03:43:52Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "AI agent execution governance: pre-effect authorization, single-use permissions, policy enforcement, and verifiable reco",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 42,
-    "updated_at": "2026-10-26T03:54:00Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
     "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
@@ -403,50 +448,5 @@
     "stars": 8,
     "updated_at": "2026-10-26T02:07:04Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "AI / LLM / Agent \u5de5\u7a0b\u5e08\u4e2d\u6587\u9762\u8bd5\u9898\u4e0e\u53c2\u8003\u7b54\u6848\uff1aRAG\u3001Agent\u3001\u5fae\u8c03\u3001LLMOps\u3001\u7cfb\u7edf\u8bbe\u8ba1",
-    "id": "cluster1900/ai-engineering-interview-questions-CN",
-    "language": "Markdown",
-    "name": "cluster1900/ai-engineering-interview-questions-CN",
-    "stars": 0,
-    "updated_at": "2026-10-26T02:02:16Z",
-    "url": "https://github.com/cluster1900/ai-engineering-interview-questions-CN"
-  },
-  {
-    "description": "One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary.",
-    "id": "respanai/respan-gateway",
-    "language": "Rust",
-    "name": "respanai/respan-gateway",
-    "stars": 313,
-    "updated_at": "2026-10-26T01:53:44Z",
-    "url": "https://github.com/respanai/respan-gateway"
-  },
-  {
-    "description": "The open framework for governed AI development: EU AI Act compliance, PII redaction, MCP proxy, prompt-injection firewal",
-    "id": "admina-org/admina",
-    "language": "Python",
-    "name": "admina-org/admina",
-    "stars": 8,
-    "updated_at": "2026-10-26T01:47:58Z",
-    "url": "https://github.com/admina-org/admina"
-  },
-  {
-    "description": "Open source LLM observability and monitoring. Drop-in proxy for OpenAI, Anthropic, and Gemini with request logging, cost",
-    "id": "spanlens/Spanlens",
-    "language": "TypeScript",
-    "name": "spanlens/Spanlens",
-    "stars": 13,
-    "updated_at": "2026-10-26T01:36:03Z",
-    "url": "https://github.com/spanlens/Spanlens"
-  },
-  {
-    "description": "LLM data analyst agent on LangGraph with per-call tracing, cost and latency, versioned prompts and a record/replay evalu",
-    "id": "LacerdaTraderCode/observable-analytics-agent",
-    "language": "Python",
-    "name": "LacerdaTraderCode/observable-analytics-agent",
-    "stars": 0,
-    "updated_at": "2026-10-26T01:34:52Z",
-    "url": "https://github.com/LacerdaTraderCode/observable-analytics-agent"
   }
 ]
