@@ -1,5 +1,77 @@
 [
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28533,
+    "updated_at": "2026-10-26T03:30:01Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 32,
+    "updated_at": "2026-10-26T03:27:21Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 3011,
+    "updated_at": "2026-10-26T03:20:04Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "What if OpenAI Deep Research and Dify were one platform? OpenAgent \u2014 harness architecture for rapidly building vertical ",
+    "id": "Haohao-end/openagent",
+    "language": "Python",
+    "name": "Haohao-end/openagent",
+    "stars": 775,
+    "updated_at": "2026-10-26T03:18:47Z",
+    "url": "https://github.com/Haohao-end/openagent"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-10-26T03:17:16Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Handbook t\u00e9cnico aberto sobre engenharia de IA em produ\u00e7\u00e3o: ML tradicional, LLMs, RAG, agentes, seguran\u00e7a, observabilida",
+    "id": "ruanpato/production-ai-engineering",
+    "language": "Markdown",
+    "name": "ruanpato/production-ai-engineering",
+    "stars": 1,
+    "updated_at": "2026-10-26T03:16:17Z",
+    "url": "https://github.com/ruanpato/production-ai-engineering"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-26T03:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 62038,
+    "updated_at": "2026-10-26T03:14:40Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -18,21 +90,12 @@
     "url": "https://github.com/toxicwind/ranch"
   },
   {
-    "description": "What if OpenAI Deep Research and Dify were one platform? OpenAgent \u2014 harness architecture for rapidly building vertical ",
-    "id": "Haohao-end/openagent",
-    "language": "Python",
-    "name": "Haohao-end/openagent",
-    "stars": 775,
-    "updated_at": "2026-10-26T03:14:59Z",
-    "url": "https://github.com/Haohao-end/openagent"
-  },
-  {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
     "id": "cloudrift-ai/emmy",
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 118,
-    "updated_at": "2026-10-26T03:04:11Z",
+    "updated_at": "2026-10-26T03:20:38Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -54,6 +117,15 @@
     "url": "https://github.com/api-evangelist/agenta"
   },
   {
+    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
+    "id": "NVIDIA-NeMo/nemo-helix",
+    "language": "Python",
+    "name": "NVIDIA-NeMo/nemo-helix",
+    "stars": 128,
+    "updated_at": "2026-10-26T03:02:48Z",
+    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
+  },
+  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -61,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-10-26T03:00:46Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-26T03:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
@@ -99,15 +162,6 @@
     "url": "https://github.com/liaosiliangCodeLife/harness-mate-plat"
   },
   {
-    "description": "Handbook t\u00e9cnico aberto sobre engenharia de IA em produ\u00e7\u00e3o: ML tradicional, LLMs, RAG, agentes, seguran\u00e7a, observabilida",
-    "id": "ruanpato/production-ai-engineering",
-    "language": "Markdown",
-    "name": "ruanpato/production-ai-engineering",
-    "stars": 1,
-    "updated_at": "2026-10-26T03:13:55Z",
-    "url": "https://github.com/ruanpato/production-ai-engineering"
-  },
-  {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
     "id": "api7/aisix",
     "language": "Rust",
@@ -122,7 +176,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1374,
-    "updated_at": "2026-10-26T03:10:52Z",
+    "updated_at": "2026-10-26T03:28:38Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -142,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-10-26T02:41:09Z",
     "url": "https://github.com/Root1V/argus-observability-platform"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 62037,
-    "updated_at": "2026-10-26T03:14:40Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "AI agent execution governance: pre-effect authorization, single-use permissions, policy enforcement, and verifiable reco",
@@ -180,13 +225,13 @@
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28533,
-    "updated_at": "2026-10-26T03:12:51Z",
-    "url": "https://github.com/mlflow/mlflow"
+    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4991,
+    "updated_at": "2026-10-26T02:20:44Z",
+    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "An autonomous ad pipeline that shoots with no director, grades pixels and audio instead of text, and picks a video engin",
@@ -238,7 +283,7 @@
     "id": "respanai/respan-gateway",
     "language": "Rust",
     "name": "respanai/respan-gateway",
-    "stars": 307,
+    "stars": 308,
     "updated_at": "2026-10-26T01:53:44Z",
     "url": "https://github.com/respanai/respan-gateway"
   },
@@ -257,7 +302,7 @@
     "language": "Go",
     "name": "a-novel/service-genai",
     "stars": 2,
-    "updated_at": "2026-10-26T01:44:46Z",
+    "updated_at": "2026-10-26T03:26:24Z",
     "url": "https://github.com/a-novel/service-genai"
   },
   {
@@ -266,7 +311,7 @@
     "language": "Python",
     "name": "hanmahong5-arch/lumen",
     "stars": 0,
-    "updated_at": "2026-10-26T01:37:49Z",
+    "updated_at": "2026-10-26T03:25:09Z",
     "url": "https://github.com/hanmahong5-arch/lumen"
   },
   {
@@ -286,24 +331,6 @@
     "stars": 0,
     "updated_at": "2026-10-26T01:34:52Z",
     "url": "https://github.com/LacerdaTraderCode/observable-analytics-agent"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 3011,
-    "updated_at": "2026-10-26T03:08:51Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 32,
-    "updated_at": "2026-10-26T01:26:42Z",
-    "url": "https://github.com/SourceShift/mini-ork"
   },
   {
     "description": "The operations layer for your local LLM stack",
@@ -328,18 +355,9 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 22923,
+    "stars": 22924,
     "updated_at": "2026-10-26T01:10:57Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
-    "id": "NVIDIA-NeMo/nemo-helix",
-    "language": "Python",
-    "name": "NVIDIA-NeMo/nemo-helix",
-    "stars": 129,
-    "updated_at": "2026-10-26T03:02:48Z",
-    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
     "description": "The platform for continuously improving AI agents.",
@@ -409,8 +427,8 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26426,
-    "updated_at": "2026-10-26T00:47:33Z",
+    "stars": 26427,
+    "updated_at": "2026-10-26T03:26:03Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-26T00:22:38Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "A self-hosted OpenAI-compatible proxy and web app for debugging, testing, and improving AI agents.",
-    "id": "NordsteinSoftware/Proxytrace",
-    "language": "C#",
-    "name": "NordsteinSoftware/Proxytrace",
-    "stars": 3,
-    "updated_at": "2026-10-26T00:09:28Z",
-    "url": "https://github.com/NordsteinSoftware/Proxytrace"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-10-25T23:48:43Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   }
 ]
