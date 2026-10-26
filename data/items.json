@@ -1,5 +1,86 @@
 [
   {
+    "description": "AI trust-boundary gateway for OpenAI, Anthropic, and Gemini.",
+    "id": "GetSHIM/shim",
+    "language": "Python",
+    "name": "GetSHIM/shim",
+    "stars": 9,
+    "updated_at": "2026-10-26T05:29:12Z",
+    "url": "https://github.com/GetSHIM/shim"
+  },
+  {
+    "description": "Multi-agent customer support on Google ADK with guardrails, human-in-the-loop approval and an evaluation suite.",
+    "id": "Dinakara-Prabhu-A/adk-multi-agent-support",
+    "language": "Python",
+    "name": "Dinakara-Prabhu-A/adk-multi-agent-support",
+    "stars": 0,
+    "updated_at": "2026-10-26T05:26:16Z",
+    "url": "https://github.com/Dinakara-Prabhu-A/adk-multi-agent-support"
+  },
+  {
+    "description": "Arize Phoenix \u2014 independent third-party profile of a public API surface, by API Evangelist. Arize Phoenix is an open-sou",
+    "id": "api-evangelist/phoenix",
+    "language": "\u2014",
+    "name": "api-evangelist/phoenix",
+    "stars": 0,
+    "updated_at": "2026-10-26T05:24:52Z",
+    "url": "https://github.com/api-evangelist/phoenix"
+  },
+  {
+    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4991,
+    "updated_at": "2026-10-26T05:28:04Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Opik \u2014 independent third-party profile of a public API surface, by API Evangelist. Opik is an open-source LLM evaluation",
+    "id": "api-evangelist/opik",
+    "language": "\u2014",
+    "name": "api-evangelist/opik",
+    "stars": 0,
+    "updated_at": "2026-10-26T05:18:12Z",
+    "url": "https://github.com/api-evangelist/opik"
+  },
+  {
+    "description": "Nagizaaz Shaik \u2014 ML & AI Systems Engineer",
+    "id": "shaikn6/shaikn6",
+    "language": "Python",
+    "name": "shaikn6/shaikn6",
+    "stars": 0,
+    "updated_at": "2026-10-26T05:18:25Z",
+    "url": "https://github.com/shaikn6/shaikn6"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22926,
+    "updated_at": "2026-10-26T05:26:53Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 62038,
+    "updated_at": "2026-10-26T05:28:36Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-26T05:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Self-hostable AI token pools \u2014 govern your org's AI usage with per-member keys, quotas, and leak detection; or deposit s",
     "id": "Phat1911/Tributary",
     "language": "Rust",
@@ -23,7 +104,7 @@
     "language": "Rust",
     "name": "TAIPANBOX/tokenfuse",
     "stars": 1,
-    "updated_at": "2026-10-26T05:09:55Z",
+    "updated_at": "2026-10-26T05:29:47Z",
     "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
@@ -90,15 +171,6 @@
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-26T05:00:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Lightweight reverse proxy that logs per-request inference metrics (tokens, tokens/sec, time to first token, duration) fo",
     "id": "juusolatva/metrics_proxy",
     "language": "Go",
@@ -126,15 +198,6 @@
     "url": "https://github.com/api-evangelist/log10"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22925,
-    "updated_at": "2026-10-26T04:45:33Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -144,20 +207,11 @@
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 62039,
-    "updated_at": "2026-10-26T05:07:09Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 36487,
+    "stars": 36489,
     "updated_at": "2026-10-26T04:38:09Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -212,7 +266,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28534,
-    "updated_at": "2026-10-26T04:47:43Z",
+    "updated_at": "2026-10-26T05:26:14Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -232,15 +286,6 @@
     "stars": 4,
     "updated_at": "2026-10-26T04:06:00Z",
     "url": "https://github.com/valteresj2/agent-hangar"
-  },
-  {
-    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4991,
-    "updated_at": "2026-10-26T04:50:12Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
@@ -403,50 +448,5 @@
     "stars": 1374,
     "updated_at": "2026-10-26T03:50:59Z",
     "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "Production-grade observability and agentic AIOps for AI systems \u2014 OpenTelemetry-native across independent polyglot apps;",
-    "id": "Root1V/argus-observability-platform",
-    "language": "Python",
-    "name": "Root1V/argus-observability-platform",
-    "stars": 1,
-    "updated_at": "2026-10-26T02:41:09Z",
-    "url": "https://github.com/Root1V/argus-observability-platform"
-  },
-  {
-    "description": "A decision library for running local LLMs on multi-GPU machines without NVLink: parallelism, communication, quantization",
-    "id": "Lowaltitudeflight/local-llm-tuning-guide",
-    "language": "Python",
-    "name": "Lowaltitudeflight/local-llm-tuning-guide",
-    "stars": 19,
-    "updated_at": "2026-10-26T02:32:20Z",
-    "url": "https://github.com/Lowaltitudeflight/local-llm-tuning-guide"
-  },
-  {
-    "description": "An autonomous ad pipeline that shoots with no director, grades pixels and audio instead of text, and picks a video engin",
-    "id": "jameswniu/autonomous-ads-pipeline-multimodal-evals",
-    "language": "Python",
-    "name": "jameswniu/autonomous-ads-pipeline-multimodal-evals",
-    "stars": 1,
-    "updated_at": "2026-10-26T02:15:30Z",
-    "url": "https://github.com/jameswniu/autonomous-ads-pipeline-multimodal-evals"
-  },
-  {
-    "description": "Building reliable LLM Agents \u2014 Agent eval, evidence grounding, context engineering",
-    "id": "KBber/KBber",
-    "language": "\u2014",
-    "name": "KBber/KBber",
-    "stars": 0,
-    "updated_at": "2026-10-26T02:10:00Z",
-    "url": "https://github.com/KBber/KBber"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-10-26T02:07:04Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   }
 ]
