@@ -1,5 +1,68 @@
 [
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28536,
+    "updated_at": "2026-10-26T07:44:11Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "A tiny, readable circuit breaker for LLM calls: hard budget caps that fail over to a free local model instead of raising",
+    "id": "qkrehgk1-wq/llm-circuit-breaker",
+    "language": "Python",
+    "name": "qkrehgk1-wq/llm-circuit-breaker",
+    "stars": 0,
+    "updated_at": "2026-10-26T07:40:29Z",
+    "url": "https://github.com/qkrehgk1-wq/llm-circuit-breaker"
+  },
+  {
+    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+    "id": "alibaba/rtp-llm",
+    "language": "Python",
+    "name": "alibaba/rtp-llm",
+    "stars": 1375,
+    "updated_at": "2026-10-26T07:40:27Z",
+    "url": "https://github.com/alibaba/rtp-llm"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 3014,
+    "updated_at": "2026-10-26T07:39:16Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-10-26T07:32:20Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "What if OpenAI Deep Research and Dify were one platform? OpenAgent \u2014 harness architecture for rapidly building vertical ",
+    "id": "Haohao-end/openagent",
+    "language": "Python",
+    "name": "Haohao-end/openagent",
+    "stars": 774,
+    "updated_at": "2026-10-26T07:30:45Z",
+    "url": "https://github.com/Haohao-end/openagent"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-26T07:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\u7aef\u5230\u7aef\u667a\u80fd\u4f53\u5e73\u53f0\uff1a\u628a\u672c\u673a\u7684 AI Agent \u53d8\u6210\u4eba\u4eba\u53ef\u7528\u7684 Web \u4ea7\u54c1\uff08Vue 3 + Flask + Go WS \u7f51\u5173 + Docker \u90e8\u7f72\uff09",
     "id": "liaosiliangCodeLife/harness-mate-plat",
     "language": "Python",
@@ -31,27 +94,18 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 36496,
+    "stars": 36499,
     "updated_at": "2026-10-26T07:27:35Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
     "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28535,
-    "updated_at": "2026-10-26T07:29:51Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 3014,
-    "updated_at": "2026-10-26T07:26:42Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
+    "name": "mozilla-ai/otari",
+    "stars": 737,
+    "updated_at": "2026-10-26T07:24:39Z",
+    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "Self-hostable AI token pools \u2014 govern your org's AI usage with per-member keys, quotas, and leak detection; or deposit s",
@@ -81,21 +135,12 @@
     "url": "https://github.com/RobinaMirbahar/cloudguard-gemma-agent"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-26T07:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4991,
-    "updated_at": "2026-10-26T07:30:15Z",
+    "updated_at": "2026-10-26T07:42:32Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -104,7 +149,7 @@
     "language": "Python",
     "name": "arav7781/TREADOPS",
     "stars": 0,
-    "updated_at": "2026-10-26T07:14:18Z",
+    "updated_at": "2026-10-26T07:34:10Z",
     "url": "https://github.com/arav7781/TREADOPS"
   },
   {
@@ -112,18 +157,9 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 62045,
-    "updated_at": "2026-10-26T07:13:11Z",
+    "stars": 62046,
+    "updated_at": "2026-10-26T07:39:58Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 736,
-    "updated_at": "2026-10-26T07:24:39Z",
-    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "Agentic Runtime",
@@ -151,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-10-26T06:56:39Z",
     "url": "https://github.com/saikirankalidindi/hardcap"
-  },
-  {
-    "description": "What if OpenAI Deep Research and Dify were one platform? OpenAgent \u2014 harness architecture for rapidly building vertical ",
-    "id": "Haohao-end/openagent",
-    "language": "Python",
-    "name": "Haohao-end/openagent",
-    "stars": 774,
-    "updated_at": "2026-10-26T07:30:02Z",
-    "url": "https://github.com/Haohao-end/openagent"
   },
   {
     "description": "Benchmarking vision-language models for handwritten form extraction with confidence flags and human review.",
@@ -421,32 +448,5 @@
     "stars": 29,
     "updated_at": "2026-10-26T05:09:24Z",
     "url": "https://github.com/yzhao062/auditable"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 4,
-    "updated_at": "2026-10-26T05:06:18Z",
-    "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-10-26T05:02:31Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Lightweight reverse proxy that logs per-request inference metrics (tokens, tokens/sec, time to first token, duration) fo",
-    "id": "juusolatva/metrics_proxy",
-    "language": "Go",
-    "name": "juusolatva/metrics_proxy",
-    "stars": 0,
-    "updated_at": "2026-10-26T04:58:43Z",
-    "url": "https://github.com/juusolatva/metrics_proxy"
   }
 ]
