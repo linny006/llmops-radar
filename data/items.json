@@ -1,12 +1,39 @@
 [
   {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 9692,
-    "updated_at": "2026-10-26T20:00:08Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 42,
+    "updated_at": "2026-10-26T20:13:34Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Market Metrics is an autonomous market-intelligence platform designed to transform product ideas into structured, eviden",
+    "id": "721189/Market-Metrics",
+    "language": "TypeScript",
+    "name": "721189/Market-Metrics",
+    "stars": 1,
+    "updated_at": "2026-10-26T20:12:09Z",
+    "url": "https://github.com/721189/Market-Metrics"
+  },
+  {
+    "description": "Linux VM agent for AcornOps, providing outbound system connectivity, host inspection, and controlled VM operations.",
+    "id": "acornops/agentv",
+    "language": "TypeScript",
+    "name": "acornops/agentv",
+    "stars": 1,
+    "updated_at": "2026-10-26T20:11:30Z",
+    "url": "https://github.com/acornops/agentv"
+  },
+  {
+    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
+    "id": "acornops/management-console",
+    "language": "TypeScript",
+    "name": "acornops/management-console",
+    "stars": 2,
+    "updated_at": "2026-10-26T20:11:40Z",
+    "url": "https://github.com/acornops/management-console"
   },
   {
     "description": "The operations layer for your local LLM stack",
@@ -14,8 +41,44 @@
     "language": "TypeScript",
     "name": "ndom91/llama-dash",
     "stars": 27,
-    "updated_at": "2026-10-26T19:59:59Z",
+    "updated_at": "2026-10-26T20:09:49Z",
     "url": "https://github.com/ndom91/llama-dash"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-26T20:09:26Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Production-grade observability and agentic AIOps for AI systems \u2014 OpenTelemetry-native across independent polyglot apps;",
+    "id": "Root1V/argus-observability-platform",
+    "language": "Python",
+    "name": "Root1V/argus-observability-platform",
+    "stars": 1,
+    "updated_at": "2026-10-26T20:09:25Z",
+    "url": "https://github.com/Root1V/argus-observability-platform"
+  },
+  {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-10-26T20:08:38Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 9693,
+    "updated_at": "2026-10-26T20:11:39Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
@@ -23,8 +86,26 @@
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 129,
-    "updated_at": "2026-10-26T19:59:34Z",
+    "updated_at": "2026-10-26T20:13:18Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-26T20:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
+    "language": "Python",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 53,
+    "updated_at": "2026-10-26T20:01:25Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
   },
   {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
@@ -59,7 +140,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 62080,
-    "updated_at": "2026-10-26T19:56:16Z",
+    "updated_at": "2026-10-26T20:15:12Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -90,22 +171,13 @@
     "url": "https://github.com/dberanjr/AIObservability3.0"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 42,
-    "updated_at": "2026-10-26T19:50:38Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Market Metrics is an autonomous market-intelligence platform designed to transform product ideas into structured, eviden",
-    "id": "721189/Market-Metrics",
-    "language": "TypeScript",
-    "name": "721189/Market-Metrics",
-    "stars": 1,
-    "updated_at": "2026-10-26T19:50:34Z",
-    "url": "https://github.com/721189/Market-Metrics"
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 2206,
+    "updated_at": "2026-10-26T19:51:11Z",
+    "url": "https://github.com/future-agi/future-agi"
   },
   {
     "description": "Find and prove inference savings on your own GPUs: $/M tokens with 95% CIs, agent workloads, verified-savings statements",
@@ -117,21 +189,12 @@
     "url": "https://github.com/KushagraKanaujia/throttle"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-26T19:45:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
     "id": "llmspendguard/llm-spendguard",
     "language": "Python",
     "name": "llmspendguard/llm-spendguard",
     "stars": 0,
-    "updated_at": "2026-10-26T19:44:34Z",
+    "updated_at": "2026-10-26T20:14:24Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
@@ -180,20 +243,11 @@
     "url": "https://github.com/barzoj-co/llmentary"
   },
   {
-    "description": "Enterprise Scale AIFactory (esml) - on Azure",
-    "id": "jostrm/azure-enterprise-scale-ml",
-    "language": "Python",
-    "name": "jostrm/azure-enterprise-scale-ml",
-    "stars": 53,
-    "updated_at": "2026-10-26T19:56:21Z",
-    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26462,
+    "stars": 26463,
     "updated_at": "2026-10-26T19:28:53Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -248,7 +302,7 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-26T19:20:55Z",
+    "updated_at": "2026-10-26T20:01:13Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -293,17 +347,8 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 2,
-    "updated_at": "2026-10-26T19:26:10Z",
+    "updated_at": "2026-10-26T20:13:03Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-26T19:09:10Z",
-    "url": "https://github.com/toxicwind/ranch"
   },
   {
     "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
@@ -311,7 +356,7 @@
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 27,
-    "updated_at": "2026-10-26T19:47:43Z",
+    "updated_at": "2026-10-26T20:04:24Z",
     "url": "https://github.com/AixleHQ/flow"
   },
   {
@@ -328,7 +373,7 @@
     "id": "01men/ybkkasi",
     "language": "JavaScript",
     "name": "01men/ybkkasi",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-10-26T18:58:21Z",
     "url": "https://github.com/01men/ybkkasi"
   },
@@ -374,7 +419,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 12014,
-    "updated_at": "2026-10-26T19:55:20Z",
+    "updated_at": "2026-10-26T20:13:42Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 4992,
     "updated_at": "2026-10-26T19:29:28Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
-    "id": "acornops/management-console",
-    "language": "TypeScript",
-    "name": "acornops/management-console",
-    "stars": 2,
-    "updated_at": "2026-10-26T19:44:29Z",
-    "url": "https://github.com/acornops/management-console"
-  },
-  {
-    "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
-    "id": "alibaba/rtp-llm",
-    "language": "Python",
-    "name": "alibaba/rtp-llm",
-    "stars": 1376,
-    "updated_at": "2026-10-26T19:12:38Z",
-    "url": "https://github.com/alibaba/rtp-llm"
-  },
-  {
-    "description": "Trace-native CI/CD for AI agents: grade production traces, cluster failures, freeze them into replayable regression test",
-    "id": "jwuthri-cloud/Tracely-ai",
-    "language": "Python",
-    "name": "jwuthri-cloud/Tracely-ai",
-    "stars": 1190,
-    "updated_at": "2026-10-26T18:09:41Z",
-    "url": "https://github.com/jwuthri-cloud/Tracely-ai"
-  },
-  {
-    "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
-    "id": "acornops/control-plane",
-    "language": "TypeScript",
-    "name": "acornops/control-plane",
-    "stars": 2,
-    "updated_at": "2026-10-26T18:16:14Z",
-    "url": "https://github.com/acornops/control-plane"
-  },
-  {
-    "description": "Run execution service for AcornOps, responsible for worker lifecycle, streaming run events, and tool execution coordinat",
-    "id": "acornops/execution-engine",
-    "language": "Python",
-    "name": "acornops/execution-engine",
-    "stars": 2,
-    "updated_at": "2026-10-26T18:09:33Z",
-    "url": "https://github.com/acornops/execution-engine"
   }
 ]
