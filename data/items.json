@@ -1,12 +1,129 @@
 [
   {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 9692,
+    "updated_at": "2026-10-26T20:00:08Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "The operations layer for your local LLM stack",
+    "id": "ndom91/llama-dash",
+    "language": "TypeScript",
+    "name": "ndom91/llama-dash",
+    "stars": 27,
+    "updated_at": "2026-10-26T19:59:59Z",
+    "url": "https://github.com/ndom91/llama-dash"
+  },
+  {
     "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
     "id": "NVIDIA-NeMo/nemo-helix",
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 129,
-    "updated_at": "2026-10-26T19:44:46Z",
+    "updated_at": "2026-10-26T19:59:34Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 11,
+    "updated_at": "2026-10-26T19:58:52Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio",
+    "id": "naim-munshi/metriqen-llm-serving-optimization",
+    "language": "Python",
+    "name": "naim-munshi/metriqen-llm-serving-optimization",
+    "stars": 0,
+    "updated_at": "2026-10-26T19:58:03Z",
+    "url": "https://github.com/naim-munshi/metriqen-llm-serving-optimization"
+  },
+  {
+    "description": "AI-powered data infrastructure, end to end: ingestion (Airflow, Kafka, Flink), Bronze/Silver/Gold lakehouse (DuckDB, Del",
+    "id": "Tojoarisoa/aidataboon",
+    "language": "Python",
+    "name": "Tojoarisoa/aidataboon",
+    "stars": 0,
+    "updated_at": "2026-10-26T19:57:06Z",
+    "url": "https://github.com/Tojoarisoa/aidataboon"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 62080,
+    "updated_at": "2026-10-26T19:56:16Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-26T19:56:19Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36538,
+    "updated_at": "2026-10-26T19:54:46Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "End-to-end Dynatrace observability for agentic AI workloads - services, agents, tools, prompts, models, topology, FinOps",
+    "id": "dberanjr/AIObservability3.0",
+    "language": "TypeScript",
+    "name": "dberanjr/AIObservability3.0",
+    "stars": 0,
+    "updated_at": "2026-10-26T19:54:25Z",
+    "url": "https://github.com/dberanjr/AIObservability3.0"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 42,
+    "updated_at": "2026-10-26T19:50:38Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Market Metrics is an autonomous market-intelligence platform designed to transform product ideas into structured, eviden",
+    "id": "721189/Market-Metrics",
+    "language": "TypeScript",
+    "name": "721189/Market-Metrics",
+    "stars": 1,
+    "updated_at": "2026-10-26T19:50:34Z",
+    "url": "https://github.com/721189/Market-Metrics"
+  },
+  {
+    "description": "Find and prove inference savings on your own GPUs: $/M tokens with 95% CIs, agent workloads, verified-savings statements",
+    "id": "KushagraKanaujia/throttle",
+    "language": "Python",
+    "name": "KushagraKanaujia/throttle",
+    "stars": 7,
+    "updated_at": "2026-10-26T19:46:50Z",
+    "url": "https://github.com/KushagraKanaujia/throttle"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-26T19:45:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
@@ -16,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-26T19:44:34Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 62080,
-    "updated_at": "2026-10-26T19:44:40Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Lightweight reverse proxy that logs per-request inference metrics (tokens, tokens/sec, time to first token, duration) fo",
@@ -50,7 +158,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28543,
-    "updated_at": "2026-10-26T19:38:00Z",
+    "updated_at": "2026-10-26T19:52:15Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -63,15 +171,6 @@
     "url": "https://github.com/Nikit117/kynex-harness"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-26T19:34:16Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Deterministic trace-based integration testing for LLM apps",
     "id": "barzoj-co/llmentary",
     "language": "Go",
@@ -81,30 +180,12 @@
     "url": "https://github.com/barzoj-co/llmentary"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 42,
-    "updated_at": "2026-10-26T19:33:34Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 9692,
-    "updated_at": "2026-10-26T19:33:25Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
     "description": "Enterprise Scale AIFactory (esml) - on Azure",
     "id": "jostrm/azure-enterprise-scale-ml",
     "language": "Python",
     "name": "jostrm/azure-enterprise-scale-ml",
     "stars": 53,
-    "updated_at": "2026-10-26T19:31:37Z",
+    "updated_at": "2026-10-26T19:56:21Z",
     "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
   },
   {
@@ -115,15 +196,6 @@
     "stars": 26462,
     "updated_at": "2026-10-26T19:28:53Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "The operations layer for your local LLM stack",
-    "id": "ndom91/llama-dash",
-    "language": "TypeScript",
-    "name": "ndom91/llama-dash",
-    "stars": 27,
-    "updated_at": "2026-10-26T19:27:52Z",
-    "url": "https://github.com/ndom91/llama-dash"
   },
   {
     "description": "One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary.",
@@ -149,8 +221,17 @@
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 703,
-    "updated_at": "2026-10-26T19:21:40Z",
+    "updated_at": "2026-10-26T19:59:19Z",
     "url": "https://github.com/Abilityai/trinity"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1288,
+    "updated_at": "2026-10-26T19:20:55Z",
+    "url": "https://github.com/Arize-ai/openinference"
   },
   {
     "description": "Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper",
@@ -230,17 +311,8 @@
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 27,
-    "updated_at": "2026-10-26T19:35:27Z",
+    "updated_at": "2026-10-26T19:47:43Z",
     "url": "https://github.com/AixleHQ/flow"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36537,
-    "updated_at": "2026-10-26T19:34:27Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -250,15 +322,6 @@
     "stars": 8,
     "updated_at": "2026-10-26T19:05:18Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-26T18:59:14Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
     "description": "One control plane for every AI asset \u2014 MCP servers, skills, agents, AI apps. Self-hosted ledger with lifecycle state mac",
@@ -288,15 +351,6 @@
     "url": "https://github.com/mloda-ai/mloda"
   },
   {
-    "description": "AI-powered data infrastructure, end to end: ingestion (Airflow, Kafka, Flink), Bronze/Silver/Gold lakehouse (DuckDB, Del",
-    "id": "Tojoarisoa/aidataboon",
-    "language": "Python",
-    "name": "Tojoarisoa/aidataboon",
-    "stars": 0,
-    "updated_at": "2026-10-26T18:51:17Z",
-    "url": "https://github.com/Tojoarisoa/aidataboon"
-  },
-  {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
     "id": "vivek-541/vivek-541",
     "language": "HTML",
@@ -311,7 +365,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30766,
-    "updated_at": "2026-10-26T18:41:30Z",
+    "updated_at": "2026-10-26T19:59:31Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -320,7 +374,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 12014,
-    "updated_at": "2026-10-26T19:34:30Z",
+    "updated_at": "2026-10-26T19:55:20Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -331,15 +385,6 @@
     "stars": 2,
     "updated_at": "2026-10-26T18:46:56Z",
     "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1287,
-    "updated_at": "2026-10-26T19:20:55Z",
-    "url": "https://github.com/Arize-ai/openinference"
   },
   {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
@@ -358,15 +403,6 @@
     "stars": 4992,
     "updated_at": "2026-10-26T19:29:28Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio",
-    "id": "naim-munshi/metriqen-llm-serving-optimization",
-    "language": "Python",
-    "name": "naim-munshi/metriqen-llm-serving-optimization",
-    "stars": 0,
-    "updated_at": "2026-10-26T18:16:02Z",
-    "url": "https://github.com/naim-munshi/metriqen-llm-serving-optimization"
   },
   {
     "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-26T18:09:33Z",
     "url": "https://github.com/acornops/execution-engine"
-  },
-  {
-    "description": "Linux VM agent for AcornOps, providing outbound system connectivity, host inspection, and controlled VM operations.",
-    "id": "acornops/agentv",
-    "language": "TypeScript",
-    "name": "acornops/agentv",
-    "stars": 1,
-    "updated_at": "2026-10-26T19:44:29Z",
-    "url": "https://github.com/acornops/agentv"
-  },
-  {
-    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
-    "id": "digline/digline",
-    "language": "Python",
-    "name": "digline/digline",
-    "stars": 9,
-    "updated_at": "2026-10-26T17:59:25Z",
-    "url": "https://github.com/digline/digline"
-  },
-  {
-    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
-    "id": "lmnr-ai/lmnr",
-    "language": "TypeScript",
-    "name": "lmnr-ai/lmnr",
-    "stars": 3448,
-    "updated_at": "2026-10-26T18:40:54Z",
-    "url": "https://github.com/lmnr-ai/lmnr"
-  },
-  {
-    "description": "Self-hosted model and dataset hub, compatible with the Hugging Face Hub API, git, Ollama and LM Studio. Use it as a priv",
-    "id": "hangar-hub/hangar",
-    "language": "Go",
-    "name": "hangar-hub/hangar",
-    "stars": 2,
-    "updated_at": "2026-10-26T17:50:08Z",
-    "url": "https://github.com/hangar-hub/hangar"
   }
 ]
