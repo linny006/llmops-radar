@@ -1,12 +1,84 @@
 [
   {
+    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
+    "id": "srjn45/warden",
+    "language": "Go",
+    "name": "srjn45/warden",
+    "stars": 2,
+    "updated_at": "2026-10-26T16:59:31Z",
+    "url": "https://github.com/srjn45/warden"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 9688,
+    "updated_at": "2026-10-26T16:58:30Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Myrtia \u2014 agent-native red teaming for LLMs and AI agents: a deliberating council of attacker models (propose, cross-crit",
+    "id": "francordel/myrtia",
+    "language": "Python",
+    "name": "francordel/myrtia",
+    "stars": 31,
+    "updated_at": "2026-10-26T16:54:47Z",
+    "url": "https://github.com/francordel/myrtia"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-26T16:54:40Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3612,
+    "updated_at": "2026-10-26T16:49:58Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 42,
-    "updated_at": "2026-10-26T16:45:11Z",
+    "updated_at": "2026-10-26T16:52:26Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Governed MCP server and agent runtime: signed action approvals, typed tool effects and audit logs for Claude Desktop, Cu",
+    "id": "Yacine-ai-tech/AgentKit",
+    "language": "Python",
+    "name": "Yacine-ai-tech/AgentKit",
+    "stars": 0,
+    "updated_at": "2026-10-26T16:46:17Z",
+    "url": "https://github.com/Yacine-ai-tech/AgentKit"
+  },
+  {
+    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
+    "id": "digline/digline",
+    "language": "Python",
+    "name": "digline/digline",
+    "stars": 9,
+    "updated_at": "2026-10-26T16:54:19Z",
+    "url": "https://github.com/digline/digline"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-26T16:45:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Self-hosted enterprise RAG and analytics: hybrid retrieval (BGE-M3, BM25, RRF), BGE reranker, GraphRAG-lite and forecast",
@@ -23,7 +95,7 @@
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 129,
-    "updated_at": "2026-10-26T16:44:35Z",
+    "updated_at": "2026-10-26T16:52:20Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -32,7 +104,7 @@
     "language": "Python",
     "name": "piotrekno1/second-shift",
     "stars": 1,
-    "updated_at": "2026-10-26T16:44:31Z",
+    "updated_at": "2026-10-26T16:56:02Z",
     "url": "https://github.com/piotrekno1/second-shift"
   },
   {
@@ -45,12 +117,21 @@
     "url": "https://github.com/Yacine-ai-tech/RAGeval"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 12012,
+    "updated_at": "2026-10-26T16:44:25Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "AI Radar | \u57fa\u4e8e\u8bc1\u636e\u7684 AI \u6280\u672f\u7814\u7a76\u4e0e\u9009\u578b\u5e73\u53f0\u3002React + FastAPI\uff0c\u63d0\u4f9b\u53ef\u6838\u9a8c\u5b98\u65b9\u8d44\u6599\u4e0e\u53ef\u590d\u73b0\u4f5c\u54c1\u96c6\u5165\u53e3\u3002",
     "id": "xuerp/ai-knowledge-explorer",
     "language": "Python",
     "name": "xuerp/ai-knowledge-explorer",
     "stars": 0,
-    "updated_at": "2026-10-26T16:44:09Z",
+    "updated_at": "2026-10-26T16:46:45Z",
     "url": "https://github.com/xuerp/ai-knowledge-explorer"
   },
   {
@@ -77,7 +158,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 36527,
-    "updated_at": "2026-10-26T16:41:47Z",
+    "updated_at": "2026-10-26T16:57:29Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -95,7 +176,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 62074,
-    "updated_at": "2026-10-26T16:36:06Z",
+    "updated_at": "2026-10-26T16:50:08Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -113,7 +194,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 2,
-    "updated_at": "2026-10-26T16:42:51Z",
+    "updated_at": "2026-10-26T16:48:53Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -144,15 +225,6 @@
     "url": "https://github.com/hangar-hub/hangar"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-26T16:30:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -167,7 +239,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 740,
-    "updated_at": "2026-10-26T16:42:49Z",
+    "updated_at": "2026-10-26T16:59:44Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -207,24 +279,6 @@
     "url": "https://github.com/behrouzbk/tokensaver"
   },
   {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3612,
-    "updated_at": "2026-10-26T16:23:49Z",
-    "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
-    "id": "digline/digline",
-    "language": "Python",
-    "name": "digline/digline",
-    "stars": 9,
-    "updated_at": "2026-10-26T16:43:43Z",
-    "url": "https://github.com/digline/digline"
-  },
-  {
     "description": "357 Claude agent roles across 6 business layers. Portable Memvid memory, enforced cost caps, bash policy gate, durable c",
     "id": "TechTideOhio/swarm-357",
     "language": "Python",
@@ -259,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-10-26T16:16:55Z",
     "url": "https://github.com/haomingkoo/haomingkoo"
-  },
-  {
-    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
-    "id": "srjn45/warden",
-    "language": "Go",
-    "name": "srjn45/warden",
-    "stars": 2,
-    "updated_at": "2026-10-26T16:35:07Z",
-    "url": "https://github.com/srjn45/warden"
   },
   {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
@@ -338,7 +383,7 @@
     "language": "Python",
     "name": "Soum-Code/agentpulse",
     "stars": 0,
-    "updated_at": "2026-10-26T16:45:15Z",
+    "updated_at": "2026-10-26T16:45:38Z",
     "url": "https://github.com/Soum-Code/agentpulse"
   },
   {
@@ -358,24 +403,6 @@
     "stars": 1,
     "updated_at": "2026-10-26T15:56:24Z",
     "url": "https://github.com/SreenathKarthick11/Sage-Serve"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 9689,
-    "updated_at": "2026-10-26T15:55:36Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-26T15:55:26Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
     "description": "Document Q&A with cited answers: an agentic retrieval loop, neural retrieval (bge-m3, Qwen3-Embedding, bge reranker, Qdr",
@@ -401,7 +428,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4991,
-    "updated_at": "2026-10-26T16:40:10Z",
+    "updated_at": "2026-10-26T16:47:10Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -414,15 +441,6 @@
     "url": "https://github.com/AixleHQ/flow"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 12011,
-    "updated_at": "2026-10-26T16:44:25Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 28542,
     "updated_at": "2026-10-26T15:41:00Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "Keras based framework for neuro-symbolic LM systems",
-    "id": "SynaLinks/synalinks",
-    "language": "Python",
-    "name": "SynaLinks/synalinks",
-    "stars": 463,
-    "updated_at": "2026-10-26T15:41:36Z",
-    "url": "https://github.com/SynaLinks/synalinks"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 96,
-    "updated_at": "2026-10-26T16:34:13Z",
-    "url": "https://github.com/mloda-ai/mloda"
   }
 ]
