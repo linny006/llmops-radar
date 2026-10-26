@@ -1,12 +1,129 @@
 [
   {
+    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
+    "id": "digline/digline",
+    "language": "Python",
+    "name": "digline/digline",
+    "stars": 9,
+    "updated_at": "2026-10-26T14:30:17Z",
+    "url": "https://github.com/digline/digline"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36520,
+    "updated_at": "2026-10-26T14:27:52Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 96,
+    "updated_at": "2026-10-26T14:27:37Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "Scheduled agent tasks for your repositories, defined in Git. Approved access, sandboxed runs, a full audit trail.",
+    "id": "piotrekno1/second-shift",
+    "language": "Python",
+    "name": "piotrekno1/second-shift",
+    "stars": 1,
+    "updated_at": "2026-10-26T14:26:43Z",
+    "url": "https://github.com/piotrekno1/second-shift"
+  },
+  {
+    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
+    "id": "srjn45/warden",
+    "language": "Go",
+    "name": "srjn45/warden",
+    "stars": 2,
+    "updated_at": "2026-10-26T14:25:43Z",
+    "url": "https://github.com/srjn45/warden"
+  },
+  {
+    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
+    "id": "AixleHQ/flow",
+    "language": "Ruby",
+    "name": "AixleHQ/flow",
+    "stars": 27,
+    "updated_at": "2026-10-26T14:25:16Z",
+    "url": "https://github.com/AixleHQ/flow"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 62067,
+    "updated_at": "2026-10-26T14:24:54Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 2204,
+    "updated_at": "2026-10-26T14:23:57Z",
+    "url": "https://github.com/future-agi/future-agi"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 32,
+    "updated_at": "2026-10-26T14:20:33Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
+    "id": "hjongc/openrouter-endpoint-watch",
+    "language": "Python",
+    "name": "hjongc/openrouter-endpoint-watch",
+    "stars": 0,
+    "updated_at": "2026-10-26T14:19:37Z",
+    "url": "https://github.com/hjongc/openrouter-endpoint-watch"
+  },
+  {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
     "id": "truera/trulens",
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3612,
-    "updated_at": "2026-10-26T14:15:10Z",
+    "updated_at": "2026-10-26T14:19:26Z",
     "url": "https://github.com/truera/trulens"
+  },
+  {
+    "description": "\ud83e\udea2 Langfuse JS/TS SDK",
+    "id": "langfuse/langfuse-js",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse-js",
+    "stars": 173,
+    "updated_at": "2026-10-26T14:19:07Z",
+    "url": "https://github.com/langfuse/langfuse-js"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-26T14:27:25Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-26T14:15:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
@@ -23,7 +140,7 @@
     "language": "Python",
     "name": "dynamiq-ai/dynamiq",
     "stars": 1071,
-    "updated_at": "2026-10-26T14:15:12Z",
+    "updated_at": "2026-10-26T14:18:12Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
@@ -77,7 +194,7 @@
     "language": "TypeScript",
     "name": "acornops/management-console",
     "stars": 2,
-    "updated_at": "2026-10-26T14:11:19Z",
+    "updated_at": "2026-10-26T14:29:43Z",
     "url": "https://github.com/acornops/management-console"
   },
   {
@@ -86,7 +203,7 @@
     "language": "TypeScript",
     "name": "acornops/agentk",
     "stars": 2,
-    "updated_at": "2026-10-26T14:11:00Z",
+    "updated_at": "2026-10-26T14:24:01Z",
     "url": "https://github.com/acornops/agentk"
   },
   {
@@ -104,7 +221,7 @@
     "language": "TypeScript",
     "name": "acornops/control-plane",
     "stars": 2,
-    "updated_at": "2026-10-26T14:10:50Z",
+    "updated_at": "2026-10-26T14:18:11Z",
     "url": "https://github.com/acornops/control-plane"
   },
   {
@@ -117,13 +234,13 @@
     "url": "https://github.com/acornops/docs-website"
   },
   {
-    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
-    "id": "digline/digline",
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
     "language": "Python",
-    "name": "digline/digline",
-    "stars": 9,
-    "updated_at": "2026-10-26T14:09:15Z",
-    "url": "https://github.com/digline/digline"
+    "name": "comet-ml/opik",
+    "stars": 22937,
+    "updated_at": "2026-10-26T14:09:41Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
@@ -160,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-10-26T14:08:52Z",
     "url": "https://github.com/alebgl77/grafana-llmops-forge"
-  },
-  {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 32,
-    "updated_at": "2026-10-26T14:07:31Z",
-    "url": "https://github.com/SourceShift/mini-ork"
   },
   {
     "description": "Radicalbit AI Gateway",
@@ -225,24 +333,6 @@
     "url": "https://github.com/andrewbakercloudscale/claude-code-cost-sidebar"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-26T14:00:38Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 96,
-    "updated_at": "2026-10-26T14:04:44Z",
-    "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
     "id": "decimal-labs/decimalai-python",
     "language": "Python",
@@ -261,21 +351,12 @@
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22936,
-    "updated_at": "2026-10-26T14:09:41Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28538,
-    "updated_at": "2026-10-26T14:14:36Z",
+    "updated_at": "2026-10-26T14:29:22Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -324,15 +405,6 @@
     "url": "https://github.com/Phat1911/Tributary"
   },
   {
-    "description": "Scheduled agent tasks for your repositories, defined in Git. Approved access, sandboxed runs, a full audit trail.",
-    "id": "piotrekno1/second-shift",
-    "language": "Python",
-    "name": "piotrekno1/second-shift",
-    "stars": 1,
-    "updated_at": "2026-10-26T13:42:14Z",
-    "url": "https://github.com/piotrekno1/second-shift"
-  },
-  {
     "description": "Dify with Let's Encrypt Using Docker Compose",
     "id": "heyvaldemar/dify-traefik-letsencrypt-docker-compose",
     "language": "Shell",
@@ -340,15 +412,6 @@
     "stars": 0,
     "updated_at": "2026-10-26T13:41:51Z",
     "url": "https://github.com/heyvaldemar/dify-traefik-letsencrypt-docker-compose"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36520,
-    "updated_at": "2026-10-26T13:41:13Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
@@ -360,21 +423,12 @@
     "url": "https://github.com/toxicwind/ranch"
   },
   {
-    "description": "\ud83e\udea2 Langfuse JS/TS SDK",
-    "id": "langfuse/langfuse-js",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse-js",
-    "stars": 173,
-    "updated_at": "2026-10-26T13:47:22Z",
-    "url": "https://github.com/langfuse/langfuse-js"
-  },
-  {
     "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
     "id": "NVIDIA-NeMo/nemo-helix",
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 129,
-    "updated_at": "2026-10-26T14:15:03Z",
+    "updated_at": "2026-10-26T14:29:56Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -392,61 +446,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 207,
-    "updated_at": "2026-10-26T14:00:42Z",
+    "updated_at": "2026-10-26T14:21:26Z",
     "url": "https://github.com/api7/aisix"
-  },
-  {
-    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
-    "id": "AixleHQ/flow",
-    "language": "Ruby",
-    "name": "AixleHQ/flow",
-    "stars": 27,
-    "updated_at": "2026-10-26T14:09:43Z",
-    "url": "https://github.com/AixleHQ/flow"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 62065,
-    "updated_at": "2026-10-26T13:15:25Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Source for kooexperience.com, Haoming Koo\u2019s applied AI engineering portfolio with live products, case studies, structure",
-    "id": "haomingkoo/haomingkoo.github.io",
-    "language": "HTML",
-    "name": "haomingkoo/haomingkoo.github.io",
-    "stars": 0,
-    "updated_at": "2026-10-26T13:10:04Z",
-    "url": "https://github.com/haomingkoo/haomingkoo.github.io"
-  },
-  {
-    "description": "Production-ready platform for deploying OpenAI-compatible LLM inference on Kubernetes. A one-command installer for enter",
-    "id": "intel/enterprise-ai-solutions",
-    "language": "Shell",
-    "name": "intel/enterprise-ai-solutions",
-    "stars": 10,
-    "updated_at": "2026-10-26T13:32:54Z",
-    "url": "https://github.com/intel/enterprise-ai-solutions"
-  },
-  {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 400,
-    "updated_at": "2026-10-26T13:52:03Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
-  },
-  {
-    "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
-    "id": "Amz34/awesome-agent-infrastructure",
-    "language": "Python",
-    "name": "Amz34/awesome-agent-infrastructure",
-    "stars": 1,
-    "updated_at": "2026-10-26T13:05:19Z",
-    "url": "https://github.com/Amz34/awesome-agent-infrastructure"
   }
 ]
