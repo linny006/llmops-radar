@@ -1,12 +1,30 @@
 [
   {
-    "description": "Ask your coding agent about your LLM app in plain English; it answers from your Langfuse data with lf. CLI + agent skill",
-    "id": "tns15june/langfuse-agent-cli",
-    "language": "Python",
-    "name": "tns15june/langfuse-agent-cli",
+    "description": "Lightweight reverse proxy that logs per-request inference metrics (tokens, tokens/sec, time to first token, duration) fo",
+    "id": "juusolatva/metrics_proxy",
+    "language": "Go",
+    "name": "juusolatva/metrics_proxy",
     "stars": 0,
-    "updated_at": "2026-10-26T04:28:10Z",
-    "url": "https://github.com/tns15june/langfuse-agent-cli"
+    "updated_at": "2026-10-26T04:39:58Z",
+    "url": "https://github.com/juusolatva/metrics_proxy"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 62039,
+    "updated_at": "2026-10-26T04:38:41Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-26T04:32:55Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
@@ -14,8 +32,35 @@
     "language": "Rust",
     "name": "TAIPANBOX/tokenfuse",
     "stars": 1,
-    "updated_at": "2026-10-26T04:26:57Z",
+    "updated_at": "2026-10-26T04:32:48Z",
     "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-26T04:30:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Ask your coding agent about your LLM app in plain English; it answers from your Langfuse data with lf. CLI + agent skill",
+    "id": "tns15june/langfuse-agent-cli",
+    "language": "Python",
+    "name": "tns15june/langfuse-agent-cli",
+    "stars": 0,
+    "updated_at": "2026-10-26T04:31:37Z",
+    "url": "https://github.com/tns15june/langfuse-agent-cli"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8975,
+    "updated_at": "2026-10-26T04:16:24Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "Evidently AI \u2014 independent third-party profile of a public API surface, by API Evangelist. Evidently AI is an open-sourc",
@@ -25,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-10-26T04:16:13Z",
     "url": "https://github.com/api-evangelist/evidently"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-26T04:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
@@ -59,7 +95,7 @@
     "language": "Python",
     "name": "overmind-core/overmind",
     "stars": 682,
-    "updated_at": "2026-10-26T04:09:41Z",
+    "updated_at": "2026-10-26T04:33:36Z",
     "url": "https://github.com/overmind-core/overmind"
   },
   {
@@ -67,8 +103,8 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 28533,
-    "updated_at": "2026-10-26T04:06:51Z",
+    "stars": 28534,
+    "updated_at": "2026-10-26T04:43:42Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -90,6 +126,15 @@
     "url": "https://github.com/valteresj2/agent-hangar"
   },
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26429,
+    "updated_at": "2026-10-26T04:44:12Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
     "id": "sarkars/agent-failure-modes",
     "language": "Python",
@@ -104,7 +149,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4991,
-    "updated_at": "2026-10-26T04:25:48Z",
+    "updated_at": "2026-10-26T04:41:12Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -124,15 +169,6 @@
     "stars": 775,
     "updated_at": "2026-10-26T03:54:43Z",
     "url": "https://github.com/Haohao-end/openagent"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26428,
-    "updated_at": "2026-10-26T04:02:07Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
@@ -196,33 +232,6 @@
     "stars": 42,
     "updated_at": "2026-10-26T03:54:00Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 62037,
-    "updated_at": "2026-10-26T04:08:31Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8974,
-    "updated_at": "2026-10-26T04:16:24Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Lightweight reverse proxy that logs per-request inference metrics (tokens, tokens/sec, time to first token, duration) fo",
-    "id": "juusolatva/metrics_proxy",
-    "language": "Go",
-    "name": "juusolatva/metrics_proxy",
-    "stars": 0,
-    "updated_at": "2026-10-26T03:38:08Z",
-    "url": "https://github.com/juusolatva/metrics_proxy"
   },
   {
     "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
@@ -302,17 +311,8 @@
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 128,
-    "updated_at": "2026-10-26T04:11:34Z",
+    "updated_at": "2026-10-26T04:41:26Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-26T03:00:46Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "One control plane for every AI asset \u2014 MCP servers, skills, agents, AI apps. Self-hosted ledger with lifecycle state mac",
