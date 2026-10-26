@@ -1,12 +1,66 @@
 [
   {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 401,
+    "updated_at": "2026-10-26T23:13:49Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
+    "id": "dynamiq-ai/dynamiq",
+    "language": "Python",
+    "name": "dynamiq-ai/dynamiq",
+    "stars": 1071,
+    "updated_at": "2026-10-26T23:13:14Z",
+    "url": "https://github.com/dynamiq-ai/dynamiq"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 62082,
-    "updated_at": "2026-10-26T23:00:03Z",
+    "updated_at": "2026-10-26T23:13:45Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-26T23:07:32Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-10-26T23:06:35Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Source for kooexperience.com, Haoming Koo\u2019s applied AI engineering portfolio with live products, case studies, structure",
+    "id": "haomingkoo/haomingkoo.github.io",
+    "language": "HTML",
+    "name": "haomingkoo/haomingkoo.github.io",
+    "stars": 0,
+    "updated_at": "2026-10-26T23:05:11Z",
+    "url": "https://github.com/haomingkoo/haomingkoo.github.io"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-26T23:00:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Agentic Runtime",
@@ -32,7 +86,7 @@
     "language": "Python",
     "name": "Traigent/tvl",
     "stars": 0,
-    "updated_at": "2026-10-26T22:59:53Z",
+    "updated_at": "2026-10-26T23:02:01Z",
     "url": "https://github.com/Traigent/tvl"
   },
   {
@@ -50,7 +104,7 @@
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 129,
-    "updated_at": "2026-10-26T22:55:30Z",
+    "updated_at": "2026-10-26T23:13:47Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -68,26 +122,8 @@
     "language": "Python",
     "name": "MukulRay1603/Irminsul",
     "stars": 6,
-    "updated_at": "2026-10-26T22:53:49Z",
+    "updated_at": "2026-10-26T23:15:24Z",
     "url": "https://github.com/MukulRay1603/Irminsul"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-26T22:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-10-26T22:38:58Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "Enterprise Scale AIFactory (esml) - on Azure",
@@ -106,15 +142,6 @@
     "stars": 22948,
     "updated_at": "2026-10-26T22:50:24Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Source for kooexperience.com, Haoming Koo\u2019s applied AI engineering portfolio with live products, case studies, structure",
-    "id": "haomingkoo/haomingkoo.github.io",
-    "language": "HTML",
-    "name": "haomingkoo/haomingkoo.github.io",
-    "stars": 0,
-    "updated_at": "2026-10-26T22:30:47Z",
-    "url": "https://github.com/haomingkoo/haomingkoo.github.io"
   },
   {
     "description": "OpenTelemetry Instrumentation for AI Observability",
@@ -180,21 +207,12 @@
     "url": "https://github.com/respanai/respan-gateway"
   },
   {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-26T22:09:35Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
     "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
     "id": "rrahimi-uci/caliber-suite",
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 2,
-    "updated_at": "2026-10-26T22:56:32Z",
+    "updated_at": "2026-10-26T23:12:36Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -239,7 +257,7 @@
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 705,
-    "updated_at": "2026-10-26T22:35:43Z",
+    "updated_at": "2026-10-26T23:06:23Z",
     "url": "https://github.com/Abilityai/trinity"
   },
   {
@@ -313,15 +331,6 @@
     "stars": 1,
     "updated_at": "2026-10-26T21:21:01Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 401,
-    "updated_at": "2026-10-26T21:15:04Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
     "description": "Benchmarking vision-language models for handwritten form extraction with confidence flags and human review.",
@@ -439,14 +448,5 @@
     "stars": 7,
     "updated_at": "2026-10-26T19:46:50Z",
     "url": "https://github.com/KushagraKanaujia/throttle"
-  },
-  {
-    "description": "Lightweight reverse proxy that logs per-request inference metrics (tokens, tokens/sec, time to first token, duration) fo",
-    "id": "juusolatva/metrics_proxy",
-    "language": "Go",
-    "name": "juusolatva/metrics_proxy",
-    "stars": 0,
-    "updated_at": "2026-10-26T19:39:31Z",
-    "url": "https://github.com/juusolatva/metrics_proxy"
   }
 ]
