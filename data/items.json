@@ -1,11 +1,137 @@
 [
   {
+    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
+    "id": "NVIDIA-NeMo/nemo-helix",
+    "language": "Python",
+    "name": "NVIDIA-NeMo/nemo-helix",
+    "stars": 128,
+    "updated_at": "2026-10-26T12:28:54Z",
+    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 400,
+    "updated_at": "2026-10-26T12:30:01Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 9683,
+    "updated_at": "2026-10-26T12:27:28Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Source for kooexperience.com, Haoming Koo\u2019s applied AI engineering portfolio with live products, case studies, structure",
+    "id": "haomingkoo/haomingkoo.github.io",
+    "language": "HTML",
+    "name": "haomingkoo/haomingkoo.github.io",
+    "stars": 0,
+    "updated_at": "2026-10-26T12:26:19Z",
+    "url": "https://github.com/haomingkoo/haomingkoo.github.io"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 207,
+    "updated_at": "2026-10-26T12:23:44Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
+    "language": "Python",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 53,
+    "updated_at": "2026-10-26T12:22:52Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
+    "description": "Scheduled agent tasks for your repositories, defined in Git. Approved access, sandboxed runs, a full audit trail.",
+    "id": "piotrekno1/second-shift",
+    "language": "Python",
+    "name": "piotrekno1/second-shift",
+    "stars": 1,
+    "updated_at": "2026-10-26T12:26:15Z",
+    "url": "https://github.com/piotrekno1/second-shift"
+  },
+  {
+    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
+    "id": "AixleHQ/flow",
+    "language": "Ruby",
+    "name": "AixleHQ/flow",
+    "stars": 27,
+    "updated_at": "2026-10-26T12:21:49Z",
+    "url": "https://github.com/AixleHQ/flow"
+  },
+  {
+    "description": "Terraform for your own LLMs: an open-source CLI that deploys vLLM and llama.cpp to your own machine or to GPU cloud prov",
+    "id": "andypalmi/amicu",
+    "language": "Rust",
+    "name": "andypalmi/amicu",
+    "stars": 1,
+    "updated_at": "2026-10-26T12:21:02Z",
+    "url": "https://github.com/andypalmi/amicu"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 2,
+    "updated_at": "2026-10-26T12:21:36Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "Handbook t\u00e9cnico aberto sobre engenharia de IA em produ\u00e7\u00e3o: ML tradicional, LLMs, RAG, agentes, seguran\u00e7a, observabilida",
+    "id": "ruanpato/production-ai-engineering",
+    "language": "Markdown",
+    "name": "ruanpato/production-ai-engineering",
+    "stars": 1,
+    "updated_at": "2026-10-26T12:17:19Z",
+    "url": "https://github.com/ruanpato/production-ai-engineering"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28537,
+    "updated_at": "2026-10-26T12:18:25Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
+    "id": "dyronrh/awesome-agentops-landscape",
+    "language": "Python",
+    "name": "dyronrh/awesome-agentops-landscape",
+    "stars": 23,
+    "updated_at": "2026-10-26T12:15:46Z",
+    "url": "https://github.com/dyronrh/awesome-agentops-landscape"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-26T12:15:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "What if OpenAI Deep Research and Dify were one platform? OpenAgent \u2014 harness architecture for rapidly building vertical ",
     "id": "Haohao-end/openagent",
     "language": "Python",
     "name": "Haohao-end/openagent",
     "stars": 774,
-    "updated_at": "2026-10-26T12:14:24Z",
+    "updated_at": "2026-10-26T12:23:19Z",
     "url": "https://github.com/Haohao-end/openagent"
   },
   {
@@ -23,7 +149,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22933,
-    "updated_at": "2026-10-26T12:14:07Z",
+    "updated_at": "2026-10-26T12:30:18Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -40,7 +166,7 @@
     "id": "vllm-project/vllm-ascend",
     "language": "Python",
     "name": "vllm-project/vllm-ascend",
-    "stars": 3016,
+    "stars": 3017,
     "updated_at": "2026-10-26T12:12:31Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
@@ -59,7 +185,7 @@
     "language": "JavaScript",
     "name": "cubxxw/blog",
     "stars": 30,
-    "updated_at": "2026-10-26T12:08:17Z",
+    "updated_at": "2026-10-26T12:28:29Z",
     "url": "https://github.com/cubxxw/blog"
   },
   {
@@ -72,15 +198,6 @@
     "url": "https://github.com/langfuse/langfuse"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28537,
-    "updated_at": "2026-10-26T12:15:01Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
     "id": "SourceShift/mini-ork",
     "language": "Python",
@@ -88,33 +205,6 @@
     "stars": 32,
     "updated_at": "2026-10-26T12:02:26Z",
     "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Terraform for your own LLMs: an open-source CLI that deploys vLLM and llama.cpp to your own machine or to GPU cloud prov",
-    "id": "andypalmi/amicu",
-    "language": "Rust",
-    "name": "andypalmi/amicu",
-    "stars": 1,
-    "updated_at": "2026-10-26T12:13:31Z",
-    "url": "https://github.com/andypalmi/amicu"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-26T12:00:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
-    "id": "AixleHQ/flow",
-    "language": "Ruby",
-    "name": "AixleHQ/flow",
-    "stars": 27,
-    "updated_at": "2026-10-26T12:14:05Z",
-    "url": "https://github.com/AixleHQ/flow"
   },
   {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
@@ -140,7 +230,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4991,
-    "updated_at": "2026-10-26T12:11:32Z",
+    "updated_at": "2026-10-26T12:21:24Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -158,7 +248,7 @@
     "language": "Rust",
     "name": "f8fvwgzc/agent-sidecar",
     "stars": 0,
-    "updated_at": "2026-10-26T11:46:58Z",
+    "updated_at": "2026-10-26T12:18:02Z",
     "url": "https://github.com/f8fvwgzc/agent-sidecar"
   },
   {
@@ -207,15 +297,6 @@
     "url": "https://github.com/admina-org/admina"
   },
   {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 9682,
-    "updated_at": "2026-10-26T11:41:27Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
     "id": "mozilla-ai/otari",
     "language": "Python",
@@ -230,7 +311,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 2203,
-    "updated_at": "2026-10-26T12:09:09Z",
+    "updated_at": "2026-10-26T12:16:01Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -337,7 +418,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 62061,
+    "stars": 62063,
     "updated_at": "2026-10-26T11:06:10Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-26T11:03:20Z",
     "url": "https://github.com/sindhanAIstudio/GenAILabDocs"
-  },
-  {
-    "description": "Regression gate for LLM applications in CI: a GitHub Action that fails a pull request when it scores worse than the comm",
-    "id": "digline/digline-action",
-    "language": "Shell",
-    "name": "digline/digline-action",
-    "stars": 0,
-    "updated_at": "2026-10-26T11:00:44Z",
-    "url": "https://github.com/digline/digline-action"
-  },
-  {
-    "description": "Python SDK for Cycles \u2014 reserve, commit, release budget and risk for AI agents",
-    "id": "runcycles/cycles-client-python",
-    "language": "Python",
-    "name": "runcycles/cycles-client-python",
-    "stars": 0,
-    "updated_at": "2026-10-26T10:54:35Z",
-    "url": "https://github.com/runcycles/cycles-client-python"
-  },
-  {
-    "description": "MCP budget and risk authority for Cycles \u2014 runtime governance for Claude, Cursor, and Windsurf",
-    "id": "runcycles/cycles-mcp-server",
-    "language": "TypeScript",
-    "name": "runcycles/cycles-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-10-26T10:54:31Z",
-    "url": "https://github.com/runcycles/cycles-mcp-server"
-  },
-  {
-    "description": "TypeScript SDK for Cycles \u2014 runtime budget and action authority for Node.js AI agents",
-    "id": "runcycles/cycles-client-typescript",
-    "language": "TypeScript",
-    "name": "runcycles/cycles-client-typescript",
-    "stars": 0,
-    "updated_at": "2026-10-26T10:54:26Z",
-    "url": "https://github.com/runcycles/cycles-client-typescript"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-26T10:52:52Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Open protocol for runtime budget and action authority over AI agents",
-    "id": "runcycles/cycles-protocol",
-    "language": "Python",
-    "name": "runcycles/cycles-protocol",
-    "stars": 4,
-    "updated_at": "2026-10-26T10:50:35Z",
-    "url": "https://github.com/runcycles/cycles-protocol"
-  },
-  {
-    "description": "AI agent governance dashboard for Cycles \u2014 budgets, action authority, tenants, webhooks, reservations, audit",
-    "id": "runcycles/cycles-dashboard",
-    "language": "TypeScript",
-    "name": "runcycles/cycles-dashboard",
-    "stars": 0,
-    "updated_at": "2026-10-26T10:50:14Z",
-    "url": "https://github.com/runcycles/cycles-dashboard"
-  },
-  {
-    "description": "LangChain agent middleware for Cycles \u2014 pre-tool-call authorization and per-tenant budget enforcement for Python agents ",
-    "id": "runcycles/langchain-runcycles",
-    "language": "Python",
-    "name": "runcycles/langchain-runcycles",
-    "stars": 0,
-    "updated_at": "2026-10-26T10:50:02Z",
-    "url": "https://github.com/runcycles/langchain-runcycles"
-  },
-  {
-    "description": "Budget governance for OpenAI Agents SDK \u2014 enforce cost limits before tools execute",
-    "id": "runcycles/cycles-openai-agents",
-    "language": "Python",
-    "name": "runcycles/cycles-openai-agents",
-    "stars": 0,
-    "updated_at": "2026-10-26T10:49:56Z",
-    "url": "https://github.com/runcycles/cycles-openai-agents"
   }
 ]
