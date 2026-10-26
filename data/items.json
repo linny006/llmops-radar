@@ -1,12 +1,84 @@
 [
   {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 42,
+    "updated_at": "2026-10-26T20:59:46Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 62079,
-    "updated_at": "2026-10-26T20:44:35Z",
+    "updated_at": "2026-10-26T20:58:54Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-26T20:58:11Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28544,
+    "updated_at": "2026-10-26T20:58:51Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-10-26T20:53:24Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Temporal workers and clients for wrapping access to different LLMs",
+    "id": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "language": "Go",
+    "name": "Analytical-Tradecraft-Technologies/llm-temporal-worker",
+    "stars": 1,
+    "updated_at": "2026-10-26T20:56:45Z",
+    "url": "https://github.com/Analytical-Tradecraft-Technologies/llm-temporal-worker"
+  },
+  {
+    "description": "Market Metrics is an autonomous market-intelligence platform designed to transform product ideas into structured, eviden",
+    "id": "721189/Market-Metrics",
+    "language": "TypeScript",
+    "name": "721189/Market-Metrics",
+    "stars": 1,
+    "updated_at": "2026-10-26T20:48:56Z",
+    "url": "https://github.com/721189/Market-Metrics"
+  },
+  {
+    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 2,
+    "updated_at": "2026-10-26T20:46:04Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-26T20:45:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Benchmarking vision-language models for handwritten form extraction with confidence flags and human review.",
@@ -23,7 +95,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 2,
-    "updated_at": "2026-10-26T20:38:44Z",
+    "updated_at": "2026-10-26T20:49:25Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -31,7 +103,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 9693,
+    "stars": 9694,
     "updated_at": "2026-10-26T20:37:27Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -45,24 +117,6 @@
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
-    "description": "Market Metrics is an autonomous market-intelligence platform designed to transform product ideas into structured, eviden",
-    "id": "721189/Market-Metrics",
-    "language": "TypeScript",
-    "name": "721189/Market-Metrics",
-    "stars": 1,
-    "updated_at": "2026-10-26T20:35:02Z",
-    "url": "https://github.com/721189/Market-Metrics"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 42,
-    "updated_at": "2026-10-26T20:34:39Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
     "id": "srjn45/warden",
     "language": "Go",
@@ -72,15 +126,6 @@
     "url": "https://github.com/srjn45/warden"
   },
   {
-    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 2,
-    "updated_at": "2026-10-26T20:33:47Z",
-    "url": "https://github.com/a-novel/service-genai"
-  },
-  {
     "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
     "id": "hjongc/openrouter-endpoint-watch",
     "language": "Python",
@@ -88,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-26T20:32:30Z",
     "url": "https://github.com/hjongc/openrouter-endpoint-watch"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-26T20:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Fine-tuned Llama 3.1 8B \u00b7 QLoRA \u00b7 RAG serving stack \u00b7 FastAPI \u00b7 Pinecone \u00b7 Azure",
@@ -115,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-26T20:20:42Z",
     "url": "https://github.com/Tojoarisoa/aidataboon"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-10-26T20:19:42Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "The operations layer for your local LLM stack",
@@ -194,7 +221,7 @@
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 129,
-    "updated_at": "2026-10-26T20:39:42Z",
+    "updated_at": "2026-10-26T20:59:14Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -225,21 +252,12 @@
     "url": "https://github.com/naim-munshi/metriqen-llm-serving-optimization"
   },
   {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-26T19:56:19Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 36537,
-    "updated_at": "2026-10-26T19:54:46Z",
+    "updated_at": "2026-10-26T20:59:35Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -250,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-10-26T19:54:25Z",
     "url": "https://github.com/dberanjr/AIObservability3.0"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28544,
-    "updated_at": "2026-10-26T19:52:15Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
@@ -439,14 +448,5 @@
     "stars": 96,
     "updated_at": "2026-10-26T19:25:32Z",
     "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 4,
-    "updated_at": "2026-10-26T18:46:17Z",
-    "url": "https://github.com/vivek-541/vivek-541"
   }
 ]
