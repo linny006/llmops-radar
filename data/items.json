@@ -1,12 +1,66 @@
 [
   {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 96,
+    "updated_at": "2026-10-26T00:13:13Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "A self-hosted OpenAI-compatible proxy and web app for debugging, testing, and improving AI agents.",
+    "id": "NordsteinSoftware/Proxytrace",
+    "language": "C#",
+    "name": "NordsteinSoftware/Proxytrace",
+    "stars": 3,
+    "updated_at": "2026-10-26T00:09:28Z",
+    "url": "https://github.com/NordsteinSoftware/Proxytrace"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8969,
+    "updated_at": "2026-10-26T00:09:16Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22920,
+    "updated_at": "2026-10-26T00:08:53Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-26T00:02:52Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 42,
-    "updated_at": "2026-10-26T00:00:05Z",
+    "updated_at": "2026-10-26T00:00:59Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-26T00:00:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -34,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-10-25T23:48:43Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-25T23:45:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI trust-boundary gateway for OpenAI, Anthropic, and Gemini.",
@@ -77,7 +122,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-25T23:58:19Z",
+    "updated_at": "2026-10-26T00:04:48Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -86,7 +131,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 2,
-    "updated_at": "2026-10-25T23:41:50Z",
+    "updated_at": "2026-10-26T00:10:47Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -95,7 +140,7 @@
     "language": "Python",
     "name": "cloudrift-ai/emmy",
     "stars": 117,
-    "updated_at": "2026-10-25T23:59:14Z",
+    "updated_at": "2026-10-26T00:11:12Z",
     "url": "https://github.com/cloudrift-ai/emmy"
   },
   {
@@ -189,15 +234,6 @@
     "url": "https://github.com/coreymcd37/ai-efficiency-optimizer-prompt"
   },
   {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-25T22:56:54Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
     "description": "Seldon \u2014 independent third-party profile of a public API surface, by API Evangelist. Seldon is a Kubernetes-native MLOps",
     "id": "api-evangelist/seldon",
     "language": "\u2014",
@@ -257,7 +293,7 @@
     "language": "Python",
     "name": "llmspendguard/llm-spendguard",
     "stars": 0,
-    "updated_at": "2026-10-25T23:37:23Z",
+    "updated_at": "2026-10-26T00:07:29Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
@@ -284,7 +320,7 @@
     "language": "Go",
     "name": "srjn45/warden",
     "stars": 2,
-    "updated_at": "2026-10-25T23:57:30Z",
+    "updated_at": "2026-10-26T00:13:33Z",
     "url": "https://github.com/srjn45/warden"
   },
   {
@@ -369,15 +405,6 @@
     "url": "https://github.com/Yash-Chindam/llm-security-agent-guardrail-gateway"
   },
   {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8969,
-    "updated_at": "2026-10-25T23:32:31Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
     "description": "Dify \u2014 independent third-party profile of a public API surface, by API Evangelist. Dify is an open-source platform for b",
     "id": "api-evangelist/dify",
     "language": "\u2014",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-25T22:05:45Z",
     "url": "https://github.com/prasad-kavuri/prasad-portfolio"
-  },
-  {
-    "description": "Multi-agent IT/HR help desk on LangChain + LangGraph: ReAct-style sub-agents, hybrid RAG, HITL GitHub tickets. Prompt, c",
-    "id": "pbhat123/SmartDesk_AI",
-    "language": "Python",
-    "name": "pbhat123/SmartDesk_AI",
-    "stars": 0,
-    "updated_at": "2026-10-25T22:01:26Z",
-    "url": "https://github.com/pbhat123/SmartDesk_AI"
-  },
-  {
-    "description": "Audit trail database for AI agents. Tamper-evident, checksum-backed decision logs with session replay and time-travel de",
-    "id": "ZIZKA-AI-SL/ZizkaDB",
-    "language": "Python",
-    "name": "ZIZKA-AI-SL/ZizkaDB",
-    "stars": 146,
-    "updated_at": "2026-10-25T21:55:52Z",
-    "url": "https://github.com/ZIZKA-AI-SL/ZizkaDB"
-  },
-  {
-    "description": "Governed AI agents as a Kubernetes sidecar: policy-as-code charters, mTLS/SPIFFE identity, budgets, guardrails and JSONL",
-    "id": "f8fvwgzc/agent-sidecar",
-    "language": "Rust",
-    "name": "f8fvwgzc/agent-sidecar",
-    "stars": 0,
-    "updated_at": "2026-10-25T22:11:46Z",
-    "url": "https://github.com/f8fvwgzc/agent-sidecar"
   }
 ]
