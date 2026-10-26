@@ -1,5 +1,32 @@
 [
   {
+    "description": "Terraform provider for Anthropic and Claude organizations: workspaces, members, invites, API keys, service accounts, wor",
+    "id": "uttej-badwane/terraform-provider-anthropic-enterprise",
+    "language": "Go",
+    "name": "uttej-badwane/terraform-provider-anthropic-enterprise",
+    "stars": 0,
+    "updated_at": "2026-10-26T06:34:49Z",
+    "url": "https://github.com/uttej-badwane/terraform-provider-anthropic-enterprise"
+  },
+  {
+    "description": "LLM gateway that enforces per-tenant token budgets across replicas without overshooting \u2014 with published load tests",
+    "id": "saikirankalidindi/flowgate",
+    "language": "Python",
+    "name": "saikirankalidindi/flowgate",
+    "stars": 0,
+    "updated_at": "2026-10-26T06:32:46Z",
+    "url": "https://github.com/saikirankalidindi/flowgate"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-26T06:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI trust-boundary gateway for OpenAI, Anthropic, and Gemini.",
     "id": "GetSHIM/shim",
     "language": "Python",
@@ -45,15 +72,6 @@
     "url": "https://github.com/golikovichev/pytest-resilience-agent"
   },
   {
-    "description": "LLM gateway that enforces per-tenant token budgets across replicas without overshooting \u2014 with published load tests",
-    "id": "saikirankalidindi/flowgate",
-    "language": "Python",
-    "name": "saikirankalidindi/flowgate",
-    "stars": 0,
-    "updated_at": "2026-10-26T06:20:24Z",
-    "url": "https://github.com/saikirankalidindi/flowgate"
-  },
-  {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
     "id": "toxicwind/ranch",
     "language": "Rust",
@@ -90,22 +108,22 @@
     "url": "https://github.com/gabrielk83/AntCV"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-26T06:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "What if OpenAI Deep Research and Dify were one platform? OpenAgent \u2014 harness architecture for rapidly building vertical ",
     "id": "Haohao-end/openagent",
     "language": "Python",
     "name": "Haohao-end/openagent",
     "stars": 775,
-    "updated_at": "2026-10-26T06:14:58Z",
+    "updated_at": "2026-10-26T06:38:27Z",
     "url": "https://github.com/Haohao-end/openagent"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 62043,
+    "updated_at": "2026-10-26T06:11:55Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
@@ -144,20 +162,11 @@
     "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 62042,
-    "updated_at": "2026-10-26T06:11:55Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 22927,
+    "stars": 22928,
     "updated_at": "2026-10-26T05:54:31Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -257,7 +266,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4991,
-    "updated_at": "2026-10-26T06:17:25Z",
+    "updated_at": "2026-10-26T06:40:02Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -284,7 +293,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 12078,
-    "updated_at": "2026-10-26T06:18:35Z",
+    "updated_at": "2026-10-26T06:37:54Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -419,7 +428,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28534,
-    "updated_at": "2026-10-26T06:29:29Z",
+    "updated_at": "2026-10-26T06:30:40Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-26T04:06:00Z",
     "url": "https://github.com/valteresj2/agent-hangar"
-  },
-  {
-    "description": "Production-grade self-hosted LLM inference platform \u2014 FastAPI gateway with JWT auth, fine-grained per-model authorizatio",
-    "id": "Root1V/prometheus-inference-platform",
-    "language": "Python",
-    "name": "Root1V/prometheus-inference-platform",
-    "stars": 1,
-    "updated_at": "2026-10-26T03:54:54Z",
-    "url": "https://github.com/Root1V/prometheus-inference-platform"
   }
 ]
