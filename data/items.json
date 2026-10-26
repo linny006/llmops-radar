@@ -1,11 +1,92 @@
 [
   {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 737,
+    "updated_at": "2026-10-26T08:00:00Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-26T07:58:30Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
+    "id": "digline/digline",
+    "language": "Python",
+    "name": "digline/digline",
+    "stars": 9,
+    "updated_at": "2026-10-26T07:57:44Z",
+    "url": "https://github.com/digline/digline"
+  },
+  {
+    "description": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-",
+    "id": "Yigtwxx/awesome-rag-production",
+    "language": "Python",
+    "name": "Yigtwxx/awesome-rag-production",
+    "stars": 283,
+    "updated_at": "2026-10-26T07:56:47Z",
+    "url": "https://github.com/Yigtwxx/awesome-rag-production"
+  },
+  {
+    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 220+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
+    "id": "cuihuan/awesome-ai-gateway",
+    "language": "HTML",
+    "name": "cuihuan/awesome-ai-gateway",
+    "stars": 137,
+    "updated_at": "2026-10-26T07:55:19Z",
+    "url": "https://github.com/cuihuan/awesome-ai-gateway"
+  },
+  {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 207,
+    "updated_at": "2026-10-26T07:53:36Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
+    "id": "gabrielk83/AntCV",
+    "language": "JavaScript",
+    "name": "gabrielk83/AntCV",
+    "stars": 1,
+    "updated_at": "2026-10-26T07:51:35Z",
+    "url": "https://github.com/gabrielk83/AntCV"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-10-26T07:51:32Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-26T07:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28536,
-    "updated_at": "2026-10-26T07:44:11Z",
+    "updated_at": "2026-10-26T07:54:14Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -23,8 +104,17 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1375,
-    "updated_at": "2026-10-26T07:40:27Z",
+    "updated_at": "2026-10-26T07:54:17Z",
     "url": "https://github.com/alibaba/rtp-llm"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 62047,
+    "updated_at": "2026-10-26T07:39:58Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
@@ -50,17 +140,8 @@
     "language": "Python",
     "name": "Haohao-end/openagent",
     "stars": 774,
-    "updated_at": "2026-10-26T07:30:45Z",
+    "updated_at": "2026-10-26T07:51:24Z",
     "url": "https://github.com/Haohao-end/openagent"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-26T07:30:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\u7aef\u5230\u7aef\u667a\u80fd\u4f53\u5e73\u53f0\uff1a\u628a\u672c\u673a\u7684 AI Agent \u53d8\u6210\u4eba\u4eba\u53ef\u7528\u7684 Web \u4ea7\u54c1\uff08Vue 3 + Flask + Go WS \u7f51\u5173 + Docker \u90e8\u7f72\uff09",
@@ -94,18 +175,9 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 36499,
+    "stars": 36500,
     "updated_at": "2026-10-26T07:27:35Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 737,
-    "updated_at": "2026-10-26T07:24:39Z",
-    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "Self-hostable AI token pools \u2014 govern your org's AI usage with per-member keys, quotas, and leak detection; or deposit s",
@@ -126,6 +198,15 @@
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "Python",
+    "name": "dataelement/bisheng",
+    "stars": 12079,
+    "updated_at": "2026-10-26T07:19:19Z",
+    "url": "https://github.com/dataelement/bisheng"
+  },
+  {
     "description": "CloudGuard \u2014 6-Part Production Gemma Enterprise Agent Platform (Google ADK, Cloud Run L4 GPU, vLLM, Firestore, Model Arm",
     "id": "RobinaMirbahar/cloudguard-gemma-agent",
     "language": "Python",
@@ -140,7 +221,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4991,
-    "updated_at": "2026-10-26T07:42:32Z",
+    "updated_at": "2026-10-26T08:00:23Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -153,15 +234,6 @@
     "url": "https://github.com/arav7781/TREADOPS"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 62046,
-    "updated_at": "2026-10-26T07:39:58Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -169,15 +241,6 @@
     "stars": 42,
     "updated_at": "2026-10-26T07:03:52Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-26T06:58:36Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
     "description": "Token budgets that hold: a self-hosted LLM gateway that enforces per-tenant token budgets across replicas without oversh",
@@ -239,7 +302,7 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 42,
-    "updated_at": "2026-10-26T06:43:33Z",
+    "updated_at": "2026-10-26T07:54:03Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
@@ -266,7 +329,7 @@
     "language": "Python",
     "name": "GetSHIM/shim",
     "stars": 9,
-    "updated_at": "2026-10-26T06:29:29Z",
+    "updated_at": "2026-10-26T07:50:11Z",
     "url": "https://github.com/GetSHIM/shim"
   },
   {
@@ -313,15 +376,6 @@
     "stars": 8,
     "updated_at": "2026-10-26T06:18:00Z",
     "url": "https://github.com/admina-org/admina"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 1,
-    "updated_at": "2026-10-26T06:16:34Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   },
   {
     "description": "TensorZero \u2014 independent third-party profile of a public API surface, by API Evangelist. TensorZero is an open-source, s",
@@ -394,59 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-26T05:34:48Z",
     "url": "https://github.com/delivstat/swarmkit"
-  },
-  {
-    "description": "Multi-agent customer support on Google ADK with guardrails, human-in-the-loop approval and an evaluation suite.",
-    "id": "Dinakara-Prabhu-A/adk-multi-agent-support",
-    "language": "Python",
-    "name": "Dinakara-Prabhu-A/adk-multi-agent-support",
-    "stars": 0,
-    "updated_at": "2026-10-26T05:26:16Z",
-    "url": "https://github.com/Dinakara-Prabhu-A/adk-multi-agent-support"
-  },
-  {
-    "description": "Arize Phoenix \u2014 independent third-party profile of a public API surface, by API Evangelist. Arize Phoenix is an open-sou",
-    "id": "api-evangelist/phoenix",
-    "language": "\u2014",
-    "name": "api-evangelist/phoenix",
-    "stars": 0,
-    "updated_at": "2026-10-26T05:24:52Z",
-    "url": "https://github.com/api-evangelist/phoenix"
-  },
-  {
-    "description": "Opik \u2014 independent third-party profile of a public API surface, by API Evangelist. Opik is an open-source LLM evaluation",
-    "id": "api-evangelist/opik",
-    "language": "\u2014",
-    "name": "api-evangelist/opik",
-    "stars": 0,
-    "updated_at": "2026-10-26T05:18:12Z",
-    "url": "https://github.com/api-evangelist/opik"
-  },
-  {
-    "description": "Nagizaaz Shaik \u2014 ML & AI Systems Engineer",
-    "id": "shaikn6/shaikn6",
-    "language": "Python",
-    "name": "shaikn6/shaikn6",
-    "stars": 0,
-    "updated_at": "2026-10-26T05:18:25Z",
-    "url": "https://github.com/shaikn6/shaikn6"
-  },
-  {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "Python",
-    "name": "dataelement/bisheng",
-    "stars": 12078,
-    "updated_at": "2026-10-26T07:19:19Z",
-    "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "Audit any agent decision across its past, present, and future, on one typed graph.",
-    "id": "yzhao062/auditable",
-    "language": "Python",
-    "name": "yzhao062/auditable",
-    "stars": 29,
-    "updated_at": "2026-10-26T05:09:24Z",
-    "url": "https://github.com/yzhao062/auditable"
   }
 ]
