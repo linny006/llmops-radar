@@ -1,5 +1,59 @@
 [
   {
+    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
+    "id": "AixleHQ/flow",
+    "language": "Ruby",
+    "name": "AixleHQ/flow",
+    "stars": 27,
+    "updated_at": "2026-10-26T10:43:35Z",
+    "url": "https://github.com/AixleHQ/flow"
+  },
+  {
+    "description": "Deterministic trace-based integration testing for LLM apps",
+    "id": "barzoj-co/llmentary",
+    "language": "Go",
+    "name": "barzoj-co/llmentary",
+    "stars": 0,
+    "updated_at": "2026-10-26T10:43:57Z",
+    "url": "https://github.com/barzoj-co/llmentary"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 400,
+    "updated_at": "2026-10-26T10:39:22Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "What if OpenAI Deep Research and Dify were one platform? OpenAgent \u2014 harness architecture for rapidly building vertical ",
+    "id": "Haohao-end/openagent",
+    "language": "Python",
+    "name": "Haohao-end/openagent",
+    "stars": 774,
+    "updated_at": "2026-10-26T10:35:21Z",
+    "url": "https://github.com/Haohao-end/openagent"
+  },
+  {
+    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
+    "id": "digline/digline",
+    "language": "Python",
+    "name": "digline/digline",
+    "stars": 9,
+    "updated_at": "2026-10-26T10:34:59Z",
+    "url": "https://github.com/digline/digline"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-26T10:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
     "id": "a-novel/service-genai",
     "language": "Go",
@@ -25,15 +79,6 @@
     "stars": 72,
     "updated_at": "2026-10-26T10:23:56Z",
     "url": "https://github.com/radicalbit/radicalbit-ai-gateway"
-  },
-  {
-    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
-    "id": "AixleHQ/flow",
-    "language": "Ruby",
-    "name": "AixleHQ/flow",
-    "stars": 27,
-    "updated_at": "2026-10-26T10:23:42Z",
-    "url": "https://github.com/AixleHQ/flow"
   },
   {
     "description": "AI agent execution governance: pre-effect authorization, single-use permissions, policy enforcement, and verifiable reco",
@@ -63,12 +108,21 @@
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 9679,
+    "updated_at": "2026-10-26T10:22:09Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
     "description": "",
     "id": "ainsel-project/ainsel",
     "language": "Go",
     "name": "ainsel-project/ainsel",
     "stars": 2,
-    "updated_at": "2026-10-26T10:28:13Z",
+    "updated_at": "2026-10-26T10:32:06Z",
     "url": "https://github.com/ainsel-project/ainsel"
   },
   {
@@ -77,7 +131,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22931,
-    "updated_at": "2026-10-26T10:21:39Z",
+    "updated_at": "2026-10-26T10:34:29Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -108,15 +162,6 @@
     "url": "https://github.com/SourceShift/mini-ork"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-26T10:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
     "id": "toxicwind/ranch",
     "language": "Rust",
@@ -140,7 +185,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28537,
-    "updated_at": "2026-10-26T10:26:25Z",
+    "updated_at": "2026-10-26T10:44:40Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -149,7 +194,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4991,
-    "updated_at": "2026-10-26T10:26:52Z",
+    "updated_at": "2026-10-26T10:33:42Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -167,7 +212,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 36510,
-    "updated_at": "2026-10-26T10:29:26Z",
+    "updated_at": "2026-10-26T10:42:20Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -185,7 +230,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 738,
-    "updated_at": "2026-10-26T10:17:29Z",
+    "updated_at": "2026-10-26T10:35:35Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -196,6 +241,15 @@
     "stars": 1,
     "updated_at": "2026-10-26T10:00:29Z",
     "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 62054,
+    "updated_at": "2026-10-26T09:58:27Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -212,7 +266,7 @@
     "language": "Go",
     "name": "maks3201/decision-model-operator",
     "stars": 1,
-    "updated_at": "2026-10-26T09:56:10Z",
+    "updated_at": "2026-10-26T10:37:17Z",
     "url": "https://github.com/maks3201/decision-model-operator"
   },
   {
@@ -248,17 +302,8 @@
     "language": "Python",
     "name": "dynamiq-ai/dynamiq",
     "stars": 1071,
-    "updated_at": "2026-10-26T10:12:36Z",
+    "updated_at": "2026-10-26T10:35:01Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
-  },
-  {
-    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
-    "id": "digline/digline",
-    "language": "Python",
-    "name": "digline/digline",
-    "stars": 9,
-    "updated_at": "2026-10-26T10:28:52Z",
-    "url": "https://github.com/digline/digline"
   },
   {
     "description": "Self-hostable AI token pools \u2014 govern your org's AI usage with per-member keys, quotas, and leak detection; or deposit s",
@@ -311,7 +356,7 @@
     "language": "Python",
     "name": "vllm-project/vllm-ascend",
     "stars": 3016,
-    "updated_at": "2026-10-26T09:38:05Z",
+    "updated_at": "2026-10-26T10:38:25Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -329,7 +374,7 @@
     "language": "TypeScript",
     "name": "openlit/openlit",
     "stars": 2884,
-    "updated_at": "2026-10-26T09:36:38Z",
+    "updated_at": "2026-10-26T10:35:03Z",
     "url": "https://github.com/openlit/openlit"
   },
   {
@@ -340,15 +385,6 @@
     "stars": 96,
     "updated_at": "2026-10-26T09:23:40Z",
     "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "What if OpenAI Deep Research and Dify were one platform? OpenAgent \u2014 harness architecture for rapidly building vertical ",
-    "id": "Haohao-end/openagent",
-    "language": "Python",
-    "name": "Haohao-end/openagent",
-    "stars": 774,
-    "updated_at": "2026-10-26T09:52:13Z",
-    "url": "https://github.com/Haohao-end/openagent"
   },
   {
     "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
@@ -387,15 +423,6 @@
     "url": "https://github.com/Amz34/awesome-agent-infrastructure"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 62053,
-    "updated_at": "2026-10-26T09:58:27Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "FastAPI backend for AgentCost: LLM event ingestion, cost attribution, budgets and analytics.",
     "id": "agentcost-ai/agentcost-backend",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 28,
     "updated_at": "2026-10-26T09:02:37Z",
     "url": "https://github.com/liaosiliangCodeLife/harness-mate-plat"
-  },
-  {
-    "description": "sindhanAI Tech Docs",
-    "id": "sindhanAIstudio/GenAILabDocs",
-    "language": "JavaScript",
-    "name": "sindhanAIstudio/GenAILabDocs",
-    "stars": 0,
-    "updated_at": "2026-10-26T09:01:36Z",
-    "url": "https://github.com/sindhanAIstudio/GenAILabDocs"
-  },
-  {
-    "description": "Next.js dashboard for AgentCost: spend by agent, workflow and model, with budget guardrails.",
-    "id": "agentcost-ai/agentcost-dashboard",
-    "language": "TypeScript",
-    "name": "agentcost-ai/agentcost-dashboard",
-    "stars": 2,
-    "updated_at": "2026-10-26T09:01:05Z",
-    "url": "https://github.com/agentcost-ai/agentcost-dashboard"
-  },
-  {
-    "description": "Daily CI-refreshed history of LLM API pricing \u2014 snapshot + append-only change log for ~2,500 chat models (CSV, CC BY 4.0",
-    "id": "sophie-nguyenthuthuy/llm-pricing-history",
-    "language": "Python",
-    "name": "sophie-nguyenthuthuy/llm-pricing-history",
-    "stars": 2,
-    "updated_at": "2026-10-26T09:00:42Z",
-    "url": "https://github.com/sophie-nguyenthuthuy/llm-pricing-history"
   }
 ]
