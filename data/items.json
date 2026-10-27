@@ -1,12 +1,84 @@
 [
   {
+    "description": "Multi-tenant, permissions-aware knowledge assistant. A portfolio project about the operational layer around an LLM app: ",
+    "id": "alexvervloet/knowledge-desk",
+    "language": "Python",
+    "name": "alexvervloet/knowledge-desk",
+    "stars": 1,
+    "updated_at": "2026-10-26T23:59:35Z",
+    "url": "https://github.com/alexvervloet/knowledge-desk"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-26T23:59:03Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-10-26T23:56:23Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
+    "language": "Python",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 53,
+    "updated_at": "2026-10-26T23:55:43Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 42,
-    "updated_at": "2026-10-26T23:44:02Z",
+    "updated_at": "2026-10-26T23:55:10Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 62084,
+    "updated_at": "2026-10-26T23:57:45Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 2,
+    "updated_at": "2026-10-26T23:53:18Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28546,
+    "updated_at": "2026-10-26T23:52:23Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-26T23:45:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
@@ -23,17 +95,8 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 2,
-    "updated_at": "2026-10-26T23:44:22Z",
+    "updated_at": "2026-10-26T23:51:03Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 2,
-    "updated_at": "2026-10-26T23:40:53Z",
-    "url": "https://github.com/a-novel/service-genai"
   },
   {
     "description": "Grafana-native LLMOps dashboards for FinOps, agents, quality and AI governance. Automated query and deployment checks, w",
@@ -41,17 +104,8 @@
     "language": "Python",
     "name": "alebgl77/grafana-llmops-forge",
     "stars": 1,
-    "updated_at": "2026-10-26T23:39:15Z",
+    "updated_at": "2026-10-26T23:50:31Z",
     "url": "https://github.com/alebgl77/grafana-llmops-forge"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 62084,
-    "updated_at": "2026-10-26T23:39:57Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Fine-tuned Llama 3.1 8B \u00b7 QLoRA \u00b7 RAG serving stack \u00b7 FastAPI \u00b7 Pinecone \u00b7 Azure",
@@ -59,7 +113,7 @@
     "language": "Python",
     "name": "MukulRay1603/Irminsul",
     "stars": 6,
-    "updated_at": "2026-10-26T23:37:24Z",
+    "updated_at": "2026-10-26T23:48:24Z",
     "url": "https://github.com/MukulRay1603/Irminsul"
   },
   {
@@ -79,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-10-26T23:44:52Z",
     "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-26T23:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Dify with Let's Encrypt Using Docker Compose",
@@ -149,7 +194,7 @@
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 706,
-    "updated_at": "2026-10-26T23:38:43Z",
+    "updated_at": "2026-10-26T23:51:48Z",
     "url": "https://github.com/Abilityai/trinity"
   },
   {
@@ -180,24 +225,6 @@
     "url": "https://github.com/Traigent/tvl"
   },
   {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-26T22:56:07Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
-    "description": "Enterprise Scale AIFactory (esml) - on Azure",
-    "id": "jostrm/azure-enterprise-scale-ml",
-    "language": "Python",
-    "name": "jostrm/azure-enterprise-scale-ml",
-    "stars": 53,
-    "updated_at": "2026-10-26T23:37:03Z",
-    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
-  },
-  {
     "description": "OpenTelemetry Instrumentation for AI Observability",
     "id": "Arize-ai/openinference",
     "language": "Python",
@@ -214,15 +241,6 @@
     "stars": 22948,
     "updated_at": "2026-10-26T22:50:24Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28546,
-    "updated_at": "2026-10-26T22:30:02Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -257,7 +275,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 2208,
-    "updated_at": "2026-10-26T22:24:38Z",
+    "updated_at": "2026-10-26T23:52:25Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -338,7 +356,7 @@
     "language": "Python",
     "name": "llmsyscore/llm-systems-manager",
     "stars": 11,
-    "updated_at": "2026-10-26T21:40:46Z",
+    "updated_at": "2026-10-26T23:49:21Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
@@ -382,7 +400,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 9697,
+    "stars": 9698,
     "updated_at": "2026-10-26T20:37:27Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-26T20:11:30Z",
     "url": "https://github.com/acornops/agentv"
-  },
-  {
-    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
-    "id": "acornops/management-console",
-    "language": "TypeScript",
-    "name": "acornops/management-console",
-    "stars": 2,
-    "updated_at": "2026-10-26T20:11:40Z",
-    "url": "https://github.com/acornops/management-console"
-  },
-  {
-    "description": "Production-grade observability and agentic AIOps for AI systems \u2014 OpenTelemetry-native across independent polyglot apps;",
-    "id": "Root1V/argus-observability-platform",
-    "language": "Python",
-    "name": "Root1V/argus-observability-platform",
-    "stars": 1,
-    "updated_at": "2026-10-26T20:09:25Z",
-    "url": "https://github.com/Root1V/argus-observability-platform"
   }
 ]
