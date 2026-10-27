@@ -1,11 +1,92 @@
 [
   {
+    "description": "Multi-agent FNOL intake and triage for Indian motor insurance. Validates at the boundary, grounds a coverage position in",
+    "id": "hemanthloq/motor-insurance-claim-triage",
+    "language": "Python",
+    "name": "hemanthloq/motor-insurance-claim-triage",
+    "stars": 0,
+    "updated_at": "2026-10-27T15:30:09Z",
+    "url": "https://github.com/hemanthloq/motor-insurance-claim-triage"
+  },
+  {
+    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4995,
+    "updated_at": "2026-10-27T15:27:40Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Self-hosted AI orchestration with policy, approvals, PII controls, audit evidence, retrieval, and governed MCP tools",
+    "id": "Abillify/atf",
+    "language": "TypeScript",
+    "name": "Abillify/atf",
+    "stars": 5,
+    "updated_at": "2026-10-27T15:30:30Z",
+    "url": "https://github.com/Abillify/atf"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 32,
+    "updated_at": "2026-10-27T15:30:25Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 62158,
+    "updated_at": "2026-10-27T15:22:56Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-10-27T15:20:19Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28560,
+    "updated_at": "2026-10-27T15:26:15Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "LLM spend tracking and budgets for Rails \u2014 by user, feature, or any tag, in your own database, no proxy.",
+    "id": "sergey-homenko/llm_cost_tracker",
+    "language": "Ruby",
+    "name": "sergey-homenko/llm_cost_tracker",
+    "stars": 45,
+    "updated_at": "2026-10-27T15:17:06Z",
+    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-27T15:15:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30775,
-    "updated_at": "2026-10-27T15:13:43Z",
+    "updated_at": "2026-10-27T15:30:10Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -36,21 +117,12 @@
     "url": "https://github.com/digline/digline"
   },
   {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 32,
-    "updated_at": "2026-10-27T15:03:12Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 36601,
-    "updated_at": "2026-10-27T15:12:47Z",
+    "updated_at": "2026-10-27T15:29:20Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -61,24 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-27T15:01:06Z",
     "url": "https://github.com/MihirMaurya-dev/agentic-ai-devops"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-27T15:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Multi-agent FNOL intake and triage for Indian motor insurance. Validates at the boundary, grounds a coverage position in",
-    "id": "hemanthloq/motor-insurance-claim-triage",
-    "language": "Python",
-    "name": "hemanthloq/motor-insurance-claim-triage",
-    "stars": 0,
-    "updated_at": "2026-10-27T14:59:34Z",
-    "url": "https://github.com/hemanthloq/motor-insurance-claim-triage"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -104,8 +158,17 @@
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 28,
-    "updated_at": "2026-10-27T15:15:03Z",
+    "updated_at": "2026-10-27T15:17:53Z",
     "url": "https://github.com/AixleHQ/flow"
+  },
+  {
+    "description": "ZenML \ud83d\ude4f: One AI Platform from Pipelines to Agents. https://zenml.io.",
+    "id": "zenml-io/zenml",
+    "language": "Python",
+    "name": "zenml-io/zenml",
+    "stars": 5628,
+    "updated_at": "2026-10-27T14:53:21Z",
+    "url": "https://github.com/zenml-io/zenml"
   },
   {
     "description": "Measure how much of your LLM bill is re-writing documents you already generated. Local, zero network calls, single file,",
@@ -140,7 +203,7 @@
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 130,
-    "updated_at": "2026-10-27T15:06:06Z",
+    "updated_at": "2026-10-27T15:19:17Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -158,7 +221,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 2,
-    "updated_at": "2026-10-27T14:55:36Z",
+    "updated_at": "2026-10-27T15:20:11Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -212,7 +275,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 12027,
-    "updated_at": "2026-10-27T14:32:12Z",
+    "updated_at": "2026-10-27T15:27:42Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -225,15 +288,6 @@
     "url": "https://github.com/JavisBot-Service/javis-transparency"
   },
   {
-    "description": "Self-hosted AI orchestration with policy, approvals, PII controls, audit evidence, retrieval, and governed MCP tools",
-    "id": "Abillify/atf",
-    "language": "TypeScript",
-    "name": "Abillify/atf",
-    "stars": 5,
-    "updated_at": "2026-10-27T14:29:51Z",
-    "url": "https://github.com/Abillify/atf"
-  },
-  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
@@ -241,15 +295,6 @@
     "stars": 24,
     "updated_at": "2026-10-27T14:29:14Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-10-27T14:28:07Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
@@ -265,7 +310,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 9718,
+    "stars": 9719,
     "updated_at": "2026-10-27T14:19:27Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -295,15 +340,6 @@
     "stars": 1,
     "updated_at": "2026-10-27T14:14:34Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28560,
-    "updated_at": "2026-10-27T14:57:28Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Production-grade observability and agentic AIOps for AI systems \u2014 OpenTelemetry-native across independent polyglot apps;",
@@ -347,7 +383,7 @@
     "language": "Python",
     "name": "architsharm/agentfox",
     "stars": 4,
-    "updated_at": "2026-10-27T14:45:51Z",
+    "updated_at": "2026-10-27T15:26:42Z",
     "url": "https://github.com/architsharm/agentfox"
   },
   {
@@ -364,7 +400,7 @@
     "id": "overmind-core/overmind",
     "language": "Python",
     "name": "overmind-core/overmind",
-    "stars": 696,
+    "stars": 698,
     "updated_at": "2026-10-27T13:43:20Z",
     "url": "https://github.com/overmind-core/overmind"
   },
@@ -405,48 +441,12 @@
     "url": "https://github.com/hanmahong5-arch/lumen"
   },
   {
-    "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
-    "id": "hjongc/openrouter-endpoint-watch",
-    "language": "Python",
-    "name": "hjongc/openrouter-endpoint-watch",
-    "stars": 0,
-    "updated_at": "2026-10-27T13:15:48Z",
-    "url": "https://github.com/hjongc/openrouter-endpoint-watch"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 62156,
-    "updated_at": "2026-10-27T13:13:57Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Optimized GPU compiler for LLM inference. Choose from a list of optimized recipes or optimize your own model via kernel ",
-    "id": "cloudrift-ai/emmy",
-    "language": "Python",
-    "name": "cloudrift-ai/emmy",
-    "stars": 120,
-    "updated_at": "2026-10-27T13:13:31Z",
-    "url": "https://github.com/cloudrift-ai/emmy"
-  },
-  {
-    "description": "Scheduled agent tasks for your repositories, defined in Git. Approved access, sandboxed runs, a full audit trail.",
-    "id": "piotrekno1/second-shift",
-    "language": "Python",
-    "name": "piotrekno1/second-shift",
-    "stars": 4,
-    "updated_at": "2026-10-27T13:11:39Z",
-    "url": "https://github.com/piotrekno1/second-shift"
-  },
-  {
-    "description": "What if OpenAI Deep Research and Dify were one platform? OpenAgent \u2014 harness architecture for rapidly building vertical ",
-    "id": "Haohao-end/openagent",
-    "language": "Python",
-    "name": "Haohao-end/openagent",
-    "stars": 774,
-    "updated_at": "2026-10-27T12:42:35Z",
-    "url": "https://github.com/Haohao-end/openagent"
+    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
+    "id": "lmnr-ai/lmnr",
+    "language": "TypeScript",
+    "name": "lmnr-ai/lmnr",
+    "stars": 3454,
+    "updated_at": "2026-10-27T13:16:11Z",
+    "url": "https://github.com/lmnr-ai/lmnr"
   }
 ]
