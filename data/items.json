@@ -1,12 +1,12 @@
 [
   {
-    "description": "CloudOps Gemma Agent \u2014 6-Part Production Gemma Enterprise Agent Platform (Google ADK, Cloud Run L4 GPU, vLLM, Firestore,",
-    "id": "RobinaMirbahar/cloudguard-gemma-agent",
+    "description": "Open-source AI on-call engineer for AWS. An alarm comes in, WARDEN reads the evidence, the AI proposes one fix from a cl",
+    "id": "veerarakesh56/warden",
     "language": "Python",
-    "name": "RobinaMirbahar/cloudguard-gemma-agent",
+    "name": "veerarakesh56/warden",
     "stars": 0,
-    "updated_at": "2026-10-27T06:27:34Z",
-    "url": "https://github.com/RobinaMirbahar/cloudguard-gemma-agent"
+    "updated_at": "2026-10-27T06:43:01Z",
+    "url": "https://github.com/veerarakesh56/warden"
   },
   {
     "description": "The safety layer for the AGI era. Runtime guardrails for autonomous AI agents.",
@@ -14,8 +14,62 @@
     "language": "Python",
     "name": "vijaym2k6/SteerPlane",
     "stars": 7,
-    "updated_at": "2026-10-27T06:26:50Z",
+    "updated_at": "2026-10-27T06:41:34Z",
     "url": "https://github.com/vijaym2k6/SteerPlane"
+  },
+  {
+    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4994,
+    "updated_at": "2026-10-27T06:44:48Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Tamper-evident receipts for reported LLM efficiency events. Offline integrity and benchmark-arithmetic verification, wit",
+    "id": "thequantumfalcon/kry",
+    "language": "Python",
+    "name": "thequantumfalcon/kry",
+    "stars": 1,
+    "updated_at": "2026-10-27T06:38:06Z",
+    "url": "https://github.com/thequantumfalcon/kry"
+  },
+  {
+    "description": "Template for small, safe AI agents in pure Python: cost caps in code, tool-less LLM client, \"I don't know\" as a valid re",
+    "id": "tonyweckstrom1987/agentti-pohja",
+    "language": "Python",
+    "name": "tonyweckstrom1987/agentti-pohja",
+    "stars": 0,
+    "updated_at": "2026-10-27T06:38:50Z",
+    "url": "https://github.com/tonyweckstrom1987/agentti-pohja"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28550,
+    "updated_at": "2026-10-27T06:30:37Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-27T06:30:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "CloudOps Gemma Agent \u2014 6-Part Production Gemma Enterprise Agent Platform (Google ADK, Cloud Run L4 GPU, vLLM, Firestore,",
+    "id": "RobinaMirbahar/cloudguard-gemma-agent",
+    "language": "Python",
+    "name": "RobinaMirbahar/cloudguard-gemma-agent",
+    "stars": 0,
+    "updated_at": "2026-10-27T06:27:34Z",
+    "url": "https://github.com/RobinaMirbahar/cloudguard-gemma-agent"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
@@ -50,17 +104,8 @@
     "language": "Python",
     "name": "Haohao-end/openagent",
     "stars": 774,
-    "updated_at": "2026-10-27T06:25:14Z",
+    "updated_at": "2026-10-27T06:39:41Z",
     "url": "https://github.com/Haohao-end/openagent"
-  },
-  {
-    "description": "Template for small, safe AI agents in pure Python: cost caps in code, tool-less LLM client, \"I don't know\" as a valid re",
-    "id": "tonyweckstrom1987/agentti-pohja",
-    "language": "Python",
-    "name": "tonyweckstrom1987/agentti-pohja",
-    "stars": 0,
-    "updated_at": "2026-10-27T06:28:50Z",
-    "url": "https://github.com/tonyweckstrom1987/agentti-pohja"
   },
   {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
@@ -90,15 +135,6 @@
     "url": "https://github.com/toxicwind/ranch"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-27T06:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
     "id": "coze-dev/coze-loop",
     "language": "Go",
@@ -122,7 +158,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-27T06:19:42Z",
+    "updated_at": "2026-10-27T06:43:22Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -180,15 +216,6 @@
     "url": "https://github.com/api7/aisix"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28549,
-    "updated_at": "2026-10-27T06:16:21Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "Tracking my journey into AI engineering, one module at a time. Fundamentals to agents, with hands-on projects. Open to a",
     "id": "bimal1023/AI-native-engineer",
     "language": "\u2014",
@@ -207,11 +234,20 @@
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22953,
+    "updated_at": "2026-10-27T05:22:48Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 62116,
+    "stars": 62121,
     "updated_at": "2026-10-27T05:21:55Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -275,7 +311,7 @@
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 129,
-    "updated_at": "2026-10-27T06:07:56Z",
+    "updated_at": "2026-10-27T06:43:13Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -284,7 +320,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 12017,
-    "updated_at": "2026-10-27T04:37:47Z",
+    "updated_at": "2026-10-27T06:42:28Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -410,43 +446,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 12080,
-    "updated_at": "2026-10-27T06:05:19Z",
+    "updated_at": "2026-10-27T06:41:11Z",
     "url": "https://github.com/dataelement/bisheng"
-  },
-  {
-    "description": "Self-hostable observability SDK for continuous grounding-risk and drift monitoring in multi-agent LLM systems",
-    "id": "Soum-Code/agentpulse",
-    "language": "Python",
-    "name": "Soum-Code/agentpulse",
-    "stars": 0,
-    "updated_at": "2026-10-27T04:53:24Z",
-    "url": "https://github.com/Soum-Code/agentpulse"
-  },
-  {
-    "description": "LLM data analyst agent on LangGraph with per-call tracing, cost and latency, versioned prompts and a record/replay evalu",
-    "id": "LacerdaTraderCode/observable-analytics-agent",
-    "language": "Python",
-    "name": "LacerdaTraderCode/observable-analytics-agent",
-    "stars": 0,
-    "updated_at": "2026-10-27T03:03:22Z",
-    "url": "https://github.com/LacerdaTraderCode/observable-analytics-agent"
-  },
-  {
-    "description": "Production-grade observability and agentic AIOps for AI systems \u2014 OpenTelemetry-native across independent polyglot apps;",
-    "id": "Root1V/argus-observability-platform",
-    "language": "Python",
-    "name": "Root1V/argus-observability-platform",
-    "stars": 1,
-    "updated_at": "2026-10-27T03:02:51Z",
-    "url": "https://github.com/Root1V/argus-observability-platform"
-  },
-  {
-    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4992,
-    "updated_at": "2026-10-27T06:23:59Z",
-    "url": "https://github.com/langwatch/langwatch"
   }
 ]
