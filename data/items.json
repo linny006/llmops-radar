@@ -1,11 +1,83 @@
 [
   {
+    "description": "Local-first operating model and spec-driven workflow framework for agentic AI teams based on KCC operating model  https:",
+    "id": "TarekFawaz/kcc-agentic-framework",
+    "language": "PowerShell",
+    "name": "TarekFawaz/kcc-agentic-framework",
+    "stars": 3,
+    "updated_at": "2026-10-27T23:30:11Z",
+    "url": "https://github.com/TarekFawaz/kcc-agentic-framework"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-10-27T23:29:11Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "Self-hosted AI orchestration with policy, approvals, PII controls, audit evidence, retrieval, and governed MCP tools",
+    "id": "Abillify/atf",
+    "language": "TypeScript",
+    "name": "Abillify/atf",
+    "stars": 5,
+    "updated_at": "2026-10-27T23:28:51Z",
+    "url": "https://github.com/Abillify/atf"
+  },
+  {
+    "description": "Measure how much of your LLM bill is re-writing documents you already generated. Local, zero network calls, single file,",
+    "id": "linklbee/scan",
+    "language": "Python",
+    "name": "linklbee/scan",
+    "stars": 0,
+    "updated_at": "2026-10-27T23:28:47Z",
+    "url": "https://github.com/linklbee/scan"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-27T23:26:37Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 62182,
+    "updated_at": "2026-10-27T23:29:14Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 42,
+    "updated_at": "2026-10-27T23:22:02Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
+    "language": "Python",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 53,
+    "updated_at": "2026-10-27T23:16:38Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
     "id": "linny006/llmops-radar",
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-10-27T23:11:52Z",
+    "updated_at": "2026-10-27T23:15:28Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -18,21 +90,12 @@
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 42,
-    "updated_at": "2026-10-27T23:07:38Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
     "id": "negativexq/agentic-customer-service-platform",
     "language": "Python",
     "name": "negativexq/agentic-customer-service-platform",
     "stars": 11,
-    "updated_at": "2026-10-27T23:06:04Z",
+    "updated_at": "2026-10-27T23:29:15Z",
     "url": "https://github.com/negativexq/agentic-customer-service-platform"
   },
   {
@@ -43,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-10-27T23:05:56Z",
     "url": "https://github.com/toxicwind/ranch"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 62182,
-    "updated_at": "2026-10-27T23:11:50Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Context Runtime \u2014 a database query planner for LLM context. Decides what a model sees before it answers; plans it, runs ",
@@ -117,15 +171,6 @@
     "url": "https://github.com/domondi1/inferrail"
   },
   {
-    "description": "Local-first operating model and spec-driven workflow framework for agentic AI teams based on KCC operating model  https:",
-    "id": "TarekFawaz/kcc-agentic-framework",
-    "language": "PowerShell",
-    "name": "TarekFawaz/kcc-agentic-framework",
-    "stars": 3,
-    "updated_at": "2026-10-27T22:48:55Z",
-    "url": "https://github.com/TarekFawaz/kcc-agentic-framework"
-  },
-  {
     "description": "LLM router: picks the model and reasoning effort per query from accuracy and real billed cost.",
     "id": "Harunercul/argrouter",
     "language": "Python",
@@ -149,7 +194,7 @@
     "language": "Python",
     "name": "luetzey/who2be",
     "stars": 0,
-    "updated_at": "2026-10-27T22:36:38Z",
+    "updated_at": "2026-10-27T23:22:07Z",
     "url": "https://github.com/luetzey/who2be"
   },
   {
@@ -158,7 +203,7 @@
     "language": "Go",
     "name": "hangar-hub/hangar",
     "stars": 2,
-    "updated_at": "2026-10-27T22:42:54Z",
+    "updated_at": "2026-10-27T23:25:36Z",
     "url": "https://github.com/hangar-hub/hangar"
   },
   {
@@ -284,7 +329,7 @@
     "language": "Python",
     "name": "architsharm/agentfox",
     "stars": 4,
-    "updated_at": "2026-10-27T21:26:52Z",
+    "updated_at": "2026-10-27T23:19:00Z",
     "url": "https://github.com/architsharm/agentfox"
   },
   {
@@ -301,7 +346,7 @@
     "id": "ComposioHQ/composio",
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
-    "stars": 30777,
+    "stars": 30778,
     "updated_at": "2026-10-27T21:17:17Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
@@ -320,7 +365,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8997,
-    "updated_at": "2026-10-27T23:03:45Z",
+    "updated_at": "2026-10-27T23:24:42Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -364,7 +409,7 @@
     "id": "overmind-core/overmind",
     "language": "Python",
     "name": "overmind-core/overmind",
-    "stars": 702,
+    "stars": 703,
     "updated_at": "2026-10-27T20:26:34Z",
     "url": "https://github.com/overmind-core/overmind"
   },
@@ -392,17 +437,8 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 2,
-    "updated_at": "2026-10-27T21:23:11Z",
+    "updated_at": "2026-10-27T23:28:45Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-27T19:57:25Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-27T23:14:16Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
-    "description": "",
-    "id": "ainsel-project/ainsel",
-    "language": "Go",
-    "name": "ainsel-project/ainsel",
-    "stars": 2,
-    "updated_at": "2026-10-27T19:54:31Z",
-    "url": "https://github.com/ainsel-project/ainsel"
-  },
-  {
-    "description": "A cost-guarded, hallucination-checked LLM pipeline for structured record enrichment: schema-enforced tool-use extraction",
-    "id": "Christian-T-256/llm-enrichment-pipeline",
-    "language": "Python",
-    "name": "Christian-T-256/llm-enrichment-pipeline",
-    "stars": 0,
-    "updated_at": "2026-10-27T19:43:51Z",
-    "url": "https://github.com/Christian-T-256/llm-enrichment-pipeline"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 2211,
-    "updated_at": "2026-10-27T23:03:34Z",
-    "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
-    "id": "iblai/os",
-    "language": "TypeScript",
-    "name": "iblai/os",
-    "stars": 793,
-    "updated_at": "2026-10-27T19:39:45Z",
-    "url": "https://github.com/iblai/os"
   }
 ]
