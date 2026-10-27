@@ -1,5 +1,50 @@
 [
   {
+    "description": "Self-hosted model and dataset hub, compatible with the Hugging Face Hub API, git, Ollama and LM Studio. Use it as a priv",
+    "id": "hangar-hub/hangar",
+    "language": "Go",
+    "name": "hangar-hub/hangar",
+    "stars": 2,
+    "updated_at": "2026-10-27T13:44:57Z",
+    "url": "https://github.com/hangar-hub/hangar"
+  },
+  {
+    "description": "\u7aef\u5230\u7aef\u667a\u80fd\u4f53\u5e73\u53f0\uff1a\u628a\u672c\u673a\u7684 AI Agent \u53d8\u6210\u4eba\u4eba\u53ef\u7528\u7684 Web \u4ea7\u54c1\uff08Vue 3 + Flask + Go WS \u7f51\u5173 + Docker \u90e8\u7f72\uff09",
+    "id": "liaosiliangCodeLife/harness-mate-plat",
+    "language": "Python",
+    "name": "liaosiliangCodeLife/harness-mate-plat",
+    "stars": 29,
+    "updated_at": "2026-10-27T13:44:12Z",
+    "url": "https://github.com/liaosiliangCodeLife/harness-mate-plat"
+  },
+  {
+    "description": "Trace-driven Agent evolution, E2E evaluation, regression replay, and release control plane.",
+    "id": "fightheyyy/CATENA",
+    "language": "Go",
+    "name": "fightheyyy/CATENA",
+    "stars": 0,
+    "updated_at": "2026-10-27T13:35:21Z",
+    "url": "https://github.com/fightheyyy/CATENA"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28559,
+    "updated_at": "2026-10-27T13:33:18Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-27T13:30:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
@@ -23,7 +68,7 @@
     "language": "Python",
     "name": "vllm-project/vllm-ascend",
     "stars": 3022,
-    "updated_at": "2026-10-27T13:28:49Z",
+    "updated_at": "2026-10-27T13:33:59Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -59,7 +104,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 36590,
-    "updated_at": "2026-10-27T13:21:49Z",
+    "updated_at": "2026-10-27T13:43:57Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -68,7 +113,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22962,
-    "updated_at": "2026-10-27T13:29:30Z",
+    "updated_at": "2026-10-27T13:43:31Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -86,17 +131,8 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 743,
-    "updated_at": "2026-10-27T13:27:07Z",
+    "updated_at": "2026-10-27T13:45:08Z",
     "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28559,
-    "updated_at": "2026-10-27T13:30:14Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
@@ -106,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-10-27T13:15:48Z",
     "url": "https://github.com/hjongc/openrouter-endpoint-watch"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-27T13:15:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -149,17 +176,8 @@
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 28,
-    "updated_at": "2026-10-27T13:16:57Z",
+    "updated_at": "2026-10-27T13:35:03Z",
     "url": "https://github.com/AixleHQ/flow"
-  },
-  {
-    "description": "Self-hosted model and dataset hub, compatible with the Hugging Face Hub API, git, Ollama and LM Studio. Use it as a priv",
-    "id": "hangar-hub/hangar",
-    "language": "Go",
-    "name": "hangar-hub/hangar",
-    "stars": 2,
-    "updated_at": "2026-10-27T13:21:48Z",
-    "url": "https://github.com/hangar-hub/hangar"
   },
   {
     "description": "Scheduled agent tasks for your repositories, defined in Git. Approved access, sandboxed runs, a full audit trail.",
@@ -169,15 +187,6 @@
     "stars": 4,
     "updated_at": "2026-10-27T13:11:39Z",
     "url": "https://github.com/piotrekno1/second-shift"
-  },
-  {
-    "description": "\u7aef\u5230\u7aef\u667a\u80fd\u4f53\u5e73\u53f0\uff1a\u628a\u672c\u673a\u7684 AI Agent \u53d8\u6210\u4eba\u4eba\u53ef\u7528\u7684 Web \u4ea7\u54c1\uff08Vue 3 + Flask + Go WS \u7f51\u5173 + Docker \u90e8\u7f72\uff09",
-    "id": "liaosiliangCodeLife/harness-mate-plat",
-    "language": "Python",
-    "name": "liaosiliangCodeLife/harness-mate-plat",
-    "stars": 29,
-    "updated_at": "2026-10-27T13:03:52Z",
-    "url": "https://github.com/liaosiliangCodeLife/harness-mate-plat"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -256,7 +265,7 @@
     "id": "radicalbit/radicalbit-ai-gateway",
     "language": "Python",
     "name": "radicalbit/radicalbit-ai-gateway",
-    "stars": 72,
+    "stars": 71,
     "updated_at": "2026-10-27T12:39:56Z",
     "url": "https://github.com/radicalbit/radicalbit-ai-gateway"
   },
@@ -266,7 +275,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 2,
-    "updated_at": "2026-10-27T13:06:47Z",
+    "updated_at": "2026-10-27T13:37:46Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -297,6 +306,15 @@
     "url": "https://github.com/vivek-541/vivek-541"
   },
   {
+    "description": "The platform for continuously improving AI agents.",
+    "id": "overmind-core/overmind",
+    "language": "Python",
+    "name": "overmind-core/overmind",
+    "stars": 694,
+    "updated_at": "2026-10-27T13:43:20Z",
+    "url": "https://github.com/overmind-core/overmind"
+  },
+  {
     "description": "Open-source, self-hosted AI platform for teams. Run private AI chat, manage Ray/vLLM GPU clusters, and connect apps and ",
     "id": "fadenstack/fadenstack",
     "language": "Python",
@@ -311,7 +329,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4995,
-    "updated_at": "2026-10-27T13:25:26Z",
+    "updated_at": "2026-10-27T13:45:29Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -365,7 +383,7 @@
     "language": "Python",
     "name": "glassflow/rius-coding-agents",
     "stars": 3,
-    "updated_at": "2026-10-27T13:28:54Z",
+    "updated_at": "2026-10-27T13:33:31Z",
     "url": "https://github.com/glassflow/rius-coding-agents"
   },
   {
@@ -374,7 +392,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1377,
-    "updated_at": "2026-10-27T13:08:51Z",
+    "updated_at": "2026-10-27T13:31:48Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -383,7 +401,7 @@
     "language": "Python",
     "name": "architsharm/agentfox",
     "stars": 4,
-    "updated_at": "2026-10-27T12:58:19Z",
+    "updated_at": "2026-10-27T13:35:18Z",
     "url": "https://github.com/architsharm/agentfox"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2210,
     "updated_at": "2026-10-27T13:22:49Z",
     "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "Self-hosted AI orchestration with policy, approvals, PII controls, audit evidence, retrieval, and governed MCP tools",
-    "id": "Abillify/atf",
-    "language": "TypeScript",
-    "name": "Abillify/atf",
-    "stars": 5,
-    "updated_at": "2026-10-27T13:22:56Z",
-    "url": "https://github.com/Abillify/atf"
-  },
-  {
-    "description": "Is a Hugging Face model already served by Amazon Bedrock? Daily-refreshed HF\u2194Bedrock mapping (US regions) with a free st",
-    "id": "scttfrdmn/hf-bedrock-map",
-    "language": "Go",
-    "name": "scttfrdmn/hf-bedrock-map",
-    "stars": 1,
-    "updated_at": "2026-10-27T11:58:04Z",
-    "url": "https://github.com/scttfrdmn/hf-bedrock-map"
   }
 ]
