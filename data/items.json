@@ -1,12 +1,66 @@
 [
   {
+    "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
+    "id": "hjongc/openrouter-endpoint-watch",
+    "language": "Python",
+    "name": "hjongc/openrouter-endpoint-watch",
+    "stars": 0,
+    "updated_at": "2026-10-27T00:29:02Z",
+    "url": "https://github.com/hjongc/openrouter-endpoint-watch"
+  },
+  {
+    "description": "AI Agent hooks for LLM Observability.",
+    "id": "HikaruEgashira/otel-hooks",
+    "language": "Python",
+    "name": "HikaruEgashira/otel-hooks",
+    "stars": 9,
+    "updated_at": "2026-10-27T00:27:59Z",
+    "url": "https://github.com/HikaruEgashira/otel-hooks"
+  },
+  {
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
+    "language": "Python",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 53,
+    "updated_at": "2026-10-27T00:25:53Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
+    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
+    "id": "NVIDIA-NeMo/nemo-helix",
+    "language": "Python",
+    "name": "NVIDIA-NeMo/nemo-helix",
+    "stars": 129,
+    "updated_at": "2026-10-27T00:25:51Z",
+    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 62084,
-    "updated_at": "2026-10-27T00:15:16Z",
+    "stars": 62085,
+    "updated_at": "2026-10-27T00:29:43Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Profile of Dr. Ravi Teja Thiriveedhi \u2014 clinician turned AI systems architect: multi-agent platforms, AI governance, LLM ",
+    "id": "Raviteja2k2k/Raviteja2k2k",
+    "language": "Python",
+    "name": "Raviteja2k2k/Raviteja2k2k",
+    "stars": 0,
+    "updated_at": "2026-10-27T00:24:44Z",
+    "url": "https://github.com/Raviteja2k2k/Raviteja2k2k"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-27T00:22:36Z",
+    "url": "https://github.com/toxicwind/ranch"
   },
   {
     "description": "Agentic Runtime",
@@ -14,8 +68,26 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 42,
-    "updated_at": "2026-10-27T00:11:48Z",
+    "updated_at": "2026-10-27T00:20:45Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 2,
+    "updated_at": "2026-10-27T00:26:56Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-27T00:15:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -23,7 +95,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28546,
-    "updated_at": "2026-10-27T00:10:30Z",
+    "updated_at": "2026-10-27T00:27:26Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -54,22 +126,13 @@
     "url": "https://github.com/danieloza/agentic-governance-intelligence-platform"
   },
   {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
+    "description": "Self-hosted AI Agents Platform for AI Native companies. Claude Code, Codex, Gemini, OpenCode agents. Apache 2.0.  ",
+    "id": "Abilityai/trinity",
     "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 2,
-    "updated_at": "2026-10-27T00:14:43Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-27T00:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "Abilityai/trinity",
+    "stars": 707,
+    "updated_at": "2026-10-27T00:02:50Z",
+    "url": "https://github.com/Abilityai/trinity"
   },
   {
     "description": "Multi-tenant, permissions-aware knowledge assistant. A portfolio project about the operational layer around an LLM app: ",
@@ -99,15 +162,6 @@
     "url": "https://github.com/JavisBot-Service/javis-transparency"
   },
   {
-    "description": "Enterprise Scale AIFactory (esml) - on Azure",
-    "id": "jostrm/azure-enterprise-scale-ml",
-    "language": "Python",
-    "name": "jostrm/azure-enterprise-scale-ml",
-    "stars": 53,
-    "updated_at": "2026-10-26T23:55:43Z",
-    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
-  },
-  {
     "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
     "id": "a-novel/service-genai",
     "language": "Go",
@@ -115,15 +169,6 @@
     "stars": 2,
     "updated_at": "2026-10-26T23:53:18Z",
     "url": "https://github.com/a-novel/service-genai"
-  },
-  {
-    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
-    "id": "NVIDIA-NeMo/nemo-helix",
-    "language": "Python",
-    "name": "NVIDIA-NeMo/nemo-helix",
-    "stars": 129,
-    "updated_at": "2026-10-27T00:08:43Z",
-    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
     "description": "Grafana-native LLMOps dashboards for FinOps, agents, quality and AI governance. Automated query and deployment checks, w",
@@ -140,7 +185,7 @@
     "language": "Python",
     "name": "MukulRay1603/Irminsul",
     "stars": 6,
-    "updated_at": "2026-10-26T23:48:24Z",
+    "updated_at": "2026-10-27T00:24:09Z",
     "url": "https://github.com/MukulRay1603/Irminsul"
   },
   {
@@ -198,15 +243,6 @@
     "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-26T23:07:32Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
     "id": "systempromptio/systemprompt-core",
     "language": "Rust",
@@ -216,15 +252,6 @@
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
-    "description": "Self-hosted AI Agents Platform for AI Native companies. Claude Code, Codex, Gemini, OpenCode agents. Apache 2.0.  ",
-    "id": "Abilityai/trinity",
-    "language": "Python",
-    "name": "Abilityai/trinity",
-    "stars": 706,
-    "updated_at": "2026-10-27T00:02:50Z",
-    "url": "https://github.com/Abilityai/trinity"
-  },
-  {
     "description": "Source for kooexperience.com, Haoming Koo\u2019s applied AI engineering portfolio with live products, case studies, structure",
     "id": "haomingkoo/haomingkoo.github.io",
     "language": "HTML",
@@ -232,6 +259,15 @@
     "stars": 0,
     "updated_at": "2026-10-26T23:05:11Z",
     "url": "https://github.com/haomingkoo/haomingkoo.github.io"
+  },
+  {
+    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
+    "id": "lmnr-ai/lmnr",
+    "language": "TypeScript",
+    "name": "lmnr-ai/lmnr",
+    "stars": 3450,
+    "updated_at": "2026-10-26T23:02:15Z",
+    "url": "https://github.com/lmnr-ai/lmnr"
   },
   {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
@@ -252,6 +288,15 @@
     "url": "https://github.com/Traigent/tvl"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 12015,
+    "updated_at": "2026-10-26T22:52:50Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "OpenTelemetry Instrumentation for AI Observability",
     "id": "Arize-ai/openinference",
     "language": "Python",
@@ -266,7 +311,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22948,
-    "updated_at": "2026-10-26T22:50:24Z",
+    "updated_at": "2026-10-27T00:23:53Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -324,15 +369,6 @@
     "url": "https://github.com/respanai/respan-gateway"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 12014,
-    "updated_at": "2026-10-26T22:52:50Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Market Metrics is an autonomous market-intelligence platform designed to transform product ideas into structured, eviden",
     "id": "721189/Market-Metrics",
     "language": "TypeScript",
@@ -347,7 +383,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4993,
-    "updated_at": "2026-10-27T00:12:49Z",
+    "updated_at": "2026-10-27T00:28:12Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-26T21:21:01Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Benchmarking vision-language models for handwritten form extraction with confidence flags and human review.",
-    "id": "tibendadavis/handwritten-forms-vlm-bench",
-    "language": "Python",
-    "name": "tibendadavis/handwritten-forms-vlm-bench",
-    "stars": 1,
-    "updated_at": "2026-10-26T20:42:49Z",
-    "url": "https://github.com/tibendadavis/handwritten-forms-vlm-bench"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 9699,
-    "updated_at": "2026-10-26T20:37:27Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Run a fleet of Claude Code agents from one Go binary \u2014 spawn, monitor, and tear them down in isolated git worktrees, tra",
-    "id": "srjn45/warden",
-    "language": "Go",
-    "name": "srjn45/warden",
-    "stars": 2,
-    "updated_at": "2026-10-26T21:12:49Z",
-    "url": "https://github.com/srjn45/warden"
-  },
-  {
-    "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
-    "id": "hjongc/openrouter-endpoint-watch",
-    "language": "Python",
-    "name": "hjongc/openrouter-endpoint-watch",
-    "stars": 0,
-    "updated_at": "2026-10-26T20:32:30Z",
-    "url": "https://github.com/hjongc/openrouter-endpoint-watch"
   }
 ]
