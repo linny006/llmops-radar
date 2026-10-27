@@ -1,12 +1,75 @@
 [
   {
+    "description": "ThakiCloud Tech Blog",
+    "id": "ThakiCloud/thakicloud.github.io",
+    "language": "JavaScript",
+    "name": "ThakiCloud/thakicloud.github.io",
+    "stars": 4,
+    "updated_at": "2026-10-27T20:30:19Z",
+    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 42,
-    "updated_at": "2026-10-27T20:14:17Z",
+    "updated_at": "2026-10-27T20:30:07Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 62173,
+    "updated_at": "2026-10-27T20:29:37Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1291,
+    "updated_at": "2026-10-27T20:25:16Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "Searchable Excalidraw library for system design interviews and agentic AI architecture: 292 items, UI wireframes, patter",
+    "id": "Dinesh-Sunny/excalidraw-system-design-kit",
+    "language": "HTML",
+    "name": "Dinesh-Sunny/excalidraw-system-design-kit",
+    "stars": 1,
+    "updated_at": "2026-10-27T20:25:31Z",
+    "url": "https://github.com/Dinesh-Sunny/excalidraw-system-design-kit"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 12029,
+    "updated_at": "2026-10-27T20:20:40Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-27T20:17:50Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-27T20:15:35Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
@@ -36,21 +99,12 @@
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
-    "description": "Searchable Excalidraw library for system design interviews and agentic AI architecture: 292 items, UI wireframes, patter",
-    "id": "Dinesh-Sunny/excalidraw-system-design-kit",
-    "language": "HTML",
-    "name": "Dinesh-Sunny/excalidraw-system-design-kit",
-    "stars": 1,
-    "updated_at": "2026-10-27T20:09:42Z",
-    "url": "https://github.com/Dinesh-Sunny/excalidraw-system-design-kit"
-  },
-  {
     "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
     "id": "NVIDIA-NeMo/nemo-helix",
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 131,
-    "updated_at": "2026-10-27T20:14:11Z",
+    "updated_at": "2026-10-27T20:29:04Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -68,7 +122,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22970,
-    "updated_at": "2026-10-27T20:02:42Z",
+    "updated_at": "2026-10-27T20:22:21Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -79,24 +133,6 @@
     "stars": 4,
     "updated_at": "2026-10-27T20:04:57Z",
     "url": "https://github.com/architsharm/agentfox"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 62172,
-    "updated_at": "2026-10-27T20:13:04Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-27T20:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
@@ -140,7 +176,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-27T19:56:20Z",
+    "updated_at": "2026-10-27T20:20:52Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -176,17 +212,17 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 2211,
-    "updated_at": "2026-10-27T19:58:48Z",
+    "updated_at": "2026-10-27T20:26:12Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
     "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-27T20:06:45Z",
-    "url": "https://github.com/vocion/vocion-core"
+    "name": "ComposioHQ/composio",
+    "stars": 30776,
+    "updated_at": "2026-10-27T19:41:49Z",
+    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "Enables organizations to create and deploy customizable AI agents with support for multiple LLM providers, real-time cha",
@@ -203,7 +239,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28561,
-    "updated_at": "2026-10-27T19:39:46Z",
+    "updated_at": "2026-10-27T20:26:28Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -229,8 +265,8 @@
     "id": "overmind-core/overmind",
     "language": "Python",
     "name": "overmind-core/overmind",
-    "stars": 698,
-    "updated_at": "2026-10-27T19:27:11Z",
+    "stars": 699,
+    "updated_at": "2026-10-27T20:26:34Z",
     "url": "https://github.com/overmind-core/overmind"
   },
   {
@@ -288,15 +324,6 @@
     "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
   },
   {
-    "description": "OpenTelemetry Instrumentation for AI Observability",
-    "id": "Arize-ai/openinference",
-    "language": "Python",
-    "name": "Arize-ai/openinference",
-    "stars": 1291,
-    "updated_at": "2026-10-27T18:59:16Z",
-    "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
     "description": "Scheduled agent tasks for your repositories, defined in Git. Approved access, sandboxed runs, a full audit trail.",
     "id": "piotrekno1/second-shift",
     "language": "Python",
@@ -320,17 +347,8 @@
     "language": "Python",
     "name": "Furox-Art/quantum-reasoning-skill",
     "stars": 4,
-    "updated_at": "2026-10-27T18:57:37Z",
+    "updated_at": "2026-10-27T20:30:06Z",
     "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 12028,
-    "updated_at": "2026-10-27T18:46:39Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "LumenAI: FinOps and multi-tenant observability for GenAI. Turns OpenTelemetry traces into per-tenant USD cost, without s",
@@ -430,23 +448,5 @@
     "stars": 5,
     "updated_at": "2026-10-27T18:24:34Z",
     "url": "https://github.com/evalshift/evalshift-cli"
-  },
-  {
-    "description": "Auto-tuning for vllm. Getting the best performance out of your LLM deployment (vllm+guidellm+optuna)",
-    "id": "InseeFrLab/auto-tuning-vllm",
-    "language": "Python",
-    "name": "InseeFrLab/auto-tuning-vllm",
-    "stars": 7,
-    "updated_at": "2026-10-27T18:23:10Z",
-    "url": "https://github.com/InseeFrLab/auto-tuning-vllm"
-  },
-  {
-    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
-    "id": "luetzey/who2be",
-    "language": "Python",
-    "name": "luetzey/who2be",
-    "stars": 0,
-    "updated_at": "2026-10-27T20:15:19Z",
-    "url": "https://github.com/luetzey/who2be"
   }
 ]
