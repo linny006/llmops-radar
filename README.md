@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-27 02:15 UTC
+> ⏰ Last updated: 2026-10-27 02:16 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,18 +42,18 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [toxicwind/ranch](https://github.com/toxicwind/ranch) | 0 | Rust | 2026-10-27 | The self-hosted LLM estate in one monorepo — local model serving, cloud provider routing, MCP gateway, build jobs. All O |
-| 2 | [llmspendguard/llm-spendguard](https://github.com/llmspendguard/llm-spendguard) | 0 | Python | 2026-10-27 | Know what an LLM job will cost before you run it — and prove your ledger matches the provider's bill. Pre-submit estimat |
-| 3 | [cluster1900/ai-engineering-interview-questions-CN](https://github.com/cluster1900/ai-engineering-interview-questions-CN) | 0 | Markdown | 2026-10-27 | AI / LLM / Agent 工程师中文面试题与参考答案：RAG、Agent、微调、LLMOps、系统设计 |
-| 4 | [respanai/respan-gateway](https://github.com/respanai/respan-gateway) | 343 | Rust | 2026-10-27 | One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary. |
-| 5 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 8985 | Rust | 2026-10-27 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
-| 6 | [acornops/agentv](https://github.com/acornops/agentv) | 1 | TypeScript | 2026-10-27 | Linux VM agent for AcornOps, providing outbound system connectivity, host inspection, and controlled VM operations. |
-| 7 | [evelandhq/eveland](https://github.com/evelandhq/eveland) | 9 | TypeScript | 2026-10-27 | Self-hosted production platform for deploying, routing, scheduling, and observing Eve agent fleets. |
-| 8 | [NVIDIA-NeMo/nemo-helix](https://github.com/NVIDIA-NeMo/nemo-helix) | 129 | Python | 2026-10-27 | NeMo Helix: Make the agents you ship faster, more accurate, and safer. |
-| 9 | [calmrocks/ai-engineer-notebooks](https://github.com/calmrocks/ai-engineer-notebooks) | 712 | Jupyter Notebook | 2026-10-27 | Hands-on, framework-free Colab notebooks for the AI Engineer / Forward Deployed Engineer (FDE) skill set — model APIs, s |
-| 10 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 62094 | Python | 2026-10-27 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 11 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 3017 | Python | 2026-10-27 | Community maintained hardware plugin for vLLM on Huawei Ascend |
-| 12 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-27 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 1 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-27 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 2 | [toxicwind/ranch](https://github.com/toxicwind/ranch) | 0 | Rust | 2026-10-27 | The self-hosted LLM estate in one monorepo — local model serving, cloud provider routing, MCP gateway, build jobs. All O |
+| 3 | [llmspendguard/llm-spendguard](https://github.com/llmspendguard/llm-spendguard) | 0 | Python | 2026-10-27 | Know what an LLM job will cost before you run it — and prove your ledger matches the provider's bill. Pre-submit estimat |
+| 4 | [cluster1900/ai-engineering-interview-questions-CN](https://github.com/cluster1900/ai-engineering-interview-questions-CN) | 0 | Markdown | 2026-10-27 | AI / LLM / Agent 工程师中文面试题与参考答案：RAG、Agent、微调、LLMOps、系统设计 |
+| 5 | [respanai/respan-gateway](https://github.com/respanai/respan-gateway) | 343 | Rust | 2026-10-27 | One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary. |
+| 6 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | 8985 | Rust | 2026-10-27 | ⚙️🦀 Build modular and scalable LLM Applications in Rust |
+| 7 | [acornops/agentv](https://github.com/acornops/agentv) | 1 | TypeScript | 2026-10-27 | Linux VM agent for AcornOps, providing outbound system connectivity, host inspection, and controlled VM operations. |
+| 8 | [evelandhq/eveland](https://github.com/evelandhq/eveland) | 9 | TypeScript | 2026-10-27 | Self-hosted production platform for deploying, routing, scheduling, and observing Eve agent fleets. |
+| 9 | [NVIDIA-NeMo/nemo-helix](https://github.com/NVIDIA-NeMo/nemo-helix) | 129 | Python | 2026-10-27 | NeMo Helix: Make the agents you ship faster, more accurate, and safer. |
+| 10 | [calmrocks/ai-engineer-notebooks](https://github.com/calmrocks/ai-engineer-notebooks) | 712 | Jupyter Notebook | 2026-10-27 | Hands-on, framework-free Colab notebooks for the AI Engineer / Forward Deployed Engineer (FDE) skill set — model APIs, s |
+| 11 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 62094 | Python | 2026-10-27 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 12 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 3017 | Python | 2026-10-27 | Community maintained hardware plugin for vLLM on Huawei Ascend |
 | 13 | [llmsyscore/llm-systems-manager](https://github.com/llmsyscore/llm-systems-manager) | 12 | Python | 2026-10-27 | LLM Systems Manager — real-time observability and control for LLM systems |
 | 14 | [rrahimi-uci/caliber-suite](https://github.com/rrahimi-uci/caliber-suite) | 2 | Python | 2026-10-27 | Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases, |
 | 15 | [sarkars/agent-failure-modes](https://github.com/sarkars/agent-failure-modes) | 1 | Python | 2026-10-27 | Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a |
