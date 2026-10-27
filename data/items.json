@@ -1,12 +1,30 @@
 [
   {
-    "description": "Local-first operating model and spec-driven workflow framework for agentic AI teams based on KCC operating model  https:",
-    "id": "TarekFawaz/kcc-agentic-framework",
-    "language": "PowerShell",
-    "name": "TarekFawaz/kcc-agentic-framework",
-    "stars": 3,
-    "updated_at": "2026-10-27T22:42:18Z",
-    "url": "https://github.com/TarekFawaz/kcc-agentic-framework"
+    "description": "One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary.",
+    "id": "respanai/respan-gateway",
+    "language": "Rust",
+    "name": "respanai/respan-gateway",
+    "stars": 352,
+    "updated_at": "2026-10-27T22:59:47Z",
+    "url": "https://github.com/respanai/respan-gateway"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-27T22:59:54Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
+    "id": "hjongc/openrouter-endpoint-watch",
+    "language": "Python",
+    "name": "hjongc/openrouter-endpoint-watch",
+    "stars": 0,
+    "updated_at": "2026-10-27T22:58:37Z",
+    "url": "https://github.com/hjongc/openrouter-endpoint-watch"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -14,8 +32,53 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 62180,
-    "updated_at": "2026-10-27T22:42:05Z",
+    "updated_at": "2026-10-27T22:59:15Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Self-hosted OpenAI/Anthropic-compatible gateway: give each AI agent run a dollar budget, enforced before the provider, w",
+    "id": "domondi1/inferrail",
+    "language": "Python",
+    "name": "domondi1/inferrail",
+    "stars": 1,
+    "updated_at": "2026-10-27T22:51:17Z",
+    "url": "https://github.com/domondi1/inferrail"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 42,
+    "updated_at": "2026-10-27T22:51:11Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Local-first operating model and spec-driven workflow framework for agentic AI teams based on KCC operating model  https:",
+    "id": "TarekFawaz/kcc-agentic-framework",
+    "language": "PowerShell",
+    "name": "TarekFawaz/kcc-agentic-framework",
+    "stars": 3,
+    "updated_at": "2026-10-27T22:48:55Z",
+    "url": "https://github.com/TarekFawaz/kcc-agentic-framework"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-27T22:45:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "LLM router: picks the model and reasoning effort per query from accuracy and real billed cost.",
+    "id": "Harunercul/argrouter",
+    "language": "Python",
+    "name": "Harunercul/argrouter",
+    "stars": 1,
+    "updated_at": "2026-10-27T22:45:23Z",
+    "url": "https://github.com/Harunercul/argrouter"
   },
   {
     "description": "Evaluated AI assistant platform: LangGraph agent with hybrid RAG and an MLflow quality gate in CI, Java RBAC/audit gatew",
@@ -50,7 +113,7 @@
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 132,
-    "updated_at": "2026-10-27T22:44:55Z",
+    "updated_at": "2026-10-27T22:57:26Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -61,15 +124,6 @@
     "stars": 7,
     "updated_at": "2026-10-27T22:31:10Z",
     "url": "https://github.com/KushagraKanaujia/throttle"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-27T22:30:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -153,15 +207,6 @@
     "url": "https://github.com/toxicwind/ranch"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 42,
-    "updated_at": "2026-10-27T22:05:39Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
@@ -171,15 +216,6 @@
     "url": "https://github.com/comet-ml/opik"
   },
   {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-27T21:57:10Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
     "description": "LumenAI: FinOps and multi-tenant observability for GenAI. Turns OpenTelemetry traces into per-tenant USD cost, without s",
     "id": "skarL007/lumen-ai-sdk",
     "language": "Python",
@@ -187,15 +223,6 @@
     "stars": 3,
     "updated_at": "2026-10-27T22:16:32Z",
     "url": "https://github.com/skarL007/lumen-ai-sdk"
-  },
-  {
-    "description": "Self-hosted OpenAI/Anthropic-compatible gateway: give each AI agent run a dollar budget, enforced before the provider, w",
-    "id": "domondi1/inferrail",
-    "language": "Python",
-    "name": "domondi1/inferrail",
-    "stars": 1,
-    "updated_at": "2026-10-27T21:48:32Z",
-    "url": "https://github.com/domondi1/inferrail"
   },
   {
     "description": "Continuous LLM governance monitoring for regulated environments - EU AI Act, GDPR, ANSSI. Self-hosted, profile-driven, n",
@@ -320,7 +347,7 @@
     "language": "Python",
     "name": "negativexq/agentic-customer-service-platform",
     "stars": 11,
-    "updated_at": "2026-10-27T22:42:53Z",
+    "updated_at": "2026-10-27T22:56:06Z",
     "url": "https://github.com/negativexq/agentic-customer-service-platform"
   },
   {
@@ -356,7 +383,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-27T22:41:02Z",
+    "updated_at": "2026-10-27T22:54:12Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-27T19:18:33Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 743,
-    "updated_at": "2026-10-27T19:15:55Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Deterministic trace-based integration testing for LLM apps",
-    "id": "barzoj-co/llmentary",
-    "language": "Go",
-    "name": "barzoj-co/llmentary",
-    "stars": 0,
-    "updated_at": "2026-10-27T19:14:26Z",
-    "url": "https://github.com/barzoj-co/llmentary"
-  },
-  {
-    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
-    "id": "AixleHQ/flow",
-    "language": "Ruby",
-    "name": "AixleHQ/flow",
-    "stars": 29,
-    "updated_at": "2026-10-27T19:38:10Z",
-    "url": "https://github.com/AixleHQ/flow"
   }
 ]
