@@ -1,5 +1,158 @@
 [
   {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-27T16:59:45Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
+    "id": "digline/digline",
+    "language": "Python",
+    "name": "digline/digline",
+    "stars": 9,
+    "updated_at": "2026-10-27T16:59:20Z",
+    "url": "https://github.com/digline/digline"
+  },
+  {
+    "description": "Deterministic trace-based integration testing for LLM apps",
+    "id": "barzoj-co/llmentary",
+    "language": "Go",
+    "name": "barzoj-co/llmentary",
+    "stars": 0,
+    "updated_at": "2026-10-27T16:58:54Z",
+    "url": "https://github.com/barzoj-co/llmentary"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-27T16:57:16Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 12028,
+    "updated_at": "2026-10-27T16:56:20Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 24,
+    "updated_at": "2026-10-27T16:55:27Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
+    "id": "dynamiq-ai/dynamiq",
+    "language": "Python",
+    "name": "dynamiq-ai/dynamiq",
+    "stars": 1071,
+    "updated_at": "2026-10-27T16:59:34Z",
+    "url": "https://github.com/dynamiq-ai/dynamiq"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 30777,
+    "updated_at": "2026-10-27T16:58:53Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22967,
+    "updated_at": "2026-10-27T16:59:28Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Advanced Topics in Analytics II - Generative AI: RAG, MCP, and agents with LangChain & LangGraph",
+    "id": "sergiomorapardo/AdvancedGenAI",
+    "language": "Jupyter Notebook",
+    "name": "sergiomorapardo/AdvancedGenAI",
+    "stars": 2,
+    "updated_at": "2026-10-27T16:56:57Z",
+    "url": "https://github.com/sergiomorapardo/AdvancedGenAI"
+  },
+  {
+    "description": "Context Runtime \u2014 a database query planner for LLM context. Decides what a model sees before it answers; plans it, runs ",
+    "id": "redevops-io/context-runtime",
+    "language": "Python",
+    "name": "redevops-io/context-runtime",
+    "stars": 12,
+    "updated_at": "2026-10-27T16:53:24Z",
+    "url": "https://github.com/redevops-io/context-runtime"
+  },
+  {
+    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
+    "id": "rhesis-ai/rhesis",
+    "language": "Python",
+    "name": "rhesis-ai/rhesis",
+    "stars": 402,
+    "updated_at": "2026-10-27T16:52:52Z",
+    "url": "https://github.com/rhesis-ai/rhesis"
+  },
+  {
+    "description": "Autonomous SRE Swarms, Model Context Protocol (MCP) & 16-Week Agentic AI Roadmap for Cloud & DevSecOps",
+    "id": "MihirMaurya-dev/agentic-ai-devops",
+    "language": "\u2014",
+    "name": "MihirMaurya-dev/agentic-ai-devops",
+    "stars": 0,
+    "updated_at": "2026-10-27T16:52:39Z",
+    "url": "https://github.com/MihirMaurya-dev/agentic-ai-devops"
+  },
+  {
+    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
+    "id": "NVIDIA-NeMo/nemo-helix",
+    "language": "Python",
+    "name": "NVIDIA-NeMo/nemo-helix",
+    "stars": 131,
+    "updated_at": "2026-10-27T16:57:38Z",
+    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36608,
+    "updated_at": "2026-10-27T16:58:16Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "\ud83e\udea2 Langfuse JS/TS SDK",
+    "id": "langfuse/langfuse-js",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse-js",
+    "stars": 174,
+    "updated_at": "2026-10-27T16:45:44Z",
+    "url": "https://github.com/langfuse/langfuse-js"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-27T16:45:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -18,30 +171,12 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "Advanced Topics in Analytics II - Generative AI: RAG, MCP, and agents with LangChain & LangGraph",
-    "id": "sergiomorapardo/AdvancedGenAI",
-    "language": "Jupyter Notebook",
-    "name": "sergiomorapardo/AdvancedGenAI",
-    "stars": 2,
-    "updated_at": "2026-10-27T16:43:25Z",
-    "url": "https://github.com/sergiomorapardo/AdvancedGenAI"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22967,
-    "updated_at": "2026-10-27T16:45:02Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "Self-hosted prompt library and template editor with an MCP server for ChatGPT. Save prompts as sections with {{variables",
     "id": "chrysogonus/prompt-maker-studio",
     "language": "TypeScript",
     "name": "chrysogonus/prompt-maker-studio",
     "stars": 4,
-    "updated_at": "2026-10-27T16:43:38Z",
+    "updated_at": "2026-10-27T16:45:53Z",
     "url": "https://github.com/chrysogonus/prompt-maker-studio"
   },
   {
@@ -52,15 +187,6 @@
     "stars": 3023,
     "updated_at": "2026-10-27T16:40:09Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
-    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
-    "id": "NVIDIA-NeMo/nemo-helix",
-    "language": "Python",
-    "name": "NVIDIA-NeMo/nemo-helix",
-    "stars": 130,
-    "updated_at": "2026-10-27T16:41:18Z",
-    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
     "description": "Understand which functions and agents drive LLM spend. Self-hosted monitoring and an open model pricing catalog.",
@@ -95,26 +221,17 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4995,
-    "updated_at": "2026-10-27T16:36:57Z",
+    "updated_at": "2026-10-27T16:53:52Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
-    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
-    "id": "digline/digline",
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
     "language": "Python",
-    "name": "digline/digline",
-    "stars": 9,
-    "updated_at": "2026-10-27T16:43:51Z",
-    "url": "https://github.com/digline/digline"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-27T16:30:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
+    "name": "BerriAI/litellm",
+    "stars": 62162,
+    "updated_at": "2026-10-27T16:58:41Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Shared agent harness (tools, permissions, evals, guardrails) for redevops.io Agentic Business OS modules. AGPL-3.0.",
@@ -126,30 +243,12 @@
     "url": "https://github.com/redevops-io/agent-harness"
   },
   {
-    "description": "Context Runtime \u2014 a database query planner for LLM context. Decides what a model sees before it answers; plans it, runs ",
-    "id": "redevops-io/context-runtime",
-    "language": "Python",
-    "name": "redevops-io/context-runtime",
-    "stars": 12,
-    "updated_at": "2026-10-27T16:29:13Z",
-    "url": "https://github.com/redevops-io/context-runtime"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36605,
-    "updated_at": "2026-10-27T16:28:58Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Portkey Admin API control-plane MCP server with Prisma AIRS interoperability guidance",
     "id": "CodesWhat/portkey-admin-mcp",
     "language": "TypeScript",
     "name": "CodesWhat/portkey-admin-mcp",
     "stars": 6,
-    "updated_at": "2026-10-27T16:42:53Z",
+    "updated_at": "2026-10-27T16:45:41Z",
     "url": "https://github.com/CodesWhat/portkey-admin-mcp"
   },
   {
@@ -176,7 +275,7 @@
     "language": "Python",
     "name": "DuqueOM/ml-platform",
     "stars": 2,
-    "updated_at": "2026-10-27T16:20:52Z",
+    "updated_at": "2026-10-27T16:53:49Z",
     "url": "https://github.com/DuqueOM/ml-platform"
   },
   {
@@ -193,18 +292,9 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26502,
+    "stars": 26503,
     "updated_at": "2026-10-27T16:15:46Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 12028,
-    "updated_at": "2026-10-27T16:44:04Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Official O11y One SDKs for TypeScript, Python and Go, plus o11y-eval, the CI runner and PR-diff action that gate release",
@@ -216,15 +306,6 @@
     "url": "https://github.com/o11y-one/o11y-one-sdk"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 62161,
-    "updated_at": "2026-10-27T16:29:51Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
     "id": "toxicwind/ranch",
     "language": "Rust",
@@ -232,24 +313,6 @@
     "stars": 0,
     "updated_at": "2026-10-27T16:09:11Z",
     "url": "https://github.com/toxicwind/ranch"
-  },
-  {
-    "description": "Dynamiq is an orchestration framework for agentic AI and LLM applications",
-    "id": "dynamiq-ai/dynamiq",
-    "language": "Python",
-    "name": "dynamiq-ai/dynamiq",
-    "stars": 1071,
-    "updated_at": "2026-10-27T16:20:44Z",
-    "url": "https://github.com/dynamiq-ai/dynamiq"
-  },
-  {
-    "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent fro",
-    "id": "rhesis-ai/rhesis",
-    "language": "Python",
-    "name": "rhesis-ai/rhesis",
-    "stars": 402,
-    "updated_at": "2026-10-27T16:41:22Z",
-    "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
     "description": "Self-hosted AI orchestration with policy, approvals, PII controls, audit evidence, retrieval, and governed MCP tools",
@@ -288,15 +351,6 @@
     "url": "https://github.com/ndom91/llama-dash"
   },
   {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-27T15:56:16Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
     "description": "Per-span grounding and drift monitoring for multi-agent LLM systems, scored by two small local models (no LLM judge). M.",
     "id": "Soum-Code/agentpulse",
     "language": "Python",
@@ -324,15 +378,6 @@
     "url": "https://github.com/InftyAI/Awesome-LLMOps"
   },
   {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 30776,
-    "updated_at": "2026-10-27T16:36:16Z",
-    "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
     "description": "InFlow FDE\uff1a\u4f01\u4e1a AI \u8f6c\u578b\u64cd\u76d8\u53f0\u3002\u603b\u6307\u6325 \u2192 \u90e8\u95e8 Agent \u2192 \u6570\u5b57\u5458\u5de5\uff1b\u6570\u5b57\u7531\u4ee3\u7801\u7b97\uff0c\u52a8\u94b1\u7684\u52a8\u4f5c\u4eba\u62cd\u677f\uff0c\u6bcf\u4e00\u5206 AI \u6210\u672c\u90fd\u8bb0\u8d26\u3002",
     "id": "zj85997-hash/inflow-fde",
     "language": "TypeScript",
@@ -356,7 +401,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 2211,
-    "updated_at": "2026-10-27T16:39:23Z",
+    "updated_at": "2026-10-27T16:56:21Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -369,6 +414,15 @@
     "url": "https://github.com/hemanthloq/motor-insurance-claim-triage"
   },
   {
+    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
+    "id": "AixleHQ/flow",
+    "language": "Ruby",
+    "name": "AixleHQ/flow",
+    "stars": 29,
+    "updated_at": "2026-10-27T15:17:53Z",
+    "url": "https://github.com/AixleHQ/flow"
+  },
+  {
     "description": "LLM spend tracking and budgets for Rails \u2014 by user, feature, or any tag, in your own database, no proxy.",
     "id": "sergey-homenko/llm_cost_tracker",
     "language": "Ruby",
@@ -376,24 +430,6 @@
     "stars": 45,
     "updated_at": "2026-10-27T15:17:06Z",
     "url": "https://github.com/sergey-homenko/llm_cost_tracker"
-  },
-  {
-    "description": "Autonomous SRE Swarms, Model Context Protocol (MCP) & 16-Week Agentic AI Roadmap for Cloud & DevSecOps",
-    "id": "MihirMaurya-dev/agentic-ai-devops",
-    "language": "\u2014",
-    "name": "MihirMaurya-dev/agentic-ai-devops",
-    "stars": 0,
-    "updated_at": "2026-10-27T15:01:06Z",
-    "url": "https://github.com/MihirMaurya-dev/agentic-ai-devops"
-  },
-  {
-    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
-    "id": "AixleHQ/flow",
-    "language": "Ruby",
-    "name": "AixleHQ/flow",
-    "stars": 28,
-    "updated_at": "2026-10-27T15:17:53Z",
-    "url": "https://github.com/AixleHQ/flow"
   },
   {
     "description": "ZenML \ud83d\ude4f: One AI Platform from Pipelines to Agents. https://zenml.io.",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-27T14:50:00Z",
     "url": "https://github.com/idevelopAI/llm-eval-control-plane"
-  },
-  {
-    "description": "Count tokens across AI models and get concrete, priced suggestions to cut your prompt costs. Runs offline.",
-    "id": "behrouzbk/tokensaver",
-    "language": "Python",
-    "name": "behrouzbk/tokensaver",
-    "stars": 2,
-    "updated_at": "2026-10-27T14:47:56Z",
-    "url": "https://github.com/behrouzbk/tokensaver"
-  },
-  {
-    "description": "Agentic ADaM code generation with QC-grade verification: LangGraph, MCP, multi-model LLMs, CDISC, human sign-off and a p",
-    "id": "grprakasam/adam-ai",
-    "language": "Python",
-    "name": "grprakasam/adam-ai",
-    "stars": 0,
-    "updated_at": "2026-10-27T14:38:04Z",
-    "url": "https://github.com/grprakasam/adam-ai"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-27T14:46:13Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "Self-hosted model and dataset hub, compatible with the Hugging Face Hub API, git, Ollama and LM Studio. Use it as a priv",
-    "id": "hangar-hub/hangar",
-    "language": "Go",
-    "name": "hangar-hub/hangar",
-    "stars": 2,
-    "updated_at": "2026-10-27T16:15:13Z",
-    "url": "https://github.com/hangar-hub/hangar"
   }
 ]
