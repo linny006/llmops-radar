@@ -1,21 +1,120 @@
 [
   {
-    "description": "A cost-guarded, hallucination-checked LLM pipeline for structured record enrichment: schema-enforced tool-use extraction",
-    "id": "Christian-T-256/llm-enrichment-pipeline",
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
     "language": "Python",
-    "name": "Christian-T-256/llm-enrichment-pipeline",
-    "stars": 0,
-    "updated_at": "2026-10-27T19:43:51Z",
-    "url": "https://github.com/Christian-T-256/llm-enrichment-pipeline"
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 2,
+    "updated_at": "2026-10-27T19:59:43Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 62170,
-    "updated_at": "2026-10-27T19:43:39Z",
+    "stars": 62171,
+    "updated_at": "2026-10-27T19:59:20Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-27T19:57:25Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Searchable Excalidraw library for system design interviews and agentic AI architecture: 292 items, UI wireframes, patter",
+    "id": "Dinesh-Sunny/excalidraw-system-design-kit",
+    "language": "HTML",
+    "name": "Dinesh-Sunny/excalidraw-system-design-kit",
+    "stars": 1,
+    "updated_at": "2026-10-27T19:57:07Z",
+    "url": "https://github.com/Dinesh-Sunny/excalidraw-system-design-kit"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-27T19:57:22Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
+    "id": "ihabkhaled/ClawAI",
+    "language": "TypeScript",
+    "name": "ihabkhaled/ClawAI",
+    "stars": 24,
+    "updated_at": "2026-10-27T19:56:55Z",
+    "url": "https://github.com/ihabkhaled/ClawAI"
+  },
+  {
+    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
+    "id": "korczis/prismatic-majordomus",
+    "language": "Rust",
+    "name": "korczis/prismatic-majordomus",
+    "stars": 0,
+    "updated_at": "2026-10-27T19:56:20Z",
+    "url": "https://github.com/korczis/prismatic-majordomus"
+  },
+  {
+    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
+    "id": "NVIDIA-NeMo/nemo-helix",
+    "language": "Python",
+    "name": "NVIDIA-NeMo/nemo-helix",
+    "stars": 131,
+    "updated_at": "2026-10-27T19:58:49Z",
+    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
+  },
+  {
+    "description": "",
+    "id": "ainsel-project/ainsel",
+    "language": "Go",
+    "name": "ainsel-project/ainsel",
+    "stars": 2,
+    "updated_at": "2026-10-27T19:54:31Z",
+    "url": "https://github.com/ainsel-project/ainsel"
+  },
+  {
+    "description": "AI-powered desktop localization for game mods: Paradox games and Surviving Mars: Relaunched, with RimWorld and Project Z",
+    "id": "Drlinglong/Remis",
+    "language": "Python",
+    "name": "Drlinglong/Remis",
+    "stars": 30,
+    "updated_at": "2026-10-27T19:55:00Z",
+    "url": "https://github.com/Drlinglong/Remis"
+  },
+  {
+    "description": "AgentFox: open-source control plane for AI agents. Guardrails on model traffic, tool calls bounded by capability grants,",
+    "id": "architsharm/agentfox",
+    "language": "Python",
+    "name": "architsharm/agentfox",
+    "stars": 4,
+    "updated_at": "2026-10-27T19:52:10Z",
+    "url": "https://github.com/architsharm/agentfox"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 42,
+    "updated_at": "2026-10-27T19:46:16Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-27T19:45:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Local-first operating model and spec-driven workflow framework for agentic AI teams based on KCC operating model  https:",
@@ -27,13 +126,13 @@
     "url": "https://github.com/TarekFawaz/kcc-agentic-framework"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 42,
-    "updated_at": "2026-10-27T19:42:13Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
+    "description": "A cost-guarded, hallucination-checked LLM pipeline for structured record enrichment: schema-enforced tool-use extraction",
+    "id": "Christian-T-256/llm-enrichment-pipeline",
+    "language": "Python",
+    "name": "Christian-T-256/llm-enrichment-pipeline",
+    "stars": 0,
+    "updated_at": "2026-10-27T19:43:51Z",
+    "url": "https://github.com/Christian-T-256/llm-enrichment-pipeline"
   },
   {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
@@ -41,7 +140,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 2211,
-    "updated_at": "2026-10-27T19:42:29Z",
+    "updated_at": "2026-10-27T19:58:48Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -50,7 +149,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-27T19:40:45Z",
+    "updated_at": "2026-10-27T19:57:28Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -72,21 +171,12 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "AI-powered desktop localization for game mods: Paradox games and Surviving Mars: Relaunched, with RimWorld and Project Z",
-    "id": "Drlinglong/Remis",
-    "language": "Python",
-    "name": "Drlinglong/Remis",
-    "stars": 30,
-    "updated_at": "2026-10-27T19:41:31Z",
-    "url": "https://github.com/Drlinglong/Remis"
-  },
-  {
     "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
     "id": "negativexq/agentic-customer-service-platform",
     "language": "Python",
     "name": "negativexq/agentic-customer-service-platform",
     "stars": 11,
-    "updated_at": "2026-10-27T19:37:33Z",
+    "updated_at": "2026-10-27T19:50:25Z",
     "url": "https://github.com/negativexq/agentic-customer-service-platform"
   },
   {
@@ -97,15 +187,6 @@
     "stars": 8,
     "updated_at": "2026-10-27T19:37:07Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-27T19:34:34Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "\ud83c\udf89 An awesome & curated list of best LLMOps tools.",
@@ -122,7 +203,7 @@
     "language": "Python",
     "name": "rhesis-ai/rhesis",
     "stars": 402,
-    "updated_at": "2026-10-27T19:33:22Z",
+    "updated_at": "2026-10-27T19:57:19Z",
     "url": "https://github.com/rhesis-ai/rhesis"
   },
   {
@@ -135,13 +216,13 @@
     "url": "https://github.com/overmind-core/overmind"
   },
   {
-    "description": "Searchable Excalidraw library for system design interviews and agentic AI architecture: 292 items, UI wireframes, patter",
-    "id": "Dinesh-Sunny/excalidraw-system-design-kit",
-    "language": "HTML",
-    "name": "Dinesh-Sunny/excalidraw-system-design-kit",
-    "stars": 1,
-    "updated_at": "2026-10-27T19:23:55Z",
-    "url": "https://github.com/Dinesh-Sunny/excalidraw-system-design-kit"
+    "description": "Deterministic, fail-open guardrail hooks for Claude Code agents: justification-gated sub-agents, proof-before-done, quot",
+    "id": "antig3n/claude-code-guardrails",
+    "language": "Python",
+    "name": "antig3n/claude-code-guardrails",
+    "stars": 0,
+    "updated_at": "2026-10-27T19:22:07Z",
+    "url": "https://github.com/antig3n/claude-code-guardrails"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -151,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-10-27T19:18:33Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
-    "id": "NVIDIA-NeMo/nemo-helix",
-    "language": "Python",
-    "name": "NVIDIA-NeMo/nemo-helix",
-    "stars": 131,
-    "updated_at": "2026-10-27T19:35:52Z",
-    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
@@ -185,7 +257,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22969,
-    "updated_at": "2026-10-27T19:13:45Z",
+    "updated_at": "2026-10-27T19:45:39Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -196,15 +268,6 @@
     "stars": 29,
     "updated_at": "2026-10-27T19:38:10Z",
     "url": "https://github.com/AixleHQ/flow"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-27T19:11:10Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Enterprise Scale AIFactory (esml) - on Azure",
@@ -243,15 +306,6 @@
     "url": "https://github.com/piotrekno1/second-shift"
   },
   {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-27T18:58:02Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
     "description": "A control layer that decides how an LLM should speak before it speaks",
     "id": "Furox-Art/eq-layer",
     "language": "Python",
@@ -268,15 +322,6 @@
     "stars": 4,
     "updated_at": "2026-10-27T18:57:37Z",
     "url": "https://github.com/Furox-Art/quantum-reasoning-skill"
-  },
-  {
-    "description": "AgentFox: open-source control plane for AI agents. Guardrails on model traffic, tool calls bounded by capability grants,",
-    "id": "architsharm/agentfox",
-    "language": "Python",
-    "name": "architsharm/agentfox",
-    "stars": 4,
-    "updated_at": "2026-10-27T19:31:38Z",
-    "url": "https://github.com/architsharm/agentfox"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -313,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-10-27T18:45:31Z",
     "url": "https://github.com/hjongc/openrouter-endpoint-watch"
-  },
-  {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 2,
-    "updated_at": "2026-10-27T19:23:02Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
     "description": "CloudOps Gemma Agent \u2014 6-Part Production Gemma Enterprise Agent Platform (Google ADK, Cloud Run L4 GPU, vLLM, Firestore,",
@@ -410,43 +446,7 @@
     "language": "Python",
     "name": "luetzey/who2be",
     "stars": 0,
-    "updated_at": "2026-10-27T19:23:02Z",
+    "updated_at": "2026-10-27T19:52:27Z",
     "url": "https://github.com/luetzey/who2be"
-  },
-  {
-    "description": "Apache Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode li",
-    "id": "apache/hamilton",
-    "language": "Jupyter Notebook",
-    "name": "apache/hamilton",
-    "stars": 2618,
-    "updated_at": "2026-10-27T18:32:47Z",
-    "url": "https://github.com/apache/hamilton"
-  },
-  {
-    "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
-    "id": "holetz/quenching",
-    "language": "Python",
-    "name": "holetz/quenching",
-    "stars": 0,
-    "updated_at": "2026-10-27T18:10:42Z",
-    "url": "https://github.com/holetz/quenching"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 24,
-    "updated_at": "2026-10-27T18:09:18Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 4,
-    "updated_at": "2026-10-27T18:08:12Z",
-    "url": "https://github.com/vivek-541/vivek-541"
   }
 ]
