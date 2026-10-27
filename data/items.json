@@ -1,12 +1,66 @@
 [
   {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-27T04:43:05Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 3020,
+    "updated_at": "2026-10-27T04:36:05Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 12018,
+    "updated_at": "2026-10-27T04:37:47Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 42,
+    "updated_at": "2026-10-27T04:33:32Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Enterprise Azure AI & GenAI Landing Zone in Terraform: Zero-Trust Private Network, APIM AI Gateway with token rate-limit",
+    "id": "sanjiivsingh/azure-enterprise-ai-landing-zone-terraform",
+    "language": "HCL",
+    "name": "sanjiivsingh/azure-enterprise-ai-landing-zone-terraform",
+    "stars": 1,
+    "updated_at": "2026-10-27T04:32:56Z",
+    "url": "https://github.com/sanjiivsingh/azure-enterprise-ai-landing-zone-terraform"
+  },
+  {
     "description": "What if OpenAI Deep Research and Dify were one platform? OpenAgent \u2014 harness architecture for rapidly building vertical ",
     "id": "Haohao-end/openagent",
     "language": "Python",
     "name": "Haohao-end/openagent",
     "stars": 774,
-    "updated_at": "2026-10-27T04:30:15Z",
+    "updated_at": "2026-10-27T04:42:47Z",
     "url": "https://github.com/Haohao-end/openagent"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-27T04:30:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Self-hostable AI token pools \u2014 govern your org's AI usage with per-member keys, quotas, and leak detection; or deposit s",
@@ -16,15 +70,6 @@
     "stars": 6,
     "updated_at": "2026-10-27T04:30:11Z",
     "url": "https://github.com/Phat1911/Tributary"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 42,
-    "updated_at": "2026-10-27T04:27:06Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Live cost, token and context usage sidebar for Claude Code: a mod that shows cost per turn, cache hit rate, burn rate an",
@@ -50,7 +95,7 @@
     "language": "JavaScript",
     "name": "Fast-Editor/Lynkr",
     "stars": 638,
-    "updated_at": "2026-10-27T04:22:06Z",
+    "updated_at": "2026-10-27T04:32:32Z",
     "url": "https://github.com/Fast-Editor/Lynkr"
   },
   {
@@ -58,7 +103,7 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 62101,
+    "stars": 62104,
     "updated_at": "2026-10-27T04:18:42Z",
     "url": "https://github.com/BerriAI/litellm"
   },
@@ -68,7 +113,7 @@
     "language": "Python",
     "name": "MukulRay1603/Irminsul",
     "stars": 6,
-    "updated_at": "2026-10-27T04:17:45Z",
+    "updated_at": "2026-10-27T04:34:39Z",
     "url": "https://github.com/MukulRay1603/Irminsul"
   },
   {
@@ -90,15 +135,6 @@
     "url": "https://github.com/alebgl77/grafana-llmops-forge"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-27T04:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
     "id": "toxicwind/ranch",
     "language": "Rust",
@@ -113,7 +149,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5927,
-    "updated_at": "2026-10-27T04:10:19Z",
+    "updated_at": "2026-10-27T04:33:39Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -131,7 +167,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-27T04:14:18Z",
+    "updated_at": "2026-10-27T04:39:04Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -149,7 +185,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 2,
-    "updated_at": "2026-10-27T04:10:06Z",
+    "updated_at": "2026-10-27T04:34:07Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -178,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-10-27T03:41:19Z",
     "url": "https://github.com/gaurav-gandhi-2411/adk-tracegauge"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-27T04:07:48Z",
-    "url": "https://github.com/vocion/vocion-core"
   },
   {
     "description": "AI agent execution governance: pre-effect authorization, single-use permissions, policy enforcement, and verifiable reco",
@@ -223,15 +250,6 @@
     "stars": 29,
     "updated_at": "2026-10-27T03:14:30Z",
     "url": "https://github.com/liaosiliangCodeLife/harness-mate-plat"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 12018,
-    "updated_at": "2026-10-27T03:16:16Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -275,7 +293,7 @@
     "language": "Python",
     "name": "Soum-Code/agentpulse",
     "stars": 0,
-    "updated_at": "2026-10-27T04:09:03Z",
+    "updated_at": "2026-10-27T04:38:21Z",
     "url": "https://github.com/Soum-Code/agentpulse"
   },
   {
@@ -302,7 +320,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4992,
-    "updated_at": "2026-10-27T02:59:02Z",
+    "updated_at": "2026-10-27T04:37:21Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -319,7 +337,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 36557,
+    "stars": 36558,
     "updated_at": "2026-10-27T02:47:26Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -331,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-10-27T02:46:43Z",
     "url": "https://github.com/KBber/KBber"
-  },
-  {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 3020,
-    "updated_at": "2026-10-27T02:41:52Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
     "description": "One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary.",
@@ -392,7 +401,7 @@
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 129,
-    "updated_at": "2026-10-27T04:29:21Z",
+    "updated_at": "2026-10-27T04:39:50Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -430,15 +439,6 @@
     "stars": 4,
     "updated_at": "2026-10-27T01:26:39Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Enterprise Azure AI & GenAI Landing Zone in Terraform: Zero-Trust Private Network, APIM AI Gateway with token rate-limit",
-    "id": "sanjiivsingh/azure-enterprise-ai-landing-zone-terraform",
-    "language": "HCL",
-    "name": "sanjiivsingh/azure-enterprise-ai-landing-zone-terraform",
-    "stars": 1,
-    "updated_at": "2026-10-27T01:19:09Z",
-    "url": "https://github.com/sanjiivsingh/azure-enterprise-ai-landing-zone-terraform"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
