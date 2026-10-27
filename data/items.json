@@ -1,11 +1,56 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 62099,
+    "updated_at": "2026-10-27T04:13:54Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-27T04:10:02Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Local speech-to-prompt pipeline and Dynamic Island desktop pill powered by Faster-Whisper, Ollama (Qwen 2.5), and Postgr",
+    "id": "daniloofrs/speech-to-prompt-pipeline",
+    "language": "Python",
+    "name": "daniloofrs/speech-to-prompt-pipeline",
+    "stars": 1,
+    "updated_at": "2026-10-27T04:05:43Z",
+    "url": "https://github.com/daniloofrs/speech-to-prompt-pipeline"
+  },
+  {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5927,
+    "updated_at": "2026-10-27T04:10:19Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-27T04:00:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 42,
-    "updated_at": "2026-10-27T04:00:10Z",
+    "updated_at": "2026-10-27T04:08:05Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -23,7 +68,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-27T03:58:03Z",
+    "updated_at": "2026-10-27T04:14:18Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -50,17 +95,8 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 2,
-    "updated_at": "2026-10-27T03:52:52Z",
+    "updated_at": "2026-10-27T04:10:06Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 62098,
-    "updated_at": "2026-10-27T03:48:24Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
@@ -70,15 +106,6 @@
     "stars": 8986,
     "updated_at": "2026-10-27T03:51:28Z",
     "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-27T03:45:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Enterprise Scale AIFactory (esml) - on Azure",
@@ -99,15 +126,6 @@
     "url": "https://github.com/gaurav-gandhi-2411/adk-tracegauge"
   },
   {
-    "description": "Local speech-to-prompt pipeline and Dynamic Island desktop pill powered by Faster-Whisper, Ollama (Qwen 2.5), and Postgr",
-    "id": "daniloofrs/speech-to-prompt-pipeline",
-    "language": "Python",
-    "name": "daniloofrs/speech-to-prompt-pipeline",
-    "stars": 1,
-    "updated_at": "2026-10-27T03:35:19Z",
-    "url": "https://github.com/daniloofrs/speech-to-prompt-pipeline"
-  },
-  {
     "description": "Self-hostable AI token pools \u2014 govern your org's AI usage with per-member keys, quotas, and leak detection; or deposit s",
     "id": "Phat1911/Tributary",
     "language": "Rust",
@@ -122,7 +140,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-27T03:58:59Z",
+    "updated_at": "2026-10-27T04:07:48Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -176,7 +194,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28548,
-    "updated_at": "2026-10-27T03:14:01Z",
+    "updated_at": "2026-10-27T04:01:29Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -187,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-10-27T03:58:51Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-27T03:11:28Z",
-    "url": "https://github.com/toxicwind/ranch"
   },
   {
     "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
@@ -221,7 +230,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 12080,
-    "updated_at": "2026-10-27T03:07:45Z",
+    "updated_at": "2026-10-27T04:03:34Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -230,7 +239,7 @@
     "language": "Python",
     "name": "Soum-Code/agentpulse",
     "stars": 0,
-    "updated_at": "2026-10-27T03:40:38Z",
+    "updated_at": "2026-10-27T04:09:03Z",
     "url": "https://github.com/Soum-Code/agentpulse"
   },
   {
@@ -261,15 +270,6 @@
     "url": "https://github.com/langwatch/langwatch"
   },
   {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5927,
-    "updated_at": "2026-10-27T03:40:00Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
     "description": "Fine-tuned Llama 3.1 8B \u00b7 QLoRA \u00b7 RAG serving stack \u00b7 FastAPI \u00b7 Pinecone \u00b7 Azure",
     "id": "MukulRay1603/Irminsul",
     "language": "Python",
@@ -283,7 +283,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 22951,
+    "stars": 22952,
     "updated_at": "2026-10-27T02:49:03Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -365,7 +365,7 @@
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 129,
-    "updated_at": "2026-10-27T03:53:20Z",
+    "updated_at": "2026-10-27T04:13:01Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
