@@ -1,12 +1,30 @@
 [
   {
-    "description": "\u7aef\u5230\u7aef\u667a\u80fd\u4f53\u5e73\u53f0\uff1a\u628a\u672c\u673a\u7684 AI Agent \u53d8\u6210\u4eba\u4eba\u53ef\u7528\u7684 Web \u4ea7\u54c1\uff08Vue 3 + Flask + Go WS \u7f51\u5173 + Docker \u90e8\u7f72\uff09",
-    "id": "liaosiliangCodeLife/harness-mate-plat",
+    "description": "Fine-tuned Llama 3.1 8B \u00b7 QLoRA \u00b7 RAG serving stack \u00b7 FastAPI \u00b7 Pinecone \u00b7 Azure",
+    "id": "MukulRay1603/Irminsul",
     "language": "Python",
-    "name": "liaosiliangCodeLife/harness-mate-plat",
-    "stars": 28,
-    "updated_at": "2026-10-27T00:58:54Z",
-    "url": "https://github.com/liaosiliangCodeLife/harness-mate-plat"
+    "name": "MukulRay1603/Irminsul",
+    "stars": 6,
+    "updated_at": "2026-10-27T01:11:39Z",
+    "url": "https://github.com/MukulRay1603/Irminsul"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 2,
+    "updated_at": "2026-10-27T01:12:45Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 8984,
+    "updated_at": "2026-10-27T01:13:10Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -14,8 +32,62 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 62087,
-    "updated_at": "2026-10-27T00:58:31Z",
+    "updated_at": "2026-10-27T01:13:24Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
+    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "language": "HTML",
+    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
+    "stars": 1,
+    "updated_at": "2026-10-27T01:08:16Z",
+    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-27T01:04:10Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 42,
+    "updated_at": "2026-10-27T01:02:56Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Production-grade observability and agentic AIOps for AI systems \u2014 OpenTelemetry-native across independent polyglot apps;",
+    "id": "Root1V/argus-observability-platform",
+    "language": "Python",
+    "name": "Root1V/argus-observability-platform",
+    "stars": 1,
+    "updated_at": "2026-10-27T01:02:49Z",
+    "url": "https://github.com/Root1V/argus-observability-platform"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-27T01:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\u7aef\u5230\u7aef\u667a\u80fd\u4f53\u5e73\u53f0\uff1a\u628a\u672c\u673a\u7684 AI Agent \u53d8\u6210\u4eba\u4eba\u53ef\u7528\u7684 Web \u4ea7\u54c1\uff08Vue 3 + Flask + Go WS \u7f51\u5173 + Docker \u90e8\u7f72\uff09",
+    "id": "liaosiliangCodeLife/harness-mate-plat",
+    "language": "Python",
+    "name": "liaosiliangCodeLife/harness-mate-plat",
+    "stars": 29,
+    "updated_at": "2026-10-27T00:58:54Z",
+    "url": "https://github.com/liaosiliangCodeLife/harness-mate-plat"
   },
   {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
@@ -45,33 +117,6 @@
     "url": "https://github.com/evelandhq/eveland"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 42,
-    "updated_at": "2026-10-27T00:49:23Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 8983,
-    "updated_at": "2026-10-27T01:00:07Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-27T00:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "ThakiCloud Tech Blog",
     "id": "ThakiCloud/thakicloud.github.io",
     "language": "JavaScript",
@@ -88,24 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-27T00:39:54Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 2,
-    "updated_at": "2026-10-27T00:48:59Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "Fine-tuned Llama 3.1 8B \u00b7 QLoRA \u00b7 RAG serving stack \u00b7 FastAPI \u00b7 Pinecone \u00b7 Azure",
-    "id": "MukulRay1603/Irminsul",
-    "language": "Python",
-    "name": "MukulRay1603/Irminsul",
-    "stars": 6,
-    "updated_at": "2026-10-27T00:31:46Z",
-    "url": "https://github.com/MukulRay1603/Irminsul"
   },
   {
     "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
@@ -158,7 +185,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22949,
-    "updated_at": "2026-10-27T00:23:53Z",
+    "updated_at": "2026-10-27T01:10:20Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -176,7 +203,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28546,
-    "updated_at": "2026-10-27T00:27:26Z",
+    "updated_at": "2026-10-27T01:15:05Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -230,7 +257,7 @@
     "language": "Go",
     "name": "a-novel/service-genai",
     "stars": 2,
-    "updated_at": "2026-10-26T23:53:18Z",
+    "updated_at": "2026-10-27T01:12:13Z",
     "url": "https://github.com/a-novel/service-genai"
   },
   {
@@ -257,7 +284,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-26T23:44:52Z",
+    "updated_at": "2026-10-27T01:10:13Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -275,7 +302,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 36541,
-    "updated_at": "2026-10-27T00:51:49Z",
+    "updated_at": "2026-10-27T01:05:41Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -338,7 +365,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 12015,
-    "updated_at": "2026-10-26T22:52:50Z",
+    "updated_at": "2026-10-27T01:14:45Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -349,15 +376,6 @@
     "stars": 1289,
     "updated_at": "2026-10-26T22:32:51Z",
     "url": "https://github.com/Arize-ai/openinference"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-26T22:29:32Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Provider-neutral Python library for LLM and AI evaluation, regression testing, statistical release gates, judge calibrat",
@@ -419,7 +437,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4993,
-    "updated_at": "2026-10-27T00:33:18Z",
+    "updated_at": "2026-10-27T01:06:28Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 10,
     "updated_at": "2026-10-26T22:03:36Z",
     "url": "https://github.com/brtydse100/litegate"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible LLM gateway: cost-aware routing, safe semantic caching, failover, budgets",
-    "id": "rishikgbs04/switchyard",
-    "language": "Python",
-    "name": "rishikgbs04/switchyard",
-    "stars": 0,
-    "updated_at": "2026-10-26T21:41:33Z",
-    "url": "https://github.com/rishikgbs04/switchyard"
-  },
-  {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 11,
-    "updated_at": "2026-10-26T23:49:21Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
   }
 ]
