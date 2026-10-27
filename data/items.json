@@ -1,5 +1,86 @@
 [
   {
+    "description": "What if OpenAI Deep Research and Dify were one platform? OpenAgent \u2014 harness architecture for rapidly building vertical ",
+    "id": "Haohao-end/openagent",
+    "language": "Python",
+    "name": "Haohao-end/openagent",
+    "stars": 774,
+    "updated_at": "2026-10-27T05:14:16Z",
+    "url": "https://github.com/Haohao-end/openagent"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 62110,
+    "updated_at": "2026-10-27T05:13:32Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
+    "language": "Python",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 53,
+    "updated_at": "2026-10-27T05:09:33Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-27T05:09:08Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 2,
+    "updated_at": "2026-10-27T05:10:55Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 2,
+    "updated_at": "2026-10-27T05:02:22Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 42,
+    "updated_at": "2026-10-27T05:02:02Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-27T05:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Dependency-free harness for evaluating business LLM features: labeled cases, error taxonomy, prompt/model comparison and",
+    "id": "yahayuta/business-ai-evals",
+    "language": "Python",
+    "name": "yahayuta/business-ai-evals",
+    "stars": 0,
+    "updated_at": "2026-10-27T05:00:20Z",
+    "url": "https://github.com/yahayuta/business-ai-evals"
+  },
+  {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
     "id": "sarkars/agent-failure-modes",
     "language": "Python",
@@ -18,49 +99,13 @@
     "url": "https://github.com/domondi1/inferrail"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 42,
-    "updated_at": "2026-10-27T04:54:59Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 2,
-    "updated_at": "2026-10-27T05:00:00Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "Enterprise Scale AIFactory (esml) - on Azure",
-    "id": "jostrm/azure-enterprise-scale-ml",
-    "language": "Python",
-    "name": "jostrm/azure-enterprise-scale-ml",
-    "stars": 53,
-    "updated_at": "2026-10-27T04:49:01Z",
-    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
-  },
-  {
     "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
     "id": "NVIDIA-NeMo/nemo-helix",
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 129,
-    "updated_at": "2026-10-27T04:45:32Z",
+    "updated_at": "2026-10-27T05:11:08Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-27T04:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
@@ -99,15 +144,6 @@
     "url": "https://github.com/sanjiivsingh/azure-enterprise-ai-landing-zone-terraform"
   },
   {
-    "description": "What if OpenAI Deep Research and Dify were one platform? OpenAgent \u2014 harness architecture for rapidly building vertical ",
-    "id": "Haohao-end/openagent",
-    "language": "Python",
-    "name": "Haohao-end/openagent",
-    "stars": 774,
-    "updated_at": "2026-10-27T04:42:47Z",
-    "url": "https://github.com/Haohao-end/openagent"
-  },
-  {
     "description": "Self-hostable AI token pools \u2014 govern your org's AI usage with per-member keys, quotas, and leak detection; or deposit s",
     "id": "Phat1911/Tributary",
     "language": "Rust",
@@ -131,7 +167,7 @@
     "language": "Python",
     "name": "llmspendguard/llm-spendguard",
     "stars": 0,
-    "updated_at": "2026-10-27T04:28:03Z",
+    "updated_at": "2026-10-27T05:03:43Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
@@ -142,15 +178,6 @@
     "stars": 638,
     "updated_at": "2026-10-27T04:32:32Z",
     "url": "https://github.com/Fast-Editor/Lynkr"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 62105,
-    "updated_at": "2026-10-27T04:18:42Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Fine-tuned Llama 3.1 8B \u00b7 QLoRA \u00b7 RAG serving stack \u00b7 FastAPI \u00b7 Pinecone \u00b7 Azure",
@@ -180,15 +207,6 @@
     "url": "https://github.com/alebgl77/grafana-llmops-forge"
   },
   {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-27T04:10:02Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
@@ -212,7 +230,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-27T04:57:04Z",
+    "updated_at": "2026-10-27T05:08:09Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -221,7 +239,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8986,
-    "updated_at": "2026-10-27T04:30:20Z",
+    "updated_at": "2026-10-27T05:05:03Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -239,7 +257,7 @@
     "language": "Python",
     "name": "veritasfuji-japan/veritas_os",
     "stars": 42,
-    "updated_at": "2026-10-27T03:30:29Z",
+    "updated_at": "2026-10-27T05:04:44Z",
     "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
@@ -248,7 +266,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 207,
-    "updated_at": "2026-10-27T04:58:25Z",
+    "updated_at": "2026-10-27T05:09:26Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -279,15 +297,6 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 2,
-    "updated_at": "2026-10-27T04:58:28Z",
-    "url": "https://github.com/a-novel/service-genai"
-  },
-  {
     "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
     "id": "0xLazAI/alith",
     "language": "Rust",
@@ -302,7 +311,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 12080,
-    "updated_at": "2026-10-27T04:03:34Z",
+    "updated_at": "2026-10-27T05:13:05Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -355,7 +364,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 36558,
+    "stars": 36559,
     "updated_at": "2026-10-27T02:47:26Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -439,14 +448,5 @@
     "stars": 741,
     "updated_at": "2026-10-27T02:46:20Z",
     "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-10-27T01:26:39Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   }
 ]
