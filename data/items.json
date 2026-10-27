@@ -1,5 +1,59 @@
 [
   {
+    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
+    "id": "api7/aisix",
+    "language": "Rust",
+    "name": "api7/aisix",
+    "stars": 207,
+    "updated_at": "2026-10-27T03:30:09Z",
+    "url": "https://github.com/api7/aisix"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 62097,
+    "updated_at": "2026-10-27T03:28:48Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 42,
+    "updated_at": "2026-10-27T03:28:59Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "What if OpenAI Deep Research and Dify were one platform? OpenAgent \u2014 harness architecture for rapidly building vertical ",
+    "id": "Haohao-end/openagent",
+    "language": "Python",
+    "name": "Haohao-end/openagent",
+    "stars": 774,
+    "updated_at": "2026-10-27T03:28:59Z",
+    "url": "https://github.com/Haohao-end/openagent"
+  },
+  {
+    "description": "A decision library for running local LLMs on multi-GPU machines without NVLink: parallelism, communication, quantization",
+    "id": "Lowaltitudeflight/local-llm-tuning-guide",
+    "language": "Python",
+    "name": "Lowaltitudeflight/local-llm-tuning-guide",
+    "stars": 19,
+    "updated_at": "2026-10-27T03:17:39Z",
+    "url": "https://github.com/Lowaltitudeflight/local-llm-tuning-guide"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-27T03:15:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "\u7aef\u5230\u7aef\u667a\u80fd\u4f53\u5e73\u53f0\uff1a\u628a\u672c\u673a\u7684 AI Agent \u53d8\u6210\u4eba\u4eba\u53ef\u7528\u7684 Web \u4ea7\u54c1\uff08Vue 3 + Flask + Go WS \u7f51\u5173 + Docker \u90e8\u7f72\uff09",
     "id": "liaosiliangCodeLife/harness-mate-plat",
     "language": "Python",
@@ -14,7 +68,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 12018,
-    "updated_at": "2026-10-27T03:14:23Z",
+    "updated_at": "2026-10-27T03:16:16Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -23,7 +77,7 @@
     "language": "Python",
     "name": "llmspendguard/llm-spendguard",
     "stars": 0,
-    "updated_at": "2026-10-27T03:11:49Z",
+    "updated_at": "2026-10-27T03:26:39Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
@@ -34,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-10-27T03:11:28Z",
     "url": "https://github.com/toxicwind/ranch"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 62097,
-    "updated_at": "2026-10-27T03:12:36Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
@@ -63,12 +108,21 @@
     "url": "https://github.com/0xLazAI/alith"
   },
   {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "Python",
+    "name": "dataelement/bisheng",
+    "stars": 12080,
+    "updated_at": "2026-10-27T03:07:45Z",
+    "url": "https://github.com/dataelement/bisheng"
+  },
+  {
     "description": "Self-hostable observability SDK for continuous grounding-risk and drift monitoring in multi-agent LLM systems",
     "id": "Soum-Code/agentpulse",
     "language": "Python",
     "name": "Soum-Code/agentpulse",
     "stars": 0,
-    "updated_at": "2026-10-27T03:06:36Z",
+    "updated_at": "2026-10-27T03:18:52Z",
     "url": "https://github.com/Soum-Code/agentpulse"
   },
   {
@@ -106,33 +160,6 @@
     "stars": 1,
     "updated_at": "2026-10-27T03:02:51Z",
     "url": "https://github.com/Root1V/argus-observability-platform"
-  },
-  {
-    "description": "What if OpenAI Deep Research and Dify were one platform? OpenAgent \u2014 harness architecture for rapidly building vertical ",
-    "id": "Haohao-end/openagent",
-    "language": "Python",
-    "name": "Haohao-end/openagent",
-    "stars": 774,
-    "updated_at": "2026-10-27T03:14:14Z",
-    "url": "https://github.com/Haohao-end/openagent"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-27T03:00:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 42,
-    "updated_at": "2026-10-27T03:05:51Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
@@ -176,7 +203,7 @@
     "language": "Python",
     "name": "MukulRay1603/Irminsul",
     "stars": 6,
-    "updated_at": "2026-10-27T02:53:43Z",
+    "updated_at": "2026-10-27T03:28:08Z",
     "url": "https://github.com/MukulRay1603/Irminsul"
   },
   {
@@ -193,7 +220,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 36550,
+    "stars": 36552,
     "updated_at": "2026-10-27T02:47:26Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -275,7 +302,7 @@
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 129,
-    "updated_at": "2026-10-27T03:05:18Z",
+    "updated_at": "2026-10-27T03:22:42Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -322,6 +349,15 @@
     "stars": 4,
     "updated_at": "2026-10-27T01:26:39Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "Enterprise Azure AI & GenAI Landing Zone in Terraform: Zero-Trust Private Network, APIM AI Gateway with token rate-limit",
+    "id": "sanjiivsingh/azure-enterprise-ai-landing-zone-terraform",
+    "language": "HCL",
+    "name": "sanjiivsingh/azure-enterprise-ai-landing-zone-terraform",
+    "stars": 0,
+    "updated_at": "2026-10-27T01:19:09Z",
+    "url": "https://github.com/sanjiivsingh/azure-enterprise-ai-landing-zone-terraform"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-27T00:01:17Z",
     "url": "https://github.com/alexvervloet/knowledge-desk"
-  },
-  {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
-    "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 1,
-    "updated_at": "2026-10-26T23:56:23Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "Grafana-native LLMOps dashboards for FinOps, agents, quality and AI governance. Automated query and deployment checks, w",
-    "id": "alebgl77/grafana-llmops-forge",
-    "language": "Python",
-    "name": "alebgl77/grafana-llmops-forge",
-    "stars": 1,
-    "updated_at": "2026-10-26T23:50:31Z",
-    "url": "https://github.com/alebgl77/grafana-llmops-forge"
-  },
-  {
-    "description": "Deterministic trace-based integration testing for LLM apps",
-    "id": "barzoj-co/llmentary",
-    "language": "Go",
-    "name": "barzoj-co/llmentary",
-    "stars": 0,
-    "updated_at": "2026-10-26T23:35:42Z",
-    "url": "https://github.com/barzoj-co/llmentary"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-27T01:10:13Z",
-    "url": "https://github.com/vocion/vocion-core"
   }
 ]
