@@ -1,21 +1,21 @@
 [
   {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
     "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 3017,
-    "updated_at": "2026-10-27T01:44:33Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 12,
+    "updated_at": "2026-10-27T01:59:20Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 62092,
-    "updated_at": "2026-10-27T01:44:58Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "description": "Linux VM agent for AcornOps, providing outbound system connectivity, host inspection, and controlled VM operations.",
+    "id": "acornops/agentv",
+    "language": "TypeScript",
+    "name": "acornops/agentv",
+    "stars": 1,
+    "updated_at": "2026-10-27T01:57:48Z",
+    "url": "https://github.com/acornops/agentv"
   },
   {
     "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
@@ -23,8 +23,44 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 2,
-    "updated_at": "2026-10-27T01:45:12Z",
+    "updated_at": "2026-10-27T01:57:43Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-27T01:56:41Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 62093,
+    "updated_at": "2026-10-27T01:59:52Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-27T01:55:08Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
+    "id": "NVIDIA-NeMo/nemo-helix",
+    "language": "Python",
+    "name": "NVIDIA-NeMo/nemo-helix",
+    "stars": 129,
+    "updated_at": "2026-10-27T01:54:54Z",
+    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
     "description": "Agentic Runtime",
@@ -32,8 +68,35 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 42,
-    "updated_at": "2026-10-27T01:38:15Z",
+    "updated_at": "2026-10-27T01:55:43Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 3017,
+    "updated_at": "2026-10-27T01:50:51Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4993,
+    "updated_at": "2026-10-27T01:48:49Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28546,
+    "updated_at": "2026-10-27T01:47:59Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
@@ -41,7 +104,7 @@
     "language": "Python",
     "name": "linny006/llmops-radar",
     "stars": 3,
-    "updated_at": "2026-10-27T01:30:25Z",
+    "updated_at": "2026-10-27T01:45:25Z",
     "url": "https://github.com/linny006/llmops-radar"
   },
   {
@@ -68,7 +131,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 8985,
-    "updated_at": "2026-10-27T01:40:11Z",
+    "updated_at": "2026-10-27T01:46:21Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -88,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-10-27T01:19:42Z",
     "url": "https://github.com/a-novel/service-genai"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28546,
-    "updated_at": "2026-10-27T01:33:57Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Fine-tuned Llama 3.1 8B \u00b7 QLoRA \u00b7 RAG serving stack \u00b7 FastAPI \u00b7 Pinecone \u00b7 Azure",
@@ -135,15 +189,6 @@
     "url": "https://github.com/langfuse/langfuse"
   },
   {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-27T01:04:10Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
     "description": "Production-grade observability and agentic AIOps for AI systems \u2014 OpenTelemetry-native across independent polyglot apps;",
     "id": "Root1V/argus-observability-platform",
     "language": "Python",
@@ -160,15 +205,6 @@
     "stars": 30771,
     "updated_at": "2026-10-27T00:59:28Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-27T00:58:58Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
     "description": "Redaction proposals for access-to-information releases that read context like a reviewer: deterministic rules, then Jev,",
@@ -196,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-10-27T01:40:46Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
-    "id": "NVIDIA-NeMo/nemo-helix",
-    "language": "Python",
-    "name": "NVIDIA-NeMo/nemo-helix",
-    "stars": 129,
-    "updated_at": "2026-10-27T01:40:49Z",
-    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
     "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
@@ -286,15 +313,6 @@
     "stars": 1,
     "updated_at": "2026-10-26T23:56:23Z",
     "url": "https://github.com/JavisBot-Service/javis-transparency"
-  },
-  {
-    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
-    "id": "llmsyscore/llm-systems-manager",
-    "language": "Python",
-    "name": "llmsyscore/llm-systems-manager",
-    "stars": 12,
-    "updated_at": "2026-10-26T23:49:21Z",
-    "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
     "description": "Grafana-native LLMOps dashboards for FinOps, agents, quality and AI governance. Automated query and deployment checks, w",
@@ -430,23 +448,5 @@
     "stars": 2208,
     "updated_at": "2026-10-27T00:01:26Z",
     "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve",
-    "id": "tmusser/ai-engineering-skills",
-    "language": "Python",
-    "name": "tmusser/ai-engineering-skills",
-    "stars": 6,
-    "updated_at": "2026-10-26T22:19:46Z",
-    "url": "https://github.com/tmusser/ai-engineering-skills"
-  },
-  {
-    "description": "One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary.",
-    "id": "respanai/respan-gateway",
-    "language": "Rust",
-    "name": "respanai/respan-gateway",
-    "stars": 343,
-    "updated_at": "2026-10-27T01:24:39Z",
-    "url": "https://github.com/respanai/respan-gateway"
   }
 ]
