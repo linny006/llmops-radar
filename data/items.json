@@ -1,12 +1,120 @@
 [
   {
+    "description": "Open-source AI on-call engineer for AWS. An alarm comes in, WARDEN reads the evidence, the AI proposes one fix from a cl",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-10-27T09:30:14Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "What if OpenAI Deep Research and Dify were one platform? OpenAgent \u2014 harness architecture for rapidly building vertical ",
+    "id": "Haohao-end/openagent",
+    "language": "Python",
+    "name": "Haohao-end/openagent",
+    "stars": 774,
+    "updated_at": "2026-10-27T09:27:33Z",
+    "url": "https://github.com/Haohao-end/openagent"
+  },
+  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 22957,
-    "updated_at": "2026-10-27T09:14:19Z",
+    "stars": 22958,
+    "updated_at": "2026-10-27T09:26:33Z",
     "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Agentic ADaM code generation with QC-grade verification: LangGraph, MCP, multi-model LLMs, CDISC, human sign-off and a p",
+    "id": "grprakasam/adam-ai",
+    "language": "Python",
+    "name": "grprakasam/adam-ai",
+    "stars": 0,
+    "updated_at": "2026-10-27T09:26:28Z",
+    "url": "https://github.com/grprakasam/adam-ai"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 30772,
+    "updated_at": "2026-10-27T09:27:20Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
+    "description": "Self-hostable observability SDK for continuous grounding-risk and drift monitoring in multi-agent LLM systems",
+    "id": "Soum-Code/agentpulse",
+    "language": "Python",
+    "name": "Soum-Code/agentpulse",
+    "stars": 0,
+    "updated_at": "2026-10-27T09:25:37Z",
+    "url": "https://github.com/Soum-Code/agentpulse"
+  },
+  {
+    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
+    "id": "digline/digline",
+    "language": "Python",
+    "name": "digline/digline",
+    "stars": 9,
+    "updated_at": "2026-10-27T09:23:11Z",
+    "url": "https://github.com/digline/digline"
+  },
+  {
+    "description": "AI agent execution governance: pre-effect authorization, single-use permissions, policy enforcement, and verifiable reco",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 42,
+    "updated_at": "2026-10-27T09:21:31Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 32,
+    "updated_at": "2026-10-27T09:20:25Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-10-27T09:18:27Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Self-hosted model and dataset hub, compatible with the Hugging Face Hub API, git, Ollama and LM Studio. Use it as a priv",
+    "id": "hangar-hub/hangar",
+    "language": "Go",
+    "name": "hangar-hub/hangar",
+    "stars": 2,
+    "updated_at": "2026-10-27T09:24:45Z",
+    "url": "https://github.com/hangar-hub/hangar"
+  },
+  {
+    "description": "One control plane for every AI asset \u2014 MCP servers, skills, agents, AI apps. Self-hosted ledger with lifecycle state mac",
+    "id": "01men/ybkkasi",
+    "language": "JavaScript",
+    "name": "01men/ybkkasi",
+    "stars": 10,
+    "updated_at": "2026-10-27T09:16:59Z",
+    "url": "https://github.com/01men/ybkkasi"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-27T09:15:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Scheduled agent tasks for your repositories, defined in Git. Approved access, sandboxed runs, a full audit trail.",
@@ -23,17 +131,17 @@
     "language": "Python",
     "name": "tonyweckstrom1987/agentti-pohja",
     "stars": 0,
-    "updated_at": "2026-10-27T09:13:05Z",
+    "updated_at": "2026-10-27T09:29:48Z",
     "url": "https://github.com/tonyweckstrom1987/agentti-pohja"
   },
   {
-    "description": "Open-source AI on-call engineer for AWS. An alarm comes in, WARDEN reads the evidence, the AI proposes one fix from a cl",
-    "id": "veerarakesh56/warden",
+    "description": "Self-hosted AI Agents Platform for AI Native companies. Claude Code, Codex, Gemini, OpenCode agents. Apache 2.0.  ",
+    "id": "Abilityai/trinity",
     "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-10-27T09:13:55Z",
-    "url": "https://github.com/veerarakesh56/warden"
+    "name": "Abilityai/trinity",
+    "stars": 708,
+    "updated_at": "2026-10-27T09:11:59Z",
+    "url": "https://github.com/Abilityai/trinity"
   },
   {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
@@ -43,24 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-27T09:11:04Z",
     "url": "https://github.com/toxicwind/ranch"
-  },
-  {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 32,
-    "updated_at": "2026-10-27T09:09:23Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 30772,
-    "updated_at": "2026-10-27T09:14:46Z",
-    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "Enterprise Scale AIFactory (esml) - on Azure",
@@ -77,7 +167,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 2,
-    "updated_at": "2026-10-27T09:05:58Z",
+    "updated_at": "2026-10-27T09:18:28Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -95,26 +185,8 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 2208,
-    "updated_at": "2026-10-27T09:06:23Z",
+    "updated_at": "2026-10-27T09:29:31Z",
     "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-10-27T09:05:01Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "What if OpenAI Deep Research and Dify were one platform? OpenAgent \u2014 harness architecture for rapidly building vertical ",
-    "id": "Haohao-end/openagent",
-    "language": "Python",
-    "name": "Haohao-end/openagent",
-    "stars": 774,
-    "updated_at": "2026-10-27T09:14:07Z",
-    "url": "https://github.com/Haohao-end/openagent"
   },
   {
     "description": "Daily CI-refreshed history of LLM API pricing \u2014 snapshot + append-only change log for ~2,500 chat models (CSV, CC BY 4.0",
@@ -135,30 +207,12 @@
     "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-27T09:00:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Self-hostable observability SDK for continuous grounding-risk and drift monitoring in multi-agent LLM systems",
-    "id": "Soum-Code/agentpulse",
-    "language": "Python",
-    "name": "Soum-Code/agentpulse",
-    "stars": 0,
-    "updated_at": "2026-10-27T08:59:57Z",
-    "url": "https://github.com/Soum-Code/agentpulse"
-  },
-  {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 36579,
-    "updated_at": "2026-10-27T08:59:43Z",
+    "updated_at": "2026-10-27T09:28:21Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -203,7 +257,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 741,
-    "updated_at": "2026-10-27T09:05:11Z",
+    "updated_at": "2026-10-27T09:29:09Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -247,8 +301,8 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 62134,
-    "updated_at": "2026-10-27T08:29:39Z",
+    "stars": 62137,
+    "updated_at": "2026-10-27T09:28:18Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -275,7 +329,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 207,
-    "updated_at": "2026-10-27T08:49:12Z",
+    "updated_at": "2026-10-27T09:30:24Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -302,7 +356,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4994,
-    "updated_at": "2026-10-27T09:15:13Z",
+    "updated_at": "2026-10-27T09:16:31Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -322,15 +376,6 @@
     "stars": 0,
     "updated_at": "2026-10-27T08:16:05Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "AI agent execution governance: pre-effect authorization, single-use permissions, policy enforcement, and verifiable reco",
-    "id": "veritasfuji-japan/veritas_os",
-    "language": "Python",
-    "name": "veritasfuji-japan/veritas_os",
-    "stars": 42,
-    "updated_at": "2026-10-27T08:21:37Z",
-    "url": "https://github.com/veritasfuji-japan/veritas_os"
   },
   {
     "description": "\u7aef\u5230\u7aef\u667a\u80fd\u4f53\u5e73\u53f0\uff1a\u628a\u672c\u673a\u7684 AI Agent \u53d8\u6210\u4eba\u4eba\u53ef\u7528\u7684 Web \u4ea7\u54c1\uff08Vue 3 + Flask + Go WS \u7f51\u5173 + Docker \u90e8\u7f72\uff09",
@@ -365,7 +410,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 12081,
-    "updated_at": "2026-10-27T08:32:24Z",
+    "updated_at": "2026-10-27T09:28:54Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -396,15 +441,6 @@
     "url": "https://github.com/JavisBot-Service/javis-transparency"
   },
   {
-    "description": "One control plane for every AI asset \u2014 MCP servers, skills, agents, AI apps. Self-hosted ledger with lifecycle state mac",
-    "id": "01men/ybkkasi",
-    "language": "JavaScript",
-    "name": "01men/ybkkasi",
-    "stars": 10,
-    "updated_at": "2026-10-27T07:50:52Z",
-    "url": "https://github.com/01men/ybkkasi"
-  },
-  {
     "description": "A curated collection of resources for \ud83c\udf0c Azure OpenAI, \ud83e\udd99 LLMs (+RAG, Agents). Monthly Updates.",
     "id": "kimtth/azure-openai-llm-notes",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 419,
     "updated_at": "2026-10-27T07:50:00Z",
     "url": "https://github.com/kimtth/azure-openai-llm-notes"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 12020,
-    "updated_at": "2026-10-27T07:35:51Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-27T07:34:53Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
-    "id": "Masterplanner25/aindy-runtime",
-    "language": "Python",
-    "name": "Masterplanner25/aindy-runtime",
-    "stars": 1,
-    "updated_at": "2026-10-27T07:25:30Z",
-    "url": "https://github.com/Masterplanner25/aindy-runtime"
-  },
-  {
-    "description": "Local LLM serving gateway in Go with FIFO admission scheduling, reproducible inference benchmarks, and quality evaluatio",
-    "id": "naim-munshi/metriqen-llm-serving-optimization",
-    "language": "Python",
-    "name": "naim-munshi/metriqen-llm-serving-optimization",
-    "stars": 0,
-    "updated_at": "2026-10-27T07:21:06Z",
-    "url": "https://github.com/naim-munshi/metriqen-llm-serving-optimization"
   }
 ]
