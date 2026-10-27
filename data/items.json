@@ -1,12 +1,75 @@
 [
   {
+    "description": "Local-first operating model and spec-driven workflow framework for agentic AI teams based on KCC operating model  https:",
+    "id": "TarekFawaz/kcc-agentic-framework",
+    "language": "PowerShell",
+    "name": "TarekFawaz/kcc-agentic-framework",
+    "stars": 3,
+    "updated_at": "2026-10-27T22:42:18Z",
+    "url": "https://github.com/TarekFawaz/kcc-agentic-framework"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 62179,
-    "updated_at": "2026-10-27T22:28:17Z",
+    "stars": 62180,
+    "updated_at": "2026-10-27T22:42:05Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Evaluated AI assistant platform: LangGraph agent with hybrid RAG and an MLflow quality gate in CI, Java RBAC/audit gatew",
+    "id": "vipin-mo/nexus-ai-hub",
+    "language": "Python",
+    "name": "vipin-mo/nexus-ai-hub",
+    "stars": 0,
+    "updated_at": "2026-10-27T22:39:25Z",
+    "url": "https://github.com/vipin-mo/nexus-ai-hub"
+  },
+  {
+    "description": "Self-hosted hub for AI agent configuration: versioned personas, playbooks and knowledge with a mandatory review step, se",
+    "id": "luetzey/who2be",
+    "language": "Python",
+    "name": "luetzey/who2be",
+    "stars": 0,
+    "updated_at": "2026-10-27T22:36:38Z",
+    "url": "https://github.com/luetzey/who2be"
+  },
+  {
+    "description": "Self-hosted model and dataset hub, compatible with the Hugging Face Hub API, git, Ollama and LM Studio. Use it as a priv",
+    "id": "hangar-hub/hangar",
+    "language": "Go",
+    "name": "hangar-hub/hangar",
+    "stars": 2,
+    "updated_at": "2026-10-27T22:42:54Z",
+    "url": "https://github.com/hangar-hub/hangar"
+  },
+  {
+    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
+    "id": "NVIDIA-NeMo/nemo-helix",
+    "language": "Python",
+    "name": "NVIDIA-NeMo/nemo-helix",
+    "stars": 132,
+    "updated_at": "2026-10-27T22:44:55Z",
+    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
+  },
+  {
+    "description": "Find and prove inference savings on your own GPUs: $/M tokens with 95% CIs, agent workloads, verified-savings statements",
+    "id": "KushagraKanaujia/throttle",
+    "language": "Python",
+    "name": "KushagraKanaujia/throttle",
+    "stars": 7,
+    "updated_at": "2026-10-27T22:31:10Z",
+    "url": "https://github.com/KushagraKanaujia/throttle"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-27T22:30:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -49,18 +112,9 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 12032,
+    "stars": 12033,
     "updated_at": "2026-10-27T22:15:58Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-27T22:15:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Searchable Excalidraw library for system design interviews and agentic AI architecture: 292 items, UI wireframes, patter",
@@ -72,21 +126,12 @@
     "url": "https://github.com/Dinesh-Sunny/excalidraw-system-design-kit"
   },
   {
-    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
-    "id": "NVIDIA-NeMo/nemo-helix",
-    "language": "Python",
-    "name": "NVIDIA-NeMo/nemo-helix",
-    "stars": 132,
-    "updated_at": "2026-10-27T22:23:10Z",
-    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
-  },
-  {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
     "id": "systempromptio/systemprompt-core",
     "language": "Rust",
     "name": "systempromptio/systemprompt-core",
     "stars": 8,
-    "updated_at": "2026-10-27T22:08:22Z",
+    "updated_at": "2026-10-27T22:42:33Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
@@ -203,7 +248,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28563,
-    "updated_at": "2026-10-27T21:15:59Z",
+    "updated_at": "2026-10-27T22:31:46Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -256,7 +301,7 @@
     "id": "overmind-core/overmind",
     "language": "Python",
     "name": "overmind-core/overmind",
-    "stars": 701,
+    "stars": 702,
     "updated_at": "2026-10-27T20:26:34Z",
     "url": "https://github.com/overmind-core/overmind"
   },
@@ -275,7 +320,7 @@
     "language": "Python",
     "name": "negativexq/agentic-customer-service-platform",
     "stars": 11,
-    "updated_at": "2026-10-27T20:04:49Z",
+    "updated_at": "2026-10-27T22:42:53Z",
     "url": "https://github.com/negativexq/agentic-customer-service-platform"
   },
   {
@@ -311,7 +356,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-27T22:19:19Z",
+    "updated_at": "2026-10-27T22:41:02Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -322,15 +367,6 @@
     "stars": 2,
     "updated_at": "2026-10-27T19:54:31Z",
     "url": "https://github.com/ainsel-project/ainsel"
-  },
-  {
-    "description": "Local-first operating model and spec-driven workflow framework for agentic AI teams based on KCC operating model  https:",
-    "id": "TarekFawaz/kcc-agentic-framework",
-    "language": "PowerShell",
-    "name": "TarekFawaz/kcc-agentic-framework",
-    "stars": 3,
-    "updated_at": "2026-10-27T19:45:01Z",
-    "url": "https://github.com/TarekFawaz/kcc-agentic-framework"
   },
   {
     "description": "A cost-guarded, hallucination-checked LLM pipeline for structured record enrichment: schema-enforced tool-use extraction",
@@ -412,41 +448,5 @@
     "stars": 29,
     "updated_at": "2026-10-27T19:38:10Z",
     "url": "https://github.com/AixleHQ/flow"
-  },
-  {
-    "description": "Enterprise Scale AIFactory (esml) - on Azure",
-    "id": "jostrm/azure-enterprise-scale-ml",
-    "language": "Python",
-    "name": "jostrm/azure-enterprise-scale-ml",
-    "stars": 53,
-    "updated_at": "2026-10-27T19:09:42Z",
-    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
-  },
-  {
-    "description": "Scheduled agent tasks for your repositories, defined in Git. Approved access, sandboxed runs, a full audit trail.",
-    "id": "piotrekno1/second-shift",
-    "language": "Python",
-    "name": "piotrekno1/second-shift",
-    "stars": 4,
-    "updated_at": "2026-10-27T18:58:18Z",
-    "url": "https://github.com/piotrekno1/second-shift"
-  },
-  {
-    "description": "A control layer that decides how an LLM should speak before it speaks",
-    "id": "Furox-Art/eq-layer",
-    "language": "Python",
-    "name": "Furox-Art/eq-layer",
-    "stars": 0,
-    "updated_at": "2026-10-27T18:57:47Z",
-    "url": "https://github.com/Furox-Art/eq-layer"
-  },
-  {
-    "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
-    "id": "hjongc/openrouter-endpoint-watch",
-    "language": "Python",
-    "name": "hjongc/openrouter-endpoint-watch",
-    "stars": 0,
-    "updated_at": "2026-10-27T18:45:31Z",
-    "url": "https://github.com/hjongc/openrouter-endpoint-watch"
   }
 ]
