@@ -1,5 +1,23 @@
 [
   {
+    "description": "Self-hosted AI orchestration with policy, approvals, PII controls, audit evidence, retrieval, and governed MCP tools",
+    "id": "Abillify/atf",
+    "language": "TypeScript",
+    "name": "Abillify/atf",
+    "stars": 5,
+    "updated_at": "2026-10-27T14:29:51Z",
+    "url": "https://github.com/Abillify/atf"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-27T14:29:38Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
     "id": "ihabkhaled/ClawAI",
     "language": "TypeScript",
@@ -23,7 +41,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22963,
-    "updated_at": "2026-10-27T14:29:05Z",
+    "updated_at": "2026-10-27T14:30:05Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -88,15 +106,6 @@
     "stars": 36594,
     "updated_at": "2026-10-27T14:28:55Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-27T14:15:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -229,7 +238,7 @@
     "id": "overmind-core/overmind",
     "language": "Python",
     "name": "overmind-core/overmind",
-    "stars": 695,
+    "stars": 696,
     "updated_at": "2026-10-27T13:43:20Z",
     "url": "https://github.com/overmind-core/overmind"
   },
@@ -347,7 +356,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30774,
-    "updated_at": "2026-10-27T13:01:02Z",
+    "updated_at": "2026-10-27T14:29:35Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -437,16 +446,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4995,
-    "updated_at": "2026-10-27T14:24:01Z",
+    "updated_at": "2026-10-27T14:30:04Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Open-source AI on-call engineer for AWS. An alarm comes in, WARDEN reads the evidence, the AI proposes one fix from a cl",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-10-27T12:52:39Z",
-    "url": "https://github.com/veerarakesh56/warden"
   }
 ]
