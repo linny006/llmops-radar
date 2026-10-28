@@ -1,21 +1,120 @@
 [
   {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
+    "description": "The system of record for how your company corrects AI. Every human fix of an agent becomes a replayable test, on any mod",
+    "id": "overrule-ai/overturn",
+    "language": "TypeScript",
+    "name": "overrule-ai/overturn",
+    "stars": 0,
+    "updated_at": "2026-10-28T20:29:36Z",
+    "url": "https://github.com/overrule-ai/overturn"
+  },
+  {
+    "description": "LumenAI: FinOps and multi-tenant observability for GenAI. Turns OpenTelemetry traces into per-tenant USD cost, without s",
+    "id": "skarL007/lumen-ai-sdk",
     "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 9759,
-    "updated_at": "2026-10-28T20:14:51Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
+    "name": "skarL007/lumen-ai-sdk",
+    "stars": 3,
+    "updated_at": "2026-10-28T20:28:59Z",
+    "url": "https://github.com/skarL007/lumen-ai-sdk"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 749,
+    "updated_at": "2026-10-28T20:28:32Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4997,
+    "updated_at": "2026-10-28T20:30:12Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Find and prove inference savings on your own GPUs: $/M tokens with 95% CIs, agent workloads, verified-savings statements",
+    "id": "KushagraKanaujia/throttle",
+    "language": "Python",
+    "name": "KushagraKanaujia/throttle",
+    "stars": 7,
+    "updated_at": "2026-10-28T20:26:35Z",
+    "url": "https://github.com/KushagraKanaujia/throttle"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 62247,
-    "updated_at": "2026-10-28T20:14:45Z",
+    "stars": 62248,
+    "updated_at": "2026-10-28T20:29:53Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
+    "stars": 1,
+    "updated_at": "2026-10-28T20:25:30Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 9760,
+    "updated_at": "2026-10-28T20:24:38Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-10-28T20:23:07Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "\u9876\u7ea7\u5ba1\u7f8e\u7684\u4e2a\u4eba\u535a\u5ba2\uff01\uff01\uff01\u5199\u4e00\u4e9b\u5173\u4e8e AI\u3001Agent\u3001\u6280\u672f\u3001\u4ea7\u54c1\u3001\u8425\u9500\u3001\u4e00\u4e9b\u751f\u6d3b\u601d\u8003\uff0c\u4e2a\u4eba\u6210\u957f\u7c7b\u7684\u7cbe\u6587",
+    "id": "cubxxw/blog",
+    "language": "JavaScript",
+    "name": "cubxxw/blog",
+    "stars": 30,
+    "updated_at": "2026-10-28T20:20:12Z",
+    "url": "https://github.com/cubxxw/blog"
+  },
+  {
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
+    "language": "Python",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 53,
+    "updated_at": "2026-10-28T20:19:47Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-28T20:27:39Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-28T20:15:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "",
@@ -50,7 +149,7 @@
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 132,
-    "updated_at": "2026-10-28T20:12:33Z",
+    "updated_at": "2026-10-28T20:27:00Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -68,17 +167,8 @@
     "language": "Python",
     "name": "llmspendguard/llm-spendguard",
     "stars": 0,
-    "updated_at": "2026-10-28T20:02:49Z",
+    "updated_at": "2026-10-28T20:21:58Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-28T20:00:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
@@ -86,17 +176,8 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 2,
-    "updated_at": "2026-10-28T20:09:16Z",
+    "updated_at": "2026-10-28T20:29:03Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
-    "id": "TAIPANBOX/tokenfuse",
-    "language": "Rust",
-    "name": "TAIPANBOX/tokenfuse",
-    "stars": 1,
-    "updated_at": "2026-10-28T20:04:47Z",
-    "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
     "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
@@ -167,7 +248,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 12048,
-    "updated_at": "2026-10-28T20:02:27Z",
+    "updated_at": "2026-10-28T20:28:32Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -216,40 +297,13 @@
     "url": "https://github.com/Abillify/atf"
   },
   {
-    "description": "Enterprise Scale AIFactory (esml) - on Azure",
-    "id": "jostrm/azure-enterprise-scale-ml",
-    "language": "Python",
-    "name": "jostrm/azure-enterprise-scale-ml",
-    "stars": 53,
-    "updated_at": "2026-10-28T19:10:24Z",
-    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
-  },
-  {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22990,
-    "updated_at": "2026-10-28T19:06:27Z",
+    "updated_at": "2026-10-28T20:27:59Z",
     "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-28T20:15:22Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 749,
-    "updated_at": "2026-10-28T20:07:27Z",
-    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
@@ -257,7 +311,7 @@
     "language": "Python",
     "name": "holetz/quenching",
     "stars": 0,
-    "updated_at": "2026-10-28T20:15:24Z",
+    "updated_at": "2026-10-28T20:20:21Z",
     "url": "https://github.com/holetz/quenching"
   },
   {
@@ -275,7 +329,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 26562,
-    "updated_at": "2026-10-28T18:26:03Z",
+    "updated_at": "2026-10-28T20:25:46Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -297,13 +351,13 @@
     "url": "https://github.com/Dinesh-Sunny/excalidraw-system-design-kit"
   },
   {
-    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4997,
-    "updated_at": "2026-10-28T20:15:17Z",
-    "url": "https://github.com/langwatch/langwatch"
+    "description": "The platform for continuously improving AI agents.",
+    "id": "overmind-core/overmind",
+    "language": "Python",
+    "name": "overmind-core/overmind",
+    "stars": 717,
+    "updated_at": "2026-10-28T18:14:59Z",
+    "url": "https://github.com/overmind-core/overmind"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -392,61 +446,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 36655,
-    "updated_at": "2026-10-28T20:03:45Z",
+    "updated_at": "2026-10-28T20:23:15Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Claude Code, Codex and Cursor plugin that streams your sessions to Rius as OpenTelemetry traces: prompts, model calls, t",
-    "id": "glassflow/rius-coding-agents",
-    "language": "Python",
-    "name": "glassflow/rius-coding-agents",
-    "stars": 3,
-    "updated_at": "2026-10-28T17:48:47Z",
-    "url": "https://github.com/glassflow/rius-coding-agents"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-28T18:01:26Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-10-28T17:47:24Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28575,
-    "updated_at": "2026-10-28T17:42:42Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 9003,
-    "updated_at": "2026-10-28T20:14:51Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "LumenAI: FinOps and multi-tenant observability for GenAI. Turns OpenTelemetry traces into per-tenant USD cost, without s",
-    "id": "skarL007/lumen-ai-sdk",
-    "language": "Python",
-    "name": "skarL007/lumen-ai-sdk",
-    "stars": 3,
-    "updated_at": "2026-10-28T17:33:32Z",
-    "url": "https://github.com/skarL007/lumen-ai-sdk"
   }
 ]
