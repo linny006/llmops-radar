@@ -1,12 +1,12 @@
 [
   {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
     "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 3026,
-    "updated_at": "2026-10-28T03:45:08Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-28T03:59:35Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
     "description": "What if OpenAI Deep Research and Dify were one platform? OpenAgent \u2014 harness architecture for rapidly building vertical ",
@@ -14,7 +14,7 @@
     "language": "Python",
     "name": "Haohao-end/openagent",
     "stars": 774,
-    "updated_at": "2026-10-28T03:45:04Z",
+    "updated_at": "2026-10-28T03:57:43Z",
     "url": "https://github.com/Haohao-end/openagent"
   },
   {
@@ -23,8 +23,80 @@
     "language": "Rust",
     "name": "toxicwind/ranch",
     "stars": 0,
-    "updated_at": "2026-10-28T03:43:49Z",
+    "updated_at": "2026-10-28T03:57:30Z",
     "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
+    "id": "Masterplanner25/aindy-runtime",
+    "language": "Python",
+    "name": "Masterplanner25/aindy-runtime",
+    "stars": 1,
+    "updated_at": "2026-10-28T03:57:17Z",
+    "url": "https://github.com/Masterplanner25/aindy-runtime"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 3026,
+    "updated_at": "2026-10-28T03:56:54Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28562,
+    "updated_at": "2026-10-28T03:57:33Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-10-28T03:51:37Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-28T03:48:42Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Measure your LLM judge's noise floor \u2014 an A/B improvement smaller than the judge's own noise isn't real. Pre-flight prob",
+    "id": "hibou04-ops/mini-omega-lock",
+    "language": "Python",
+    "name": "hibou04-ops/mini-omega-lock",
+    "stars": 1,
+    "updated_at": "2026-10-28T03:52:30Z",
+    "url": "https://github.com/hibou04-ops/mini-omega-lock"
+  },
+  {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "Python",
+    "name": "dataelement/bisheng",
+    "stars": 12083,
+    "updated_at": "2026-10-28T03:47:12Z",
+    "url": "https://github.com/dataelement/bisheng"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-28T03:45:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
@@ -32,7 +104,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4996,
-    "updated_at": "2026-10-28T03:44:00Z",
+    "updated_at": "2026-10-28T03:59:31Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -59,26 +131,8 @@
     "language": "TypeScript",
     "name": "GeiserX/LynxPrompt",
     "stars": 54,
-    "updated_at": "2026-10-28T03:42:48Z",
+    "updated_at": "2026-10-28T03:59:42Z",
     "url": "https://github.com/GeiserX/LynxPrompt"
-  },
-  {
-    "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a ",
-    "id": "Masterplanner25/aindy-runtime",
-    "language": "Python",
-    "name": "Masterplanner25/aindy-runtime",
-    "stars": 1,
-    "updated_at": "2026-10-28T03:41:11Z",
-    "url": "https://github.com/Masterplanner25/aindy-runtime"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-28T03:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AgentFox: open-source control plane for AI agents. Guardrails on model traffic, tool calls bounded by capability grants,",
@@ -86,7 +140,7 @@
     "language": "Python",
     "name": "architsharm/agentfox",
     "stars": 4,
-    "updated_at": "2026-10-28T03:27:08Z",
+    "updated_at": "2026-10-28T03:59:00Z",
     "url": "https://github.com/architsharm/agentfox"
   },
   {
@@ -148,8 +202,8 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 62195,
-    "updated_at": "2026-10-28T03:10:26Z",
+    "stars": 62194,
+    "updated_at": "2026-10-28T03:57:54Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -158,7 +212,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 2,
-    "updated_at": "2026-10-28T03:31:58Z",
+    "updated_at": "2026-10-28T03:47:50Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -171,15 +225,6 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28562,
-    "updated_at": "2026-10-28T03:36:18Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
     "id": "AixleHQ/flow",
     "language": "Ruby",
@@ -189,15 +234,6 @@
     "url": "https://github.com/AixleHQ/flow"
   },
   {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-28T02:56:37Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
     "description": "Building reliable LLM Agents \u2014 Agent eval, evidence grounding, context engineering",
     "id": "KBber/KBber",
     "language": "\u2014",
@@ -205,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-10-28T02:54:51Z",
     "url": "https://github.com/KBber/KBber"
-  },
-  {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "Python",
-    "name": "dataelement/bisheng",
-    "stars": 12082,
-    "updated_at": "2026-10-28T03:41:11Z",
-    "url": "https://github.com/dataelement/bisheng"
   },
   {
     "description": "An agentic penetration testing framework focused on LLM training and inference infrastructure (K8s + GPU)",
@@ -239,7 +266,7 @@
     "language": "Python",
     "name": "thequantumfalcon/kry",
     "stars": 1,
-    "updated_at": "2026-10-28T02:41:17Z",
+    "updated_at": "2026-10-28T03:58:06Z",
     "url": "https://github.com/thequantumfalcon/kry"
   },
   {
@@ -247,7 +274,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 22977,
+    "stars": 22979,
     "updated_at": "2026-10-28T02:38:54Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-28T00:40:15Z",
     "url": "https://github.com/Raviteja2k2k/Raviteja2k2k"
-  },
-  {
-    "description": "Self-hosted AI Agents Platform for AI Native companies. Claude Code, Codex, Gemini, OpenCode agents. Apache 2.0.  ",
-    "id": "Abilityai/trinity",
-    "language": "Python",
-    "name": "Abilityai/trinity",
-    "stars": 710,
-    "updated_at": "2026-10-28T00:26:18Z",
-    "url": "https://github.com/Abilityai/trinity"
-  },
-  {
-    "description": "Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude ",
-    "id": "Fast-Editor/Lynkr",
-    "language": "JavaScript",
-    "name": "Fast-Editor/Lynkr",
-    "stars": 639,
-    "updated_at": "2026-10-28T00:22:32Z",
-    "url": "https://github.com/Fast-Editor/Lynkr"
-  },
-  {
-    "description": "Understand which functions and agents drive LLM spend. Self-hosted monitoring and an open model pricing catalog.",
-    "id": "metergraph/metergraph",
-    "language": "Python",
-    "name": "metergraph/metergraph",
-    "stars": 4,
-    "updated_at": "2026-10-28T00:12:27Z",
-    "url": "https://github.com/metergraph/metergraph"
   }
 ]
