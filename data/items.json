@@ -1,12 +1,84 @@
 [
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-28T11:14:59Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
     "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28564,
-    "updated_at": "2026-10-28T11:00:18Z",
-    "url": "https://github.com/mlflow/mlflow"
+    "name": "BerriAI/litellm",
+    "stars": 62226,
+    "updated_at": "2026-10-28T11:13:04Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Claude Code, Codex and Cursor plugin that streams your sessions to Rius as OpenTelemetry traces: prompts, model calls, t",
+    "id": "glassflow/rius-coding-agents",
+    "language": "Python",
+    "name": "glassflow/rius-coding-agents",
+    "stars": 3,
+    "updated_at": "2026-10-28T11:12:26Z",
+    "url": "https://github.com/glassflow/rius-coding-agents"
+  },
+  {
+    "description": "Self-hosted LLM gateway in Rust: one OpenAI-compatible API for OpenAI, Anthropic, Gemini, Azure, Ollama and more, with v",
+    "id": "rustrak/llmtrack",
+    "language": "Rust",
+    "name": "rustrak/llmtrack",
+    "stars": 3,
+    "updated_at": "2026-10-28T11:11:16Z",
+    "url": "https://github.com/rustrak/llmtrack"
+  },
+  {
+    "description": "One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary.",
+    "id": "respanai/respan-gateway",
+    "language": "Rust",
+    "name": "respanai/respan-gateway",
+    "stars": 363,
+    "updated_at": "2026-10-28T11:10:05Z",
+    "url": "https://github.com/respanai/respan-gateway"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 31,
+    "updated_at": "2026-10-28T11:13:45Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "Template for small, safe AI agents in pure Python: cost caps in code, tool-less LLM client, \"I don't know\" as a valid re",
+    "id": "tonyweckstrom1987/agentti-pohja",
+    "language": "Python",
+    "name": "tonyweckstrom1987/agentti-pohja",
+    "stars": 0,
+    "updated_at": "2026-10-28T11:08:46Z",
+    "url": "https://github.com/tonyweckstrom1987/agentti-pohja"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-10-28T11:06:55Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-28T11:06:47Z",
+    "url": "https://github.com/toxicwind/ranch"
   },
   {
     "description": "What if OpenAI Deep Research and Dify were one platform? OpenAgent \u2014 harness architecture for rapidly building vertical ",
@@ -14,8 +86,35 @@
     "language": "Python",
     "name": "Haohao-end/openagent",
     "stars": 774,
-    "updated_at": "2026-10-28T10:59:56Z",
+    "updated_at": "2026-10-28T11:06:38Z",
     "url": "https://github.com/Haohao-end/openagent"
+  },
+  {
+    "description": "Scheduled agent tasks for your repositories, defined in Git. Approved access, sandboxed runs, a full audit trail.",
+    "id": "piotrekno1/second-shift",
+    "language": "Python",
+    "name": "piotrekno1/second-shift",
+    "stars": 4,
+    "updated_at": "2026-10-28T11:06:31Z",
+    "url": "https://github.com/piotrekno1/second-shift"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-28T11:00:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28564,
+    "updated_at": "2026-10-28T11:12:48Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
@@ -23,7 +122,7 @@
     "language": "Python",
     "name": "digline/digline",
     "stars": 9,
-    "updated_at": "2026-10-28T10:58:54Z",
+    "updated_at": "2026-10-28T11:12:20Z",
     "url": "https://github.com/digline/digline"
   },
   {
@@ -34,15 +133,6 @@
     "stars": 43,
     "updated_at": "2026-10-28T10:58:03Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 31,
-    "updated_at": "2026-10-28T10:57:58Z",
-    "url": "https://github.com/byte5ai/omadia"
   },
   {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
@@ -77,17 +167,8 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30782,
-    "updated_at": "2026-10-28T10:57:58Z",
+    "updated_at": "2026-10-28T11:04:26Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 62226,
-    "updated_at": "2026-10-28T10:57:10Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
@@ -95,7 +176,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22984,
-    "updated_at": "2026-10-28T10:55:00Z",
+    "updated_at": "2026-10-28T11:14:12Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -135,42 +216,6 @@
     "url": "https://github.com/andypalmi/amicu"
   },
   {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-10-28T10:46:41Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "Scheduled agent tasks for your repositories, defined in Git. Approved access, sandboxed runs, a full audit trail.",
-    "id": "piotrekno1/second-shift",
-    "language": "Python",
-    "name": "piotrekno1/second-shift",
-    "stars": 4,
-    "updated_at": "2026-10-28T10:59:59Z",
-    "url": "https://github.com/piotrekno1/second-shift"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-28T10:45:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Template for small, safe AI agents in pure Python: cost caps in code, tool-less LLM client, \"I don't know\" as a valid re",
-    "id": "tonyweckstrom1987/agentti-pohja",
-    "language": "Python",
-    "name": "tonyweckstrom1987/agentti-pohja",
-    "stars": 0,
-    "updated_at": "2026-10-28T10:41:13Z",
-    "url": "https://github.com/tonyweckstrom1987/agentti-pohja"
-  },
-  {
     "description": "One control plane for every AI asset \u2014 MCP servers, skills, agents, AI apps. Self-hosted ledger with lifecycle state mac",
     "id": "01men/ybkkasi",
     "language": "JavaScript",
@@ -194,7 +239,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 2,
-    "updated_at": "2026-10-28T10:38:54Z",
+    "updated_at": "2026-10-28T11:11:44Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -212,7 +257,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 36634,
-    "updated_at": "2026-10-28T10:30:42Z",
+    "updated_at": "2026-10-28T11:12:06Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -239,17 +284,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4997,
-    "updated_at": "2026-10-28T10:42:51Z",
+    "updated_at": "2026-10-28T11:11:25Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-28T10:17:43Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
@@ -275,17 +311,8 @@
     "language": "TypeScript",
     "name": "GeiserX/LynxPrompt",
     "stars": 55,
-    "updated_at": "2026-10-28T10:57:13Z",
+    "updated_at": "2026-10-28T11:11:41Z",
     "url": "https://github.com/GeiserX/LynxPrompt"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-28T10:07:33Z",
-    "url": "https://github.com/toxicwind/ranch"
   },
   {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
@@ -311,7 +338,7 @@
     "language": "Python",
     "name": "dataelement/bisheng",
     "stars": 12088,
-    "updated_at": "2026-10-28T10:47:06Z",
+    "updated_at": "2026-10-28T11:08:27Z",
     "url": "https://github.com/dataelement/bisheng"
   },
   {
@@ -320,7 +347,7 @@
     "language": "Python",
     "name": "Abilityai/trinity",
     "stars": 711,
-    "updated_at": "2026-10-28T10:29:49Z",
+    "updated_at": "2026-10-28T11:11:18Z",
     "url": "https://github.com/Abilityai/trinity"
   },
   {
@@ -329,7 +356,7 @@
     "language": "Rust",
     "name": "api7/aisix",
     "stars": 207,
-    "updated_at": "2026-10-28T09:45:18Z",
+    "updated_at": "2026-10-28T11:14:35Z",
     "url": "https://github.com/api7/aisix"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2400,
     "updated_at": "2026-10-28T08:47:47Z",
     "url": "https://github.com/bionic-gpt/bionic-gpt"
-  },
-  {
-    "description": "\u26a1 Awesome AI Gateway \u2014 pick an AI gateway from 220+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by c",
-    "id": "cuihuan/awesome-ai-gateway",
-    "language": "HTML",
-    "name": "cuihuan/awesome-ai-gateway",
-    "stars": 139,
-    "updated_at": "2026-10-28T08:43:41Z",
-    "url": "https://github.com/cuihuan/awesome-ai-gateway"
-  },
-  {
-    "description": "Nagizaaz Shaik \u2014 ML & AI Systems Engineer",
-    "id": "shaikn6/shaikn6",
-    "language": "Python",
-    "name": "shaikn6/shaikn6",
-    "stars": 0,
-    "updated_at": "2026-10-28T08:40:28Z",
-    "url": "https://github.com/shaikn6/shaikn6"
-  },
-  {
-    "description": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document",
-    "id": "gabrielk83/AntCV",
-    "language": "JavaScript",
-    "name": "gabrielk83/AntCV",
-    "stars": 1,
-    "updated_at": "2026-10-28T08:35:34Z",
-    "url": "https://github.com/gabrielk83/AntCV"
   }
 ]
