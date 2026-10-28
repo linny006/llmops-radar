@@ -1,5 +1,41 @@
 [
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22988,
+    "updated_at": "2026-10-28T15:45:04Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-10-28T15:43:25Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 62240,
+    "updated_at": "2026-10-28T15:41:52Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-28T15:41:49Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Document Q&A with cited answers: an agentic retrieval loop, neural retrieval (bge-m3, Qwen3-Embedding, bge reranker, Qdr",
     "id": "Muditkumar123/agentic-document-intelligence-platform",
     "language": "Python",
@@ -23,7 +59,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 36647,
-    "updated_at": "2026-10-28T15:39:34Z",
+    "updated_at": "2026-10-28T15:42:19Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -36,21 +72,12 @@
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22988,
-    "updated_at": "2026-10-28T15:39:10Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28570,
-    "updated_at": "2026-10-28T15:40:21Z",
+    "updated_at": "2026-10-28T15:41:57Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -124,15 +151,6 @@
     "stars": 8,
     "updated_at": "2026-10-28T15:31:07Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-28T15:30:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Marketing + Documentation Site for llama-dash",
@@ -225,15 +243,6 @@
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 62240,
-    "updated_at": "2026-10-28T15:13:04Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Keras based framework for neuro-symbolic LM systems",
     "id": "SynaLinks/synalinks",
     "language": "Python",
@@ -293,7 +302,7 @@
     "language": "Python",
     "name": "digline/digline",
     "stars": 9,
-    "updated_at": "2026-10-28T15:11:13Z",
+    "updated_at": "2026-10-28T15:44:56Z",
     "url": "https://github.com/digline/digline"
   },
   {
@@ -367,15 +376,6 @@
     "stars": 0,
     "updated_at": "2026-10-28T14:09:44Z",
     "url": "https://github.com/DeChuks-hub/llmshift"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-10-28T15:13:25Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
     "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
