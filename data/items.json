@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "apache/burr",
     "stars": 2583,
-    "updated_at": "2026-10-28T05:27:28Z",
+    "updated_at": "2026-10-28T05:44:47Z",
     "url": "https://github.com/apache/burr"
   },
   {
@@ -14,8 +14,89 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 43,
-    "updated_at": "2026-10-28T05:23:53Z",
+    "updated_at": "2026-10-28T05:43:36Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "What if OpenAI Deep Research and Dify were one platform? OpenAgent \u2014 harness architecture for rapidly building vertical ",
+    "id": "Haohao-end/openagent",
+    "language": "Python",
+    "name": "Haohao-end/openagent",
+    "stars": 774,
+    "updated_at": "2026-10-28T05:43:06Z",
+    "url": "https://github.com/Haohao-end/openagent"
+  },
+  {
+    "description": "AgentFox: open-source control plane for AI agents. Guardrails on model traffic, tool calls bounded by capability grants,",
+    "id": "architsharm/agentfox",
+    "language": "Python",
+    "name": "architsharm/agentfox",
+    "stars": 4,
+    "updated_at": "2026-10-28T05:38:20Z",
+    "url": "https://github.com/architsharm/agentfox"
+  },
+  {
+    "description": "Self-hosted & federated platform for AI IDE/Tools Rules and Commands via WebUI & CLI - Generate, browse, store, share AG",
+    "id": "GeiserX/LynxPrompt",
+    "language": "TypeScript",
+    "name": "GeiserX/LynxPrompt",
+    "stars": 54,
+    "updated_at": "2026-10-28T05:44:32Z",
+    "url": "https://github.com/GeiserX/LynxPrompt"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 2,
+    "updated_at": "2026-10-28T05:33:01Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
+    "id": "pom11/hscc",
+    "language": "Python",
+    "name": "pom11/hscc",
+    "stars": 7,
+    "updated_at": "2026-10-28T05:31:27Z",
+    "url": "https://github.com/pom11/hscc"
+  },
+  {
+    "description": "Autonomous multi-agent due-diligence desk \u2014 LangGraph orchestration, agentic hybrid RAG, MCP tools, and a self-improving",
+    "id": "hari9618/atlas-agentic-research",
+    "language": "Python",
+    "name": "hari9618/atlas-agentic-research",
+    "stars": 3,
+    "updated_at": "2026-10-28T05:31:35Z",
+    "url": "https://github.com/hari9618/atlas-agentic-research"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 62201,
+    "updated_at": "2026-10-28T05:44:34Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Drop-in LLM proxy that cuts input tokens 30\u201370% (54.1% measured, quality-gated) across 27 transparent optimisations \u2014 ca",
+    "id": "cbeyondcloud/TokenLean",
+    "language": "Python",
+    "name": "cbeyondcloud/TokenLean",
+    "stars": 3,
+    "updated_at": "2026-10-28T05:30:38Z",
+    "url": "https://github.com/cbeyondcloud/TokenLean"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-28T05:30:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -25,15 +106,6 @@
     "stars": 12038,
     "updated_at": "2026-10-28T05:19:10Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-28T05:15:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "MaxKB4j is an open-source LLMOps platform for LLM workflow applications and RAG developed based on the Java language. Th",
@@ -90,15 +162,6 @@
     "url": "https://github.com/mlflow/mlflow"
   },
   {
-    "description": "Self-hosted & federated platform for AI IDE/Tools Rules and Commands via WebUI & CLI - Generate, browse, store, share AG",
-    "id": "GeiserX/LynxPrompt",
-    "language": "TypeScript",
-    "name": "GeiserX/LynxPrompt",
-    "stars": 54,
-    "updated_at": "2026-10-28T05:29:24Z",
-    "url": "https://github.com/GeiserX/LynxPrompt"
-  },
-  {
     "description": "Continuous Evaluation Infrastructure for Production AI",
     "id": "Red1-Rahman/NiriZan",
     "language": "Jupyter Notebook",
@@ -117,15 +180,6 @@
     "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
-    "description": "Drop-in LLM proxy that cuts input tokens 30\u201370% (54.1% measured, quality-gated) across 27 transparent optimisations \u2014 ca",
-    "id": "cbeyondcloud/TokenLean",
-    "language": "Python",
-    "name": "cbeyondcloud/TokenLean",
-    "stars": 3,
-    "updated_at": "2026-10-28T05:22:47Z",
-    "url": "https://github.com/cbeyondcloud/TokenLean"
-  },
-  {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
     "id": "ngu-gif/genai-role-playbook",
     "language": "HTML",
@@ -133,24 +187,6 @@
     "stars": 1,
     "updated_at": "2026-10-28T04:59:32Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 2,
-    "updated_at": "2026-10-28T05:26:46Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "What if OpenAI Deep Research and Dify were one platform? OpenAgent \u2014 harness architecture for rapidly building vertical ",
-    "id": "Haohao-end/openagent",
-    "language": "Python",
-    "name": "Haohao-end/openagent",
-    "stars": 774,
-    "updated_at": "2026-10-28T04:51:53Z",
-    "url": "https://github.com/Haohao-end/openagent"
   },
   {
     "description": "LLM data analyst agent on LangGraph with per-call tracing, cost and latency, versioned prompts and a record/replay evalu",
@@ -194,7 +230,7 @@
     "language": "TypeScript",
     "name": "vocion/vocion-core",
     "stars": 2,
-    "updated_at": "2026-10-28T04:44:52Z",
+    "updated_at": "2026-10-28T05:35:48Z",
     "url": "https://github.com/vocion/vocion-core"
   },
   {
@@ -207,30 +243,12 @@
     "url": "https://github.com/a-novel/service-genai"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 62201,
-    "updated_at": "2026-10-28T05:29:07Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "AgentFox: open-source control plane for AI agents. Guardrails on model traffic, tool calls bounded by capability grants,",
-    "id": "architsharm/agentfox",
-    "language": "Python",
-    "name": "architsharm/agentfox",
-    "stars": 4,
-    "updated_at": "2026-10-28T05:27:01Z",
-    "url": "https://github.com/architsharm/agentfox"
-  },
-  {
     "description": "Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code \u2014 V3 prototype runs ",
     "id": "MongLong0214/jev-gate",
     "language": "TypeScript",
     "name": "MongLong0214/jev-gate",
     "stars": 4,
-    "updated_at": "2026-10-28T04:18:15Z",
+    "updated_at": "2026-10-28T05:37:31Z",
     "url": "https://github.com/MongLong0214/jev-gate"
   },
   {
@@ -293,7 +311,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4996,
-    "updated_at": "2026-10-28T05:22:30Z",
+    "updated_at": "2026-10-28T05:40:57Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -304,15 +322,6 @@
     "stars": 29,
     "updated_at": "2026-10-28T03:37:07Z",
     "url": "https://github.com/liaosiliangCodeLife/harness-mate-plat"
-  },
-  {
-    "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
-    "id": "pom11/hscc",
-    "language": "Python",
-    "name": "pom11/hscc",
-    "stars": 7,
-    "updated_at": "2026-10-28T04:06:42Z",
-    "url": "https://github.com/pom11/hscc"
   },
   {
     "description": "Evaluated AI assistant platform: LangGraph agent with hybrid RAG and an MLflow quality gate in CI, Java RBAC/audit gatew",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-28T02:10:39Z",
     "url": "https://github.com/acornops/management-console"
-  },
-  {
-    "description": "Enterprise AI Router and Governance System \u2014 the AI that governs all AIs",
-    "id": "kensterinvest/tidus",
-    "language": "HTML",
-    "name": "kensterinvest/tidus",
-    "stars": 1,
-    "updated_at": "2026-10-28T02:00:33Z",
-    "url": "https://github.com/kensterinvest/tidus"
   }
 ]
