@@ -1,5 +1,50 @@
 [
   {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 62187,
+    "updated_at": "2026-10-28T01:14:40Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Searchable Excalidraw library for system design interviews and agentic AI architecture: 292 items, UI wireframes, patter",
+    "id": "Dinesh-Sunny/excalidraw-system-design-kit",
+    "language": "HTML",
+    "name": "Dinesh-Sunny/excalidraw-system-design-kit",
+    "stars": 1,
+    "updated_at": "2026-10-28T01:08:24Z",
+    "url": "https://github.com/Dinesh-Sunny/excalidraw-system-design-kit"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-28T01:07:39Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "An agentic penetration testing framework focused on LLM training and inference infrastructure (K8s + GPU)",
+    "id": "lupingQAQ/inkblade",
+    "language": "Python",
+    "name": "lupingQAQ/inkblade",
+    "stars": 0,
+    "updated_at": "2026-10-28T01:06:55Z",
+    "url": "https://github.com/lupingQAQ/inkblade"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-28T01:00:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "InFlow FDE\uff1a\u4f01\u4e1a AI \u8f6c\u578b\u64cd\u76d8\u53f0\u3002\u603b\u6307\u6325 \u2192 \u90e8\u95e8 Agent \u2192 \u6570\u5b57\u5458\u5de5\uff1b\u6570\u5b57\u7531\u4ee3\u7801\u7b97\uff0c\u52a8\u94b1\u7684\u52a8\u4f5c\u4eba\u62cd\u677f\uff0c\u6bcf\u4e00\u5206 AI \u6210\u672c\u90fd\u8bb0\u8d26\u3002",
     "id": "zj85997-hash/inflow-fde",
     "language": "TypeScript",
@@ -27,33 +72,6 @@
     "url": "https://github.com/negativexq/agentic-customer-service-platform"
   },
   {
-    "description": "Searchable Excalidraw library for system design interviews and agentic AI architecture: 292 items, UI wireframes, patter",
-    "id": "Dinesh-Sunny/excalidraw-system-design-kit",
-    "language": "HTML",
-    "name": "Dinesh-Sunny/excalidraw-system-design-kit",
-    "stars": 1,
-    "updated_at": "2026-10-28T00:58:34Z",
-    "url": "https://github.com/Dinesh-Sunny/excalidraw-system-design-kit"
-  },
-  {
-    "description": "An agentic penetration testing framework focused on LLM training and inference infrastructure (K8s + GPU)",
-    "id": "lupingQAQ/inkblade",
-    "language": "Python",
-    "name": "lupingQAQ/inkblade",
-    "stars": 0,
-    "updated_at": "2026-10-28T00:58:26Z",
-    "url": "https://github.com/lupingQAQ/inkblade"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 62187,
-    "updated_at": "2026-10-28T00:59:25Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
     "id": "vllm-project/vllm-ascend",
     "language": "Python",
@@ -79,15 +97,6 @@
     "stars": 42,
     "updated_at": "2026-10-28T00:48:40Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-28T00:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary.",
@@ -157,7 +166,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 28563,
+    "stars": 28562,
     "updated_at": "2026-10-28T00:25:39Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -187,15 +196,6 @@
     "stars": 2,
     "updated_at": "2026-10-28T00:19:56Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-28T00:17:39Z",
-    "url": "https://github.com/toxicwind/ranch"
   },
   {
     "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
@@ -410,7 +410,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 744,
-    "updated_at": "2026-10-28T00:35:26Z",
+    "updated_at": "2026-10-28T01:14:22Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {

@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-28 01:00 UTC
+> ⏰ Last updated: 2026-10-28 01:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,28 +42,28 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [zj85997-hash/inflow-fde](https://github.com/zj85997-hash/inflow-fde) | 0 | TypeScript | 2026-10-28 | InFlow FDE：企业 AI 转型操盘台。总指挥 → 部门 Agent → 数字员工；数字由代码算，动钱的动作人拍板，每一分 AI 成本都记账。 |
-| 2 | [sarkars/agent-failure-modes](https://github.com/sarkars/agent-failure-modes) | 1 | Python | 2026-10-28 | Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a |
-| 3 | [negativexq/agentic-customer-service-platform](https://github.com/negativexq/agentic-customer-service-platform) | 11 | Python | 2026-10-28 | Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro |
-| 4 | [Dinesh-Sunny/excalidraw-system-design-kit](https://github.com/Dinesh-Sunny/excalidraw-system-design-kit) | 1 | HTML | 2026-10-28 | Searchable Excalidraw library for system design interviews and agentic AI architecture: 292 items, UI wireframes, patter |
-| 5 | [lupingQAQ/inkblade](https://github.com/lupingQAQ/inkblade) | 0 | Python | 2026-10-28 | An agentic penetration testing framework focused on LLM training and inference infrastructure (K8s + GPU) |
-| 6 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 62187 | Python | 2026-10-28 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 7 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 3023 | Python | 2026-10-28 | Community maintained hardware plugin for vLLM on Huawei Ascend |
-| 8 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 8 | Rust | 2026-10-28 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
-| 9 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 42 | Go | 2026-10-28 | Agentic Runtime |
-| 10 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-28 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 11 | [respanai/respan-gateway](https://github.com/respanai/respan-gateway) | 354 | Rust | 2026-10-28 | One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary. |
-| 12 | [MukulRay1603/Irminsul](https://github.com/MukulRay1603/Irminsul) | 6 | Python | 2026-10-28 | Fine-tuned Llama 3.1 8B · QLoRA · RAG serving stack · FastAPI · Pinecone · Azure |
-| 13 | [kimtth/azure-openai-llm-notes](https://github.com/kimtth/azure-openai-llm-notes) | 420 | Python | 2026-10-28 | A curated collection of resources for 🌌 Azure OpenAI, 🦙 LLMs (+RAG, Agents). Monthly Updates. |
-| 14 | [hangar-hub/hangar](https://github.com/hangar-hub/hangar) | 2 | Go | 2026-10-28 | Self-hosted model and dataset hub, compatible with the Hugging Face Hub API, git, Ollama and LM Studio. Use it as a priv |
-| 15 | [Josepavese/matrix](https://github.com/Josepavese/matrix) | 0 | Go | 2026-10-28 | Local-first agent communication matrix for Claude, Gemini, OpenCode and ACP/A2A agents: multi-agent orchestration, agent |
-| 16 | [Arize-ai/openinference](https://github.com/Arize-ai/openinference) | 1291 | Python | 2026-10-28 | OpenTelemetry Instrumentation for AI Observability |
-| 17 | [Raviteja2k2k/Raviteja2k2k](https://github.com/Raviteja2k2k/Raviteja2k2k) | 0 | Python | 2026-10-28 | Profile of Dr. Ravi Teja Thiriveedhi — clinician turned AI systems architect: multi-agent platforms, AI governance, LLM  |
-| 18 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 28563 | Python | 2026-10-28 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
-| 19 | [Fast-Editor/Lynkr](https://github.com/Fast-Editor/Lynkr) | 638 | JavaScript | 2026-10-28 | Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude  |
-| 20 | [comet-ml/opik](https://github.com/comet-ml/opik) | 22976 | Python | 2026-10-28 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
-| 21 | [rrahimi-uci/caliber-suite](https://github.com/rrahimi-uci/caliber-suite) | 2 | Python | 2026-10-28 | Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases, |
-| 22 | [toxicwind/ranch](https://github.com/toxicwind/ranch) | 0 | Rust | 2026-10-28 | The self-hosted LLM estate in one monorepo — local model serving, cloud provider routing, MCP gateway, build jobs. All O |
+| 1 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 62187 | Python | 2026-10-28 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 2 | [Dinesh-Sunny/excalidraw-system-design-kit](https://github.com/Dinesh-Sunny/excalidraw-system-design-kit) | 1 | HTML | 2026-10-28 | Searchable Excalidraw library for system design interviews and agentic AI architecture: 292 items, UI wireframes, patter |
+| 3 | [toxicwind/ranch](https://github.com/toxicwind/ranch) | 0 | Rust | 2026-10-28 | The self-hosted LLM estate in one monorepo — local model serving, cloud provider routing, MCP gateway, build jobs. All O |
+| 4 | [lupingQAQ/inkblade](https://github.com/lupingQAQ/inkblade) | 0 | Python | 2026-10-28 | An agentic penetration testing framework focused on LLM training and inference infrastructure (K8s + GPU) |
+| 5 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-28 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 6 | [zj85997-hash/inflow-fde](https://github.com/zj85997-hash/inflow-fde) | 0 | TypeScript | 2026-10-28 | InFlow FDE：企业 AI 转型操盘台。总指挥 → 部门 Agent → 数字员工；数字由代码算，动钱的动作人拍板，每一分 AI 成本都记账。 |
+| 7 | [sarkars/agent-failure-modes](https://github.com/sarkars/agent-failure-modes) | 1 | Python | 2026-10-28 | Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a |
+| 8 | [negativexq/agentic-customer-service-platform](https://github.com/negativexq/agentic-customer-service-platform) | 11 | Python | 2026-10-28 | Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro |
+| 9 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | 3023 | Python | 2026-10-28 | Community maintained hardware plugin for vLLM on Huawei Ascend |
+| 10 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 8 | Rust | 2026-10-28 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
+| 11 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 42 | Go | 2026-10-28 | Agentic Runtime |
+| 12 | [respanai/respan-gateway](https://github.com/respanai/respan-gateway) | 354 | Rust | 2026-10-28 | One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary. |
+| 13 | [MukulRay1603/Irminsul](https://github.com/MukulRay1603/Irminsul) | 6 | Python | 2026-10-28 | Fine-tuned Llama 3.1 8B · QLoRA · RAG serving stack · FastAPI · Pinecone · Azure |
+| 14 | [kimtth/azure-openai-llm-notes](https://github.com/kimtth/azure-openai-llm-notes) | 420 | Python | 2026-10-28 | A curated collection of resources for 🌌 Azure OpenAI, 🦙 LLMs (+RAG, Agents). Monthly Updates. |
+| 15 | [hangar-hub/hangar](https://github.com/hangar-hub/hangar) | 2 | Go | 2026-10-28 | Self-hosted model and dataset hub, compatible with the Hugging Face Hub API, git, Ollama and LM Studio. Use it as a priv |
+| 16 | [Josepavese/matrix](https://github.com/Josepavese/matrix) | 0 | Go | 2026-10-28 | Local-first agent communication matrix for Claude, Gemini, OpenCode and ACP/A2A agents: multi-agent orchestration, agent |
+| 17 | [Arize-ai/openinference](https://github.com/Arize-ai/openinference) | 1291 | Python | 2026-10-28 | OpenTelemetry Instrumentation for AI Observability |
+| 18 | [Raviteja2k2k/Raviteja2k2k](https://github.com/Raviteja2k2k/Raviteja2k2k) | 0 | Python | 2026-10-28 | Profile of Dr. Ravi Teja Thiriveedhi — clinician turned AI systems architect: multi-agent platforms, AI governance, LLM  |
+| 19 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 28562 | Python | 2026-10-28 | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva |
+| 20 | [Fast-Editor/Lynkr](https://github.com/Fast-Editor/Lynkr) | 638 | JavaScript | 2026-10-28 | Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude  |
+| 21 | [comet-ml/opik](https://github.com/comet-ml/opik) | 22976 | Python | 2026-10-28 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom |
+| 22 | [rrahimi-uci/caliber-suite](https://github.com/rrahimi-uci/caliber-suite) | 2 | Python | 2026-10-28 | Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases, |
 | 23 | [llmsyscore/llm-systems-manager](https://github.com/llmsyscore/llm-systems-manager) | 12 | Python | 2026-10-28 | LLM Systems Manager — real-time observability and control for LLM systems |
 | 24 | [vocion/vocion-core](https://github.com/vocion/vocion-core) | 2 | TypeScript | 2026-10-28 | Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review,  |
 | 25 | [vipin-mo/nexus-ai-hub](https://github.com/vipin-mo/nexus-ai-hub) | 0 | Python | 2026-10-28 | Evaluated AI assistant platform: LangGraph agent with hybrid RAG and an MLflow quality gate in CI, Java RBAC/audit gatew |
