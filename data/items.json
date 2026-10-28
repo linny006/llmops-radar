@@ -1,12 +1,129 @@
 [
   {
+    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
+    "id": "digline/digline",
+    "language": "Python",
+    "name": "digline/digline",
+    "stars": 9,
+    "updated_at": "2026-10-28T13:44:00Z",
+    "url": "https://github.com/digline/digline"
+  },
+  {
+    "description": "KYNEX - a local, tool-using AI agent that extracts structured data from documents. 92.65 unified value F1 measured on Ex",
+    "id": "Nikit117/kynex-harness",
+    "language": "Python",
+    "name": "Nikit117/kynex-harness",
+    "stars": 1,
+    "updated_at": "2026-10-28T13:43:34Z",
+    "url": "https://github.com/Nikit117/kynex-harness"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28570,
+    "updated_at": "2026-10-28T13:44:46Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-10-28T13:42:52Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 3028,
+    "updated_at": "2026-10-28T13:42:32Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
+    "id": "AixleHQ/flow",
+    "language": "Ruby",
+    "name": "AixleHQ/flow",
+    "stars": 29,
+    "updated_at": "2026-10-28T13:45:00Z",
+    "url": "https://github.com/AixleHQ/flow"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 30784,
+    "updated_at": "2026-10-28T13:42:22Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 2212,
+    "updated_at": "2026-10-28T13:45:21Z",
+    "url": "https://github.com/future-agi/future-agi"
+  },
+  {
+    "description": "The platform for continuously improving AI agents.",
+    "id": "overmind-core/overmind",
+    "language": "Python",
+    "name": "overmind-core/overmind",
+    "stars": 715,
+    "updated_at": "2026-10-28T13:38:39Z",
+    "url": "https://github.com/overmind-core/overmind"
+  },
+  {
     "description": "Governed AI agents as a Kubernetes sidecar: policy-as-code charters, mTLS/SPIFFE identity, budgets, guardrails and JSONL",
     "id": "f8fvwgzc/agent-sidecar",
     "language": "Rust",
     "name": "f8fvwgzc/agent-sidecar",
     "stars": 0,
-    "updated_at": "2026-10-28T13:30:09Z",
+    "updated_at": "2026-10-28T13:34:38Z",
     "url": "https://github.com/f8fvwgzc/agent-sidecar"
+  },
+  {
+    "description": "Open-source runtime authorization and evidence controls for AI agents.",
+    "id": "Gowrav-M/neuralops-platform",
+    "language": "Python",
+    "name": "Gowrav-M/neuralops-platform",
+    "stars": 0,
+    "updated_at": "2026-10-28T13:34:19Z",
+    "url": "https://github.com/Gowrav-M/neuralops-platform"
+  },
+  {
+    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
+    "id": "NVIDIA-NeMo/nemo-helix",
+    "language": "Python",
+    "name": "NVIDIA-NeMo/nemo-helix",
+    "stars": 132,
+    "updated_at": "2026-10-28T13:43:02Z",
+    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22986,
+    "updated_at": "2026-10-28T13:42:41Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-28T13:30:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Self-hosted AI orchestration with policy, approvals, PII controls, audit evidence, retrieval, and governed MCP tools",
@@ -23,7 +140,7 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 31,
-    "updated_at": "2026-10-28T13:29:02Z",
+    "updated_at": "2026-10-28T13:34:30Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -31,18 +148,9 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 36641,
+    "stars": 36642,
     "updated_at": "2026-10-28T13:28:50Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "The platform for continuously improving AI agents.",
-    "id": "overmind-core/overmind",
-    "language": "Python",
-    "name": "overmind-core/overmind",
-    "stars": 715,
-    "updated_at": "2026-10-28T13:28:12Z",
-    "url": "https://github.com/overmind-core/overmind"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
@@ -52,15 +160,6 @@
     "stars": 3616,
     "updated_at": "2026-10-28T13:27:13Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28569,
-    "updated_at": "2026-10-28T13:26:04Z",
-    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
@@ -77,7 +176,7 @@
     "language": "Python",
     "name": "veerarakesh56/warden",
     "stars": 0,
-    "updated_at": "2026-10-28T13:25:39Z",
+    "updated_at": "2026-10-28T13:40:35Z",
     "url": "https://github.com/veerarakesh56/warden"
   },
   {
@@ -90,15 +189,6 @@
     "url": "https://github.com/vivek-541/vivek-541"
   },
   {
-    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
-    "id": "AixleHQ/flow",
-    "language": "Ruby",
-    "name": "AixleHQ/flow",
-    "stars": 29,
-    "updated_at": "2026-10-28T13:20:21Z",
-    "url": "https://github.com/AixleHQ/flow"
-  },
-  {
     "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
     "id": "SourceShift/mini-ork",
     "language": "Python",
@@ -108,31 +198,13 @@
     "url": "https://github.com/SourceShift/mini-ork"
   },
   {
-    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
-    "id": "digline/digline",
-    "language": "Python",
-    "name": "digline/digline",
-    "stars": 9,
-    "updated_at": "2026-10-28T13:19:53Z",
-    "url": "https://github.com/digline/digline"
-  },
-  {
     "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
     "id": "rrahimi-uci/caliber-suite",
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 2,
-    "updated_at": "2026-10-28T13:17:54Z",
+    "updated_at": "2026-10-28T13:34:25Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 30784,
-    "updated_at": "2026-10-28T13:23:25Z",
-    "url": "https://github.com/ComposioHQ/composio"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -140,17 +212,8 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 62230,
-    "updated_at": "2026-10-28T13:16:21Z",
+    "updated_at": "2026-10-28T13:45:21Z",
     "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-28T13:15:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Self-hosted & federated platform for AI IDE/Tools Rules and Commands via WebUI & CLI - Generate, browse, store, share AG",
@@ -158,7 +221,7 @@
     "language": "TypeScript",
     "name": "GeiserX/LynxPrompt",
     "stars": 55,
-    "updated_at": "2026-10-28T13:28:23Z",
+    "updated_at": "2026-10-28T13:38:16Z",
     "url": "https://github.com/GeiserX/LynxPrompt"
   },
   {
@@ -187,15 +250,6 @@
     "stars": 3,
     "updated_at": "2026-10-28T13:01:51Z",
     "url": "https://github.com/systempromptio/systemprompt-demo"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-10-28T13:01:26Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "Deployment orchestration for AcornOps, including Docker Compose, Kubernetes Helm charts, environment templates, and oper",
@@ -241,15 +295,6 @@
     "stars": 1,
     "updated_at": "2026-10-28T12:56:31Z",
     "url": "https://github.com/Amz34/awesome-agent-infrastructure"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22985,
-    "updated_at": "2026-10-28T13:29:37Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
@@ -342,15 +387,6 @@
     "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 3028,
-    "updated_at": "2026-10-28T12:13:47Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "One control plane for every AI asset \u2014 MCP servers, skills, agents, AI apps. Self-hosted ledger with lifecycle state mac",
     "id": "01men/ybkkasi",
     "language": "JavaScript",
@@ -367,15 +403,6 @@
     "stars": 30,
     "updated_at": "2026-10-28T13:07:10Z",
     "url": "https://github.com/cubxxw/blog"
-  },
-  {
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
-    "id": "future-agi/future-agi",
-    "language": "Python",
-    "name": "future-agi/future-agi",
-    "stars": 2212,
-    "updated_at": "2026-10-28T13:29:45Z",
-    "url": "https://github.com/future-agi/future-agi"
   },
   {
     "description": "A curated list of the best AgentOps tools for 2026 \u2014 observability, tracing, evaluation, cost monitoring, and guardrails",
@@ -414,15 +441,6 @@
     "url": "https://github.com/thequantumfalcon/kry"
   },
   {
-    "description": "KYNEX - a local, tool-using AI agent that extracts structured data from documents. 92.65 unified value F1 measured on Ex",
-    "id": "Nikit117/kynex-harness",
-    "language": "Python",
-    "name": "Nikit117/kynex-harness",
-    "stars": 1,
-    "updated_at": "2026-10-28T11:46:12Z",
-    "url": "https://github.com/Nikit117/kynex-harness"
-  },
-  {
     "description": "Terraform for your own LLMs: an open-source CLI that deploys vLLM and llama.cpp to your own machine or to GPU cloud prov",
     "id": "andypalmi/amicu",
     "language": "Rust",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-28T11:46:25Z",
     "url": "https://github.com/andypalmi/amicu"
-  },
-  {
-    "description": "MLOps course assignments on Iris: Vertex AI, DVC, Feast, MLflow, Kubernetes, MLSecOps, LLM safety",
-    "id": "abhijha8287/23f3004013_MLOPS_WEEKLY_ASSIGNMENT",
-    "language": "Python",
-    "name": "abhijha8287/23f3004013_MLOPS_WEEKLY_ASSIGNMENT",
-    "stars": 0,
-    "updated_at": "2026-10-28T11:41:16Z",
-    "url": "https://github.com/abhijha8287/23f3004013_MLOPS_WEEKLY_ASSIGNMENT"
-  },
-  {
-    "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
-    "id": "api7/aisix",
-    "language": "Rust",
-    "name": "api7/aisix",
-    "stars": 207,
-    "updated_at": "2026-10-28T11:34:54Z",
-    "url": "https://github.com/api7/aisix"
   }
 ]
