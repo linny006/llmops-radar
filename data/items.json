@@ -5,8 +5,107 @@
     "language": "Python",
     "name": "adeoluo/llm-observability",
     "stars": 0,
-    "updated_at": "2026-10-28T21:29:37Z",
+    "updated_at": "2026-10-28T21:43:04Z",
     "url": "https://github.com/adeoluo/llm-observability"
+  },
+  {
+    "description": "A principled, from-scratch evaluation and benchmarking framework for LLMs and agents: pluggable tasks and graders, boots",
+    "id": "adeoluo/evaluation-harness",
+    "language": "Python",
+    "name": "adeoluo/evaluation-harness",
+    "stars": 0,
+    "updated_at": "2026-10-28T21:42:53Z",
+    "url": "https://github.com/adeoluo/evaluation-harness"
+  },
+  {
+    "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
+    "id": "hjongc/openrouter-endpoint-watch",
+    "language": "Python",
+    "name": "hjongc/openrouter-endpoint-watch",
+    "stars": 0,
+    "updated_at": "2026-10-28T21:40:57Z",
+    "url": "https://github.com/hjongc/openrouter-endpoint-watch"
+  },
+  {
+    "description": "Searchable Excalidraw library for system design interviews and agentic AI architecture: 292 items, UI wireframes, patter",
+    "id": "Dinesh-Sunny/excalidraw-system-design-kit",
+    "language": "HTML",
+    "name": "Dinesh-Sunny/excalidraw-system-design-kit",
+    "stars": 1,
+    "updated_at": "2026-10-28T21:39:30Z",
+    "url": "https://github.com/Dinesh-Sunny/excalidraw-system-design-kit"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 62250,
+    "updated_at": "2026-10-28T21:45:15Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
+    "id": "holetz/quenching",
+    "language": "Python",
+    "name": "holetz/quenching",
+    "stars": 0,
+    "updated_at": "2026-10-28T21:34:41Z",
+    "url": "https://github.com/holetz/quenching"
+  },
+  {
+    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4997,
+    "updated_at": "2026-10-28T21:44:20Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 43,
+    "updated_at": "2026-10-28T21:33:41Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Your experts fix the AI every day. Overturn keeps every fix: captured where the work happens (Zendesk, SDK, OTel), repla",
+    "id": "overrule-ai/overturn",
+    "language": "TypeScript",
+    "name": "overrule-ai/overturn",
+    "stars": 0,
+    "updated_at": "2026-10-28T21:31:22Z",
+    "url": "https://github.com/overrule-ai/overturn"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-28T21:30:55Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
+    "id": "NVIDIA-NeMo/nemo-helix",
+    "language": "Python",
+    "name": "NVIDIA-NeMo/nemo-helix",
+    "stars": 132,
+    "updated_at": "2026-10-28T21:43:08Z",
+    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-28T21:30:33Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
@@ -16,15 +115,6 @@
     "stars": 2,
     "updated_at": "2026-10-28T21:28:29Z",
     "url": "https://github.com/a-novel/service-genai"
-  },
-  {
-    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4997,
-    "updated_at": "2026-10-28T21:28:14Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
@@ -41,17 +131,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 36658,
-    "updated_at": "2026-10-28T21:26:18Z",
+    "updated_at": "2026-10-28T21:39:50Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 62250,
-    "updated_at": "2026-10-28T21:30:15Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
@@ -63,15 +144,6 @@
     "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
-    "description": "Your experts fix the AI every day. Overturn keeps every fix: captured where the work happens (Zendesk, SDK, OTel), repla",
-    "id": "overrule-ai/overturn",
-    "language": "TypeScript",
-    "name": "overrule-ai/overturn",
-    "stars": 0,
-    "updated_at": "2026-10-28T21:18:02Z",
-    "url": "https://github.com/overrule-ai/overturn"
-  },
-  {
     "description": "LumenAI: FinOps and multi-tenant observability for GenAI. Turns OpenTelemetry traces into per-tenant USD cost, without s",
     "id": "skarL007/lumen-ai-sdk",
     "language": "Python",
@@ -79,24 +151,6 @@
     "stars": 3,
     "updated_at": "2026-10-28T21:17:26Z",
     "url": "https://github.com/skarL007/lumen-ai-sdk"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 43,
-    "updated_at": "2026-10-28T21:17:11Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-28T21:15:34Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -144,12 +198,21 @@
     "url": "https://github.com/SourceShift/mini-ork"
   },
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26563,
+    "updated_at": "2026-10-28T21:05:13Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
     "id": "TAIPANBOX/tokenfuse",
     "language": "Rust",
     "name": "TAIPANBOX/tokenfuse",
     "stars": 1,
-    "updated_at": "2026-10-28T21:04:13Z",
+    "updated_at": "2026-10-28T21:40:01Z",
     "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
@@ -194,26 +257,8 @@
     "language": "Python",
     "name": "jostrm/azure-enterprise-scale-ml",
     "stars": 53,
-    "updated_at": "2026-10-28T20:59:37Z",
+    "updated_at": "2026-10-28T21:32:17Z",
     "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
-  },
-  {
-    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
-    "id": "NVIDIA-NeMo/nemo-helix",
-    "language": "Python",
-    "name": "NVIDIA-NeMo/nemo-helix",
-    "stars": 132,
-    "updated_at": "2026-10-28T21:25:52Z",
-    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
-  },
-  {
-    "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
-    "id": "holetz/quenching",
-    "language": "Python",
-    "name": "holetz/quenching",
-    "stars": 0,
-    "updated_at": "2026-10-28T21:27:42Z",
-    "url": "https://github.com/holetz/quenching"
   },
   {
     "description": "The gagarin CLI \u2014 deploy and operate applications on gagarin. Ships the agent skill inside the binary.",
@@ -248,7 +293,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 12048,
-    "updated_at": "2026-10-28T21:28:44Z",
+    "updated_at": "2026-10-28T21:41:57Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -257,7 +302,7 @@
     "language": "Rust",
     "name": "respanai/respan-gateway",
     "stars": 371,
-    "updated_at": "2026-10-28T20:33:30Z",
+    "updated_at": "2026-10-28T21:41:08Z",
     "url": "https://github.com/respanai/respan-gateway"
   },
   {
@@ -283,7 +328,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 9763,
+    "stars": 9764,
     "updated_at": "2026-10-28T20:24:38Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-28T18:30:19Z",
     "url": "https://github.com/gaurav-gs7/Judikt"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26562,
-    "updated_at": "2026-10-28T21:05:13Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 4,
-    "updated_at": "2026-10-28T18:25:02Z",
-    "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "Searchable Excalidraw library for system design interviews and agentic AI architecture: 292 items, UI wireframes, patter",
-    "id": "Dinesh-Sunny/excalidraw-system-design-kit",
-    "language": "HTML",
-    "name": "Dinesh-Sunny/excalidraw-system-design-kit",
-    "stars": 1,
-    "updated_at": "2026-10-28T18:18:50Z",
-    "url": "https://github.com/Dinesh-Sunny/excalidraw-system-design-kit"
-  },
-  {
-    "description": "The platform for continuously improving AI agents.",
-    "id": "overmind-core/overmind",
-    "language": "Python",
-    "name": "overmind-core/overmind",
-    "stars": 717,
-    "updated_at": "2026-10-28T18:14:59Z",
-    "url": "https://github.com/overmind-core/overmind"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-28T18:11:12Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   }
 ]
