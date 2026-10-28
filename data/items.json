@@ -1,11 +1,128 @@
 [
   {
+    "description": "What if OpenAI Deep Research and Dify were one platform? OpenAgent \u2014 harness architecture for rapidly building vertical ",
+    "id": "Haohao-end/openagent",
+    "language": "Python",
+    "name": "Haohao-end/openagent",
+    "stars": 774,
+    "updated_at": "2026-10-28T11:56:51Z",
+    "url": "https://github.com/Haohao-end/openagent"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-28T11:56:50Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 43,
+    "updated_at": "2026-10-28T11:56:09Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 62226,
+    "updated_at": "2026-10-28T11:59:08Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Tamper-evident receipts for reported LLM efficiency events. Offline integrity and benchmark-arithmetic verification, wit",
+    "id": "thequantumfalcon/kry",
+    "language": "Python",
+    "name": "thequantumfalcon/kry",
+    "stars": 1,
+    "updated_at": "2026-10-28T11:55:32Z",
+    "url": "https://github.com/thequantumfalcon/kry"
+  },
+  {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22984,
+    "updated_at": "2026-10-28T11:59:33Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 31,
+    "updated_at": "2026-10-28T11:58:58Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4997,
+    "updated_at": "2026-10-28T11:56:41Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36635,
+    "updated_at": "2026-10-28T11:50:34Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Open-source AI on-call engineer for AWS. An alarm comes in, WARDEN reads the evidence, the AI proposes one fix from a cl",
+    "id": "veerarakesh56/warden",
+    "language": "Python",
+    "name": "veerarakesh56/warden",
+    "stars": 0,
+    "updated_at": "2026-10-28T11:51:36Z",
+    "url": "https://github.com/veerarakesh56/warden"
+  },
+  {
+    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
+    "id": "digline/digline",
+    "language": "Python",
+    "name": "digline/digline",
+    "stars": 9,
+    "updated_at": "2026-10-28T11:48:02Z",
+    "url": "https://github.com/digline/digline"
+  },
+  {
+    "description": "KYNEX - a local, tool-using AI agent that extracts structured data from documents. 92.65 unified value F1 measured on Ex",
+    "id": "Nikit117/kynex-harness",
+    "language": "Python",
+    "name": "Nikit117/kynex-harness",
+    "stars": 1,
+    "updated_at": "2026-10-28T11:46:12Z",
+    "url": "https://github.com/Nikit117/kynex-harness"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-28T11:45:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Self-hosted & federated platform for AI IDE/Tools Rules and Commands via WebUI & CLI - Generate, browse, store, share AG",
     "id": "GeiserX/LynxPrompt",
     "language": "TypeScript",
     "name": "GeiserX/LynxPrompt",
     "stars": 55,
-    "updated_at": "2026-10-28T11:44:49Z",
+    "updated_at": "2026-10-28T11:59:56Z",
     "url": "https://github.com/GeiserX/LynxPrompt"
   },
   {
@@ -14,17 +131,8 @@
     "language": "Rust",
     "name": "andypalmi/amicu",
     "stars": 1,
-    "updated_at": "2026-10-28T11:44:16Z",
+    "updated_at": "2026-10-28T11:46:25Z",
     "url": "https://github.com/andypalmi/amicu"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22984,
-    "updated_at": "2026-10-28T11:43:17Z",
-    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Switch AI models without breaking your product: find every model your code calls and when it retires, turn real usage lo",
@@ -50,53 +158,8 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28564,
-    "updated_at": "2026-10-28T11:40:43Z",
+    "updated_at": "2026-10-28T11:57:14Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "KYNEX - a local, tool-using AI agent that extracts structured data from documents. 92.65 unified value F1 measured on Ex",
-    "id": "Nikit117/kynex-harness",
-    "language": "Python",
-    "name": "Nikit117/kynex-harness",
-    "stars": 1,
-    "updated_at": "2026-10-28T11:38:59Z",
-    "url": "https://github.com/Nikit117/kynex-harness"
-  },
-  {
-    "description": "What if OpenAI Deep Research and Dify were one platform? OpenAgent \u2014 harness architecture for rapidly building vertical ",
-    "id": "Haohao-end/openagent",
-    "language": "Python",
-    "name": "Haohao-end/openagent",
-    "stars": 774,
-    "updated_at": "2026-10-28T11:38:55Z",
-    "url": "https://github.com/Haohao-end/openagent"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 62226,
-    "updated_at": "2026-10-28T11:44:28Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 31,
-    "updated_at": "2026-10-28T11:43:08Z",
-    "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 43,
-    "updated_at": "2026-10-28T11:35:02Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Open-source AI gateway for LLMs & AI agents, built in Rust. One OpenAI-compatible API for OpenAI, Anthropic, Gemini, Bed",
@@ -113,17 +176,8 @@
     "language": "Python",
     "name": "tonyweckstrom1987/agentti-pohja",
     "stars": 0,
-    "updated_at": "2026-10-28T11:31:48Z",
+    "updated_at": "2026-10-28T11:58:25Z",
     "url": "https://github.com/tonyweckstrom1987/agentti-pohja"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-28T11:30:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Enterprise Scale AIFactory (esml) - on Azure",
@@ -144,21 +198,12 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
-    "id": "digline/digline",
-    "language": "Python",
-    "name": "digline/digline",
-    "stars": 9,
-    "updated_at": "2026-10-28T11:42:11Z",
-    "url": "https://github.com/digline/digline"
-  },
-  {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
     "stars": 9740,
-    "updated_at": "2026-10-28T11:23:48Z",
+    "updated_at": "2026-10-28T11:47:17Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
@@ -185,7 +230,7 @@
     "language": "Rust",
     "name": "toxicwind/ranch",
     "stars": 0,
-    "updated_at": "2026-10-28T11:15:52Z",
+    "updated_at": "2026-10-28T12:00:23Z",
     "url": "https://github.com/toxicwind/ranch"
   },
   {
@@ -241,15 +286,6 @@
     "stars": 1,
     "updated_at": "2026-10-28T10:57:49Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-28T10:57:44Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
     "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
@@ -324,15 +360,6 @@
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36634,
-    "updated_at": "2026-10-28T11:12:06Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
     "description": "Agentic ADaM code generation with QC-grade verification: LangGraph, MCP, multi-model LLMs, CDISC, human sign-off and a p",
     "id": "grprakasam/adam-ai",
     "language": "Python",
@@ -349,15 +376,6 @@
     "stars": 1,
     "updated_at": "2026-10-28T10:22:26Z",
     "url": "https://github.com/Harunercul/argrouter"
-  },
-  {
-    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4997,
-    "updated_at": "2026-10-28T11:41:24Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-28T09:44:43Z",
     "url": "https://github.com/sophie-nguyenthuthuy/llm-pricing-history"
-  },
-  {
-    "description": "The open-source agentic framework to build, orchestrate, and operate production AI agents.",
-    "id": "apowerb/apowerb",
-    "language": "Python",
-    "name": "apowerb/apowerb",
-    "stars": 150,
-    "updated_at": "2026-10-28T09:43:13Z",
-    "url": "https://github.com/apowerb/apowerb"
-  },
-  {
-    "description": "Searchable Excalidraw library for system design interviews and agentic AI architecture: 292 items, UI wireframes, patter",
-    "id": "Dinesh-Sunny/excalidraw-system-design-kit",
-    "language": "HTML",
-    "name": "Dinesh-Sunny/excalidraw-system-design-kit",
-    "stars": 1,
-    "updated_at": "2026-10-28T09:38:20Z",
-    "url": "https://github.com/Dinesh-Sunny/excalidraw-system-design-kit"
   }
 ]
