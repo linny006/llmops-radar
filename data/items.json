@@ -4,9 +4,81 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 62251,
-    "updated_at": "2026-10-28T22:44:46Z",
+    "stars": 62250,
+    "updated_at": "2026-10-28T22:58:57Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-28T22:56:50Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Porteiro de guardrail para trafego de LLM: permite, revisa ou bloqueia cada prompt. Deterministico, explicavel, com ledg",
+    "id": "JulianoVinceCampos/shomer-gate",
+    "language": "Python",
+    "name": "JulianoVinceCampos/shomer-gate",
+    "stars": 0,
+    "updated_at": "2026-10-28T22:53:06Z",
+    "url": "https://github.com/JulianoVinceCampos/shomer-gate"
+  },
+  {
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
+    "language": "Python",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 53,
+    "updated_at": "2026-10-28T22:53:04Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
+    "description": "Switch AI models without breaking your product: find every model your code calls and when it retires, turn real usage lo",
+    "id": "DeChuks-hub/llmshift",
+    "language": "Python",
+    "name": "DeChuks-hub/llmshift",
+    "stars": 0,
+    "updated_at": "2026-10-28T22:51:46Z",
+    "url": "https://github.com/DeChuks-hub/llmshift"
+  },
+  {
+    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
+    "id": "0xPlaygrounds/rig",
+    "language": "Rust",
+    "name": "0xPlaygrounds/rig",
+    "stars": 9003,
+    "updated_at": "2026-10-28T22:56:53Z",
+    "url": "https://github.com/0xPlaygrounds/rig"
+  },
+  {
+    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
+    "id": "TAIPANBOX/tokenfuse",
+    "language": "Rust",
+    "name": "TAIPANBOX/tokenfuse",
+    "stars": 1,
+    "updated_at": "2026-10-28T22:46:40Z",
+    "url": "https://github.com/TAIPANBOX/tokenfuse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-28T22:45:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 12048,
+    "updated_at": "2026-10-28T22:57:59Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -18,49 +90,13 @@
     "url": "https://github.com/vivek-541/vivek-541"
   },
   {
-    "description": "Porteiro de guardrail para trafego de LLM: permite, revisa ou bloqueia cada prompt. Deterministico, explicavel, com ledg",
-    "id": "JulianoVinceCampos/shomer-gate",
-    "language": "Python",
-    "name": "JulianoVinceCampos/shomer-gate",
-    "stars": 0,
-    "updated_at": "2026-10-28T22:40:58Z",
-    "url": "https://github.com/JulianoVinceCampos/shomer-gate"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 9003,
-    "updated_at": "2026-10-28T22:41:53Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
     "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4997,
-    "updated_at": "2026-10-28T22:38:04Z",
+    "updated_at": "2026-10-28T23:00:19Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Enterprise Scale AIFactory (esml) - on Azure",
-    "id": "jostrm/azure-enterprise-scale-ml",
-    "language": "Python",
-    "name": "jostrm/azure-enterprise-scale-ml",
-    "stars": 53,
-    "updated_at": "2026-10-28T22:37:33Z",
-    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 12048,
-    "updated_at": "2026-10-28T22:45:22Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
@@ -81,15 +117,6 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-28T22:30:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Open-source, 100% serverless AI-workflow orchestration on AWS Step Functions + Lambda \u2014 build, version & time-travel-deb",
     "id": "ALLMA-dev/allma-core",
     "language": "TypeScript",
@@ -103,7 +130,7 @@
     "id": "respanai/respan-gateway",
     "language": "Rust",
     "name": "respanai/respan-gateway",
-    "stars": 371,
+    "stars": 373,
     "updated_at": "2026-10-28T22:28:14Z",
     "url": "https://github.com/respanai/respan-gateway"
   },
@@ -113,7 +140,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 36658,
-    "updated_at": "2026-10-28T22:40:11Z",
+    "updated_at": "2026-10-28T22:54:49Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -153,15 +180,6 @@
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
-    "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
-    "id": "TAIPANBOX/tokenfuse",
-    "language": "Rust",
-    "name": "TAIPANBOX/tokenfuse",
-    "stars": 1,
-    "updated_at": "2026-10-28T22:38:32Z",
-    "url": "https://github.com/TAIPANBOX/tokenfuse"
-  },
-  {
     "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
     "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
     "language": "HTML",
@@ -189,21 +207,12 @@
     "url": "https://github.com/acornops/acornops-deployment"
   },
   {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-28T22:07:07Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
     "id": "sarkars/agent-failure-modes",
     "language": "Python",
     "name": "sarkars/agent-failure-modes",
     "stars": 1,
-    "updated_at": "2026-10-28T22:09:40Z",
+    "updated_at": "2026-10-28T22:58:49Z",
     "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
@@ -392,7 +401,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 2,
-    "updated_at": "2026-10-28T22:36:14Z",
+    "updated_at": "2026-10-28T22:57:00Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -428,7 +437,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 750,
-    "updated_at": "2026-10-28T20:28:32Z",
+    "updated_at": "2026-10-28T22:55:26Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 7,
     "updated_at": "2026-10-28T20:26:35Z",
     "url": "https://github.com/KushagraKanaujia/throttle"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 9764,
-    "updated_at": "2026-10-28T20:24:38Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
   }
 ]
