@@ -1,5 +1,86 @@
 [
   {
+    "description": "Fine-tuned Llama 3.1 8B \u00b7 QLoRA \u00b7 RAG serving stack \u00b7 FastAPI \u00b7 Pinecone \u00b7 Azure",
+    "id": "MukulRay1603/Irminsul",
+    "language": "Python",
+    "name": "MukulRay1603/Irminsul",
+    "stars": 6,
+    "updated_at": "2026-10-28T00:44:36Z",
+    "url": "https://github.com/MukulRay1603/Irminsul"
+  },
+  {
+    "description": "A curated collection of resources for \ud83c\udf0c Azure OpenAI, \ud83e\udd99 LLMs (+RAG, Agents). Monthly Updates.",
+    "id": "kimtth/azure-openai-llm-notes",
+    "language": "Python",
+    "name": "kimtth/azure-openai-llm-notes",
+    "stars": 420,
+    "updated_at": "2026-10-28T00:40:46Z",
+    "url": "https://github.com/kimtth/azure-openai-llm-notes"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 62186,
+    "updated_at": "2026-10-28T00:34:04Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Self-hosted model and dataset hub, compatible with the Hugging Face Hub API, git, Ollama and LM Studio. Use it as a priv",
+    "id": "hangar-hub/hangar",
+    "language": "Go",
+    "name": "hangar-hub/hangar",
+    "stars": 2,
+    "updated_at": "2026-10-28T00:34:50Z",
+    "url": "https://github.com/hangar-hub/hangar"
+  },
+  {
+    "description": "Local-first agent communication matrix for Claude, Gemini, OpenCode and ACP/A2A agents: multi-agent orchestration, agent",
+    "id": "Josepavese/matrix",
+    "language": "Go",
+    "name": "Josepavese/matrix",
+    "stars": 0,
+    "updated_at": "2026-10-28T00:34:13Z",
+    "url": "https://github.com/Josepavese/matrix"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1291,
+    "updated_at": "2026-10-28T00:33:32Z",
+    "url": "https://github.com/Arize-ai/openinference"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 42,
+    "updated_at": "2026-10-28T00:31:13Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-28T00:30:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Profile of Dr. Ravi Teja Thiriveedhi \u2014 clinician turned AI systems architect: multi-agent platforms, AI governance, LLM ",
+    "id": "Raviteja2k2k/Raviteja2k2k",
+    "language": "Python",
+    "name": "Raviteja2k2k/Raviteja2k2k",
+    "stars": 0,
+    "updated_at": "2026-10-28T00:40:15Z",
+    "url": "https://github.com/Raviteja2k2k/Raviteja2k2k"
+  },
+  {
     "description": "An agentic penetration testing framework focused on LLM training and inference infrastructure (K8s + GPU)",
     "id": "lupingQAQ/inkblade",
     "language": "Python",
@@ -9,15 +90,6 @@
     "url": "https://github.com/lupingQAQ/inkblade"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 62182,
-    "updated_at": "2026-10-28T00:28:54Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
@@ -25,15 +97,6 @@
     "stars": 28563,
     "updated_at": "2026-10-28T00:25:39Z",
     "url": "https://github.com/mlflow/mlflow"
-  },
-  {
-    "description": "An agentic penetration testing framework focused on LLM training and inference infrastructure (K8s + GPU)",
-    "id": "lupingQAQ/inkblade-archive",
-    "language": "Python",
-    "name": "lupingQAQ/inkblade-archive",
-    "stars": 0,
-    "updated_at": "2026-10-28T00:23:09Z",
-    "url": "https://github.com/lupingQAQ/inkblade-archive"
   },
   {
     "description": "Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude ",
@@ -81,15 +144,6 @@
     "url": "https://github.com/llmsyscore/llm-systems-manager"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-28T00:15:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
     "id": "vocion/vocion-core",
     "language": "TypeScript",
@@ -108,15 +162,6 @@
     "url": "https://github.com/vipin-mo/nexus-ai-hub"
   },
   {
-    "description": "Profile of Dr. Ravi Teja Thiriveedhi \u2014 clinician turned AI systems architect: multi-agent platforms, AI governance, LLM ",
-    "id": "Raviteja2k2k/Raviteja2k2k",
-    "language": "Python",
-    "name": "Raviteja2k2k/Raviteja2k2k",
-    "stars": 0,
-    "updated_at": "2026-10-28T00:13:37Z",
-    "url": "https://github.com/Raviteja2k2k/Raviteja2k2k"
-  },
-  {
     "description": "Understand which functions and agents drive LLM spend. Self-hosted monitoring and an open model pricing catalog.",
     "id": "metergraph/metergraph",
     "language": "Python",
@@ -131,17 +176,17 @@
     "language": "Rust",
     "name": "respanai/respan-gateway",
     "stars": 353,
-    "updated_at": "2026-10-28T00:26:26Z",
+    "updated_at": "2026-10-28T00:44:43Z",
     "url": "https://github.com/respanai/respan-gateway"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 42,
-    "updated_at": "2026-10-28T00:08:15Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 12034,
+    "updated_at": "2026-10-28T00:06:45Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Does your LLM telemetry tell the truth? Replays provider responses through LLM instrumentation libraries and checks ever",
@@ -194,7 +239,7 @@
     "language": "Rust",
     "name": "systempromptio/systemprompt-core",
     "stars": 8,
-    "updated_at": "2026-10-28T00:18:56Z",
+    "updated_at": "2026-10-28T00:43:09Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
@@ -266,7 +311,7 @@
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 132,
-    "updated_at": "2026-10-28T00:12:19Z",
+    "updated_at": "2026-10-28T00:36:10Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -306,6 +351,15 @@
     "url": "https://github.com/linklbee/scan"
   },
   {
+    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
+    "id": "future-agi/future-agi",
+    "language": "Python",
+    "name": "future-agi/future-agi",
+    "stars": 2212,
+    "updated_at": "2026-10-27T23:03:34Z",
+    "url": "https://github.com/future-agi/future-agi"
+  },
+  {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
     "id": "llmspendguard/llm-spendguard",
     "language": "Python",
@@ -329,7 +383,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 744,
-    "updated_at": "2026-10-27T22:55:56Z",
+    "updated_at": "2026-10-28T00:35:26Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -365,17 +419,8 @@
     "language": "Python",
     "name": "luetzey/who2be",
     "stars": 0,
-    "updated_at": "2026-10-28T00:04:18Z",
+    "updated_at": "2026-10-28T00:30:51Z",
     "url": "https://github.com/luetzey/who2be"
-  },
-  {
-    "description": "Self-hosted model and dataset hub, compatible with the Hugging Face Hub API, git, Ollama and LM Studio. Use it as a priv",
-    "id": "hangar-hub/hangar",
-    "language": "Go",
-    "name": "hangar-hub/hangar",
-    "stars": 2,
-    "updated_at": "2026-10-28T00:12:27Z",
-    "url": "https://github.com/hangar-hub/hangar"
   },
   {
     "description": "Find and prove inference savings on your own GPUs: $/M tokens with 95% CIs, agent workloads, verified-savings statements",
@@ -403,50 +448,5 @@
     "stars": 27,
     "updated_at": "2026-10-27T22:22:01Z",
     "url": "https://github.com/ndom91/llama-dash"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 24,
-    "updated_at": "2026-10-27T22:16:25Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 12033,
-    "updated_at": "2026-10-28T00:06:45Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Searchable Excalidraw library for system design interviews and agentic AI architecture: 292 items, UI wireframes, patter",
-    "id": "Dinesh-Sunny/excalidraw-system-design-kit",
-    "language": "HTML",
-    "name": "Dinesh-Sunny/excalidraw-system-design-kit",
-    "stars": 1,
-    "updated_at": "2026-10-27T22:14:51Z",
-    "url": "https://github.com/Dinesh-Sunny/excalidraw-system-design-kit"
-  },
-  {
-    "description": "Open-source AI on-call engineer for AWS. An alarm comes in, WARDEN reads the evidence, the AI proposes one fix from a cl",
-    "id": "veerarakesh56/warden",
-    "language": "Python",
-    "name": "veerarakesh56/warden",
-    "stars": 0,
-    "updated_at": "2026-10-27T22:07:01Z",
-    "url": "https://github.com/veerarakesh56/warden"
-  },
-  {
-    "description": "LumenAI: FinOps and multi-tenant observability for GenAI. Turns OpenTelemetry traces into per-tenant USD cost, without s",
-    "id": "skarL007/lumen-ai-sdk",
-    "language": "Python",
-    "name": "skarL007/lumen-ai-sdk",
-    "stars": 3,
-    "updated_at": "2026-10-27T22:16:32Z",
-    "url": "https://github.com/skarL007/lumen-ai-sdk"
   }
 ]
