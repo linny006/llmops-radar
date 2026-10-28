@@ -1,5 +1,104 @@
 [
   {
+    "description": "InFlow FDE\uff1a\u4f01\u4e1a AI \u8f6c\u578b\u64cd\u76d8\u53f0\u3002\u603b\u6307\u6325 \u2192 \u90e8\u95e8 Agent \u2192 \u6570\u5b57\u5458\u5de5\uff1b\u6570\u5b57\u7531\u4ee3\u7801\u7b97\uff0c\u52a8\u94b1\u7684\u52a8\u4f5c\u4eba\u62cd\u677f\uff0c\u6bcf\u4e00\u5206 AI \u6210\u672c\u90fd\u8bb0\u8d26\u3002",
+    "id": "zj85997-hash/inflow-fde",
+    "language": "TypeScript",
+    "name": "zj85997-hash/inflow-fde",
+    "stars": 0,
+    "updated_at": "2026-10-28T01:00:03Z",
+    "url": "https://github.com/zj85997-hash/inflow-fde"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-28T00:59:59Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
+    "id": "negativexq/agentic-customer-service-platform",
+    "language": "Python",
+    "name": "negativexq/agentic-customer-service-platform",
+    "stars": 11,
+    "updated_at": "2026-10-28T00:59:23Z",
+    "url": "https://github.com/negativexq/agentic-customer-service-platform"
+  },
+  {
+    "description": "Searchable Excalidraw library for system design interviews and agentic AI architecture: 292 items, UI wireframes, patter",
+    "id": "Dinesh-Sunny/excalidraw-system-design-kit",
+    "language": "HTML",
+    "name": "Dinesh-Sunny/excalidraw-system-design-kit",
+    "stars": 1,
+    "updated_at": "2026-10-28T00:58:34Z",
+    "url": "https://github.com/Dinesh-Sunny/excalidraw-system-design-kit"
+  },
+  {
+    "description": "An agentic penetration testing framework focused on LLM training and inference infrastructure (K8s + GPU)",
+    "id": "lupingQAQ/inkblade",
+    "language": "Python",
+    "name": "lupingQAQ/inkblade",
+    "stars": 0,
+    "updated_at": "2026-10-28T00:58:26Z",
+    "url": "https://github.com/lupingQAQ/inkblade"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 62187,
+    "updated_at": "2026-10-28T00:59:25Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 3023,
+    "updated_at": "2026-10-28T00:54:14Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-10-28T00:52:57Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 42,
+    "updated_at": "2026-10-28T00:48:40Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-28T00:45:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary.",
+    "id": "respanai/respan-gateway",
+    "language": "Rust",
+    "name": "respanai/respan-gateway",
+    "stars": 354,
+    "updated_at": "2026-10-28T00:44:43Z",
+    "url": "https://github.com/respanai/respan-gateway"
+  },
+  {
     "description": "Fine-tuned Llama 3.1 8B \u00b7 QLoRA \u00b7 RAG serving stack \u00b7 FastAPI \u00b7 Pinecone \u00b7 Azure",
     "id": "MukulRay1603/Irminsul",
     "language": "Python",
@@ -18,21 +117,12 @@
     "url": "https://github.com/kimtth/azure-openai-llm-notes"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 62186,
-    "updated_at": "2026-10-28T00:34:04Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Self-hosted model and dataset hub, compatible with the Hugging Face Hub API, git, Ollama and LM Studio. Use it as a priv",
     "id": "hangar-hub/hangar",
     "language": "Go",
     "name": "hangar-hub/hangar",
     "stars": 2,
-    "updated_at": "2026-10-28T00:34:50Z",
+    "updated_at": "2026-10-28T00:57:28Z",
     "url": "https://github.com/hangar-hub/hangar"
   },
   {
@@ -54,24 +144,6 @@
     "url": "https://github.com/Arize-ai/openinference"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 42,
-    "updated_at": "2026-10-28T00:31:13Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-28T00:30:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Profile of Dr. Ravi Teja Thiriveedhi \u2014 clinician turned AI systems architect: multi-agent platforms, AI governance, LLM ",
     "id": "Raviteja2k2k/Raviteja2k2k",
     "language": "Python",
@@ -79,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-28T00:40:15Z",
     "url": "https://github.com/Raviteja2k2k/Raviteja2k2k"
-  },
-  {
-    "description": "An agentic penetration testing framework focused on LLM training and inference infrastructure (K8s + GPU)",
-    "id": "lupingQAQ/inkblade",
-    "language": "Python",
-    "name": "lupingQAQ/inkblade",
-    "stars": 0,
-    "updated_at": "2026-10-28T00:29:24Z",
-    "url": "https://github.com/lupingQAQ/inkblade"
   },
   {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
@@ -113,7 +176,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22976,
-    "updated_at": "2026-10-28T00:18:26Z",
+    "updated_at": "2026-10-28T00:54:04Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -171,15 +234,6 @@
     "url": "https://github.com/metergraph/metergraph"
   },
   {
-    "description": "One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary.",
-    "id": "respanai/respan-gateway",
-    "language": "Rust",
-    "name": "respanai/respan-gateway",
-    "stars": 353,
-    "updated_at": "2026-10-28T00:44:43Z",
-    "url": "https://github.com/respanai/respan-gateway"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -225,24 +279,6 @@
     "url": "https://github.com/TarekFawaz/kcc-agentic-framework"
   },
   {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-28T00:01:26Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-10-28T00:43:09Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
     "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
     "id": "JavisBot-Service/javis-transparency",
     "language": "Python",
@@ -286,15 +322,6 @@
     "stars": 1,
     "updated_at": "2026-10-27T23:41:31Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
-    "id": "negativexq/agentic-customer-service-platform",
-    "language": "Python",
-    "name": "negativexq/agentic-customer-service-platform",
-    "stars": 11,
-    "updated_at": "2026-10-27T23:39:12Z",
-    "url": "https://github.com/negativexq/agentic-customer-service-platform"
   },
   {
     "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
@@ -356,7 +383,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 2212,
-    "updated_at": "2026-10-27T23:03:34Z",
+    "updated_at": "2026-10-28T00:49:56Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-28T00:30:51Z",
     "url": "https://github.com/luetzey/who2be"
-  },
-  {
-    "description": "Find and prove inference savings on your own GPUs: $/M tokens with 95% CIs, agent workloads, verified-savings statements",
-    "id": "KushagraKanaujia/throttle",
-    "language": "Python",
-    "name": "KushagraKanaujia/throttle",
-    "stars": 7,
-    "updated_at": "2026-10-27T22:31:10Z",
-    "url": "https://github.com/KushagraKanaujia/throttle"
-  },
-  {
-    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
-    "id": "vivek-541/vivek-541",
-    "language": "HTML",
-    "name": "vivek-541/vivek-541",
-    "stars": 4,
-    "updated_at": "2026-10-27T22:27:46Z",
-    "url": "https://github.com/vivek-541/vivek-541"
-  },
-  {
-    "description": "The operations layer for your local LLM stack",
-    "id": "ndom91/llama-dash",
-    "language": "TypeScript",
-    "name": "ndom91/llama-dash",
-    "stars": 27,
-    "updated_at": "2026-10-27T22:22:01Z",
-    "url": "https://github.com/ndom91/llama-dash"
   }
 ]
