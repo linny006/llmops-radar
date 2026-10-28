@@ -1,21 +1,75 @@
 [
   {
+    "description": "Switch AI models without breaking your product: find every model your code calls and when it retires, turn real usage lo",
+    "id": "DeChuks-hub/llmshift",
+    "language": "Python",
+    "name": "DeChuks-hub/llmshift",
+    "stars": 0,
+    "updated_at": "2026-10-28T12:30:21Z",
+    "url": "https://github.com/DeChuks-hub/llmshift"
+  },
+  {
+    "description": "Template for small, safe AI agents in pure Python: cost caps in code, tool-less LLM client, \"I don't know\" as a valid re",
+    "id": "tonyweckstrom1987/agentti-pohja",
+    "language": "Python",
+    "name": "tonyweckstrom1987/agentti-pohja",
+    "stars": 0,
+    "updated_at": "2026-10-28T12:29:43Z",
+    "url": "https://github.com/tonyweckstrom1987/agentti-pohja"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 62226,
-    "updated_at": "2026-10-28T12:15:00Z",
+    "stars": 62228,
+    "updated_at": "2026-10-28T12:29:24Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
+    "language": "Python",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 53,
+    "updated_at": "2026-10-28T12:22:34Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 31,
+    "updated_at": "2026-10-28T12:26:36Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "What if OpenAI Deep Research and Dify were one platform? OpenAgent \u2014 harness architecture for rapidly building vertical ",
+    "id": "Haohao-end/openagent",
+    "language": "Python",
+    "name": "Haohao-end/openagent",
+    "stars": 774,
+    "updated_at": "2026-10-28T12:19:57Z",
+    "url": "https://github.com/Haohao-end/openagent"
   },
   {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 9740,
-    "updated_at": "2026-10-28T12:14:45Z",
+    "stars": 9742,
+    "updated_at": "2026-10-28T12:15:42Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-28T12:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
@@ -32,7 +86,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28565,
-    "updated_at": "2026-10-28T12:13:22Z",
+    "updated_at": "2026-10-28T12:21:39Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -41,7 +95,7 @@
     "language": "TypeScript",
     "name": "GeiserX/LynxPrompt",
     "stars": 55,
-    "updated_at": "2026-10-28T12:14:41Z",
+    "updated_at": "2026-10-28T12:24:52Z",
     "url": "https://github.com/GeiserX/LynxPrompt"
   },
   {
@@ -52,15 +106,6 @@
     "stars": 16,
     "updated_at": "2026-10-28T12:12:10Z",
     "url": "https://github.com/01men/ybkkasi"
-  },
-  {
-    "description": "Enterprise Scale AIFactory (esml) - on Azure",
-    "id": "jostrm/azure-enterprise-scale-ml",
-    "language": "Python",
-    "name": "jostrm/azure-enterprise-scale-ml",
-    "stars": 53,
-    "updated_at": "2026-10-28T12:10:49Z",
-    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
   },
   {
     "description": "Agentic Runtime",
@@ -86,7 +131,7 @@
     "language": "JavaScript",
     "name": "cubxxw/blog",
     "stars": 30,
-    "updated_at": "2026-10-28T12:10:07Z",
+    "updated_at": "2026-10-28T12:26:20Z",
     "url": "https://github.com/cubxxw/blog"
   },
   {
@@ -108,24 +153,6 @@
     "url": "https://github.com/dyronrh/awesome-agentops-landscape"
   },
   {
-    "description": "Switch AI models without breaking your product: find every model your code calls and when it retires, turn real usage lo",
-    "id": "DeChuks-hub/llmshift",
-    "language": "Python",
-    "name": "DeChuks-hub/llmshift",
-    "stars": 0,
-    "updated_at": "2026-10-28T12:15:00Z",
-    "url": "https://github.com/DeChuks-hub/llmshift"
-  },
-  {
-    "description": "Template for small, safe AI agents in pure Python: cost caps in code, tool-less LLM client, \"I don't know\" as a valid re",
-    "id": "tonyweckstrom1987/agentti-pohja",
-    "language": "Python",
-    "name": "tonyweckstrom1987/agentti-pohja",
-    "stars": 0,
-    "updated_at": "2026-10-28T12:03:55Z",
-    "url": "https://github.com/tonyweckstrom1987/agentti-pohja"
-  },
-  {
     "description": "Radicalbit AI Gateway",
     "id": "radicalbit/radicalbit-ai-gateway",
     "language": "Python",
@@ -133,15 +160,6 @@
     "stars": 71,
     "updated_at": "2026-10-28T12:03:51Z",
     "url": "https://github.com/radicalbit/radicalbit-ai-gateway"
-  },
-  {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 31,
-    "updated_at": "2026-10-28T12:12:48Z",
-    "url": "https://github.com/byte5ai/omadia"
   },
   {
     "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
@@ -160,24 +178,6 @@
     "stars": 4,
     "updated_at": "2026-10-28T12:01:02Z",
     "url": "https://github.com/piotrekno1/second-shift"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-28T12:00:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "What if OpenAI Deep Research and Dify were one platform? OpenAgent \u2014 harness architecture for rapidly building vertical ",
-    "id": "Haohao-end/openagent",
-    "language": "Python",
-    "name": "Haohao-end/openagent",
-    "stars": 774,
-    "updated_at": "2026-10-28T11:56:51Z",
-    "url": "https://github.com/Haohao-end/openagent"
   },
   {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
@@ -203,7 +203,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 22984,
-    "updated_at": "2026-10-28T12:14:19Z",
+    "updated_at": "2026-10-28T12:19:17Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -212,7 +212,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4997,
-    "updated_at": "2026-10-28T11:56:41Z",
+    "updated_at": "2026-10-28T12:20:29Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -221,7 +221,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 36635,
-    "updated_at": "2026-10-28T12:06:39Z",
+    "updated_at": "2026-10-28T12:16:42Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -230,7 +230,7 @@
     "language": "Python",
     "name": "veerarakesh56/warden",
     "stars": 0,
-    "updated_at": "2026-10-28T12:11:45Z",
+    "updated_at": "2026-10-28T12:22:39Z",
     "url": "https://github.com/veerarakesh56/warden"
   },
   {
@@ -239,7 +239,7 @@
     "language": "Python",
     "name": "digline/digline",
     "stars": 9,
-    "updated_at": "2026-10-28T11:48:02Z",
+    "updated_at": "2026-10-28T12:27:10Z",
     "url": "https://github.com/digline/digline"
   },
   {
@@ -347,7 +347,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30783,
-    "updated_at": "2026-10-28T11:04:26Z",
+    "updated_at": "2026-10-28T12:29:07Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -365,7 +365,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-28T11:35:48Z",
+    "updated_at": "2026-10-28T12:24:38Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -374,7 +374,7 @@
     "language": "TypeScript",
     "name": "Abillify/atf",
     "stars": 5,
-    "updated_at": "2026-10-28T10:54:57Z",
+    "updated_at": "2026-10-28T12:18:50Z",
     "url": "https://github.com/Abillify/atf"
   },
   {
