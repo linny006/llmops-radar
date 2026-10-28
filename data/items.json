@@ -1,12 +1,39 @@
 [
   {
-    "description": "Build applications that make decisions (chatbots, agents, simulations, etc...). Monitor, trace, persist, and execute on ",
-    "id": "apache/burr",
+    "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
+    "id": "vivek-541/vivek-541",
+    "language": "HTML",
+    "name": "vivek-541/vivek-541",
+    "stars": 4,
+    "updated_at": "2026-10-28T06:00:07Z",
+    "url": "https://github.com/vivek-541/vivek-541"
+  },
+  {
+    "description": "Template for small, safe AI agents in pure Python: cost caps in code, tool-less LLM client, \"I don't know\" as a valid re",
+    "id": "tonyweckstrom1987/agentti-pohja",
     "language": "Python",
-    "name": "apache/burr",
-    "stars": 2583,
-    "updated_at": "2026-10-28T05:44:47Z",
-    "url": "https://github.com/apache/burr"
+    "name": "tonyweckstrom1987/agentti-pohja",
+    "stars": 0,
+    "updated_at": "2026-10-28T05:58:35Z",
+    "url": "https://github.com/tonyweckstrom1987/agentti-pohja"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-28T05:57:29Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28562,
+    "updated_at": "2026-10-28T05:54:46Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Agentic Runtime",
@@ -14,7 +41,7 @@
     "language": "Go",
     "name": "anthony-chaudhary/fak",
     "stars": 43,
-    "updated_at": "2026-10-28T05:43:36Z",
+    "updated_at": "2026-10-28T06:00:21Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
@@ -23,8 +50,53 @@
     "language": "Python",
     "name": "Haohao-end/openagent",
     "stars": 774,
-    "updated_at": "2026-10-28T05:43:06Z",
+    "updated_at": "2026-10-28T05:53:39Z",
     "url": "https://github.com/Haohao-end/openagent"
+  },
+  {
+    "description": "Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code \u2014 V3 prototype runs ",
+    "id": "MongLong0214/jev-gate",
+    "language": "TypeScript",
+    "name": "MongLong0214/jev-gate",
+    "stars": 4,
+    "updated_at": "2026-10-28T05:47:40Z",
+    "url": "https://github.com/MongLong0214/jev-gate"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-28T05:58:58Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-28T05:45:24Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "Build applications that make decisions (chatbots, agents, simulations, etc...). Monitor, trace, persist, and execute on ",
+    "id": "apache/burr",
+    "language": "Python",
+    "name": "apache/burr",
+    "stars": 2583,
+    "updated_at": "2026-10-28T05:46:43Z",
+    "url": "https://github.com/apache/burr"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 62202,
+    "updated_at": "2026-10-28T05:59:39Z",
+    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "AgentFox: open-source control plane for AI agents. Guardrails on model traffic, tool calls bounded by capability grants,",
@@ -41,7 +113,7 @@
     "language": "TypeScript",
     "name": "GeiserX/LynxPrompt",
     "stars": 54,
-    "updated_at": "2026-10-28T05:44:32Z",
+    "updated_at": "2026-10-28T05:59:35Z",
     "url": "https://github.com/GeiserX/LynxPrompt"
   },
   {
@@ -50,7 +122,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 2,
-    "updated_at": "2026-10-28T05:33:01Z",
+    "updated_at": "2026-10-28T05:58:16Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -72,15 +144,6 @@
     "url": "https://github.com/hari9618/atlas-agentic-research"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 62201,
-    "updated_at": "2026-10-28T05:44:34Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Drop-in LLM proxy that cuts input tokens 30\u201370% (54.1% measured, quality-gated) across 27 transparent optimisations \u2014 ca",
     "id": "cbeyondcloud/TokenLean",
     "language": "Python",
@@ -88,15 +151,6 @@
     "stars": 3,
     "updated_at": "2026-10-28T05:30:38Z",
     "url": "https://github.com/cbeyondcloud/TokenLean"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-28T05:30:29Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -153,15 +207,6 @@
     "url": "https://github.com/thequantumfalcon/kry"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28562,
-    "updated_at": "2026-10-28T05:24:24Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "Continuous Evaluation Infrastructure for Production AI",
     "id": "Red1-Rahman/NiriZan",
     "language": "Jupyter Notebook",
@@ -169,15 +214,6 @@
     "stars": 3,
     "updated_at": "2026-10-28T05:02:43Z",
     "url": "https://github.com/Red1-Rahman/NiriZan"
-  },
-  {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-28T05:00:16Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
     "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
@@ -225,15 +261,6 @@
     "url": "https://github.com/hibou04-ops/omegaprompt"
   },
   {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-28T05:35:48Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
     "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
     "id": "a-novel/service-genai",
     "language": "Go",
@@ -241,15 +268,6 @@
     "stars": 2,
     "updated_at": "2026-10-28T04:28:10Z",
     "url": "https://github.com/a-novel/service-genai"
-  },
-  {
-    "description": "Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code \u2014 V3 prototype runs ",
-    "id": "MongLong0214/jev-gate",
-    "language": "TypeScript",
-    "name": "MongLong0214/jev-gate",
-    "stars": 4,
-    "updated_at": "2026-10-28T05:37:31Z",
-    "url": "https://github.com/MongLong0214/jev-gate"
   },
   {
     "description": "Measure your LLM judge's noise floor \u2014 an A/B improvement smaller than the judge's own noise isn't real. Pre-flight prob",
@@ -311,7 +329,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4996,
-    "updated_at": "2026-10-28T05:40:57Z",
+    "updated_at": "2026-10-28T05:55:48Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-28T02:19:45Z",
     "url": "https://github.com/hjongc/openrouter-endpoint-watch"
-  },
-  {
-    "description": "Dify with Let's Encrypt Using Docker Compose",
-    "id": "heyvaldemar/dify-traefik-letsencrypt-docker-compose",
-    "language": "Shell",
-    "name": "heyvaldemar/dify-traefik-letsencrypt-docker-compose",
-    "stars": 0,
-    "updated_at": "2026-10-28T02:15:51Z",
-    "url": "https://github.com/heyvaldemar/dify-traefik-letsencrypt-docker-compose"
-  },
-  {
-    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
-    "id": "acornops/management-console",
-    "language": "TypeScript",
-    "name": "acornops/management-console",
-    "stars": 2,
-    "updated_at": "2026-10-28T02:10:39Z",
-    "url": "https://github.com/acornops/management-console"
   }
 ]
