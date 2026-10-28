@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-28 20:30 UTC
+> ⏰ Last updated: 2026-10-28 20:34 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,28 +42,28 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [overrule-ai/overturn](https://github.com/overrule-ai/overturn) | 0 | TypeScript | 2026-10-28 | The system of record for how your company corrects AI. Every human fix of an agent becomes a replayable test, on any mod |
-| 2 | [skarL007/lumen-ai-sdk](https://github.com/skarL007/lumen-ai-sdk) | 3 | Python | 2026-10-28 | LumenAI: FinOps and multi-tenant observability for GenAI. Turns OpenTelemetry traces into per-tenant USD cost, without s |
-| 3 | [mozilla-ai/otari](https://github.com/mozilla-ai/otari) | 749 | Python | 2026-10-28 | Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, |
-| 4 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 4997 | TypeScript | 2026-10-28 | Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist |
-| 5 | [KushagraKanaujia/throttle](https://github.com/KushagraKanaujia/throttle) | 7 | Python | 2026-10-28 | Find and prove inference savings on your own GPUs: $/M tokens with 95% CIs, agent workloads, verified-savings statements |
-| 6 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 62248 | Python | 2026-10-28 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
-| 7 | [TAIPANBOX/tokenfuse](https://github.com/TAIPANBOX/tokenfuse) | 1 | Rust | 2026-10-28 | TokenFuse — runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh |
-| 8 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 9760 | Python | 2026-10-28 | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
-| 9 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 8 | Rust | 2026-10-28 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
-| 10 | [cubxxw/blog](https://github.com/cubxxw/blog) | 30 | JavaScript | 2026-10-28 | 顶级审美的个人博客！！！写一些关于 AI、Agent、技术、产品、营销、一些生活思考，个人成长类的精文 |
-| 11 | [jostrm/azure-enterprise-scale-ml](https://github.com/jostrm/azure-enterprise-scale-ml) | 53 | Python | 2026-10-28 | Enterprise Scale AIFactory (esml) - on Azure |
-| 12 | [sarkars/agent-failure-modes](https://github.com/sarkars/agent-failure-modes) | 1 | Python | 2026-10-28 | Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a |
-| 13 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-28 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
-| 14 | [ainsel-project/ainsel](https://github.com/ainsel-project/ainsel) | 2 | Go | 2026-10-28 |  |
-| 15 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 43 | Go | 2026-10-28 | Agentic Runtime |
-| 16 | [toxicwind/ranch](https://github.com/toxicwind/ranch) | 0 | Rust | 2026-10-28 | The self-hosted LLM estate in one monorepo — local model serving, cloud provider routing, MCP gateway, build jobs. All O |
-| 17 | [NVIDIA-NeMo/nemo-helix](https://github.com/NVIDIA-NeMo/nemo-helix) | 132 | Python | 2026-10-28 | NeMo Helix: Make the agents you ship faster, more accurate, and safer. |
-| 18 | [metergraph/metergraph](https://github.com/metergraph/metergraph) | 4 | Python | 2026-10-28 | Understand which functions and agents drive LLM spend. Self-hosted monitoring and an open model pricing catalog. |
-| 19 | [llmspendguard/llm-spendguard](https://github.com/llmspendguard/llm-spendguard) | 0 | Python | 2026-10-28 | Know what an LLM job will cost before you run it — and prove your ledger matches the provider's bill. Pre-submit estimat |
-| 20 | [rrahimi-uci/caliber-suite](https://github.com/rrahimi-uci/caliber-suite) | 2 | Python | 2026-10-28 | Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases, |
-| 21 | [a-novel/service-genai](https://github.com/a-novel/service-genai) | 2 | Go | 2026-10-28 | Durable execution for AI provider calls: crash-safe, idempotent and pollable. |
-| 22 | [respanai/respan-gateway](https://github.com/respanai/respan-gateway) | 371 | Rust | 2026-10-28 | One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary. |
+| 1 | [respanai/respan-gateway](https://github.com/respanai/respan-gateway) | 371 | Rust | 2026-10-28 | One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary. |
+| 2 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 62248 | Python | 2026-10-28 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra |
+| 3 | [rrahimi-uci/caliber-suite](https://github.com/rrahimi-uci/caliber-suite) | 2 | Python | 2026-10-28 | Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases, |
+| 4 | [linny006/llmops-radar](https://github.com/linny006/llmops-radar) | 3 | Python | 2026-10-28 | Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment |
+| 5 | [overrule-ai/overturn](https://github.com/overrule-ai/overturn) | 0 | TypeScript | 2026-10-28 | The system of record for how your company corrects AI. Every human fix of an agent becomes a replayable test, on any mod |
+| 6 | [skarL007/lumen-ai-sdk](https://github.com/skarL007/lumen-ai-sdk) | 3 | Python | 2026-10-28 | LumenAI: FinOps and multi-tenant observability for GenAI. Turns OpenTelemetry traces into per-tenant USD cost, without s |
+| 7 | [mozilla-ai/otari](https://github.com/mozilla-ai/otari) | 749 | Python | 2026-10-28 | Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, |
+| 8 | [langwatch/langwatch](https://github.com/langwatch/langwatch) | 4997 | TypeScript | 2026-10-28 | Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist |
+| 9 | [KushagraKanaujia/throttle](https://github.com/KushagraKanaujia/throttle) | 7 | Python | 2026-10-28 | Find and prove inference savings on your own GPUs: $/M tokens with 95% CIs, agent workloads, verified-savings statements |
+| 10 | [TAIPANBOX/tokenfuse](https://github.com/TAIPANBOX/tokenfuse) | 1 | Rust | 2026-10-28 | TokenFuse — runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh |
+| 11 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 9760 | Python | 2026-10-28 | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
+| 12 | [systempromptio/systemprompt-core](https://github.com/systempromptio/systemprompt-core) | 8 | Rust | 2026-10-28 | AI governance infrastructure for agentic systems. Rust library behind systemprompt.io — MCP, A2A, OAuth2, audit trails,  |
+| 13 | [cubxxw/blog](https://github.com/cubxxw/blog) | 30 | JavaScript | 2026-10-28 | 顶级审美的个人博客！！！写一些关于 AI、Agent、技术、产品、营销、一些生活思考，个人成长类的精文 |
+| 14 | [jostrm/azure-enterprise-scale-ml](https://github.com/jostrm/azure-enterprise-scale-ml) | 53 | Python | 2026-10-28 | Enterprise Scale AIFactory (esml) - on Azure |
+| 15 | [sarkars/agent-failure-modes](https://github.com/sarkars/agent-failure-modes) | 1 | Python | 2026-10-28 | Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a |
+| 16 | [ainsel-project/ainsel](https://github.com/ainsel-project/ainsel) | 2 | Go | 2026-10-28 |  |
+| 17 | [anthony-chaudhary/fak](https://github.com/anthony-chaudhary/fak) | 43 | Go | 2026-10-28 | Agentic Runtime |
+| 18 | [toxicwind/ranch](https://github.com/toxicwind/ranch) | 0 | Rust | 2026-10-28 | The self-hosted LLM estate in one monorepo — local model serving, cloud provider routing, MCP gateway, build jobs. All O |
+| 19 | [NVIDIA-NeMo/nemo-helix](https://github.com/NVIDIA-NeMo/nemo-helix) | 132 | Python | 2026-10-28 | NeMo Helix: Make the agents you ship faster, more accurate, and safer. |
+| 20 | [metergraph/metergraph](https://github.com/metergraph/metergraph) | 4 | Python | 2026-10-28 | Understand which functions and agents drive LLM spend. Self-hosted monitoring and an open model pricing catalog. |
+| 21 | [llmspendguard/llm-spendguard](https://github.com/llmspendguard/llm-spendguard) | 0 | Python | 2026-10-28 | Know what an LLM job will cost before you run it — and prove your ledger matches the provider's bill. Pre-submit estimat |
+| 22 | [a-novel/service-genai](https://github.com/a-novel/service-genai) | 2 | Go | 2026-10-28 | Durable execution for AI provider calls: crash-safe, idempotent and pollable. |
 | 23 | [Phaldors/docuguard](https://github.com/Phaldors/docuguard) | 0 | Python | 2026-10-28 | Document intelligence & human-review platform with schema-constrained extraction, deterministic reconciliation, hybrid B |
 | 24 | [shaikn6/shaikn6](https://github.com/shaikn6/shaikn6) | 0 | Python | 2026-10-28 | Nagizaaz Shaik — ML & AI Systems Engineer |
 | 25 | [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 30792 | TypeScript | 2026-10-28 | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b |

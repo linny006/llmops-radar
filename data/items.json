@@ -1,5 +1,41 @@
 [
   {
+    "description": "One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary.",
+    "id": "respanai/respan-gateway",
+    "language": "Rust",
+    "name": "respanai/respan-gateway",
+    "stars": 371,
+    "updated_at": "2026-10-28T20:33:30Z",
+    "url": "https://github.com/respanai/respan-gateway"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 62248,
+    "updated_at": "2026-10-28T20:33:54Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
+    "id": "rrahimi-uci/caliber-suite",
+    "language": "Python",
+    "name": "rrahimi-uci/caliber-suite",
+    "stars": 2,
+    "updated_at": "2026-10-28T20:30:44Z",
+    "url": "https://github.com/rrahimi-uci/caliber-suite"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-28T20:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The system of record for how your company corrects AI. Every human fix of an agent becomes a replayable test, on any mod",
     "id": "overrule-ai/overturn",
     "language": "TypeScript",
@@ -32,7 +68,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4997,
-    "updated_at": "2026-10-28T20:30:12Z",
+    "updated_at": "2026-10-28T20:33:11Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -43,15 +79,6 @@
     "stars": 7,
     "updated_at": "2026-10-28T20:26:35Z",
     "url": "https://github.com/KushagraKanaujia/throttle"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 62248,
-    "updated_at": "2026-10-28T20:29:53Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "TokenFuse \u2014 runtime control for AI agents: per-run budgets, loop detection, burn forecast, kill-switch. Observability sh",
@@ -108,15 +135,6 @@
     "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-28T20:15:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "",
     "id": "ainsel-project/ainsel",
     "language": "Go",
@@ -149,7 +167,7 @@
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 132,
-    "updated_at": "2026-10-28T20:27:00Z",
+    "updated_at": "2026-10-28T20:33:49Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -158,7 +176,7 @@
     "language": "Python",
     "name": "metergraph/metergraph",
     "stars": 4,
-    "updated_at": "2026-10-28T20:06:05Z",
+    "updated_at": "2026-10-28T20:32:00Z",
     "url": "https://github.com/metergraph/metergraph"
   },
   {
@@ -171,15 +189,6 @@
     "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 2,
-    "updated_at": "2026-10-28T20:29:03Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
     "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
     "id": "a-novel/service-genai",
     "language": "Go",
@@ -187,15 +196,6 @@
     "stars": 2,
     "updated_at": "2026-10-28T19:53:34Z",
     "url": "https://github.com/a-novel/service-genai"
-  },
-  {
-    "description": "One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary.",
-    "id": "respanai/respan-gateway",
-    "language": "Rust",
-    "name": "respanai/respan-gateway",
-    "stars": 371,
-    "updated_at": "2026-10-28T19:49:17Z",
-    "url": "https://github.com/respanai/respan-gateway"
   },
   {
     "description": "Document intelligence & human-review platform with schema-constrained extraction, deterministic reconciliation, hybrid B",
@@ -248,7 +248,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 12048,
-    "updated_at": "2026-10-28T20:28:32Z",
+    "updated_at": "2026-10-28T20:33:21Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -311,7 +311,7 @@
     "language": "Python",
     "name": "holetz/quenching",
     "stars": 0,
-    "updated_at": "2026-10-28T20:20:21Z",
+    "updated_at": "2026-10-28T20:32:42Z",
     "url": "https://github.com/holetz/quenching"
   },
   {
