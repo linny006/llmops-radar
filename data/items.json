@@ -4,9 +4,18 @@
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
-    "stars": 62250,
-    "updated_at": "2026-10-28T22:58:57Z",
+    "stars": 62251,
+    "updated_at": "2026-10-28T23:15:18Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
+    "language": "Python",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 53,
+    "updated_at": "2026-10-28T23:12:17Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
   },
   {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
@@ -14,8 +23,71 @@
     "language": "Rust",
     "name": "toxicwind/ranch",
     "stars": 0,
-    "updated_at": "2026-10-28T22:56:50Z",
+    "updated_at": "2026-10-28T23:06:29Z",
     "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Searchable Excalidraw library for system design interviews and agentic AI architecture: 292 items, UI wireframes, patter",
+    "id": "Dinesh-Sunny/excalidraw-system-design-kit",
+    "language": "HTML",
+    "name": "Dinesh-Sunny/excalidraw-system-design-kit",
+    "stars": 1,
+    "updated_at": "2026-10-28T23:05:27Z",
+    "url": "https://github.com/Dinesh-Sunny/excalidraw-system-design-kit"
+  },
+  {
+    "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
+    "id": "acornops/control-plane",
+    "language": "TypeScript",
+    "name": "acornops/control-plane",
+    "stars": 2,
+    "updated_at": "2026-10-28T23:04:57Z",
+    "url": "https://github.com/acornops/control-plane"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-28T23:02:24Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-28T23:04:24Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28576,
+    "updated_at": "2026-10-28T23:01:35Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-28T23:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36659,
+    "updated_at": "2026-10-28T23:09:33Z",
+    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Porteiro de guardrail para trafego de LLM: permite, revisa ou bloqueia cada prompt. Deterministico, explicavel, com ledg",
@@ -25,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-10-28T22:53:06Z",
     "url": "https://github.com/JulianoVinceCampos/shomer-gate"
-  },
-  {
-    "description": "Enterprise Scale AIFactory (esml) - on Azure",
-    "id": "jostrm/azure-enterprise-scale-ml",
-    "language": "Python",
-    "name": "jostrm/azure-enterprise-scale-ml",
-    "stars": 53,
-    "updated_at": "2026-10-28T22:53:04Z",
-    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
   },
   {
     "description": "Switch AI models without breaking your product: find every model your code calls and when it retires, turn real usage lo",
@@ -50,7 +113,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 9003,
-    "updated_at": "2026-10-28T22:56:53Z",
+    "updated_at": "2026-10-28T23:09:28Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -63,21 +126,12 @@
     "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-28T22:45:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 12048,
-    "updated_at": "2026-10-28T22:57:59Z",
+    "updated_at": "2026-10-28T23:01:02Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -113,7 +167,7 @@
     "language": "JavaScript",
     "name": "ThakiCloud/thakicloud.github.io",
     "stars": 4,
-    "updated_at": "2026-10-28T22:30:38Z",
+    "updated_at": "2026-10-28T23:15:22Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
@@ -130,18 +184,9 @@
     "id": "respanai/respan-gateway",
     "language": "Rust",
     "name": "respanai/respan-gateway",
-    "stars": 373,
+    "stars": 374,
     "updated_at": "2026-10-28T22:28:14Z",
     "url": "https://github.com/respanai/respan-gateway"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36658,
-    "updated_at": "2026-10-28T22:54:49Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
@@ -151,15 +196,6 @@
     "stars": 2,
     "updated_at": "2026-10-28T22:40:10Z",
     "url": "https://github.com/acornops/management-console"
-  },
-  {
-    "description": "AcornOps control plane service for authentication, workspace APIs, target registration, run orchestration, and agent coo",
-    "id": "acornops/control-plane",
-    "language": "TypeScript",
-    "name": "acornops/control-plane",
-    "stars": 2,
-    "updated_at": "2026-10-28T22:30:23Z",
-    "url": "https://github.com/acornops/control-plane"
   },
   {
     "description": "Agentic Runtime",
@@ -194,7 +230,7 @@
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 132,
-    "updated_at": "2026-10-28T22:42:09Z",
+    "updated_at": "2026-10-28T23:15:19Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -203,17 +239,8 @@
     "language": "JavaScript",
     "name": "acornops/acornops-deployment",
     "stars": 2,
-    "updated_at": "2026-10-28T22:08:56Z",
+    "updated_at": "2026-10-28T23:07:21Z",
     "url": "https://github.com/acornops/acornops-deployment"
-  },
-  {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-28T22:58:49Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
     "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
@@ -248,7 +275,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 2213,
-    "updated_at": "2026-10-28T21:58:28Z",
+    "updated_at": "2026-10-28T23:08:59Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -306,15 +333,6 @@
     "url": "https://github.com/hjongc/openrouter-endpoint-watch"
   },
   {
-    "description": "Searchable Excalidraw library for system design interviews and agentic AI architecture: 292 items, UI wireframes, patter",
-    "id": "Dinesh-Sunny/excalidraw-system-design-kit",
-    "language": "HTML",
-    "name": "Dinesh-Sunny/excalidraw-system-design-kit",
-    "stars": 1,
-    "updated_at": "2026-10-28T21:39:30Z",
-    "url": "https://github.com/Dinesh-Sunny/excalidraw-system-design-kit"
-  },
-  {
     "description": "Your experts fix the AI every day. Overturn keeps every fix: captured where the work happens (Zendesk, SDK, OTel), repla",
     "id": "overrule-ai/overturn",
     "language": "TypeScript",
@@ -322,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-10-28T21:31:22Z",
     "url": "https://github.com/overrule-ai/overturn"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-28T21:30:55Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
@@ -439,14 +448,5 @@
     "stars": 750,
     "updated_at": "2026-10-28T22:55:26Z",
     "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Find and prove inference savings on your own GPUs: $/M tokens with 95% CIs, agent workloads, verified-savings statements",
-    "id": "KushagraKanaujia/throttle",
-    "language": "Python",
-    "name": "KushagraKanaujia/throttle",
-    "stars": 7,
-    "updated_at": "2026-10-28T20:26:35Z",
-    "url": "https://github.com/KushagraKanaujia/throttle"
   }
 ]
