@@ -1,11 +1,38 @@
 [
   {
+    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
+    "id": "NVIDIA-NeMo/nemo-helix",
+    "language": "Python",
+    "name": "NVIDIA-NeMo/nemo-helix",
+    "stars": 132,
+    "updated_at": "2026-10-28T18:51:23Z",
+    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 748,
+    "updated_at": "2026-10-28T18:46:26Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-28T18:45:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
     "id": "holetz/quenching",
     "language": "Python",
     "name": "holetz/quenching",
     "stars": 0,
-    "updated_at": "2026-10-28T18:43:51Z",
+    "updated_at": "2026-10-28T18:59:37Z",
     "url": "https://github.com/holetz/quenching"
   },
   {
@@ -14,7 +41,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 62245,
-    "updated_at": "2026-10-28T18:45:17Z",
+    "updated_at": "2026-10-28T18:59:38Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -45,15 +72,6 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-28T18:30:28Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Open-source Model Context Protocol (MCP) security gateway and AI agent control plane for LLMOps/AIOps, with prompt-injec",
     "id": "gaurav-gs7/Judikt",
     "language": "Python",
@@ -68,17 +86,17 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 12048,
-    "updated_at": "2026-10-28T18:43:13Z",
+    "updated_at": "2026-10-28T18:54:01Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 748,
-    "updated_at": "2026-10-28T18:31:43Z",
-    "url": "https://github.com/mozilla-ai/otari"
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26561,
+    "updated_at": "2026-10-28T18:26:03Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "AI Engineer building production-grade ML systems | LLMs, RAG, ML Pipelines | Python, TensorFlow, LangChain | Open to opp",
@@ -95,17 +113,8 @@
     "language": "Rust",
     "name": "TAIPANBOX/tokenfuse",
     "stars": 1,
-    "updated_at": "2026-10-28T18:28:40Z",
+    "updated_at": "2026-10-28T18:50:21Z",
     "url": "https://github.com/TAIPANBOX/tokenfuse"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26560,
-    "updated_at": "2026-10-28T18:26:03Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Searchable Excalidraw library for system design interviews and agentic AI architecture: 292 items, UI wireframes, patter",
@@ -135,21 +144,12 @@
     "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
   },
   {
-    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
-    "id": "NVIDIA-NeMo/nemo-helix",
-    "language": "Python",
-    "name": "NVIDIA-NeMo/nemo-helix",
-    "stars": 132,
-    "updated_at": "2026-10-28T18:38:03Z",
-    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
-  },
-  {
     "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
     "id": "langwatch/langwatch",
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4997,
-    "updated_at": "2026-10-28T18:43:54Z",
+    "updated_at": "2026-10-28T18:57:12Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -248,7 +248,7 @@
     "language": "Python",
     "name": "sarkars/agent-failure-modes",
     "stars": 1,
-    "updated_at": "2026-10-28T17:58:27Z",
+    "updated_at": "2026-10-28T19:00:06Z",
     "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
@@ -320,7 +320,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 9003,
-    "updated_at": "2026-10-28T17:37:29Z",
+    "updated_at": "2026-10-28T18:58:04Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -329,7 +329,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30791,
-    "updated_at": "2026-10-28T18:26:18Z",
+    "updated_at": "2026-10-28T18:59:36Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
