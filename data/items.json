@@ -1,12 +1,84 @@
 [
   {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 9759,
+    "updated_at": "2026-10-28T20:14:51Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 62247,
-    "updated_at": "2026-10-28T20:00:23Z",
+    "updated_at": "2026-10-28T20:14:45Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "",
+    "id": "ainsel-project/ainsel",
+    "language": "Go",
+    "name": "ainsel-project/ainsel",
+    "stars": 2,
+    "updated_at": "2026-10-28T20:13:27Z",
+    "url": "https://github.com/ainsel-project/ainsel"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 43,
+    "updated_at": "2026-10-28T20:09:56Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-28T20:07:53Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
+    "id": "NVIDIA-NeMo/nemo-helix",
+    "language": "Python",
+    "name": "NVIDIA-NeMo/nemo-helix",
+    "stars": 132,
+    "updated_at": "2026-10-28T20:12:33Z",
+    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
+  },
+  {
+    "description": "Understand which functions and agents drive LLM spend. Self-hosted monitoring and an open model pricing catalog.",
+    "id": "metergraph/metergraph",
+    "language": "Python",
+    "name": "metergraph/metergraph",
+    "stars": 4,
+    "updated_at": "2026-10-28T20:06:05Z",
+    "url": "https://github.com/metergraph/metergraph"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-10-28T20:02:49Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-28T20:00:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
@@ -14,7 +86,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 2,
-    "updated_at": "2026-10-28T20:00:01Z",
+    "updated_at": "2026-10-28T20:09:16Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -23,7 +95,7 @@
     "language": "Rust",
     "name": "TAIPANBOX/tokenfuse",
     "stars": 1,
-    "updated_at": "2026-10-28T19:55:37Z",
+    "updated_at": "2026-10-28T20:04:47Z",
     "url": "https://github.com/TAIPANBOX/tokenfuse"
   },
   {
@@ -36,20 +108,11 @@
     "url": "https://github.com/a-novel/service-genai"
   },
   {
-    "description": "",
-    "id": "ainsel-project/ainsel",
-    "language": "Go",
-    "name": "ainsel-project/ainsel",
-    "stars": 2,
-    "updated_at": "2026-10-28T19:49:52Z",
-    "url": "https://github.com/ainsel-project/ainsel"
-  },
-  {
     "description": "One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary.",
     "id": "respanai/respan-gateway",
     "language": "Rust",
     "name": "respanai/respan-gateway",
-    "stars": 369,
+    "stars": 371,
     "updated_at": "2026-10-28T19:49:17Z",
     "url": "https://github.com/respanai/respan-gateway"
   },
@@ -61,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-10-28T19:47:49Z",
     "url": "https://github.com/Phaldors/docuguard"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-28T19:45:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Nagizaaz Shaik \u2014 ML & AI Systems Engineer",
@@ -86,7 +140,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30792,
-    "updated_at": "2026-10-28T19:39:15Z",
+    "updated_at": "2026-10-28T20:04:50Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -108,21 +162,12 @@
     "url": "https://github.com/jakbuczarnecki/intergrax"
   },
   {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-28T19:30:54Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 12048,
-    "updated_at": "2026-10-28T19:33:10Z",
+    "updated_at": "2026-10-28T20:02:27Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -151,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-10-28T19:21:52Z",
     "url": "https://github.com/TAIPANBOX/verdryx"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 43,
-    "updated_at": "2026-10-28T19:17:55Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "Genaryx: the browser control room over the TAIPANBOX agent-governance stack. Money, policy, identity, quality, crypto, m",
@@ -203,17 +239,8 @@
     "language": "Python",
     "name": "sarkars/agent-failure-modes",
     "stars": 1,
-    "updated_at": "2026-10-28T19:52:30Z",
+    "updated_at": "2026-10-28T20:15:22Z",
     "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
-    "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
-    "id": "NVIDIA-NeMo/nemo-helix",
-    "language": "Python",
-    "name": "NVIDIA-NeMo/nemo-helix",
-    "stars": 132,
-    "updated_at": "2026-10-28T19:59:54Z",
-    "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
     "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
@@ -221,7 +248,7 @@
     "language": "Python",
     "name": "mozilla-ai/otari",
     "stars": 749,
-    "updated_at": "2026-10-28T19:46:05Z",
+    "updated_at": "2026-10-28T20:07:27Z",
     "url": "https://github.com/mozilla-ai/otari"
   },
   {
@@ -230,17 +257,8 @@
     "language": "Python",
     "name": "holetz/quenching",
     "stars": 0,
-    "updated_at": "2026-10-28T19:56:37Z",
+    "updated_at": "2026-10-28T20:15:24Z",
     "url": "https://github.com/holetz/quenching"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-10-28T19:47:58Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
   },
   {
     "description": "Open-source Model Context Protocol (MCP) security gateway and AI agent control plane for LLMOps/AIOps, with prompt-injec",
@@ -284,7 +302,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4997,
-    "updated_at": "2026-10-28T19:51:25Z",
+    "updated_at": "2026-10-28T20:15:17Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -374,7 +392,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 36655,
-    "updated_at": "2026-10-28T19:27:19Z",
+    "updated_at": "2026-10-28T20:03:45Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -409,7 +427,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 28574,
+    "stars": 28575,
     "updated_at": "2026-10-28T17:42:42Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -419,7 +437,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 9003,
-    "updated_at": "2026-10-28T18:58:04Z",
+    "updated_at": "2026-10-28T20:14:51Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-28T17:33:32Z",
     "url": "https://github.com/skarL007/lumen-ai-sdk"
-  },
-  {
-    "description": "ThakiCloud Tech Blog",
-    "id": "ThakiCloud/thakicloud.github.io",
-    "language": "JavaScript",
-    "name": "ThakiCloud/thakicloud.github.io",
-    "stars": 4,
-    "updated_at": "2026-10-28T17:27:46Z",
-    "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
-    "id": "digline/digline",
-    "language": "Python",
-    "name": "digline/digline",
-    "stars": 9,
-    "updated_at": "2026-10-28T17:18:58Z",
-    "url": "https://github.com/digline/digline"
   }
 ]
