@@ -1,11 +1,137 @@
 [
   {
+    "description": "Marketing + Documentation Site for llama-dash",
+    "id": "ndom91/llama-dash-docs",
+    "language": "MDX",
+    "name": "ndom91/llama-dash-docs",
+    "stars": 2,
+    "updated_at": "2026-10-28T15:28:18Z",
+    "url": "https://github.com/ndom91/llama-dash-docs"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 12045,
+    "updated_at": "2026-10-28T15:28:17Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "The operations layer for your local LLM stack",
+    "id": "ndom91/llama-dash",
+    "language": "TypeScript",
+    "name": "ndom91/llama-dash",
+    "stars": 27,
+    "updated_at": "2026-10-28T15:28:10Z",
+    "url": "https://github.com/ndom91/llama-dash"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 747,
+    "updated_at": "2026-10-28T15:26:15Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 32,
+    "updated_at": "2026-10-28T15:24:22Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Open-source Model Context Protocol (MCP) security gateway and AI agent control plane for LLMOps/AIOps, with prompt-injec",
+    "id": "gaurav-gs7/Judikt",
+    "language": "Python",
+    "name": "gaurav-gs7/Judikt",
+    "stars": 0,
+    "updated_at": "2026-10-28T15:24:16Z",
+    "url": "https://github.com/gaurav-gs7/Judikt"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36647,
+    "updated_at": "2026-10-28T15:29:26Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "The platform for continuously improving AI agents.",
+    "id": "overmind-core/overmind",
+    "language": "Python",
+    "name": "overmind-core/overmind",
+    "stars": 715,
+    "updated_at": "2026-10-28T15:27:23Z",
+    "url": "https://github.com/overmind-core/overmind"
+  },
+  {
+    "description": "LumenAI: FinOps and multi-tenant observability for GenAI. Turns OpenTelemetry traces into per-tenant USD cost, without s",
+    "id": "skarL007/lumen-ai-sdk",
+    "language": "Python",
+    "name": "skarL007/lumen-ai-sdk",
+    "stars": 3,
+    "updated_at": "2026-10-28T15:21:10Z",
+    "url": "https://github.com/skarL007/lumen-ai-sdk"
+  },
+  {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 9752,
+    "updated_at": "2026-10-28T15:20:28Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "\u7535\u5546\u667a\u80fd\u5ba2\u670d Agent\uff1a\u653f\u7b56 DSL\u3001\u4e09\u503c\u89c4\u5219\u5f15\u64ce\u3001\u4e09\u9009\u4e00\u51b3\u7b56\u3001\u751f\u6210\u540e\u6838\u9a8c\u3001\u6821\u51c6\u4e0e\u4fdd\u5f62\u9608\u503c",
+    "id": "waouly/ecom-cs-agent",
+    "language": "Python",
+    "name": "waouly/ecom-cs-agent",
+    "stars": 0,
+    "updated_at": "2026-10-28T15:20:14Z",
+    "url": "https://github.com/waouly/ecom-cs-agent"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28570,
+    "updated_at": "2026-10-28T15:20:06Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
+    "id": "ComposioHQ/composio",
+    "language": "TypeScript",
+    "name": "ComposioHQ/composio",
+    "stars": 30788,
+    "updated_at": "2026-10-28T15:18:17Z",
+    "url": "https://github.com/ComposioHQ/composio"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-28T15:15:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
     "id": "NVIDIA-NeMo/nemo-helix",
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 132,
-    "updated_at": "2026-10-28T15:14:50Z",
+    "updated_at": "2026-10-28T15:24:39Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -23,7 +149,7 @@
     "language": "Python",
     "name": "SynaLinks/synalinks",
     "stars": 464,
-    "updated_at": "2026-10-28T15:12:52Z",
+    "updated_at": "2026-10-28T15:15:53Z",
     "url": "https://github.com/SynaLinks/synalinks"
   },
   {
@@ -36,39 +162,12 @@
     "url": "https://github.com/bionic-gpt/bionic-gpt"
   },
   {
-    "description": "\u7535\u5546\u667a\u80fd\u5ba2\u670d Agent\uff1a\u653f\u7b56 DSL\u3001\u4e09\u503c\u89c4\u5219\u5f15\u64ce\u3001\u4e09\u9009\u4e00\u51b3\u7b56\u3001\u751f\u6210\u540e\u6838\u9a8c\u3001\u6821\u51c6\u4e0e\u4fdd\u5f62\u9608\u503c",
-    "id": "waouly/ecom-cs-agent",
-    "language": "Python",
-    "name": "waouly/ecom-cs-agent",
-    "stars": 0,
-    "updated_at": "2026-10-28T15:12:42Z",
-    "url": "https://github.com/waouly/ecom-cs-agent"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 9751,
-    "updated_at": "2026-10-28T15:12:08Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
-  },
-  {
-    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
-    "id": "ComposioHQ/composio",
-    "language": "TypeScript",
-    "name": "ComposioHQ/composio",
-    "stars": 30787,
-    "updated_at": "2026-10-28T15:14:26Z",
-    "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
     "id": "systempromptio/systemprompt-core",
     "language": "Rust",
     "name": "systempromptio/systemprompt-core",
     "stars": 8,
-    "updated_at": "2026-10-28T15:09:28Z",
+    "updated_at": "2026-10-28T15:30:27Z",
     "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
@@ -108,24 +207,6 @@
     "url": "https://github.com/toxicwind/ranch"
   },
   {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-28T15:00:33Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Open-source Model Context Protocol (MCP) security gateway and AI agent control plane for LLMOps/AIOps, with prompt-injec",
-    "id": "gaurav-gs7/Judikt",
-    "language": "Python",
-    "name": "gaurav-gs7/Judikt",
-    "stars": 0,
-    "updated_at": "2026-10-28T15:00:24Z",
-    "url": "https://github.com/gaurav-gs7/Judikt"
-  },
-  {
     "description": "Radicalbit AI Gateway",
     "id": "radicalbit/radicalbit-ai-gateway",
     "language": "Python",
@@ -135,15 +216,6 @@
     "url": "https://github.com/radicalbit/radicalbit-ai-gateway"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28570,
-    "updated_at": "2026-10-28T14:56:33Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -151,15 +223,6 @@
     "stars": 43,
     "updated_at": "2026-10-28T14:55:47Z",
     "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 12045,
-    "updated_at": "2026-10-28T15:14:21Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
@@ -185,7 +248,7 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 31,
-    "updated_at": "2026-10-28T14:49:35Z",
+    "updated_at": "2026-10-28T15:29:41Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -194,26 +257,8 @@
     "language": "TypeScript",
     "name": "chrysogonus/prompt-maker-studio",
     "stars": 4,
-    "updated_at": "2026-10-28T14:36:57Z",
+    "updated_at": "2026-10-28T15:27:56Z",
     "url": "https://github.com/chrysogonus/prompt-maker-studio"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36646,
-    "updated_at": "2026-10-28T15:13:51Z",
-    "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 32,
-    "updated_at": "2026-10-28T14:35:47Z",
-    "url": "https://github.com/SourceShift/mini-ork"
   },
   {
     "description": "Lightweight reverse proxy that logs per-request inference metrics (tokens, tokens/sec, time to first token, duration) fo",
@@ -266,17 +311,8 @@
     "language": "TypeScript",
     "name": "GeiserX/LynxPrompt",
     "stars": 55,
-    "updated_at": "2026-10-28T15:08:22Z",
+    "updated_at": "2026-10-28T15:30:06Z",
     "url": "https://github.com/GeiserX/LynxPrompt"
-  },
-  {
-    "description": "The platform for continuously improving AI agents.",
-    "id": "overmind-core/overmind",
-    "language": "Python",
-    "name": "overmind-core/overmind",
-    "stars": 715,
-    "updated_at": "2026-10-28T15:13:48Z",
-    "url": "https://github.com/overmind-core/overmind"
   },
   {
     "description": "Switch AI models without breaking your product: find every model your code calls and when it retires, turn real usage lo",
@@ -297,24 +333,6 @@
     "url": "https://github.com/Muditkumar123/agentic-document-intelligence-platform"
   },
   {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 747,
-    "updated_at": "2026-10-28T15:11:02Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "LumenAI: FinOps and multi-tenant observability for GenAI. Turns OpenTelemetry traces into per-tenant USD cost, without s",
-    "id": "skarL007/lumen-ai-sdk",
-    "language": "Python",
-    "name": "skarL007/lumen-ai-sdk",
-    "stars": 3,
-    "updated_at": "2026-10-28T15:09:06Z",
-    "url": "https://github.com/skarL007/lumen-ai-sdk"
-  },
-  {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
     "id": "llmspendguard/llm-spendguard",
     "language": "Python",
@@ -329,7 +347,7 @@
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 29,
-    "updated_at": "2026-10-28T15:04:30Z",
+    "updated_at": "2026-10-28T15:26:33Z",
     "url": "https://github.com/AixleHQ/flow"
   },
   {
@@ -338,7 +356,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 2213,
-    "updated_at": "2026-10-28T15:08:42Z",
+    "updated_at": "2026-10-28T15:25:46Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-28T13:00:14Z",
     "url": "https://github.com/acornops/llm-gateway"
-  },
-  {
-    "description": "Run execution service for AcornOps, responsible for worker lifecycle, streaming run events, and tool execution coordinat",
-    "id": "acornops/execution-engine",
-    "language": "Python",
-    "name": "acornops/execution-engine",
-    "stars": 2,
-    "updated_at": "2026-10-28T13:00:04Z",
-    "url": "https://github.com/acornops/execution-engine"
-  },
-  {
-    "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
-    "id": "Amz34/awesome-agent-infrastructure",
-    "language": "Python",
-    "name": "Amz34/awesome-agent-infrastructure",
-    "stars": 1,
-    "updated_at": "2026-10-28T12:56:31Z",
-    "url": "https://github.com/Amz34/awesome-agent-infrastructure"
   }
 ]
