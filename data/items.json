@@ -1,5 +1,95 @@
 [
   {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-28T02:15:04Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
+    "id": "AixleHQ/flow",
+    "language": "Ruby",
+    "name": "AixleHQ/flow",
+    "stars": 29,
+    "updated_at": "2026-10-28T02:13:33Z",
+    "url": "https://github.com/AixleHQ/flow"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 3024,
+    "updated_at": "2026-10-28T02:12:50Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
+    "id": "acornops/management-console",
+    "language": "TypeScript",
+    "name": "acornops/management-console",
+    "stars": 2,
+    "updated_at": "2026-10-28T02:10:39Z",
+    "url": "https://github.com/acornops/management-console"
+  },
+  {
+    "description": "Evaluated AI assistant platform: LangGraph agent with hybrid RAG and an MLflow quality gate in CI, Java RBAC/audit gatew",
+    "id": "vipin-mo/nexus-ai-hub",
+    "language": "Python",
+    "name": "vipin-mo/nexus-ai-hub",
+    "stars": 0,
+    "updated_at": "2026-10-28T02:09:06Z",
+    "url": "https://github.com/vipin-mo/nexus-ai-hub"
+  },
+  {
+    "description": "What if OpenAI Deep Research and Dify were one platform? OpenAgent \u2014 harness architecture for rapidly building vertical ",
+    "id": "Haohao-end/openagent",
+    "language": "Python",
+    "name": "Haohao-end/openagent",
+    "stars": 774,
+    "updated_at": "2026-10-28T02:06:06Z",
+    "url": "https://github.com/Haohao-end/openagent"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 62191,
+    "updated_at": "2026-10-28T02:15:12Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-28T02:03:28Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Enterprise AI Router and Governance System \u2014 the AI that governs all AIs",
+    "id": "kensterinvest/tidus",
+    "language": "HTML",
+    "name": "kensterinvest/tidus",
+    "stars": 1,
+    "updated_at": "2026-10-28T02:00:33Z",
+    "url": "https://github.com/kensterinvest/tidus"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-28T02:00:27Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
     "id": "sarkars/agent-failure-modes",
     "language": "Python",
@@ -14,24 +104,15 @@
     "language": "Python",
     "name": "thequantumfalcon/kry",
     "stars": 1,
-    "updated_at": "2026-10-28T01:56:33Z",
+    "updated_at": "2026-10-28T02:06:00Z",
     "url": "https://github.com/thequantumfalcon/kry"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 62191,
-    "updated_at": "2026-10-28T01:59:14Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
     "name": "anthony-chaudhary/fak",
-    "stars": 42,
+    "stars": 43,
     "updated_at": "2026-10-28T01:52:38Z",
     "url": "https://github.com/anthony-chaudhary/fak"
   },
@@ -54,15 +135,6 @@
     "url": "https://github.com/respanai/respan-gateway"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 3023,
-    "updated_at": "2026-10-28T01:49:23Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
     "id": "rrahimi-uci/caliber-suite",
     "language": "Python",
@@ -77,26 +149,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 12035,
-    "updated_at": "2026-10-28T01:46:21Z",
+    "updated_at": "2026-10-28T02:11:25Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
-    "id": "AixleHQ/flow",
-    "language": "Ruby",
-    "name": "AixleHQ/flow",
-    "stars": 29,
-    "updated_at": "2026-10-28T01:57:14Z",
-    "url": "https://github.com/AixleHQ/flow"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-28T01:45:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "InFlow FDE\uff1a\u4f01\u4e1a AI \u8f6c\u578b\u64cd\u76d8\u53f0\u3002\u603b\u6307\u6325 \u2192 \u90e8\u95e8 Agent \u2192 \u6570\u5b57\u5458\u5de5\uff1b\u6570\u5b57\u7531\u4ee3\u7801\u7b97\uff0c\u52a8\u94b1\u7684\u52a8\u4f5c\u4eba\u62cd\u677f\uff0c\u6bcf\u4e00\u5206 AI \u6210\u672c\u90fd\u8bb0\u8d26\u3002",
@@ -113,7 +167,7 @@
     "language": "Go",
     "name": "hangar-hub/hangar",
     "stars": 2,
-    "updated_at": "2026-10-28T01:46:45Z",
+    "updated_at": "2026-10-28T02:05:14Z",
     "url": "https://github.com/hangar-hub/hangar"
   },
   {
@@ -131,7 +185,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28562,
-    "updated_at": "2026-10-28T01:45:48Z",
+    "updated_at": "2026-10-28T02:08:54Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -142,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-10-28T01:16:29Z",
     "url": "https://github.com/lupingQAQ/inkblade"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-28T01:07:39Z",
-    "url": "https://github.com/toxicwind/ranch"
   },
   {
     "description": "Production-oriented AI agent platform for customer operations featuring LangGraph workflows, deterministic policy contro",
@@ -250,24 +295,6 @@
     "stars": 12,
     "updated_at": "2026-10-28T00:16:28Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-28T01:51:44Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "Evaluated AI assistant platform: LangGraph agent with hybrid RAG and an MLflow quality gate in CI, Java RBAC/audit gatew",
-    "id": "vipin-mo/nexus-ai-hub",
-    "language": "Python",
-    "name": "vipin-mo/nexus-ai-hub",
-    "stars": 0,
-    "updated_at": "2026-10-28T01:53:54Z",
-    "url": "https://github.com/vipin-mo/nexus-ai-hub"
   },
   {
     "description": "Understand which functions and agents drive LLM spend. Self-hosted monitoring and an open model pricing catalog.",
@@ -421,32 +448,5 @@
     "stars": 2212,
     "updated_at": "2026-10-28T00:49:56Z",
     "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
-    "id": "llmspendguard/llm-spendguard",
-    "language": "Python",
-    "name": "llmspendguard/llm-spendguard",
-    "stars": 0,
-    "updated_at": "2026-10-27T23:02:50Z",
-    "url": "https://github.com/llmspendguard/llm-spendguard"
-  },
-  {
-    "description": "Daily snapshots and diffs of OpenRouter endpoint metadata: catch quantization flips and vanished providers before your p",
-    "id": "hjongc/openrouter-endpoint-watch",
-    "language": "Python",
-    "name": "hjongc/openrouter-endpoint-watch",
-    "stars": 0,
-    "updated_at": "2026-10-27T22:58:37Z",
-    "url": "https://github.com/hjongc/openrouter-endpoint-watch"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 744,
-    "updated_at": "2026-10-28T01:14:22Z",
-    "url": "https://github.com/mozilla-ai/otari"
   }
 ]
