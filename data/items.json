@@ -1,12 +1,102 @@
 [
   {
+    "description": "An LLM observability and tracing platform from scratch: hierarchical spans, token/cost/latency metrics, and trace analys",
+    "id": "adeoluo/llm-observability",
+    "language": "Python",
+    "name": "adeoluo/llm-observability",
+    "stars": 0,
+    "updated_at": "2026-10-28T21:29:37Z",
+    "url": "https://github.com/adeoluo/llm-observability"
+  },
+  {
+    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 2,
+    "updated_at": "2026-10-28T21:28:29Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4997,
+    "updated_at": "2026-10-28T21:28:14Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 3,
+    "updated_at": "2026-10-28T21:27:39Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36658,
+    "updated_at": "2026-10-28T21:26:18Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 62250,
+    "updated_at": "2026-10-28T21:30:15Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
     "id": "llmspendguard/llm-spendguard",
     "language": "Python",
     "name": "llmspendguard/llm-spendguard",
     "stars": 0,
-    "updated_at": "2026-10-28T21:14:27Z",
+    "updated_at": "2026-10-28T21:23:24Z",
     "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "Your experts fix the AI every day. Overturn keeps every fix: captured where the work happens (Zendesk, SDK, OTel), repla",
+    "id": "overrule-ai/overturn",
+    "language": "TypeScript",
+    "name": "overrule-ai/overturn",
+    "stars": 0,
+    "updated_at": "2026-10-28T21:18:02Z",
+    "url": "https://github.com/overrule-ai/overturn"
+  },
+  {
+    "description": "LumenAI: FinOps and multi-tenant observability for GenAI. Turns OpenTelemetry traces into per-tenant USD cost, without s",
+    "id": "skarL007/lumen-ai-sdk",
+    "language": "Python",
+    "name": "skarL007/lumen-ai-sdk",
+    "stars": 3,
+    "updated_at": "2026-10-28T21:17:26Z",
+    "url": "https://github.com/skarL007/lumen-ai-sdk"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 43,
+    "updated_at": "2026-10-28T21:17:11Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-28T21:15:34Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "ThakiCloud Tech Blog",
@@ -16,15 +106,6 @@
     "stars": 4,
     "updated_at": "2026-10-28T21:10:41Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
-  },
-  {
-    "description": "Your experts fix the AI every day. Overturn keeps every fix: captured where the work happens (Zendesk, SDK, OTel), repla",
-    "id": "overrule-ai/overturn",
-    "language": "TypeScript",
-    "name": "overrule-ai/overturn",
-    "stars": 0,
-    "updated_at": "2026-10-28T21:11:57Z",
-    "url": "https://github.com/overrule-ai/overturn"
   },
   {
     "description": "A self-hosted OpenAI-compatible proxy and web app for debugging, testing, and improving AI agents.",
@@ -90,31 +171,22 @@
     "url": "https://github.com/Broikos-Nikos/semcache"
   },
   {
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22993,
+    "updated_at": "2026-10-28T21:01:21Z",
+    "url": "https://github.com/comet-ml/opik"
+  },
+  {
     "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
     "id": "rrahimi-uci/caliber-suite",
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 2,
-    "updated_at": "2026-10-28T21:15:08Z",
+    "updated_at": "2026-10-28T21:20:08Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-28T21:00:46Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 62249,
-    "updated_at": "2026-10-28T21:15:25Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "Enterprise Scale AIFactory (esml) - on Azure",
@@ -126,21 +198,12 @@
     "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
   },
   {
-    "description": "LumenAI: FinOps and multi-tenant observability for GenAI. Turns OpenTelemetry traces into per-tenant USD cost, without s",
-    "id": "skarL007/lumen-ai-sdk",
-    "language": "Python",
-    "name": "skarL007/lumen-ai-sdk",
-    "stars": 3,
-    "updated_at": "2026-10-28T20:59:18Z",
-    "url": "https://github.com/skarL007/lumen-ai-sdk"
-  },
-  {
     "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
     "id": "NVIDIA-NeMo/nemo-helix",
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 132,
-    "updated_at": "2026-10-28T21:09:20Z",
+    "updated_at": "2026-10-28T21:25:52Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -149,7 +212,7 @@
     "language": "Python",
     "name": "holetz/quenching",
     "stars": 0,
-    "updated_at": "2026-10-28T20:51:49Z",
+    "updated_at": "2026-10-28T21:27:42Z",
     "url": "https://github.com/holetz/quenching"
   },
   {
@@ -185,26 +248,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 12048,
-    "updated_at": "2026-10-28T21:06:45Z",
+    "updated_at": "2026-10-28T21:28:44Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 43,
-    "updated_at": "2026-10-28T20:35:13Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36656,
-    "updated_at": "2026-10-28T20:35:11Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary.",
@@ -220,27 +265,9 @@
     "id": "mozilla-ai/otari",
     "language": "Python",
     "name": "mozilla-ai/otari",
-    "stars": 749,
+    "stars": 750,
     "updated_at": "2026-10-28T20:28:32Z",
     "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22992,
-    "updated_at": "2026-10-28T21:01:21Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4997,
-    "updated_at": "2026-10-28T21:13:24Z",
-    "url": "https://github.com/langwatch/langwatch"
   },
   {
     "description": "Find and prove inference savings on your own GPUs: $/M tokens with 95% CIs, agent workloads, verified-savings statements",
@@ -256,7 +283,7 @@
     "id": "MakazhanAlpamys/Soup",
     "language": "Python",
     "name": "MakazhanAlpamys/Soup",
-    "stars": 9762,
+    "stars": 9763,
     "updated_at": "2026-10-28T20:24:38Z",
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
@@ -286,15 +313,6 @@
     "stars": 4,
     "updated_at": "2026-10-28T20:32:00Z",
     "url": "https://github.com/metergraph/metergraph"
-  },
-  {
-    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 2,
-    "updated_at": "2026-10-28T19:53:34Z",
-    "url": "https://github.com/a-novel/service-genai"
   },
   {
     "description": "Document intelligence & human-review platform with schema-constrained extraction, deterministic reconciliation, hybrid B",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-28T18:11:12Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 31,
-    "updated_at": "2026-10-28T18:23:23Z",
-    "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "Public documentation site for AcornOps, including installation guides, architecture, operations, and release notes.",
-    "id": "acornops/docs-website",
-    "language": "MDX",
-    "name": "acornops/docs-website",
-    "stars": 1,
-    "updated_at": "2026-10-28T18:10:03Z",
-    "url": "https://github.com/acornops/docs-website"
   }
 ]
