@@ -1,5 +1,95 @@
 [
   {
+    "description": "Governed AI agents as a Kubernetes sidecar: policy-as-code charters, mTLS/SPIFFE identity, budgets, guardrails and JSONL",
+    "id": "f8fvwgzc/agent-sidecar",
+    "language": "Rust",
+    "name": "f8fvwgzc/agent-sidecar",
+    "stars": 0,
+    "updated_at": "2026-10-29T01:29:58Z",
+    "url": "https://github.com/f8fvwgzc/agent-sidecar"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-29T01:29:50Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 3028,
+    "updated_at": "2026-10-29T01:28:51Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "Self-hosted & federated platform for AI IDE/Tools Rules and Commands via WebUI & CLI - Generate, browse, store, share AG",
+    "id": "GeiserX/LynxPrompt",
+    "language": "TypeScript",
+    "name": "GeiserX/LynxPrompt",
+    "stars": 54,
+    "updated_at": "2026-10-29T01:28:34Z",
+    "url": "https://github.com/GeiserX/LynxPrompt"
+  },
+  {
+    "description": "A control layer that decides how an LLM should speak before it speaks",
+    "id": "Furox-Art/eq-layer",
+    "language": "Python",
+    "name": "Furox-Art/eq-layer",
+    "stars": 0,
+    "updated_at": "2026-10-29T01:26:56Z",
+    "url": "https://github.com/Furox-Art/eq-layer"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 62251,
+    "updated_at": "2026-10-29T01:26:41Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "AI / LLM / Agent \u5de5\u7a0b\u5e08\u4e2d\u6587\u9762\u8bd5\u9898\u4e0e\u53c2\u8003\u7b54\u6848\uff1aRAG\u3001Agent\u3001\u5fae\u8c03\u3001LLMOps\u3001\u7cfb\u7edf\u8bbe\u8ba1",
+    "id": "cluster1900/ai-engineering-interview-questions-CN",
+    "language": "Markdown",
+    "name": "cluster1900/ai-engineering-interview-questions-CN",
+    "stars": 0,
+    "updated_at": "2026-10-29T01:23:41Z",
+    "url": "https://github.com/cluster1900/ai-engineering-interview-questions-CN"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28578,
+    "updated_at": "2026-10-29T01:17:53Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": ".NET 10 library for LLM apps: one ITextClient that routes and fails over across OpenAI, Azure OpenAI, OpenRouter, Ollama",
+    "id": "JiarongGu/Lyntai",
+    "language": "C#",
+    "name": "JiarongGu/Lyntai",
+    "stars": 2,
+    "updated_at": "2026-10-29T01:17:22Z",
+    "url": "https://github.com/JiarongGu/Lyntai"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-29T01:15:32Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
     "id": "sarkars/agent-failure-modes",
     "language": "Python",
@@ -27,15 +117,6 @@
     "url": "https://github.com/future-agi/future-agi"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28577,
-    "updated_at": "2026-10-29T01:14:13Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
     "id": "toxicwind/ranch",
     "language": "Rust",
@@ -45,13 +126,13 @@
     "url": "https://github.com/toxicwind/ranch"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "The platform for continuously improving AI agents.",
+    "id": "overmind-core/overmind",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 62251,
-    "updated_at": "2026-10-29T01:13:24Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "overmind-core/overmind",
+    "stars": 719,
+    "updated_at": "2026-10-29T01:06:09Z",
+    "url": "https://github.com/overmind-core/overmind"
   },
   {
     "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
@@ -68,17 +149,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 26564,
-    "updated_at": "2026-10-29T01:02:31Z",
+    "updated_at": "2026-10-29T01:28:46Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-29T01:00:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Profile of Dr. Ravi Teja Thiriveedhi \u2014 clinician turned AI systems architect: multi-agent platforms, AI governance, LLM ",
@@ -104,7 +176,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4998,
-    "updated_at": "2026-10-29T01:10:56Z",
+    "updated_at": "2026-10-29T01:27:36Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -131,7 +203,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-29T01:09:20Z",
+    "updated_at": "2026-10-29T01:20:40Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -151,15 +223,6 @@
     "stars": 12,
     "updated_at": "2026-10-29T00:21:16Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
-  },
-  {
-    "description": "Self-hosted & federated platform for AI IDE/Tools Rules and Commands via WebUI & CLI - Generate, browse, store, share AG",
-    "id": "GeiserX/LynxPrompt",
-    "language": "TypeScript",
-    "name": "GeiserX/LynxPrompt",
-    "stars": 54,
-    "updated_at": "2026-10-29T01:12:58Z",
-    "url": "https://github.com/GeiserX/LynxPrompt"
   },
   {
     "description": "AI agent execution governance: pre-effect authorization, single-use permissions, policy enforcement, and verifiable reco",
@@ -283,7 +346,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 36660,
+    "stars": 36662,
     "updated_at": "2026-10-28T23:09:33Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -304,15 +367,6 @@
     "stars": 2,
     "updated_at": "2026-10-28T23:04:57Z",
     "url": "https://github.com/acornops/control-plane"
-  },
-  {
-    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
-    "id": "ngu-gif/genai-role-playbook",
-    "language": "HTML",
-    "name": "ngu-gif/genai-role-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-28T23:02:24Z",
-    "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
     "description": "Porteiro de guardrail para trafego de LLM: permite, revisa ou bloqueia cada prompt. Deterministico, explicavel, com ledg",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-28T22:11:22Z",
     "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-28T22:16:02Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
-    "description": "LLM and tool gateway for AcornOps, brokering model providers, MCP tools, policy enforcement, and runtime credentials.",
-    "id": "acornops/llm-gateway",
-    "language": "Python",
-    "name": "acornops/llm-gateway",
-    "stars": 2,
-    "updated_at": "2026-10-28T22:12:41Z",
-    "url": "https://github.com/acornops/llm-gateway"
-  },
-  {
-    "description": "Run execution service for AcornOps, responsible for worker lifecycle, streaming run events, and tool execution coordinat",
-    "id": "acornops/execution-engine",
-    "language": "Python",
-    "name": "acornops/execution-engine",
-    "stars": 2,
-    "updated_at": "2026-10-28T22:07:54Z",
-    "url": "https://github.com/acornops/execution-engine"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-10-28T21:58:22Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "Cost accounting for LLM agents: price any agent run \u2014 tokens, dollars, and cost per solved task \u2014 across models and fram",
-    "id": "karmendra8386/agentic-ai-token-economics",
-    "language": "Python",
-    "name": "karmendra8386/agentic-ai-token-economics",
-    "stars": 0,
-    "updated_at": "2026-10-28T21:58:14Z",
-    "url": "https://github.com/karmendra8386/agentic-ai-token-economics"
-  },
-  {
-    "description": "An LLM observability and tracing platform from scratch: hierarchical spans, token/cost/latency metrics, and trace analys",
-    "id": "adeoluo/llm-observability",
-    "language": "Python",
-    "name": "adeoluo/llm-observability",
-    "stars": 0,
-    "updated_at": "2026-10-28T21:43:04Z",
-    "url": "https://github.com/adeoluo/llm-observability"
   }
 ]
