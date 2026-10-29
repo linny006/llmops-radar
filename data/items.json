@@ -1,12 +1,39 @@
 [
   {
-    "description": "Like CodeRabbit, but for AI behavior. Runs a simulation against your AI app and tells you what your change did.",
-    "id": "cortad/cortad",
-    "language": "JavaScript",
-    "name": "cortad/cortad",
-    "stars": 49,
-    "updated_at": "2026-10-29T19:14:29Z",
-    "url": "https://github.com/cortad/cortad"
+    "description": "KYNEX - a local, tool-using AI agent that extracts structured data from documents. 92.65 unified value F1 measured on Ex",
+    "id": "Nikit117/kynex-harness",
+    "language": "Python",
+    "name": "Nikit117/kynex-harness",
+    "stars": 1,
+    "updated_at": "2026-10-29T19:29:24Z",
+    "url": "https://github.com/Nikit117/kynex-harness"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-10-29T19:27:39Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-29T19:26:53Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-29T19:26:40Z",
+    "url": "https://github.com/vocion/vocion-core"
   },
   {
     "description": "Provider-agnostic Hermes Agent optimization skill with autodiscovery, provenance, and publication-ready docs.",
@@ -14,8 +41,62 @@
     "language": "\u2014",
     "name": "AzamatSafarov/hermes-optimizer",
     "stars": 0,
-    "updated_at": "2026-10-29T19:13:19Z",
+    "updated_at": "2026-10-29T19:23:32Z",
     "url": "https://github.com/AzamatSafarov/hermes-optimizer"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 43,
+    "updated_at": "2026-10-29T19:22:45Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 62322,
+    "updated_at": "2026-10-29T19:29:23Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
+    "id": "mloda-ai/mloda",
+    "language": "Python",
+    "name": "mloda-ai/mloda",
+    "stars": 98,
+    "updated_at": "2026-10-29T19:18:54Z",
+    "url": "https://github.com/mloda-ai/mloda"
+  },
+  {
+    "description": "Run thousands of LLM calls concurrently from Python asyncio: shared rate-limit cooldowns, RPM/TPM limits, smart retries,",
+    "id": "geoff-davis/async-batch-llm",
+    "language": "Python",
+    "name": "geoff-davis/async-batch-llm",
+    "stars": 1,
+    "updated_at": "2026-10-29T19:23:21Z",
+    "url": "https://github.com/geoff-davis/async-batch-llm"
+  },
+  {
+    "description": "Like CodeRabbit, but for AI behavior. Runs a simulation against your AI app and tells you what your change did.",
+    "id": "cortad/cortad",
+    "language": "JavaScript",
+    "name": "cortad/cortad",
+    "stars": 49,
+    "updated_at": "2026-10-29T19:19:10Z",
+    "url": "https://github.com/cortad/cortad"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-29T19:15:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Nagizaaz Shaik \u2014 ML & AI Systems Engineer",
@@ -25,24 +106,6 @@
     "stars": 0,
     "updated_at": "2026-10-29T19:13:34Z",
     "url": "https://github.com/shaikn6/shaikn6"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 43,
-    "updated_at": "2026-10-29T19:12:39Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-29T19:13:53Z",
-    "url": "https://github.com/vocion/vocion-core"
   },
   {
     "description": "Self-hosted & federated platform for AI IDE/Tools Rules and Commands via WebUI & CLI - Generate, browse, store, share AG",
@@ -81,33 +144,6 @@
     "url": "https://github.com/adeoluo/evaluation-harness"
   },
   {
-    "description": "mloda.ai - Open Data Access for AI and ML. Plugin-based. Traceable. Framework-agnostic.",
-    "id": "mloda-ai/mloda",
-    "language": "Python",
-    "name": "mloda-ai/mloda",
-    "stars": 98,
-    "updated_at": "2026-10-29T19:08:46Z",
-    "url": "https://github.com/mloda-ai/mloda"
-  },
-  {
-    "description": "Run thousands of LLM calls concurrently from Python asyncio: shared rate-limit cooldowns, RPM/TPM limits, smart retries,",
-    "id": "geoff-davis/async-batch-llm",
-    "language": "Python",
-    "name": "geoff-davis/async-batch-llm",
-    "stars": 1,
-    "updated_at": "2026-10-29T19:12:36Z",
-    "url": "https://github.com/geoff-davis/async-batch-llm"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-29T19:06:15Z",
-    "url": "https://github.com/toxicwind/ranch"
-  },
-  {
     "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
     "id": "llmspendguard/llm-spendguard",
     "language": "Python",
@@ -122,17 +158,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 12061,
-    "updated_at": "2026-10-29T19:01:04Z",
+    "updated_at": "2026-10-29T19:25:59Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-29T19:00:36Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -171,15 +198,6 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 62322,
-    "updated_at": "2026-10-29T19:13:28Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "Agent execution runtime with schema-validated tool plans, durable effects, recovery, and replay.",
     "id": "axiom-llc/axiom-apex",
     "language": "Python",
@@ -212,7 +230,7 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 36715,
-    "updated_at": "2026-10-29T18:46:40Z",
+    "updated_at": "2026-10-29T19:23:19Z",
     "url": "https://github.com/langfuse/langfuse"
   },
   {
@@ -302,7 +320,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 2,
-    "updated_at": "2026-10-29T18:44:14Z",
+    "updated_at": "2026-10-29T19:22:22Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -320,7 +338,7 @@
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 132,
-    "updated_at": "2026-10-29T19:15:14Z",
+    "updated_at": "2026-10-29T19:24:40Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -329,7 +347,7 @@
     "language": "TypeScript",
     "name": "ComposioHQ/composio",
     "stars": 30811,
-    "updated_at": "2026-10-29T18:31:21Z",
+    "updated_at": "2026-10-29T19:22:02Z",
     "url": "https://github.com/ComposioHQ/composio"
   },
   {
@@ -338,7 +356,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 2226,
-    "updated_at": "2026-10-29T19:10:47Z",
+    "updated_at": "2026-10-29T19:23:58Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -369,15 +387,6 @@
     "url": "https://github.com/pom11/hscc"
   },
   {
-    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
-    "id": "redevops-io/agentic-os",
-    "language": "Python",
-    "name": "redevops-io/agentic-os",
-    "stars": 2,
-    "updated_at": "2026-10-29T17:45:46Z",
-    "url": "https://github.com/redevops-io/agentic-os"
-  },
-  {
     "description": "Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve",
     "id": "tmusser/ai-engineering-skills",
     "language": "Python",
@@ -392,7 +401,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 23022,
-    "updated_at": "2026-10-29T18:58:24Z",
+    "updated_at": "2026-10-29T19:23:03Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -419,7 +428,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-29T19:06:23Z",
+    "updated_at": "2026-10-29T19:27:49Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 9,
     "updated_at": "2026-10-29T17:31:38Z",
     "url": "https://github.com/digline/digline"
-  },
-  {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 31,
-    "updated_at": "2026-10-29T17:23:33Z",
-    "url": "https://github.com/byte5ai/omadia"
   }
 ]
