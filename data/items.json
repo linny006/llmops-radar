@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 62250,
-    "updated_at": "2026-10-29T00:00:00Z",
+    "updated_at": "2026-10-29T00:15:15Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-29T00:10:55Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
+    "id": "JavisBot-Service/javis-transparency",
+    "language": "Python",
+    "name": "JavisBot-Service/javis-transparency",
+    "stars": 1,
+    "updated_at": "2026-10-29T00:06:42Z",
+    "url": "https://github.com/JavisBot-Service/javis-transparency"
+  },
+  {
+    "description": "Every model call through one library: raw-HTTP provider adapters, a cost ledger row and an OpenTelemetry span per call, ",
+    "id": "Peter-A-P/compliant-ai-gateway",
+    "language": "Python",
+    "name": "Peter-A-P/compliant-ai-gateway",
+    "stars": 0,
+    "updated_at": "2026-10-29T00:04:22Z",
+    "url": "https://github.com/Peter-A-P/compliant-ai-gateway"
   },
   {
     "description": "Self-hosted & federated platform for AI IDE/Tools Rules and Commands via WebUI & CLI - Generate, browse, store, share AG",
@@ -14,8 +41,17 @@
     "language": "TypeScript",
     "name": "GeiserX/LynxPrompt",
     "stars": 54,
-    "updated_at": "2026-10-28T23:56:55Z",
+    "updated_at": "2026-10-29T00:06:26Z",
     "url": "https://github.com/GeiserX/LynxPrompt"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-29T00:00:25Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Enterprise Scale AIFactory (esml) - on Azure",
@@ -41,17 +77,8 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 26562,
-    "updated_at": "2026-10-29T00:00:04Z",
+    "updated_at": "2026-10-29T00:07:07Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-28T23:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
@@ -63,12 +90,21 @@
     "url": "https://github.com/prasad-kavuri/prasad-portfolio"
   },
   {
+    "description": "Fail-closed SOC alert triage agent on Google Cloud: ADK + Gemini, BigQuery ML, FastAPI, Cloud Run.",
+    "id": "YouFoundTheDev/sentinel-triage",
+    "language": "Python",
+    "name": "YouFoundTheDev/sentinel-triage",
+    "stars": 0,
+    "updated_at": "2026-10-28T23:44:28Z",
+    "url": "https://github.com/YouFoundTheDev/sentinel-triage"
+  },
+  {
     "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
     "id": "NVIDIA-NeMo/nemo-helix",
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 132,
-    "updated_at": "2026-10-28T23:59:59Z",
+    "updated_at": "2026-10-29T00:11:49Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -85,7 +121,7 @@
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
-    "stars": 28576,
+    "stars": 28577,
     "updated_at": "2026-10-28T23:37:02Z",
     "url": "https://github.com/mlflow/mlflow"
   },
@@ -160,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-10-28T23:02:24Z",
     "url": "https://github.com/ngu-gif/genai-role-playbook"
-  },
-  {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-28T23:04:24Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
     "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
@@ -248,7 +275,7 @@
     "language": "TypeScript",
     "name": "ALLMA-dev/allma-core",
     "stars": 2,
-    "updated_at": "2026-10-28T22:29:26Z",
+    "updated_at": "2026-10-29T00:15:06Z",
     "url": "https://github.com/ALLMA-dev/allma-core"
   },
   {
@@ -275,7 +302,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-10-28T23:53:25Z",
+    "updated_at": "2026-10-29T00:00:35Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-28T21:03:22Z",
     "url": "https://github.com/Broikos-Nikos/semcache"
-  },
-  {
-    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
-    "id": "comet-ml/opik",
-    "language": "Python",
-    "name": "comet-ml/opik",
-    "stars": 22996,
-    "updated_at": "2026-10-28T21:01:21Z",
-    "url": "https://github.com/comet-ml/opik"
-  },
-  {
-    "description": "Open-source MLflow plugin for AI agents and agentic workflows: prompts, tools, skills, MCP servers, RAG knowledge bases,",
-    "id": "rrahimi-uci/caliber-suite",
-    "language": "Python",
-    "name": "rrahimi-uci/caliber-suite",
-    "stars": 2,
-    "updated_at": "2026-10-28T23:53:26Z",
-    "url": "https://github.com/rrahimi-uci/caliber-suite"
-  },
-  {
-    "description": "The gagarin CLI \u2014 deploy and operate applications on gagarin. Ships the agent skill inside the binary.",
-    "id": "gagarin-cloud/gg",
-    "language": "Go",
-    "name": "gagarin-cloud/gg",
-    "stars": 1,
-    "updated_at": "2026-10-28T20:46:27Z",
-    "url": "https://github.com/gagarin-cloud/gg"
   }
 ]
