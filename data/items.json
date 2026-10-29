@@ -1,21 +1,30 @@
 [
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
     "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 62267,
-    "updated_at": "2026-10-29T04:44:45Z",
-    "url": "https://github.com/BerriAI/litellm"
+    "name": "Arize-ai/phoenix",
+    "stars": 12050,
+    "updated_at": "2026-10-29T04:59:30Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
+    "description": "\u9876\u7ea7\u5ba1\u7f8e\u7684\u4e2a\u4eba\u535a\u5ba2\uff01\uff01\uff01\u5199\u4e00\u4e9b\u5173\u4e8e AI\u3001Agent\u3001\u6280\u672f\u3001\u4ea7\u54c1\u3001\u8425\u9500\u3001\u4e00\u4e9b\u751f\u6d3b\u601d\u8003\uff0c\u4e2a\u4eba\u6210\u957f\u7c7b\u7684\u7cbe\u6587",
+    "id": "cubxxw/blog",
+    "language": "JavaScript",
+    "name": "cubxxw/blog",
+    "stars": 30,
+    "updated_at": "2026-10-29T04:59:09Z",
+    "url": "https://github.com/cubxxw/blog"
+  },
+  {
+    "description": "Multi-agent FNOL intake and triage for Indian motor insurance. Validates at the boundary, grounds a coverage position in",
+    "id": "hemanthloq/motor-insurance-claim-triage",
     "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28580,
-    "updated_at": "2026-10-29T04:43:56Z",
-    "url": "https://github.com/mlflow/mlflow"
+    "name": "hemanthloq/motor-insurance-claim-triage",
+    "stars": 0,
+    "updated_at": "2026-10-29T04:57:24Z",
+    "url": "https://github.com/hemanthloq/motor-insurance-claim-triage"
   },
   {
     "description": "What if OpenAI Deep Research and Dify were one platform? OpenAgent \u2014 harness architecture for rapidly building vertical ",
@@ -23,8 +32,62 @@
     "language": "Python",
     "name": "Haohao-end/openagent",
     "stars": 774,
-    "updated_at": "2026-10-29T04:43:16Z",
+    "updated_at": "2026-10-29T04:56:43Z",
     "url": "https://github.com/Haohao-end/openagent"
+  },
+  {
+    "description": "Official Terraform provider for the Keel AI control plane",
+    "id": "keelapi/terraform-provider-keel",
+    "language": "Go",
+    "name": "keelapi/terraform-provider-keel",
+    "stars": 3,
+    "updated_at": "2026-10-29T04:52:03Z",
+    "url": "https://github.com/keelapi/terraform-provider-keel"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 43,
+    "updated_at": "2026-10-29T04:50:01Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 62267,
+    "updated_at": "2026-10-29T04:59:47Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Enterprise Scale AIFactory (esml) - on Azure",
+    "id": "jostrm/azure-enterprise-scale-ml",
+    "language": "Python",
+    "name": "jostrm/azure-enterprise-scale-ml",
+    "stars": 53,
+    "updated_at": "2026-10-29T04:48:56Z",
+    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-29T04:45:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28580,
+    "updated_at": "2026-10-29T04:53:19Z",
+    "url": "https://github.com/mlflow/mlflow"
   },
   {
     "description": "Understand which functions and agents drive LLM spend. Self-hosted monitoring and an open model pricing catalog.",
@@ -34,15 +97,6 @@
     "stars": 4,
     "updated_at": "2026-10-29T04:42:35Z",
     "url": "https://github.com/metergraph/metergraph"
-  },
-  {
-    "description": "\u9876\u7ea7\u5ba1\u7f8e\u7684\u4e2a\u4eba\u535a\u5ba2\uff01\uff01\uff01\u5199\u4e00\u4e9b\u5173\u4e8e AI\u3001Agent\u3001\u6280\u672f\u3001\u4ea7\u54c1\u3001\u8425\u9500\u3001\u4e00\u4e9b\u751f\u6d3b\u601d\u8003\uff0c\u4e2a\u4eba\u6210\u957f\u7c7b\u7684\u7cbe\u6587",
-    "id": "cubxxw/blog",
-    "language": "JavaScript",
-    "name": "cubxxw/blog",
-    "stars": 30,
-    "updated_at": "2026-10-29T04:41:36Z",
-    "url": "https://github.com/cubxxw/blog"
   },
   {
     "description": "Aixle Flow \u2014 orchestrate coding agents through durable, inspectable workflows.",
@@ -59,17 +113,8 @@
     "language": "Python",
     "name": "holetz/quenching",
     "stars": 0,
-    "updated_at": "2026-10-29T04:42:54Z",
+    "updated_at": "2026-10-29T04:48:54Z",
     "url": "https://github.com/holetz/quenching"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-29T04:30:26Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Self-hosted OpenAI/Anthropic-compatible gateway: give each AI agent run a dollar budget, enforced before the provider, w",
@@ -95,7 +140,7 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 215,
-    "updated_at": "2026-10-29T04:44:00Z",
+    "updated_at": "2026-10-29T05:00:03Z",
     "url": "https://github.com/GetBusbar/busbar"
   },
   {
@@ -106,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-29T04:20:43Z",
     "url": "https://github.com/zhangyan1979/LLMPulse"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 12049,
-    "updated_at": "2026-10-29T04:44:08Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
@@ -140,7 +176,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 2,
-    "updated_at": "2026-10-29T04:45:12Z",
+    "updated_at": "2026-10-29T04:46:02Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -149,7 +185,7 @@
     "language": "Python",
     "name": "sarkars/agent-failure-modes",
     "stars": 1,
-    "updated_at": "2026-10-29T04:09:33Z",
+    "updated_at": "2026-10-29T05:00:14Z",
     "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
@@ -167,7 +203,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4997,
-    "updated_at": "2026-10-29T04:33:32Z",
+    "updated_at": "2026-10-29T04:58:52Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -175,7 +211,7 @@
     "id": "01men/ybkkasi",
     "language": "JavaScript",
     "name": "01men/ybkkasi",
-    "stars": 19,
+    "stars": 20,
     "updated_at": "2026-10-29T03:52:23Z",
     "url": "https://github.com/01men/ybkkasi"
   },
@@ -252,21 +288,12 @@
     "url": "https://github.com/KBber/KBber"
   },
   {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 43,
-    "updated_at": "2026-10-29T02:56:29Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
     "id": "alibaba/rtp-llm",
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1377,
-    "updated_at": "2026-10-29T04:32:52Z",
+    "updated_at": "2026-10-29T04:55:50Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -277,6 +304,15 @@
     "stars": 12,
     "updated_at": "2026-10-29T02:49:51Z",
     "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
+    "id": "coze-dev/coze-loop",
+    "language": "Go",
+    "name": "coze-dev/coze-loop",
+    "stars": 5792,
+    "updated_at": "2026-10-29T02:48:37Z",
+    "url": "https://github.com/coze-dev/coze-loop"
   },
   {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-29T01:23:41Z",
     "url": "https://github.com/cluster1900/ai-engineering-interview-questions-CN"
-  },
-  {
-    "description": ".NET 10 library for LLM apps: one ITextClient that routes and fails over across OpenAI, Azure OpenAI, OpenRouter, Ollama",
-    "id": "JiarongGu/Lyntai",
-    "language": "C#",
-    "name": "JiarongGu/Lyntai",
-    "stars": 2,
-    "updated_at": "2026-10-29T01:17:22Z",
-    "url": "https://github.com/JiarongGu/Lyntai"
-  },
-  {
-    "description": "Benchmark LLMs head-to-head on your own prompts. ",
-    "id": "orq-ai/orq-arena",
-    "language": "Python",
-    "name": "orq-ai/orq-arena",
-    "stars": 25,
-    "updated_at": "2026-10-29T01:13:34Z",
-    "url": "https://github.com/orq-ai/orq-arena"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 3,
-    "updated_at": "2026-10-29T01:43:27Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "Profile of Dr. Ravi Teja Thiriveedhi \u2014 clinician turned AI systems architect: multi-agent platforms, AI governance, LLM ",
-    "id": "Raviteja2k2k/Raviteja2k2k",
-    "language": "Python",
-    "name": "Raviteja2k2k/Raviteja2k2k",
-    "stars": 0,
-    "updated_at": "2026-10-29T01:09:47Z",
-    "url": "https://github.com/Raviteja2k2k/Raviteja2k2k"
   }
 ]
