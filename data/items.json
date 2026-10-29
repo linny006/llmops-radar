@@ -1,11 +1,83 @@
 [
   {
+    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
+    "id": "mlflow/mlflow",
+    "language": "Python",
+    "name": "mlflow/mlflow",
+    "stars": 28577,
+    "updated_at": "2026-10-29T01:45:04Z",
+    "url": "https://github.com/mlflow/mlflow"
+  },
+  {
+    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
+    "id": "langwatch/langwatch",
+    "language": "TypeScript",
+    "name": "langwatch/langwatch",
+    "stars": 4997,
+    "updated_at": "2026-10-29T01:44:36Z",
+    "url": "https://github.com/langwatch/langwatch"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 62253,
+    "updated_at": "2026-10-29T01:44:37Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+    "id": "vllm-project/vllm-ascend",
+    "language": "Python",
+    "name": "vllm-project/vllm-ascend",
+    "stars": 3028,
+    "updated_at": "2026-10-29T01:34:49Z",
+    "url": "https://github.com/vllm-project/vllm-ascend"
+  },
+  {
+    "description": "One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary.",
+    "id": "respanai/respan-gateway",
+    "language": "Rust",
+    "name": "respanai/respan-gateway",
+    "stars": 376,
+    "updated_at": "2026-10-29T01:32:16Z",
+    "url": "https://github.com/respanai/respan-gateway"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-29T01:31:50Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Not every coding task needs your best model. Experimental Jev-powered model routing for Claude Code \u2014 V3 prototype runs ",
+    "id": "MongLong0214/jev-gate",
+    "language": "TypeScript",
+    "name": "MongLong0214/jev-gate",
+    "stars": 4,
+    "updated_at": "2026-10-29T01:43:54Z",
+    "url": "https://github.com/MongLong0214/jev-gate"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-29T01:30:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Governed AI agents as a Kubernetes sidecar: policy-as-code charters, mTLS/SPIFFE identity, budgets, guardrails and JSONL",
     "id": "f8fvwgzc/agent-sidecar",
     "language": "Rust",
     "name": "f8fvwgzc/agent-sidecar",
     "stars": 0,
-    "updated_at": "2026-10-29T01:29:58Z",
+    "updated_at": "2026-10-29T01:33:09Z",
     "url": "https://github.com/f8fvwgzc/agent-sidecar"
   },
   {
@@ -18,21 +90,12 @@
     "url": "https://github.com/ngu-gif/genai-role-playbook"
   },
   {
-    "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
-    "id": "vllm-project/vllm-ascend",
-    "language": "Python",
-    "name": "vllm-project/vllm-ascend",
-    "stars": 3028,
-    "updated_at": "2026-10-29T01:28:51Z",
-    "url": "https://github.com/vllm-project/vllm-ascend"
-  },
-  {
     "description": "Self-hosted & federated platform for AI IDE/Tools Rules and Commands via WebUI & CLI - Generate, browse, store, share AG",
     "id": "GeiserX/LynxPrompt",
     "language": "TypeScript",
     "name": "GeiserX/LynxPrompt",
     "stars": 54,
-    "updated_at": "2026-10-29T01:28:34Z",
+    "updated_at": "2026-10-29T01:35:04Z",
     "url": "https://github.com/GeiserX/LynxPrompt"
   },
   {
@@ -45,15 +108,6 @@
     "url": "https://github.com/Furox-Art/eq-layer"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 62251,
-    "updated_at": "2026-10-29T01:26:41Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "AI / LLM / Agent \u5de5\u7a0b\u5e08\u4e2d\u6587\u9762\u8bd5\u9898\u4e0e\u53c2\u8003\u7b54\u6848\uff1aRAG\u3001Agent\u3001\u5fae\u8c03\u3001LLMOps\u3001\u7cfb\u7edf\u8bbe\u8ba1",
     "id": "cluster1900/ai-engineering-interview-questions-CN",
     "language": "Markdown",
@@ -63,15 +117,6 @@
     "url": "https://github.com/cluster1900/ai-engineering-interview-questions-CN"
   },
   {
-    "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
-    "id": "mlflow/mlflow",
-    "language": "Python",
-    "name": "mlflow/mlflow",
-    "stars": 28578,
-    "updated_at": "2026-10-29T01:17:53Z",
-    "url": "https://github.com/mlflow/mlflow"
-  },
-  {
     "description": ".NET 10 library for LLM apps: one ITextClient that routes and fails over across OpenAI, Azure OpenAI, OpenRouter, Ollama",
     "id": "JiarongGu/Lyntai",
     "language": "C#",
@@ -79,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-10-29T01:17:22Z",
     "url": "https://github.com/JiarongGu/Lyntai"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-29T01:15:32Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
@@ -113,17 +149,8 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 2214,
-    "updated_at": "2026-10-29T01:12:29Z",
+    "updated_at": "2026-10-29T01:36:19Z",
     "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-29T01:07:21Z",
-    "url": "https://github.com/toxicwind/ranch"
   },
   {
     "description": "The platform for continuously improving AI agents.",
@@ -140,7 +167,7 @@
     "language": "JavaScript",
     "name": "IgorGanapolsky/mac-yolo-safeguards",
     "stars": 3,
-    "updated_at": "2026-10-29T01:04:34Z",
+    "updated_at": "2026-10-29T01:43:27Z",
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
@@ -149,7 +176,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 26564,
-    "updated_at": "2026-10-29T01:28:46Z",
+    "updated_at": "2026-10-29T01:38:07Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -162,22 +189,13 @@
     "url": "https://github.com/Raviteja2k2k/Raviteja2k2k"
   },
   {
-    "description": "One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary.",
-    "id": "respanai/respan-gateway",
-    "language": "Rust",
-    "name": "respanai/respan-gateway",
-    "stars": 376,
-    "updated_at": "2026-10-29T00:52:23Z",
-    "url": "https://github.com/respanai/respan-gateway"
-  },
-  {
-    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assist",
-    "id": "langwatch/langwatch",
-    "language": "TypeScript",
-    "name": "langwatch/langwatch",
-    "stars": 4998,
-    "updated_at": "2026-10-29T01:27:36Z",
-    "url": "https://github.com/langwatch/langwatch"
+    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, autom",
+    "id": "comet-ml/opik",
+    "language": "Python",
+    "name": "comet-ml/opik",
+    "stars": 22998,
+    "updated_at": "2026-10-29T00:53:40Z",
+    "url": "https://github.com/comet-ml/opik"
   },
   {
     "description": "Portable AI-engineering skills for Claude Code, Codex, and coding agents: bounded scope, mini-specs, vertical slices, ve",
@@ -203,7 +221,7 @@
     "language": "Rust",
     "name": "korczis/prismatic-majordomus",
     "stars": 0,
-    "updated_at": "2026-10-29T01:20:40Z",
+    "updated_at": "2026-10-29T01:37:00Z",
     "url": "https://github.com/korczis/prismatic-majordomus"
   },
   {
@@ -329,7 +347,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 12048,
-    "updated_at": "2026-10-29T00:27:22Z",
+    "updated_at": "2026-10-29T01:36:43Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -346,7 +364,7 @@
     "id": "langfuse/langfuse",
     "language": "TypeScript",
     "name": "langfuse/langfuse",
-    "stars": 36662,
+    "stars": 36663,
     "updated_at": "2026-10-28T23:09:33Z",
     "url": "https://github.com/langfuse/langfuse"
   },
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-29T00:18:07Z",
     "url": "https://github.com/ALLMA-dev/allma-core"
-  },
-  {
-    "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
-    "id": "acornops/management-console",
-    "language": "TypeScript",
-    "name": "acornops/management-console",
-    "stars": 2,
-    "updated_at": "2026-10-28T22:40:10Z",
-    "url": "https://github.com/acornops/management-console"
-  },
-  {
-    "description": "\ud83d\ude80 AI Agent Deployment on GCP 2026: Fast-Track Production Templates & CI/CD",
-    "id": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "language": "HTML",
-    "name": "garcetemedinamateoandres-sketch/agent-deployment-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-10-28T22:11:22Z",
-    "url": "https://github.com/garcetemedinamateoandres-sketch/agent-deployment-orchestrator"
   }
 ]
