@@ -1,12 +1,12 @@
 [
   {
-    "description": "What if OpenAI Deep Research and Dify were one platform? OpenAgent \u2014 harness architecture for rapidly building vertical ",
-    "id": "Haohao-end/openagent",
+    "description": "Understand which functions and agents drive LLM spend. Self-hosted monitoring and an open model pricing catalog.",
+    "id": "metergraph/metergraph",
     "language": "Python",
-    "name": "Haohao-end/openagent",
-    "stars": 774,
-    "updated_at": "2026-10-29T04:15:06Z",
-    "url": "https://github.com/Haohao-end/openagent"
+    "name": "metergraph/metergraph",
+    "stars": 4,
+    "updated_at": "2026-10-29T04:29:23Z",
+    "url": "https://github.com/metergraph/metergraph"
   },
   {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
@@ -14,8 +14,35 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 62265,
-    "updated_at": "2026-10-29T04:14:55Z",
+    "updated_at": "2026-10-29T04:28:59Z",
     "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Claude Code plugin that keeps a repo's knowledge, specs and git workflow in one verifiable shape",
+    "id": "holetz/quenching",
+    "language": "Python",
+    "name": "holetz/quenching",
+    "stars": 0,
+    "updated_at": "2026-10-29T04:23:01Z",
+    "url": "https://github.com/holetz/quenching"
+  },
+  {
+    "description": "Self-hosted OpenAI/Anthropic-compatible gateway: give each AI agent run a dollar budget, enforced before the provider, w",
+    "id": "domondi1/inferrail",
+    "language": "Python",
+    "name": "domondi1/inferrail",
+    "stars": 1,
+    "updated_at": "2026-10-29T04:22:29Z",
+    "url": "https://github.com/domondi1/inferrail"
+  },
+  {
+    "description": "OpenTelemetry Instrumentation for AI Observability",
+    "id": "Arize-ai/openinference",
+    "language": "Python",
+    "name": "Arize-ai/openinference",
+    "stars": 1294,
+    "updated_at": "2026-10-29T04:23:57Z",
+    "url": "https://github.com/Arize-ai/openinference"
   },
   {
     "description": "Mirror of https://git.getbusbar.dev/GetBusbar/busbar. Read-only; contribute on Forgejo. The execution control plane for ",
@@ -23,8 +50,35 @@
     "language": "Rust",
     "name": "GetBusbar/busbar",
     "stars": 215,
-    "updated_at": "2026-10-29T04:13:37Z",
+    "updated_at": "2026-10-29T04:21:40Z",
     "url": "https://github.com/GetBusbar/busbar"
+  },
+  {
+    "description": "What if OpenAI Deep Research and Dify were one platform? OpenAgent \u2014 harness architecture for rapidly building vertical ",
+    "id": "Haohao-end/openagent",
+    "language": "Python",
+    "name": "Haohao-end/openagent",
+    "stars": 774,
+    "updated_at": "2026-10-29T04:30:08Z",
+    "url": "https://github.com/Haohao-end/openagent"
+  },
+  {
+    "description": "LLMPulse \u2014 keep every LLM account one click away. A tray-first Windows app that auto-discovers each account\u2019s models, ru",
+    "id": "zhangyan1979/LLMPulse",
+    "language": "TypeScript",
+    "name": "zhangyan1979/LLMPulse",
+    "stars": 0,
+    "updated_at": "2026-10-29T04:20:43Z",
+    "url": "https://github.com/zhangyan1979/LLMPulse"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-29T04:15:26Z",
+    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -59,7 +113,7 @@
     "language": "Python",
     "name": "rrahimi-uci/caliber-suite",
     "stars": 2,
-    "updated_at": "2026-10-29T04:06:02Z",
+    "updated_at": "2026-10-29T04:18:28Z",
     "url": "https://github.com/rrahimi-uci/caliber-suite"
   },
   {
@@ -70,24 +124,6 @@
     "stars": 1,
     "updated_at": "2026-10-29T04:09:33Z",
     "url": "https://github.com/sarkars/agent-failure-modes"
-  },
-  {
-    "description": "LLMPulse \u2014 keep every LLM account one click away. A tray-first Windows app that auto-discovers each account\u2019s models, ru",
-    "id": "zhangyan1979/LLMPulse",
-    "language": "TypeScript",
-    "name": "zhangyan1979/LLMPulse",
-    "stars": 0,
-    "updated_at": "2026-10-29T04:02:05Z",
-    "url": "https://github.com/zhangyan1979/LLMPulse"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-29T04:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "AI agent execution governance: pre-effect authorization, single-use permissions, policy enforcement, and verifiable reco",
@@ -104,7 +140,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4997,
-    "updated_at": "2026-10-29T04:03:39Z",
+    "updated_at": "2026-10-29T04:25:53Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -131,7 +167,7 @@
     "language": "Python",
     "name": "overmind-core/overmind",
     "stars": 721,
-    "updated_at": "2026-10-29T03:47:38Z",
+    "updated_at": "2026-10-29T04:23:49Z",
     "url": "https://github.com/overmind-core/overmind"
   },
   {
@@ -149,7 +185,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28580,
-    "updated_at": "2026-10-29T03:44:26Z",
+    "updated_at": "2026-10-29T04:26:40Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -158,7 +194,7 @@
     "language": "Python",
     "name": "vllm-project/vllm-ascend",
     "stars": 3028,
-    "updated_at": "2026-10-29T04:06:46Z",
+    "updated_at": "2026-10-29T04:19:42Z",
     "url": "https://github.com/vllm-project/vllm-ascend"
   },
   {
@@ -185,7 +221,7 @@
     "language": "Python",
     "name": "architsharm/agentfox",
     "stars": 4,
-    "updated_at": "2026-10-29T03:31:46Z",
+    "updated_at": "2026-10-29T04:20:01Z",
     "url": "https://github.com/architsharm/agentfox"
   },
   {
@@ -212,7 +248,7 @@
     "language": "Python",
     "name": "alibaba/rtp-llm",
     "stars": 1377,
-    "updated_at": "2026-10-29T04:02:00Z",
+    "updated_at": "2026-10-29T04:29:45Z",
     "url": "https://github.com/alibaba/rtp-llm"
   },
   {
@@ -238,7 +274,7 @@
     "id": "comet-ml/opik",
     "language": "Python",
     "name": "comet-ml/opik",
-    "stars": 23003,
+    "stars": 23004,
     "updated_at": "2026-10-29T02:39:08Z",
     "url": "https://github.com/comet-ml/opik"
   },
@@ -412,41 +448,5 @@
     "stars": 30796,
     "updated_at": "2026-10-29T00:45:41Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "A lightweight supervisory control layer for AI-assisted work: one policy, generated instructions for every AI tool, dura",
-    "id": "korczis/prismatic-majordomus",
-    "language": "Rust",
-    "name": "korczis/prismatic-majordomus",
-    "stars": 0,
-    "updated_at": "2026-10-29T04:10:23Z",
-    "url": "https://github.com/korczis/prismatic-majordomus"
-  },
-  {
-    "description": "Fail-closed SOC alert triage agent on Google Cloud: ADK + Gemini, BigQuery ML, FastAPI, Cloud Run.",
-    "id": "YouFoundTheDev/sentinel-triage",
-    "language": "Python",
-    "name": "YouFoundTheDev/sentinel-triage",
-    "stars": 0,
-    "updated_at": "2026-10-29T00:34:23Z",
-    "url": "https://github.com/YouFoundTheDev/sentinel-triage"
-  },
-  {
-    "description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust",
-    "id": "0xPlaygrounds/rig",
-    "language": "Rust",
-    "name": "0xPlaygrounds/rig",
-    "stars": 9006,
-    "updated_at": "2026-10-29T04:04:45Z",
-    "url": "https://github.com/0xPlaygrounds/rig"
-  },
-  {
-    "description": "Third-party-verifiable model-authenticity audit for the javis.bot Claude/GPT relay \u2014 open-source probe, runs on GitHub A",
-    "id": "JavisBot-Service/javis-transparency",
-    "language": "Python",
-    "name": "JavisBot-Service/javis-transparency",
-    "stars": 1,
-    "updated_at": "2026-10-29T00:06:42Z",
-    "url": "https://github.com/JavisBot-Service/javis-transparency"
   }
 ]
