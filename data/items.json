@@ -1,11 +1,83 @@
 [
   {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-10-29T18:59:29Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Run thousands of LLM calls concurrently from Python asyncio: shared rate-limit cooldowns, RPM/TPM limits, smart retries,",
+    "id": "geoff-davis/async-batch-llm",
+    "language": "Python",
+    "name": "geoff-davis/async-batch-llm",
+    "stars": 1,
+    "updated_at": "2026-10-29T18:59:13Z",
+    "url": "https://github.com/geoff-davis/async-batch-llm"
+  },
+  {
+    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
+    "id": "sarkars/agent-failure-modes",
+    "language": "Python",
+    "name": "sarkars/agent-failure-modes",
+    "stars": 1,
+    "updated_at": "2026-10-29T18:58:36Z",
+    "url": "https://github.com/sarkars/agent-failure-modes"
+  },
+  {
+    "description": "Provider-agnostic Hermes Agent optimization skill with autodiscovery, provenance, and publication-ready docs.",
+    "id": "AzamatSafarov/hermes-optimizer",
+    "language": "\u2014",
+    "name": "AzamatSafarov/hermes-optimizer",
+    "stars": 0,
+    "updated_at": "2026-10-29T18:57:58Z",
+    "url": "https://github.com/AzamatSafarov/hermes-optimizer"
+  },
+  {
+    "description": "Like CodeRabbit, but for AI behavior. Runs a simulation against your AI app and tells you what your change did.",
+    "id": "cortad/cortad",
+    "language": "JavaScript",
+    "name": "cortad/cortad",
+    "stars": 49,
+    "updated_at": "2026-10-29T18:57:36Z",
+    "url": "https://github.com/cortad/cortad"
+  },
+  {
+    "description": "GenAI Career Roadmap 2026 \ud83d\ude80 | AI Job Paths & Skills Guide",
+    "id": "ngu-gif/genai-role-playbook",
+    "language": "HTML",
+    "name": "ngu-gif/genai-role-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-29T18:52:41Z",
+    "url": "https://github.com/ngu-gif/genai-role-playbook"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-29T18:55:33Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-29T18:50:28Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 12060,
-    "updated_at": "2026-10-29T18:49:54Z",
+    "updated_at": "2026-10-29T18:58:58Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -14,7 +86,7 @@
     "language": "Python",
     "name": "ArtVsMark/Engineering-Incidents-Playbook",
     "stars": 5,
-    "updated_at": "2026-10-29T18:49:00Z",
+    "updated_at": "2026-10-29T18:53:20Z",
     "url": "https://github.com/ArtVsMark/Engineering-Incidents-Playbook"
   },
   {
@@ -23,7 +95,7 @@
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 62322,
-    "updated_at": "2026-10-29T18:48:40Z",
+    "updated_at": "2026-10-29T18:59:35Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -41,7 +113,7 @@
     "language": "JavaScript",
     "name": "cubxxw/blog",
     "stars": 30,
-    "updated_at": "2026-10-29T18:48:15Z",
+    "updated_at": "2026-10-29T18:51:06Z",
     "url": "https://github.com/cubxxw/blog"
   },
   {
@@ -50,7 +122,7 @@
     "language": "TypeScript",
     "name": "GeiserX/LynxPrompt",
     "stars": 54,
-    "updated_at": "2026-10-29T18:50:14Z",
+    "updated_at": "2026-10-29T18:56:58Z",
     "url": "https://github.com/GeiserX/LynxPrompt"
   },
   {
@@ -88,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-10-29T18:45:27Z",
     "url": "https://github.com/xeeshan16/agent-replay"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-29T18:45:27Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
@@ -162,15 +225,6 @@
     "url": "https://github.com/MSKazemi/novafabric"
   },
   {
-    "description": "Run thousands of LLM calls concurrently from Python asyncio: shared rate-limit cooldowns, RPM/TPM limits, smart retries,",
-    "id": "geoff-davis/async-batch-llm",
-    "language": "Python",
-    "name": "geoff-davis/async-batch-llm",
-    "stars": 1,
-    "updated_at": "2026-10-29T18:41:03Z",
-    "url": "https://github.com/geoff-davis/async-batch-llm"
-  },
-  {
     "description": "Scheduled agent tasks for your repositories, defined in Git. Approved access, sandboxed runs, a full audit trail.",
     "id": "piotrekno1/second-shift",
     "language": "Python",
@@ -178,15 +232,6 @@
     "stars": 6,
     "updated_at": "2026-10-29T18:23:27Z",
     "url": "https://github.com/piotrekno1/second-shift"
-  },
-  {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-29T18:36:31Z",
-    "url": "https://github.com/vocion/vocion-core"
   },
   {
     "description": "Count tokens across AI models and get concrete, priced suggestions to cut your prompt costs. Runs offline.",
@@ -221,17 +266,8 @@
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 132,
-    "updated_at": "2026-10-29T18:47:42Z",
+    "updated_at": "2026-10-29T18:55:38Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-10-29T18:12:57Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
     "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you b",
@@ -248,7 +284,7 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 2226,
-    "updated_at": "2026-10-29T18:45:27Z",
+    "updated_at": "2026-10-29T18:58:06Z",
     "url": "https://github.com/future-agi/future-agi"
   },
   {
@@ -257,7 +293,7 @@
     "language": "Rust",
     "name": "0xPlaygrounds/rig",
     "stars": 9018,
-    "updated_at": "2026-10-29T18:50:25Z",
+    "updated_at": "2026-10-29T18:58:53Z",
     "url": "https://github.com/0xPlaygrounds/rig"
   },
   {
@@ -266,17 +302,8 @@
     "language": "Ruby",
     "name": "AixleHQ/flow",
     "stars": 29,
-    "updated_at": "2026-10-29T18:48:26Z",
+    "updated_at": "2026-10-29T18:57:23Z",
     "url": "https://github.com/AixleHQ/flow"
-  },
-  {
-    "description": "Agent Failure Patterns - A field guide to how AI agents fail in production - documented failure patterns, root causes, a",
-    "id": "sarkars/agent-failure-modes",
-    "language": "Python",
-    "name": "sarkars/agent-failure-modes",
-    "stars": 1,
-    "updated_at": "2026-10-29T18:00:33Z",
-    "url": "https://github.com/sarkars/agent-failure-modes"
   },
   {
     "description": "Turn a DGX Spark GPU cluster into a self-running team of specialized AI agents \u2014 cluster control, role-specialized worke",
@@ -320,7 +347,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 23022,
-    "updated_at": "2026-10-29T18:29:02Z",
+    "updated_at": "2026-10-29T18:58:24Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 4999,
     "updated_at": "2026-10-29T18:49:23Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "Evidence-grounded evaluation for AI agents \u2014 verifies each claim against the agent's real tool outputs (constrained, evi",
-    "id": "peace-orefejo/attest",
-    "language": "Python",
-    "name": "peace-orefejo/attest",
-    "stars": 17,
-    "updated_at": "2026-10-29T17:10:38Z",
-    "url": "https://github.com/peace-orefejo/attest"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3619,
-    "updated_at": "2026-10-29T17:00:47Z",
-    "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "Self-study course on designing the systems around AI agents: 17 modules on context engineering, tools and MCP, orchestra",
-    "id": "My-Courseworks/Harness-Engineering",
-    "language": "HTML",
-    "name": "My-Courseworks/Harness-Engineering",
-    "stars": 0,
-    "updated_at": "2026-10-29T17:00:10Z",
-    "url": "https://github.com/My-Courseworks/Harness-Engineering"
   }
 ]
