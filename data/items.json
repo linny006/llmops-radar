@@ -1,5 +1,158 @@
 [
   {
+    "description": "AI agent execution governance: pre-effect authorization, single-use permissions, policy enforcement, and verifiable reco",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 41,
+    "updated_at": "2026-10-29T14:29:59Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 3,
+    "updated_at": "2026-10-29T14:28:36Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
+    "id": "byte5ai/omadia",
+    "language": "TypeScript",
+    "name": "byte5ai/omadia",
+    "stars": 31,
+    "updated_at": "2026-10-29T14:30:27Z",
+    "url": "https://github.com/byte5ai/omadia"
+  },
+  {
+    "description": "A streaming action runtime for AI agents, model serving, and multimodal APIs",
+    "id": "hpnkv/a11",
+    "language": "C++",
+    "name": "hpnkv/a11",
+    "stars": 11,
+    "updated_at": "2026-10-29T14:28:11Z",
+    "url": "https://github.com/hpnkv/a11"
+  },
+  {
+    "description": "Keras based framework for neuro-symbolic LM systems",
+    "id": "SynaLinks/synalinks",
+    "language": "Python",
+    "name": "SynaLinks/synalinks",
+    "stars": 464,
+    "updated_at": "2026-10-29T14:28:57Z",
+    "url": "https://github.com/SynaLinks/synalinks"
+  },
+  {
+    "description": "Regression gate for LLM applications in CI: a GitHub Action that fails a pull request when it scores worse than the comm",
+    "id": "digline/digline-action",
+    "language": "Shell",
+    "name": "digline/digline-action",
+    "stars": 0,
+    "updated_at": "2026-10-29T14:28:35Z",
+    "url": "https://github.com/digline/digline-action"
+  },
+  {
+    "description": "Landscape of skills, technologies, and concepts for DX/DevOps promotion with their history",
+    "id": "jimyoshida/dx-devops-landscape",
+    "language": "JavaScript",
+    "name": "jimyoshida/dx-devops-landscape",
+    "stars": 6,
+    "updated_at": "2026-10-29T14:27:18Z",
+    "url": "https://github.com/jimyoshida/dx-devops-landscape"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 62310,
+    "updated_at": "2026-10-29T14:30:22Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "id": "langfuse/langfuse",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse",
+    "stars": 36699,
+    "updated_at": "2026-10-29T14:28:32Z",
+    "url": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
+    "id": "digline/digline",
+    "language": "Python",
+    "name": "digline/digline",
+    "stars": 9,
+    "updated_at": "2026-10-29T14:25:11Z",
+    "url": "https://github.com/digline/digline"
+  },
+  {
+    "description": "Know what an LLM job will cost before you run it \u2014 and prove your ledger matches the provider's bill. Pre-submit estimat",
+    "id": "llmspendguard/llm-spendguard",
+    "language": "Python",
+    "name": "llmspendguard/llm-spendguard",
+    "stars": 0,
+    "updated_at": "2026-10-29T14:24:40Z",
+    "url": "https://github.com/llmspendguard/llm-spendguard"
+  },
+  {
+    "description": "Production-ready platform for deploying OpenAI-compatible LLM inference on Kubernetes. A one-command installer for enter",
+    "id": "intel/enterprise-ai-solutions",
+    "language": "Shell",
+    "name": "intel/enterprise-ai-solutions",
+    "stars": 10,
+    "updated_at": "2026-10-29T14:24:21Z",
+    "url": "https://github.com/intel/enterprise-ai-solutions"
+  },
+  {
+    "description": "Self-hosted CI eval harness for prompt regression testing (Docker + CLI)",
+    "id": "fainir/regressguard",
+    "language": "Python",
+    "name": "fainir/regressguard",
+    "stars": 0,
+    "updated_at": "2026-10-29T14:23:25Z",
+    "url": "https://github.com/fainir/regressguard"
+  },
+  {
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
+    "id": "SourceShift/mini-ork",
+    "language": "Python",
+    "name": "SourceShift/mini-ork",
+    "stars": 32,
+    "updated_at": "2026-10-29T14:21:24Z",
+    "url": "https://github.com/SourceShift/mini-ork"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 760,
+    "updated_at": "2026-10-29T14:20:11Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
+    "id": "vocion/vocion-core",
+    "language": "TypeScript",
+    "name": "vocion/vocion-core",
+    "stars": 2,
+    "updated_at": "2026-10-29T14:30:09Z",
+    "url": "https://github.com/vocion/vocion-core"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-29T14:15:30Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "Agentic Runtime",
     "id": "anthony-chaudhary/fak",
     "language": "Go",
@@ -9,21 +162,12 @@
     "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 760,
-    "updated_at": "2026-10-29T14:14:14Z",
-    "url": "https://github.com/mozilla-ai/otari"
-  },
-  {
     "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, eva",
     "id": "mlflow/mlflow",
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28585,
-    "updated_at": "2026-10-29T14:14:06Z",
+    "updated_at": "2026-10-29T14:21:47Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -32,7 +176,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 23017,
-    "updated_at": "2026-10-29T14:12:50Z",
+    "updated_at": "2026-10-29T14:23:07Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -52,15 +196,6 @@
     "stars": 30810,
     "updated_at": "2026-10-29T14:14:07Z",
     "url": "https://github.com/ComposioHQ/composio"
-  },
-  {
-    "description": "Keras based framework for neuro-symbolic LM systems",
-    "id": "SynaLinks/synalinks",
-    "language": "Python",
-    "name": "SynaLinks/synalinks",
-    "stars": 464,
-    "updated_at": "2026-10-29T14:13:02Z",
-    "url": "https://github.com/SynaLinks/synalinks"
   },
   {
     "description": "Radicalbit AI Gateway",
@@ -90,6 +225,15 @@
     "url": "https://github.com/sergey-homenko/llm_cost_tracker"
   },
   {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "Python",
+    "name": "dataelement/bisheng",
+    "stars": 12093,
+    "updated_at": "2026-10-29T14:25:12Z",
+    "url": "https://github.com/dataelement/bisheng"
+  },
+  {
     "description": "Control plane for AI agents: durable execution, policy-enforced tool gateway, human approvals, traces, and deterministic",
     "id": "MohamedMahdiCS/agentops-control-plane",
     "language": "Python",
@@ -97,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-10-29T14:08:59Z",
     "url": "https://github.com/MohamedMahdiCS/agentops-control-plane"
-  },
-  {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 32,
-    "updated_at": "2026-10-29T14:08:42Z",
-    "url": "https://github.com/SourceShift/mini-ork"
   },
   {
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
@@ -117,15 +252,6 @@
     "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 62309,
-    "updated_at": "2026-10-29T14:07:35Z",
-    "url": "https://github.com/BerriAI/litellm"
-  },
-  {
     "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
     "id": "redevops-io/agentic-os",
     "language": "Python",
@@ -133,15 +259,6 @@
     "stars": 2,
     "updated_at": "2026-10-29T14:14:32Z",
     "url": "https://github.com/redevops-io/agentic-os"
-  },
-  {
-    "description": "\ud83e\udea2 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
-    "id": "langfuse/langfuse",
-    "language": "TypeScript",
-    "name": "langfuse/langfuse",
-    "stars": 36699,
-    "updated_at": "2026-10-29T14:06:04Z",
-    "url": "https://github.com/langfuse/langfuse"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -160,33 +277,6 @@
     "stars": 54,
     "updated_at": "2026-10-29T14:04:18Z",
     "url": "https://github.com/GeiserX/LynxPrompt"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 3,
-    "updated_at": "2026-10-29T14:02:32Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
-  },
-  {
-    "description": "Self-hostable agentic OS. Build, run & audit multi-agent AI teams from signed plugins. Bring your own LLM key, own all y",
-    "id": "byte5ai/omadia",
-    "language": "TypeScript",
-    "name": "byte5ai/omadia",
-    "stars": 31,
-    "updated_at": "2026-10-29T14:13:33Z",
-    "url": "https://github.com/byte5ai/omadia"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-29T14:00:30Z",
-    "url": "https://github.com/linny006/llmops-radar"
   },
   {
     "description": "runmodel.sh a simple model launcher for llama.cpp / llama-server",
@@ -225,21 +315,12 @@
     "url": "https://github.com/ndom91/llama-dash"
   },
   {
-    "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, ",
-    "id": "vocion/vocion-core",
-    "language": "TypeScript",
-    "name": "vocion/vocion-core",
-    "stars": 2,
-    "updated_at": "2026-10-29T14:14:40Z",
-    "url": "https://github.com/vocion/vocion-core"
-  },
-  {
     "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
     "id": "NVIDIA-NeMo/nemo-helix",
     "language": "Python",
     "name": "NVIDIA-NeMo/nemo-helix",
     "stars": 132,
-    "updated_at": "2026-10-29T14:14:59Z",
+    "updated_at": "2026-10-29T14:30:22Z",
     "url": "https://github.com/NVIDIA-NeMo/nemo-helix"
   },
   {
@@ -257,7 +338,7 @@
     "language": "Python",
     "name": "GetSHIM/shim",
     "stars": 9,
-    "updated_at": "2026-10-29T13:53:33Z",
+    "updated_at": "2026-10-29T14:18:14Z",
     "url": "https://github.com/GetSHIM/shim"
   },
   {
@@ -286,15 +367,6 @@
     "stars": 0,
     "updated_at": "2026-10-29T13:49:16Z",
     "url": "https://github.com/heyvaldemar/dify-traefik-letsencrypt-docker-compose"
-  },
-  {
-    "description": "Regression testing for LLM applications in CI. Sample your reference and a score drop is read against how much that scor",
-    "id": "digline/digline",
-    "language": "Python",
-    "name": "digline/digline",
-    "stars": 9,
-    "updated_at": "2026-10-29T14:14:13Z",
-    "url": "https://github.com/digline/digline"
   },
   {
     "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals",
@@ -347,7 +419,7 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4998,
-    "updated_at": "2026-10-29T14:09:44Z",
+    "updated_at": "2026-10-29T14:24:34Z",
     "url": "https://github.com/langwatch/langwatch"
   },
   {
@@ -369,15 +441,6 @@
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
   },
   {
-    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
-    "id": "dataelement/bisheng",
-    "language": "Python",
-    "name": "dataelement/bisheng",
-    "stars": 12092,
-    "updated_at": "2026-10-29T14:09:12Z",
-    "url": "https://github.com/dataelement/bisheng"
-  },
-  {
     "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
     "id": "Amz34/awesome-agent-infrastructure",
     "language": "Python",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-29T13:03:11Z",
     "url": "https://github.com/Amz34/awesome-agent-infrastructure"
-  },
-  {
-    "description": "Enterprise Scale AIFactory (esml) - on Azure",
-    "id": "jostrm/azure-enterprise-scale-ml",
-    "language": "Python",
-    "name": "jostrm/azure-enterprise-scale-ml",
-    "stars": 53,
-    "updated_at": "2026-10-29T13:02:12Z",
-    "url": "https://github.com/jostrm/azure-enterprise-scale-ml"
-  },
-  {
-    "description": "Event-driven runtime prototype for maintaining accurate shared context about software systems. Local control plane in-pr",
-    "id": "alinafe82/persistent-cognitive-infrastructure",
-    "language": "Python",
-    "name": "alinafe82/persistent-cognitive-infrastructure",
-    "stars": 1,
-    "updated_at": "2026-10-29T13:02:49Z",
-    "url": "https://github.com/alinafe82/persistent-cognitive-infrastructure"
-  },
-  {
-    "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-",
-    "id": "coze-dev/coze-loop",
-    "language": "Go",
-    "name": "coze-dev/coze-loop",
-    "stars": 5792,
-    "updated_at": "2026-10-29T13:04:22Z",
-    "url": "https://github.com/coze-dev/coze-loop"
-  },
-  {
-    "description": "One control plane for every AI asset \u2014 MCP servers, skills, agents, AI apps. Self-hosted ledger with lifecycle state mac",
-    "id": "01men/ybkkasi",
-    "language": "JavaScript",
-    "name": "01men/ybkkasi",
-    "stars": 21,
-    "updated_at": "2026-10-29T13:55:20Z",
-    "url": "https://github.com/01men/ybkkasi"
-  },
-  {
-    "description": "Local-first observability dashboard for AI agents. MCP-native. Look at every span your agents emit.",
-    "id": "JoniMartin27/lookspan",
-    "language": "TypeScript",
-    "name": "JoniMartin27/lookspan",
-    "stars": 7,
-    "updated_at": "2026-10-29T12:50:57Z",
-    "url": "https://github.com/JoniMartin27/lookspan"
-  },
-  {
-    "description": "Self-hosted, multi-tenant LLM gateway: scoped virtual API keys, RBAC, cross-provider failover, PII scrubbing, spend gove",
-    "id": "deziss/llm-secure-gateway",
-    "language": "Python",
-    "name": "deziss/llm-secure-gateway",
-    "stars": 0,
-    "updated_at": "2026-10-29T12:50:51Z",
-    "url": "https://github.com/deziss/llm-secure-gateway"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26586,
-    "updated_at": "2026-10-29T12:50:16Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   }
 ]
