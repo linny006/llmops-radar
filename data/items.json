@@ -1,11 +1,101 @@
 [
   {
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "id": "MakazhanAlpamys/Soup",
+    "language": "Python",
+    "name": "MakazhanAlpamys/Soup",
+    "stars": 9778,
+    "updated_at": "2026-10-29T13:29:10Z",
+    "url": "https://github.com/MakazhanAlpamys/Soup"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-10-29T13:26:12Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "End-to-end Langfuse workshop using a TypeScript Agent to teach the AI engineering loop: tracing, prompt management, moni",
+    "id": "langfuse/langfuse-workshop",
+    "language": "TypeScript",
+    "name": "langfuse/langfuse-workshop",
+    "stars": 59,
+    "updated_at": "2026-10-29T13:25:43Z",
+    "url": "https://github.com/langfuse/langfuse-workshop"
+  },
+  {
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
+    "id": "BerriAI/litellm",
+    "language": "Python",
+    "name": "BerriAI/litellm",
+    "stars": 62303,
+    "updated_at": "2026-10-29T13:29:12Z",
+    "url": "https://github.com/BerriAI/litellm"
+  },
+  {
+    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
+    "id": "mozilla-ai/otari",
+    "language": "Python",
+    "name": "mozilla-ai/otari",
+    "stars": 760,
+    "updated_at": "2026-10-29T13:27:03Z",
+    "url": "https://github.com/mozilla-ai/otari"
+  },
+  {
+    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
+    "id": "a-novel/service-genai",
+    "language": "Go",
+    "name": "a-novel/service-genai",
+    "stars": 2,
+    "updated_at": "2026-10-29T13:20:54Z",
+    "url": "https://github.com/a-novel/service-genai"
+  },
+  {
+    "description": "runmodel.sh a simple model launcher for llama.cpp / llama-server",
+    "id": "ag88/llama.cpp-model-runner",
+    "language": "Shell",
+    "name": "ag88/llama.cpp-model-runner",
+    "stars": 0,
+    "updated_at": "2026-10-29T13:20:00Z",
+    "url": "https://github.com/ag88/llama.cpp-model-runner"
+  },
+  {
+    "description": "The control plane for the redevops.io Agentic Business OS \u2014 Mission Runtime kernel (Python + Go), Projects cockpit, cost",
+    "id": "redevops-io/agentic-os",
+    "language": "Python",
+    "name": "redevops-io/agentic-os",
+    "stars": 2,
+    "updated_at": "2026-10-29T13:19:31Z",
+    "url": "https://github.com/redevops-io/agentic-os"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 3,
+    "updated_at": "2026-10-29T13:25:00Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-29T13:15:31Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "AI trust-boundary gateway for OpenAI, Anthropic, and Gemini.",
     "id": "GetSHIM/shim",
     "language": "Python",
     "name": "GetSHIM/shim",
     "stars": 9,
-    "updated_at": "2026-10-29T13:15:26Z",
+    "updated_at": "2026-10-29T13:15:29Z",
     "url": "https://github.com/GetSHIM/shim"
   },
   {
@@ -14,7 +104,7 @@
     "language": "TypeScript",
     "name": "byte5ai/omadia",
     "stars": 31,
-    "updated_at": "2026-10-29T13:15:03Z",
+    "updated_at": "2026-10-29T13:29:55Z",
     "url": "https://github.com/byte5ai/omadia"
   },
   {
@@ -23,26 +113,8 @@
     "language": "TypeScript",
     "name": "langwatch/langwatch",
     "stars": 4998,
-    "updated_at": "2026-10-29T13:13:21Z",
+    "updated_at": "2026-10-29T13:29:43Z",
     "url": "https://github.com/langwatch/langwatch"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 8,
-    "updated_at": "2026-10-29T13:12:40Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
-    "id": "BerriAI/litellm",
-    "language": "Python",
-    "name": "BerriAI/litellm",
-    "stars": 62302,
-    "updated_at": "2026-10-29T13:14:45Z",
-    "url": "https://github.com/BerriAI/litellm"
   },
   {
     "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
@@ -77,7 +149,7 @@
     "language": "Python",
     "name": "comet-ml/opik",
     "stars": 23014,
-    "updated_at": "2026-10-29T13:09:01Z",
+    "updated_at": "2026-10-29T13:22:19Z",
     "url": "https://github.com/comet-ml/opik"
   },
   {
@@ -86,17 +158,8 @@
     "language": "Python",
     "name": "future-agi/future-agi",
     "stars": 2222,
-    "updated_at": "2026-10-29T13:08:43Z",
+    "updated_at": "2026-10-29T13:22:26Z",
     "url": "https://github.com/future-agi/future-agi"
-  },
-  {
-    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
-    "id": "IgorGanapolsky/mac-yolo-safeguards",
-    "language": "JavaScript",
-    "name": "IgorGanapolsky/mac-yolo-safeguards",
-    "stars": 3,
-    "updated_at": "2026-10-29T13:09:57Z",
-    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -115,6 +178,15 @@
     "stars": 4,
     "updated_at": "2026-10-29T13:06:10Z",
     "url": "https://github.com/ThakiCloud/thakicloud.github.io"
+  },
+  {
+    "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive featur",
+    "id": "dataelement/bisheng",
+    "language": "Python",
+    "name": "dataelement/bisheng",
+    "stars": 12092,
+    "updated_at": "2026-10-29T13:05:28Z",
+    "url": "https://github.com/dataelement/bisheng"
   },
   {
     "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
@@ -142,24 +214,6 @@
     "stars": 1,
     "updated_at": "2026-10-29T13:02:49Z",
     "url": "https://github.com/alinafe82/persistent-cognitive-infrastructure"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-29T13:00:31Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
-    "description": "Durable execution for AI provider calls: crash-safe, idempotent and pollable.",
-    "id": "a-novel/service-genai",
-    "language": "Go",
-    "name": "a-novel/service-genai",
-    "stars": 2,
-    "updated_at": "2026-10-29T13:04:34Z",
-    "url": "https://github.com/a-novel/service-genai"
   },
   {
     "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
@@ -230,7 +284,7 @@
     "language": "Python",
     "name": "dynamiq-ai/dynamiq",
     "stars": 1072,
-    "updated_at": "2026-10-29T13:12:06Z",
+    "updated_at": "2026-10-29T13:21:49Z",
     "url": "https://github.com/dynamiq-ai/dynamiq"
   },
   {
@@ -293,17 +347,8 @@
     "language": "TypeScript",
     "name": "langfuse/langfuse",
     "stars": 36697,
-    "updated_at": "2026-10-29T12:36:38Z",
+    "updated_at": "2026-10-29T13:22:41Z",
     "url": "https://github.com/langfuse/langfuse"
-  },
-  {
-    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "id": "MakazhanAlpamys/Soup",
-    "language": "Python",
-    "name": "MakazhanAlpamys/Soup",
-    "stars": 9778,
-    "updated_at": "2026-10-29T12:36:06Z",
-    "url": "https://github.com/MakazhanAlpamys/Soup"
   },
   {
     "description": "Agentic Runtime",
@@ -365,7 +410,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28585,
-    "updated_at": "2026-10-29T13:14:33Z",
+    "updated_at": "2026-10-29T13:28:19Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -392,17 +437,8 @@
     "language": "Python",
     "name": "overmind-core/overmind",
     "stars": 723,
-    "updated_at": "2026-10-29T12:53:56Z",
+    "updated_at": "2026-10-29T13:21:41Z",
     "url": "https://github.com/overmind-core/overmind"
-  },
-  {
-    "description": "Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets,",
-    "id": "mozilla-ai/otari",
-    "language": "Python",
-    "name": "mozilla-ai/otari",
-    "stars": 759,
-    "updated_at": "2026-10-29T12:52:56Z",
-    "url": "https://github.com/mozilla-ai/otari"
   },
   {
     "description": "Building an open-source coding agent with harness engineering from scratch.",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-29T12:00:54Z",
     "url": "https://github.com/durva7px/Dcode"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 25,
-    "updated_at": "2026-10-29T11:55:53Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "What if OpenAI Deep Research and Dify were one platform? OpenAgent \u2014 harness architecture for rapidly building vertical ",
-    "id": "Haohao-end/openagent",
-    "language": "Python",
-    "name": "Haohao-end/openagent",
-    "stars": 774,
-    "updated_at": "2026-10-29T11:54:04Z",
-    "url": "https://github.com/Haohao-end/openagent"
-  },
-  {
-    "description": "LLM spend tracking and budgets for Rails \u2014 by user, feature, or any tag, in your own database, no proxy.",
-    "id": "sergey-homenko/llm_cost_tracker",
-    "language": "Ruby",
-    "name": "sergey-homenko/llm_cost_tracker",
-    "stars": 45,
-    "updated_at": "2026-10-29T12:36:59Z",
-    "url": "https://github.com/sergey-homenko/llm_cost_tracker"
-  },
-  {
-    "description": "A self-updating, auto-classified map of the GenAI engineering stack: agents, MCP, memory, RAG, evals, LLMOps, AI securit",
-    "id": "alebgl77/awesome-ai-architect",
-    "language": "Python",
-    "name": "alebgl77/awesome-ai-architect",
-    "stars": 0,
-    "updated_at": "2026-10-29T11:29:52Z",
-    "url": "https://github.com/alebgl77/awesome-ai-architect"
   }
 ]
