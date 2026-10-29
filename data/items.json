@@ -1,11 +1,83 @@
 [
   {
+    "description": "One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary.",
+    "id": "respanai/respan-gateway",
+    "language": "Rust",
+    "name": "respanai/respan-gateway",
+    "stars": 375,
+    "updated_at": "2026-10-29T00:21:19Z",
+    "url": "https://github.com/respanai/respan-gateway"
+  },
+  {
+    "description": "LLM Systems Manager \u2014 real-time observability and control for LLM systems",
+    "id": "llmsyscore/llm-systems-manager",
+    "language": "Python",
+    "name": "llmsyscore/llm-systems-manager",
+    "stars": 12,
+    "updated_at": "2026-10-29T00:21:16Z",
+    "url": "https://github.com/llmsyscore/llm-systems-manager"
+  },
+  {
+    "description": "Fail-closed SOC alert triage agent on Google Cloud: ADK + Gemini, BigQuery ML, FastAPI, Cloud Run.",
+    "id": "YouFoundTheDev/sentinel-triage",
+    "language": "Python",
+    "name": "YouFoundTheDev/sentinel-triage",
+    "stars": 0,
+    "updated_at": "2026-10-29T00:20:14Z",
+    "url": "https://github.com/YouFoundTheDev/sentinel-triage"
+  },
+  {
+    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
+    "id": "toxicwind/ranch",
+    "language": "Rust",
+    "name": "toxicwind/ranch",
+    "stars": 0,
+    "updated_at": "2026-10-29T00:18:10Z",
+    "url": "https://github.com/toxicwind/ranch"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26563,
+    "updated_at": "2026-10-29T00:17:15Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Self-hosted & federated platform for AI IDE/Tools Rules and Commands via WebUI & CLI - Generate, browse, store, share AG",
+    "id": "GeiserX/LynxPrompt",
+    "language": "TypeScript",
+    "name": "GeiserX/LynxPrompt",
+    "stars": 54,
+    "updated_at": "2026-10-29T00:16:59Z",
+    "url": "https://github.com/GeiserX/LynxPrompt"
+  },
+  {
+    "description": "AI agent execution governance: pre-effect authorization, single-use permissions, policy enforcement, and verifiable reco",
+    "id": "veritasfuji-japan/veritas_os",
+    "language": "Python",
+    "name": "veritasfuji-japan/veritas_os",
+    "stars": 41,
+    "updated_at": "2026-10-29T00:24:20Z",
+    "url": "https://github.com/veritasfuji-japan/veritas_os"
+  },
+  {
+    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
+    "id": "linny006/llmops-radar",
+    "language": "Python",
+    "name": "linny006/llmops-radar",
+    "stars": 3,
+    "updated_at": "2026-10-29T00:15:29Z",
+    "url": "https://github.com/linny006/llmops-radar"
+  },
+  {
     "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tra",
     "id": "BerriAI/litellm",
     "language": "Python",
     "name": "BerriAI/litellm",
     "stars": 62250,
-    "updated_at": "2026-10-29T00:15:15Z",
+    "updated_at": "2026-10-29T00:24:50Z",
     "url": "https://github.com/BerriAI/litellm"
   },
   {
@@ -36,24 +108,6 @@
     "url": "https://github.com/Peter-A-P/compliant-ai-gateway"
   },
   {
-    "description": "Self-hosted & federated platform for AI IDE/Tools Rules and Commands via WebUI & CLI - Generate, browse, store, share AG",
-    "id": "GeiserX/LynxPrompt",
-    "language": "TypeScript",
-    "name": "GeiserX/LynxPrompt",
-    "stars": 54,
-    "updated_at": "2026-10-29T00:06:26Z",
-    "url": "https://github.com/GeiserX/LynxPrompt"
-  },
-  {
-    "description": "Live index of the newest LLMOps tooling \u2014 track what's shipping in LLM observability and deployment",
-    "id": "linny006/llmops-radar",
-    "language": "Python",
-    "name": "linny006/llmops-radar",
-    "stars": 3,
-    "updated_at": "2026-10-29T00:00:25Z",
-    "url": "https://github.com/linny006/llmops-radar"
-  },
-  {
     "description": "Enterprise Scale AIFactory (esml) - on Azure",
     "id": "jostrm/azure-enterprise-scale-ml",
     "language": "Python",
@@ -72,15 +126,6 @@
     "url": "https://github.com/acornops/acornops-deployment"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26562,
-    "updated_at": "2026-10-29T00:07:07Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "VP / Head of AI Engineering portfolio \u2014 14 production AI demos, governance-first architecture. prasadkavuri.com",
     "id": "prasad-kavuri/prasad-portfolio",
     "language": "TypeScript",
@@ -88,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-28T23:44:43Z",
     "url": "https://github.com/prasad-kavuri/prasad-portfolio"
-  },
-  {
-    "description": "Fail-closed SOC alert triage agent on Google Cloud: ADK + Gemini, BigQuery ML, FastAPI, Cloud Run.",
-    "id": "YouFoundTheDev/sentinel-triage",
-    "language": "Python",
-    "name": "YouFoundTheDev/sentinel-triage",
-    "stars": 0,
-    "updated_at": "2026-10-28T23:44:28Z",
-    "url": "https://github.com/YouFoundTheDev/sentinel-triage"
   },
   {
     "description": "NeMo Helix: Make the agents you ship faster, more accurate, and safer.",
@@ -122,7 +158,7 @@
     "language": "Python",
     "name": "mlflow/mlflow",
     "stars": 28577,
-    "updated_at": "2026-10-28T23:37:02Z",
+    "updated_at": "2026-10-29T00:21:27Z",
     "url": "https://github.com/mlflow/mlflow"
   },
   {
@@ -160,15 +196,6 @@
     "stars": 2,
     "updated_at": "2026-10-28T23:18:58Z",
     "url": "https://github.com/ainsel-project/ainsel"
-  },
-  {
-    "description": "The self-hosted LLM estate in one monorepo \u2014 local model serving, cloud provider routing, MCP gateway, build jobs. All O",
-    "id": "toxicwind/ranch",
-    "language": "Rust",
-    "name": "toxicwind/ranch",
-    "stars": 0,
-    "updated_at": "2026-10-28T23:06:29Z",
-    "url": "https://github.com/toxicwind/ranch"
   },
   {
     "description": "Searchable Excalidraw library for system design interviews and agentic AI architecture: 292 items, UI wireframes, patter",
@@ -275,17 +302,8 @@
     "language": "TypeScript",
     "name": "ALLMA-dev/allma-core",
     "stars": 2,
-    "updated_at": "2026-10-29T00:15:06Z",
+    "updated_at": "2026-10-29T00:18:07Z",
     "url": "https://github.com/ALLMA-dev/allma-core"
-  },
-  {
-    "description": "One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary.",
-    "id": "respanai/respan-gateway",
-    "language": "Rust",
-    "name": "respanai/respan-gateway",
-    "stars": 375,
-    "updated_at": "2026-10-28T22:28:14Z",
-    "url": "https://github.com/respanai/respan-gateway"
   },
   {
     "description": "Management console for AcornOps, providing the browser UI for workspaces, targets, runs, agents, and platform operations",
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-28T21:10:45Z",
     "url": "https://github.com/NordsteinSoftware/Proxytrace"
-  },
-  {
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attack",
-    "id": "SourceShift/mini-ork",
-    "language": "Python",
-    "name": "SourceShift/mini-ork",
-    "stars": 32,
-    "updated_at": "2026-10-28T21:06:09Z",
-    "url": "https://github.com/SourceShift/mini-ork"
-  },
-  {
-    "description": "A semantic cache for LLM calls, measured on requests its thresholds were never chosen on. An entity guard lets it cut 79",
-    "id": "Broikos-Nikos/semcache",
-    "language": "TypeScript",
-    "name": "Broikos-Nikos/semcache",
-    "stars": 0,
-    "updated_at": "2026-10-28T21:03:22Z",
-    "url": "https://github.com/Broikos-Nikos/semcache"
   }
 ]
